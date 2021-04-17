@@ -34,7 +34,7 @@ I should probably mention that this is intended to be an 'official' translation 
 
 ### status.rpy
 
-* At line 20-216: Used <i>positivo/negativo</i> \[<i>positive/negative</i>\] in place of <i>buono/cattivo</i> \[<i>good/bad</i>\], as <i>cattivo</i> \[<i>bad</i>\] is more commonly understood as \[<i>mean</i>, <i>evil</i>\]. An alternative would be <i>amichevole/ostile</i> \[<i>friendly/hostile</i>\].
+* At line 20-216: Used <i>positivo</i>/<i>negativo</i> \[<i>positive</i>/<i>negative</i>\] in place of <i>buono</i>/<i>cattivo</i> \[<i>good</i>/<i>bad</i>\], as <i>cattivo</i> \[<i>bad</i>\] is more commonly understood as \[<i>mean</i>, <i>evil</i>\]. An alternative would be <i>amichevole</i>/<i>ostile</i> \[<i>friendly</i>/<i>hostile</i>\].
 
 ### help.rpy
 
