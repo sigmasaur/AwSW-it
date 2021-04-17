@@ -4,153 +4,153 @@ translate italiantl strings:
 
     # images.rpy:1137
     old "Remy"
-    new ""
+    new "Remy"
 
     # images.rpy:1138
     old "Sebastian"
-    new ""
+    new "Sebastian"
 
     # images.rpy:1139
     old "Reza"
-    new ""
+    new "Reza"
 
     # images.rpy:1140
     old "Maverick"
-    new ""
+    new "Maverick"
 
     # images.rpy:1141
     old "Anna"
-    new ""
+    new "Anna"
 
     # images.rpy:1142
     old "Adine"
-    new ""
+    new "Adine"
 
     # images.rpy:1143
     old "Bryce"
-    new ""
+    new "Bryce"
 
     # images.rpy:1144
     old "Zhong"
-    new ""
+    new "Zhong"
 
     # images.rpy:1145
     old "Emera"
-    new ""
+    new "Emera"
 
     # images.rpy:1148
     old "Vara"
-    new ""
+    new "Vara"
 
     # images.rpy:1149
     old "Damion"
-    new ""
+    new "Damion"
 
     # images.rpy:1150
     old "Amely"
-    new ""
+    new "Amely"
 
     # images.rpy:1151
     old "The Administrator"
-    new ""
+    new "L'Amministratore"
 
     # images.rpy:1152
     old "Izumi"
-    new ""
+    new "Izumi"
 
     # images.rpy:1153
     old "Heinz"
-    new ""
+    new "Heinz"
 
     # images.rpy:1154
     old "Francois"
-    new ""
+    new "Francois"
 
     # images.rpy:1155
     old "Sybil"
-    new ""
+    new "Sybil"
 
     # images.rpy:1157
     old "Food Vendor"
-    new ""
+    new "Venditore di Alimentari"
 
     # images.rpy:1158
     old "Waiter"
-    new ""
+    new "Cameriere"
 
     # images.rpy:1159
     old "Store Clerk"
-    new ""
+    new "Commesso del Negozio"
 
     # images.rpy:1161
     old "Katsuharu"
-    new ""
+    new "Katsuharu"
 
     # images.rpy:1162
     old "Kevin"
-    new ""
+    new "Kevin"
 
     # images.rpy:1164
     old "Dramavian"
-    new ""
+    new "Dramavian"
 
     # images.rpy:1165
     old "Xith"
-    new ""
+    new "Xith"
 
     # images.rpy:1166
     old "Lucius"
-    new ""
+    new "Lucius"
 
     # images.rpy:1167
     old "Ophinia"
-    new ""
+    new "Ophinia"
 
     # images.rpy:1168
     old "Kalinth"
-    new ""
+    new "Kalinth"
 
     # images.rpy:1169
     old "Grey"
-    new ""
+    new "Grey"
 
     # images.rpy:1170
     old "Leymas"
-    new ""
+    new "Leymas"
 
     # images.rpy:1171
     old "Quas"
-    new ""
+    new "Quas"
 
     # images.rpy:1173
     old "Huang Fu"
-    new ""
+    new "Huang Fu"
 
     # images.rpy:1174
     old "Xiuying"
-    new ""
+    new "Xiuying"
 
     # images.rpy:1176
     old "Lorem"
-    new ""
+    new "Lorem"
 
     # images.rpy:1177
     old "Ipsum"
-    new ""
+    new "Ipsum"
 
     # images.rpy:1688
     old "English {image=lang-en.png}"
-    new ""
+    new "English {image=lang-en.png}"
 
     # images.rpy:1688
     old "{font=nihongo.otf}日本語{/font} {image=lang-jp.png}"
-    new ""
+    new "{font=nihongo.otf}日本語{/font} {image=lang-jp.png}"
 
     # images.rpy:1712
     old "English {image=lang-en2.png}"
-    new ""
+    new "English {image=lang-en2.png}"
 
     # images.rpy:1712
     old "{font=nihongo.otf}日本語{/font} {image=lang-jp2.png}"
-    new ""
+    new "{font=nihongo.otf}日本語{/font} {image=lang-jp2.png}"
 

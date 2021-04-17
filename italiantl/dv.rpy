@@ -4,9 +4,9 @@ translate italiantl strings:
 
     # dv.rpy:46
     old "No variables have changed since the game started."
-    new ""
+    new "Nessuna variabile è cambiata dall'inizio del gioco."
 
     # dv.rpy:734
     old "ESC to quit."
-    new ""
+    new "Esc per uscire."
 

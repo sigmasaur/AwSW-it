@@ -4,13 +4,13 @@ translate italiantl strings:
 
     # script.rpy:34
     old "Player"
-    new ""
+    new "Giocatore"
 
     # script.rpy:35
     old "System"
-    new ""
+    new "Sistema"
 
     # script.rpy:36
     old "Click to Begin"
-    new ""
+    new "Clic per Iniziare"
 

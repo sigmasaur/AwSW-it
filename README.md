@@ -2,7 +2,17 @@
 
 ## Status
 
-Just started, currently working on the non-story-related files.
+Currently working on the main chapters. Files done:
+
+    common.rpy
+    dv.rpy
+    screens.rpy
+    status.rpy
+    help.rpy
+    images.rpy
+    script.rpy
+
+Also fixed `Ardnas.otf` as it was missing a few accented vowels.
 
 ## How can I participate?
 
@@ -19,3 +29,13 @@ I should probably mention that this is intended to be an 'official' translation 
 [4]:https://discord.com/users/638007218670796832/
 [5]:https://github.com/sigmasaur/AwSW-it/discussions/
 [6]:https://1drv.ms/u/s!AizmqTe1iFZrhYt-GIuCq4MLa9Ki2A?e=46qKmV
+
+## Notes
+
+### status.rpy
+
+* At line 20-216: Used <i>positivo/negativo</i> \[<i>positive/negative</i>\] in place of <i>buono/cattivo</i> \[<i>good/bad</i>\], as <i>cattivo</i> \[<i>bad</i>\] is more commonly understood as \[<i>mean</i>, <i>evil</i>\]. An alternative would be <i>amichevole/ostile</i> \[<i>friendly/hostile</i>\].
+
+### help.rpy
+
+* At line 13: Used `space` tags in place of plain spaces to obtain a better alignment at a target resolution of 1920 x 1080, hope it's ok. There has to be a better way though.
