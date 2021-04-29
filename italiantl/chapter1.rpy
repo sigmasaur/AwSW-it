@@ -4106,7 +4106,7 @@ translate italiantl quest5_1a76e383:
 translate italiantl quest5_3f970c7c:
 
     # Br "Excuse me?"
-    Br "Scusa?"
+    Br "Scusami?"
 
 # game/chapter1.rpy:3509
 translate italiantl quest5_18dd0115:
