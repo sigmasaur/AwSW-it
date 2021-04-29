@@ -3986,7 +3986,7 @@ translate italiantl quest4_00bcf583:
 translate italiantl quest4_b628c4fd:
 
     # Br "And from the location, it's pretty obvious this must have done tremendous damage."
-    Br "E a giudicare dalla posizione, è abbastanza evidente che deve aver provocato un danno tremendo."
+    Br "E a giudicare dalla posizione, è piuttosto evidente che deve aver provocato un danno tremendo."
 
 # game/chapter1.rpy:3435
 translate italiantl quest4_f2232d68:
@@ -4010,7 +4010,7 @@ translate italiantl quest5_122763b9:
 translate italiantl quest5_dd470157:
 
     # Br "It is a lot of blood, I'll give you that, but I don't think this has anything to do with hemophilia."
-    Br "È parecchio sangue, te lo concedo, ma non penso che abbia niente a che vedere con l'emofilia."
+    Br "È parecchio sangue, te lo concedo, ma non penso che questo abbia niente a che vedere con l'emofilia."
 
 # game/chapter1.rpy:3459
 translate italiantl quest5_bf9677c8:
