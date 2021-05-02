@@ -36,9 +36,11 @@ I should probably mention that this is intended to be an 'official' translation 
 
 ## Notes
 
+The following are mostly to the benefit of the developer and translators.
+
 ### status.rpy
 
-* At line 20-216: *good*/*bad* → *positive*/*negative*, as *bad* \[*cattivo*\] is more commonly understood as *mean* or *evil*. An alternative would be *friendly*/*hostile*.
+* At line 20-216: *good*/*bad* → *positive*/*negative*, as *bad* \[<i>cattivo</i>\] is more commonly understood as *mean* or *evil*. An alternative would be *friendly*/*hostile*.
 
 ### help.rpy
 
@@ -51,11 +53,11 @@ I should probably mention that this is intended to be an 'official' translation 
 * At line 436, 2837: Corrected colon to dot to preserve the capital letter.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1358: Corrected number of dots from two to three.
-* At line 2109, 2176, 2395, 2735, 3352: Slightly compressed to fit fewer lines.
-* At line 2348-2352, 2389-2395, 2410-2415: Assumed the narrator's gender by necessity.
-* At line 2737: Slightly changed *isn't it fascinating* to add an obvious pun without loss of meaning.
-* At line 2747: Slightly changed to strengthen the pun, but it might still be too weak.
+* At line 2109, 2176, 2395, 2735, 3352: Slightly pruned to fit fewer lines.
+* At line 2348-2352, 2389-2395, 2410-2415: Assumed the author's gender by necessity.
+* At line 2737: Slightly adapted *isn't it fascinating* to add an obvious pun without loss of meaning.
+* At line 2747: Slightly adapted to strengthen the pun, but it might still be too weak.
 * At line 3068: *PDAs* → *PDA*.
 * At line 3226: *RIP* → *rest in peace*, for elegance.
-* At line 3352: Slightly changed to match the variant at line 3344.
-* At line 3609: Slightly changed to preserve a pun.
+* At line 3352: Slightly adapted to match line 3344 so that they both fit line 3367, and precisely lines 3384/3391.
+* At line 3609: Slightly adapted to preserve a pun.

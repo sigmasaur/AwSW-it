@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/chapter1.rpy:56
 translate italiantl nameentryx_dc71aba9:
@@ -160,7 +160,7 @@ translate italiantl begingame_c9f110ae:
 translate italiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Avevo già sentito di una simile tecnologia, ma perlopiù a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato ed erano stati presi in considerazione per l'applicazione di massa. Di questo, tuttavia, ignoravamo chi e quando l'avesse costruito - o perché l'avessimo trovato nella desolazione in cui l'abbiamo trovato. Ciò che per noi fu più entusiasmante era il fatto che fosse... funzionante." # were in consideration -> had been in consideration
+    n "Avevo già sentito di una simile tecnologia, ma perlopiù a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato ed erano stati presi in considerazione per l'applicazione di massa. Di questo, tuttavia, ignoravamo chi e quando l'avesse costruito—o perché l'avessimo trovato nella desolazione in cui l'abbiamo trovato. Ciò che per noi fu più entusiasmante era il fatto che fosse... funzionante." # were in consideration -> had been in consideration, also used em-dash
 
 # game/chapter1.rpy:433
 translate italiantl begingame_337d015e:
@@ -230,7 +230,7 @@ translate italiantl begingame_82f1d7da:
     # nvl clear
     # n "When the day finally came, through he went, with applause echoing across the area - equipped only with the clothes he wore, his multi-tool, a gun and a device on his wrist that acted as a PDA."
     nvl clear
-    n "Quando il giorno finalmente giunse, nell'echeggiare degli applausi in tutta l'area, vi passò attraverso - equipaggiato solo dei vestiti che indossava, il suo multi-utensile, una pistola e un dispositivo al polso che fungeva da palmare."
+    n "Quando il giorno finalmente giunse, nell'echeggiare degli applausi in tutta l'area, vi passò attraverso—equipaggiato solo dei vestiti che indossava, il suo multi-utensile, una pistola e un dispositivo al polso che fungeva da palmare." # used em dash
 
 # game/chapter1.rpy:458
 translate italiantl begingame_76b2fe88_2:
@@ -292,7 +292,7 @@ translate italiantl begingame_273be6cf:
 translate italiantl begingame_942d3fc8:
 
     # n "From what he described about the place - or, more accurately, its inhabitants - we surmised it could not be part of Earth at all."
-    n "Da quello che descriveva del luogo - o, più precisamente, dei suoi abitanti - ipotizzammo che poteva non trovarsi affatto sulla Terra."
+    n "Da quello che descriveva del luogo—o, più precisamente, dei suoi abitanti—ipotizzammo che poteva non trovarsi affatto sulla Terra." # used em-dash
 
 # game/chapter1.rpy:472
 translate italiantl begingame_b4430af1:
@@ -518,7 +518,7 @@ translate italiantl holetravel_76b2fe88:
 translate italiantl holetravel_7941b5bd:
 
     # Ry "In the name of our people, I bid you welcome. If I may introduce myself, I am Remy, your guide and ambassador - a representative of our council."
-    Ry "In nome del nostro popolo, ti do il benvenuto. Se posso presentarmi, io sono [Ry], tua guida e ambasciatore - un rappresentante del nostro consiglio."
+    Ry "In nome del nostro popolo, ti do il benvenuto. Se posso presentarmi, io sono [Ry], tua guida e ambasciatore—un rappresentante del nostro consiglio." # used em-dash
 
 # game/chapter1.rpy:664
 translate italiantl holetravel_b40dd6f0:
@@ -1362,13 +1362,13 @@ translate italiantl _call_skipcheck_3_5fc1536a:
 translate italiantl _call_skipcheck_3_3bf4c97d:
 
     # Rz "..."
-    Rz "..."
+    Rz "... "
 
 # game/chapter1.rpy:1640
 translate italiantl _call_skipcheck_3_600f3c23:
 
     # m "We were approached by an individual who appeared to be the waitress of the café. She was an interesting-looking dragon, who - unlike the others I had seen so far - was more akin to a wyvern, possessing two rather large wings as her forelimbs, which resembled those of an oversized bat."
-    m "Fummo avvicinati da un individuo che pareva essere la cameriera della caffetteria. Era una dragonessa dall'aspetto interessante, la quale - a differenza degli altri che avevo visto finora - era più simile a una viverna, possedendo quali arti anteriori due ali piuttosto grandi, che assomigliavano a quelle di un pipistrello fuori misura."
+    m "Fummo avvicinati da un individuo che pareva essere la cameriera della caffetteria. Era una dragonessa dall'aspetto interessante, la quale—a differenza degli altri che avevo visto finora—era più simile a una viverna, possedendo quali arti anteriori due ali piuttosto grandi, che assomigliavano a quelle di un pipistrello fuori misura." # used em-dash
 
 # game/chapter1.rpy:1651
 translate italiantl _call_skipcheck_3_68833c8b:
@@ -1380,13 +1380,13 @@ translate italiantl _call_skipcheck_3_68833c8b:
 translate italiantl _call_skipcheck_3_3bf4c97d_1:
 
     # Rz "..."
-    Rz "..."
+    Rz "... "
 
 # game/chapter1.rpy:1666
 translate italiantl _call_skipcheck_3_3bf4c97d_2:
 
     # Rz "..."
-    Rz "..."
+    Rz "... "
 
 # game/chapter1.rpy:1670
 translate italiantl _call_skipcheck_3_e063487c:
@@ -1530,7 +1530,7 @@ translate italiantl _call_skipcheck_3_236e1242:
 translate italiantl _call_skipcheck_3_2355e57c:
 
     # Ad "..."
-    Ad "..."
+    Ad "... "
 
 # game/chapter1.rpy:1774
 translate italiantl _call_skipcheck_3_f73d296c:
@@ -2894,7 +2894,7 @@ translate italiantl _call_syscheck_11_7f70b567:
 translate italiantl _call_syscheck_11_c3a06d2e:
 
     # c "(Not only that, but it is also mentioned in Greek mythology. Isn't it fascinating?)"
-    c "(Non solo, ma è anche menzionato nella mitologia Greca. Fico, vero?)" # Slightly changed to add a pun without loss of meaning
+    c "(Non solo, ma è anche menzionato nella mitologia Greca. Fico, vero?)" # slightly adapted to add a pun without loss of meaning
 
 # game/chapter1.rpy:2738
 translate italiantl _call_syscheck_11_1e35e980:
@@ -2924,7 +2924,7 @@ translate italiantl _call_syscheck_11_9ca3ba4e:
 translate italiantl _call_syscheck_11_4c8f346f:
 
     # c "(There are two of them. What a nice pear.)"
-    c "(Ce n'è pere-cchie. Che cornuco-pera.)" # Slightly changed to strengthen the pun, but it's still weak imo
+    c "(Ce n'è pere-cchie. Che cornuco-pera.)" # slightly adapted to strengthen the pun, but it's still weak imo
 
 # game/chapter1.rpy:2753
 translate italiantl _call_syscheck_11_9c2c9e41:
@@ -3008,19 +3008,19 @@ translate italiantl continuation_3df38fec:
 translate italiantl continuation_3bf4c97d:
 
     # Rz "..."
-    Rz "..."
+    Rz "... "
 
 # game/chapter1.rpy:2816
 translate italiantl continuation_3bf4c97d_1:
 
     # Rz "..."
-    Rz "..."
+    Rz "... "
 
 # game/chapter1.rpy:2819
 translate italiantl continuation_3bf4c97d_2:
 
     # Rz "..."
-    Rz "..."
+    Rz "... "
 
 # game/chapter1.rpy:2822
 translate italiantl continuation_5fa1e9f6:
@@ -3698,7 +3698,7 @@ translate italiantl investigation_4e50b6d1:
 translate italiantl investigation_d8d4bfc8:
 
     # Br "..."
-    Br "..."
+    Br "... "
 
 # game/chapter1.rpy:3224
 translate italiantl investigation_3866bd40:
@@ -3854,7 +3854,7 @@ translate italiantl quest2_7a5556cf:
 translate italiantl quest2_42490ba7:
 
     # Br "Yeah. If it was him, why would he kill someone with a knife rather than just use this \"gun\" on him?"
-    Br "Già. Se è stato lui, quale ragione avrebbe avuto per uccidere qualcuno con un coltello piuttosto che usare semplicemente questa \"pistola\" contro di lui?" # slightly changed to match the variant at line 3344
+    Br "Già. Se è stato lui, quale ragione avrebbe avuto per uccidere qualcuno con un coltello piuttosto che usare semplicemente questa \"pistola\" contro di lui?" # slightly adapted to match line 3344
 
 # game/chapter1.rpy:3356
 translate italiantl quest2_72b958a5:
@@ -4022,7 +4022,7 @@ translate italiantl quest5_bf9677c8:
 translate italiantl quest5_d19f855d:
 
     # c "..."
-    c "..."
+    c "... "
 
 # game/chapter1.rpy:3465
 translate italiantl quest5_2e8a7b46:
@@ -4046,7 +4046,7 @@ translate italiantl quest5_f913b41f:
 translate italiantl quest5_ac0be0ab:
 
     # Br "Well, there is no blood anywhere else in the vicinity that would suggest that. Unless the perpetrator had the time to clean up some of it."
-    Br "Be', non c'è sangue da nessun'altra parte nelle vicinanze che lo indichi. A meno che il responsabile non abbia avuto il tempo di pulirne una parte."
+    Br "Be', non c'è sangue da nessun'altra parte nelle vicinanze che lo indichi. A meno che l'aggressore non abbia avuto il tempo di pulirne una parte."
 
 # game/chapter1.rpy:3486
 translate italiantl quest5_9e24a4c4:
@@ -4094,7 +4094,7 @@ translate italiantl quest5_7c20a52f:
 translate italiantl quest5_7d2a0f75:
 
     # Br "Unfortunately, it doesn't help with determining who the perpetrator is."
-    Br "Sfortunatamente, non è di aiuto a determinare chi sia il responsabile."
+    Br "Sfortunatamente, non è di aiuto a determinare chi sia l'aggressore."
 
 # game/chapter1.rpy:3506
 translate italiantl quest5_1a76e383:
@@ -4142,7 +4142,7 @@ translate italiantl quest6_6da252ec:
 translate italiantl quest6_116a375c:
 
     # c "It might be the perpetrator's blood."
-    c "Potrebbe trattarsi del sangue del responsabile."
+    c "Potrebbe trattarsi del sangue dell'aggressore."
 
 # game/chapter1.rpy:3540
 translate italiantl quest6_bfce32ae:
@@ -4166,7 +4166,7 @@ translate italiantl quest6_ad271f6e:
 translate italiantl quest6_e9ff846e:
 
     # Br "Yes, that is true. I expect forensics already took a sample of it, so it might actually help us determine who the perpetrator is."
-    Br "Sì, questo è vero. Mi aspetto che la scientifica ne abbia già preso un campione, cosicché possa effettivamente aiutarci a determinare chi sia il responsabile."
+    Br "Sì, questo è vero. Mi aspetto che la scientifica ne abbia già preso un campione, cosicché possa effettivamente aiutarci a determinare chi sia l'aggressore."
 
 # game/chapter1.rpy:3558
 translate italiantl quest6_b4f8e17e:
@@ -4196,7 +4196,7 @@ translate italiantl _call_syscheck_13_19e2bb77:
 translate italiantl _call_syscheck_13_593bcccd:
 
     # s "You did well on the first investigation. Achoo- I mean, achievement unlocked."
-    s "Te la sei cavata bene nella prima investigazione. Eccì- Voglio dire, eccellente." # Slightly changed to preserve a pun
+    s "Te la sei cavata bene nella prima investigazione. Eccì- Voglio dire, eccellente." # slightly adapted to preserve a pun
 
 # game/chapter1.rpy:3613
 translate italiantl _call_syscheck_13_9cf7f4d5:
@@ -4400,7 +4400,7 @@ translate italiantl _call_syscheck_13_dd20ffbf:
 translate italiantl _call_syscheck_13_903f6637:
 
     # Sb "..."
-    Sb "..."
+    Sb "... "
 
 # game/chapter1.rpy:3712
 translate italiantl _call_syscheck_13_ac0c64de:
@@ -5160,7 +5160,7 @@ translate italiantl strings:
 
     # chapter1.rpy:3296
     old "The perpetrator was an unusually large or small person."
-    new "Il responsabile era una persona insolitamente grande o piccola."
+    new "L'aggressore era una persona insolitamente grande o piccola."
 
     # chapter1.rpy:3296
     old "He was already dead when he got these wounds."
