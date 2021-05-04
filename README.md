@@ -50,6 +50,7 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 385, 408: *to skip seen messages* → *to skip messages*, as it depends on the user's preference.
 * At line 431: *were in consideration* → *had been in consideration*, as we're supposedly talking of the period before the solar flare.
+* At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
 * At line 436, 2837: Corrected colon to dot to preserve the capital letter.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1358: Corrected number of dots from two to three.

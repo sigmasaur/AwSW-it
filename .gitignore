@@ -130,4 +130,6 @@ dmypy.json
 
 # other
 .vscode
+/*tl
+!/italiantl
 *.rpyc

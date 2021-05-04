@@ -160,7 +160,7 @@ translate italiantl begingame_c9f110ae:
 translate italiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Avevo già sentito di una simile tecnologia, ma perlopiù a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato ed erano stati presi in considerazione per l'applicazione di massa. Di questo, tuttavia, ignoravamo chi e quando l'avesse costruito—o perché l'avessimo trovato nella desolazione in cui l'abbiamo trovato. Ciò che per noi fu più entusiasmante era il fatto che fosse... funzionante." # were in consideration -> had been in consideration, also used em-dash
+    n "Avevo già sentito di una simile tecnologia, ma perlopiù a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi e quando l'avesse costruito—o perché l'avessimo trovato nella desolazione in cui l'abbiamo trovato. Ma ciò che per noi fu più entusiasmante era il fatto che fosse... funzionante." # were in consideration -> had been in consideration, also used em-dash
 
 # game/chapter1.rpy:433
 translate italiantl begingame_337d015e:
@@ -650,7 +650,7 @@ translate italiantl holetravel_7ce680cd:
 translate italiantl holetravel_0066f440:
 
     # n "I could see movement outside, and as I drew nearer, startled, I could hear footsteps in the grass, moving away quickly. Assuming it must have been the dragon I just met, I thought nothing of it as I went to bed and slowly succumbed to the sweet allure of sleep overdue."
-    n "Riuscii a scorgere del movimento all'esterno, e nell'avvicinarmi, allarmatə, riuscii a sentire il rumore di passi nell'erba, allontanarsi velocemente. Presumendo che fossero del drago che avevo appena incontrato, non vi diedi peso mentre andavo a dormire e lentamente soccombevo al dolce richiamo del sonno arretrato."
+    n "Riuscii a scorgere del movimento all'esterno, e nell'avvicinarmi, allarmatə, riuscii a sentire il rumore di passi nell'erba allontanarsi velocemente. Presumendo che fossero del drago che avevo appena incontrato, non vi diedi peso mentre andavo a dormire e lentamente soccombevo al dolce richiamo del sonno arretrato."
 
 # game/chapter1.rpy:733
 translate italiantl holetravel_344cc935:
@@ -1158,7 +1158,7 @@ translate italiantl _call_skipcheck_2_a0d5dc78:
 translate italiantl _call_skipcheck_2_35e7a623:
 
     # An "Great."
-    An "Fantastico."
+    An "Ottimo."
 
 # game/chapter1.rpy:1480
 translate italiantl _call_skipcheck_2_ff60882c:
@@ -1778,7 +1778,7 @@ translate italiantl _call_syscheck_6_8b6c00cc:
 translate italiantl _call_syscheck_6_e9146df2:
 
     # c "The whole thing where she lost it, because we were humans. How unprofessional. Besides, I don't believe in tipping."
-    c "Tutta la parte in cui ha perso la testa, perché eravamo degli umani. Davvero poco professionale. Per di più, io non credo nelle mance."
+    c "Tutta la parte in cui ha perso la testa, perché eravamo degli umani. Davvero poco professionale. E poi, io non credo nelle mance."
 
 # game/chapter1.rpy:1895
 translate italiantl _call_syscheck_6_09595634:
@@ -1856,13 +1856,13 @@ translate italiantl _call_syscheck_6_221afd4f:
 translate italiantl _call_syscheck_6_bb967794:
 
     # n "I found the kitchen fully stocked with plenty of groceries, though the variety was wasted on me. I hadn't been a particularly great cook in the first place, but what was more, I didn't even recognize some of the things I found there."
-    n "Trovai la cucina completamente fornita di cibarie in abbondanza, sebbene una tale varietà fosse sprecata con me. Non ero unə cuocə particolarmente capace in primo luogo, ma quel che è peggio, era che non riconoscevo nemmeno alcune delle cose che vi trovai."
+    n "Trovai la cucina completamente fornita di cibarie in abbondanza, sebbene una tale varietà fosse sprecata con me. Tanto per cominciare non ero unə cuocə particolarmente capace, ma quel che è peggio, era che non riconoscevo nemmeno alcune delle cose che vi trovai."
 
 # game/chapter1.rpy:1937
 translate italiantl _call_syscheck_6_f529b0b1:
 
     # n "Whether they were edibles that we had back home that I just didn't know about, or something completely alien I wasn't sure, but I didn't want to take the risk of eating anything I didn't know."
-    n "Se fossero stati commestibili che avevamo anche a casa e di cui semplicemente non sapevo, o qualcosa di completamente alieno non ero sicurə, ma non volli correre il rischio di mangiare qualcosa che non conoscevo."
+    n "Se fossero commestibili che avevamo anche a casa e di cui semplicemente non sapevo, o qualcosa di completamente alieno non ero sicurə, ma non volli correre il rischio di mangiare qualcosa che non conoscevo."
 
 # game/chapter1.rpy:1938
 translate italiantl _call_syscheck_6_afd5bd6d:
@@ -2308,7 +2308,7 @@ translate italiantl increasing_f5711387:
 translate italiantl increasing_a25ed8f3:
 
     # c "(I don't feel like any of these options is actually right.)"
-    c "(Ho la sensazione che nessuna di queste opzioni sia davvero giusta.)"
+    c "(Ho la sensazione che nessuna di queste alternative sia davvero giusta.)"
 
 # game/chapter1.rpy:2249
 translate italiantl increasing_43f2e8f5:
@@ -2332,7 +2332,7 @@ translate italiantl increasing_c1a963af:
 translate italiantl increasing_6e5d4325:
 
     # c "(Okay, this was the last option and it was still wrong. If that's not enough to prompt me to finally start looking elsewhere, I don't know what else will.)"
-    c "(Okay, questa era l'ultima opzione ed era comunque sbagliata. Se questo non è abbastanza a spronarmi finalmente a cercare altrove, non so cos'altro lo farà.)"
+    c "(Okay, questa era l'ultima alternativa ed era comunque sbagliata. Se questo non è abbastanza a spronarmi finalmente a cercare altrove, non so cos'altro lo farà.)"
 
 # game/chapter1.rpy:2288
 translate italiantl elsewhere_b153aad5:
@@ -2882,7 +2882,7 @@ translate italiantl _call_syscheck_11_542ac51d:
 translate italiantl _call_syscheck_11_a2f6be37:
 
     # c "(What do I know about figs? Quite a bit, actually. Figs are ripe with history and still enjoy some cultural significance, especially in religious circles.)"
-    c "(Cosa so dei fichi? Un bel po', in effetti. I fichi sono ricchi di storia e ancora godono di significato culturale, specialmente nelle cerchie religiose.)"
+    c "(Cosa so dei fichi? Un bel po', in effetti. I fichi sono ricchi di storia e ancora godono di un certo significato culturale, specialmente nelle cerchie religiose.)"
 
 # game/chapter1.rpy:2736
 translate italiantl _call_syscheck_11_7f70b567:
@@ -3116,7 +3116,7 @@ translate italiantl continuation_f763377c_1:
 translate italiantl continuation_fd1f97a7:
 
     # m "While he was speaking, my gaze wandered and fixed on some movement nearby. It was hard to make out anything, but I imagined it might just have been wind blowing through the nearby shrubbery. Except for the fact that there was no wind."
-    m "Mentre parlava, il mio sguardo cadde su un qualche movimento nei dintorni. Era difficile distinguere alcunché, ma immaginai che potesse essere stato solo il vento che soffiava fra i cespugli nelle vicinanze. Eccetto per il fatto che non vi era alcun vento."
+    m "Mentre parlava, il mio sguardo cadde su un qualche movimento nei dintorni. Era difficile distinguere alcunché, ma immaginai che potesse essere stato solo il vento che soffiava fra i cespugli nelle vicinanze. Eccetto il fatto che non vi era alcun vento."
 
 # game/chapter1.rpy:2855
 translate italiantl continuation_d8a637e9:
@@ -3398,7 +3398,7 @@ translate italiantl continuation_b044f66d:
 translate italiantl continuation_9f6c2417:
 
     # Br "Yeah, we hoped he would have come back on his own by now. Do you have any idea where he might be? Maybe he mentioned some sort of place in particular that holds some meaning to him?"
-    Br "Già, speravamo che sarebbe tornato da sé a questo punto. Hai qualche idea di dove potrebbe essere? Forse ha menzionato qualche tipo di posto in particolare che ha un qualche significato per lui?"
+    Br "Già, speravamo che sarebbe tornato da sé a questo punto. Hai qualche idea di dove potrebbe essere? Forse ha menzionato qualche tipo di posto in particolare che abbia un qualche significato per lui?"
 
 # game/chapter1.rpy:3051
 translate italiantl continuation_4c1fa005:
@@ -3476,7 +3476,7 @@ translate italiantl continuation_3e2508cf:
 translate italiantl continuation_7e4b50e4:
 
     # Br "If he wasn't on mandatory sick leave, he would be suspended right now. We'll have to wait until this whole thing is over before we decide what to do with him. I can assure you this won't be taken lightly."
-    Br "Se non fosse in congedo obbligatorio per malattia, sarebbe stato sospeso adesso. Dovremo aspettare finché quest'intera faccenda sia conclusa prima di decidere cosa fare con lui. Posso assicurarti che la cosa non sarà presa alla leggera."
+    Br "Se non fosse in congedo obbligatorio per malattia, sarebbe stato sospeso adesso. Dovremo aspettare finché tutta questa storia sia conclusa prima di decidere cosa fare con lui. Posso assicurarti che la cosa non sarà presa alla leggera."
 
 # game/chapter1.rpy:3075
 translate italiantl continuation_c4f759c6:
@@ -3530,7 +3530,7 @@ translate italiantl continuation_63eccaf9:
 translate italiantl continuation_3e4ea0a9:
 
     # Br "Yeah, how about we both just keep quiet about this whole thing for now? After all, I don't think any of us wants our people panicking about this already, right?"
-    Br "Già, che ne dici se entrambi teniamo per noi quest'intera faccenda per il momento? Dopotutto, non penso che nessuno di noi voglia che la nostra gente vada già nel panico per questo, giusto?"
+    Br "Già, che ne dici se entrambi teniamo per noi tutta questa storia per il momento? Dopotutto, non penso che nessuno di noi voglia che la nostra gente vada già nel panico per questo, giusto?"
 
 # game/chapter1.rpy:3093
 translate italiantl continuation_ff9f623a:
@@ -3944,7 +3944,7 @@ translate italiantl quest3_ba9c14f7:
 translate italiantl quest4_40a3ed0e:
 
     # c "The gashes on his chest look rather large. I think it was them."
-    c "Le incisioni sul suo petto sembrano piuttosto larghe. Penso che siano state quelle."
+    c "Le incisioni sul suo petto sembrano piuttosto larghe. Penso siano state quelle."
 
 # game/chapter1.rpy:3415
 translate italiantl quest4_bf51c108:
@@ -3974,7 +3974,7 @@ translate italiantl quest4_f500d250:
 translate italiantl quest4_264bf143:
 
     # c "I think it was the one on his neck."
-    c "Penso che sia stata quella sul suo collo."
+    c "Penso sia stata quella sul suo collo."
 
 # game/chapter1.rpy:3430
 translate italiantl quest4_00bcf583:
@@ -4960,7 +4960,7 @@ translate italiantl strings:
 
     # chapter1.rpy:2144
     old "[[Show more options.]"
-    new "[[Mostra più opzioni.]"
+    new "[[Mostra più alternative.]"
 
     # chapter1.rpy:2202
     old "Have a pizza party."
@@ -5036,7 +5036,7 @@ translate italiantl strings:
 
     # chapter1.rpy:2488
     old "Take some."
-    new "Prendine un po'"
+    new "Prendine un po'."
 
     # chapter1.rpy:2573
     old "Look in the fridge."
