@@ -633,7 +633,7 @@ translate italiantl sebastianquestions_bea7ba6b:
 # game/xsebastian.rpy:543
 translate italiantl sebastiancont_1c0040b6:
 
-    # Sb smile b "But hey, I'm not the only one who's been new here. What are your impressions? Good, bad, ...ugly?"
+    # Sb smile b "But hey, I'm not the only one who's been new here. What are your impressions? Good, bad, ...ugly?" # references The Good, the Bad and the Ugly
     Sb smile b ""
 
 # game/xsebastian.rpy:551

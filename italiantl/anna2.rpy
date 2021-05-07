@@ -693,7 +693,7 @@ translate italiantl _call_skipcheck_32_b13f7b9a:
 # game/anna2.rpy:504
 translate italiantl _call_skipcheck_32_b9ffec12:
 
-    # An "There was a serial killer who shook up the whole town. The victims were apparently eaten."
+    # An "There was a serial killer who shook up the whole town. The victims were apparently eaten." # The second sentence is a reference to resident evil, were it also appears almost verbatim in the intro.
     An ""
 
 # game/anna2.rpy:506
@@ -1131,7 +1131,7 @@ translate italiantl _call_skipcheck_32_6c1e1e2b:
 # game/anna2.rpy:777
 translate italiantl _call_skipcheck_32_92a62e3b:
 
-    # An disgust "Fine, then go ahead and starve."
+    # An disgust "Fine, then go ahead and starve." # reference to go ahead and starve meme from beauty and the beast
     An disgust ""
 
 # game/anna2.rpy:785
@@ -1983,7 +1983,7 @@ translate italiantl anna2else_87da3647:
 # game/anna2.rpy:1385
 translate italiantl anna2else_f9e27a63:
 
-    # An face "Yeah, you know how you can help me right now? By getting the cuss out of here."
+    # An face "Yeah, you know how you can help me right now? By getting the cuss out of here." # using the word cuss instead of a cuss word is a reference to Fantastic Mr. Fox where this also happens.
     An face ""
 
 # game/anna2.rpy:1387

@@ -1245,7 +1245,7 @@ translate italiantl lorem4adinestatusneutral_eabaf00c:
 # game/lorem4.rpy:699
 translate italiantl lorem4adinestatusneutral_af03e00a:
 
-    # c "A wise person once said: Do or do not. There is no try."
+    # c "A wise person once said: Do or do not. There is no try." # Yoda quote
     c ""
 
 # game/lorem4.rpy:701

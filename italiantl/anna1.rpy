@@ -333,7 +333,7 @@ translate italiantl _call_skipcheck_7_9f1aeeac:
 # game/anna1.rpy:301
 translate italiantl _call_skipcheck_7_e3109ce5:
 
-    # c "It is, since an author popularized its use where I came from."
+    # c "It is, since an author popularized its use where I came from." # reference to Alice in Wonderland, where the word curiouser is used
     c ""
 
 # game/anna1.rpy:303
@@ -369,7 +369,7 @@ translate italiantl _call_skipcheck_7_aa1f612c:
 # game/anna1.rpy:311
 translate italiantl _call_skipcheck_7_145bfa91:
 
-    # An "Some might even say \"cunning\"."
+    # An "Some might even say \"cunning\"." # together with the last few statements, a cheeky reference to cunnilingus
     An ""
 
 # game/anna1.rpy:317
@@ -879,7 +879,7 @@ translate italiantl _call_skipcheck_7_c6a90608:
 # game/anna1.rpy:681
 translate italiantl _call_skipcheck_7_e658b925:
 
-    # c "I know it's not Knizki's {i}Textile Merchant{/i}, but I suppose it's better than nothing."
+    # c "I know it's not Knizki's {i}Textile Merchant{/i}, but I suppose it's better than nothing." # reference to Game Board from IT Crowd
     c ""
 
 # game/anna1.rpy:685
@@ -1311,7 +1311,7 @@ translate italiantl cont4_58cb19cf:
 # game/anna1.rpy:1018
 translate italiantl cont4_f883752b:
 
-    # c "What is the approximate acceleration speed of a nosediving flyer?"
+    # c "What is the approximate acceleration speed of a nosediving flyer?" # a reference to Monty Python where they ask about the airspeed velocity of an unladen swallow
     c ""
 
 # game/anna1.rpy:1022

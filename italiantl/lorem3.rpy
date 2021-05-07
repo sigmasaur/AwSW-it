@@ -999,7 +999,7 @@ translate italiantl lorem3searchmenu_11d2a947:
 # game/lorem3.rpy:572
 translate italiantl lorem3searchmenu_7631eb55:
 
-    # c "Maybe you'll be interested in this. In our world, there is a forest that was notorious for the many suicides that took place there. It was said to be haunted by angry spirits."
+    # c "Maybe you'll be interested in this. In our world, there is a forest that was notorious for the many suicides that took place there. It was said to be haunted by angry spirits." # This story is about Aokigahara, a forest in Japan.
     c ""
 
 # game/lorem3.rpy:574

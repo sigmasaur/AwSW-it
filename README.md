@@ -49,16 +49,15 @@ The following are mostly to the benefit of the developer and translators.
 ### chapter1.rpy
 
 * At line 385, 408: *to skip seen messages* → *to skip messages*, as it depends on the user's preference.
-* At line 431: *were in consideration* → *had been in consideration*, as we're supposedly talking of the period before the solar flare.
+* At line 431: *were in consideration* → *had been in consideration*, as we're supposedly talking of the period before the solar flare. The current translation is nonetheless rather flexible in this sense.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
 * At line 436, 2837: Corrected colon to dot to preserve the capital letter.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1358: Corrected number of dots from two to three.
-* At line 2109, 2176, 2395, 2735, 3352: Slightly pruned to fit fewer lines.
+* At line 2395, 2735, 3352: Slightly pruned to fit fewer lines.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the author's gender by necessity.
 * At line 2737: Slightly adapted *isn't it fascinating* to add an obvious pun without loss of meaning.
 * At line 2747: Slightly adapted to strengthen the pun, but it might still be too weak.
 * At line 3068: *PDAs* → *PDA*.
-* At line 3226: *RIP* → *rest in peace*, for elegance.
-* At line 3352: Slightly adapted to match line 3344 so that they both fit line 3367, and precisely lines 3384/3391.
+* At line 3352: Slightly adapted to match line 3344 so that they both fit lines 3384/3391.
 * At line 3609: Slightly adapted to preserve a pun.

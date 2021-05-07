@@ -1365,7 +1365,7 @@ translate italiantl _call_skipcheck_30_baeaf211:
 # game/adine4.rpy:645
 translate italiantl _call_skipcheck_30_169caaa4:
 
-    # Ad normal b "That's the name of the series. It's a typical sitcom about a contemporary family as we would expect it, but the twist is that everyone is human."
+    # Ad normal b "That's the name of the series. It's a typical sitcom about a contemporary family as we would expect it, but the twist is that everyone is human." # reference to Dinosaurs, the 90s TV sitcom
     Ad normal b ""
 
 # game/adine4.rpy:647

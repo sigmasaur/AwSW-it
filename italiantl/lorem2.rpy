@@ -1437,7 +1437,7 @@ translate italiantl _call_skipcheck_33_b4066fe0:
 # game/lorem2.rpy:945
 translate italiantl _call_skipcheck_33_9de9073c:
 
-    # c "Draw me like one of your..."
+    # c "Draw me like one of your..." # french girls. titanic reference
     c ""
 
 # game/lorem2.rpy:947

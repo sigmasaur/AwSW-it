@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/chapter2.rpy:198
 translate italiantl chapter2_76b2fe88:
@@ -2837,7 +2837,7 @@ translate italiantl _call_syscheck_54_a19bfa2d:
 # game/chapter2.rpy:2455
 translate italiantl _call_syscheck_54_5f8bcb01:
 
-    # s "You acquired a mysterious orb. Do you think it can float? {image=image/ui/status/orb_taken.png}"
+    # s "You acquired a mysterious orb. Do you think it can float? {image=image/ui/status/orb_taken.png}" # reference to mysterious floating orb by weird al
     s ""
 
 # game/chapter2.rpy:2467
@@ -4181,7 +4181,7 @@ translate italiantl _call_popularcheck_11_d18e1351:
 # game/chapter2.rpy:4276
 translate italiantl _call_popularcheck_11_a660fec1:
 
-    # Ad "Gotcha! You thought that was your answering machine, but it was me, Adine!"
+    # Ad "Gotcha! You thought that was your answering machine, but it was me, Adine!" # reference to Jojo "It was me, Dio" line
     Ad ""
 
 # game/chapter2.rpy:4278

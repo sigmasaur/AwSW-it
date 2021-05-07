@@ -2871,7 +2871,7 @@ translate italiantl trueendings_d036b5f3:
 # game/chapter5trueendings.rpy:1541
 translate italiantl trueendings_a06d3b27:
 
-    # Iz "The first few times, I was just watching you. I could see your intentions were pure and that you were filled with determination. But without my help, you always failed."
+    # Iz "The first few times, I was just watching you. I could see your intentions were pure and that you were filled with determination. But without my help, you always failed." # filled with determination is an undertale reference
     Iz ""
 
 # game/chapter5trueendings.rpy:1543

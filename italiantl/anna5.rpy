@@ -873,7 +873,7 @@ translate italiantl annagoodending_5e1ffe6d:
 # game/anna5.rpy:833
 translate italiantl annagoodending_f5b886fc:
 
-    # An "How pointlessly tragic."
+    # An "How pointlessly tragic." # a reference to a Deus Ex NPC that says the same sentence verbatim.
     An ""
 
 # game/anna5.rpy:835

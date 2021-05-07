@@ -1359,7 +1359,7 @@ translate italiantl _call_syscheck_45_9830b2e8:
 # game/adine3.rpy:748
 translate italiantl _call_syscheck_45_73ecc8d3:
 
-    # s "You got some seashells. Three of them."
+    # s "You got some seashells. Three of them." # reference to three seashells in demolition man
     s ""
 
 # game/adine3.rpy:752
@@ -1401,7 +1401,7 @@ translate italiantl _call_syscheck_45_8781b044:
 # game/adine3.rpy:771
 translate italiantl _call_syscheck_45_25ecab4f:
 
-    # Ad "Freefall? Where have I heard that before?"
+    # Ad "Freefall? Where have I heard that before?" # the name is a reference to a named pteranodon in the dinotopia mini-series
     Ad ""
 
 # game/adine3.rpy:775
@@ -1491,7 +1491,7 @@ translate italiantl _call_syscheck_45_db7d000f:
 # game/adine3.rpy:831
 translate italiantl _call_syscheck_45_cc5a6b34:
 
-    # Ad "Neowing?"
+    # Ad "Neowing?" # neowing was one of the winners from our contest for adine's stage names
     Ad ""
 
 # game/adine3.rpy:833
@@ -1563,7 +1563,7 @@ translate italiantl _call_syscheck_45_78ea5755:
 # game/adine3.rpy:883
 translate italiantl _call_syscheck_45_94e2bf27:
 
-    # Ad "Now this is peculiar. I feel like I've heard the word hawk before, but I'm not sure what it means."
+    # Ad "Now this is peculiar. I feel like I've heard the word hawk before, but I'm not sure what it means." # stormhawk was another contest winner from our naming contest
     Ad ""
 
 # game/adine3.rpy:885

@@ -633,7 +633,7 @@ translate italiantl no_f00f491c:
 # game/chapter5evilending.rpy:541
 translate italiantl no_3136b4bd:
 
-    # c "I can't do that, Reza."
+    # c "I can't do that, Reza." # reference to 2001's Hal 9000
     c ""
 
 # game/chapter5evilending.rpy:543

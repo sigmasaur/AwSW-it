@@ -1521,7 +1521,7 @@ translate italiantl _call_syscheck_86_6d148a1d:
 # game/remy1.rpy:1385
 translate italiantl _call_syscheck_86_ca671b88:
 
-    # c "How can mirrors be real if dragons aren't real?"
+    # c "How can mirrors be real if dragons aren't real?" # reference to how can mirrors be real if eyes aren't real meme
     c ""
 
 # game/remy1.rpy:1386

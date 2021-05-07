@@ -2132,7 +2132,7 @@ translate italiantl strings:
 
     # bryce1.rpy:997
     old "[[Say nothing.]"
-    new ""
+    new "[[Non dire nulla.]"
 
     # bryce1.rpy:1038
     old "I think... it's yours."

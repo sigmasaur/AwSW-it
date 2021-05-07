@@ -1557,7 +1557,7 @@ translate italiantl _call_syscheck_76_f5a08d10:
 # game/chapter4.rpy:1618
 translate italiantl _call_syscheck_76_41e30641:
 
-    # s "I'm sorry, [player_name], but I can't let you do that."
+    # s "I'm sorry, [player_name], but I can't let you do that." # reference to Star Wolf's famous phrase Can't let you do that, Starfox, and also to Hal9000 in 2001 A Space Odyssey
     s ""
 
 # game/chapter4.rpy:1622
@@ -4761,7 +4761,7 @@ translate italiantl c4postsections_ba6c55cf:
 # game/chapter4.rpy:4132
 translate italiantl c4postsections_8231078b:
 
-    # m "When I returned to the living room, I suddenly found my strength leaving me and collapsed to the floor."
+    # m "When I returned to the living room, I suddenly found my strength leaving me and collapsed to the floor." # This is not the result of being hit or similar blunt impact.
     m ""
 
 # game/chapter4.rpy:4146
@@ -6495,7 +6495,7 @@ translate italiantl _call_popularcheck_28_be5c2928:
 # game/chapter4.rpy:5830
 translate italiantl _call_popularcheck_28_d5d6cf7c:
 
-    # m "In the end, I decided to extend invitations to everyone I knew to come by for a visit. I left a lot of messages and waited the whole afternoon, but nobody came."
+    # m "In the end, I decided to extend invitations to everyone I knew to come by for a visit. I left a lot of messages and waited the whole afternoon, but nobody came." # But nobody came is a reference to undertale.
     m ""
 
 # game/chapter4.rpy:5850

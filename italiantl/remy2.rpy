@@ -2043,7 +2043,7 @@ translate italiantl strings:
     new ""
 
     # remy2.rpy:1065
-    old "Ain't nobody got time for that."
+    old "Ain't nobody got time for that." # meme reference
     new ""
 
     # remy2.rpy:1065

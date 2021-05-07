@@ -411,7 +411,7 @@ translate italiantl _call_skipcheck_26_da18157a:
 # game/bryce3.rpy:341
 translate italiantl _call_skipcheck_26_e96dc8bf:
 
-    # Sb "Zhong, not even once."
+    # Sb "Zhong, not even once." # reference to not even once meme
     Sb ""
 
 # game/bryce3.rpy:343
@@ -651,7 +651,7 @@ translate italiantl _call_skipcheck_26_c478518d:
 # game/bryce3.rpy:438
 translate italiantl _call_skipcheck_26_dc3c64f8:
 
-    # Br smirk "Master of Ceremony, would you light the fire, please?"
+    # Br smirk "Master of Ceremony, would you light the fire, please?" # is a proper title that is used in other contexts and usually abbreviated as MC
     Br smirk ""
 
 # game/bryce3.rpy:440

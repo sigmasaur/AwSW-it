@@ -1083,7 +1083,7 @@ translate italiantl adine2menb_06b47c2f:
 # game/adine2.rpy:857
 translate italiantl adine2menb_136ed5fb:
 
-    # Ad think b "Your past is filled with fire, strife and conflict. Yet like steel, you adopted it and were tempered by it. What didn't kill you only made you stronger."
+    # Ad think b "Your past is filled with fire, strife and conflict. Yet like steel, you adopted it and were tempered by it. What didn't kill you only made you stronger." # half a reference to quotes from the dark knight & the dark knight rises
     Ad think b ""
 
 # game/adine2.rpy:859

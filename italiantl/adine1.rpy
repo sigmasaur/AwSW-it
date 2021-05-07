@@ -27,7 +27,7 @@ translate italiantl adine1_c084e644:
 # game/adine1.rpy:63
 translate italiantl adine1_2ec83f33:
 
-    # Ad think b "I thought they sent you away after everything that's going on."
+    # Ad think b "I thought they sent you away after everything that's going on." # This and the next few lines refer to when this scene is played in chapter 3 or later. Remember that we meet adine and say goodbye to her in chapter 3 when we are ordered by Emera to go back to the Human world. Adine in this instance doesn't know that we ultimately stayed.
     Ad think b ""
 
 # game/adine1.rpy:65

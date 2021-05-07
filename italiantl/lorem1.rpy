@@ -1541,7 +1541,7 @@ translate italiantl strings:
     new ""
 
     # lorem1.rpy:254
-    old "Leave."
+    old "Leave." # this refers to an action by the main character, and not an order to lorem
     new ""
 
     # lorem1.rpy:306

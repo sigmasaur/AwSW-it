@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-04-13 08:56
+﻿# TODO: Translation updated at 2021-04-13 08:56
 
 # game/chapter1.rpy:56
 translate italiantl nameentryx_dc71aba9:
@@ -76,7 +76,7 @@ translate italiantl detected_979415d0:
 translate italiantl detected_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Middle Click] o [[H] nasconde la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # to skip messages period, not necessarily seen, as it depends on the user's preference
+    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Middle Click] o [[H] nasconde la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # "to skip [seen] messages", as it depends on the user's preference
 
 # game/chapter1.rpy:386
 translate italiantl detected_4f5f91c6:
@@ -118,7 +118,7 @@ translate italiantl colorend_979415d0:
 translate italiantl colorend_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Middle Click] o [[H] nasconde la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # see detected_25c39bd4
+    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Middle Click] o [[H] nasconde la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # see line 385
 
 # game/chapter1.rpy:409
 translate italiantl colorend_7c214f52:
@@ -135,8 +135,8 @@ translate italiantl begingame_76b2fe88:
 # game/chapter1.rpy:421
 translate italiantl begingame_0420e91d:
 
-    # n "The year is 20XX."
-    n "L'anno è il 20XX."
+    # n "The year is 20XX." # this line is a reference to Deus Ex: Human Revolution. A line in its trailer is "The year is 2027."
+    n "Corre l'anno 20XX." # used Italian subtitles to that trailer
 
 # game/chapter1.rpy:422
 translate italiantl begingame_02e25085:
@@ -160,7 +160,7 @@ translate italiantl begingame_c9f110ae:
 translate italiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Avevo già sentito di una simile tecnologia, ma perlopiù a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi e quando l'avesse costruito—o perché l'avessimo trovato nella desolazione in cui l'abbiamo trovato. Ma ciò che per noi fu più entusiasmante era il fatto che fosse... funzionante." # were in consideration -> had been in consideration, also used em-dash
+    n "Avevo già sentito di una simile tecnologia, ma perlopiù a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi e quando l'avesse costruito—o perché l'avessimo trovato nella desolazione in cui l'abbiamo trovato. Ma ciò che per noi fu più entusiasmante era il fatto che fosse... funzionante." # "were" -> "had been", also used em-dash
 
 # game/chapter1.rpy:433
 translate italiantl begingame_337d015e:
@@ -174,7 +174,7 @@ translate italiantl begingame_337d015e:
 translate italiantl begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta. Una lettera d'invito. Dopo qualche deliberazione, fu deciso di accettare la loro accoglienza e inviare una persona dall'altro lato." # : -> . to preserve the capital letter
+    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta. Una lettera d'invito. Dopo qualche deliberazione, fu deciso di accettare la loro accoglienza e inviare una persona dall'altro lato." # ":" -> ".", to preserve the capital letter
 
 # game/chapter1.rpy:437
 translate italiantl begingame_3dadd8d0:
@@ -254,7 +254,7 @@ translate italiantl begingame_a929e4ad:
 translate italiantl begingame_4e5d991b:
 
     # n "Approximately 8 hours later, we received our first message from him."
-    n "All'incirca otto ore più tardi, ricevemmo il nostro primo messaggio da parte sua." # 8 -> eight for elegance
+    n "All'incirca otto ore più tardi, ricevemmo il nostro primo messaggio da parte sua." # "8" -> "eight", for elegance
 
 # game/chapter1.rpy:464
 translate italiantl begingame_282e06e8:
@@ -344,13 +344,13 @@ translate italiantl begingame_fe72b4b9:
 translate italiantl begingame_dc6c4ac0:
 
     # n "They hadn't known about any other intelligent life-form beyond their own, their portal had only recently been discovered and was a technology previously unknown to them, and just as we had myths about dragons, they had myths about us."
-    n "Anche loro non sapevano di altre forme di vita intelligenti oltre alla loro stessa, il loro portale era stato solo recentemente rinvenuto, e proprio come noi avevamo dei miti sui draghi, loro ne avevano su di noi." # They too hadn't known
+    n "Anche loro non sapevano di altre forme di vita intelligenti oltre alla loro stessa, il loro portale era stato solo recentemente rinvenuto, e proprio come noi avevamo dei miti sui draghi, loro ne avevano su di noi." # "they *too* hadn't known"
 
 # game/chapter1.rpy:484
 translate italiantl begingame_32508c0c:
 
     # n "That was what we knew about them so far, and as interesting as learning those things and debating their cultural significance was, we didn't really know what we should make of it all."
-    n "Questo era ciò che sapevamo di loro fino ad quel momento, e per quanto interessante fosse studiare quelle cose e dibattere sul loro significato culturale, francamente non sapevamo bene cosa pensarne." # frankly we didn't really know renders better
+    n "Questo era ciò che sapevamo di loro fino ad quel momento, e per quanto interessante fosse studiare quelle cose e dibattere sul loro significato culturale, davvero non sapevamo bene cosa pensarne."
 
 # game/chapter1.rpy:485
 translate italiantl begingame_26e2ea6a:
@@ -978,7 +978,7 @@ translate italiantl _call_skipcheck_2_d732b21c:
 translate italiantl _call_skipcheck_2_529aeda4:
 
     # c "N-No.. I just thought..."
-    c "N-No... Ho solo pensato..." # .. -> ...
+    c "N-No... Ho solo pensato..." # ".." -> "..."
 
 # game/chapter1.rpy:1363
 translate italiantl _call_skipcheck_2_4f894d15:
@@ -1020,7 +1020,7 @@ translate italiantl _call_skipcheck_2_0c52476d:
 translate italiantl _call_skipcheck_2_aed26b36:
 
     # "???" "There you are. I was waiting for you."
-    "???" "Eccovi qui. Vi stavo aspettando."
+    "??? " "Eccovi qui. Vi stavo aspettando."
 
 # game/chapter1.rpy:1401
 translate italiantl _call_skipcheck_2_1e106597:
@@ -1032,7 +1032,7 @@ translate italiantl _call_skipcheck_2_1e106597:
 translate italiantl _call_skipcheck_2_8c860b7d:
 
     # "???" "They're only coming in later today, so you'll just have to make do with me."
-    "???" "Loro arriveranno solo più tardi in giornata, quindi non vi resta che accontentarvi di me."
+    "??? " "Loro arriveranno solo più tardi in giornata, quindi non vi resta che accontentarvi di me."
 
 # game/chapter1.rpy:1409
 translate italiantl _call_skipcheck_2_759b976c:
@@ -1374,7 +1374,7 @@ translate italiantl _call_skipcheck_3_600f3c23:
 translate italiantl _call_skipcheck_3_68833c8b:
 
     # "???" "Oh, it's the humans!"
-    "???" "Oh, sono gli umani!"
+    "??? " "Oh, sono gli umani!"
 
 # game/chapter1.rpy:1662
 translate italiantl _call_skipcheck_3_3bf4c97d_1:
@@ -1392,7 +1392,7 @@ translate italiantl _call_skipcheck_3_3bf4c97d_2:
 translate italiantl _call_skipcheck_3_e063487c:
 
     # "???" "That's a good one."
-    "???" "Questa era buona."
+    "??? " "Questa era buona."
 
 # game/chapter1.rpy:1673
 translate italiantl _call_skipcheck_3_beab5379:
@@ -1881,7 +1881,7 @@ translate italiantl _call_syscheck_6_05824446:
 # game/chapter1.rpy:1941
 translate italiantl _call_syscheck_6_27ce47bd:
 
-    # n "While I found the subject matter of {i}Man: Myth or Reality?{/i} to be quite intriguing, I had to give up after just a few pages due to its exceptionally dry writing style, which I wasn't inclined to enjoy at the moment."
+    # n "While I found the subject matter of {i}Man: Myth or Reality?{/i} to be quite intriguing, I had to give up after just a few pages due to its exceptionally dry writing style, which I wasn't inclined to enjoy at the moment." # reference to a fake book called "Is man a myth" from The Lion, the Witch and the Wardrobe
     n "Sebbene trovassi l'argomento di {i}Uomo: Mito o Realtà?{/i} piuttosto intrigante, dovetti cedere dopo solo un paio di pagine a causa del suo stile di scrittura eccezionalmente asciutto, il quale non ero incline ad apprezzare in quel momento."
 
 # game/chapter1.rpy:1942
@@ -1914,7 +1914,7 @@ translate italiantl _call_syscheck_6_76b2fe88_1:
 translate italiantl _call_syscheck_6_b5f20e45:
 
     # "???" "Hello there! Would you please sign here?"
-    "???" "Ehilà! Firmeresti qui gentilmente?"
+    "??? " "Ehilà! Firmeresti qui gentilmente?"
 
 # game/chapter1.rpy:1997
 translate italiantl _call_syscheck_6_46eba8f0:
@@ -1926,7 +1926,7 @@ translate italiantl _call_syscheck_6_46eba8f0:
 translate italiantl _call_syscheck_6_c83245e4:
 
     # "???" "I've got a letter for you that requires signature confirmation."
-    "???" "Ho qui una lettera per te che richiede una firma di riscontro."
+    "??? " "Ho qui una lettera per te che richiede una firma di riscontro."
 
 # game/chapter1.rpy:2001
 translate italiantl _call_syscheck_6_89aefe22:
@@ -2162,7 +2162,7 @@ translate italiantl _call_syscheck_6_3a473542:
 translate italiantl _call_syscheck_6_5e27acbf:
 
     # n "Unfortunately, we were not able to catch up earlier, so I wanted to write you this letter. How have you been these last few years? What have you been doing? How's the family?"
-    n "Purtroppo, non abbiamo potuto rifarci del tempo perduto prima, quindi ho voluto scriverti questa lettera. Come sei statə in questi ultimi anni? Che cos'hai fatto? Com'è la famiglia?" # slightly compressed to fit two lines
+    n "Purtroppo, non abbiamo potuto rifarci del tempo perduto prima, quindi ho voluto scriverti questa lettera. Come sei statə in questi ultimi anni? Che cos'hai fatto? Com'è la famiglia?"
 
 # game/chapter1.rpy:2110
 translate italiantl _call_syscheck_6_3ab950eb:
@@ -2236,7 +2236,7 @@ translate italiantl _call_increasing_3_3a473542:
 translate italiantl _call_increasing_3_5e27acbf:
 
     # n "Unfortunately, we were not able to catch up earlier, so I wanted to write you this letter. How have you been these last few years? What have you been doing? How's the family?"
-    n "Purtroppo, non abbiamo potuto rifarci del tempo perduto prima, quindi ho voluto scriverti questa lettera. Come sei statə in questi ultimi anni? Che cos'hai fatto? Com'è la famiglia?" # slightly compressed to fit two lines
+    n "Purtroppo, non abbiamo potuto rifarci del tempo perduto prima, quindi ho voluto scriverti questa lettera. Come sei statə in questi ultimi anni? Che cos'hai fatto? Com'è la famiglia?"
 
 # game/chapter1.rpy:2177
 translate italiantl _call_increasing_3_3ab950eb:
@@ -2385,7 +2385,7 @@ translate italiantl _call_syscheck_7_76b2fe88:
 # game/chapter1.rpy:2348
 translate italiantl _call_syscheck_7_7db4bf6b:
 
-    # n "I was so young and naive back then."
+    # n "I was so young and naive back then." # bad writing and errors in some of these book excerpts are intentional
     n "Ero così giovane e innocente allora." # assumed the narrator is a female by necessity
 
 # game/chapter1.rpy:2349
@@ -2403,7 +2403,7 @@ translate italiantl _call_syscheck_7_133cdd03:
 # game/chapter1.rpy:2351
 translate italiantl _call_syscheck_7_a455b8f2:
 
-    # n "Like a wrecking ball, he came out of nothing, breaking all the barriers and entered my life. Two weeks ago, I was nothing. Today, I am the happiest dragon alive. Who knew that out of all the people alive, it only took the right one to right life itself."
+    # n "Like a wrecking ball, he came out of nothing, breaking all the barriers and entered my life. Two weeks ago, I was nothing. Today, I am the happiest dragon alive. Who knew that out of all the people alive, it only took the right one to right life itself." # wrecking ball is a reference to the miley cyrus song
     n "Come una palla demolitrice, è saltato fuori dal nulla, rompendo ogni barriera ed è entrato nella mia vita. Due settimane or sono, non ero nulla. Oggi, sono la dragonessa più felice al mondo. Chi sapeva che di tutte le persone al mondo, sarebbe bastata quella giusta per aggiustare la vita stessa."
 
 # game/chapter1.rpy:2352
@@ -2451,7 +2451,7 @@ translate italiantl _call_syscheck_7_821d6d0f:
 # game/chapter1.rpy:2370
 translate italiantl _call_syscheck_7_086c75fa:
 
-    # n "\"Your resistance will only temper my blade, inferior creature. TASTE MY BLADE AND DIE FROM IT.\" the reply wryly came from the human invader standing within the door frame."
+    # n "\"Your resistance will only temper my blade, inferior creature. TASTE MY BLADE AND DIE FROM IT.\" the reply wryly came from the human invader standing within the door frame." # first part of first sentence is a reference to a meme
     n "\"La tua resistenza non farà che temprare la mia lama, creatura inferiore. ASSAGGIA LA MIA LAMA E PERISCINE.\" la risposta arrivò beffarda dall'invasore umano che si ergeva nella cornice dalla porta."
 
 # game/chapter1.rpy:2371
@@ -2526,7 +2526,7 @@ translate italiantl _call_syscheck_7_217fb58f:
 translate italiantl _call_syscheck_7_771a3b0c:
 
     # n "I have no doubt of my father's political achievements, yet only those who had to live with him know that these successes came at the price of his very soul. An empty shell of a dragon driven by nothing but his performance as a politician, not as a father."
-    n "Non ho dubbi sui raggiungimenti politici di mio padre, eppure solo coloro che dovettero vivergli accanto sanno che tali successi vennero a costo della sua anima. Un guscio vuoto di un drago guidato da nient'altro che la sua prestazione come politico, non come padre." # slightly compressed to fit three lines
+    n "Non ho dubbi sui raggiungimenti politici di mio padre, eppure solo coloro che dovettero vivergli accanto sanno che tali successi vennero a costo della sua anima. Un guscio vuoto di un drago guidato da nient'altro che la sua prestazione come politico, non come padre." # slightly pruned to fit three lines
 
 # game/chapter1.rpy:2398
 translate italiantl _call_syscheck_7_e52d75f4:
@@ -2586,7 +2586,7 @@ translate italiantl _call_syscheck_7_76b2fe88_4:
 translate italiantl _call_syscheck_7_264b3908:
 
     # n "As a manual meant for the general populace, this booklet intends to bring you, the valued reader, closer to the uses and joys an Ixomen Sphere might bring. I have taken utmost care to use simple language and instructions to remove the well-known barrier between individuals and knowledge of proper use of this most wondrous device. For interested parties, a chapter about the Ixomen Sphere's history and ideas for advanced applications can be found later in the book."
-    n "Come manuale rivolto al popolo generale, questo libretto si propone di portare te, stimato lettore, più vicino agli usi e alle gioie che una Sfera di Ixomen può portare. Ho prestato la massima attenzione a usare un linguaggio e istruzioni semplici per rimuovere la ben nota barriera fra gli individui e la conoscenza del corretto utilizzo di questo dispositivo così prodigioso. Per le parti interessate, un capitolo sulla storia della Sfera di Ixomen e sulle idee per applicazioni avanzate può essere trovato più avanti nel libro."
+    n "Come manuale rivolto al popolo generale, questo libretto si propone di portare te, stimato lettore, più vicino agli usi e alle gioie che una Sfera di Ixomen può procurare. Ho prestato la massima attenzione a usare un linguaggio e istruzioni semplici per rimuovere la ben nota barriera fra gli individui e la conoscenza del corretto utilizzo di questo dispositivo così prodigioso. Per le parti interessate, un capitolo sulla storia della Sfera di Ixomen e sulle idee per applicazioni avanzate può essere trovato più avanti nel libro."
 
 # game/chapter1.rpy:2431
 translate italiantl _call_syscheck_7_a3139658:
@@ -2610,7 +2610,7 @@ translate italiantl _call_syscheck_7_5edbf34a:
 translate italiantl _call_syscheck_7_a21e46b1:
 
     # n "Expert tip: Use a spirit level in order to determine if a surface is absolutely horizontal in order to prevent the Ixomen Sphere from rolling off the table unintendedly."
-    n "Consiglio da esperti: Usa una livella per determinare se una superficie è assolutamente orizzontale in modo da evitare che la Sfera di Ixomen vi rotoli via inavvertitamente." # table hidden
+    n "Consiglio da esperti: Usa una livella per determinare se una superficie è assolutamente orizzontale in modo da evitare che la Sfera di Ixomen vi rotoli via inavvertitamente." # "from falling off [the table]" (would've been "the surface" anyways, for coherence with line 2433)
 
 # game/chapter1.rpy:2435
 translate italiantl _call_syscheck_7_9f288208:
@@ -2924,13 +2924,13 @@ translate italiantl _call_syscheck_11_9ca3ba4e:
 translate italiantl _call_syscheck_11_4c8f346f:
 
     # c "(There are two of them. What a nice pear.)"
-    c "(Ce n'è pere-cchie. Che cornuco-pera.)" # slightly adapted to strengthen the pun, but it's still weak imo
+    c "(Ce n'è pere-cchie. Che cornuco-pera.)" # slightly adapted to strengthen the pun, but it's still weak
 
 # game/chapter1.rpy:2753
 translate italiantl _call_syscheck_11_9c2c9e41:
 
     # c "(So, daddy grape finds his kid crying and asks \"What's wrong, kid?\", but through all the tears, the kid couldn't get a single word out. Eventually, daddy had enough, so he said: \"Stop wi...\" No, I won't say it. It wasn't a good joke anyway.)"
-    c "(Dunque, papà grappolo vede suo figlio piangere e chiede \"Che succede, figliolo?\", ma fra tutte le lacrime, il bimbo non riesce a cacciare una parola. Finalmente, il papà ne ha abbastanza, e dice: \"Smettila di vignucol...\" Nah, non era granché come battuta.)" # slightly compressed to fit three lines
+    c "(Dunque, papà grappolo vede suo figlio piangere e chiede \"Che succede, figliolo?\", ma fra tutte le lacrime, il bimbo non riesce a cacciare una parola. Finalmente, il papà ne ha abbastanza, e dice: \"Smettila di vignucol...\" Nah, non era granché come battuta.)" # slightly pruned to fit three lines
 
 # game/chapter1.rpy:2760
 translate italiantl _call_syscheck_11_4a56c371:
@@ -2942,7 +2942,7 @@ translate italiantl _call_syscheck_11_4a56c371:
 translate italiantl _call_syscheck_11_18b2fbb7:
 
     # m "Lemon juice is about the simplest way to write a hidden message using household items. We learned about that in chemistry. In the most boring detail, of course. A message written in lemon juice on paper becomes just about invisible to the naked eye when dried, but after heating it gently, oxidization occurs, making the message visible."
-    m "Il succo di limone è forse il modo più semplice per scrivere un messaggio segreto sfruttando articoli d'uso comune. Lo avevamo imparato a chimica. Nel più noioso dettaglio, certo. Un messaggio scritto col succo di limone sulla carta è praticamente invisibile a occhio nudo, ma dopo averlo riscaldato delicatamente, ecco che avviene l'ossidazione, manifestando il messaggio." # becomes -> is renders better
+    m "Il succo di limone è forse il modo più semplice per scrivere un messaggio segreto sfruttando articoli d'uso comune. Lo avevamo imparato a chimica. Nel più noioso dettaglio, certo. Un messaggio scritto col succo di limone sulla carta è praticamente invisibile a occhio nudo, ma dopo averlo riscaldato delicatamente, ecco che avviene l'ossidazione, manifestando il messaggio." # "becomes" -> "is"
 
 # game/chapter1.rpy:2763
 translate italiantl _call_syscheck_11_a1bbec6a:
@@ -3068,7 +3068,7 @@ translate italiantl continuation_809da3d8:
 translate italiantl continuation_addb4e00:
 
     # Rz "As for the other: Do you know what this place is?"
-    Rz "Riguardo la seconda. Lo sai cos'è questo posto?" # : -> . to preserve the capital letter
+    Rz "Riguardo la seconda. Lo sai cos'è questo posto?" # ":" -> ".", to preserve the capital letter
 
 # game/chapter1.rpy:2838
 translate italiantl continuation_bde4f6a4:
@@ -3242,7 +3242,7 @@ translate italiantl continuation_f5a82162:
 translate italiantl continuation_7eb852c7:
 
     # "???" "Hey, kid. You alright?"
-    "???" "Ehi, ragazzə. Tutto bene?"
+    "??? " "Ehi, ragazzə. Tutto bene?"
 
 # game/chapter1.rpy:2956
 translate italiantl continuation_a8f3d766:
@@ -3386,7 +3386,7 @@ translate italiantl continuation_c48dc32f:
 translate italiantl continuation_8c191191:
 
     # m "This time, I was taken along a different route than yesterday. And I was quite sure there was more to this than just taking a walk."
-    m "Questa volta, fui condottə lungo una strada diversa dal giorno prima. Ed ero piuttosto sicurə che vi fosse sotto qualcosa di più che una semplice passeggiata." # taking hidden
+    m "Questa volta, fui condottə lungo una strada diversa dal giorno prima. Ed ero piuttosto sicurə che vi fosse sotto qualcosa di più che una semplice passeggiata." # "than just [taking] a walk"
 
 # game/chapter1.rpy:3046
 translate italiantl continuation_b044f66d:
@@ -3416,7 +3416,7 @@ translate italiantl continuation_75ddc3b5:
 translate italiantl continuation_61783f37:
 
     # c "I have no idea why Reza would have done anything like that. I had the impression that they weren't very fond of each other, but this... How is he, by the way?"
-    c "Non ho idea del perché [Rz] avrebbe fatto qualcosa del genere. Avevo avuto l'impressione che non fossero molto affezionati, ma questo... Come sta, a proposito?"
+    c "Non ho idea del perché [Rz] avrebbe fatto qualcosa del genere. Avevo avuto l'impressione che non stravedessero l'uno per l'altro, ma questo... Come sta, a proposito?"
 
 # game/chapter1.rpy:3056
 translate italiantl continuation_a0b6f7f7:
@@ -3458,7 +3458,7 @@ translate italiantl continuation_36b1d91b:
 translate italiantl continuation_b1d6e9a7:
 
     # c "You even already have our PDAs and we don't have much to show for it yet. If we had any nefarious plans, this wouldn't have been a very good idea."
-    c "Voi avete già il nostro palmare e noi non abbiamo ancora avuto granché in cambio. Se avessimo avuto cattive intenzioni, questa non sarebbe stata una buona idea." # PDAs -> PDA
+    c "Voi avete già il nostro palmare e noi non abbiamo ancora avuto granché in cambio. Se avessimo avuto cattive intenzioni, questa non sarebbe stata una buona idea." # "PDAs" -> "PDA"
 
 # game/chapter1.rpy:3069
 translate italiantl continuation_331ab8bc:
@@ -3631,8 +3631,8 @@ translate italiantl _call_syscheck_12_b11d330a:
 # game/chapter1.rpy:3161
 translate italiantl _call_syscheck_12_bf72188d:
 
-    # Br "I implore you to reconsider!"
-    Br "Ti supplico di ripensarci!"
+    # Br "I implore you to reconsider!" # reference to Kung Pow: Enter the fist where this sentence is used a few times. the whole exchange is a reference to false choices in JRPGs where there is a "choice" between accepting a quest or not, but declining it just causes the NPC to ask again until you do.
+    Br "Ti imploro in ginocchio di ripensarci!" # used actual translation in Kung Pow
 
 # game/chapter1.rpy:3170
 translate italiantl _call_syscheck_12_f1ed3266:
@@ -3715,8 +3715,8 @@ translate italiantl investigation_52ed0bbc:
 # game/chapter1.rpy:3226
 translate italiantl investigation_331499d0:
 
-    # Br "Yeah, RIP."
-    Br "Già, riposi in pace." # unfolded RIP for elegance
+    # Br "Yeah, RIP." # reference to Deus Ex: Human Revolution.
+    Br "Già, RIP." # the actual translation in DE:HR would be just "condolences"
 
 # game/chapter1.rpy:3227
 translate italiantl investigation_d0ff8c97:
@@ -3794,7 +3794,7 @@ translate italiantl quest2_afc197f7:
 translate italiantl quest2_cc15fd9a:
 
     # Br "Actually, we do. Mostly by those who have the proper hands to use them, but still..."
-    Br "In effetti, li usiamo. Per lo più da parte di coloro di noi che possiedono mani adatte, ma comunque..." # to use them hidden
+    Br "In effetti, li usiamo. Per lo più da parte di coloro di noi che possiedono mani adatte, ma comunque..." # "the proper hands [to use them]"
 
 # game/chapter1.rpy:3340
 translate italiantl quest2_65ee4be1:
@@ -3860,7 +3860,7 @@ translate italiantl quest2_42490ba7:
 translate italiantl quest2_72b958a5:
 
     # Br "Unlikely. Someone who commits suicide doesn't slash themselves multiple times. Also, some of the cuts are only superficial. No, this must have been a fight."
-    Br "Improbabile. Qualcuno che si toglie la vita non si ferisce ripetutamente. Inoltre, alcuni dei tagli sono solo superficiali. No, dev'esserci stata una lotta." # this -> there renders better
+    Br "Improbabile. Qualcuno che si toglie la vita non si ferisce ripetutamente. Inoltre, alcuni dei tagli sono solo superficiali. No, dev'esserci stata una lotta." # "this" -> "there"
 
 # game/chapter1.rpy:3358
 translate italiantl quest2_2d5dd7bc:
@@ -3919,7 +3919,7 @@ translate italiantl quest3_7b49274c:
 # game/chapter1.rpy:3395
 translate italiantl quest3_56520b1b:
 
-    # Br "Even then, Haziq's procedure of logic tells us that until further evidence surfaces, the theory with the least amount of assumptions is the most likely. This one isn't it."
+    # Br "Even then, Haziq's procedure of logic tells us that until further evidence surfaces, the theory with the least amount of assumptions is the most likely. This one isn't it." # this is the dragon version of Occam's razor.
     Br "Anche se fosse, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria con il minor numero di ipotesi è quella più probabile. E questa non lo è."
 
 # game/chapter1.rpy:3397
@@ -4099,7 +4099,7 @@ translate italiantl quest5_7d2a0f75:
 # game/chapter1.rpy:3506
 translate italiantl quest5_1a76e383:
 
-    # c "Objection!" with hpunch
+    # c "Objection!" with hpunch # obvious reference to Ace Attorney
     c "Obiezione!" with hpunch
 
 # game/chapter1.rpy:3508
@@ -4250,7 +4250,7 @@ translate italiantl _call_syscheck_13_fd0a6543:
 translate italiantl _call_syscheck_13_ff7c1ac6:
 
     # Sb "Alright, Miss, we're going to have to take you to the department."
-    Sb "D'accordo, Signorina, adesso dovremo portarla al dipartimento." # now added as buffer
+    Sb "D'accordo, Signorina, a questo punto dovremo portarla al dipartimento."
 
 # game/chapter1.rpy:3637
 translate italiantl _call_syscheck_13_356b153d:
@@ -4436,7 +4436,7 @@ translate italiantl _call_syscheck_13_00d1c811:
 translate italiantl _call_syscheck_13_df144435:
 
     # Br "Of course nobody told you. You're on sick leave. Mandatory sick leave, I might add."
-    Br "Ovviamente nessuno te l'ha detto. Sei in congedo per malattia. Congedo obbligatorio, se posso aggiungere." # sick (2nd) hidden
+    Br "Ovviamente nessuno te l'ha detto. Sei in congedo per malattia. Congedo obbligatorio, se posso aggiungere." # "mandatory [sick] leave"
 
 # game/chapter1.rpy:3737
 translate italiantl _call_syscheck_13_a8193667:
@@ -4538,7 +4538,7 @@ translate italiantl _call_syscheck_13_13ab97f3:
 translate italiantl _call_syscheck_13_ff7d6620:
 
     # c "I see. I suspect he won't adhere to the standards of performing an unbiased investigation, though."
-    c "Capisco. Ho il sospetto che non aderirà agli standard di un'investigazione imparziale, però." # performing hidden
+    c "Capisco. Ho il sospetto che non aderirà agli standard di un'investigazione imparziale, però." # "standards of [performing] an unbiased investigation"
 
 # game/chapter1.rpy:3766
 translate italiantl _call_syscheck_13_e7fb449d:
@@ -4848,7 +4848,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1627
     old "They say it's for our own security."
-    new "Dicono che è per la nostra sicurezza." # own hidden
+    new "Dicono che è per la nostra sicurezza." # "for our [own] security"
 
     # chapter1.rpy:1627
     old "It does seem rather strange that they need someone following us everywhere."
@@ -4976,7 +4976,7 @@ translate italiantl strings:
 
     # chapter1.rpy:2202
     old "Break into the manufacturing plant."
-    new "Irrompessi nell'impianto di produzione."
+    new "Irrompessi nello stabilimento di produzione."
 
     # chapter1.rpy:2202
     old "[[I am unable to decode the message.]"

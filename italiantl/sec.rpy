@@ -429,7 +429,7 @@ translate italiantl noperm_b0a71fe6:
 # game/sec.rpy:395
 translate italiantl noperm_08c5237b:
 
-    # s "[[Database corrupted] [[A]"
+    # s "[[Database corrupted] [[A]" # The game's puzzle means we get 10 letters from the next few similar instances (like the a here) that ultimately form the words "Count Cards". If not possible, we need to be able to form a word that can in itself be a small puzzle or hint where the solution is the number 13
     s ""
 
 # game/sec.rpy:404
@@ -969,7 +969,7 @@ translate italiantl _call_filename_list_10a4ff4e:
 # game/sec.rpy:1151
 translate italiantl _call_filename_list_4879116e:
 
-    # s "I recommend backing up your save files before you use them. Otherwise, I will not be able to guarantee your safety beyond this point."
+    # s "I recommend backing up your save files before you use them. Otherwise, I will not be able to guarantee your safety beyond this point." # safety not guaranteed
     s ""
 
 # game/sec.rpy:1155
@@ -1365,7 +1365,7 @@ translate italiantl strings:
     new ""
 
     # sec.rpy:834
-    old "Af %%2035sc @ctions 1"
+    old "Af %%2035sc @ctions 1" # this and the next few is mostly garbled computer stuff, the only semi-recognizable word here is "actions"
     new ""
 
     # sec.rpy:834
