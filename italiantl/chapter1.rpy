@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/chapter1.rpy:56
 translate italiantl nameentryx_dc71aba9:
@@ -4028,7 +4028,7 @@ translate italiantl quest5_d19f855d:
 translate italiantl quest5_2e8a7b46:
 
     # c "He died here, else there would have been a trail we could follow. The splatters also suggest this is where they fought."
-    c "È morto qui, altrimenti ci sarebbe stata una scia da seguire. Gli schizzi inoltre suggeriscono che è qui che hanno lottato."
+    c "È morto qui, altrimenti vi sarebbe stata una scia da poter seguire. Gli schizzi inoltre suggeriscono che è qui che hanno lottato."
 
 # game/chapter1.rpy:3469
 translate italiantl quest5_0ee50d1c:
@@ -4460,13 +4460,13 @@ translate italiantl _call_syscheck_13_6e94227f:
 translate italiantl _call_syscheck_13_770d320f:
 
     # Br "I know what you are thinking, but don't jump to conclusions here."
-    Br "So a cosa pensi, ma non saltare alle conclusioni adesso."
+    Br "So a cosa stai pensando, ma non saltare alle conclusioni adesso."
 
 # game/chapter1.rpy:3741
 translate italiantl _call_syscheck_13_c1c6fd1f:
 
     # Mv "I don't need to jump to conclusions, I think the dead body we found says it all."
-    Mv "Non ho alcun bisogno di saltare ad alcuna conclusione, ritengo che il corpo senza vita che abbiamo trovato parli da solo."
+    Mv "Non ho alcun bisogno di saltare alle conclusioni, ritengo che il corpo senza vita che abbiamo trovato parli da solo."
 
 # game/chapter1.rpy:3742
 translate italiantl _call_syscheck_13_e73d0e45:
@@ -4586,7 +4586,7 @@ translate italiantl _call_syscheck_13_f6aa8926:
 translate italiantl _call_syscheck_13_cbde794f:
 
     # Br "You know what, if you think of something that might help with the investigation, or if you need anything else, just call me."
-    Br "Sai che c'è, se ti viene in mente qualcosa che possa aiutare con l'investigazione, o se hai bisogno di qualsiasi altra cosa, fammi uno squillo."
+    Br "Sai che c'è, se ti viene in mente qualcosa che potrebbe aiutare con l'investigazione, o se hai bisogno di qualsiasi altra cosa, fammi uno squillo."
 
 # game/chapter1.rpy:3782
 translate italiantl _call_syscheck_13_255ecca1:
