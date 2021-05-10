@@ -572,7 +572,7 @@ translate italiantl holetravel_98cf1cad:
 translate italiantl holetravel_aeb0c88e:
 
     # Ry "Sorry about that, but we had a good reason to schedule your arrival like this. We did not want you to be ambushed by a crowd, so we had to keep your exact time and date of arrival secret."
-    Ry "Mi dispiace, ma avevamo una buona ragione per pianificare il tuo arrivo in questo modo. Non volevamo che tu fossi assalitə da una folla, quindi abbiamo dovuto mantenere segrete data e ora esatte del tuo arrivo."
+    Ry "Ti chiedo scusa, ma avevamo una buona ragione per pianificare il tuo arrivo in questo modo. Non volevamo che tu fossi assalitə da una folla, quindi abbiamo dovuto mantenere segrete data e ora esatte del tuo arrivo."
 
 # game/chapter1.rpy:683
 translate italiantl holetravel_b1ea774c:
@@ -774,7 +774,7 @@ translate italiantl _call_skiptut_2_11989f6d:
 translate italiantl _call_skiptut_2_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente alla selezione del personaggio."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente alla selezione del personaggio."
 
 # game/chapter1.rpy:1218
 translate italiantl _call_skiptut_2_0054b77b:
@@ -1320,7 +1320,7 @@ translate italiantl _call_skiptut_3_c0c1f01e:
 translate italiantl _call_skiptut_3_23afc6bb:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the investigation."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente all'investigazione."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente all'investigazione."
 
 # game/chapter1.rpy:1603
 translate italiantl _call_skiptut_3_0054b77b:
@@ -2088,7 +2088,7 @@ translate italiantl _call_syscheck_6_9e99e262:
 translate italiantl _call_syscheck_6_2997ffea:
 
     # Sb normal b "Sorry about that."
-    Sb normal b "Mi dispiace per quello."
+    Sb normal b "Ti chiedo scusa."
 
 # game/chapter1.rpy:2081
 translate italiantl _call_syscheck_6_5101fbef:
@@ -4544,7 +4544,7 @@ translate italiantl _call_syscheck_13_ff7d6620:
 translate italiantl _call_syscheck_13_e7fb449d:
 
     # Br "He has already made up his mind. It's clear to me he won't be looking for facts, just for evidence to support his own view in order to prove it to us or himself, who knows."
-    Br "Ha già preso la sua decisione. Mi sembra chiaro che non guarderà ai fatti, ma solo alle prove a sostegno del suo punto di vista in modo da dimostrarlo a noi o a sé stesso, chi lo sa."
+    Br "Ha già preso la sua decisione. Mi sembra chiaro che non guarderà ai fatti, ma solo alle prove a sostegno del suo punto di vista per poterlo dimostrare a noi o a sé stesso, chi lo sa."
 
 # game/chapter1.rpy:3767
 translate italiantl _call_syscheck_13_db3eef0e:
