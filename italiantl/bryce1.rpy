@@ -2028,7 +2028,7 @@ translate italiantl strings:
 
     # bryce1.rpy:417
     old "[[Leave.]"
-    new ""
+    new "[[Esci.]"
 
     # bryce1.rpy:551
     old "I would, but I don't think I can beat someone like you."

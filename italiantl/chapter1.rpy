@@ -174,7 +174,7 @@ translate italiantl begingame_337d015e:
 translate italiantl begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta. Una lettera d'invito. Dopo qualche deliberazione, fu deciso di accettare la loro accoglienza e inviare una persona dall'altro lato." # ":" -> ".", to preserve the capital letter
+    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta. Una lettera d'invito. Dopo qualche deliberazione, fu deciso di accettare la loro accoglienza e inviare una persona dall'altro lato." # ":" -> ".", to preserve the uppercase letter
 
 # game/chapter1.rpy:437
 translate italiantl begingame_3dadd8d0:
@@ -324,7 +324,7 @@ translate italiantl begingame_1020ae93:
 translate italiantl begingame_3ff6841f:
 
     # n "Some people brought up quantum mechanics and parallel universes, but in the end all of this was just conjecture and an ultimately fruitless endeavor, since we neither had the means nor the resources to explore these possibilities in greater detail."
-    n "Alcuni tirarono in ballo la meccanica quantistica e gli universi paralleli, ma alla fine non si trattava che di congetture e in definitiva di sterile esercizio, dal momento che nessuno disponeva dei mezzi né delle risorse per esplorare tali possibilità in maggior dettaglio."
+    n "Alcuni tirarono in ballo la meccanica quantistica e gli universi paralleli, ma alla fine non si trattava che di congetture e in definitiva di sterile esercizio, dal momento che nessuno disponeva dei mezzi né delle risorse per esplorare tali possibilità in maggiore dettaglio."
 
 # game/chapter1.rpy:479
 translate italiantl begingame_94c45763:
@@ -376,7 +376,7 @@ translate italiantl begingame_23bd1b9f:
 translate italiantl begingame_9422efc0:
 
     # n "Not only that, but evidently also quite efficient. We certainly would be able to put technology like that to good use, and trading mere past knowledge of the human race for something more... tangible... was a good call on his part."
-    n "Non solo, ma evidentemente anche alquanto efficiente. Saremmo certamente stati in grado di mettere una tale tecnologia a buon frutto, e scambiare mera conoscenza pregressa della razza umana per qualcosa di più... tangibile... era stata una bella pensata da parte sua."
+    n "Non solo, ma evidentemente anche alquanto efficiente. Saremmo stati certamente in grado di mettere una tale tecnologia a buon frutto, e scambiare mera conoscenza pregressa della razza umana per qualcosa di più... tangibile... era stata una bella pensata da parte sua."
 
 # game/chapter1.rpy:494
 translate italiantl begingame_76b2fe88_3:
@@ -620,7 +620,7 @@ translate italiantl holetravel_f97397b2:
 translate italiantl holetravel_7c536461:
 
     # Ry "This is where you will live for the time being. It is fully stocked, but in case you need anything else, I left you a note with a few phone numbers."
-    Ry "Quì è dove ti sistemerai per il tempo a venire. È completamente fornito, ma nel caso tu abbia bisogno di qualsiasi altra cosa, ti ho lasciato un appunto con un alcuni numeri di telefono."
+    Ry "Qui è dove ti sistemerai per il tempo a venire. È completamente fornito, ma nel caso tu abbia bisogno di qualsiasi altra cosa, ti ho lasciato un appunto con un alcuni numeri di telefono."
 
 # game/chapter1.rpy:714
 translate italiantl holetravel_e590ac89:
@@ -668,7 +668,7 @@ translate italiantl holetravel_76b2fe88_1:
 translate italiantl holetravel_49a3a932:
 
     # n "Now here I was, a stranger in a strange land, as I only began to feel the weight of the burden that lay upon me, the pressure of my task and the expectations I would have to meet in representing a species, culture and civilization."
-    n "Eccomi qui, unə stranierə in una strana terra, mentre stavo solo iniziando a sentire il peso del fardello che gravava su di me, la pressione del mio compito e le aspettative che avrei dovuto soddisfare nel rappresentare una specie, una cultura e una civiltà."
+    n "E ora eccomi qui, unə stranierə in una strana terra, mentre stavo solo iniziando a sentire il peso del fardello che gravava su di me, la pressione del mio compito e le aspettative che avrei dovuto soddisfare nel rappresentare una specie, una cultura e una civiltà."
 
 # game/chapter1.rpy:744
 translate italiantl holetravel_d92940c8:
@@ -1766,7 +1766,7 @@ translate italiantl _call_syscheck_6_5566c4b8:
 translate italiantl _call_syscheck_6_1d4d5f4b:
 
     # Sb "Don't worry about it."
-    Sb "Non ti preoccupare."
+    Sb "Non preoccuparti."
 
 # game/chapter1.rpy:1893
 translate italiantl _call_syscheck_6_8b6c00cc:
@@ -2094,7 +2094,7 @@ translate italiantl _call_syscheck_6_2997ffea:
 translate italiantl _call_syscheck_6_5101fbef:
 
     # c "Don't worry about it."
-    c "Non ti preoccupare."
+    c "Non preoccuparti."
 
 # game/chapter1.rpy:2083
 translate italiantl _call_syscheck_6_66a3f50e:
@@ -2124,7 +2124,7 @@ translate italiantl _call_syscheck_6_f84a7975:
 translate italiantl _call_syscheck_6_130a299e:
 
     # n "When I started reading, however, I saw that his wording was so full of the pleasantries I knew he hated that I assumed every word of it was faked as to conceal its true intent."
-    n "Quando iniziai a leggere, però, mi resi conto che il suo modo di esprimersi era così zeppo dei convenevoli che gli sapevo tanto avversi che assumetti che ogni parola fosse stata inscenata in modo da dissimulare il suo vero intento."
+    n "Quando iniziai a leggere, però, mi resi conto che il suo modo di esprimersi era così zeppo dei convenevoli che gli sapevo tanto avversi che dovetti supporre che ogni parola fosse stata inscenata in modo da dissimulare il suo vero intento."
 
 # game/chapter1.rpy:2103
 translate italiantl _call_syscheck_6_5dc3c29d:
@@ -2660,7 +2660,7 @@ translate italiantl _call_syscheck_7_f33190c8:
 translate italiantl _call_syscheck_7_4f1f0b5f:
 
     # c "(Maybe Reza left me another message here at some point. He could've known that I was going to live here, so I suppose it is possible that he helped with the preparations and hid something for me to find.)"
-    c "(Forse [Rz] mi ha lasciato un altro messaggio qui a un certo punto. Potrebbe aver saputo che avrei vissuto qui, quindi suppongo che sia possibile che abbia dato una mano coi preparativi e nascosto qualcosa perché la trovassi.)"
+    c "(Forse [Rz] mi ha lasciato un altro messaggio qui a un certo punto. Potrebbe aver saputo che avrei vissuto qui, quindi suppongo sia possibile che abbia dato una mano coi preparativi e nascosto qualcosa perché io la trovassi.)"
 
 # game/chapter1.rpy:2466
 translate italiantl _call_syscheck_7_d0a1ba27:
@@ -2870,7 +2870,7 @@ translate italiantl _call_syscheck_11_de498926:
 translate italiantl _call_syscheck_11_eb4d1edc:
 
     # c "(I'd be going on a date.)"
-    c "(Avrei un pie-datter-ra.)"
+    c "(Avrei un pie-datter-ra.)" # adapted to preserve a pun
 
 # game/chapter1.rpy:2729
 translate italiantl _call_syscheck_11_542ac51d:
@@ -2924,7 +2924,7 @@ translate italiantl _call_syscheck_11_9ca3ba4e:
 translate italiantl _call_syscheck_11_4c8f346f:
 
     # c "(There are two of them. What a nice pear.)"
-    c "(Ce n'è pere-cchie. Che cornuco-pera.)" # TODO
+    c "(Ce n'è pere-cchie.)"
 
 # game/chapter1.rpy:2753
 translate italiantl _call_syscheck_11_9c2c9e41:
@@ -2972,7 +2972,7 @@ translate italiantl _call_syscheck_11_6d1e2555:
 translate italiantl _call_syscheck_11_d7a61edb:
 
     # m "Unsurprisingly, it came to a happy end, with the evil organization stopped in its tracks, at least for now. I thought the ending was deliberately left open for ambiguity, but when I turned the page and saw the advertisement for the next entry in this apparently long-running series of books, I realized all of this had just been a ploy to set up the inevitable sequel."
-    m "Prevedibilmente, giungeva a una felice conclusione, con la malvagia organizzazione fermata sul nascere, almeno per ora. Pensai che il finale fosse deliberatamente lasciato aperto a interpretazioni ambigue, ma quando girai la pagina e vidi l'annuncio del capitolo successivo di questa apparentemente longeva serie di libri, realizzai che tutto ciò non era stato che un espediente a predisporre l'inevitabile sèguito."
+    m "Prevedibilmente, giungeva a una felice conclusione, con la malvagia organizzazione fermata sul nascere, almeno per ora. Pensai che il finale fosse deliberatamente lasciato aperto a interpretazioni ambigue, ma quando girai la pagina e vidi l'annuncio del capitolo successivo di questa apparentemente longeva serie di libri, realizzai che era stato solo uno stratagemma volto a imbastire l'inevitabile sèguito."
 
 # game/chapter1.rpy:2787
 translate italiantl continuation_cfb5aca4:
@@ -3068,7 +3068,7 @@ translate italiantl continuation_809da3d8:
 translate italiantl continuation_addb4e00:
 
     # Rz "As for the other: Do you know what this place is?"
-    Rz "Riguardo la seconda. Lo sai cos'è questo posto?" # ":" -> ".", to preserve the capital letter
+    Rz "Riguardo la seconda. Lo sai cos'è questo posto?" # ":" -> ".", to preserve the uppercase letter
 
 # game/chapter1.rpy:2838
 translate italiantl continuation_bde4f6a4:
@@ -3602,7 +3602,7 @@ translate italiantl continuation_6e5c7142:
 translate italiantl continuation_e8f43124:
 
     # Br "Your cooperation would certainly be appreciated, and it would be a nice gesture to show us that you're trustworthy in the eyes of those who might think otherwise after what happened yesterday."
-    Br "La tua collaborazione sarebbe certamente apprezzata, e sarebbe un bel gesto per dimostrarci che sei degnə di fiducia agli occhi di coloro che potrebbero pensare il contrario dopo ciò che è successo ieri."
+    Br "La tua collaborazione sarebbe certamente apprezzata, e sarebbe un bel gesto per dimostrarci che sei degnə di fiducia agli occhi di coloro che potrebbero pensare il contrario dopo quel che è successo ieri."
 
 # game/chapter1.rpy:3144
 translate italiantl _call_syscheck_12_9f70b105:
@@ -4196,7 +4196,7 @@ translate italiantl _call_syscheck_13_19e2bb77:
 translate italiantl _call_syscheck_13_593bcccd:
 
     # s "You did well on the first investigation. Achoo- I mean, achievement unlocked."
-    s "Te la sei cavata bene nella prima investigazione. Eccì- Voglio dire, eccellente." # slightly adapted to preserve a pun
+    s "Te la sei cavata bene nella prima investigazione. Eccì- Voglio dire, eccellente." # adapted to preserve a pun
 
 # game/chapter1.rpy:3613
 translate italiantl _call_syscheck_13_9cf7f4d5:
@@ -4220,7 +4220,7 @@ translate italiantl _call_syscheck_13_5c730655:
 translate italiantl _call_syscheck_13_1cccbacd:
 
     # Br "Don't worry about it. We still need your help with other things."
-    Br "Non ti preoccupare. Abbiamo ancora bisogno del tuo aiuto con altre cose."
+    Br "Non preoccuparti. Abbiamo ancora bisogno del tuo aiuto con altre cose."
 
 # game/chapter1.rpy:3628
 translate italiantl _call_syscheck_13_b31a64f0:
@@ -4568,7 +4568,7 @@ translate italiantl _call_syscheck_13_de4291be:
 translate italiantl _call_syscheck_13_138bdb5d:
 
     # Br "Don't worry, Reza will turn up eventually."
-    Br "Non ti preoccupare, [Rz] si farà vivo prima o poi."
+    Br "Non preoccuparti, [Rz] si farà vivo prima o poi."
 
 # game/chapter1.rpy:3779
 translate italiantl _call_syscheck_13_d219e599:
@@ -4904,7 +4904,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1721
     old "What a creep."
-    new "Che razza di serpe."
+    new "Che viscida serpe."
 
     # chapter1.rpy:1753
     old "Thanks."

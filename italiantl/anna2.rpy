@@ -2110,7 +2110,7 @@ translate italiantl strings:
 
     # anna2.rpy:919
     old "I have no idea."
-    new ""
+    new "Non ne ho idea."
 
     # anna2.rpy:1005
     old "No, I'm not a monster."

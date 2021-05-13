@@ -6,16 +6,23 @@ Currently working on the main chapters. Files done and up for review:
 
     common.rpy
     dv.rpy
+    
     screens.rpy
     status.rpy
     help.rpy
     images.rpy
     script.rpy
+
     chapter1.rpy
+    chapter2.rpy
 
-**Note**: Having considered the developer's opinion, and given the precedent of Neo Cab, I decided to use [Inclusive Italian][1] to help referring to the player character with a neutral gender, which wouldn't be possible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with the 'ə' symbol, needed for such a neutral gender. Also note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.
+A few remarks:
 
-**Note**: Throughout the script, I also decided to use the characters' variables, defined in `images.rpy`, in place of their names where possible, e.g. `Reza` → `[Rz]`.
+* Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.
+
+* I also decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names whenever possible throughout the script, e.g. `Reza` → `[Rz]`. Moreover, `Emera` is addressed with formal pronouns.
+
+* Sometimes, it can happen that a line matches exactly its translated counterpart. These lines don't get rendered correctly for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
 
 [1]:https://italianoinclusivo.it/
 
@@ -49,15 +56,31 @@ The following are mostly to the benefit of the developer and translators.
 ### chapter1.rpy
 
 * At line 385, 408: *to skip seen messages* → *to skip messages*, as it depends on the user's preference.
-* At line 431: *were in consideration* → *had been in consideration*, as we're supposedly talking of the period before the solar flare. The current translation is nonetheless rather flexible in this sense.
+* At line 431: *were in consideration* → *had been in consideration*, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
-* At line 436, 2837: Corrected colon to dot to preserve the capital letter.
+* At line 436, 2837: Corrected colon to dot to preserve the uppercase letter.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1358: Corrected number of dots from two to three.
 * At line 2395, 2735, 3352: Slightly pruned to fit fewer lines.
-* At line 2348-2352, 2389-2395, 2410-2415: Assumed the author's gender by necessity.
+* At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
+* At line 2728, 2747, 3609: Adapted to preserve a pun; reverse translation:
+  * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre.*)
+  * At line 2747: *There's a lot of them.*
+  * At line 3609: *Achoo- I mean, excellent.*
 * At line 2737: Slightly adapted *isn't it fascinating* to add an obvious pun without loss of meaning.
-* At line 2747: Slightly adapted to strengthen the pun, but it might still be too weak.
 * At line 3068: *PDAs* → *PDA*.
-* At line 3352: Slightly adapted to match line 3344 so that they both fit lines 3384/3391.
-* At line 3609: Slightly adapted to preserve a pun.
+* At line 3226: The actual translation in DE:HR would be just *condolences*; I'm still unsure whether to unfold *RIP* or not.
+
+### chapter2.rpy
+
+* At line 523, 1278, 3228, 3312, 3712, 3792, 4226: Corrected simple dash to em-dash.
+* At line 572, 3510, 3680: Corrected colon to dot to preserve the uppercase letter.
+* At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. Note that the user should be aware enough that the intended concordance of genders is syntactic, as semantic concordance of *that* \[<i>quell-</i>\] with the subject would have been rendered with the inclusive gender instead \[<i>-ə</i>\].
+* At line 958, 1056, 1816, 1826, 1830: Corrected uppercase letter to lowercase.
+* At line 1036, 1148: Slightly pruned to fit fewer lines.
+* At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of `chapter1.rpy`.
+* At line 1607: Added brackets to match line 2301 of `chapter1.rpy`.
+* At line 1623: "melon bread" -> "melon-flavored bread", to preserve the pun by linguistic necessity.
+* At line 2423, 3824: Adapted to preserve a pun; reverse translation:
+  * At line 2423: A playful exclamation of surprise.
+  * At line 3824: This one just had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
