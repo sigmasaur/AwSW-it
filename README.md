@@ -20,7 +20,7 @@ A few remarks:
 
 * Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.
 
-* I also decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names whenever possible throughout the script, e.g. `Reza` → `[Rz]`. Moreover, `Emera` is addressed with formal pronouns.
+* I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`. Also, `Emera` is addressed with formal pronouns.
 
 * Sometimes, it can happen that a line matches exactly its translated counterpart. These lines don't get rendered correctly for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
 
@@ -80,7 +80,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1036, 1148: Slightly pruned to fit fewer lines.
 * At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of `chapter1.rpy`.
 * At line 1607: Added brackets to match line 2301 of `chapter1.rpy`.
-* At line 1623: "melon bread" -> "melon-flavored bread", to preserve the pun by linguistic necessity.
+* At line 1623: *melon bread* → *melon-flavored bread*, to preserve the pun by linguistic necessity.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
   * At line 2423: A playful exclamation of surprise.
   * At line 3824: This one just had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
