@@ -61,13 +61,13 @@ The following are mostly to the benefit of the developer and translators.
 * At line 436, 2837: Corrected colon to dot to preserve the uppercase letter.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1358: Corrected number of dots from two to three.
-* At line 2395, 2735, 3352: Slightly pruned to fit fewer lines.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
 * At line 2728, 2747, 3609: Adapted to preserve a pun; reverse translation:
   * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre.*)
   * At line 2747: *There's a lot of them.*
   * At line 3609: *Achoo- I mean, excellent.*
 * At line 2737: Slightly adapted *isn't it fascinating* to add an obvious pun without loss of meaning.
+* At line 2753, 3352: Slightly pruned to fit fewer lines.
 * At line 3068: *PDAs* → *PDA*.
 * At line 3226: The actual translation in DE:HR would be just *condolences*; I'm still unsure whether to unfold *RIP* or not.
 

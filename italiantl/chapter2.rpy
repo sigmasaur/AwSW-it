@@ -262,7 +262,7 @@ translate italiantl _call_skipcheck_11_467820d0:
 translate italiantl _call_skipcheck_11_eebfaa9c:
 
     # Br "We obtained a list of places Reza visited in the days before he vanished. We'll check those out, maybe find a lead, and you might help us understand his motivations or give us some context to his actions."
-    Br "Abbiamo ottenuto un elenco di posti che [Rz] ha visitato nei giorni precedenti alla sua scomparsa. Vi daremo un'occhiata, magari troveremo una pista, e tu potresti aiutarci a capire le sue motivazioni o fornirci un contesto alle sue azioni."
+    Br "Abbiamo ottenuto un elenco di posti che [Rz] ha visitato nei giorni precedenti alla sua scomparsa. Vi daremo un'occhiata, magari troveremo una pista, e tu potresti aiutarci a capire le sue motivazioni o fornire un contesto alle sue azioni." # "give [us] some context"
 
 # game/chapter2.rpy:437
 translate italiantl _call_skipcheck_11_46b81fe9:
@@ -979,13 +979,13 @@ translate italiantl _call_skipcheck_11_ad212339:
 translate italiantl _call_skipcheck_11_7581cdd5:
 
     # Br stern b "Right. Who else would need to steal a generator, when those who live here could either buy or even simply request one? Not to mention, Reza was the one who arranged the diplomatic trade for the generators in the first place."
-    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne o anche solo richiederne uno? Senza contare che è stato proprio [Rz] a organizzare lo scambio diplomatico per i generatori."
+    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato proprio [Rz] a organizzare lo scambio diplomatico per i generatori."
 
 # game/chapter2.rpy:981
 translate italiantl _call_skipcheck_11_2c4cde19:
 
     # Br stern b "Right. Who else would need to steal a generator, when those who live here could either buy or even simply request one. Not to mention, Reza was the one who arranged the diplomatic trade for the generators in the first place."
-    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne o anche solo richiederne uno? Senza contare che è stato proprio [Rz] a organizzare lo scambio diplomatico per i generatori." # "." -> "?" to match line 975
+    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato proprio [Rz] a organizzare lo scambio diplomatico per i generatori." # "." -> "?" to match line 975
 
 # game/chapter2.rpy:985
 translate italiantl _call_skipcheck_11_3951ceed:
@@ -1243,7 +1243,7 @@ translate italiantl chapter2sections2_864b25a3:
 translate italiantl chapter2sections2_9196ef07:
 
     # n "My earlier encounter with the masked person was the only time today someone was close enough to smuggle something into my pocket. I figured if someone like Bryce tried to do something like that, I definitely would have noticed."
-    n "Il mio precedente incontro con la persona mascherata era stata la sola volta quel giorno in cui qualcuno mi fosse stato abbastanza vicino da infilarmi di nascosto qualcosa in tasca. Pensai che se uno come [Br] avesse cercato di fare qualcosa del genere, me ne sarei certamente accortə."
+    n "Il mio precedente incontro con la persona mascherata era stata la sola volta quel giorno in cui qualcuno mi fosse stato abbastanza vicino da infilarmi di nascosto qualcosa in tasca. Pensai che se uno come [Br] avesse tentato di fare qualcosa del genere, me ne sarei certamente accortə."
 
 # game/chapter2.rpy:1166
 translate italiantl chapter2sections2_53e1b848:
@@ -1869,7 +1869,7 @@ translate italiantl chap2storebrowsemenu_c0b3ec20:
 translate italiantl chap2storebrowsemenu_681dd9c0:
 
     # Op "Yes! What do you say, melon or lemon bread? I mean, the only difference between the two is, like, one letter - so how am I supposed to choose?"
-    Op "Sì! Che ne dici, pane al melone o al limone? Voglio dire, l'unica differenza fra i due sono, tipo, un paio di lettere—come dovrei scegliere?" # "melon bread" -> "melon-flavored bread", by necessity
+    Op "Sì! Che ne dici, pane al melone o al limone? Voglio dire, l'unica differenza fra i due sono, tipo, un paio di lettere—come dovrei scegliere?" # "melon bread" -> "melon-flavored bread" by necessity
 
 # game/chapter2.rpy:1625
 translate italiantl chap2storebrowsemenu_fbab3b6f:
@@ -3639,7 +3639,7 @@ translate italiantl _call_skipcheck_12_1a5bf72f:
 translate italiantl _call_skipcheck_12_1ca32b77:
 
     # Mv "I could've saved the world with what I did that day and it still wouldn't matter when no one believes me. Just because I don't have any proof."
-    Mv "Potrei anche aver salvato il mondo con ciò che ho fatto quel giorno e ancora non conterebbe niente quando nessuno mi crede. Tutto perché non ho le prove."
+    Mv "Potrei anche aver salvato il mondo con quello che ho fatto quel giorno e ancora non conterebbe niente quando nessuno mi crede. Tutto perché non ho le prove."
 
 # game/chapter2.rpy:3583
 translate italiantl _call_skipcheck_12_07d16065:
@@ -3789,7 +3789,7 @@ translate italiantl _call_skipcheck_12_3e493b39:
 translate italiantl _call_skipcheck_12_3cbf6907:
 
     # Sb "He could be anywhere. Long gone, beyond our reach. What do you think?"
-    Sb "Potrebbe essere ovunque. Ormai lontano, fuori dalla nostra portata. Tu cosa ne pensi?"
+    Sb "Potrebbe essere ovunque. Ormai lontano, fuori dalla nostra portata. Tu che ne pensi?"
 
 # game/chapter2.rpy:3670
 translate italiantl _call_skipcheck_12_725cbe0d:
@@ -3855,7 +3855,7 @@ translate italiantl _call_skipcheck_12_b601d0a4:
 translate italiantl _call_skipcheck_12_9c7c41dd:
 
     # c "I don't think you quite understand what you're dealing with."
-    c "Non penso che voi abbiate ben capito con cos'avete a che fare."
+    c "Non penso che voi abbiate ben capito con cosa avete a che fare."
 
 # game/chapter2.rpy:3698
 translate italiantl _call_skipcheck_12_567c8e01:
@@ -3903,13 +3903,13 @@ translate italiantl _call_skipcheck_12_bff08eef:
 translate italiantl _call_skipcheck_12_bdb129d4:
 
     # Sb "As long as you don't give up, there's still a chance to solve the case - however small it may be."
-    Sb "Fintantoché non ti dai per vinto, resta sempre una possibilità di risolvere il caso—per quanto minima possa essere." # used em dash
+    Sb "Fintantoché non ti dai per vinto, resta sempre una possibilità di risolvere il caso—per quanto remota possa essere." # used em dash
 
 # game/chapter2.rpy:3714
 translate italiantl _call_skipcheck_12_b44aee8e:
 
     # Sb "And you know, maybe it's that small chance that makes the difference in the end."
-    Sb "E lo sai, forse è proprio quella minima possibilità che fa la differenza alla fine."
+    Sb "E lo sai, forse è proprio quella remota possibilità che fa la differenza alla fine."
 
 # game/chapter2.rpy:3716
 translate italiantl _call_skipcheck_12_7d2d963e:
@@ -3999,7 +3999,7 @@ translate italiantl chap2skip3_fd91b852:
 translate italiantl chap2skip3_35e3cdf6:
 
     # Sb "The receipts you got are interesting. There might be something more to them, or they could just be a useless record of his eating habits. You never know what you might find out about a person, their habits, or their plans this way."
-    Sb "Le ricevute che hai ottenuto sono interessanti. Potrebbero nascondere qualcos'altro, oppure essere solo gli inutili registri delle sue abitudini alimentari. Non sai mai quello che puoi scoprire di una persona, le sue abitudini o i suoi piani in questo modo."
+    Sb "Le ricevute che hai ottenuto sono interessanti. Potrebbero nascondere qualcos'altro, oppure essere solo gli inutili registri delle sue abitudini alimentari. Non sai mai quello che puoi scoprire di una persona, le sue abitudini o i suoi progetti in questo modo."
 
 # game/chapter2.rpy:3780
 translate italiantl chap2skip3_06edf7ee:
@@ -4275,7 +4275,7 @@ translate italiantl _call_popularcheck_14_9f7585d0:
 translate italiantl _call_popularcheck_14_85982b7e:
 
     # m "In the end, I decided to spend the day reading in my apartment. I wasn't really in the mood for anything complex, so I settled for reading the next entry in the \"Sheridan's Adventures\" series."
-    m "Alla fine, decisi di trascorrere la giornata a leggere nel mio appartamento. Non ero in vena di niente di complesso, quindi mi accontentai di leggere il capitolo successivo della serie di \"Avventure di Sheridan\"."
+    m "Alla fine, decisi di trascorrere la giornata a leggere nel mio appartamento. Non ero in vena di niente di complicato, quindi mi accontentai di leggere il capitolo successivo della serie di \"Avventure di Sheridan\"."
 
 # game/chapter2.rpy:4796
 translate italiantl _call_popularcheck_14_ad846bd9:
@@ -4293,7 +4293,7 @@ translate italiantl _call_popularcheck_14_45731809:
 translate italiantl chap2altmenub2_85982b7e:
 
     # m "In the end, I decided to spend the day reading in my apartment. I wasn't really in the mood for anything complex, so I settled for reading the next entry in the \"Sheridan's Adventures\" series."
-    m "Alla fine, decisi di trascorrere la giornata a leggere nel mio appartamento. Non ero in vena di niente di complesso, quindi mi accontentai di leggere il capitolo successivo della serie di \"Avventure di Sheridan\"."
+    m "Alla fine, decisi di trascorrere la giornata a leggere nel mio appartamento. Non ero in vena di niente di complicato, quindi mi accontentai di leggere il capitolo successivo della serie di \"Avventure di Sheridan\"."
 
 # game/chapter2.rpy:5047
 translate italiantl chap2altmenub2_ad846bd9:

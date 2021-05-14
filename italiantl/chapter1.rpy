@@ -76,7 +76,7 @@ translate italiantl detected_979415d0:
 translate italiantl detected_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Middle Click] o [[H] nasconde la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # "to skip [seen] messages", as it depends on the user's preference
+    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Middle Click] o [[H] nasconde la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # "to skip [seen] messages" as it depends on the user's preference
 
 # game/chapter1.rpy:386
 translate italiantl detected_4f5f91c6:
@@ -2924,13 +2924,13 @@ translate italiantl _call_syscheck_11_9ca3ba4e:
 translate italiantl _call_syscheck_11_4c8f346f:
 
     # c "(There are two of them. What a nice pear.)"
-    c "(Ce n'è pere-cchie.)"
+    c "(Ce n'è pere-cchie.)" # adapted to preserve a pun
 
 # game/chapter1.rpy:2753
 translate italiantl _call_syscheck_11_9c2c9e41:
 
     # c "(So, daddy grape finds his kid crying and asks \"What's wrong, kid?\", but through all the tears, the kid couldn't get a single word out. Eventually, daddy had enough, so he said: \"Stop wi...\" No, I won't say it. It wasn't a good joke anyway.)"
-    c "(Dunque, papà grappolo vede suo figlio piangere e chiede \"Che succede, figliolo?\", ma fra tutte le lacrime, il bimbo non riesce a cacciare una parola. Finalmente, il papà ne ha abbastanza, e dice: \"Smettila di vignucol...\" Nah, non era granché come battuta.)" # slightly pruned to fit three lines
+    c "(Dunque, papà grappolo trova suo figlio piangere e chiede \"Che succede, figliolo?\", ma fra tutte le lacrime, il bimbo non riesce a cacciare una parola. Finalmente, il papà ne ha abbastanza, e dice: \"Piantala di vignucol...\" Nah, non era granché come battuta.)" # slightly pruned to fit three lines
 
 # game/chapter1.rpy:2760
 translate italiantl _call_syscheck_11_4a56c371:
@@ -2948,7 +2948,7 @@ translate italiantl _call_syscheck_11_18b2fbb7:
 translate italiantl _call_syscheck_11_a1bbec6a:
 
     # m "I was sitting next to him in class when we learned that. He made a joke about using the method to cheat on the next test, and I replied by saying he'd have to bring an iron. Had he really expected me to remember a random chemistry class that happened years ago? But then, I did remember it after all."
-    m "Sedevo accanto a lui durante la lezione in cui l'avevamo imparato. Lui aveva fatto una battuta sull'usare il metodo per imbrogliare al successivo esame, e io avevo risposto dicendo che avrebbe dovuto portarsi un ferro da stiro. Si aspettava davvero che mi ricordassi una lezione di chimica a caso avuta luogo anni prima? Del resto, dopotutto in effetti l'avevo ricordata."
+    m "Sedevo accanto a lui durante la lezione in cui l'avevamo imparato. Lui aveva fatto una battuta sull'usare il metodo per imbrogliare al successivo esame, e io avevo risposto dicendo che avrebbe dovuto portarsi un ferro da stiro. Si aspettava davvero che mi ricordassi una lezione di chimica a caso avuta luogo anni prima? Del resto, dopotutto in effetti me l'ero ricordata."
 
 # game/chapter1.rpy:2766
 translate italiantl _call_syscheck_11_8edd6174:
@@ -2972,7 +2972,7 @@ translate italiantl _call_syscheck_11_6d1e2555:
 translate italiantl _call_syscheck_11_d7a61edb:
 
     # m "Unsurprisingly, it came to a happy end, with the evil organization stopped in its tracks, at least for now. I thought the ending was deliberately left open for ambiguity, but when I turned the page and saw the advertisement for the next entry in this apparently long-running series of books, I realized all of this had just been a ploy to set up the inevitable sequel."
-    m "Prevedibilmente, giungeva a una felice conclusione, con la malvagia organizzazione fermata sul nascere, almeno per ora. Pensai che il finale fosse deliberatamente lasciato aperto a interpretazioni ambigue, ma quando girai la pagina e vidi l'annuncio del capitolo successivo di questa apparentemente longeva serie di libri, realizzai che era stato solo uno stratagemma volto a imbastire l'inevitabile sèguito."
+    m "Prevedibilmente, giungeva a una felice conclusione, con la malvagia organizzazione fermata sul nascere, almeno per ora. Pensai che il finale fosse deliberatamente lasciato aperto a interpretazioni ambigue, ma quando girai la pagina e vidi l'annuncio del capitolo successivo di questa apparentemente longeva serie di libri, realizzai che era stato tutto solo uno stratagemma volto a imbastire l'inevitabile sèguito."
 
 # game/chapter1.rpy:2787
 translate italiantl continuation_cfb5aca4:
@@ -3200,7 +3200,7 @@ translate italiantl continuation_4f9d14fc:
 translate italiantl continuation_b002be4f:
 
     # m "I frantically scanned my surroundings looking for Reza, though he had already vanished into the darkness. What was I supposed to do? Run away as well? Help Maverick? I was just a diplomat and I had no idea what was happening."
-    m "Scrutai freneticamente l'ambiente circostante in cerca di [Rz], sebbene questi fosse già svanito nell'oscurità. Che cos'avrei dovuto fare? Scappare a mia volta? Aiutare [Mv]? Ero solo unə diplomaticə e non avevo idea di cosa stesse accadendo."
+    m "Scrutai freneticamente l'ambiente circostante in cerca di [Rz], sebbene questi fosse già svanito nell'oscurità. Che cos'avrei dovuto fare? Fuggire a mia volta? Aiutare [Mv]? Ero solo unə diplomaticə e non avevo idea di cosa stesse accadendo."
 
 # game/chapter1.rpy:2918
 translate italiantl continuation_a868f086:
@@ -3332,7 +3332,7 @@ translate italiantl continuation_356de34c:
 translate italiantl continuation_45b58ace:
 
     # m "It didn't take very long, though, before the doorbell rang."
-    m "Non ci volle molto, però, prima che suonasse il campanello."
+    m "Non ci volle molto, però, prima che il campanello suonasse."
 
 # game/chapter1.rpy:3026
 translate italiantl continuation_e6336435:
@@ -4538,7 +4538,7 @@ translate italiantl _call_syscheck_13_13ab97f3:
 translate italiantl _call_syscheck_13_ff7d6620:
 
     # c "I see. I suspect he won't adhere to the standards of performing an unbiased investigation, though."
-    c "Capisco. Ho il sospetto che non aderirà agli standard di un'investigazione imparziale, comunque." # slightly pruned
+    c "Capisco. Ho il sospetto che non aderirà agli standard di un'investigazione imparziale, comunque." # "standards of [performing] an unbiased investigation"
 
 # game/chapter1.rpy:3766
 translate italiantl _call_syscheck_13_e7fb449d:
