@@ -142,7 +142,7 @@ translate italiantl begingame_0420e91d:
 translate italiantl begingame_02e25085:
 
     # n "Only recently has humanity discovered a portal that leads into a different world, populated with a race of intelligent, talking dragons. I was one of the few to travel to this world..."
-    n "Solo di recente l'umanità ha rinvenuto un portale che conduce a un altro mondo, popolato da una razza di draghi dotati dell'intelletto e della parola. Io fui unə dei pochi a viaggiare verso questo mondo..."
+    n "Solo di recente l'umanità ha rinvenuto un portale che conduce a un diverso mondo, popolato da una razza di draghi dotati dell'intelletto e della parola. Io fui unə dei pochi a viaggiare verso questo mondo..."
 
 # game/chapter1.rpy:423
 translate italiantl begingame_ef5e9be2:
@@ -160,7 +160,7 @@ translate italiantl begingame_c9f110ae:
 translate italiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Avevo già sentito di una simile tecnologia, anche se perlopiù a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi e quando l'avesse costruito—o perché l'avessimo trovato nella desolazione in cui l'abbiamo trovato. Ma ciò che per noi fu più entusiasmante era il fatto che fosse... funzionante." # "were" -> "had been", also used em-dash
+    n "Avevo già sentito di una simile tecnologia, anche se perlopiù a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi l'avesse costruito, o quando—o perché l'avessimo trovato nella desolazione in cui l'abbiamo trovato. Ma ciò che per noi fu più entusiasmante era il fatto che fosse... funzionante." # "were" -> "had been", "*but* what was more", also used em-dash
 
 # game/chapter1.rpy:433
 translate italiantl begingame_337d015e:
@@ -168,13 +168,13 @@ translate italiantl begingame_337d015e:
     # nvl clear
     # n "After our first tests, we found there was someone else on the other side who was in possession of a similar portal, and our attempts at communication through letters were successful. But in the end, the machine's extraordinary demand for power meant we needed to act quickly as we wouldn’t be able to keep the portal open much longer. "
     nvl clear
-    n "Dopo i primi esperimenti, trovammo che vi era qualcun altro dall'altro lato in possesso di un simile portale, e i nostri tentativi di comunicazione tramite lettere ebbero successo. Ma alla fine, lo straordinario fabbisogno energetico della macchina significava che avremmo dovuto agire in fretta o non saremmo stati in grado di mantenere il portale aperto ancora a lungo."
+    n "Dopo i primi esperimenti, trovammo che vi era qualcun altro dall'altro lato in possesso di un simile portale, e i nostri tentativi di comunicazione tramite lettere ebbero successo. Ma alla fine, lo straordinario fabbisogno energetico della macchina significava che avremmo dovuto agire in fretta poiché non saremmo stati in grado di mantenere il portale aperto ancora a lungo."
 
 # game/chapter1.rpy:436
 translate italiantl begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta. Una lettera d'invito. Dopo qualche deliberazione, fu deciso di accettare la loro accoglienza e inviare una persona dall'altro lato." # ":" -> ".", to preserve the uppercase letter
+    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta. Una lettera d'invito. Dopo qualche deliberazione, fu deciso di accettare la loro accoglienza e inviare una persona dall'altro lato." # "a [very] unexpected reply", also ":" -> "." to preserve the uppercase letter
 
 # game/chapter1.rpy:437
 translate italiantl begingame_3dadd8d0:
@@ -216,13 +216,13 @@ translate italiantl begingame_0be71cd9:
 translate italiantl begingame_71b0a869:
 
     # n "While I wasn't sure which, his courage was applauded by others. After all, he couldn't possibly have known who or what would await him at the other end of the portal, and if he did meet someone there, who knew what kinds of intentions they might have?"
-    n "Mentre io non ero sicurə quale delle due, gli altri applaudirono il suo coraggio. Dopotutto, non poteva assolutamente sapere chi o cosa l'avrebbe aspettato all'altro capo del portale, e se mai avesse incontrato qualcuno, chi sapeva che intenzioni avrebbe potuto avere?"
+    n "Mentre io non ero sicurə quale delle due, altri applaudirono il suo coraggio. Dopotutto, non poteva assolutamente sapere chi o cosa l'avrebbe aspettato all'altro capo del portale, e se davvero avesse incontrato qualcuno, chi sapeva che intenzioni avrebbe potuto avere?" # "what [kind of] intentions"
 
 # game/chapter1.rpy:451
 translate italiantl begingame_11930bc6:
 
     # n "Not that any speculation on our part would've made a difference."
-    n "Non che qualsiasi speculazione da parte nostra avrebbe fatto qualche differenza."
+    n "Non che qualsiasi speculazione da parte nostra avrebbe fatto differenza."
 
 # game/chapter1.rpy:452
 translate italiantl begingame_82f1d7da:
@@ -230,7 +230,7 @@ translate italiantl begingame_82f1d7da:
     # nvl clear
     # n "When the day finally came, through he went, with applause echoing across the area - equipped only with the clothes he wore, his multi-tool, a gun and a device on his wrist that acted as a PDA."
     nvl clear
-    n "Quando il giorno finalmente giunse, nell'echeggiare degli applausi in tutta la zona, vi passò attraverso—equipaggiato solo dei vestiti che indossava, il suo multi-utensile, una pistola e un dispositivo al polso che fungeva da palmare." # used em dash
+    n "Quando il giorno finalmente giunse, nell'echeggiare degli applausi attraverso la zona, vi passò attraverso—equipaggiato solo dei vestiti che indossava, il suo multi-utensile, una pistola e un dispositivo al polso che fungeva da palmare." # slightly adapted, also used em dash
 
 # game/chapter1.rpy:458
 translate italiantl begingame_76b2fe88_2:
@@ -248,13 +248,13 @@ translate italiantl begingame_02377e2f:
 translate italiantl begingame_a929e4ad:
 
     # n "The crowd that was applauding him slowly dispersed when the enthusiasm died down, as there was nothing for us to do but wait and speculate."
-    n "La folla che lo aveva applaudito si disperse lentamente quando l'entusiasmo cominciò ad attenuarsi, siccome non c'era niente che potessimo fare se non aspettare e speculare."
+    n "La folla che lo aveva applaudito si disperse lentamente quando l'entusiasmo si attenuò, siccome non c'era niente che potessimo fare se non aspettare e speculare."
 
 # game/chapter1.rpy:463
 translate italiantl begingame_4e5d991b:
 
     # n "Approximately 8 hours later, we received our first message from him."
-    n "All'incirca otto ore più tardi, ricevemmo il nostro primo messaggio da parte sua." # "8" -> "eight", for elegance
+    n "All'incirca otto ore più tardi, ricevemmo il nostro primo messaggio da parte sua." # "8" -> "eight" for elegance
 
 # game/chapter1.rpy:464
 translate italiantl begingame_282e06e8:
@@ -312,7 +312,7 @@ translate italiantl begingame_6abe8d77:
     # nvl clear
     # n "So, who were they? And where was this place? Could they be aliens?"
     nvl clear
-    n "Dunque, chi erano davvero? E dove si trovava veramente questo luogo? Potevano forse essere alieni?"
+    n "Dunque, chi erano davvero? E dove si trovava veramente questo luogo? Potevano forse essere alieni?" # "where *really* was"
 
 # game/chapter1.rpy:476
 translate italiantl begingame_1020ae93:
@@ -332,7 +332,7 @@ translate italiantl begingame_94c45763:
     # nvl clear
     # n "I think there's just one more thing worth mentioning before I move on:"
     nvl clear
-    n "Penso che ci sia solo ancora un'altra cosa degna di nota prima che io vada oltre:"
+    n "Penso ci sia solo ancora un'altra cosa degna di nota prima che io vada oltre:"
 
 # game/chapter1.rpy:481
 translate italiantl begingame_fe72b4b9:
@@ -344,7 +344,7 @@ translate italiantl begingame_fe72b4b9:
 translate italiantl begingame_dc6c4ac0:
 
     # n "They hadn't known about any other intelligent life-form beyond their own, their portal had only recently been discovered and was a technology previously unknown to them, and just as we had myths about dragons, they had myths about us."
-    n "Anche loro non sapevano di altre forme di vita intelligenti oltre alla loro stessa, il loro portale era stato solo recentemente rinvenuto, e proprio come noi avevamo dei miti sui draghi, loro ne avevano su di noi." # "they *too* hadn't known"
+    n "Anche loro non sapevano di altre forme di vita intelligenti al di là della loro stessa, il loro portale era stato solo recentemente rinvenuto ed era una tecnologia precedentemente loro sconosciuta, e proprio come noi avevamo dei miti sui draghi, loro ne avevano su di noi." # "they *too* hadn't known"
 
 # game/chapter1.rpy:484
 translate italiantl begingame_32508c0c:
@@ -376,7 +376,7 @@ translate italiantl begingame_23bd1b9f:
 translate italiantl begingame_9422efc0:
 
     # n "Not only that, but evidently also quite efficient. We certainly would be able to put technology like that to good use, and trading mere past knowledge of the human race for something more... tangible... was a good call on his part."
-    n "Non solo, ma evidentemente anche alquanto efficiente. Saremmo stati certamente in grado di mettere una tale tecnologia a buon frutto, e scambiare mera conoscenza pregressa della razza umana per qualcosa di più... tangibile... era stata una bella pensata da parte sua."
+    n "Non solo, ma evidentemente anche alquanto efficiente. Saremmo stati certamente in grado di mettere una tale tecnologia a buon uso, e scambiare mera conoscenza pregressa della razza umana per qualcosa di più... tangibile... era stata una bella pensata da parte sua."
 
 # game/chapter1.rpy:494
 translate italiantl begingame_76b2fe88_3:
@@ -394,7 +394,7 @@ translate italiantl begingame_c8829c2c:
 translate italiantl begingame_9cb37fb9:
 
     # n "My prior experience in both biology and sociology made me a good fit to deliver our PDA devices for the trade. And while in the dragons' world, waiting for the prototypes of our generators to be manufactured by them, I would act as an ambassador on humanity's behalf."
-    n "Le mie precedenti esperienze in entrambe biologia e sociologia mi avevano reso un buon candidato per consegnare i nostri palmari per lo scambio. E finché nel mondo dei draghi, aspettando che avessero fabbricato i prototipi dei nostri generatori, avrei rappresentato l'umanità in qualità di ambasciatorə."
+    n "Le mie precedenti esperienze in entrambe biologia e sociologia mi avevano reso un buon candidato per consegnare i nostri dispositivi palmari per lo scambio. E finché nel mondo dei draghi, aspettando che avessero fabbricato i prototipi dei nostri generatori, avrei rappresentato l'umanità in qualità di ambasciatorə."
 
 # game/chapter1.rpy:499
 translate italiantl begingame_062d5b60:
@@ -432,7 +432,7 @@ translate italiantl begingame_01f41d60:
 translate italiantl begingame_29ac0db6:
 
     # n "When the time came for me to step through the portal, all my mental preparedness vanished. My anxiousness was fueled by all the questions lurking in my head, just as the machine started to do its work."
-    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale scomparve. Proprio mentre la macchina cominciava a fare il suo lavoro, la mia ansia fu alimentata da tutte le domande che mi si erano annidate in testa." # slightly adapted
+    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale scomparve. Non appena la macchina iniziò a fare il suo lavoro, la mia ansia fu alimentata da tutte le domande che mi si erano annidate in testa." # slightly adapted
 
 # game/chapter1.rpy:506
 translate italiantl begingame_608fb1d8:
@@ -500,7 +500,7 @@ translate italiantl begingame_d079f0e6:
 translate italiantl begingame_9ea6cf05:
 
     # n "I could only see a patch of lighter color contrasting with its dark surroundings as my vision started to clear. Its edges got sharper as the patch of light slowly took shape, giving me the distinguished outline of a reptilian head, and an array of horns spouting from it."
-    n "Riuscivo a scorgere solo una macchia di colore più chiaro in contrasto all'oscurità circostante quando la mia vista iniziò a schiarirsi. I suoi bordi divennero più nitidi mentre la macchia di luce assumeva lentamente la forma di una testa dai lineamenti distintamente rettiliani, e di una serie di corna che spuntavano da essa."
+    n "Riuscivo a scorgere solo una macchia di colore più chiaro che si distingueva dall'oscurità circostante quando la mia vista iniziò a schiarirsi. I suoi bordi divennero più nitidi mentre la macchia di luce assumeva lentamente la forma di una testa dai lineamenti distintamente rettiliani, e di una serie di corna che spuntavano da essa." # slightly adapted
 
 # game/chapter1.rpy:639
 translate italiantl holetravel_6a175cfd:
@@ -524,13 +524,13 @@ translate italiantl holetravel_7941b5bd:
 translate italiantl holetravel_b40dd6f0:
 
     # m "The dragon spoke! It was one thing to have heard and read about this, but something else entirely to have one standing in front of me, in flesh and blood... and tongue. It was good that all my mental preparedness had disappeared when I was teleported, because nothing could have prepared me for this."
-    m "Il drago parlava! Un conto era sentirne dire o leggerne, ma del tutto un altro era averne uno di fronte, in carne ed ossa... e lingua. Era un bene che tutta la mia preparazione mentale fosse scomparsa quando fui teletrasportatə, perché nulla avrebbe mai potuto prepararmi per questo."
+    m "Il drago parlava! Un conto era sentirne dire o leggerne, ma del tutto un altro averne uno di fronte, in carne ed ossa... e lingua. Era un bene che tutta la mia preparazione mentale fosse scomparsa quando fui teletrasportatə, perché nulla avrebbe mai potuto prepararmi per questo."
 
 # game/chapter1.rpy:665
 translate italiantl holetravel_5c6fb2e0:
 
     # Ry "Sorry, I imagine you might still feel the effects of the teleportation. Drowsiness or weakness is not unusual, as is fainting and spontaneous emptying of your bowels, bladder or stomach. How do you feel?"
-    Ry "Mi dispiace, immagino che tu stia ancora soffrendo gli effetti del teletrasporto. Sonnolenza e debolezza non sono inusuali, come svenimenti e svuotamenti spontanei degli intestini, della vescica o dello stomaco. Come ti senti?"
+    Ry "Mi dispiace, immagino che tu stia ancora risentendo degli effetti del teletrasporto. Sonnolenza o debolezza non sono inusuali, come anche svenimenti e svuotamenti spontanei degli intestini, della vescica o dello stomaco. Come ti senti?"
 
 # game/chapter1.rpy:666
 translate italiantl holetravel_b43650b7:
@@ -560,7 +560,7 @@ translate italiantl holetravel_a3fad319:
 translate italiantl holetravel_91c5ac30:
 
     # m "So I followed the dragon, not straying too far from him, as the sun had already departed for the day and the remaining light diminished by the minute."
-    m "E quindi seguii il drago, cercando di non allontanarmi troppo da lui, siccome il sole era ormai dipartito per quel giorno e la luce residua diminuiva di minuto in minuto."
+    m "Quindi seguii il drago, cercando di non allontanarmi troppo da lui, siccome il sole era ormai dipartito per quel giorno e la luce residua diminuiva di minuto in minuto."
 
 # game/chapter1.rpy:678
 translate italiantl holetravel_98cf1cad:
@@ -572,7 +572,7 @@ translate italiantl holetravel_98cf1cad:
 translate italiantl holetravel_aeb0c88e:
 
     # Ry "Sorry about that, but we had a good reason to schedule your arrival like this. We did not want you to be ambushed by a crowd, so we had to keep your exact time and date of arrival secret."
-    Ry "Ti chiedo scusa, ma avevamo una buona ragione per pianificare il tuo arrivo in questo modo. Non volevamo che tu fossi assalitə da una folla, quindi abbiamo dovuto mantenere segrete data e ora esatte del tuo arrivo."
+    Ry "Ti chiedo scusa, ma avevamo una buona ragione per programmare il tuo arrivo in questo modo. Non volevamo che tu fossi assalitə da una folla, quindi abbiamo dovuto mantenere segrete data e ora esatte del tuo arrivo."
 
 # game/chapter1.rpy:683
 translate italiantl holetravel_b1ea774c:
@@ -1176,7 +1176,7 @@ translate italiantl _call_skipcheck_2_4cb93198:
 translate italiantl _call_skipcheck_2_5bb6a80a:
 
     # m "As I reached out to her, she took my hand into hers before she pressed the device into the back of my hand. I winced as pain jolted through my hand. Something sharp drove itself through my skin and, shortly afterwards, a droplet of blood was sucked into the tube attached to the small needle."
-    m "Nel momento in cui gliela tesi, lei prese la mia mano nella sua prima di premere il dispositivo sul dorso della mia mano. Trasalii alla scossa di dolore che mi attraversò la mano. Qualcosa di affilato s'insinuò attraverso la mia pelle e, poco più tardi, una stilla di sangue fu risucchiata nella provetta agganciata alla piccola siringa."
+    m "Quando gliela tesi, lei prese la mia mano nella sua prima di premere il dispositivo sul dorso della mia mano. Trasalii alla scossa di dolore che mi attraversò la mano. Qualcosa di affilato s'insinuò attraverso la mia pelle e, poco più tardi, una stilla di sangue fu risucchiata nella provetta agganciata alla piccola siringa."
 
 # game/chapter1.rpy:1485
 translate italiantl _call_skipcheck_2_26e39b53:
@@ -1452,7 +1452,7 @@ translate italiantl _call_skipcheck_3_15dfbdc0:
 translate italiantl _call_skipcheck_3_b8b2e60e:
 
     # Rz "I've been here much longer than you have been. Maybe you'll see soon enough."
-    Rz "Io sono stato qui per molto più tempo di te. Forse te ne accorgerai molto presto."
+    Rz "Io sono stato qui molto più a lungo di te. Forse te ne accorgerai molto presto."
 
 # game/chapter1.rpy:1719
 translate italiantl _call_skipcheck_3_0fd8eb86:
@@ -2610,7 +2610,7 @@ translate italiantl _call_syscheck_7_5edbf34a:
 translate italiantl _call_syscheck_7_a21e46b1:
 
     # n "Expert tip: Use a spirit level in order to determine if a surface is absolutely horizontal in order to prevent the Ixomen Sphere from rolling off the table unintendedly."
-    n "Consiglio da esperti: Usa una livella per determinare se una superficie è assolutamente orizzontale in modo da evitare che la Sfera di Ixomen vi rotoli via inavvertitamente." # "from falling off [the table]" (would've been "the surface" anyways, for coherence with line 2433)
+    n "Consiglio da esperti: Usa una livella per determinare se una superficie è assolutamente orizzontale in modo da evitare che la Sfera di Ixomen vi rotoli via inavvertitamente." # "from falling off [the table]" (would've been "the surface" anyways to match line 2433)
 
 # game/chapter1.rpy:2435
 translate italiantl _call_syscheck_7_9f288208:
@@ -3068,7 +3068,7 @@ translate italiantl continuation_809da3d8:
 translate italiantl continuation_addb4e00:
 
     # Rz "As for the other: Do you know what this place is?"
-    Rz "Riguardo la seconda. Lo sai cos'è questo posto?" # ":" -> ".", to preserve the uppercase letter
+    Rz "Riguardo la seconda. Lo sai cos'è questo posto?" # ":" -> "." to preserve the uppercase letter
 
 # game/chapter1.rpy:2838
 translate italiantl continuation_bde4f6a4:
@@ -3260,7 +3260,7 @@ translate italiantl continuation_0195f9bc:
 translate italiantl continuation_fb6d338d:
 
     # m "His face was stern and seemingly lost in thought as I overheard Sebastian's conversation."
-    m "Aveva un'aria severa e apparentemente assorta nei suoi pensieri mentre mi capitò di sentire la conversazione di [Sb]."
+    m "Aveva un'aria severa e apparentemente assorta nei suoi pensieri quando mi capitò di sentire la conversazione di [Sb]."
 
 # game/chapter1.rpy:2982
 translate italiantl continuation_3b700e22:
@@ -4514,7 +4514,7 @@ translate italiantl _call_syscheck_13_457fcea1:
 translate italiantl _call_syscheck_13_5cf10feb:
 
     # Br "Enough. You shouldn't even be here, so you better go now and get some rest before I have to take disciplinary action."
-    Br "Basta. Non dovresti nemmeno essere qui, quindi sarà meglio che te ne vada a riposare un po' adesso prima che mi veda costretto a prendere misure disciplinari."
+    Br "Basta. Non dovresti nemmeno essere qui, quindi sarà meglio che tu vada a riposare un po' adesso prima che mi veda costretto a prendere misure disciplinari."
 
 # game/chapter1.rpy:3754
 translate italiantl _call_syscheck_13_fa395534:
@@ -5000,7 +5000,7 @@ translate italiantl strings:
 
     # chapter1.rpy:2301
     old "Look behind the books."
-    new "Guarda dietro i libri."
+    new "Guarda dietro ai libri."
 
     # chapter1.rpy:2301
     old "[[Go back.]"

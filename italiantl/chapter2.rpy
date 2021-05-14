@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_11_1685698e:
 translate italiantl _call_skipcheck_11_9540e863:
 
     # m "Bryce's snout wrinkled with distaste as he glanced over Sebastian's shoulder."
-    m "Il muso di [Br] s'increspò di disgusto quando gettò lo sguardo alle spalle di [Sb]."
+    m "Il muso di [Br] s'increspò di disgusto nel gettare lo sguardo alle spalle di [Sb]."
 
 # game/chapter2.rpy:537
 translate italiantl _call_skipcheck_11_4916c811:
@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_11_068f454e:
 translate italiantl _call_skipcheck_11_943a571e:
 
     # Br "That one's easy: To do his own investigation, just like he said he would. I shouldn't be surprised he showed up, but I guess we're lucky we arrived before he did."
-    Br "Questa è facile. Condurre una sua investigazione, proprio come ha detto che avrebbe fatto. Non dovrei essere sorpreso che si sia presentato, ma immagino che siamo fortunati ad essere arrivati prima di lui." # ":" -> ".", to preserve the uppercase letter
+    Br "Questa è facile. Condurre una sua investigazione, proprio come ha detto che avrebbe fatto. Non dovrei essere sorpreso che si sia presentato, ma immagino che siamo fortunati ad essere arrivati prima di lui." # ":" -> "." to preserve the uppercase letter
 
 # game/chapter2.rpy:574
 translate italiantl _call_skipcheck_11_abdc33a4:
@@ -985,7 +985,7 @@ translate italiantl _call_skipcheck_11_7581cdd5:
 translate italiantl _call_skipcheck_11_2c4cde19:
 
     # Br stern b "Right. Who else would need to steal a generator, when those who live here could either buy or even simply request one. Not to mention, Reza was the one who arranged the diplomatic trade for the generators in the first place."
-    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne o anche solo richiederne uno? Senza contare che è stato proprio [Rz] a organizzare lo scambio diplomatico per i generatori." # "." -> "?", to match line 975
+    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne o anche solo richiederne uno? Senza contare che è stato proprio [Rz] a organizzare lo scambio diplomatico per i generatori." # "." -> "?" to match line 975
 
 # game/chapter2.rpy:985
 translate italiantl _call_skipcheck_11_3951ceed:
@@ -2223,7 +2223,7 @@ translate italiantl chap2facques_6f58f482:
 translate italiantl chap2facques_57b6f3f4:
 
     # Dm arrogant "Nothing special, unless you care a lot about genetics. And we're not talking about the basics here, but the deep stuff."
-    Dm arrogant "Niente di speciale, a meno che non t'interessi particolarmente di genetica. E non parliamo delle basi qui, ma di roba seria."
+    Dm arrogant "Niente di speciale, a meno che non t'interessi parecchio di genetica. E non parliamo delle basi qui, ma di roba seria."
 
 # game/chapter2.rpy:1942
 translate italiantl chap2facques_4a91bb19:
@@ -2421,7 +2421,7 @@ translate italiantl chap2libmenu_08d57922:
 translate italiantl chap2libmenu_e54b49af:
 
     # Ry "Can't say I did, though he did ask me for a map once."
-    Ry "Non direi, anche se una volta mi ha chiesto di una mappa."
+    Ry "Non direi, anche se in effetti una volta mi ha chiesto una mappa."
 
 # game/chapter2.rpy:2109
 translate italiantl chap2libmenu_dd8425b8:
@@ -2679,7 +2679,7 @@ translate italiantl chap2libmenu_66c23589:
 translate italiantl chap2libmenu_1ec81466:
 
     # Ry "You have a few good points, so I guess it's only fair. Hopefully with less things being broken this time around, though."
-    Ry "Hai portato dei buoni argomenti, quindi immagino sia solo che giusto. Sperabilmente stavolta con meno cose in frantumi, però." # "broken" as in "broken heart" => "in pezzi", "in frantumi"
+    Ry "Hai portato dei buoni argomenti, quindi immagino sia solo che giusto. Sperabilmente stavolta con meno cose infrante, però." # "broken" as in "broken heart" => "spezzate", "infrante"
 
 # game/chapter2.rpy:2253
 translate italiantl chap2libmenu_04d95a1f:
@@ -3513,7 +3513,7 @@ translate italiantl _call_skipcheck_12_0c3263aa:
 translate italiantl _call_skipcheck_12_28318dfe:
 
     # Mv "Just tell me one thing: Why?"
-    Mv "Dimmi solo una cosa. Perché?" # ":" -> ".", to preserve the uppercase letter
+    Mv "Dimmi solo una cosa. Perché?" # ":" -> "." to preserve the uppercase letter
 
 # game/chapter2.rpy:3512
 translate italiantl _call_skipcheck_12_f5e9bd20:
@@ -3819,7 +3819,7 @@ translate italiantl _call_skipcheck_12_c9046289:
 translate italiantl _call_skipcheck_12_b3a7298f:
 
     # c "In the end, his only way out is the same way he got in: The portal."
-    c "Alla fine, l'unica sua via d'uscita è la stessa da cui è entrato. Il portale." # ":" -> ".", to preserve the uppercase letter
+    c "Alla fine, l'unica sua via d'uscita è la stessa da cui è entrato. Il portale." # ":" -> "." to preserve the uppercase letter
 
 # game/chapter2.rpy:3682
 translate italiantl _call_skipcheck_12_e9b06463:
@@ -4119,7 +4119,7 @@ translate italiantl chapter2chars_b1f3b2e0:
 translate italiantl chapter2chars_e0eb1d42:
 
     # Ry "Hello, this is Remy speaking. I'm calling in regard to the dinner we talked about. I'll have an opening soon and was wondering if you also had the time."
-    Ry "Salve, è [Ry] che parla. Chiamo a proposito della cena di cui abbiamo discusso. Mi libererò a breve e mi domandavo se anche tu avessi del tempo."
+    Ry "Salve, è [Ry] che parla. Chiamo a proposito della cena di cui abbiamo discusso. Mi libererò a breve e mi domandavo se ne avessi il tempo anche tu."
 
 # game/chapter2.rpy:4167
 translate italiantl chapter2chars_1335da7e:
@@ -4137,7 +4137,7 @@ translate italiantl chapter2chars_df853375:
 translate italiantl chapter2chars_14f20a32:
 
     # c "(I guess that's my official invitation. Now the question is if I want to go or not.)"
-    c "(Immagino che sia il mio invito ufficiale. Ora la domanda è se voglio andarci o meno.)"
+    c "(Immagino sia il mio invito ufficiale. Ora la domanda è se voglio andarci o meno.)"
 
 # game/chapter2.rpy:4218
 translate italiantl _call_popularcheck_10_8bf0501b:
@@ -4319,7 +4319,7 @@ translate italiantl strings:
 
     # chapter2.rpy:407
     old "Sure, sign me up."
-    new "Sicuro, conta su di me."
+    new "Certo, conta su di me."
 
     # chapter2.rpy:407
     old "It's not like I have anything better to do."
