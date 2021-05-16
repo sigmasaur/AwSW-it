@@ -248,7 +248,7 @@ translate italiantl begingame_02377e2f:
 translate italiantl begingame_a929e4ad:
 
     # n "The crowd that was applauding him slowly dispersed when the enthusiasm died down, as there was nothing for us to do but wait and speculate."
-    n "La folla che lo aveva applaudito si disperse lentamente quando l'entusiasmo si attenuò, siccome non c'era niente che potessimo fare se non aspettare e speculare."
+    n "La folla che lo aveva applaudito si disperse lentamente quando l'entusiasmo si fu attenuato, siccome non c'era niente che potessimo fare se non aspettare e speculare."
 
 # game/chapter1.rpy:463
 translate italiantl begingame_4e5d991b:
@@ -272,7 +272,7 @@ translate italiantl begingame_2a8e54d7:
 translate italiantl begingame_bb325a0f:
 
     # n "A very bad joke, maybe, with even worse timing and no punchline at all."
-    n "Uno scherzo molto infelice, forse, con un tempismo ancor più infelice e nessuna battuta finale."
+    n "Un pessimo scherzo, forse, con un tempismo ancora peggiore e nessuna battuta finale."
 
 # game/chapter1.rpy:467
 translate italiantl begingame_ac587ebf:
@@ -906,7 +906,7 @@ translate italiantl _call_skipcheck_2_ab689bf0:
 translate italiantl _call_skipcheck_2_a304046d:
 
     # c "Yeah, guess those degrees aren't so useless after all."
-    c "Già, immagino che quei diplomi non siano così inutili dopotutto."
+    c "Già, immagino che quei diplomi non siano poi così inutili dopotutto."
 
 # game/chapter1.rpy:1325
 translate italiantl _call_skipcheck_2_1d959df5:
@@ -1014,7 +1014,7 @@ translate italiantl _call_skipcheck_2_76b2fe88_1:
 translate italiantl _call_skipcheck_2_0c52476d:
 
     # m "The crisis was quickly averted as we entered the building, which was characterized by its many floors, high ceilings and long, narrow hallways as Sebastian led us to our destination."
-    m "La crisi fu rapidamente scongiurata al nostro ingresso nell'edificio, caratterizzato dai suoi molti piani, alti soffitti e lunghi, stretti corridoi mentre [Sb] ci guidava alla nostra destinazione."
+    m "La crisi fu rapidamente scongiurata al nostro ingresso nell'edificio, il quale era caratterizzato dai suoi molti piani, alti soffitti e lunghi, stretti corridoi mentre [Sb] ci guidava alla nostra destinazione."
 
 # game/chapter1.rpy:1389
 translate italiantl _call_skipcheck_2_aed26b36:
@@ -1164,7 +1164,7 @@ translate italiantl _call_skipcheck_2_35e7a623:
 translate italiantl _call_skipcheck_2_ff60882c:
 
     # m "She was quick to produce a small device from a drawer, which from a glance reminded me a lot of a test tube."
-    m "Si affrettò a produrre da un cassetto un piccolo dispositivo, che a prima vista mi ricordò da vicino una provetta."
+    m "Si affrettò a produrre da un cassetto un piccolo dispositivo, che a prima vista ricordava da vicino una provetta."
 
 # game/chapter1.rpy:1482
 translate italiantl _call_skipcheck_2_4cb93198:
@@ -1518,7 +1518,10 @@ translate italiantl _call_skipcheck_3_67f50da2:
 translate italiantl _call_skipcheck_3_2f7cd978:
 
     # Ad "There you go. Enjoy!"
-    Ad "Ecco a voi. Buon appetito!"
+    if   food == "coffee":
+        Ad "Ecco a voi. Godetevelo!"
+    elif food == "eggs":
+        Ad "Ecco a voi. Buon appetito!"
 
 # game/chapter1.rpy:1755
 translate italiantl _call_skipcheck_3_236e1242:
@@ -2942,25 +2945,25 @@ translate italiantl _call_syscheck_11_4a56c371:
 translate italiantl _call_syscheck_11_18b2fbb7:
 
     # m "Lemon juice is about the simplest way to write a hidden message using household items. We learned about that in chemistry. In the most boring detail, of course. A message written in lemon juice on paper becomes just about invisible to the naked eye when dried, but after heating it gently, oxidization occurs, making the message visible."
-    m "Il succo di limone è forse il modo più semplice per scrivere un messaggio segreto sfruttando articoli d'uso comune. Lo avevamo imparato a chimica. Nel più noioso dettaglio, certo. Un messaggio scritto col succo di limone sulla carta è praticamente invisibile a occhio nudo, ma dopo averlo riscaldato delicatamente, ecco che avviene l'ossidazione, manifestando il messaggio." # "becomes" -> "is"
+    m "Il succo di limone è forse il modo più semplice per scrivere un messaggio latente usando articoli domestici. Lo avevamo imparato a chimica. Nel più noioso dettaglio, ovviamente. Un messaggio scritto col succo di limone sulla carta diventa pressoché invisibile a occhio nudo una volta asciutto, ma dopo averlo riscaldato delicatamente, ecco che avviene l'ossidazione, manifestando il messaggio."
 
 # game/chapter1.rpy:2763
 translate italiantl _call_syscheck_11_a1bbec6a:
 
     # m "I was sitting next to him in class when we learned that. He made a joke about using the method to cheat on the next test, and I replied by saying he'd have to bring an iron. Had he really expected me to remember a random chemistry class that happened years ago? But then, I did remember it after all."
-    m "Sedevo accanto a lui durante la lezione in cui l'avevamo imparato. Lui aveva fatto una battuta sull'usare il metodo per imbrogliare al successivo esame, e io avevo risposto dicendo che avrebbe dovuto portarsi un ferro da stiro. Si aspettava davvero che mi ricordassi una lezione di chimica a caso avuta luogo anni prima? Del resto, dopotutto in effetti me l'ero ricordata."
+    m "Sedevo accanto a lui a lezione quando lo avevamo imparato. Lui aveva scherzato sul fatto di usare il metodo per imbrogliare al successivo esame, e io avevo risposto dicendo che avrebbe dovuto portarsi un ferro da stiro. Si era veramente aspettato che mi ricordassi una lezione di chimica a caso avvenuta anni prima? D'altra parte, dopotutto in effetti l'avevo ricordata."
 
 # game/chapter1.rpy:2766
 translate italiantl _call_syscheck_11_8edd6174:
 
     # m "\"Meet me at the portal, tonight, 10pm\" was all the message said. I wasted a good amount of time, but I still had some left before I'd have to go out to meet Reza, so I decided to make some lunch."
-    m "\"Incontrami al portale, stasera, 22:00\" era tutto ciò che il messaggio diceva. Avevo perso una buona quantità di tempo, ma me ne restava ancora un po' prima di dover uscire per incontrare [Rz], quindi decisi di fare qualcosa di pranzo."
+    m "\"Incontrami al portale, stanotte, 22:00\" era tutto ciò che il messaggio diceva. Avevo perso una buona quantità di tempo, ma me ne restava ancora un po' prima di dover uscire per incontrare [Rz], quindi decisi di fare qualcosa di pranzo."
 
 # game/chapter1.rpy:2769
 translate italiantl _call_syscheck_11_627767c7:
 
     # m "\"Meet me at the portal, tonight, 10pm\" was all the message said. I wasted a good amount of time, but I still had some left before I'd have to go out to meet Reza, so I decided to make some lunch. I could've made some scrambled eggs if I hadn't broken them all earlier."
-    m "\"Incontrami al portale, stasera, 22:00\" era tutto ciò che il messaggio diceva. Avevo perso una buona quantità di tempo, ma me ne restava ancora un po' prima di dover uscire per incontrare [Rz], quindi decisi di fare qualcosa di pranzo. Avrei anche potuto fare delle uova strapazzate se non le avessi rotte tutte prima."
+    m "\"Incontrami al portale, stanotte, 22:00\" era tutto ciò che il messaggio diceva. Avevo perso una buona quantità di tempo, ma me ne restava ancora un po' prima di dover uscire per incontrare [Rz], quindi decisi di fare qualcosa di pranzo. Avrei anche potuto fare delle uova strapazzate se non le avessi rotte tutte prima."
 
 # game/chapter1.rpy:2771
 translate italiantl _call_syscheck_11_6d1e2555:
@@ -2972,7 +2975,7 @@ translate italiantl _call_syscheck_11_6d1e2555:
 translate italiantl _call_syscheck_11_d7a61edb:
 
     # m "Unsurprisingly, it came to a happy end, with the evil organization stopped in its tracks, at least for now. I thought the ending was deliberately left open for ambiguity, but when I turned the page and saw the advertisement for the next entry in this apparently long-running series of books, I realized all of this had just been a ploy to set up the inevitable sequel."
-    m "Prevedibilmente, giungeva a una felice conclusione, con la malvagia organizzazione fermata sul nascere, almeno per ora. Pensai che il finale fosse deliberatamente lasciato aperto a interpretazioni ambigue, ma quando girai la pagina e vidi l'annuncio del capitolo successivo di questa apparentemente longeva serie di libri, realizzai che era stato tutto solo uno stratagemma volto a imbastire l'inevitabile sèguito."
+    m "Prevedibilmente, giungeva a una felice conclusione, con la malvagia organizzazione fermata sul nascere, almeno per ora. Pensai che il finale fosse stato deliberatamente lasciato aperto a interpretazioni ambigue, ma quando girai la pagina e vidi l'annuncio del capitolo successivo di questa apparentemente longeva serie di libri, realizzai che il tutto non era stato che uno stratagemma volto a imbastire l'inevitabile sèguito."
 
 # game/chapter1.rpy:2787
 translate italiantl continuation_cfb5aca4:
@@ -3212,7 +3215,7 @@ translate italiantl continuation_a868f086:
 translate italiantl continuation_c3aa840b:
 
     # m "A deafening roar battered my ears. Was this his cry for help? I could barely move, but I found it better not to try, as to not startle the wounded dragon more than he already was. It certainly would've ended badly for me if he tried anything."
-    m "Un ruggito assordante mi percosse i timpani. Era forse il suo grido d'aiuto? Potevo a malapena muovermi, ma ritenni meglio non provarci, così da non allarmare il drago ferito più di quanto già non lo fosse. Sarebbe certamente finita male per me se avesse provato a fare qualcosa."
+    m "Un ruggito assordante mi percosse i timpani. Era forse il suo grido d'aiuto? Potevo a malapena muovermi, ma ritenni meglio non provarci, in modo da non allarmare il drago ferito più di quanto già non lo fosse. Sarebbe certamente finita male per me se avesse provato a fare qualcosa."
 
 # game/chapter1.rpy:2926
 translate italiantl continuation_511c581f:
