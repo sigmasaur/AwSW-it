@@ -1452,7 +1452,7 @@ translate italiantl _call_skipcheck_3_15dfbdc0:
 translate italiantl _call_skipcheck_3_b8b2e60e:
 
     # Rz "I've been here much longer than you have been. Maybe you'll see soon enough."
-    Rz "Io sono stato qui molto più a lungo di te. Forse te ne accorgerai molto presto."
+    Rz "Io sono stato qui per molto più tempo di te. Forse te ne accorgerai molto presto."
 
 # game/chapter1.rpy:1719
 translate italiantl _call_skipcheck_3_0fd8eb86:
@@ -3203,7 +3203,7 @@ translate italiantl continuation_4f9d14fc:
 translate italiantl continuation_b002be4f:
 
     # m "I frantically scanned my surroundings looking for Reza, though he had already vanished into the darkness. What was I supposed to do? Run away as well? Help Maverick? I was just a diplomat and I had no idea what was happening."
-    m "Scrutai freneticamente l'ambiente circostante in cerca di [Rz], sebbene questi fosse già svanito nell'oscurità. Che cos'avrei dovuto fare? Fuggire a mia volta? Aiutare [Mv]? Ero solo unə diplomaticə e non avevo idea di cosa stesse accadendo."
+    m "Scrutai freneticamente l'ambiente circostante in cerca di [Rz], sebbene questi fosse già svanito nell'oscurità. Che cosa avrei dovuto fare? Fuggire a mia volta? Aiutare [Mv]? Ero solo unə diplomaticə e non avevo idea di cosa stesse accadendo."
 
 # game/chapter1.rpy:2918
 translate italiantl continuation_a868f086:
@@ -3467,7 +3467,7 @@ translate italiantl continuation_b1d6e9a7:
 translate italiantl continuation_331ab8bc:
 
     # Br "You have a good point. I believe you, but from our side we only have Maverick's word on the whole matter. After all, he was the one who spent the most time with Reza since he arrived here."
-    Br "Non hai tutti i torti. Io ti credo, ma dal nostro punto di vista abbiamo solo la parola di [Mv] sull'intera questione. Dopotutto, è lui quello che ha passato più tempo con [Rz] sin da quando è arrivato qui."
+    Br "Non hai tutti i torti. Io ti credo, ma dal nostro punto di vista abbiamo solo la parola di [Mv] sull'intera questione. Dopotutto, è lui quello che ha passato più tempo con [Rz] da quando è arrivato qui."
 
 # game/chapter1.rpy:3070
 translate italiantl continuation_3e2508cf:
@@ -3527,7 +3527,7 @@ translate italiantl continuation_e3c5319a:
 translate italiantl continuation_63eccaf9:
 
     # c "I hope so too. I really wouldn't want to jeopardize everything over this unfortunate incident."
-    c "Lo spero anch'io. Non vorrei proprio mettere tutto a repentaglio per uno sfortunato incidente."
+    c "Lo spero anch'io. Non vorrei proprio mettere tutto a repentaglio per questo sfortunato incidente."
 
 # game/chapter1.rpy:3092
 translate italiantl continuation_3e4ea0a9:
@@ -3563,13 +3563,13 @@ translate italiantl continuation_a3c25806:
 translate italiantl continuation_39b1be3e:
 
     # n "Afterwards, he thanked me and left to file my statement while I sat by his table, waiting and listening to the going-ons of this small, provincial town police department."
-    n "Dopodiché, mi ringraziò e mi lasciò per depositare la mia dichiarazione mentre io restai sedutə al suo tavolo, aspettando e ascoltando le vicende del dipartimento di polizia di questa cittadina provinciale."
+    n "Dopodiché, mi ringraziò e se ne andò a depositare la mia dichiarazione mentre io restai sedutə al suo tavolo, aspettando e ascoltando le vicende del dipartimento di polizia di questa cittadina provinciale."
 
 # game/chapter1.rpy:3107
 translate italiantl continuation_53bd0501:
 
     # n "When he returned, he was approached by someone who seemed to have urgent news. A lot of talking between the two ensued that I couldn't make out from my position. This went on for a bit, until Bryce returned to me."
-    n "Quando fece ritorno, fu avvicinato da qualcuno che sembrava avere notizie urgenti. Ne seguì una fitta conversazione fra i due che non riuscii a decifrare dalla mia posizione. La cosa andò avanti per un po', finché [Br] non tornò da me."
+    n "Quando fece ritorno, fu avvicinato da qualcuno che sembrava avere notizie urgenti. Ne seguì una fitta conversazione fra i due che non riuscii a decifrare dalla mia posizione. La cosa andò avanti per un po', finché [Br] non ritornò da me."
 
 # game/chapter1.rpy:3114
 translate italiantl continuation_9f601431:
@@ -3605,7 +3605,7 @@ translate italiantl continuation_6e5c7142:
 translate italiantl continuation_e8f43124:
 
     # Br "Your cooperation would certainly be appreciated, and it would be a nice gesture to show us that you're trustworthy in the eyes of those who might think otherwise after what happened yesterday."
-    Br "La tua collaborazione sarebbe certamente apprezzata, e sarebbe un bel gesto per dimostrarci che sei degnə di fiducia agli occhi di coloro che potrebbero pensare il contrario dopo quel che è successo ieri."
+    Br "La tua collaborazione sarebbe certamente apprezzata, e sarebbe un bel gesto per dimostrarci che sei degnə di fiducia agli occhi di coloro che potrebbero pensarla diversamente dopo quel che è successo ieri."
 
 # game/chapter1.rpy:3144
 translate italiantl _call_syscheck_12_9f70b105:

@@ -448,7 +448,7 @@ translate italiantl _call_skipcheck_11_c5c97541:
 translate italiantl _call_skipcheck_11_d1f2addb:
 
     # Br brow b "What are you doing here, Maverick?"
-    Br brow b "Che ci fai qui, [Mv]?"
+    Br brow b "Che ci fai tu qui, [Mv]?"
 
 # game/chapter2.rpy:549
 translate italiantl _call_skipcheck_11_1ebc6db4:
@@ -835,7 +835,7 @@ translate italiantl _call_skipcheck_11_7e1e1ddf:
 translate italiantl _call_skipcheck_11_83d52c05:
 
     # Br "Except that chance is growing smaller and smaller while we wait for the team to arrive."
-    Br "Salvo che questa possibilità continua ad assottigliarsi mentre aspettiamo l'arrivo della squadra."
+    Br "Salvo che questa possibilità si fa sempre più sottile mentre aspettiamo l'arrivo della squadra."
 
 # game/chapter2.rpy:884
 translate italiantl _call_skipcheck_11_690a778e:
@@ -889,7 +889,7 @@ translate italiantl _call_skipcheck_11_747d1237:
 translate italiantl _call_skipcheck_11_7ec97a9f:
 
     # Br "It bloody well can't be someone else, so let's not kid ourselves here."
-    Br "Be', non può di certo essere qualcun altro, non prendiamoci in giro adesso."
+    Br "Be', non può certo essere qualcun altro, quindi non prendiamoci in giro adesso."
 
 # game/chapter2.rpy:916
 translate italiantl _call_skipcheck_11_4a4afe9d:
@@ -949,7 +949,7 @@ translate italiantl _call_skipcheck_11_0bb352b1:
 translate italiantl _call_skipcheck_11_89baa06a:
 
     # Br "Your earlier theory about what happened was pretty sound, Sebastian. Let's go with that, and add the bit about the generator being stolen."
-    Br "La tua teoria di prima su come sono andate le cose era piuttosto solida, [Sb]. Andiamo con quella, e aggiungiamo la parte sul generatore rubato."
+    Br "La tua teoria di prima su come sono andate le cose era piuttosto solida, [Sb]. Andiamo con quella, e aggiungiamo la parte sul generatore rubato." # slightly adapted
 
 # game/chapter2.rpy:958
 translate italiantl _call_skipcheck_11_a94ca74d:
@@ -1869,7 +1869,7 @@ translate italiantl chap2storebrowsemenu_c0b3ec20:
 translate italiantl chap2storebrowsemenu_681dd9c0:
 
     # Op "Yes! What do you say, melon or lemon bread? I mean, the only difference between the two is, like, one letter - so how am I supposed to choose?"
-    Op "Sì! Che ne dici, pane al melone o al limone? Voglio dire, l'unica differenza fra i due sono, tipo, un paio di lettere—come dovrei scegliere?" # "melon bread" -> "melon-flavored bread" by necessity
+    Op "Sì! Che ne dici, pane al melone o al limone? Voglio dire, l'unica differenza fra i due sono, tipo, un paio di lettere—quindi come dovrei scegliere?" # "melon bread" -> "melon-flavored bread" by necessity
 
 # game/chapter2.rpy:1625
 translate italiantl chap2storebrowsemenu_fbab3b6f:
@@ -2019,7 +2019,7 @@ translate italiantl chap2facility_781c3892:
 translate italiantl chap2facility_909ef36b:
 
     # "???" "Either way, Anna is not here. Would that be all?"
-    "??? " "In ogni modo, [An] non è qui. Nient'altro?"
+    "??? " "In ogni modo, [An] non è qui. È tutto?"
 
 # game/chapter2.rpy:1788
 translate italiantl chap2facility_cb13aa33:
@@ -2037,7 +2037,7 @@ translate italiantl chap2facility_d0a98889:
 translate italiantl chap2facility_48aefc51:
 
     # c "Maybe it's not so bad that she isn't here at the moment. I met with her the other day, and it didn't go too well."
-    c "Forse non è poi una tragedia che lei non sia qui al momento. Ci siamo incontratɜ l'altro giorno, e non è andata granché bene."
+    c "Forse non è poi una tragedia che lei non sia qui al momento. Ci siamo incontratɜ l'altro giorno, e non è andata troppo bene."
 
 # game/chapter2.rpy:1800
 translate italiantl chap2facility_45c436dc:
@@ -3867,7 +3867,7 @@ translate italiantl _call_skipcheck_12_567c8e01:
 translate italiantl _call_skipcheck_12_a0830fbb:
 
     # c "I know, but to be honest, I'm not sure if I can be much help to you at all."
-    c "Lo so, ma ad essere onesti, non sono sicurə di potervi essere granché d'aiuto."
+    c "Lo so, ma ad essere onesti, non sono sicurə di potervi essere granché utile."
 
 # game/chapter2.rpy:3702
 translate italiantl _call_skipcheck_12_a9821795:
