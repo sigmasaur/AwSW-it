@@ -608,7 +608,7 @@ translate italiantl holetravel_6e0c5972:
 translate italiantl holetravel_4bcd03cc:
 
     # m "I could vaguely see the dragon, his light colors still visible within the blackness that engulfed the area, rear up and manipulate the door handle with one of his forepaws."
-    m "Riuscivo vagamente a scorgere il drago, i suoi colori chiari ancora visibili nella tenebra che inghiottiva i dintorni, sollevarsi sulle zampe posteriori e manipolare la maniglia della porta con una delle sue anteriori."
+    m "Riuscivo vagamente a scorgere il drago, i suoi colori chiari ancora visibili nella tenebra che inghiottiva i dintorni, sollevarsi sulle zampe posteriori e manipolare la maniglia della porta con una delle sue anteriori." # slightly adapted
 
 # game/chapter1.rpy:709
 translate italiantl holetravel_f97397b2:
@@ -1110,7 +1110,7 @@ translate italiantl _call_skipcheck_2_22753051:
 translate italiantl _call_skipcheck_2_e93cdc3b:
 
     # An "Alright, now to give this thing a test run..."
-    An "D'accordo, e ora facciamogli fare un giro di prova..." # "this thing" -> "it"
+    An "D'accordo, e ora esaminiamo quest'affare..." # slightly adapted to match line 1454
 
 # game/chapter1.rpy:1452
 translate italiantl _call_skipcheck_2_677e591a:
@@ -1122,7 +1122,7 @@ translate italiantl _call_skipcheck_2_677e591a:
 translate italiantl _call_skipcheck_2_63d2793a:
 
     # An "By the way, would you consider letting me run some tests on you as well? It would only take a drop of your blood."
-    An "Ad ogni modo, saresti dispostə a lasciarmi condurre alcune analisi anche su di te? Basterà una sola goccia del tuo sangue."
+    An "Ad ogni modo, saresti dispostə a lasciarmi fare alcuni esami anche su di te? Basterà una sola goccia del tuo sangue."
 
 # game/chapter1.rpy:1455
 translate italiantl _call_skipcheck_2_115c34c4:
@@ -1230,7 +1230,7 @@ translate italiantl _call_syscheck_4_86148265:
 translate italiantl _call_syscheck_4_46986bde:
 
     # An "See you soon."
-    An "Ci vediamo presto."
+    An "A presto."
 
 # game/chapter1.rpy:1525
 translate italiantl _call_syscheck_4_ee80c080:
@@ -1440,7 +1440,7 @@ translate italiantl _call_skipcheck_3_d29fed27:
 translate italiantl _call_skipcheck_3_cf34577b:
 
     # Rz "As I was saying, if you look at the big picture, don't you think there's just something... off about this whole place? Where is it, really?"
-    Rz "Come stavo dicendo, se guardi al quadro generale, non credi ci sia semplicemente qualcosa che... non va in quest'intero posto? Dove si trova, veramente?"
+    Rz "Come dicevo, se guardi al quadro generale, non credi ci sia semplicemente qualcosa che... non va in quest'intero posto? Dove si trova, veramente?"
 
 # game/chapter1.rpy:1704
 translate italiantl _call_skipcheck_3_15dfbdc0:
@@ -1545,7 +1545,7 @@ translate italiantl _call_skipcheck_3_f73d296c:
 translate italiantl _call_skipcheck_3_cb9d0dd9:
 
     # m "I was wondering what kind of breakfast could be had in a place like this, but I was pleasantly surprised to find it quite as I was used to. The only real difference was that they apparently didn't use cutlery."
-    m "Mi domandai che genere di colazione potessero servire in un posto come questo, ma restai piacevolmente sorpresə nello scoprirla piuttosto simile a quanto ero abituatə. L'unica vera differenza era che apparentemente loro non usavano posate."
+    m "Mi domandai che genere di colazione potessero servire in un posto come questo, ma restai piacevolmente sorpresə nello scoprirla piuttosto simile a quant'ero abituatə. L'unica vera differenza era che apparentemente loro non usavano posate." # "quite as" -> "quite similar to what"
 
 # game/chapter1.rpy:1780
 translate italiantl _call_skipcheck_3_141c5d6a:
@@ -1853,7 +1853,7 @@ translate italiantl _call_syscheck_6_76b2fe88:
 translate italiantl _call_syscheck_6_221afd4f:
 
     # n "I hadn't really looked at the apartment much, so I spent the rest of the day investigating it and relaxing. I considered checking out some of the phone numbers Remy had left me, but I thought it was better to keep a low profile for now."
-    n "Non avevo ancora veramente visto granché dell'appartamento, quindi trascorsi il resto della giornata a investigarlo e a rilassarmi. Considerai di consultare alcuni dei numeri di telefono che [Ry] mi aveva lasciato, ma pensai che fosse meglio mantenere un basso profilo per il momento."
+    n "Non avevo visto poi granché dell'appartamento, quindi trascorsi il resto della giornata a investigarlo e a rilassarmi. Considerai di consultare alcuni dei numeri di telefono che [Ry] mi aveva lasciato, ma pensai che fosse meglio mantenere un basso profilo per il momento."
 
 # game/chapter1.rpy:1936
 translate italiantl _call_syscheck_6_bb967794:
@@ -1865,7 +1865,7 @@ translate italiantl _call_syscheck_6_bb967794:
 translate italiantl _call_syscheck_6_f529b0b1:
 
     # n "Whether they were edibles that we had back home that I just didn't know about, or something completely alien I wasn't sure, but I didn't want to take the risk of eating anything I didn't know."
-    n "Se fossero commestibili che avevamo anche a casa e di cui semplicemente non sapevo, o qualcosa di completamente alieno non ero sicurə, ma non volli correre il rischio di mangiare qualcosa che non conoscevo."
+    n "Se fossero commestibili che avevamo anche a casa e di cui solo non sapevo, o qualcosa di completamente alieno non ero sicurə, ma non volli correre il rischio di mangiare qualcosa che non conoscevo."
 
 # game/chapter1.rpy:1938
 translate italiantl _call_syscheck_6_afd5bd6d:
@@ -2675,7 +2675,7 @@ translate italiantl _call_syscheck_7_d0a1ba27:
 translate italiantl _call_syscheck_7_454d542b:
 
     # c "(But even if Reza did leave a hint, this could've been anywhere in the apartment, and not just on this bookshelf.)"
-    c "(Ma anche se [Rz] avesse effettivamente lasciato qualche indizio, questo potrebbe trovarsi ovunque nell'appartamento, e non solo su questo scaffale.)"
+    c "(Ma anche se [Rz] avesse davvero lasciato qualche indizio, questo potrebbe trovarsi ovunque nell'appartamento, e non solo su questo scaffale.)"
 
 # game/chapter1.rpy:2484
 translate italiantl menubath_acdfecbc:
@@ -3041,7 +3041,7 @@ translate italiantl continuation_0da12190:
 translate italiantl continuation_bb4bb404:
 
     # Rz "For so long, humanity thought we'd find aliens out there. Yet after all these years, we found we were still alone in the universe. Turns out we were just not looking in the right place."
-    Rz "Per così a lungo, l'umanità ha pensato che avremmo trovato degli alieni là fuori. Eppure dopo tutti questi anni, abbiamo trovato che eravamo ancora soli nell'universo. Pare solo che non stessimo guardando nel posto giusto."
+    Rz "Così a lungo, l'umanità ha pensato che avremmo trovato degli alieni là fuori. Eppure dopo tutti questi anni, abbiamo trovato che eravamo ancora soli nell'universo. Pare solo che non stessimo guardando nel posto giusto."
 
 # game/chapter1.rpy:2833
 translate italiantl continuation_49c2732d:
@@ -3119,7 +3119,7 @@ translate italiantl continuation_f763377c_1:
 translate italiantl continuation_fd1f97a7:
 
     # m "While he was speaking, my gaze wandered and fixed on some movement nearby. It was hard to make out anything, but I imagined it might just have been wind blowing through the nearby shrubbery. Except for the fact that there was no wind."
-    m "Mentre parlava, il mio sguardo cadde su un qualche movimento nei dintorni. Era difficile distinguere alcunché, ma immaginai che potesse essere stato solo il vento che soffiava tra i vicini cespugli. Eccetto il fatto che non vi era vento."
+    m "Mentre parlava, il mio sguardo cadde su un qualche movimento nei dintorni. Era difficile distinguere alcunché, ma immaginai che potesse essere stato solo il vento che soffiava fra i vicini cespugli. Eccetto il fatto che non vi era vento."
 
 # game/chapter1.rpy:2855
 translate italiantl continuation_d8a637e9:
@@ -3839,7 +3839,7 @@ translate italiantl quest2_7d1411e6:
 translate italiantl quest2_293a28a6:
 
     # Br "Of course, this rules out most of the bigger dragons, and flyers."
-    Br "Ovviamente, questo esclude la maggior parte dei draghi più grandi, e i volatori."
+    Br "Naturalmente, questo esclude la maggior parte dei draghi più grandi, e i volatori."
 
 # game/chapter1.rpy:3350
 translate italiantl quest2_17a65951:
@@ -3923,7 +3923,7 @@ translate italiantl quest3_7b49274c:
 translate italiantl quest3_56520b1b:
 
     # Br "Even then, Haziq's procedure of logic tells us that until further evidence surfaces, the theory with the least amount of assumptions is the most likely. This one isn't it." # this is the dragon version of Occam's razor.
-    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è."
+    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è." # "*and* this one"
 
 # game/chapter1.rpy:3397
 translate italiantl quest3_2d5dd7bc:
@@ -4067,7 +4067,7 @@ translate italiantl quest5_7b49274c:
 translate italiantl quest5_7cb5fa29:
 
     # Br "Even then, Haziq's procedure of logic tells us that, until further evidence surfaces, the theory with the least amount of assumptions is the most likely. This one isn't it."
-    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è."
+    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è." # see line 3395
 
 # game/chapter1.rpy:3491
 translate italiantl quest5_2d5dd7bc:
@@ -4607,7 +4607,7 @@ translate italiantl _call_syscheck_13_46e457aa:
 translate italiantl sceneselect_703d4088:
 
     # m "Bryce led me back to the apartment. I guess there wasn't really much for me to do in the meantime, as I was spared the more arduous parts of the investigation. Maybe I should have been glad about this, though now I had an afternoon to fill."
-    m "[Br] mi ricondusse all'appartamento. Immagino che non restasse granché da fare per me nel frattempo, siccome mi furono risparmiate le parti più ardue dell'indagine. Forse me ne sarei dovutə rallegrare, anche se adesso avevo un pomeriggio da riempire."
+    m "[Br] mi ricondusse all'appartamento. Immagino che non mi restasse poi granché da fare nel frattempo, siccome mi furono risparmiate le parti più ardue dell'indagine. Forse me ne sarei dovutə rallegrare, anche se adesso avevo un pomeriggio da riempire."
 
 # game/chapter1.rpy:4093
 translate italiantl chapter1chars_64789417:
