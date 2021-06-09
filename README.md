@@ -20,7 +20,7 @@ A few remarks:
 
 * Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.
 
-* I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`. Also, `Emera` is addressed with formal pronouns.
+* I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`. Also, `Emera` is addressed by any other character with formal pronouns, as well as `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few circumstances.
 
 * Sometimes, it can happen that a line matches exactly its translated counterpart. These lines don't get rendered correctly for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
 
@@ -62,15 +62,16 @@ The following are mostly to the benefit of the developer and translators.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1358: Corrected number of dots from two to three.
 * At line 1751: Used if-statement to further distinguish between food types by linguistic necessity.
+* At line 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
 * At line 2728, 2747, 3609: Adapted to preserve a pun; reverse translation:
   * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre.*)
   * At line 2747: *There's a lot of them.*
   * At line 3609: *Achoo- I mean, excellent.*
 * At line 2737: Slightly adapted *isn't it fascinating* to add an obvious pun without loss of meaning.
-* At line 2753, 3352: Slightly pruned to fit fewer lines.
 * At line 3068: *PDAs* → *PDA*.
 * At line 3226: The actual translation in DE:HR would be just *condolences*; I'm still unsure whether to unfold *RIP* or not.
+* At line 3712: Assumed *sorry* is addressed to `Sebastian`.
 
 ### chapter2.rpy
 
