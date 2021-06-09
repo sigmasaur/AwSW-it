@@ -1865,13 +1865,13 @@ translate italiantl _call_syscheck_6_bb967794:
 translate italiantl _call_syscheck_6_f529b0b1:
 
     # n "Whether they were edibles that we had back home that I just didn't know about, or something completely alien I wasn't sure, but I didn't want to take the risk of eating anything I didn't know."
-    n "Se fossero commestibili che avevamo anche a casa e di cui solo non sapevo, o qualcosa di completamente alieno non ero sicurə, ma non volli correre il rischio di mangiare qualcosa che non conoscevo."
+    n "Se fossero commestibili che avevamo a casa di cui semplicemente non sapevo, o qualcosa di completamente alieno non ero sicurə, ma non volli correre il rischio di mangiare qualcosa che non conoscevo."
 
 # game/chapter1.rpy:1938
 translate italiantl _call_syscheck_6_afd5bd6d:
 
     # n "After all, it was possible that some of the comestibles might be fine for them to eat, but still be poisonous to us."
-    n "Dopotutto, era possibile che alcuni dei commestibili fossero buoni da mangiare per loro, ma comunque velenosi per noi."
+    n "Dopotutto, era possibile che alcuni dei commestibili potessero essere buoni da mangiare per loro, ma essere comunque velenosi per noi."
 
 # game/chapter1.rpy:1939
 translate italiantl _call_syscheck_6_05824446:
