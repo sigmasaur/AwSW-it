@@ -62,13 +62,16 @@ The following are mostly to the benefit of the developer and translators.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1358: Corrected number of dots from two to three.
 * At line 1751: Used if-statement to further distinguish between food types by linguistic necessity.
+* At line 1861: *or even* → *such as*, as bacteria are unicellular.
 * At line 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
+* At line 2351, 2395: changed *dragon*, as they probably wouldn't refer to themselves as such, at least in the literature.
 * At line 2728, 2747, 3609: Adapted to preserve a pun; reverse translation:
   * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre.*)
   * At line 2747: *There's a lot of them.*
   * At line 3609: *Achoo- I mean, excellent.*
 * At line 2737: Slightly adapted *isn't it fascinating* to add an obvious pun without loss of meaning.
+* At line 2738, 2934: Corrected uppercase letter to lowercase.
 * At line 3068: *PDAs* → *PDA*.
 * At line 3226: The actual translation in DE:HR would be just *condolences*; I'm still unsure whether to unfold *RIP* or not.
 * At line 3712: Assumed *sorry* is addressed to `Sebastian`.
