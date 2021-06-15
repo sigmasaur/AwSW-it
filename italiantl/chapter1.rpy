@@ -174,7 +174,7 @@ translate italiantl begingame_337d015e:
 translate italiantl begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta. Una lettera d'invito. Dopo qualche deliberazione, fu deciso di accettare la loro accoglienza e inviare una persona dall'altro lato." # "a [very] unexpected reply", also preserved uppercase letter
+    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta. Una lettera d'invito. Dopo qualche deliberazione, fu deciso di accettare la loro accoglienza e inviare una persona dall'altro lato." # "a [very] unexpected reply", also corrected colon to dot to preserve uppercase letter
 
 # game/chapter1.rpy:437
 translate italiantl begingame_3dadd8d0:
@@ -242,7 +242,7 @@ translate italiantl begingame_76b2fe88_2:
 translate italiantl begingame_02377e2f:
 
     # n "Then we waited..."
-    n "Dopodiché aspettammo..."
+    n "Poi aspettammo..."
 
 # game/chapter1.rpy:462
 translate italiantl begingame_a929e4ad:
@@ -356,7 +356,7 @@ translate italiantl begingame_32508c0c:
 translate italiantl begingame_26e2ea6a:
 
     # n "Reza apparently was sure of what he was doing, though, as he eventually let us know that they had agreed on a trade."
-    n "Apparentemente [Rz] era sicuro di quello che stava facendo, però, tanto che infine ci fece sapere di aver concordato uno scambio."
+    n "Apparentemente [Rz] era sicuro di quel che faceva, però, tanto che infine ci fece sapere di aver concordato uno scambio."
 
 # game/chapter1.rpy:486
 translate italiantl begingame_32345ff9:
@@ -1074,7 +1074,7 @@ translate italiantl _call_skipcheck_2_83471fa0:
 translate italiantl _call_skipcheck_2_71aa7402:
 
     # An "Don't underestimate its power. Oh, and do be careful not to drop it."
-    An "Non sottovalutarne la potenza. Oh, e fate molta attenzione a non lasciarlo cadere."
+    An "Non sottovalutarne la potenza. Oh, e fate attenzione a non lasciarlo cadere."
 
 # game/chapter1.rpy:1426
 translate italiantl _call_skipcheck_2_6e8828ce:
@@ -2407,7 +2407,7 @@ translate italiantl _call_syscheck_7_133cdd03:
 translate italiantl _call_syscheck_7_a455b8f2:
 
     # n "Like a wrecking ball, he came out of nothing, breaking all the barriers and entered my life. Two weeks ago, I was nothing. Today, I am the happiest dragon alive. Who knew that out of all the people alive, it only took the right one to right life itself." # wrecking ball is a reference to the miley cyrus song
-    n "Come una palla demolitrice, è saltato fuori dal nulla, rompendo ogni barriera ed è entrato nella mia vita. Due settimane or sono, non ero nulla. Oggi, sono la persona più felice al mondo. Chi sapeva che di tutte le persone al mondo, sarebbe bastata quella giusta per aggiustare la vita stessa." # "dragon" -> "person"
+    n "Come una palla demolitrice, è saltato fuori dal nulla, rompendo ogni barriera ed è entrato nella mia vita. Due settimane or sono, non ero nulla. Oggi, sono il drago più felice al mondo. Chi sapeva che di tutte le persone al mondo, sarebbe bastata quella giusta per aggiustare la vita stessa."
 
 # game/chapter1.rpy:2352
 translate italiantl _call_syscheck_7_43576349:
@@ -2529,7 +2529,7 @@ translate italiantl _call_syscheck_7_217fb58f:
 translate italiantl _call_syscheck_7_771a3b0c:
 
     # n "I have no doubt of my father's political achievements, yet only those who had to live with him know that these successes came at the price of his very soul. An empty shell of a dragon driven by nothing but his performance as a politician, not as a father."
-    n "Non ho dubbi sui raggiungimenti politici di mio padre, eppure solo coloro che dovettero vivergli accanto sanno che tali successi vennero a costo della sua anima. Un guscio vuoto di un essere guidato da nient'altro che la sua prestazione come politico, non come padre." # slightly pruned to fit three lines, also "dragon" -> "being"
+    n "Non ho dubbi sui raggiungimenti politici di mio padre, eppure solo coloro che dovettero vivergli accanto sanno che tali successi vennero a costo della sua anima. Un guscio vuoto di un drago guidato da nient'altro che la sua prestazione come politico, non come padre." # slightly pruned to fit three lines
 
 # game/chapter1.rpy:2398
 translate italiantl _call_syscheck_7_e52d75f4:
@@ -2873,7 +2873,7 @@ translate italiantl _call_syscheck_11_de498926:
 translate italiantl _call_syscheck_11_eb4d1edc:
 
     # c "(I'd be going on a date.)"
-    c "(Avrei un pie-datter-ra.)" # preserved a pun
+    c "(Avrei un pie-datter-ra.)" # adapted to preserve a pun
 
 # game/chapter1.rpy:2729
 translate italiantl _call_syscheck_11_542ac51d:
@@ -2927,7 +2927,7 @@ translate italiantl _call_syscheck_11_9ca3ba4e:
 translate italiantl _call_syscheck_11_4c8f346f:
 
     # c "(There are two of them. What a nice pear.)"
-    c "(Ce n'è pere-cchie.)" # preserved a pun
+    c "(Ce n'è pere-cchie.)" # adapted to preserve a pun
 
 # game/chapter1.rpy:2753
 translate italiantl _call_syscheck_11_9c2c9e41:
@@ -3071,7 +3071,7 @@ translate italiantl continuation_809da3d8:
 translate italiantl continuation_addb4e00:
 
     # Rz "As for the other: Do you know what this place is?"
-    Rz "Riguardo la seconda. Lo sai cos'è questo posto?" # preserved uppercase letter
+    Rz "Riguardo la seconda. Lo sai cos'è questo posto?" # corrected colon to dot to preserve uppercase letter
 
 # game/chapter1.rpy:2838
 translate italiantl continuation_bde4f6a4:
@@ -4067,7 +4067,7 @@ translate italiantl quest5_7b49274c:
 translate italiantl quest5_7cb5fa29:
 
     # Br "Even then, Haziq's procedure of logic tells us that, until further evidence surfaces, the theory with the least amount of assumptions is the most likely. This one isn't it."
-    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è." # see line 3395
+    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è." # see line 3395, also removed comma to match line 3395
 
 # game/chapter1.rpy:3491
 translate italiantl quest5_2d5dd7bc:
@@ -4199,7 +4199,7 @@ translate italiantl _call_syscheck_13_19e2bb77:
 translate italiantl _call_syscheck_13_593bcccd:
 
     # s "You did well on the first investigation. Achoo- I mean, achievement unlocked."
-    s "Te la sei cavata bene nella prima investigazione. Eccì- Voglio dire, eccellente." # preserved a pun
+    s "Te la sei cavata bene nella prima investigazione. Eccì- Voglio dire, eccellente." # adapted to preserve a pun
 
 # game/chapter1.rpy:3613
 translate italiantl _call_syscheck_13_9cf7f4d5:

@@ -65,7 +65,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1861: *or even* → *such as*, as bacteria are unicellular.
 * At line 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
-* At line 2351, 2395: changed *dragon*, as they probably wouldn't refer to themselves as such, at least in the literature.
+* At line 2351, 2395: I'm inclined to change *dragon*, as they probably wouldn't refer to themselves as such, at least in the literature.
 * At line 2728, 2747, 3609: Adapted to preserve a pun; reverse translation:
   * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre.*)
   * At line 2747: *There's a lot of them.*
@@ -79,10 +79,10 @@ The following are mostly to the benefit of the developer and translators.
 ### chapter2.rpy
 
 * At line 523, 1278, 3228, 3312, 3712, 3792, 4226: Corrected simple dash to em-dash.
-* At line 572, 3510, 3680: Corrected colon to dot to preserve the uppercase letter.
+* At line 572, 958, 1056, 1816, 1826, 1830: Corrected uppercase letter to lowercase.
+* At line 3510, 3680: Corrected colon to dot to preserve the uppercase letter.
 * At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware enough that the intended concordance of genders is syntactic, as semantic concordance of *that* \[<i>quell-</i>\] with the subject would have been rendered with the inclusive gender instead \[<i>-ə</i>\].)
-* At line 958, 1056, 1816, 1826, 1830: Corrected uppercase letter to lowercase.
-* At line 1036, 1148: Slightly pruned to fit fewer lines.
+* At line 1036, 1148, 3771: Slightly pruned to fit fewer lines.
 * At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of `chapter1.rpy`.
 * At line 1607: Added brackets to match line 2301 of `chapter1.rpy`.
 * At line 1623: *melon bread* → *melon-flavored bread*, to preserve the pun by linguistic necessity.
