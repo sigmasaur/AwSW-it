@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_11_1dd3075a:
 translate italiantl _call_skipcheck_11_b08b3ab3:
 
     # Br "Today's agenda isn't nearly as exciting or fun."
-    Br "L'ordine del giorno non è neanche lontanamente così entusiasmante o divertente."
+    Br "L'ordine del giorno non è neanche lontanamente così eccitante o divertente."
 
 # game/chapter2.rpy:356
 translate italiantl _call_skipcheck_11_2003f708:
@@ -394,7 +394,7 @@ translate italiantl _call_skipcheck_11_2ea1030a:
 translate italiantl _call_skipcheck_11_9f98a1a6:
 
     # Sb "It's an interesting one, that's for sure. The wounds match those of the last victim, so a similar - if not identical - murder weapon is likely."
-    Sb "In modo interessante, questo è certo. Le ferite sono compatibili con quelle dell'ultima vittima, quindi una simile—se non la stessa arma del delitto è da presumersi." # used em dash
+    Sb "In modo interessante, questo è certo. Le ferite sono compatibili con quelle dell'ultima vittima, quindi una simile—se non la stessa arma del delitto è da presumersi." # corrected simple dash to em-dash, also "identical—" -> "the same[—]"
 
 # game/chapter2.rpy:525
 translate italiantl _call_skipcheck_11_3c662131:
@@ -646,7 +646,7 @@ translate italiantl _call_skipcheck_11_2539b8a1:
 translate italiantl _call_skipcheck_11_889731a9:
 
     # Br "We spent all that time studying the portal and barely got anywhere with it. This stuff is just... beyond what we know."
-    Br "Abbiamo trascorso tutto quel tempo a studiare il portale e ne abbiamo a malapena cavato qualcosa. Quella roba è semplicemente... al di là delle nostre conoscenze." # "this stuff" -> "that stuff"
+    Br "Abbiamo trascorso tutto quel tempo a studiare il portale e ne abbiamo a malapena cavato qualcosa. Quella roba è semplicemente... al di là delle nostre conoscenze."
 
 # game/chapter2.rpy:691
 translate italiantl _call_skipcheck_11_32517d79:
@@ -700,7 +700,7 @@ translate italiantl _call_skipcheck_11_d4938ded:
 translate italiantl _call_skipcheck_11_ec9e9e05:
 
     # m "The next thing I saw was a hooded figure standing above me, barely visible against the darkness that permeated the room."
-    m "La prima cosa che vidi in seguito fu una figura incappucciata che mi sovrastava, appena visibile in contrasto all'oscurità che permeava la stanza."
+    m "La prima cosa che vidi in séguito fu una figura incappucciata che mi sovrastava, appena visibile in contrasto all'oscurità che permeava la stanza."
 
 # game/chapter2.rpy:775
 translate italiantl _call_skipcheck_11_4efdbd2a:
@@ -1293,7 +1293,7 @@ translate italiantl chapter2sections_008d9b72:
 translate italiantl chap2store_6edff375:
 
     # m "I entered the store, the sound of a bell alerting the staff to my arrival. Seeing the patrons browsing the shelves - neatly stocked with wares of all kinds - evoked some feelings of nostalgia and normalcy in me."
-    m "Entrai nel negozio, il suono di una campanella che avvisava il personale del mio arrivo. Vedere i clienti passare in rassegna gli scaffali—ordinatamente riforniti di prodotti di ogni tipo—suscitò in me un senso di nostalgia e normalità." # used em dash
+    m "Entrai nel negozio, il suono di una campanella che avvisava il personale del mio arrivo. Vedere i clienti passare in rassegna gli scaffali—ordinatamente riforniti di prodotti di ogni tipo—suscitò in me un senso di nostalgia e normalità." # corrected simple dash to em-dash
 
 # game/chapter2.rpy:1280
 translate italiantl chap2store_3e8a1606:
@@ -1827,7 +1827,7 @@ translate italiantl chap2storeques_258c4f41:
 translate italiantl chap2storeques_fd5d0715:
 
     # St "Let me know if you need anything."
-    St "Fammi sapere se hai bisogno d'altro."
+    St "Fammi sapere se hai bisogno di qualcosa."
 
 # game/chapter2.rpy:1603
 translate italiantl chap2storeques_3069e29e:
@@ -1869,7 +1869,7 @@ translate italiantl chap2storebrowsemenu_c0b3ec20:
 translate italiantl chap2storebrowsemenu_681dd9c0:
 
     # Op "Yes! What do you say, melon or lemon bread? I mean, the only difference between the two is, like, one letter - so how am I supposed to choose?"
-    Op "Sì! Che ne dici, pane al melone o al limone? Voglio dire, l'unica differenza fra i due sono, tipo, un paio di lettere—quindi come dovrei fare a scegliere?" # "melon bread" -> "melon-flavored bread" by necessity
+    Op "Sì! Che ne dici, pane al melone o al limone? Voglio dire, l'unica differenza fra i due sono, tipo, un paio di lettere—quindi come dovrei fare a scegliere?" # "melon-FLAVORED bread" by necessity
 
 # game/chapter2.rpy:1625
 translate italiantl chap2storebrowsemenu_fbab3b6f:
@@ -2205,7 +2205,7 @@ translate italiantl chap2facques_20d31919:
 translate italiantl chap2facques_ef5a3905:
 
     # Dm arrogant "That's right. While she goes out and does whatever the heck she wants, I get to keep an eye on the experiment."
-    Dm arrogant "Corretto. Mentre lei se ne va in giro a fare quello che le pare e piace, a me tocca tenere d'occhio l'esperimento."
+    Dm arrogant "Esatto. Mentre lei se ne va in giro a fare quello che le pare e piace, a me tocca tenere d'occhio l'esperimento."
 
 # game/chapter2.rpy:1923
 translate italiantl chap2facques_cb28ec53:
@@ -2505,7 +2505,7 @@ translate italiantl chap2libmenu_fb0b8078:
 translate italiantl chap2libmenu_cb0a2dc9:
 
     # Ry "She wanted a blueprint of it, which was one of the things found inside the building during an investigation."
-    Ry "Lei voleva una sua planimetria, che è una delle cose rinvenute all'interno della costruzione durante un accertamento." # "was" -> "is"
+    Ry "Lei voleva una sua planimetria, che è una delle cose rinvenute all'interno della costruzione durante un accertamento." # "was one" -> "is one"
 
 # game/chapter2.rpy:2158
 translate italiantl chap2libmenu_c0135904:
@@ -2637,7 +2637,7 @@ translate italiantl chap2libmenu_2f325c45:
 translate italiantl chap2libmenu_f67b7765:
 
     # c "I guess it's not easy coming to another world with a different society and different standards."
-    c "Immagino che non sia facile arrivare da un altro mondo con una diversa società e diverse norme."
+    c "Immagino che non sia facile arrivare in un altro mondo con una diversa società e diverse norme."
 
 # game/chapter2.rpy:2239
 translate italiantl chap2libmenu_3b0452c6:
@@ -2727,7 +2727,7 @@ translate italiantl chap2park1choice_891ef6d9:
 translate italiantl chap2park1choice_6800c3e1:
 
     # c "(This park is bigger than I thought. I could go north, towards Tatsu Avenue, which apparently is a nice spot to look at the landscape, or south to the political district. Where should I go?)"
-    c "(Questo parco è più grande di quanto pensassi. Posso andare a nord, verso Viale Tatsu, che apparentemente è un buon punto da cui osservare il paesaggio, oppure a sud al distretto politico. Da che parte dovrei andare?)"
+    c "(Questo parco è più grande di quanto pensassi. Posso andare a nord, verso Viale Tatsu, che a quanto pare è un buon punto da cui osservare il paesaggio, oppure a sud al distretto politico. Da che parte dovrei andare?)"
 
 # game/chapter2.rpy:2331
 translate italiantl chap2park1choice_7b2d7200:
@@ -2853,7 +2853,7 @@ translate italiantl chap2findnothing_62a5e033:
 translate italiantl chap2findnothing_e503e1f9:
 
     # c "(There doesn't seem to be anything important here, but at least it provides excellent shade.)"
-    c "(Pare che non ci sia niente di importante qui, ma almeno fornisce un'eccellente riparo.)"
+    c "(Pare non ci sia niente di importante qui, ma almeno fornisce un'eccellente riparo.)"
 
 # game/chapter2.rpy:2475
 translate italiantl chap2findnothing_250cd6e0:
@@ -2955,7 +2955,7 @@ translate italiantl _call_syscheck_55_17ed66aa:
 translate italiantl _call_syscheck_55_8d8add9d:
 
     # c "(On the metal covering of the hatch, there are two buttons which are situated to the left and the right of a central, circular lever. The arrow on the lever is pointing up.)"
-    c "(Sul rivestimento metallico della botola, vi sono due pulsanti situati alla sinistra e alla destra di una maniglia centrale circolare. La freccia sulla maniglia punta verso l'alto.)"
+    c "(Sul rivestimento metallico della botola, vi sono due bottoni situati alla sinistra e alla destra di una maniglia centrale circolare. La freccia sulla maniglia punta verso l'alto.)"
 
 # game/chapter2.rpy:2713
 translate italiantl chap2hatch_801e03ea:
@@ -3009,25 +3009,25 @@ translate italiantl _call_syscheck_56_f04665bb:
 translate italiantl _call_syscheck_56_2e9a22db:
 
     # c "(The first button is now pressed and sits flush with the metal covering of the hatch.)"
-    c "(Il primo pulsante adesso è premuto e resta a filo del rivestimento metallico della botola.)"
+    c "(Il primo bottone adesso è premuto e resta a filo del rivestimento metallico della botola.)"
 
 # game/chapter2.rpy:2872
 translate italiantl _call_syscheck_56_093a8784:
 
     # c "(After pressing the first the button again, it has returned to its original position, sticking out slightly against the metal covering of the hatch.)"
-    c "(Dopo aver premuto di nuovo il primo pulsante, questo è ritornato nella sua posizione originale, sporgendo leggermente dal rivestimento metallico della botola.)"
+    c "(Dopo aver premuto di nuovo il primo bottone, questo è ritornato nella sua posizione originale, sporgendo leggermente dal rivestimento metallico della botola.)"
 
 # game/chapter2.rpy:2890
 translate italiantl _call_syscheck_56_a122dc1e:
 
     # c "(The second button is now pressed and sits flush with the metal covering of the hatch.)"
-    c "(Il secondo pulsante adesso è premuto e resta a filo del rivestimento metallico della botola.)"
+    c "(Il secondo bottone adesso è premuto e resta a filo del rivestimento metallico della botola.)"
 
 # game/chapter2.rpy:2904
 translate italiantl _call_syscheck_56_ebcc18b2:
 
     # c "(After pressing the second button again, it has returned to its original position, sticking out slightly against the metal covering of the hatch.)"
-    c "(Dopo aver premuto di nuovo il secondo pulsante, questo è ritornato nella sua posizione originale, sporgendo leggermente dal rivestimento metallico della botola.)"
+    c "(Dopo aver premuto di nuovo il secondo bottone, questo è ritornato nella sua posizione originale, sporgendo leggermente dal rivestimento metallico della botola.)"
 
 # game/chapter2.rpy:2979
 translate italiantl chap2leverresult_f0e9acc2:
@@ -3237,13 +3237,13 @@ translate italiantl chap2park3choice_7f2f670b:
 translate italiantl chap2park3choice_9a209945:
 
     # Em mean "Do you want to know a secret? The park was built here so I could enjoy going outside on my breaks - like right now, for example."
-    Em mean "Vuoi conoscere un segreto? Il parco è stato costruito qui cosicché io potessi godermi l'aria aperta durante le mie pause—come in questo momento, ad esempio." # used em-dash
+    Em mean "Vuoi conoscere un segreto? Il parco è stato costruito qui cosicché io potessi godermi l'aria aperta durante le mie pause—come in questo momento, ad esempio." # corrected simple dash to em-dash
 
 # game/chapter2.rpy:3232
 translate italiantl chap2park3choice_36bcf2f5:
 
     # c "Speaking of your work: Remy works for you, right? I just met him the other day."
-    c "A proposito del suo lavoro: [Ry] lavora per Lei, giusto? L'ho incontrato appena l'altro giorno."
+    c "A proposito del Suo lavoro: [Ry] lavora per Lei, giusto? L'ho incontrato appena l'altro giorno."
 
 # game/chapter2.rpy:3234
 translate italiantl chap2park3choice_781bcfe3:
@@ -3357,7 +3357,7 @@ translate italiantl chap2emselection_4a8f0e96:
 translate italiantl chap2emselection_d46a388e:
 
     # Em ques "If you've been minister once, that's something people will remember you for - even if those times are long past. No one can ever take that away from you again."
-    Em ques "Essere stata una volta ministra, è qualcosa per cui la gente ti ricorderà—anche se quei tempi sono ormai lontani. Nessuno potrà mai portartelo via." # used em-dash
+    Em ques "Essere stata una volta ministra, è qualcosa per cui la gente ti ricorderà—anche se quei tempi sono ormai lontani. Nessuno potrà mai portartelo via." # corrected simple dash to em-dash
 
 # game/chapter2.rpy:3314
 translate italiantl chap2emselection_960ce40a:
@@ -3513,7 +3513,7 @@ translate italiantl _call_skipcheck_12_0c3263aa:
 translate italiantl _call_skipcheck_12_28318dfe:
 
     # Mv "Just tell me one thing: Why?"
-    Mv "Dimmi solo una cosa. Perché?" # corrected colon to dot to preserve uppercase letter
+    Mv "Dimmi solo una cosa. Perché?" # corrected colon to dot to preserve the uppercase letter
 
 # game/chapter2.rpy:3512
 translate italiantl _call_skipcheck_12_f5e9bd20:
@@ -3819,7 +3819,7 @@ translate italiantl _call_skipcheck_12_c9046289:
 translate italiantl _call_skipcheck_12_b3a7298f:
 
     # c "In the end, his only way out is the same way he got in: The portal."
-    c "Alla fine, l'unica sua via d'uscita è la stessa da cui è entrato. Il portale." # corrected colon to dot to preserve uppercase letter
+    c "Alla fine, l'unica sua via d'uscita è la stessa da cui è entrato. Il portale." # corrected colon to dot to preserve the uppercase letter
 
 # game/chapter2.rpy:3682
 translate italiantl _call_skipcheck_12_e9b06463:
@@ -3903,7 +3903,7 @@ translate italiantl _call_skipcheck_12_bff08eef:
 translate italiantl _call_skipcheck_12_bdb129d4:
 
     # Sb "As long as you don't give up, there's still a chance to solve the case - however small it may be."
-    Sb "Fintantoché non ti dai per vinto, resta sempre una possibilità di risolvere il caso—per quanto remota possa essere." # used em dash
+    Sb "Fintantoché non ti dai per vinto, resta sempre una possibilità di risolvere il caso—per quanto remota possa essere." # corrected simple dash to em-dash
 
 # game/chapter2.rpy:3714
 translate italiantl _call_skipcheck_12_b44aee8e:
@@ -4023,7 +4023,7 @@ translate italiantl chap2skip3_4e1f8841:
 translate italiantl chap2skip3_12dac46c:
 
     # Sb "He could've needed a map to plan something, I suppose, but who knows what he really wanted to do with it. It's the kind of detail that - on its own - might not tell us much, but could be crucial later on."
-    Sb "Potrebbe aver avuto bisogno di una mappa per pianificare qualcosa, suppongo, ma chissà cos'avrebbe voluto farci veramente. È quel tipo di dettaglio che—di per sé—potrebbe non dire molto, ma rivelarsi cruciale più avanti." # used em dash
+    Sb "Potrebbe aver avuto bisogno di una mappa per pianificare qualcosa, suppongo, ma chissà cos'avrebbe voluto farci veramente. È quel tipo di dettaglio che—di per sé—potrebbe non dire molto, ma rivelarsi cruciale più avanti." # corrected simple dash to em-dash
 
 # game/chapter2.rpy:3800
 translate italiantl chap2skip3_0778013f:
@@ -4143,13 +4143,13 @@ translate italiantl chapter2chars_14f20a32:
 translate italiantl _call_popularcheck_10_8bf0501b:
 
     # Br "Hey. I was just thinking about last time. I know we got a little blackout drunk, but I still thought that was kinda fun."
-    Br "Ehi. Stavo giusto ripensando all'ultima volta. So che abbiamo alzato un po' il gomito, ma penso che sia stato comunque divertente." # "thought" -> "think"
+    Br "Ehi. Stavo giusto ripensando all'ultima volta. So che abbiamo alzato un po' il gomito, ma penso sia stato comunque divertente." # "thought" -> "think"
 
 # game/chapter2.rpy:4220
 translate italiantl _call_popularcheck_10_e0bc6ab0:
 
     # Br "I think you had some fun too, but I also wanted to show you there's more to me than that."
-    Br "Penso che ti sia divertitə anche tu, ma volevo anche mostrarti che so essere più di questo."
+    Br "Penso ti sia divertitə anche tu, ma volevo anche mostrarti che so essere più di questo."
 
 # game/chapter2.rpy:4222
 translate italiantl _call_popularcheck_10_ed3abd0d:
@@ -4167,7 +4167,7 @@ translate italiantl _call_popularcheck_10_e06dc126:
 translate italiantl _call_popularcheck_10_38062cc6:
 
     # Br "Anyway, if you want to drop by at any time - my door's open, buddy."
-    Br "Ad ogni modo, se ti va di passare in qualsiasi momento—la mia porta è aperta, ragazzə." # used em dash
+    Br "Ad ogni modo, se ti va di passare in qualsiasi momento—la mia porta è aperta, ragazzə." # corrected simple dash to em-dash
 
 # game/chapter2.rpy:4232
 translate italiantl _call_popularcheck_10_26eaf959:
@@ -4281,7 +4281,7 @@ translate italiantl _call_popularcheck_14_85982b7e:
 translate italiantl _call_popularcheck_14_ad846bd9:
 
     # m "By the time I had finished the book, in which the Scepter of Sovereignty from the preceding novel is first stolen, then reclaimed by the novels' titular hero, only to be stolen again in another cliffhanger ending ploy setting up the series' next entry, I wished I had spent the time doing something more productive."
-    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, e quindi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale volto a imbastire il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # "novels" -> "series"
+    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, e quindi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale volto a imbastirne il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # "novels" -> "series"
 
 # game/chapter2.rpy:4797
 translate italiantl _call_popularcheck_14_45731809:
@@ -4395,7 +4395,7 @@ translate italiantl strings:
 
     # chapter2.rpy:1084
     old "You must be really understaffed if you need to rely on me."
-    new "Dovete essere proprio a corto di personale per fare affidamento su di me."
+    new "Dovete essere proprio a corto di personale per contare su di me." # slightly pruned
 
     # chapter2.rpy:1084
     old "How about no?"
@@ -4539,11 +4539,11 @@ translate italiantl strings:
 
     # chapter2.rpy:2842
     old "Press the first button."
-    new "Premi il primo pulsante."
+    new "Premi il primo bottone."
 
     # chapter2.rpy:2842
     old "Press the second button."
-    new "Premi il secondo pulsante."
+    new "Premi il secondo bottone."
 
     # chapter2.rpy:2842
     old "Turn the lever clockwise."

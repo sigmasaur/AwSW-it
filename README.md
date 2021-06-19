@@ -56,16 +56,16 @@ The following are mostly to the benefit of the developer and translators.
 ### chapter1.rpy
 
 * At line 385, 408: *to skip seen messages* → *to skip messages*, as it depends on the user's preference.
-* At line 431: *were in consideration* → *had been in consideration*, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
+* At line 431: Corrected simple past tense to past perfect, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
 * At line 436, 2837: Corrected colon to dot to preserve the uppercase letter.
 * At line 463: *8* → *eight*, for elegance.
+* At line 1084, 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 1358: Corrected number of dots from two to three.
 * At line 1751: Used if-statement to further distinguish between food types by linguistic necessity.
 * At line 1861: *or even* → *such as*, as bacteria are unicellular.
-* At line 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
-* At line 2351, 2395: I'm inclined to change *dragon*, as they probably wouldn't refer to themselves as such, at least in the literature.
+* At line 2351, 2395: I'm inclined to change *dragon*, as they probably wouldn't refer to themselves as such, at very least in the literature.
 * At line 2728, 2747, 3609: Adapted to preserve a pun; reverse translation:
   * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre.*)
   * At line 2747: *There's a lot of them.*
@@ -89,3 +89,20 @@ The following are mostly to the benefit of the developer and translators.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
   * At line 2423: A playful exclamation of surprise.
   * At line 3824: This one just had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
+
+### chapter3.rpy
+
+* At line 823, 825, 835, 847, 882, 988, 996, 1219, 1278, 1139, 1478: *PDAs* → *PDA*.
+* At line 849, 884: Split in multiple parts to fit fewer lines.
+* At line 860, 1191, 2439: Corrected uppercase letter to lowercase.
+* At line 1264-1266: Corrected future tenses to conditional, as we're supposedly talking of the yet speculative case where the player character doesn't go through the portal as per `Emera`'s resolve.
+* At line 1346: *10* → *ten*, for elegance.
+* At line 1346: *Hiroshima* → *atomic*, for several reasons other than the obvious: there's no real loss of meaning, the translation renders better, not to mention that the player character is supposedly addressing `Bryce` and `Emera`, who can't possibly know about it.
+* At line 1383: *15%* → *fifteen percent*, for elegance.
+* At line 1476, 3366, 4338: Corrected simple dash to em-dash.
+* At line 2457: Corrected colon to dot to preserve the uppercase letter.
+* At line 2467: *list of* → *note with*, to avoid too many same prepositions and to match lines 713, 1149 of `chapter1.rpy`.
+* At line 3098: Slightly pruned to fit fewer lines.
+* At line 3639: *pockets* → *pocket*, to match line 2312.
+* At line 3751: Adapted to preserve a pun; reverse translation: *I'm stunned.*
+* At line 4046-4064: Note that the larger, orange dragon should be a female, as mentioned by `Zhong` at line 3907; the current translation doesn't use this information, nonetheless.
