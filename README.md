@@ -15,6 +15,7 @@ Currently working on the main chapters. Files done and up for review:
 
     chapter1.rpy
     chapter2.rpy
+    chapter3.rpy
 
 A few remarks:
 
