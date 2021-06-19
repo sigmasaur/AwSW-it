@@ -4916,7 +4916,7 @@ translate italiantl c3arcques_7c9f9a1e:
     # nvl clear
     # n "They were only one of the companies involved in championing the teleportation technology that was about to take off on a grand scale before the solar flare changed everything."
     nvl clear
-    n "Loro erano solo una delle società coinvolte nella propugnazione della tecnologia di teletrasporto ch'era in procinto di decollare su larga scala prima che il brillamento solare cambiasse ogni cosa."
+    n "Essi erano solo una delle società coinvolte nella propugnazione della tecnologia di teletrasporto ch'era in procinto di decollare su larga scala prima che il brillamento solare cambiasse ogni cosa."
 
 # game/chapter3.rpy:3510
 translate italiantl c3arcques_ae4bc12d:
