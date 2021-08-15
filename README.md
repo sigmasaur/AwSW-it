@@ -16,10 +16,11 @@ Currently working on the main chapters. Files done and up for review:
     chapter1.rpy
     chapter2.rpy
     chapter3.rpy
+    chapter4.rpy
 
 A few remarks:
 
-* Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.
+* Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.<br>On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change.
 
 * I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`. Also, `Emera` is addressed by any other character with formal pronouns, as well as `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few circumstances.
 
@@ -57,7 +58,7 @@ The following are mostly to the benefit of the developer and translators.
 ### chapter1.rpy
 
 * At line 385, 408: *to skip seen messages* → *to skip messages*, as it depends on the user's preference.
-* At line 431: Corrected simple past tense to past perfect, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
+* At line 431: Corrected simple past tense *were under consideration* to past perfect, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
 * At line 436, 2837: Corrected colon to dot to preserve the uppercase letter.
 * At line 463: *8* → *eight*, for elegance.
@@ -98,12 +99,35 @@ The following are mostly to the benefit of the developer and translators.
 * At line 860, 1191, 2439: Corrected uppercase letter to lowercase.
 * At line 1264-1266: Corrected future tenses to conditional, as we're supposedly talking of the yet speculative case where the player character doesn't go through the portal as per `Emera`'s resolve.
 * At line 1346: *10* → *ten*, for elegance.
-* At line 1346: *Hiroshima* → *atomic*, for several reasons other than the obvious: there's no real loss of meaning, the translation renders better, not to mention that the player character is supposedly addressing `Bryce` and `Emera`, who can't possibly know about it.
+* At line 1346: *Hiroshima* → *atomic*, for several reasons other than the obvious: there's no real loss of meaning, the translation renders better, not to mention that we're supposedly addressing `Bryce` and `Emera`, who can't possibly know about it.
 * At line 1383: *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
+* At line 2144: *inch* → *centimeter*, as Italians way prefer the metric system, and the resulting expression reads a lot nicer.
 * At line 2457: Corrected colon to dot to preserve the uppercase letter.
-* At line 2467: *list of* → *note with*, to avoid too many same prepositions and to match lines 713, 1149 of `chapter1.rpy`.
+* At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of `chapter1.rpy`.
 * At line 3098: Slightly pruned to fit fewer lines.
 * At line 3639: *pockets* → *pocket*, to match line 2312.
 * At line 3751: Adapted to preserve a pun; reverse translation: *I'm stunned.*
 * At line 4046-4064: Note that the larger, orange dragon should be a female, as mentioned by `Zhong` at line 3907; the current translation doesn't use this information, nonetheless.
+
+### chapter4.rpy
+
+* At line 762, 922: Corrected uppercase letter to lowercase.
+* At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash to em-dash.
+* At line 1094: Used if-statement to distinguish whether `Anna` survives or not, and corrected present tenses to simple past in the latter case.
+* At line 1368-1736: The following is a simplified flow chart to help keeping track of which section spoken by the system refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** are persistent variables starting resp. from `0`, `FALSE`. Note that **`CHEAT`** may jump from `0` to `2` but may never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
+  * At line 1676-1736: Note that these lines also trigger if `Bryce` was saved at least once after dying, then just died again and the user tries to cheat for the *first* time, even though apparently this is unintended behavior (see e.g. line 1696).
+* At line 1812: Note that in theory, dragons don't know what a car is.
+* At line 2035, 2836, 2873, 2909, 2946: *PDAs* → *PDA*.
+* At line 3285-3289, 3379-3383, 3438-3442, 3511-3515, 3742-3746: Adapted to preserve a pun; reverse translation: *Exceptional.*
+* At line 3568, 3627, 3798, 3857: Assumed *who* is referred to `Adine`.
+* At line 4345, 4353: *65* → *sixty-five*, for elegance.
+* At line 4365: About *aligning \[the portals\] across the time axis*, note that `Izumi` would still have had to bypass the anti-time travel safeguards for her to be able to return, assuming the portals in the present were still operational.
+* At line 4367: *that meant that* → *moreover*, as there's no real logical implication between line 4365 and this line.
+* At line 4375, 4382: Corrected colon to dot to preserve the uppercase letter.
+* At line 4432, 4614: *AI* → *artificial intelligence*, for elegance.
+* At line 4462: *10km* → *ten kilometers*, for elegance.
+* At line 4468, *75%* → *seventy-five percent*, for elegance.
+* At line 4468-4472: Slightly adapted to exchange the two units, as Italians way prefer the metric system. Does this qualify as improper localization?
+* At line 4500: Corrected *don't think that he would<s>n't</s> hesitate*.
+* At line 4556: *connected* → *linked*, to avoid repeating *\[the connection\] is not connected*; the current translation can nonetheless be reverse translated as *connected*.
