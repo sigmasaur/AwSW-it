@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/xkevin.rpy:30
 translate italiantl kevin_cb2b8cb1:

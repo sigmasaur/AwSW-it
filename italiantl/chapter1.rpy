@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/chapter1.rpy:56
 translate italiantl nameentryx_dc71aba9:

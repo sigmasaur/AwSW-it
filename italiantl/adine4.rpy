@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/adine4.rpy:28
 translate italiantl adine4_82ee252e:

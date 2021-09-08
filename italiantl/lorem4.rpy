@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/lorem4.rpy:38
 translate italiantl lorem4_0124e426:

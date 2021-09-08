@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/chapter5.rpy:430
 translate italiantl chapter5_76b2fe88:

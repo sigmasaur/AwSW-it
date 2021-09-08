@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/xsebastian.rpy:32
 translate italiantl sebastian_ca6eb682:

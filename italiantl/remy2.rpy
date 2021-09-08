@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/remy2.rpy:50
 translate italiantl _call_skiptut_34_0ff5f677:

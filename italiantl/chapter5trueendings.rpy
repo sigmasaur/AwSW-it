@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/chapter5trueendings.rpy:5
 translate italiantl trueendings_5780b4f3:

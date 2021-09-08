@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/bryce5.rpy:12
 translate italiantl bryce5_cb2b8cb1:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2021-04-13 08:56
 
 # game/lorem3.rpy:52
 translate italiantl _call_skiptut_13_0ff5f677:
