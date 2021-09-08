@@ -690,7 +690,7 @@ translate italiantl c3conty_5fdc5c6c:
 translate italiantl c3conty_a7ee13db:
 
     # Em mean "No, I've got everything I need right here. It gets so stuffy inside on hot days. My assistant doesn't seem to mind, but I prefer the fresh air. I'd rather just stay right here, unless you have any objections."
-    Em mean "No, ho tutto ciò che mi serve proprio qui. Dentro si fa talmente soffocante nei giorni caldi. Al mio assistente non sembra dar noia, ma io preferisco l'aria fresca. Piuttosto resterei semplicemente qui, a meno che non abbiate obiezioni."
+    Em mean "No, ho tutto ciò che mi occorre proprio qui. Dentro si fa talmente soffocante nei giorni caldi. Al mio assistente non sembra dar noia, ma io preferisco l'aria fresca. Piuttosto resterei semplicemente qui, a meno che non abbiate obiezioni."
 
 # game/chapter3.rpy:1109
 translate italiantl c3conty_11942d8f:
@@ -816,7 +816,7 @@ translate italiantl c3conty_4bd14a5d:
 translate italiantl c3conty_4475366a:
 
     # Em frown "But that's enough about myself. We now face the question of what should be done about Reza and [player_name]."
-    Em frown "Ma basta parlare di me. Adesso siamo di fronte alla questione di quel che dovrebbe essere fatto con [Rz] e [player_name]."
+    Em frown "Ma basta parlare di me. Adesso siamo di fronte alla questione di quel che si dovrebbe fare con [Rz] e [player_name]."
 
 # game/chapter3.rpy:1158
 translate italiantl c3conty_43f93125:
@@ -924,7 +924,7 @@ translate italiantl c3conty_1822d45e:
 translate italiantl c3conty_a380502c:
 
     # Em frown "The question is: Did Maverick cause this, or did he just fail to prevent it?"
-    Em frown "La domanda è: [Mv] ha provocato questo, o semplicemente non è riuscito a prevenirlo?" # corrected uppercase letter
+    Em frown "La domanda è: [Mv] ha provocato questo, o semplicemente non è riuscito a prevenirlo?"
 
 # game/chapter3.rpy:1193
 translate italiantl c3conty_1d484af8:
@@ -948,7 +948,7 @@ translate italiantl c3conty_f3abfbef:
 translate italiantl c3conty_c01983af:
 
     # Em "Why did you choose Maverick as his escort in the first place?"
-    Em "Perché avevi scelto proprio [Mv] come sua scorta?"
+    Em "Perché avresti scelto proprio [Mv] come sua scorta?"
 
 # game/chapter3.rpy:1201
 translate italiantl c3conty_31a3f5e7:
@@ -1062,7 +1062,7 @@ translate italiantl c3conty_e868e996:
 translate italiantl c3conty_3b50eeec:
 
     # c "If Reza is involved with these crimes, I want no part of it. It has nothing to do with me or the reasons I came here in the first place. If his actions are endangering this agreement in any way, I want to put a stop to him."
-    c "Se anche [Rz] è coinvolto in questi crimini, io non voglio entrarci. Non ha niente a che vedere con me o con le ragioni per cui sono venutə qui sin dall'inizio. Se le sue azioni compromettono questo accordo in qualsiasi modo, allora voglio fermarlo." # "THEN I want to"
+    c "Se anche [Rz] è coinvolto in questi crimini, io non voglio averne parte. Non ha niente a che vedere con me o con le ragioni per cui sono venutə qui sin dall'inizio. Se le sue azioni compromettono questo accordo in qualsiasi modo, allora voglio fermarlo." # "THEN I want to"
 
 # game/chapter3.rpy:1251
 translate italiantl c3conty_56daee83:
@@ -3424,13 +3424,13 @@ translate italiantl c3sections_99980877:
 translate italiantl c3sections_f6745d81:
 
     # m "Someone clearly didn't want me to go to the portal, but why would I go there in the first place? As it was out of order right now, such an action would serve no purpose."
-    m "Era chiaro che qualcuno non voleva che io andassi al portale, ma perché vi sarei dovutə andare in ogni caso? Poiché era fuori uso al momento, una tale azione non sarebbe servita a niente."
+    m "Era chiaro che qualcuno non voleva che io andassi al portale, ma per quale motivo sarei dovutə andarvi? Poiché al momento era fuori uso, una tale azione non sarebbe servita a niente."
 
 # game/chapter3.rpy:2431
 translate italiantl c3sections_fe0ccee8:
 
     # m "I looked outside the window, at the portal's faint silhouette in the distance. The paper rustled between my fingers as I fidgeted with it, wondering about the message's sender and significance."
-    m "Guardai fuori dalla finestra, alla flebile sagoma del portale in lontananza. Il pezzo di carta frusciava fra le mie dita mentre ci giocavo, domandandomi chi fosse il mittente del messaggio e quale il suo significato." # "the PIECE OF paper"
+    m "Guardai fuori dalla finestra, alla flebile sagoma del portale in lontananza. Il pezzo di carta frusciava fra le mie dita mentre ci giocavo, interrogandomi sul mittente del messaggio e sul suo significato." # "the PIECE OF paper"
 
 # game/chapter3.rpy:2435
 translate italiantl c3sections_4bad9402:
@@ -5558,7 +5558,7 @@ translate italiantl follow_89aefe22:
 translate italiantl follow_c09b77b8:
 
     # c "How did it even get this far?"
-    c "Com'è che si è arrivati a questo punto?"
+    c "Com'è che si è giunti a questo?"
 
 # game/chapter3.rpy:4096
 translate italiantl follow_36d5502d:
@@ -6230,7 +6230,7 @@ translate italiantl _call_popularcheck_5_731ee041:
 translate italiantl _call_popularcheck_6_b9386ee3:
 
     # An "I just wanted to update you. I still don't have an open spot in the facility for your tests, but I'll be free if you want to cash in your reward."
-    An "Volevo solo aggiornarti. Non ho ancora un posto libero allo stabilimento per i tuoi esami, ma sarò disponibile se desideri incassare il tuo premio." # see line 4335 of chapter 2
+    An "Volevo solo aggiornarti. Non ho ancora un posto libero allo stabilimento per i tuoi esami, ma sarò disponibile se vuoi incassare il tuo premio." # see line 4335 of chapter 2
 
 # game/chapter3.rpy:4946
 translate italiantl _call_popularcheck_6_c3af19bf:

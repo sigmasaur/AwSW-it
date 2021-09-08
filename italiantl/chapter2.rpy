@@ -1183,7 +1183,7 @@ translate italiantl chap2q1_b7c76e6e:
 translate italiantl chap2q1_4e269bd8:
 
     # c "Aren't you worried I'll do something fishy? I mean, isn't that why Reza and I were assigned police escorts in the first place?"
-    c "Non ti preoccupa che possa combinare qualcosa di losco? Voglio dire, non è proprio per questo che a [Rz] e me era stata assegnata una scorta della polizia?"
+    c "Non ti preoccupa che possa combinare qualcosa di losco? Voglio dire, non è per questo motivo che a me e [Rz] era stata assegnata una scorta della polizia?" # "A police escort[s]"
 
 # game/chapter2.rpy:1122
 translate italiantl chap2q1_60debecd:
@@ -1467,7 +1467,7 @@ translate italiantl chap2store_e39d4dc3:
 translate italiantl chap2store_87a08b08:
 
     # St "I suppose that's the downside of working in a bar. Everybody's there to get drunk."
-    St "Suppongo che sia lo svantaggio di lavorare in un bar. Sono tutti lì per ubriacarsi."
+    St "Suppongo sia lo svantaggio di lavorare in un bar. Sono tutti lì per ubriacarsi."
 
 # game/chapter2.rpy:1388
 translate italiantl chap2store_8cea894f:
@@ -3525,7 +3525,7 @@ translate italiantl _call_skipcheck_12_f5e9bd20:
 translate italiantl _call_skipcheck_12_e4746f5f:
 
     # Mv "Why even come here?"
-    Mv "Perché saresti venutə qui?" # "why DID YOU even come here"
+    Mv "Perché sei venutə qui?" # "why DID YOU [even] come here"
 
 # game/chapter2.rpy:3520
 translate italiantl _call_skipcheck_12_f2e6430f:
@@ -4227,7 +4227,7 @@ translate italiantl _call_popularcheck_11_c988d1f1:
 translate italiantl _call_popularcheck_12_b9386ee3:
 
     # An "I just wanted to update you. I still don't have an open spot in the facility for your tests, but I'll be free if you want to cash in your reward."
-    An "Volevo solo aggiornarti. Non ho ancora un posto libero allo stabilimento per i tuoi esami, ma sarò disponibile se desideri incassare il tuo premio."
+    An "Volevo solo aggiornarti. Non ho ancora un posto libero allo stabilimento per i tuoi esami, ma sarò disponibile se vuoi incassare il tuo premio."
 
 # game/chapter2.rpy:4337
 translate italiantl _call_popularcheck_12_c3af19bf:

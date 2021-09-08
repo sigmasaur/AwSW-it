@@ -1458,7 +1458,7 @@ translate italiantl _call_skipcheck_3_b8b2e60e:
 translate italiantl _call_skipcheck_3_0fd8eb86:
 
     # Rz "I can't really say much more with you-know-who over there. He's probably listening to us right now."
-    Rz "Non è che possa dire granché di più con tu-sai-chi là in fondo. Probabilmente ci sta ascoltando in questo momento."
+    Rz "Non è che possa dire granché di più con tu-sai-chi là in fondo. Probabilmente ci sta ascoltando proprio adesso."
 
 # game/chapter1.rpy:1731
 translate italiantl _call_skipcheck_3_ad30f800:
@@ -2103,7 +2103,7 @@ translate italiantl _call_syscheck_6_5101fbef:
 translate italiantl _call_syscheck_6_66a3f50e:
 
     # Sb "I guess that should be all. I'll see you tomorrow, then."
-    Sb "Immagino che sia tutto. Ci vediamo domani, allora."
+    Sb "Immagino sia tutto. Ci vediamo domani, allora."
 
 # game/chapter1.rpy:2085
 translate italiantl _call_syscheck_6_f5f7c27d:
@@ -2523,7 +2523,7 @@ translate italiantl _call_syscheck_7_9efd40fd:
 translate italiantl _call_syscheck_7_217fb58f:
 
     # n "For those who may want to critique me now for saying this:"
-    n "A coloro che potrebbero volermi criticare in questo momento per aver detto ciò:"
+    n "A coloro che ora potrebbero volermi criticare per aver detto ciò:"
 
 # game/chapter1.rpy:2395
 translate italiantl _call_syscheck_7_771a3b0c:
@@ -3035,7 +3035,7 @@ translate italiantl continuation_5fa1e9f6:
 translate italiantl continuation_0da12190:
 
     # Rz "Just look up at the stars. You can see them so clearly here, without all the pollution lingering in the air like back home. Almost as if we were looking right into the face of eternity itself."
-    Rz "Guarda solo le stelle. Puoi vederle così chiaramente qui, senza tutto l'inquinamento che persiste nell'aria come a casa. Quasi come se stessimo guardando dritto in faccia l'eternità stessa."
+    Rz "Guarda solo le stelle. Puoi vederle così chiaramente qui, senza tutto l'inquinamento che aleggia nell'aria come a casa. Quasi come se stessimo guardando dritto in faccia l'eternità stessa."
 
 # game/chapter1.rpy:2827
 translate italiantl continuation_bb4bb404:
@@ -3173,7 +3173,7 @@ translate italiantl continuation_f23a06d3:
 translate italiantl continuation_ccc18971:
 
     # Mv "Don't try to deny it. I heard you both talking about it in the café, and I saw the letter. You think I couldn't smell the lemon on it? Pathetic. You'll have to come with me to the police station now, both of you."
-    Mv "Non provare a negarlo. Vi ho sentito entrambi parlarne in caffetteria, e ho visto la lettera. Pensate che non potessi sentirvi sopra il limone? Patetico. Dovrete venire con me alla stazione di polizia adesso, tutti e due."
+    Mv "Non provare a negarlo. Vi ho sentito entrambi parlarne in caffetteria, e ho visto la lettera. Pensate che non potessi fiutarvi sopra il limone? Patetico. Dovrete venire con me alla stazione di polizia adesso, tutti e due."
 
 # game/chapter1.rpy:2877
 translate italiantl continuation_4d0a51fa:
@@ -3635,7 +3635,7 @@ translate italiantl _call_syscheck_12_b11d330a:
 translate italiantl _call_syscheck_12_bf72188d:
 
     # Br "I implore you to reconsider!" # reference to Kung Pow: Enter the fist where this sentence is used a few times. the whole exchange is a reference to false choices in JRPGs where there is a "choice" between accepting a quest or not, but declining it just causes the NPC to ask again until you do.
-    Br "Ti imploro in ginocchio di ripensarci!" # used Italian translation in Kung Pow
+    Br "Ti imploro in ginocchio di ripensarci!" # used the Italian translation to those excerpts of Kung Pow
 
 # game/chapter1.rpy:3170
 translate italiantl _call_syscheck_12_f1ed3266:
@@ -4175,7 +4175,7 @@ translate italiantl quest6_e9ff846e:
 translate italiantl quest6_b4f8e17e:
 
     # Br "Hm. I think that's about everything."
-    Br "Hm. Penso che sia tutto."
+    Br "Hm. Penso sia tutto."
 
 # game/chapter1.rpy:3580
 translate italiantl quest6_09b5f048:

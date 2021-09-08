@@ -96,7 +96,7 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 823, 825, 835, 847, 882, 988, 996, 1219, 1278, 1139, 1478: *PDAs* → *PDA*.
 * At line 849, 884: Split in multiple parts to fit fewer lines.
-* At line 860, 1191, 2439: Corrected uppercase letter to lowercase.
+* At line 860, 2439: Corrected uppercase letter to lowercase.
 * At line 1264-1266: Corrected future tenses to conditional, as we're supposedly talking of the yet speculative case where the player character doesn't go through the portal as per `Emera`'s resolve.
 * At line 1346: *10* → *ten*, for elegance.
 * At line 1346: *Hiroshima* → *atomic*, for several reasons other than the obvious: there's no real loss of meaning, the translation renders better, not to mention that we're supposedly addressing `Bryce` and `Emera`, who can't possibly know about it.
@@ -117,8 +117,10 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1094: Used if-statement to distinguish whether `Anna` survives or not, and corrected present tenses to simple past in the latter case.
 * At line 1368-1736: The following is a simplified flow chart to help keeping track of which section spoken by the system refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** are persistent variables starting resp. from `0`, `FALSE`. Note that **`CHEAT`** may jump from `0` to `2` but may never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
   * At line 1676-1736: Note that these lines also trigger if `Bryce` was saved at least once after dying, then just died again and the user tries to cheat for the *first* time, even though apparently this is unintended behavior (see e.g. line 1696).
+* At line 1708, 4592: Slightly pruned to fit fewer lines.
 * At line 1812: Note that in theory, dragons don't know what a car is.
 * At line 2035, 2836, 2873, 2909, 2946: *PDAs* → *PDA*.
+* At line 2411: `Shake` function doesn't seem to trigger.
 * At line 3285-3289, 3379-3383, 3438-3442, 3511-3515, 3742-3746: Adapted to preserve a pun; reverse translation: *Exceptional.*
 * At line 3568, 3627, 3798, 3857: Assumed *who* is referred to `Adine`.
 * At line 4345, 4353: *65* → *sixty-five*, for elegance.
@@ -130,4 +132,5 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4468, *75%* → *seventy-five percent*, for elegance.
 * At line 4468-4472: Slightly adapted to exchange the two units, as Italians way prefer the metric system. Does this qualify as improper localization?
 * At line 4500: Corrected *don't think that he would<s>n't</s> hesitate*.
-* At line 4556: *connected* → *linked*, to avoid repeating *\[the connection\] is not connected*; the current translation can nonetheless be reverse translated as *connected*.
+* At line 4556: Split in multiple parts to fit fewer lines.
+* At line 4556: *connected* → *linked*, to avoid repeating *the connection \[...\] is not connected*.
