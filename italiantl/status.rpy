@@ -8,7 +8,7 @@ translate italiantl strings:
 
     # status.rpy:25
     old "Status: {b}Neutral{/b}\nScenes played: {b}[remyscenesfinished]{/b}"
-    new "Stato: {b}Neutrale{/b}\nScene giocate: {b}[remyscenesfinished]{/b}"
+    new "Stato: {b}Neutro{/b}\nScene giocate: {b}[remyscenesfinished]{/b}"
 
     # status.rpy:30
     old "Status: {b}Good{/b}\nScenes played: {b}[remyscenesfinished]{/b}"
@@ -32,7 +32,7 @@ translate italiantl strings:
 
     # status.rpy:66
     old "Status: {b}Neutral{/b}\nScenes played: {b}[annascenesfinished]{/b}"
-    new "Stato: {b}Neutrale{/b}\nScene giocate: {b}[annascenesfinished]{/b}"
+    new "Stato: {b}Neutro{/b}\nScene giocate: {b}[annascenesfinished]{/b}"
 
     # status.rpy:71
     old "Status: {b}Good{/b}\nScenes played: {b}[annascenesfinished]{/b}"
@@ -56,7 +56,7 @@ translate italiantl strings:
 
     # status.rpy:107
     old "Status: {b}Neutral{/b}\nScenes played: {b}[loremscenesfinished]{/b}"
-    new "Stato: {b}Neutrale{/b}\nScene giocate: {b}[loremscenesfinished]{/b}"
+    new "Stato: {b}Neutro{/b}\nScene giocate: {b}[loremscenesfinished]{/b}"
 
     # status.rpy:112
     old "Status: {b}Good{/b}\nScenes played: {b}[loremscenesfinished]{/b}"
@@ -80,7 +80,7 @@ translate italiantl strings:
 
     # status.rpy:149
     old "Status: {b}Neutral{/b}\nScenes played: {b}[brycescenesfinished]{/b}"
-    new "Stato: {b}Neutrale{/b}\nScene giocate: {b}[brycescenesfinished]{/b}"
+    new "Stato: {b}Neutro{/b}\nScene giocate: {b}[brycescenesfinished]{/b}"
 
     # status.rpy:154
     old "Status: {b}Good{/b}\nScenes played: {b}[brycescenesfinished]{/b}"
@@ -104,7 +104,7 @@ translate italiantl strings:
 
     # status.rpy:191
     old "Status: {b}Neutral{/b}\nScenes played: {b}[adinescenesfinished]{/b}"
-    new "Stato: {b}Neutrale{/b}\nScene giocate: {b}[adinescenesfinished]{/b}"
+    new "Stato: {b}Neutro{/b}\nScene giocate: {b}[adinescenesfinished]{/b}"
 
     # status.rpy:196
     old "Status: {b}Good{/b}\nScenes played: {b}[adinescenesfinished]{/b}"

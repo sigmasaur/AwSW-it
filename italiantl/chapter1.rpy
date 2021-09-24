@@ -432,7 +432,7 @@ translate italiantl begingame_01f41d60:
 translate italiantl begingame_29ac0db6:
 
     # n "When the time came for me to step through the portal, all my mental preparedness vanished. My anxiousness was fueled by all the questions lurking in my head, just as the machine started to do its work."
-    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale scomparve. Non appena la macchina iniziò a fare il suo lavoro, la mia ansia fu alimentata da tutte le domande che mi si erano annidate in testa."
+    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale scomparve. Non appena la macchina prese a fare il suo lavoro, la mia ansia fu alimentata da tutte le domande che mi si erano annidate in testa."
 
 # game/chapter1.rpy:506
 translate italiantl begingame_608fb1d8:
@@ -708,7 +708,7 @@ translate italiantl holetravel_ed81ce8a:
     # nvl clear
     # n "At any rate, this was going to be fun."
     nvl clear
-    n "Ad ogni modo, vi sarebbe stato da divertirsi."
+    n "In ogni caso, ci sarebbe stato da divertirsi."
 
 # game/chapter1.rpy:809
 translate italiantl skipintro_4ceaddf2:
@@ -1344,7 +1344,7 @@ translate italiantl _call_skipcheck_3_98a18a10:
 translate italiantl _call_skipcheck_3_bac0030c:
 
     # Rz "Eugh, finally. I can't stand that guy being on my tail all the damn time."
-    Rz "Eugh, finalmente. Non sopporto che quel tipo mi stia continuamente alle maledette calcagna."
+    Rz "Eugh, finalmente. Non sopporto che quel tipo mi stia continuamente alle calcagna."
 
 # game/chapter1.rpy:1629
 translate italiantl _call_skipcheck_3_9bff7a4c:
@@ -1446,7 +1446,7 @@ translate italiantl _call_skipcheck_3_cf34577b:
 translate italiantl _call_skipcheck_3_15dfbdc0:
 
     # Rz "If this is supposed to be a completely separate place from Earth or even a different dimension, some things just don't add up. Don't you think so too?"
-    Rz "Se questo è veramente un luogo completamente separato dalla Terra o persino un'altra dimensione, alcuni conti semplicemente non tornano. Non credi anche tu?"
+    Rz "Se questo dovrebbe essere un luogo completamente separato dalla Terra o persino un'altra dimensione, alcuni conti semplicemente non tornano. Non credi anche tu?"
 
 # game/chapter1.rpy:1716
 translate italiantl _call_skipcheck_3_b8b2e60e:
@@ -3029,7 +3029,7 @@ translate italiantl continuation_3bf4c97d_2:
 translate italiantl continuation_5fa1e9f6:
 
     # Rz "What a wonderful night it is."
-    Rz "Che notte fantastica è questa."
+    Rz "Che splendida notte è questa."
 
 # game/chapter1.rpy:2826
 translate italiantl continuation_0da12190:
@@ -3407,7 +3407,7 @@ translate italiantl continuation_9f6c2417:
 translate italiantl continuation_4c1fa005:
 
     # c "No, not really. We didn't get a chance to talk much at all yesterday, before..."
-    c "No, non proprio. Non abbiamo avuto modo di parlare quasi per niente ieri, prima che..."
+    c "No, non proprio. Non abbiamo avuto occasione di parlare quasi per niente ieri, prima che..."
 
 # game/chapter1.rpy:3052
 translate italiantl continuation_75ddc3b5:
@@ -3635,7 +3635,7 @@ translate italiantl _call_syscheck_12_b11d330a:
 translate italiantl _call_syscheck_12_bf72188d:
 
     # Br "I implore you to reconsider!" # reference to Kung Pow: Enter the fist where this sentence is used a few times. the whole exchange is a reference to false choices in JRPGs where there is a "choice" between accepting a quest or not, but declining it just causes the NPC to ask again until you do.
-    Br "Ti imploro in ginocchio di ripensarci!" # used the Italian translation to those excerpts of Kung Pow
+    Br "Ti imploro in ginocchio di ripensarci!" # used the Italian translation to those excerpts from Kung Pow
 
 # game/chapter1.rpy:3170
 translate italiantl _call_syscheck_12_f1ed3266:
@@ -3887,7 +3887,7 @@ translate italiantl quest3_1cae1ee0:
 translate italiantl quest3_b3035bf3:
 
     # c "He did not want to make any noise. After all, he ran away from Maverick, trying to hide from the police. Something as loud as a gunshot would have easily given away his position and alerted others in the area."
-    c "Non voleva fare alcun rumore. Dopotutto, è fuggito da [Mv], tentando di nascondersi dalla polizia. Qualcosa di così forte come un colpo di pistola avrebbe facilmente tradito la sua posizione e allertato gli altri nei dintorni."
+    c "Non voleva fare alcun rumore. Dopotutto, è fuggito da [Mv], tentando di nascondersi dalla polizia. Qualcosa di così forte come un colpo di pistola avrebbe facilmente tradito la sua posizione e allertato gli altri nei paraggi."
 
 # game/chapter1.rpy:3382
 translate italiantl quest3_192dae16:
@@ -4151,7 +4151,7 @@ translate italiantl quest6_116a375c:
 translate italiantl quest6_bfce32ae:
 
     # Br "And have the blood from it still stuck to his teeth who knows how long after? I don't think so."
-    Br "E avrebbe avuto ancora del sangue incollato ai denti per chissà quanto tempo dopo? Non credo proprio."
+    Br "E avrebbe avuto ancora del sangue incollato ai denti per chissà quanto tempo dopo? Non credo proprio." # wording
 
 # game/chapter1.rpy:3546
 translate italiantl quest6_6dd6c5dc:
@@ -4175,7 +4175,7 @@ translate italiantl quest6_e9ff846e:
 translate italiantl quest6_b4f8e17e:
 
     # Br "Hm. I think that's about everything."
-    Br "Hm. Penso sia tutto."
+    Br "Hm. Credo sia tutto."
 
 # game/chapter1.rpy:3580
 translate italiantl quest6_09b5f048:

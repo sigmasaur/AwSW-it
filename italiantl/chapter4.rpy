@@ -514,7 +514,7 @@ translate italiantl _call_skipcheck_20_579bc805:
 translate italiantl _call_skipcheck_20_9c98b64d:
 
     # Mv "Just a few minutes ago. When I did, I immediately came here."
-    Mv "Solo qualche minuto fa. Quando l'ho capito, sono subito corso qui."
+    Mv "Solo qualche minuto fa. Quando l'ho capito, sono subito venuto qui."
 
 # game/chapter4.rpy:876
 translate italiantl _call_skipcheck_20_fd80a0b8:
@@ -1423,13 +1423,13 @@ translate italiantl _call_syscheck_75_4f5f91c6:
 translate italiantl _call_syscheck_75_82023689:
 
     # s "Apparently, something happened. Let me check.{cps=2}..{/cps}{w=2.0}{nw}"
-    s "A quanto pare, è accaduto qualcosa. Fammi controllare.{cps=2}..{/cps}{w=2.0}{nw}"
+    s "A quanto pare, è successo qualcosa. Fammi controllare.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1487
 translate italiantl _call_syscheck_75_9e6d75bb:
 
     # s "It seems this point in time is prone to corruption, and it happened yet again."
-    s "Sembra che questo istante temporale sia prono alla corruzione, ed è accaduto ancora una volta."
+    s "Sembra che questo istante temporale sia prono alla corruzione, ed è successo ancora una volta."
 
 # game/chapter4.rpy:1491
 translate italiantl _call_syscheck_75_a70b110c:
@@ -1969,7 +1969,7 @@ translate italiantl brycefirst_037a1131:
 translate italiantl brycefirst_bfea4026:
 
     # m "I watched as Bryce made his way to the front door. Looking around, I scanned the windows of the building for any sign of movement."
-    m "Osservai mentre [Br] si faceva strada verso la porta d'ingresso. Guardandomi attorno, scrutai le finestre dell'edificio per qualsiasi accenno di movimento."
+    m "Rimasi a guardare mentre [Br] si faceva strada verso la porta d'ingresso. Guardandomi attorno, scrutai le finestre dell'edificio per qualsiasi accenno di movimento."
 
 # game/chapter4.rpy:1927
 translate italiantl brycefirst_f1285e10:
@@ -2293,7 +2293,7 @@ translate italiantl sebdone_7346d291:
 translate italiantl sebdone_13085352:
 
     # c "I know we're talking about the portal, but you don't need to take this so seriously all the time. Just think about it. The portal is broken right now anyway, and everybody will be busy watching the fireworks. Nothing is going to happen."
-    c "So che parliamo del portale, ma non c'è bisogno che tu la prenda così seriamente per tutto il tempo. Pensaci un attimo. Il portale è fuori uso al momento, in ogni caso, e saranno tutti occupati a guardare i fuochi d'artificio. Non succederà niente."
+    c "So che parliamo del portale, ma non c'è bisogno che tu la prenda così seriamente per tutto il tempo. Pensaci un attimo. Tanto il portale è fuori uso al momento, e saranno tutti occupati a guardare i fuochi d'artificio. Non succederà niente."
 
 # game/chapter4.rpy:2115
 translate italiantl sebdone_ff0f8867:
@@ -2923,7 +2923,7 @@ translate italiantl loremnotmissing_5a793c2e:
 translate italiantl loremnotmissing_74ebe49c:
 
     # c "Thank you. I think that will be all."
-    c "Ti ringrazio. Credo che sia tutto."
+    c "Ti ringrazio. Credo sia tutto."
 
 # game/chapter4.rpy:2614
 translate italiantl loremnotmissing_6f3919b9:

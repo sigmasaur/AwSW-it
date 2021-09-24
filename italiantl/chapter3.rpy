@@ -1098,7 +1098,7 @@ translate italiantl c3conty_acb3506b:
 translate italiantl c3conty_0a0f89f3:
 
     # Em "No matter what Bryce and I think about your involvement, the public could feel differently."
-    Em "A prescindere da quel che io e [Br] pensiamo del tuo coinvolgimento, la popolazione potrebbe trarre una diversa impressione."
+    Em "A prescindere da quel che io e [Br] crediamo del tuo coinvolgimento, la popolazione potrebbe pensarla diversamente."
 
 # game/chapter3.rpy:1264
 translate italiantl c3conty_841f91fd:
@@ -1170,7 +1170,7 @@ translate italiantl c3conty_9d293594:
 translate italiantl c3conty_485f23e9:
 
     # c "Just let me explain. I'll tell you everything."
-    c "Mi lasci solo spiegare. Vi dirò tutto quanto."
+    c "Mi lasci solo spiegare. Vi dirò ogni cosa."
 
 # game/chapter3.rpy:1298
 translate italiantl c3conty_ba5b8cc9:
@@ -2462,7 +2462,7 @@ translate italiantl c3conty_51bd26c2:
 translate italiantl c3conty_9d33b82e:
 
     # n "I still remembered the images I saw when I teleported the first time, the vivid sights and patterns. People and situations I have recognized since then. It only took a moment to arrive at the other side of the portal, yet it felt like I had dreamed a thousand dreams."
-    n "Ricordavo ancora le immagini che avevo visto quand'ero statə teletrasportatə la prima volta, i vividi scenari e motivi. Persone e situazioni che sin da allora ho riconosciuto. Un solo attimo era bastato per giungere all'altro lato del portale, eppure era stato come se avessi sognato mille sogni."
+    n "Ricordavo ancora le immagini che avevo visto quand'ero statə teletrasportatə la prima volta, i vividi scenari e motivi. Persone e situazioni che sin da allora ho riconosciuto. Un solo attimo era bastato per giungere all'altro lato del portale, eppure era sembrato come se avessi sognato mille sogni."
 
 # game/chapter3.rpy:1882
 translate italiantl c3conty_a70d6f31:
@@ -4998,7 +4998,7 @@ translate italiantl c3arcques_b9e83a90:
 translate italiantl c3arcques_cef0f969:
 
     # n "However, no matter how big their empire was and how well they skirted the lines, they ultimately collapsed just like the rest of the world."
-    n "Tuttavia, per quanto grande fosse il loro impero e quanto abili essi fossero a rasentare i limiti, alla fine caddero esattamente come il resto del mondo."
+    n "Tuttavia, per quanto grande fosse il loro impero e quanto abili essi fossero a rasentare i limiti, in fine caddero esattamente come il resto del mondo."
 
 # game/chapter3.rpy:3544
 translate italiantl c3arcques_fbc34957:
@@ -5018,7 +5018,7 @@ translate italiantl _call_syscheck_19_76b2fe88:
 translate italiantl c3arcques_c9172a02:
 
     # m "As I pondered this, Adine's request came to mind. I used Bryce's machine to make a copy of the map for her. Bryce probably wouldn't approve of me giving evidence to civilians, but I was sure he would never even realize it."
-    m "Mentre vi meditavo, mi tornò alla mente la richiesta di [Ad]. Usai la macchina di [Br] per fare una copia della mappa per lei. Probabilmente [Br] non avrebbe approvato che io elargissi prove a dei civili, ma ero sicurə che non se ne sarebbe neanche mai accorto."
+    m "Mentre vi meditavo, mi venne alla mente la richiesta di [Ad]. Usai la macchina di [Br] per fare una copia della mappa per lei. Probabilmente [Br] non avrebbe approvato che io elargissi prove a dei civili, ma ero certə che non se ne sarebbe neanche mai accorto."
 
 # game/chapter3.rpy:3600
 translate italiantl _call_syscheck_19_8e7d13e4:
@@ -5042,7 +5042,7 @@ translate italiantl _call_syscheck_19_6a9e6526:
 translate italiantl _call_syscheck_19_08afdaf7:
 
     # m "As I pondered this, Adine's request came to mind. I reached into my pocket and realized I still had a copy of the map that I had made some time ago. I would have to remember to give her it next time."
-    m "Mentre vi meditavo, mi tornò alla mente la richiesta di [Ad]. Misi una mano in tasca e mi resi conto di avere ancora una copia della mappa che avevo fatto qualche tempo addietro. Avrei dovuto ricordarmi di dargliela la volta seguente."
+    m "Mentre vi meditavo, mi venne alla mente la richiesta di [Ad]. Misi una mano in tasca e mi resi conto di avere ancora una copia della mappa che avevo fatto qualche tempo addietro. Avrei dovuto ricordarmi di dargliela la volta seguente."
 
 # game/chapter3.rpy:3633
 translate italiantl _call_syscheck_19_76b2fe88_1:
@@ -5468,7 +5468,7 @@ translate italiantl follow_90df709c:
 translate italiantl follow_6790b41c:
 
     # m "I turned back once to gaze at the village on the far horizon, and in an instant the dragon was gone."
-    m "Mi voltai a contemplare il villaggio sul lontano orizzonte una volta soltanto, e in un attimo la dragonessa era scomparsa."
+    m "Mi voltai a contemplare il villaggio sul lontano orizzonte una volta soltanto, e in un istante la dragonessa era scomparsa."
 
 # game/chapter3.rpy:4038
 translate italiantl follow_338906d7:

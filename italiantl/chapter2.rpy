@@ -3351,7 +3351,7 @@ translate italiantl chap2emselection_19d82974:
 translate italiantl chap2emselection_4a8f0e96:
 
     # Em normal "It has its perks, but in some ways I'll certainly be happy when my term is over."
-    Em normal "Ha i suoi lati positivi, ma in qualche modo sarò certamente sollevata quando il mio mandato sarà scaduto."
+    Em normal "Ha i suoi lati positivi, ma in qualche modo sarò certamente sollevata quando il mio mandato sarà scaduto." # "happy" -> "relieved"
 
 # game/chapter2.rpy:3312
 translate italiantl chap2emselection_d46a388e:
@@ -3555,7 +3555,7 @@ translate italiantl _call_skipcheck_12_10705a40:
 translate italiantl _call_skipcheck_12_f64b2b26:
 
     # Mv "You know I can't touch you. If I did, it would be over for me. At least, as long as I don't have any proof."
-    Mv "Sai che non posso toccarti. Se lo facessi, per me sarebbe finita. Almeno, finché non avrò delle prove."
+    Mv "Sai bene che non posso toccarti. Se lo facessi, per me sarebbe finita. Almeno, finché non avrò delle prove."
 
 # game/chapter2.rpy:3536
 translate italiantl _call_skipcheck_12_24f49775:
@@ -3843,7 +3843,7 @@ translate italiantl _call_skipcheck_12_2a8954e7:
 translate italiantl _call_skipcheck_12_107283ad:
 
     # c "He's escaped twice now. Each time, he managed to get away without any trouble. I just feel like if we haven't found him by now, we won't do so anytime soon, either. Reza knows what he's doing."
-    c "È già scappato due volte, e ogni volta è riuscito ad allontanarsi senza problemi. Ho solo la sensazione che se non l'abbiamo ancora trovato, non ci riusciremo neanche nell'immediato futuro. [Rz] sa il fatto suo." # corrected dot to comma
+    c "È già scappato due volte, e ogni volta è riuscito ad allontanarsi senza alcuna difficoltà. Ho solo la sensazione che se non l'abbiamo ancora trovato, non ci riusciremo neanche nell'immediato futuro. [Rz] sa il fatto suo." # corrected dot to comma
 
 # game/chapter2.rpy:3694
 translate italiantl _call_skipcheck_12_b601d0a4:
