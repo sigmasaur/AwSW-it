@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on the main chapters. Files done and up for review:
+Currently working on `Adine`'s sections. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -17,6 +17,8 @@ Currently working on the main chapters. Files done and up for review:
     chapter2.rpy
     chapter3.rpy
     chapter4.rpy
+    chapter5.rpy
+    chapter5evilending.rpy
 
 A few remarks:
 
@@ -67,7 +69,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1751: Used if-statement to further distinguish between food types by linguistic necessity.
 * At line 1861: *or even* → *such as*, as bacteria are unicellular.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
-* At line 2351, 2395: I'm inclined to change *dragon*, as they probably wouldn't refer to themselves as such, at very least in the literature.
+* At line 2351, 2395: Consider changing *dragon* in accordance with line 472, as dragons probably wouldn't refer to themselves as such, at least in the literature.
 * At line 2728, 2747, 3609: Adapted to preserve a pun; reverse translation:
   * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre.*)
   * At line 2747: *There's a lot of them.*
@@ -75,7 +77,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 2737: Slightly adapted *isn't it fascinating* to add an obvious pun without loss of meaning.
 * At line 2738, 2934: Corrected uppercase letter to lowercase.
 * At line 3068: *PDAs* → *PDA*.
-* At line 3226: The actual translation in DE:HR would be just *condolences*; I'm still unsure whether to unfold *RIP* or not.
+* At line 3226: The actual translation in DE:HR would be just *condolences*; consider unfolding *RIP*.
 * At line 3712: Assumed *sorry* is addressed to `Sebastian`.
 
 ### chapter2.rpy
@@ -134,3 +136,20 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4500: Corrected *don't think that he would<s>n't</s> hesitate*.
 * At line 4556: Split in multiple parts to fit fewer lines.
 * At line 4556: *connected* → *linked*, to avoid repeating *the connection \[...\] is not connected*.
+
+### chapter5.rpy
+
+* At line 584, 913: Corrected simple dash to em-dash.
+* At line 646: *inch* → *centimeter*; see line 2144 of `chapter4.rpy`.
+* At line 913: Changed parentheses with brackets to match line 385 of `chapter1.rpy`.
+
+### chapter5evilending.rpy
+
+* At line 11, 19, 33, 71, 473, 545: Corrected simple dash to em-dash.
+* At line 25: Corrected colon to dot to preserve the uppercase letter.
+* At line 347, 371: *generators* → *generator*, to match lines 4520, 4590 of `chapter4.rpy`.
+  * Note that *the building still having electricity* despite `Reza` having gotten its generator, which was supposed to be *also powering the portal*, is explained by `Reza` himself at line 449, revealing the presence of a backup. At the same line, however, `Reza` claims he *could even get the backup generator as well*, suggesting that the portal is really powered by other means. Whether this is truly the case is never addressed.
+* At line 517, 845: Corrected uppercase letter to lowercase.
+* At line 565: Assumed *it* is referred to *the solution* at line 563.
+* At line 638: Consider adding parentheses to render the monologue a proper soliloquy.
+* At line 733-741: *10* → *ten*, for elegance.
