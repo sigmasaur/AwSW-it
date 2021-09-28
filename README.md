@@ -20,6 +20,8 @@ Currently working on `Adine`'s sections. Files done and up for review:
     chapter5.rpy
     chapter5evilending.rpy
 
+    adine1.rpy
+
 A few remarks:
 
 * Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.<br>On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change.
@@ -101,10 +103,10 @@ The following are mostly to the benefit of the developer and translators.
 * At line 860, 2439: Corrected uppercase letter to lowercase.
 * At line 1264-1266: Corrected future tenses to conditional, as we're supposedly talking of the yet speculative case where the player character doesn't go through the portal as per `Emera`'s resolve.
 * At line 1346: *10* → *ten*, for elegance.
-* At line 1346: *Hiroshima* → *atomic*, for several reasons other than the obvious: there's no real loss of meaning, the translation renders better, not to mention that we're supposedly addressing `Bryce` and `Emera`, who can't possibly know about it.
+* At line 1346: *Hiroshima* → *atomic*, for elegance; moreover, the resulting expression reads better without any real loss of meaning, not to mention that we're supposedly addressing `Bryce` and `Emera`, who can't possibly know about it.
 * At line 1383: *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
-* At line 2144: *inch* → *centimeter*, as Italians way prefer the metric system, and the resulting expression reads a lot nicer.
+* At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
 * At line 2457: Corrected colon to dot to preserve the uppercase letter.
 * At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of `chapter1.rpy`.
 * At line 3098: Slightly pruned to fit fewer lines.
@@ -153,3 +155,11 @@ The following are mostly to the benefit of the developer and translators.
 * At line 565: Assumed *it* is referred to *the solution* at line 563.
 * At line 638: Consider adding parentheses to render the monologue a proper soliloquy.
 * At line 733-741: *10* → *ten*, for elegance.
+
+### adine1.rpy
+
+* At line 39: *containers* → *container*, to match `cgadine2.png` and line 129.
+* At line 61-67: Note that these lines also trigger if the user managed to save `Bryce` and returned the eggs to the hatchery, having already encountered `Adine` before the actual meeting.
+* At line 286, 785: Corrected uppercase letter to lowercase.
+* At line 307: Rendered *children* as *cubs*.
+* At line 468, 520, 929: Corrected simple dash to em-dash.
