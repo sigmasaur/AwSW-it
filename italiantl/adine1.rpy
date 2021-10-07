@@ -238,7 +238,7 @@ translate italiantl _call_skipcheck_10_502163a4:
 translate italiantl _call_skipcheck_10_a47ef0d2:
 
     # c "We do. As a matter of fact, it's almost scary how close it is to what we have back home."
-    c "L'abbiamo. A dire il vero, fa quasi paura per quanto si avvicina a quello che abbiamo a casa."
+    c "L'abbiamo. A dirla tutta, fa quasi paura per quanto si avvicina a quello che abbiamo a casa."
 
 # game/adine1.rpy:272
 translate italiantl _call_skipcheck_10_1571c3b3:
@@ -274,7 +274,7 @@ translate italiantl _call_skipcheck_10_629d7ddb:
 translate italiantl _call_skipcheck_10_45ce6c6a:
 
     # c "Let me ask you this: Where do you think the portal you found came from? Who built it?"
-    c "Lascia che ti chieda: da dove credi provenga il portale che avete trovato? Chi l'ha costruito?" # corrected uppercase letter
+    c "Lascia che ti chieda: da dove credi provenga il portale che avete trovato? Chi l'ha costruito?" # corrected uppercase letter, also "let me ask you [this]"
 
 # game/adine1.rpy:288
 translate italiantl _call_skipcheck_10_ef636fcf:
@@ -334,7 +334,7 @@ translate italiantl _call_skipcheck_10_6ab075ea:
 translate italiantl _call_skipcheck_10_4252207b:
 
     # Ad "Not quite. These are orphaned children I'm talking about. I just volunteer to spend some time with them, so I'm really more of a babysitter and teacher all in one."
-    Ad "Non proprio. Questi di cui parlo sono cuccioli orfani. Faccio solo volontariato per passare un po' di tempo con loro, quindi in realtà sono più che altro una tata e una maestra allo stesso tempo."
+    Ad "Non proprio. Questi di cui parlo sono cuccioli orfani. Faccio solo volontariato per passare un po' di tempo con loro, quindi in realtà sono più che altro una balia e una maestra allo stesso tempo."
 
 # game/adine1.rpy:309
 translate italiantl _call_skipcheck_10_719209ef:
@@ -1552,7 +1552,7 @@ translate italiantl _call_syscheck_48_7711fd6d:
 translate italiantl _call_syscheck_48_0950e22e:
 
     # Ad "I'm not sure what's so special about that."
-    Ad "Non so bene cosa ci sia di tanto speciale a riguardo."
+    Ad "Non so bene cosa ci sia di tanto speciale."
 
 # game/adine1.rpy:1028
 translate italiantl _call_syscheck_48_e8bc5fde:
@@ -1696,7 +1696,7 @@ translate italiantl _call_syscheck_48_3d8af9e3:
 translate italiantl _call_syscheck_48_244ffce1:
 
     # c "But I like the food."
-    c "Ma mi piace, il cibo."
+    c "Ma mi piace il cibo."
 
 # game/adine1.rpy:1276
 translate italiantl _call_syscheck_48_a475c68f:

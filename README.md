@@ -21,6 +21,7 @@ Currently working on `Adine`'s sections. Files done and up for review:
     chapter5evilending.rpy
 
     adine1.rpy
+    adine2.rpy
 
 A few remarks:
 
@@ -80,13 +81,14 @@ The following are mostly to the benefit of the developer and translators.
 * At line 2738, 2934: Corrected uppercase letter to lowercase.
 * At line 3068: *PDAs* → *PDA*.
 * At line 3226: The actual translation in DE:HR would be just *condolences*; consider unfolding *RIP*.
+* At line 3245, 3347: Rendered *legs* as *paws*.
 * At line 3712: Assumed *sorry* is addressed to `Sebastian`.
 
 ### chapter2.rpy
 
 * At line 523, 1278, 3228, 3312, 3712, 3792, 4226: Corrected simple dash to em-dash.
 * At line 572, 958, 1056, 1816, 1826, 1830: Corrected uppercase letter to lowercase.
-* At line 3510, 3680: Corrected colon to dot to preserve the uppercase letter.
+* At line 649: Rendered *legs* as *paws*.
 * At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware enough that the intended concordance of genders is syntactic, as semantic concordance of *that* \[<i>quell-</i>\] with the subject would have been rendered with the inclusive gender instead \[<i>-ə</i>\].)
 * At line 1036, 1148, 3771: Slightly pruned to fit fewer lines.
 * At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of `chapter1.rpy`.
@@ -95,6 +97,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
   * At line 2423: A playful exclamation of surprise.
   * At line 3824: This one just had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
+* At line 3510, 3680: Corrected colon to dot to preserve the uppercase letter.
 
 ### chapter3.rpy
 
@@ -125,6 +128,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1812: Note that in theory, dragons don't know what a car is.
 * At line 2035, 2836, 2873, 2909, 2946: *PDAs* → *PDA*.
 * At line 2411: `Shake` function doesn't seem to trigger.
+* At line 3236, 3315, 3468, 3698: Rendered *legs* as *paws*.
 * At line 3285-3289, 3379-3383, 3438-3442, 3511-3515, 3742-3746: Adapted to preserve a pun; reverse translation: *Exceptional.*
 * At line 3568, 3627, 3798, 3857: Assumed *who* is referred to `Adine`.
 * At line 4345, 4353: *65* → *sixty-five*, for elegance.
@@ -159,7 +163,15 @@ The following are mostly to the benefit of the developer and translators.
 ### adine1.rpy
 
 * At line 39: *containers* → *container*, to match `cgadine2.png` and line 129.
-* At line 61-67: Note that these lines also trigger if the user managed to save `Bryce` and returned the eggs to the hatchery, having already encountered `Adine` before the actual meeting.
+* At line 61-67: Note that these lines also trigger if the user managed to save `Bryce` and returned the eggs to the hatchery, thus having already encountered `Adine` before the actual meeting.
 * At line 286, 785: Corrected uppercase letter to lowercase.
 * At line 307: Rendered *children* as *cubs*.
 * At line 468, 520, 929: Corrected simple dash to em-dash.
+
+### adine2.rpy
+
+* At line 53-55: See lines 61-67 of `adine1.rpy`.
+* At line 215: Rendered *children* as *cubs*.
+* At line 346: Corrected extra space.
+* At line 569, 617, 668, 753: Corrected uppercase letter to lowercase.
+* At line 1053: Slightly pruned to fit fewer lines.
