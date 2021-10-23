@@ -602,7 +602,7 @@ translate italiantl holetravel_437d1607:
 translate italiantl holetravel_6e0c5972:
 
     # m "By this point, it had gotten so dark that I could barely make out the building before us. I briefly wondered whether they might have street lights elsewhere, or if they just did not require any due to possible enhanced eyesight or night vision."
-    m "A quel punto, si era fatto talmente buio che riuscivo a malapena a distinguere l'edificio davanti a noi. Mi domandai brevemente se avessero dei lampioni altrove, o se semplicemente non ne avessero bisogno possibilmente grazie a un'aumentata capacità visiva o a una visione notturna."
+    m "A quel punto, si era fatto talmente buio che riuscivo a malapena a distinguere l'edificio davanti a noi. Mi domandai brevemente se avessero dei lampioni altrove, o se semplicemente non ne avessero bisogno possibilmente grazie a un'aumentata capacità visiva o una visione notturna."
 
 # game/chapter1.rpy:696
 translate italiantl holetravel_4bcd03cc:
@@ -694,7 +694,7 @@ translate italiantl holetravel_76b2fe88_2:
 translate italiantl holetravel_2b565a45:
 
     # n "So many possibilities and prospects raced through my mind. Truth be told, the thought of being able to meet an entirely new species and civilization excited me. As I was going to be one of the first to truly experience their society with its own little quirks, differences and similarities, I couldn't help but feel like some sort of modern Vasco da Gama or Marco Polo."
-    n "Così tante possibilità e prospettive mi attraversarono la mente. A dire il vero, il pensiero di poter incontrare una specie e una civiltà del tutto nuove mi entusiasmava. Poiché sarei statə unə dei primi a sperimentare dal vivo la loro società con le sue piccole stranezze, differenze e simiglianze, non potevo fare a meno di sentirmi come un moderno Vasco da Gama o Marco Polo."
+    n "Così tante possibilità e prospettive mi attraversarono la mente. A dire il vero, il pensiero di poter incontrare una specie e una civiltà del tutto nuove mi entusiasmava. Poiché sarei statə unə dei primi a sperimentare veramente la loro società con le sue piccole stranezze, differenze e simiglianze, non potevo fare a meno di sentirmi come una sorta di moderno Vasco da Gama o Marco Polo."
 
 # game/chapter1.rpy:756
 translate italiantl holetravel_8355d8c5:
@@ -762,7 +762,7 @@ translate italiantl seccont_b34a115e:
 translate italiantl _call_skiptut_2_4d25d249:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the character selection?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Vuoi saltare alla selezione del personaggio?"
+    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare alla selezione del personaggio?"
 
 # game/chapter1.rpy:1196
 translate italiantl _call_skiptut_2_11989f6d:
@@ -774,7 +774,7 @@ translate italiantl _call_skiptut_2_11989f6d:
 translate italiantl _call_skiptut_2_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente alla selezione del personaggio."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
 
 # game/chapter1.rpy:1218
 translate italiantl _call_skiptut_2_0054b77b:
@@ -978,7 +978,7 @@ translate italiantl _call_skipcheck_2_d732b21c:
 translate italiantl _call_skipcheck_2_529aeda4:
 
     # c "N-No.. I just thought..."
-    c "N-No... Pensavo solo..." # ".." -> "..."
+    c "N-No... Pensavo solo..." # corrected three dots
 
 # game/chapter1.rpy:1363
 translate italiantl _call_skipcheck_2_4f894d15:
@@ -1044,7 +1044,7 @@ translate italiantl _call_skipcheck_2_759b976c:
 translate italiantl _call_skipcheck_2_46975328:
 
     # Sb "Well, [player_name], this is Anna. She kinda manages this building, though actually she's more involved with the research wing rather than production and engineering."
-    Sb "Be', [player_name], questa è [An]. In pratica gestisce questo edificio, sebbene in effetti sia più coinvolta nell'area di ricerca che in quelle di produzione e ingegneria."
+    Sb "Be', [player_name], questa è [An]. Più o meno gestisce questo edificio, sebbene in effetti sia più coinvolta nell'area di ricerca che in quelle di produzione e ingegneria."
 
 # game/chapter1.rpy:1411
 translate italiantl _call_skipcheck_2_ec602286_1:
@@ -1308,7 +1308,7 @@ translate italiantl _call_syscheck_4_714176d2:
 translate italiantl _call_skiptut_3_65cc2485:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the investigation?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Vuoi saltare all'investigazione?"
+    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare all'investigazione?"
 
 # game/chapter1.rpy:1581
 translate italiantl _call_skiptut_3_c0c1f01e:
@@ -1320,7 +1320,7 @@ translate italiantl _call_skiptut_3_c0c1f01e:
 translate italiantl _call_skiptut_3_23afc6bb:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the investigation."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente all'investigazione."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente all'investigazione."
 
 # game/chapter1.rpy:1603
 translate italiantl _call_skiptut_3_0054b77b:
@@ -1539,7 +1539,7 @@ translate italiantl _call_skipcheck_3_2355e57c:
 translate italiantl _call_skipcheck_3_f73d296c:
 
     # m "To be honest, I was a little skeptical of the kind of coffee they might come up with in a place like this, but after a mouthful I had to admit it wasn't so bad. I've certainly had much worse before."
-    m "Onestamente, ero un tantino scetticə del genere di caffè con cui avrebbero potuto venirsene fuori in un posto come questo, ma dopo un sorso dovetti ammettere che non era poi così male. Ne avevo di certo avuto ben di peggio prima di allora."
+    m "Ad essere onesti, ero un tantino scetticə del genere di caffè che avrebbero potuto inventarsi in un posto come questo, ma dopo un sorso dovetti ammettere che non era poi così male. Ne avevo certamente avuto ben di peggio prima di allora."
 
 # game/chapter1.rpy:1777
 translate italiantl _call_skipcheck_3_cb9d0dd9:
@@ -1769,7 +1769,7 @@ translate italiantl _call_syscheck_6_5566c4b8:
 translate italiantl _call_syscheck_6_1d4d5f4b:
 
     # Sb "Don't worry about it."
-    Sb "Non preoccuparti."
+    Sb "Non ti preoccupare."
 
 # game/chapter1.rpy:1893
 translate italiantl _call_syscheck_6_8b6c00cc:
@@ -1853,7 +1853,7 @@ translate italiantl _call_syscheck_6_76b2fe88:
 translate italiantl _call_syscheck_6_221afd4f:
 
     # n "I hadn't really looked at the apartment much, so I spent the rest of the day investigating it and relaxing. I considered checking out some of the phone numbers Remy had left me, but I thought it was better to keep a low profile for now."
-    n "Non avevo visto poi granché dell'appartamento, perciò trascorsi il resto della giornata a investigarlo e a rilassarmi. Considerai di consultare alcuni dei numeri di telefono che [Ry] mi aveva lasciato, ma pensai che fosse meglio mantenere un basso profilo per il momento."
+    n "Non avevo visto poi granché dell'appartamento, perciò trascorsi il resto della giornata a investigarlo e a rilassarmi. Considerai di consultare alcuni dei numeri di telefono che [Ry] mi aveva lasciato, ma pensai fosse meglio mantenere un basso profilo per il momento."
 
 # game/chapter1.rpy:1936
 translate italiantl _call_syscheck_6_bb967794:
@@ -1897,7 +1897,7 @@ translate italiantl _call_syscheck_6_a13f6eb8:
 translate italiantl _call_syscheck_6_f3eb79d8:
 
     # n "While entertaining, I had to admit that it reminded me a little too much of the trashy novels we had at home. I certainly found it amusing that certain tropes were not really unique to us as a species, though I wondered whether this kind of literature had fallen into disfavor here as it had back where I had come from."
-    n "Per quanto piacevole, dovetti ammettere che ricordava un po' troppo quei romanzi-spazzatura che avevamo a casa. Certamente trovavo spassoso che certi tropi non fossero propriamente esclusivi della nostra specie, anche se mi domandai se questo genere di letteratura fosse caduta in disgrazia anche qui come da dove ero venutə." # "the trashy novels" -> "those trashy novels"
+    n "Per quanto piacevole, dovetti ammettere che mi ricordava un po' troppo quei romanzi-spazzatura che avevamo a casa. Certamente trovavo spassoso che certi tropi non fossero propriamente esclusivi della nostra specie, anche se mi domandai se questo genere di letteratura fosse caduta in disgrazia anche qui come da dove ero venutə." # "the trashy novels" -> "those trashy novels"
 
 # game/chapter1.rpy:1944
 translate italiantl _call_syscheck_6_1686f415:
@@ -2001,7 +2001,7 @@ translate italiantl _call_syscheck_6_27ab87a8:
 translate italiantl _call_syscheck_6_d1179078:
 
     # Lo normal b flip "Let me show you something."
-    Lo normal b flip "Lascia che ti mostri qualcosa."
+    Lo normal b flip "Lascia che ti mostri una cosa."
 
 # game/chapter1.rpy:2035
 translate italiantl _call_syscheck_6_aa49c3cb:
@@ -2097,7 +2097,7 @@ translate italiantl _call_syscheck_6_2997ffea:
 translate italiantl _call_syscheck_6_5101fbef:
 
     # c "Don't worry about it."
-    c "Non preoccuparti."
+    c "Non ti preoccupare."
 
 # game/chapter1.rpy:2083
 translate italiantl _call_syscheck_6_66a3f50e:
@@ -2523,7 +2523,7 @@ translate italiantl _call_syscheck_7_9efd40fd:
 translate italiantl _call_syscheck_7_217fb58f:
 
     # n "For those who may want to critique me now for saying this:"
-    n "A coloro che ora potrebbero volermi criticare per aver detto ciò:"
+    n "A coloro che ora possono volermi criticare per aver detto ciò:"
 
 # game/chapter1.rpy:2395
 translate italiantl _call_syscheck_7_771a3b0c:
@@ -2747,7 +2747,7 @@ translate italiantl _call_syscheck_8_34192342:
 translate italiantl menukitchen_06ab5d9e:
 
     # c "(Plenty of stuff in here.)"
-    c "(È pieno di roba qui dentro.)"
+    c "(C'è un sacco di roba qui dentro.)"
 
 # game/chapter1.rpy:2580
 translate italiantl menufridge_1ac24b1a:
@@ -3005,7 +3005,7 @@ translate italiantl continuation_4bbd5c06:
 translate italiantl continuation_3df38fec:
 
     # Rz "I was already wondering whether you'd get it at all."
-    Rz "Mi stavo già domandando se ci saresti mai arrivatə."
+    Rz "Mi stavo già domandando se ci saresti mai arrivatə." # "get it at all" -> "ever get it"
 
 # game/chapter1.rpy:2813
 translate italiantl continuation_3bf4c97d:
@@ -3335,7 +3335,7 @@ translate italiantl continuation_356de34c:
 translate italiantl continuation_45b58ace:
 
     # m "It didn't take very long, though, before the doorbell rang."
-    m "Non ci volle molto, però, prima che il campanello suonasse." # "it didn't take [very] long"
+    m "Non ci volle poi molto, però, prima che il campanello suonasse."
 
 # game/chapter1.rpy:3026
 translate italiantl continuation_e6336435:
@@ -3557,7 +3557,7 @@ translate italiantl continuation_ae7588ea:
 translate italiantl continuation_a3c25806:
 
     # n "He asked me about Reza and Maverick, too. Not that I knew much of anything that preceded yesterday's events, or the mysterious catastrophe Reza had mentioned."
-    n "Mi chiese anche di [Rz] e [Mv]. Non che sapessi granché di qualsiasi cosa avesse preceduto gli eventi del giorno prima, o della misteriosa catastrofe che [Rz] aveva menzionato."
+    n "Mi chiese anche di [Rz] e [Mv]. Non che sapessi granché di qualsiasi cosa avesse preceduto gli eventi del giorno prima, o della misteriosa catastrofe cui [Rz] aveva accennato."
 
 # game/chapter1.rpy:3106
 translate italiantl continuation_39b1be3e:
@@ -3719,7 +3719,7 @@ translate italiantl investigation_52ed0bbc:
 translate italiantl investigation_331499d0:
 
     # Br "Yeah, RIP." # reference to Deus Ex: Human Revolution.
-    Br "Già, RIP." # the Italian translation in DE:HR would be just "condolences"
+    Br "Già, RIP." # the Italian translation to that excerpt from DE:HR would be just "condolences"
 
 # game/chapter1.rpy:3227
 translate italiantl investigation_d0ff8c97:
@@ -4115,7 +4115,7 @@ translate italiantl quest5_3f970c7c:
 translate italiantl quest5_18dd0115:
 
     # c "Sorry, I just always wanted to say that."
-    c "Perdonami, è che ho sempre voluto dirlo."
+    c "Scusa, è solo che ho sempre voluto dirlo."
 
 # game/chapter1.rpy:3510
 translate italiantl quest5_08965b6a:
@@ -4175,7 +4175,7 @@ translate italiantl quest6_e9ff846e:
 translate italiantl quest6_b4f8e17e:
 
     # Br "Hm. I think that's about everything."
-    Br "Hm. Credo sia tutto."
+    Br "Hm. Credo non ci sia altro."
 
 # game/chapter1.rpy:3580
 translate italiantl quest6_09b5f048:
@@ -4223,7 +4223,7 @@ translate italiantl _call_syscheck_13_5c730655:
 translate italiantl _call_syscheck_13_1cccbacd:
 
     # Br "Don't worry about it. We still need your help with other things."
-    Br "Non preoccuparti. Abbiamo ancora bisogno del tuo aiuto con altre cose."
+    Br "Non ti preoccupare. Abbiamo ancora bisogno del tuo aiuto con altre cose."
 
 # game/chapter1.rpy:3628
 translate italiantl _call_syscheck_13_b31a64f0:

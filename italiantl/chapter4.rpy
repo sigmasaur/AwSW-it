@@ -124,7 +124,7 @@ translate italiantl c4resultscontinue_99f8a50b:
 translate italiantl _call_skiptut_20_44e0ddc6:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip ahead a bit?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Vuoi saltare un po' avanti?" # "scene" -> "section" to match previous messages
+    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare un po' avanti?" # "scene" -> "section" to match previous messages
 
 # game/chapter4.rpy:660
 translate italiantl _call_skiptut_20_690da0b1:
@@ -136,7 +136,7 @@ translate italiantl _call_skiptut_20_690da0b1:
 translate italiantl _call_skiptut_20_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare un po' avanti."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
 
 # game/chapter4.rpy:683
 translate italiantl _call_skiptut_20_0054b77b:
@@ -328,7 +328,7 @@ translate italiantl _call_skipcheck_20_5567eac6:
 translate italiantl _call_skipcheck_20_16065d3c:
 
     # c "That's not the only possibility. He may not be the one who broke the portal. Maybe he thinks you've intentionally sabotaged it so he can't leave, and he feels he needs the eggs as bargaining chip to get you to repair it."
-    c "Non è l'unica possibilità. Potrebbe non aver danneggiato lui il portale. Forse pensa che lo abbiate sabotato intenzionalmente cosicché non potesse andarsene, e sente di aver bisogno delle uova come moneta di scambio per convincervi a ripararlo."
+    c "Non è l'unica possibilità. Può non aver danneggiato lui il portale. Forse pensa che lo abbiate sabotato intenzionalmente cosicché non potesse andarsene, e sente di aver bisogno delle uova come moneta di scambio per convincervi a ripararlo."
 
 # game/chapter4.rpy:784
 translate italiantl _call_skipcheck_20_7481c22d:
@@ -664,7 +664,7 @@ translate italiantl c4skip1_ce05f316:
 translate italiantl c4skip1_c3ed151e:
 
     # m "Shortly after they vanished, Maverick also turned to leave."
-    m "Poco dopo che furono scomparsi, anche [Mv] si voltò per andarsene."
+    m "Subito dopo che furono scomparsi, anche [Mv] si voltò per andarsene."
 
 # game/chapter4.rpy:974
 translate italiantl c4skip1_ff1eb4c1:
@@ -1093,7 +1093,7 @@ translate italiantl passontestresults_075321ef:
 translate italiantl passontestresults_c5226063:
 
     # m "I spent some time looking around Bryce's office, studying all the material he had gathered about the case, though there wasn't any information that I didn't already know."
-    m "Trascorsi del tempo a guardarmi attorno per l'ufficio di [Br], studiandomi tutto il materiale che aveva raccolto sul caso, anche se non vi era alcuna informazione che già non conoscessi."
+    m "Passai del tempo a guardarmi attorno per l'ufficio di [Br], studiandomi tutto il materiale che aveva raccolto sul caso, anche se non vi era alcuna informazione che già non conoscessi."
 
 # game/chapter4.rpy:1173
 translate italiantl passontestresults_aab97f3a:
@@ -1495,7 +1495,7 @@ translate italiantl _call_syscheck_76_232b5694:
 translate italiantl _call_syscheck_76_7a7812fc:
 
     # s "Please do not alter timelines in rapid succession, as this may cause corruptions to occur."
-    s "Non alterare le linee temporali in rapida successione, poiché questo potrebbe causare il verificarsi di corruzioni."
+    s "Non alterare le linee temporali in rapida successione, poiché questo può causare il verificarsi di corruzioni."
 
 # game/chapter4.rpy:1575
 translate italiantl _call_syscheck_76_5b2972d2:
@@ -1537,7 +1537,7 @@ translate italiantl _call_syscheck_76_460f158e:
 translate italiantl _call_syscheck_76_a847ef91:
 
     # s "You know, this could have been avoided if you just stuck with your original choice. Going back and forth like this isn't really in the spirit of this whole thing, anyway."
-    s "Lo sai, questo si sarebbe potuto evitare se solo tu avessi tenuto fede alla tua scelta originale. Andare avanti e indietro in questo modo non è esattamente nello spirito di tutto questo, comunque."
+    s "Lo sai, questo si sarebbe potuto evitare se solo tu avessi tenuto fede alla tua scelta originale. Andare avanti e indietro a questo modo non è proprio nello spirito di tutto questo, comunque."
 
 # game/chapter4.rpy:1605
 translate italiantl _call_syscheck_76_e61dff85:
@@ -1609,7 +1609,7 @@ translate italiantl _call_syscheck_77_d4719c9d:
 translate italiantl _call_syscheck_77_a1fbc588:
 
     # s "Reloading unrelated save files before you get to this point again may cause your progress in this matter to be erased, which means that you will have to start over again if you wish to change this outcome."
-    s "Ricaricare un salvataggio non correlato prima di arrivare di nuovo a questo punto potrebbe causare la perdita dei tuoi progressi al riguardo, il che significa che dovrai ricominciare di nuovo se desideri cambiare quest'esito." # "AN unrelated save [files]", "erased" -> "lost" to match translation of line 1708
+    s "Ricaricare un salvataggio non correlato prima di arrivare di nuovo a questo punto può causare la perdita dei tuoi progressi al riguardo, il che significa che dovrai ricominciare di nuovo se desideri cambiare quest'esito." # "AN unrelated save [files]", "erased" -> "lost" to match line 1708
 
 # game/chapter4.rpy:1692
 translate italiantl _call_syscheck_77_6c61da9b:
@@ -1639,7 +1639,7 @@ translate italiantl _call_syscheck_77_af7be7fa:
 translate italiantl _call_syscheck_77_dd67cfbf:
 
     # s "However, if you go back to the beginning and load an unrelated save file before you get to this point again, it may cause your progress in this matter to be erased, which means that you will have to start over again if you wish to change this outcome."
-    s "Tuttavia, se torni all'inizio e carichi un salvataggio non correlato prima di arrivare di nuovo a questo punto, potrebbe causare la perdita dei tuoi progressi al riguardo, il che significa che dovrai ricominciare di nuovo se desideri cambiare quest'esito." # slightly pruned to fit three lines, also "unrelated save [file]"
+    s "Tuttavia, se torni all'inizio e carichi un salvataggio non correlato prima di arrivare di nuovo a questo punto, può causare la perdita dei tuoi progressi al riguardo, il che significa che dovrai ricominciare di nuovo se desideri cambiare quest'esito." # slightly pruned to fit three lines, also "unrelated save [file]"
 
 # game/chapter4.rpy:1712
 translate italiantl _call_syscheck_77_6c61da9b_1:
@@ -1669,7 +1669,7 @@ translate italiantl _call_syscheck_77_84419071:
 translate italiantl _call_syscheck_77_a446639a:
 
     # s "You'll just have to go all the way back to the beginning of Chapter 1 and start over from there."
-    s "Dovrai soltanto tornare indietro fino all'inizio del Capitolo 1 e ricominciare da lì."
+    s "Dovrai solamente tornare indietro fino all'inizio del Capitolo 1 e ricominciare da lì."
 
 # game/chapter4.rpy:1732
 translate italiantl _call_syscheck_77_76855d50:
@@ -1831,7 +1831,7 @@ translate italiantl c4intuition_9e8e1589:
 translate italiantl c4intuition_fe534285:
 
     # Sb "Oh, the investigation is going swimmingly, but as you can expect, we need all the help we can get."
-    Sb "Oh, l'indagine procede a meraviglia, ma come puoi aspettarti, ci serve tutto l'aiuto che possiamo ottenere."
+    Sb "Oh, l'indagine procede a meraviglia, ma come puoi aspettarti, ci serve tutto l'aiuto che possiamo avere."
 
 # game/chapter4.rpy:1854
 translate italiantl c4intuition_dd9aed82:
@@ -1891,7 +1891,7 @@ translate italiantl c4intuition_01e42f45:
 translate italiantl c4intuition_b83046c7:
 
     # c "I hope you'll get all the help you'll need."
-    c "Spero che riceverete tutto l'aiuto di cui avrete bisogno."
+    c "Spero che riceverete tutto l'aiuto che vi serve."
 
 # game/chapter4.rpy:1874
 translate italiantl c4intuition_284b5319:
@@ -2167,7 +2167,7 @@ translate italiantl c4cont_bd805a76:
 translate italiantl c4cont_79c69506:
 
     # Sb "And lastly, we have the eggs. It's a relief that we found them unharmed in the building. They're safe and ready to be sent back to the hatchery."
-    Sb "E infine, abbiamo le uova. È un sollievo averle ritrovate indenni nell'edificio. Sono al sicuro e pronte per essere rimandate all'incubatoio."
+    Sb "E per ultime, abbiamo le uova. È un sollievo averle ritrovate indenni nell'edificio. Sono al sicuro e pronte per essere rimandate all'incubatoio."
 
 # game/chapter4.rpy:2043
 translate italiantl c4cont_7d2cd944:
@@ -2221,7 +2221,7 @@ translate italiantl c4cont2_827351ae:
 translate italiantl c4cont2_5101fbef:
 
     # c "Don't worry about it."
-    c "Non preoccuparti."
+    c "Non ti preoccupare."
 
 # game/chapter4.rpy:2073
 translate italiantl c4cont2_aa3c4efc:
@@ -3103,7 +3103,7 @@ translate italiantl c4library_57a80524:
 translate italiantl c4library_a0e54fc9:
 
     # Ei "Ah, don't worry about it. The staff all seem to be hiding somewhere."
-    Ei "Ah, non preoccuparti. Pare che tutto il personale si nasconda da qualche parte."
+    Ei "Ah, Non ti preoccupare. Pare che tutto il personale si nasconda da qualche parte."
 
 # game/chapter4.rpy:2770
 translate italiantl c4library_ebf760d8:
@@ -3181,7 +3181,7 @@ translate italiantl c4library_4c6914b8:
 translate italiantl c4library_b23f25ee:
 
     # Em "To be honest, I am glad that you are still here. Remember, I said that I believed you when you told me your side of the story."
-    Em "Onestamente, sono lieta che tu sia ancora qui. Ricorda, ho detto di crederti quando mi hai raccontato la tua versione della storia."
+    Em "Ad essere onesti, sono lieta che tu sia ancora qui. Ricorda, ho detto di crederti quando mi hai raccontato la tua versione della storia."
 
 # game/chapter4.rpy:2812
 translate italiantl c4library_833880c4:
@@ -4753,7 +4753,7 @@ translate italiantl c4postsections_a4c90328:
 translate italiantl c4postsections_2039ec81:
 
     # m "After this fateful day, I was glad to finally have some sort of respite. I wandered into the kitchen as I considered tonight's dinner."
-    m "Dopo questo fatidico giorno, ero lietə di avere finalmente un po' di tregua. Mi avventurai in cucina mentre consideravo la cena di quella sera."
+    m "Dopo questo fatidico giorno, ero lietə di avere finalmente una sorta di tregua. Mi avventurai in cucina mentre consideravo la cena di quella sera."
 
 # game/chapter4.rpy:4130
 translate italiantl c4postsections_ba6c55cf:
@@ -4789,7 +4789,7 @@ translate italiantl c4postsections_36b79c39:
 translate italiantl _call_skiptut_21_4d25d249:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the character selection?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Vuoi saltare alla selezione del personaggio?"
+    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare alla selezione del personaggio?"
 
 # game/chapter4.rpy:4180
 translate italiantl _call_skiptut_21_11989f6d:
@@ -4801,7 +4801,7 @@ translate italiantl _call_skiptut_21_11989f6d:
 translate italiantl _call_skiptut_21_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente alla selezione del personaggio."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
 
 # game/chapter4.rpy:4202
 translate italiantl _call_skiptut_21_0054b77b:
@@ -5858,7 +5858,7 @@ translate italiantl _call_skipcheck_21_ef4d9214:
 translate italiantl _call_skipcheck_21_9e58dd1c:
 
     # As "Instincts also play a role. I imagine they are very much at odds with their learned behavior. Instincts in animals never change, and instinctual behaviors will always be there."
-    As "Gli istinti giocano anch'essi un ruolo. Immagino che siano in netto contrasto col loro comportamento appreso. Gli istinti negli animali non cambiano mai, e i comportamenti istintuali vi saranno sempre."
+    As "Gli istinti giocano anch'essi un ruolo. Immagino siano in netto contrasto col loro comportamento appreso. Gli istinti negli animali non cambiano mai, e i comportamenti istintuali vi saranno sempre."
 
 # game/chapter4.rpy:4622
 translate italiantl _call_skipcheck_21_62dfd358:
@@ -6182,7 +6182,7 @@ translate italiantl _call_popularcheck_18_0ca5bf90:
 translate italiantl _call_popularcheck_18_7ab4692f:
 
     # Br "Would be cool to have you come along."
-    Br "Sarebbe bello se ti unissi a noi." # see line 4750 of chapter 3
+    Br "Sarebbe forte se ti unissi a noi." # see line 4750 of chapter 3
 
 # game/chapter4.rpy:5157
 translate italiantl _call_popularcheck_18_f7c4de1d:

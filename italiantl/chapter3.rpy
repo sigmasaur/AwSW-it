@@ -340,7 +340,7 @@ translate italiantl chapter3_b372ad4f:
 translate italiantl chapter3_81a13922:
 
     # Br stern b "I don't want to worry you, but we can be sure that action will be taken soon. I've been considering this possibility for a while, and think it might be best if you went back to your own world for now."
-    Br stern b "Non voglio farti preoccupare, ma stai pur certə che presto saranno presi provvedimenti. Stavo considerando questa eventualità già da un po', e penso che sarebbe meglio se tu ritornassi nel tuo mondo per il momento." # "we can be sure" -> "rest assured", "for a while NOW"
+    Br stern b "Non voglio farti preoccupare, ma stai pur certə che presto saranno presi provvedimenti. Stavo considerando questa eventualità già da un po', e penso che sarebbe meglio se tu ritornassi nel tuo mondo per il momento." # "we can be sure" -> "rest assured"
 
 # game/chapter3.rpy:841
 translate italiantl chapter3_ba37bcc6:
@@ -492,7 +492,7 @@ translate italiantl c3contx_5af18c6b_2:
 translate italiantl _call_skiptut_4_7c2b96fe:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the scene selection?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Vuoi saltare alla selezione della scena?"
+    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare alla selezione della scena?"
 
 # game/chapter3.rpy:938
 translate italiantl _call_skiptut_4_84d46f4f:
@@ -504,7 +504,7 @@ translate italiantl _call_skiptut_4_84d46f4f:
 translate italiantl _call_skiptut_4_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente alla selezione della scena."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
 
 # game/chapter3.rpy:960
 translate italiantl _call_skiptut_4_0054b77b:
@@ -822,7 +822,7 @@ translate italiantl c3conty_4475366a:
 translate italiantl c3conty_43f93125:
 
     # Br "Minister, we continue our hunt for Reza every day. As a matter of fact, [player_name] has been helping us do so for a while now."
-    Br "Ministro, continuiamo la nostra caccia a [Rz] ogni giorno. A dire la verità, [player_name] ci sta dando una mano già da un po' ormai." # "has been helping us [do so]"
+    Br "Ministro, continuiamo la nostra caccia a [Rz] ogni giorno. A dirla tutta, [player_name] ci sta dando una mano già da un po' ormai." # "has been helping us [do so]"
 
 # game/chapter3.rpy:1160
 translate italiantl c3conty_e0f35670:
@@ -1458,7 +1458,7 @@ translate italiantl c3conty_f51e7d87:
 translate italiantl c3conty_13c7fe8b:
 
     # c "If we can't manage to bring back something that will help, we'll have sealed the fate of the tens of thousands that live in our city."
-    c "Se non riusciamo a riportare indietro qualcosa che sia d'aiuto, avremo segnato il destino delle decine di migliaia che vivono nella nostra città."
+    c "Se non riusciremo a portare indietro qualcosa che sia d'aiuto, avremo segnato il destino delle decine di migliaia che vivono nella nostra città."
 
 # game/chapter3.rpy:1460
 translate italiantl c3conty_d6e77afb:
@@ -1644,7 +1644,7 @@ translate italiantl c3conty_4f3c2b46:
 translate italiantl c3conty_9c719d56:
 
     # m "All in all, I certainly had a unique experience alongside these dragons, and although this place was filled with just as much drama and murder as back home..."
-    m "Tutto sommato, avevo certamente avuto un'esperienza unica al fianco di questi draghi, e sebbene questo posto fosse ricolmo di tanta tragedia e tanto delitto quanto a casa..."
+    m "Tutto sommato, avevo certamente avuto un'esperienza unica al fianco di questi draghi, e sebbene questo posto fosse ricolmo di tanto dramma e delitto quanto a casa..."
 
 # game/chapter3.rpy:1536
 translate italiantl c3conty_7a6d8797:
@@ -2418,7 +2418,7 @@ translate italiantl c3conty_76b2fe88_9:
 translate italiantl c3conty_f73eeb9c:
 
     # n "I took my place and stared toward the horizon while I thought about what would happen now, in this world and others."
-    n "Presi posto e fissai all'orizzonte mentre pensavo a quello che sarebbe accaduto adesso, in questo mondo e negli altri."
+    n "Presi posto e fissai all'orizzonte mentre pensavo a quel che sarebbe accaduto adesso, in questo mondo e negli altri."
 
 # game/chapter3.rpy:1864
 translate italiantl c3conty_55484b1e:
@@ -3214,7 +3214,7 @@ translate italiantl c3conty_a4c90328:
 translate italiantl c3conty_6053be8a:
 
     # m "I considered spending my free time roaming the town, but decided that it would be best to keep myself out of the spotlight."
-    m "Considerai di trascorrere il mio tempo libero a fare un giro della città, ma decisi che sarebbe stato meglio tenermi lontanə dai riflettori."
+    m "Considerai di passare il mio tempo libero a fare un giro della città, ma decisi che sarebbe stato meglio tenermi lontanə dai riflettori."
 
 # game/chapter3.rpy:2252
 translate italiantl c3conty_d38c46b5:
@@ -3604,7 +3604,7 @@ translate italiantl _call_lazycheck_1_2c78df96:
 translate italiantl _call_lazycheck_1_6cacb27a:
 
     # m "I figured it was time to go back to the police department anyway."
-    m "Pensai che fosse comunque ora di tornare al dipartimento di polizia."
+    m "Pensai fosse comunque ora di tornare al dipartimento di polizia."
 
 # game/chapter3.rpy:2589
 translate italiantl _call_syscheck_16_44abe157:
@@ -4438,7 +4438,7 @@ translate italiantl c3facques_7fe96996:
 translate italiantl c3facques_0f45b97e:
 
     # An normal b "Yeah, but that's not unusual. I don't like most people."
-    An normal b "Sì, ma non è inusuale. Non mi piace la maggior parte della gente."
+    An normal b "Sì, ma non è insolito. Non mi piace la gran parte della gente."
 
 # game/chapter3.rpy:3118
 translate italiantl c3facques_3775328b:
@@ -4828,7 +4828,7 @@ translate italiantl _call_syscheck_18_bc30dece:
 translate italiantl _call_syscheck_18_9f418b86:
 
     # Ka normal dk "Don't worry about it. There'll be someone else along soon, I'm sure."
-    Ka normal dk "Non preoccuparti. Passerà qualcun altro a momenti, ne sono certo."
+    Ka normal dk "Non ti preoccupare. Passerà qualcun altro a momenti, ne sono certo."
 
 # game/chapter3.rpy:3437
 translate italiantl nohelp_13bc3018:
@@ -4864,7 +4864,7 @@ translate italiantl c3arcques_6ae758d4:
 translate italiantl c3arcques_d5095d43:
 
     # n "At first glance, nothing about it stood out to me, but the more I studied it, the more the facts revealed themselves."
-    n "A prima vista, non vi era niente che spiccasse ai miei occhi, ma quanto più la studiavo, tanto più i fatti mi si rivelavano." # "nothing [about it] stood out"
+    n "A prima vista, non vi era niente che balzasse ai miei occhi, ma quanto più la studiavo, tanto più i fatti mi si rivelavano." # "nothing [about it] stood out"
 
 # game/chapter3.rpy:3490
 translate italiantl c3arcques_1a72e446:
@@ -5342,7 +5342,7 @@ translate italiantl stay_68c069ae:
 translate italiantl stay_44e0b6ca:
 
     # St "It was dark, and I couldn't make out much, but the police requested that anything unusual be reported."
-    St "Era buio, e non riuscivo a distinguere bene, ma la polizia ha richiesto che qualsiasi cosa insolita fosse segnalata."
+    St "Era buio, e non potevo distinguere granché, ma la polizia ha richiesto che qualsiasi cosa insolita fosse segnalata."
 
 # game/chapter3.rpy:3957
 translate italiantl stay_fe02862e:
@@ -5354,7 +5354,7 @@ translate italiantl stay_fe02862e:
 translate italiantl stay_de400c9a:
 
     # St "There was a human-like figure walking away from the production facility. Seemed to be in a hurry, too."
-    St "C'era una figura simil-umana che si allontanava dallo stabilimento di produzione. Sembrava anche che andasse di fretta."
+    St "C'era una figura simil-umana che si allontanava dallo stabilimento di produzione. Sembrava anche andasse di fretta."
 
 # game/chapter3.rpy:3961
 translate italiantl stay_b7b5eaef:
@@ -5438,7 +5438,7 @@ translate italiantl stay_258c4f41:
 translate italiantl follow_d94835c0:
 
     # c "Actually, excuse me. Sorry, but we'll have to do this another time."
-    c "In effetti, permetti. Scusa, ma dovremo rimandare a un'altra volta."
+    c "Ripensandoci, permetti. Scusa, ma dovremo rimandare a un'altra volta."
 
 # game/chapter3.rpy:4012
 translate italiantl follow_60895c5d:
@@ -5600,7 +5600,7 @@ translate italiantl follow_b84f759d:
 translate italiantl follow_38771039:
 
     # Sb "Alright, I think we're done here for now. Don't forget to stop by the department later."
-    Sb "D'accordo, penso che qui abbiamo finito per ora. Non dimenticarti di passare al dipartimento più tardi."
+    Sb "D'accordo, penso che qui abbiamo finito per ora. Non dimenticare di fermarti al dipartimento più tardi."
 
 # game/chapter3.rpy:4110
 translate italiantl follow_59087957:
@@ -6062,7 +6062,7 @@ translate italiantl _call_popularcheck_1_9dc64384:
 translate italiantl _call_popularcheck_1_7ab4692f:
 
     # Br "Would be cool to have you come along."
-    Br "Sarebbe bello se ti unissi a noi."
+    Br "Sarebbe forte se ti unissi a noi."
 
 # game/chapter3.rpy:4752
 translate italiantl _call_popularcheck_1_f7c4de1d:
@@ -6394,7 +6394,7 @@ translate italiantl strings:
 
     # chapter3.rpy:2641
     old "Actually, I'm not sure if I can do that anymore."
-    new "In effetti, non sono sicurə di poterlo più fare."
+    new "Ripensandoci, non sono sicurə di poterlo più fare."
 
     # chapter3.rpy:3082
     old "What happened the last time you saw him alive?"

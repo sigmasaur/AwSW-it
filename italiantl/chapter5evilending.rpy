@@ -130,7 +130,7 @@ translate italiantl evilending_94f76ec3:
 translate italiantl evilending_1c64755a:
 
     # c "You think so? Think again. We both know that humanity would have had so much more to gain if we actually cooperated with the dragons."
-    c "Tu pensi? Pensa meglio. Sappiamo entrambi che l'umanità avrebbe avuto molto di più da guadagnarci se avessimo effettivamente collaborato coi draghi."
+    c "Tu pensi? Pensa meglio. Sappiamo entrambi che l'umanità avrebbe avuto talmente tanto di più da guadagnarci se avessimo effettivamente collaborato coi draghi."
 
 # game/chapter5evilending.rpy:61
 translate italiantl evilending_dab815b3:
@@ -154,7 +154,7 @@ translate italiantl evilending_7a6a2856:
 translate italiantl evilending_3a11d3e0:
 
     # c "You always hid behind your idealism, Reza, but it just so happens that it's always you who stands the most to gain in the end."
-    c "Ti sei sempre nascosto dietro il tuo idealismo, [Rz], ma guarda caso sei sempre tu ad avere di più da guadagnarci alla fine."
+    c "Ti sei sempre nascosto dietro il tuo idealismo, [Rz], ma il caso vuole che sia sempre tu ad avere di più da guadagnarci alla fine."
 
 # game/chapter5evilending.rpy:69
 translate italiantl evilending_3fcd3628:
@@ -172,7 +172,7 @@ translate italiantl evilending_2dd81155:
 translate italiantl evilending_3bb85959:
 
     # c "If humanity found out we'd rather forego our trade agreement and just let a potential long-term trade partner be eradicated by the meteorite for our own profit, they surely would not be pleased."
-    c "Se l'umanità scoprisse che preferiremmo rinunciare al nostro accordo di scambio e lasciare che un potenziale partner commerciale a lungo termine sia annientato da un meteorite per il nostro tornaconto, sicuramente non ne sarebbero contenti."
+    c "Se l'umanità scoprisse che preferiremmo rinunciare al nostro accordo di scambio e lasciare che un potenziale partner commerciale a lungo termine fosse annientato da un meteorite per il nostro tornaconto, sicuramente non ne sarebbero contenti."
 
 # game/chapter5evilending.rpy:75
 translate italiantl evilending_08c123a0:
@@ -184,7 +184,7 @@ translate italiantl evilending_08c123a0:
 translate italiantl evilending_a33aae66:
 
     # c "Shutting off communication with the dragons for a few weeks would have been easy, and after they were gone, they wouldn't present a risk for us to be found out. So the only ones who would know about what we did are you and me."
-    c "Chiudere le comunicazioni coi draghi per qualche settimana sarebbe stato facile, e dopo che fossero scomparsi, per noi non avrebbero più rappresentato un rischio di essere scoperti. Così i soli a sapere quello che abbiamo fatto saremmo stati tu ed io." # "to be found out ANYMORE"
+    c "Chiudere le comunicazioni coi draghi per qualche settimana sarebbe stato facile, e dopo che fossero scomparsi, per noi non avrebbero più rappresentato un rischio di essere scoperti. Così a sapere quello che abbiamo fatto saremmo stati solo tu ed io." # "to be found out ANYMORE"
 
 # game/chapter5evilending.rpy:79
 translate italiantl evilending_a004c533:
@@ -196,7 +196,7 @@ translate italiantl evilending_a004c533:
 translate italiantl evilending_a0e44aee:
 
     # c "Now you're just jealous that I thought of it before you did."
-    c "Adesso sei solo invidioso che ci ho pensato prima di te."
+    c "Adesso sei solo invidioso che io ci abbia pensato prima di te."
 
 # game/chapter5evilending.rpy:83
 translate italiantl evilending_d642e0de:
@@ -226,7 +226,7 @@ translate italiantl evilending_d1ace9ca:
 translate italiantl evilending_82b931ec:
 
     # Rz "It doesn't have to. I'd rather die trying to do what is right than sit around, living my life doing nothing and watching our world go down in ashes."
-    Rz "Non ce n'è bisogno. Preferisco morire tentando di fare quello che è giusto piuttosto che standomene senza far nulla, avendo vissuto la mia vita a guardare inerme il nostro mondo che finisce in cenere." # "it doesn't have to" -> "it doesn't need to"
+    Rz "Non ce n'è bisogno. Preferisco morire tentando di fare quello che è giusto piuttosto che restandomene senza far niente, avendo vissuto la mia vita a guardare il nostro mondo che finisce in cenere." # "it doesn't have to" -> "it doesn't need to"
 
 # game/chapter5evilending.rpy:95
 translate italiantl evilending_e15c9673:
@@ -238,7 +238,7 @@ translate italiantl evilending_e15c9673:
 translate italiantl evilending_a44b467e:
 
     # m "I pulled the trigger, firing the remaining bullets into him until no more were left."
-    m "Premetti il grilletto, scaricando in lui i rimanenti proiettili finché non ne rimase nessuno."
+    m "Premetti il grilletto, scaricando in lui i rimanenti proiettili finché non ne rimase più nessuno."
 
 # game/chapter5evilending.rpy:123
 translate italiantl evilending_76b81bf0:
@@ -340,7 +340,7 @@ translate italiantl endingjustafewminuteslaterx_b34b2d28:
 translate italiantl endingjustafewminuteslaterx_e864a6f7:
 
     # m "The underground building. The Administrator had told me all about the prowess of the generators within. It probably hadn't been hard for Reza to guess the same, or to try stealing them from a place he knew would be even more deserted than the rest of the village was right now."
-    m "L'edificio sotterraneo. [As] mi aveva raccontato tutto sulle prodezze del generatore al suo interno. Probabilmente per [Rz] non era stato difficile tirare le medesime somme, e quindi tentare di rubarlo da un posto che sapeva sarebbe stato ancor più deserto di quanto non fosse il resto del villaggio in quel momento." # "generator[s]", "stealing them" -> "stealing it" to match lines 4520, 4590 of chapter 4, also "or" -> "and thus"
+    m "L'edificio sotterraneo. [As] mi aveva raccontato tutto sulle prodezze del generatore all'interno. Probabilmente per [Rz] non era stato difficile tirare le stesse somme, tentando di rubarlo da un posto che sapeva sarebbe stato ancor più deserto di quanto non fosse il resto del villaggio in quel momento." # "generator[s]", "them" -> "it" to match lines 4520, 4590 of chapter 4, also "or to try stealing" -> "trying to steal"
 
 # game/chapter5evilending.rpy:349
 translate italiantl endingjustafewminuteslaterx_d7d0cce6:
@@ -406,7 +406,7 @@ translate italiantl no_e69e42b8:
 translate italiantl no_dadd4980:
 
     # Rz annoyed "No? What are you talking about?"
-    Rz annoyed "No? Che vorresti dire?"
+    Rz annoyed "No? Ma che stai dicendo?"
 
 # game/chapter5evilending.rpy:447
 translate italiantl no_cbdcea1a:
@@ -562,7 +562,7 @@ translate italiantl no_ab4b2d83:
 translate italiantl no_8d884cfd:
 
     # Rz amused "Let me ask you this: What harm is there really in taking their generators when their whole civilization will be gone in a few weeks, anyway? The ones I killed just died a little earlier than scheduled."
-    Rz amused "Lascia che ti chieda: che male c'è veramente a prendere i loro generatori quando la loro intera civiltà scomparirà comunque nel giro di qualche settimana? Quelli che ho ucciso sono semplicemente morti un tantino prima del previsto." # corrected uppercase letter
+    Rz amused "Lascia che ti chieda: che male c'è veramente a prendere i loro generatori quando la loro intera civiltà scomparirà comunque nel giro di qualche settimana? Quelli che ho ucciso sono semplicemente morti un tantino prima del previsto." # corrected uppercase letter, also "let me ask you [this]"
 
 # game/chapter5evilending.rpy:519
 translate italiantl no_5f502c59:
@@ -760,7 +760,7 @@ translate italiantl no_ed68b007:
 translate italiantl no_50b2933d:
 
     # Rz angry "The pettiness and the politics. Say about the solar flare what you want, but it leveled the playing field and gave people like us a chance to make a difference."
-    Rz angry "La meschinità e la politica. Di' pure quello che vuoi del brillamento solare, ma ha spianato il campo da gioco e ha dato alla gente come noi l'opportunità di fare la differenza."
+    Rz angry "La meschinità e la politica. Di' pure quello che vuoi del brillamento solare, ma ha spianato il campo da gioco e ha dato alla gente come noi l'occasione di fare la differenza."
 
 # game/chapter5evilending.rpy:585
 translate italiantl no_057799eb:

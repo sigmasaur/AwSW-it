@@ -10,7 +10,7 @@ translate italiantl chapter2_76b2fe88:
 translate italiantl _call_skiptut_11_7c2b96fe:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the scene selection?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Vuoi saltare alla selezione della scena?"
+    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare alla selezione della scena?"
 
 # game/chapter2.rpy:228
 translate italiantl _call_skiptut_11_84d46f4f:
@@ -22,7 +22,7 @@ translate italiantl _call_skiptut_11_84d46f4f:
 translate italiantl _call_skiptut_11_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente alla selezione della scena."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
 
 # game/chapter2.rpy:250
 translate italiantl _call_skiptut_11_0054b77b:
@@ -112,7 +112,7 @@ translate italiantl _call_skipcheck_11_a9a10fb3:
 translate italiantl _call_skipcheck_11_de08b67a:
 
     # Br "Is that so? That's my bad, sorry. I just wanted to have a nice evening and relax with a few beers. You know, that's kinda what bars are all about."
-    Br "È così? È colpa mia, perdonami. Volevo solo passare una bella serata e rilassarmi con un paio di birre. Sai, più o meno è a questo che servono i bar."
+    Br "È così? È colpa mia, scusa. Volevo solo passare una bella serata e rilassarmi con un paio di birre. Sai, più o meno è a questo che servono i bar."
 
 # game/chapter2.rpy:331
 translate italiantl _call_skipcheck_11_7b28e1dc:
@@ -646,7 +646,7 @@ translate italiantl _call_skipcheck_11_2539b8a1:
 translate italiantl _call_skipcheck_11_889731a9:
 
     # Br "We spent all that time studying the portal and barely got anywhere with it. This stuff is just... beyond what we know."
-    Br "Abbiamo trascorso tutto quel tempo a studiare il portale e ne abbiamo a malapena cavato qualcosa. Quella roba è semplicemente... al di là delle nostre conoscenze."
+    Br "Abbiamo speso tutto quel tempo a studiare il portale e ne abbiamo a malapena cavato qualcosa. Quella roba è semplicemente... al di là delle nostre conoscenze."
 
 # game/chapter2.rpy:691
 translate italiantl _call_skipcheck_11_32517d79:
@@ -1105,7 +1105,7 @@ translate italiantl chap2q1_88df38a7:
 translate italiantl chap2q1_272422a5:
 
     # Br "The police team will be here any minute now. You don't have to get involved with the search, but that doesn't mean you can't help us."
-    Br "La squadra di polizia sarà qui a momenti. Non è necessario che tu sia coinvoltə nella ricerca, ma questo non vuol dire che tu non possa darci una mano."
+    Br "La squadra di polizia sarà qui a momenti. Non c'è bisogno che tu sia coinvoltə nella ricerca, ma questo non vuol dire che tu non possa darci una mano." # "have to" -> "need to"
 
 # game/chapter2.rpy:1078
 translate italiantl chap2q1_fffdfd47:
@@ -1195,7 +1195,7 @@ translate italiantl chap2q1_60debecd:
 translate italiantl chap2q1_26ecc061:
 
     # Br normal b "I already know where you're going, and besides, I trust you. If you were in cahoots with Reza, you would have run off with him when you had the chance."
-    Br normal b "Tanto so già dove stai andando, e poi, mi fido di te. Se fossi in combutta con [Rz], saresti fuggitə via con lui quando ne avevi l'occasione."
+    Br normal b "Tanto so già dove stai andando, e comunque, mi fido di te. Se fossi in combutta con [Rz], saresti fuggitə via con lui quando ne avevi l'occasione."
 
 # game/chapter2.rpy:1126
 translate italiantl chap2q1_feed6cdd:
@@ -1761,7 +1761,7 @@ translate italiantl chap2storeques_c5aed8d5:
 translate italiantl chap2storeques_2de7a0dc:
 
     # St "I can look up his purchases if you like."
-    St "Posso controllare i suoi acquisti se vuoi."
+    St "Posso controllare i suoi acquisti se ti va."
 
 # game/chapter2.rpy:1557
 translate italiantl chap2storeques_98abd767:
@@ -2601,7 +2601,7 @@ translate italiantl chap2libmenu_5fbaba76:
 translate italiantl chap2libmenu_53496c69:
 
     # Ry "I'm not sure, to be honest. There are a lot of things on my mind right now."
-    Ry "Non ne sono sicuro, onestamente. Ho parecchie cose per la testa in questo momento."
+    Ry "Non ne sono sicuro, ad essere onesti. Ho un sacco di cose per la testa in questo momento."
 
 # game/chapter2.rpy:2220
 translate italiantl chap2libmenu_efe0e8c3:
@@ -3363,7 +3363,7 @@ translate italiantl chap2emselection_d46a388e:
 translate italiantl chap2emselection_960ce40a:
 
     # c "You mentioned your \"term\" ending. How does that work here?"
-    c "Ha menzionato che il Suo \"mandato\" sarebbe scaduto. Come funziona la cosa qui?"
+    c "Ha accennato che il Suo \"mandato\" sarebbe scaduto. Come funziona la cosa qui?"
 
 # game/chapter2.rpy:3316
 translate italiantl chap2emselection_208ec4ed:
@@ -3441,7 +3441,7 @@ translate italiantl chap2cont_eadb43d8:
 translate italiantl _call_skiptut_12_4d25d249:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the character selection?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Vuoi saltare alla selezione del personaggio?"
+    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare alla selezione del personaggio?"
 
 # game/chapter2.rpy:3424
 translate italiantl _call_skiptut_12_11989f6d:
@@ -3453,7 +3453,7 @@ translate italiantl _call_skiptut_12_11989f6d:
 translate italiantl _call_skiptut_12_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente alla selezione del personaggio."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
 
 # game/chapter2.rpy:3446
 translate italiantl _call_skiptut_12_0054b77b:
@@ -3867,7 +3867,7 @@ translate italiantl _call_skipcheck_12_567c8e01:
 translate italiantl _call_skipcheck_12_a0830fbb:
 
     # c "I know, but to be honest, I'm not sure if I can be much help to you at all."
-    c "Lo so, ma onestamente, non sono sicurə di potervi essere granché utile."
+    c "Lo so, ma ad essere onesti, non sono sicurə di potervi essere granché utile."
 
 # game/chapter2.rpy:3702
 translate italiantl _call_skipcheck_12_a9821795:
@@ -3921,7 +3921,7 @@ translate italiantl _call_skipcheck_12_7d2d963e:
 translate italiantl _call_skipcheck_12_2d53cf3e:
 
     # c "I wonder what will happen to our trade agreement now, considering Reza's still missing, the murders, and the stolen generator."
-    c "Mi domando cosa accadrà al nostro accordo di scambio adesso, considerando che [Rz] è ancora disperso, gli omicidi e il generatore rubato."
+    c "Mi chiedo cosa accadrà al nostro accordo di scambio adesso, considerando che [Rz] è ancora disperso, gli omicidi e il generatore rubato."
 
 # game/chapter2.rpy:3720
 translate italiantl _call_skipcheck_12_9d4bcd2a:
@@ -4023,7 +4023,7 @@ translate italiantl chap2skip3_4e1f8841:
 translate italiantl chap2skip3_12dac46c:
 
     # Sb "He could've needed a map to plan something, I suppose, but who knows what he really wanted to do with it. It's the kind of detail that - on its own - might not tell us much, but could be crucial later on."
-    Sb "Potrebbe aver avuto bisogno di una mappa per pianificare qualcosa, suppongo, ma chissà cos'avrebbe voluto farci veramente. È quel tipo di dettaglio che—di per sé—potrebbe non dire molto, ma rivelarsi cruciale più avanti." # corrected simple dash to em-dash
+    Sb "Potrebbe aver avuto bisogno di una mappa per pianificare qualcosa, suppongo, ma chissà cos'avrebbe voluto farci veramente. È quel tipo di dettaglio che—di per sé—potrebbe non dirci molto, ma rivelarsi cruciale più avanti." # corrected simple dash to em-dash
 
 # game/chapter2.rpy:3800
 translate italiantl chap2skip3_0778013f:
@@ -4143,7 +4143,7 @@ translate italiantl chapter2chars_14f20a32:
 translate italiantl _call_popularcheck_10_8bf0501b:
 
     # Br "Hey. I was just thinking about last time. I know we got a little blackout drunk, but I still thought that was kinda fun."
-    Br "Ehi. Stavo giusto ripensando all'ultima volta. So che abbiamo alzato un po' il gomito, ma penso sia stato comunque divertente." # "thought" -> "think"
+    Br "Ehi. Stavo giusto ripensando all'ultima volta. So che abbiamo alzato un po' il gomito, ma penso sia stato comunque divertente." # "thought" -> "think", "that was [kinda] fun"
 
 # game/chapter2.rpy:4220
 translate italiantl _call_popularcheck_10_e0bc6ab0:
