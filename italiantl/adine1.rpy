@@ -184,7 +184,7 @@ translate italiantl _call_skiptut_10_eee83226:
 translate italiantl _call_skiptut_10_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/adine1.rpy:218
 translate italiantl _call_skiptut_10_0054b77b:
@@ -796,7 +796,7 @@ translate italiantl _call_skipcheck_10_4f76bc1a:
 translate italiantl _call_skipcheck_10_a9cad82b:
 
     # Ad "Oh, you've got \"Price and Prayer\". You should totally read that one."
-    Ad "Oh, hai \"Prezzo e Preghiera\". Quello devi leggerlo assolutamente."
+    Ad "Oh, hai \"Prezzo e Preghiera\". Quello devi assolutamente leggerlo."
 
 # game/adine1.rpy:560
 translate italiantl _call_skipcheck_10_d98d0cd8:

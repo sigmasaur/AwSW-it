@@ -334,7 +334,7 @@ translate italiantl _call_skipcheck_23_a87e7e48:
 translate italiantl _call_skipcheck_23_deaa0d16:
 
     # c "Sorry for mentioning it."
-    c "Scusa se l'ho menzionato."
+    c "Scusa se te ne ho parlato."
 
 # game/adine2.rpy:303
 translate italiantl _call_skipcheck_23_8b977e7b:
@@ -1294,7 +1294,7 @@ translate italiantl adine2menb_c80ff75f:
 translate italiantl adine2menb_d343259d:
 
     # c "And what would that be?"
-    c "E sarebbe?"
+    c "E cosa sarebbe?"
 
 # game/adine2.rpy:1011
 translate italiantl adine2menb_2e04c98c:
@@ -1582,7 +1582,7 @@ translate italiantl adine2menb_560c5588:
 translate italiantl adine2menb_807de2e9:
 
     # c "You should fly over anyway to make sure you get in. It would be a shame if you couldn't enter because of a technicality."
-    c "Dovresti volarci comunque per assicurarti di essere ammessa. Sarebbe un peccato che non potessi entrare per via di un cavillo tecnico."
+    c "Dovresti volarci comunque per assicurarti di essere ammessa. Sarebbe un peccato che non potessi iscriverti per via di un cavillo tecnico." # see line 57 of Adine 3
 
 # game/adine2.rpy:1139
 translate italiantl adine2menb_e962cf79:
@@ -2168,7 +2168,7 @@ translate italiantl strings:
 
     # adine2.rpy:1165
     old "I'd pay it a visit myself if I could."
-    new "Ci farei visita io stessə se potessi."
+    new "Vi farei visita io stessə se potessi."
 
     # adine2.rpy:1199
     old "I can try."

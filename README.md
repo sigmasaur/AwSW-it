@@ -22,6 +22,7 @@ Currently working on `Adine`'s sections. Files done and up for review:
 
     adine1.rpy
     adine2.rpy
+    adine3.rpy
 
 A few remarks:
 
@@ -128,7 +129,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1812: Note that in theory, dragons don't know what a car is.
 * At line 2035, 2836, 2873, 2909, 2946: *PDAs* → *PDA*.
 * At line 2411: `Shake` function doesn't seem to trigger.
-* At line 3236, 3315, 3468, 3698: Rendered *legs* as *paws*.
+* At line 3236, 3315, 3468, 3698: Rendered *leg* as *paw*.
 * At line 3285-3289, 3379-3383, 3438-3442, 3511-3515, 3742-3746: Adapted to preserve a pun; reverse translation: *Exceptional.*
 * At line 3568, 3627, 3798, 3857: Assumed *who* is referred to `Adine`.
 * At line 4345, 4353: *65* → *sixty-five*, for elegance.
@@ -175,3 +176,13 @@ The following are mostly to the benefit of the developer and translators.
 * At line 346: Corrected extra space.
 * At line 569, 617, 668, 753: Corrected uppercase letter to lowercase.
 * At line 1053: Slightly pruned to fit fewer lines.
+
+### adine3.rpy
+
+* At line 51-53: See lines 61-67 of `adine1.rpy`.
+* At line 257, 264: Variable should probably be renamed from `mp.time` to `mp.tan`, although it's never used.
+* At line 405, 407, 417, 419: Rendered *leg*(*s*) as *paw*(*s*).
+* At line 771: Used the English name for *Freefall*, for coherence with the other names.
+* At line 883: Enclosed *hawk* in italics tags.
+* At line 1035: Split in multiple parts to fit fewer lines.
+* At line 1278, 1282: *pockets* → *pocket*, to match line 2312 of `chapter3.rpy`.
