@@ -2236,8 +2236,8 @@ translate italiantl adine3skip_bbeb5822:
 # game/adine3.rpy:1211
 translate italiantl adine3skip_a041a060:
 
-    # c "I share the same sentiment." # "sentimentS"
-    c "Io condivido quello che pensi."
+    # c "I share the same sentiment."
+    c "Io condivido quello che pensi." # "sentimentS"
 
 # game/adine3.rpy:1213
 translate italiantl adine3skip_f495ba9f:

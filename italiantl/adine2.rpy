@@ -1114,7 +1114,7 @@ translate italiantl adine2menb_be7b3cad:
 translate italiantl adine2menb_2a8663e1:
 
     # c "That doesn't really apply to me. Like, at all."
-    c "Non è che si adatti al mio caso. Tipo, per niente." # "this" -> "it"
+    c "Non è che si adatti al mio caso. Tipo, per niente."
 
 # game/adine2.rpy:882
 translate italiantl adine2menb_03673aa6:
@@ -1138,7 +1138,7 @@ translate italiantl adine2menb_d8b41529:
 translate italiantl adine2menb_5ec8084e:
 
     # c "This is very generic. You know that it's intentionally vague so everyone feels like it applies to them, right?"
-    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che si adatti al loro caso, giusto?" # see line 863
+    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che si adatti al loro caso, giusto?"
 
 # game/adine2.rpy:894
 translate italiantl adine2menb_e994abe2:
@@ -1222,7 +1222,7 @@ translate italiantl adine2menb_6f49916d:
 translate italiantl adine2menb_5ec8084e_1:
 
     # c "This is very generic. You know that it's intentionally vague so everyone feels like it applies to them, right?"
-    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che si adatti al loro caso, giusto?" # see line 863
+    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che si adatti al loro caso, giusto?" # see line 892
 
 # game/adine2.rpy:958
 translate italiantl adine2menb_bb359085:
@@ -1306,7 +1306,7 @@ translate italiantl adine2menb_2e04c98c:
 translate italiantl adine2menb_5ec8084e_2:
 
     # c "This is very generic. You know that it's intentionally vague so everyone feels like it applies to them, right?"
-    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che si adatti al loro caso, giusto?" # see line 863
+    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che si adatti al loro caso, giusto?" # see line 892
 
 # game/adine2.rpy:1018
 translate italiantl adine2menb_bb359085_1:
@@ -1654,7 +1654,7 @@ translate italiantl adine2skip_cf1a4a1a:
 translate italiantl adine2skip_3d7a1cf2:
 
     # Ad normal b "It's supposed to be a remnant of an earlier civilization, or maybe even something created by humans. Who wouldn't be interested in that?"
-    Ad normal b "Si suppone essere il vestigio di un'antica civiltà, o magari anche qualcosa di creato dagli umani. Chi non ne sarebbe interessato?" # "in that" -> "in it"
+    Ad normal b "Si suppone essere il vestigio di un'antica civiltà, o magari anche qualcosa di creato dagli umani. Chi non ne sarebbe interessato?"
 
 # game/adine2.rpy:1171
 translate italiantl adine2skip_46a68dc8:
@@ -1708,7 +1708,7 @@ translate italiantl adine2skip_12bd11ab:
 translate italiantl adine2skip_0db89e6b:
 
     # Ad normal b "Thank you! That means a lot to me."
-    Ad normal b "Ti ringrazio! Significa molto per me." # "that" -> "it"
+    Ad normal b "Ti ringrazio! Significa molto per me."
 
 # game/adine2.rpy:1212
 translate italiantl adine2skip_b25542e6:
@@ -1888,7 +1888,7 @@ translate italiantl adine2skip_f4c958b6:
 translate italiantl adine2skip_07558c77:
 
     # c "That almost sounds like you want me to leave."
-    c "Sembra quasi che tu voglia che io me ne vada." # "that" -> "it"
+    c "Sembra quasi che tu voglia che io me ne vada."
 
 # game/adine2.rpy:1341
 translate italiantl adine2skip_eecda5f5:
@@ -2003,8 +2003,8 @@ translate italiantl strings:
     new "Di solito i miei sogni non hanno senso."
 
     # adine2.rpy:419
-    old "I've been dreaming of fire." # "LATELY I've been dreaming"
-    new "Ultimamente sogno il fuoco."
+    old "I've been dreaming of fire."
+    new "Ultimamente sogno il fuoco." # "LATELY I've been dreaming"
 
     # adine2.rpy:419
     old "I don't dream at all."
@@ -2100,7 +2100,7 @@ translate italiantl strings:
 
     # adine2.rpy:755
     old "Do we really have to do that?"
-    new "Dobbiamo proprio farlo?" # "that" -> "it"
+    new "Dobbiamo proprio farlo?"
 
     # adine2.rpy:755
     old "You know that stuff's not real, right?"
@@ -2132,7 +2132,7 @@ translate italiantl strings:
 
     # adine2.rpy:863
     old "This is very generic."
-    new "È molto generico." # "this is" -> "it's"
+    new "È molto generico."
 
     # adine2.rpy:930
     old "I'm not sure what this could mean."
@@ -2152,7 +2152,7 @@ translate italiantl strings:
 
     # adine2.rpy:1028
     old "This certainly was interesting."
-    new "È stato certamente interessante." # "this" -> "it"
+    new "È stato certamente interessante."
 
     # adine2.rpy:1028
     old "Now you can finally put it in the trash where it belongs."
