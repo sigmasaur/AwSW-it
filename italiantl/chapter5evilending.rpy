@@ -22,7 +22,7 @@ translate italiantl evilending_7d88fe5d:
 translate italiantl evilending_d141aba5:
 
     # Rz amused "We've made it, [player_name]. We really did. With this, we can save our city - and we can have something for ourselves too."
-    Rz amused "Ce l'abbiamo fatta, [player_name]. L'abbiamo fatto davvero. Con questo, possiamo salvare la nostra città—e possiamo anche tenerci qualcosa per noi stessi." # corrected simple dash to em-dash, also "have" -> "keep"
+    Rz amused "Ce l'abbiamo fatta, [player_name]. L'abbiamo fatto davvero. Con questo, possiamo salvare la nostra città—e possiamo anche tenerci qualcosa per noi stessi." # corrected em-dash, also "have" -> "keep"
 
 # game/chapter5evilending.rpy:13
 translate italiantl evilending_da106dee:
@@ -46,7 +46,7 @@ translate italiantl evilending_dabbfd50:
 translate italiantl evilending_f530db90:
 
     # Rz laugh "All the glory and riches that come from this - they're ours. And we earned it."
-    Rz laugh "Tutta la gloria e le ricchezze che ne derivano—sono nostre. E ce le siamo guadagnate." # corrected simple dash to em-dash, also "from this" -> "from it"
+    Rz laugh "Tutta la gloria e le ricchezze che ne derivano—sono nostre. E ce le siamo guadagnate." # corrected em-dash, also "from this" -> "from it"
 
 # game/chapter5evilending.rpy:21
 translate italiantl evilending_89daf031:
@@ -64,7 +64,7 @@ translate italiantl evilending_edd9bfac:
 translate italiantl evilending_d3f8c098:
 
     # c "I only have one question: Why would I share it with you?"
-    c "Ho solo una domanda. Perché dovrei dividerle con te?" # corrected colon to dot to preserve the uppercase letter
+    c "Ho solo una domanda. Perché dovrei dividerle con te?" # preserved uppercase letter
 
 # game/chapter5evilending.rpy:31
 translate italiantl evilending_bfb60130:
@@ -76,7 +76,7 @@ translate italiantl evilending_bfb60130:
 translate italiantl evilending_32568256:
 
     # m "Having distracted him by letting him hold the box, I already had my finger on the trigger of my own gun - or rather, a copy of Reza's gun."
-    m "Avendolo distratto lasciandogli tenere la scatola, avevo già il dito sul grilletto della mia pistola—o piuttosto, una copia della pistola di [Rz]." # corrected simple dash to em-dash
+    m "Avendolo distratto lasciandogli tenere la scatola, avevo già il dito sul grilletto della mia pistola—o piuttosto, una copia della pistola di [Rz]." # corrected em-dash
 
 # game/chapter5evilending.rpy:35
 translate italiantl evilending_36ce8cdb:
@@ -166,7 +166,7 @@ translate italiantl evilending_3fcd3628:
 translate italiantl evilending_2dd81155:
 
     # c "We did - but in the end, someone like you just isn't trustworthy. We both know what we did, Reza."
-    c "L'avevamo—ma in fin dei conti, di uno come te semplicemente non ci si può fidare. Sappiamo entrambi quello che abbiamo fatto, [Rz]." # corrected simple dash to em-dash
+    c "L'avevamo—ma in fin dei conti, di uno come te semplicemente non ci si può fidare. Sappiamo entrambi quello che abbiamo fatto, [Rz]." # corrected em-dash
 
 # game/chapter5evilending.rpy:73
 translate italiantl evilending_3bb85959:
@@ -298,7 +298,7 @@ translate italiantl endingjustafewminuteslaterx_a5b4389d:
 translate italiantl endingjustafewminuteslaterx_326876be:
 
     # m "I checked Sebastian for any signs of life and found nothing. However, his body was still warm."
-    m "Controllai [Sb] in cerca di segni di vita e non trovai nulla. Tuttavia, il suo corpo era ancora caldo."
+    m "Cercai in [Sb] un segno di vita e non trovai nulla. Tuttavia, il suo corpo era ancora caldo."
 
 # game/chapter5evilending.rpy:330
 translate italiantl endingjustafewminuteslaterx_03c1972b:
@@ -364,7 +364,7 @@ translate italiantl endingjustafewminuteslaterx_d51db7e2:
 translate italiantl endingjustafewminuteslaterx_c1029fbb:
 
     # m "When I entered the building, I was met by a long, illuminated hallway that was lined with doors on both sides."
-    m "Quando entrai nell'edificio, fui accoltə da un lungo corridoio illuminato ch'era foderato di porte su entrambi i lati."
+    m "Quando entrai nell'edificio, fui accoltə da un lungo corridoio illuminato ch'era fiancheggiato di porte su entrambi i lati."
 
 # game/chapter5evilending.rpy:371
 translate italiantl sincethelightswerealreadyon_48903454:
@@ -478,7 +478,7 @@ translate italiantl no_2fa3d196:
 translate italiantl no_a0acb6cc:
 
     # Rz "You could've just pointed your PDA at the sky and it would've told you the time period - including the imminent threat of being eradicated."
-    Rz "Avresti potuto anche solo puntare il tuo palmare al cielo e ti avrebbe detto quale epoca fosse—inclusa l'incombente minaccia di essere annientati." # corrected simple dash to em-dash, also "WHAT the time period WAS"
+    Rz "Avresti potuto anche solo puntare il tuo palmare al cielo e ti avrebbe detto quale epoca fosse—inclusa l'incombente minaccia di essere annientati." # corrected em-dash, also "WHAT the time period WAS"
 
 # game/chapter5evilending.rpy:475
 translate italiantl no_9effc950:
@@ -562,7 +562,7 @@ translate italiantl no_ab4b2d83:
 translate italiantl no_8d884cfd:
 
     # Rz amused "Let me ask you this: What harm is there really in taking their generators when their whole civilization will be gone in a few weeks, anyway? The ones I killed just died a little earlier than scheduled."
-    Rz amused "Lascia che ti chieda: che male c'è veramente a prendere i loro generatori quando la loro intera civiltà scomparirà comunque nel giro di qualche settimana? Quelli che ho ucciso sono semplicemente morti un tantino prima del previsto." # corrected uppercase letter, also "let me ask you [this]"
+    Rz amused "Lascia che ti chieda: che male c'è veramente a prendere i loro generatori quando la loro intera civiltà scomparirà comunque nel giro di qualche settimana? Quelli che ho ucciso sono semplicemente morti un tantino prima del previsto." # corrected lowercase letter, also "let me ask you [this]"
 
 # game/chapter5evilending.rpy:519
 translate italiantl no_5f502c59:
@@ -646,7 +646,7 @@ translate italiantl no_b1f85f2a:
 translate italiantl no_f109bdfd:
 
     # Rz "Don't tell me you've been drinking up what they've been telling you. You know they have as much of a vested interest in this whole thing as humanity does - that I and you do, or at least used to."
-    Rz "Non dirmi che ti sei bevutə tutto quello che ti hanno raccontato. Sai bene che il loro interesse in tutta questa storia non è più legittimo di quello dell'umanità—del mio, se non più del tuo." # corrected simple dash to em-dash
+    Rz "Non dirmi che ti sei bevutə tutto quello che ti hanno raccontato. Sai bene che il loro interesse in tutta questa storia non è più legittimo di quello dell'umanità—del mio, se non più del tuo." # corrected em-dash
 
 # game/chapter5evilending.rpy:547
 translate italiantl no_a39121b7:
@@ -760,7 +760,7 @@ translate italiantl no_ed68b007:
 translate italiantl no_50b2933d:
 
     # Rz angry "The pettiness and the politics. Say about the solar flare what you want, but it leveled the playing field and gave people like us a chance to make a difference."
-    Rz angry "La meschinità e la politica. Di' pure quello che vuoi del brillamento solare, ma ha spianato il campo da gioco e ha dato alla gente come noi l'occasione di fare la differenza."
+    Rz angry "La meschinità e la politica. Di' pure quello che vuoi del brillamento solare, ma ha spianato il campo da gioco e ha dato alla gente come noi l'opportunità di fare la differenza."
 
 # game/chapter5evilending.rpy:585
 translate italiantl no_057799eb:
@@ -1048,7 +1048,7 @@ translate italiantl skiptut_5e30f108:
 translate italiantl skiptut_a325d596:
 
     # s "Well, here's the deal: Using the skip buttons can be tedious, especially when encountering puzzles you've already solved before or when faced with long dialogue trees."
-    s "Be', il fatto è questo: usare i pulsanti di salto può essere tedioso, specie quando incontri enigmi che hai già risolto in passato o ti trovi di fronte a lunghi alberi di conversazione." # corrected uppercase letter
+    s "Be', il fatto è questo: usare i pulsanti di salto può essere tedioso, specie quando incontri enigmi che hai già risolto in passato o ti trovi di fronte a lunghi alberi di conversazione." # corrected lowercase letter
 
 # game/chapter5evilending.rpy:849
 translate italiantl skiptut_738b6997:
@@ -1060,7 +1060,7 @@ translate italiantl skiptut_738b6997:
 translate italiantl skiptut_521da73b:
 
     # s "So, during relevant sections, I will come in and ask if you don't want to just outright jump ahead. Sound good so far?"
-    s "Così, durante le sezioni interessate, interverrò a chiederti se non vuoi semplicemente saltare avanti per intero. Fin qui tutto bene?"
+    s "Così, durante le sezioni interessate, interverrò a chiederti se non vuoi semplicemente saltare avanti per intero. Fin qui come ti sembra?"
 
 # game/chapter5evilending.rpy:857
 translate italiantl skiptut_69fa3789:

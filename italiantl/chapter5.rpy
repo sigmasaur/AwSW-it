@@ -40,7 +40,7 @@ translate italiantl aloneendings_e385c5e3:
 translate italiantl aloneendings_04daa7ff:
 
     # m "While I waited for the fireworks to start, I looked at the area around me. With no soul in sight, I realized I hadn't actually spent many nights outside and was reminded of the day I had arrived here at my apartment in total darkness, with only Remy by my side."
-    m "Mentre aspettavo che i fuochi d'artificio iniziassero, presi a guardarmi attorno nei paraggi. Senz'anima viva, realizzai che in effetti non avevo trascorso poi molte notti all'aperto e mi tornò alla mente il giorno in cui ero giuntə qui al mio appartamento nell'oscurità più totale, con solo [Ry] al mio fianco."
+    m "Mentre aspettavo che i fuochi d'artificio iniziassero, presi a guardarmi attorno nei paraggi. Senz'anima viva, realizzai che in effetti non avevo trascorso poi molte notti all'aperto e mi ritornò alla mente il giorno in cui ero giuntə qui al mio appartamento nell'oscurità più totale, con solo [Ry] al mio fianco."
 
 # game/chapter5.rpy:520
 translate italiantl aloneendings_e507d2af:
@@ -154,7 +154,7 @@ translate italiantl _call_endingjustafewminuteslater_c6368b6d:
 translate italiantl _call_endingjustafewminuteslater_b4c6de5d:
 
     # Rz angry "You know what? I think you're bluffing. If you set off that bomb, not only do we both die, but you destroy the generators as well - and with them, any chance of saving either world. You would never do that."
-    Rz angry "Sai che c'è? Io credo che tu stia bluffando. Se inneschi quella bomba, non solo moriremo entrambi, ma distruggerai anche i generatori—e con loro, ogni possibilità di salvare qualsiasi dei due mondi. Non lo faresti mai." # corrected simple dash to em-dash
+    Rz angry "Sai che c'è? Io credo che tu stia bluffando. Se inneschi quella bomba, non solo moriremo entrambi, ma distruggerai anche i generatori—e con loro, ogni possibilità di salvare qualsiasi dei due mondi. Non lo faresti mai." # corrected em-dash
 
 # game/chapter5.rpy:590
 translate italiantl _call_endingjustafewminuteslater_fcd47aef:
@@ -394,7 +394,7 @@ translate italiantl tut_10345df0:
 translate italiantl tut_1e8d4b79:
 
     # s "At any rate, feel free to employ the game's skip buttons (CTRL and TAB) generously, as - by default - they will only skip text that you have already seen, making subsequent playthroughs much more palatable."
-    s "In ogni caso, sentiti liberə di impiegare i pulsanti di salto [[Ctrl] e [[Tab] senza riserve, siccome—per impostazione predefinita—salteranno solamente il testo che hai già visto, rendendo le successive partite decisamente più appetibili." # changed parentheses with brackets to match line 385 of chapter 1, corrected simple dash to em-dash, also "the [game's] skip buttons"
+    s "In ogni caso, sentiti liberə di impiegare i pulsanti di salto [[Ctrl] e [[Tab] senza riserve, siccome—per impostazione predefinita—salteranno solamente il testo che hai già visto, rendendo le successive partite decisamente più appetibili." # changed parentheses with brackets to match line 385 of chapter 1, corrected em-dash, also "the [game's] skip buttons"
 
 # game/chapter5.rpy:917
 translate italiantl tut_72b3f8a3:

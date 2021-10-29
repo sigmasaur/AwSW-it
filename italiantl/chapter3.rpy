@@ -383,7 +383,7 @@ translate italiantl chapter3_ed6087b4:
 translate italiantl c3contx_a9c6669a:
 
     # Br brow b "And here's more bad news: The blood we found on the first victim in town matches the DNA evidence found on the second victim at the power facility."
-    Br brow b "E ci sono altre cattive notizie: il sangue che abbiamo trovato sulla prima vittima in città corrisponde alle tracce di DNA rinvenute sulla seconda vittima presso l'impianto elettrico." # corrected uppercase letter
+    Br brow b "E ci sono altre cattive notizie: il sangue che abbiamo trovato sulla prima vittima in città corrisponde alle tracce di DNA rinvenute sulla seconda vittima presso l'impianto elettrico." # corrected lowercase letter
 
 # game/chapter3.rpy:862
 translate italiantl c3contx_739cb691:
@@ -726,49 +726,49 @@ translate italiantl c3conty_fe17f0dd:
 translate italiantl c3conty_2d868013_1:
 
     # Em normal "I see. Well, I know I haven't exactly been up to date in regards to Reza's sudden disappearance, but to get the message today that he is a confirmed serial killer was quite shocking."
-    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è un comprovato assassino seriale è stato piuttosto scioccante."
+    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è un comprovato assassino seriale è stato piuttosto scioccante." # see line 1113
 
 # game/chapter3.rpy:1125
 translate italiantl c3conty_98aeb2ec_1:
 
     # Em "Frankly, I'm curious as to why the facts of this case have been withheld from me for so long."
-    Em "Francamente, sono curiosa del perché i fatti di questo caso mi siano stati tenuti nascosti così a lungo."
+    Em "Francamente, sono curiosa del perché i fatti di questo caso mi siano stati tenuti nascosti così a lungo." # see line 1115
 
 # game/chapter3.rpy:1127
 translate italiantl c3conty_4e35c84c_1:
 
     # Br brow b flip "Simply because they weren't within your jurisdiction. The murders were strictly a police matter."
-    Br brow b flip "Semplicemente perché non rientravano nella Sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia."
+    Br brow b flip "Semplicemente perché non rientravano nella Sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia." # see line 1117
 
 # game/chapter3.rpy:1129
 translate italiantl c3conty_fe17f0dd_1:
 
     # Br "Only with the amount of new evidence, namely the DNA and blood we found and these three murders now being linked together and to him did your ministry have to become involved."
-    Br "Solo con la quantità di nuove prove, ossia il DNA e il sangue che abbiamo trovato e questi tre omicidi ora collegati assieme e a lui si è reso necessario che Lei, Ministro, fosse coinvolta."
+    Br "Solo con la quantità di nuove prove, ossia il DNA e il sangue che abbiamo trovato e questi tre omicidi ora collegati assieme e a lui si è reso necessario che Lei, Ministro, fosse coinvolta." # see line 1119
 
 # game/chapter3.rpy:1133
 translate italiantl c3conty_bc3dee69:
 
     # Em normal "I see. Well, I know I haven't exactly kept myself up-to-date with the details of Reza's disappearance, but to receive the message today that he has been involved in multiple murders and break-ins is quite shocking."
-    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e irruzioni è stato piuttosto scioccante." # "is quite shocking" -> "was quite shocking" to match lines 1113, 1123
+    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e irruzioni è stato piuttosto scioccante." # "is quite shocking" -> "was quite shocking" to match lines 1113, 1123, also see those lines
 
 # game/chapter3.rpy:1135
 translate italiantl c3conty_98aeb2ec_2:
 
     # Em "Frankly, I'm curious as to why the facts of this case have been withheld from me for so long."
-    Em "Francamente, sono curiosa del perché i fatti di questo caso mi siano stati tenuti nascosti così a lungo."
+    Em "Francamente, sono curiosa del perché i fatti di questo caso mi siano stati tenuti nascosti così a lungo." # see line 1115
 
 # game/chapter3.rpy:1137
 translate italiantl c3conty_4e35c84c_2:
 
     # Br brow b flip "Simply because they weren't within your jurisdiction. The murders were strictly a police matter."
-    Br brow b flip "Semplicemente perché non rientravano nella Sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia."
+    Br brow b flip "Semplicemente perché non rientravano nella Sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia." # see line 1117
 
 # game/chapter3.rpy:1139
 translate italiantl c3conty_fd929a12:
 
     # Br "Only after we tested our new evidence, discovered the DNA linking the two victims together, and had the PDAs stolen did your ministry have to become involved."
-    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che Lei, Ministro, fosse coinvolta." # "had the PDAs stolen" -> "found the PDA[s] was stolen"
+    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che Lei, Ministro, fosse coinvolta." # "had the PDAs stolen" -> "found the PDA[s] was stolen", also see line 1119
 
 # game/chapter3.rpy:1142
 translate italiantl c3conty_08704206:
@@ -1512,7 +1512,7 @@ translate italiantl c3conty_8a48617d:
 translate italiantl c3conty_90fb8c67:
 
     # Em ques "In the wake of this new information and as a sign of goodwill, we will send the generators you are owed through the portal once this is over - under two conditions."
-    Em ques "Alla luce di queste nuove informazioni e in segno di buona fede, vi invieremo i generatori che vi spettano attraverso il portale una volta che sarà finita—sotto due condizioni." # corrected simple dash to em-dash
+    Em ques "Alla luce di queste nuove informazioni e in segno di buona fede, vi invieremo i generatori che vi spettano attraverso il portale una volta che sarà finita—sotto due condizioni." # corrected em-dash
 
 # game/chapter3.rpy:1478
 translate italiantl c3conty_3ffa58e1:
@@ -2088,7 +2088,7 @@ translate italiantl c3conty_add0f654:
 translate italiantl c3conty_bb3816a8:
 
     # Ad normal b "I was just practicing my flying when I spotted you down here, and who would say no to an opportunity to meet one of the humans? Not me."
-    Ad normal b "Stavo solo facendo pratica coi miei volteggi quando vi ho visti quaggiù, e chi direbbe di no a un'opportunità d'incontrare uno degli umani? Non certo io."
+    Ad normal b "Stavo solo facendo pratica coi miei volteggi quando vi ho visti quaggiù, e chi direbbe di no a un'opportunità di incontrare uno degli umani? Non certo io."
 
 # game/chapter3.rpy:1711
 translate italiantl c3conty_349fafb7:
@@ -3442,7 +3442,7 @@ translate italiantl c3sections_4bad9402:
 translate italiantl c3sections_bea823bf:
 
     # m "I had to think fast. The gunshots ensured Reza's involvement. He was at the portal. The question was: Why?"
-    m "Dovevo pensare in fretta. I colpi di pistola garantivano il coinvolgimento di [Rz]. Lui era al portale. La domanda era: perché?" # corrected uppercase letter
+    m "Dovevo pensare in fretta. I colpi di pistola garantivano il coinvolgimento di [Rz]. Lui era al portale. La domanda era: perché?" # corrected lowercase letter
 
 # game/chapter3.rpy:2441
 translate italiantl c3sections_dc1c5ba7:
@@ -3496,7 +3496,7 @@ translate italiantl c3sections_ff99562e:
 translate italiantl c3sections_82efe758:
 
     # m "Regardless, the words I held in my hands were unmistakable: {i}Don't go to the portal.{/i}"
-    m "Malgrado tutto, le parole che stringevo nelle mie mani erano inequivocabili. {i}Non andare al portale.{/i}" # corrected colon to dot to preserve the uppercase letter
+    m "Malgrado tutto, le parole che stringevo nelle mie mani erano inequivocabili. {i}Non andare al portale.{/i}" # preserved uppercase letter
 
 # game/chapter3.rpy:2459
 translate italiantl c3sections_19ce5166:
@@ -4786,7 +4786,7 @@ translate italiantl c3arc_06597fde:
 translate italiantl c3arc_6999f3b6:
 
     # Ka normal dk "Well, I must get going for now. Here is my number - I'll get you that ice cream some other time."
-    Ka normal dk "Be', per adesso devo andare. Ecco il mio numero—ti offrirò quel gelato una qualche altra volta." # corrected simple dash to em-dash
+    Ka normal dk "Be', per adesso devo andare. Ecco il mio numero—ti offrirò quel gelato una qualche altra volta." # corrected em-dash
 
 # game/chapter3.rpy:3368
 translate italiantl c3arc_dd20ffbf:
@@ -5378,7 +5378,7 @@ translate italiantl stay_7e485505:
 translate italiantl stay_19fb6a38:
 
     # St "Nothing. I was on my way home, and it was a little unusual, but I wouldn't have bothered to mention it under normal circumstances. I only did because of the police's request for witnesses."
-    St "Niente. Me ne tornavo a casa, ed era un tantino insolito, ma non mi sarei preso il disturbo di menzionarlo in circostanze normali. L'ho fatto solo per via dell'appello della polizia ai testimoni."
+    St "Niente. Ero sulla strada di casa, ed era un tantino insolito, ma non mi sarei preso il disturbo di menzionarlo in circostanze normali. L'ho fatto solo per via dell'appello della polizia ai testimoni."
 
 # game/chapter3.rpy:3969
 translate italiantl stay_c99cabc4:
@@ -5804,7 +5804,7 @@ translate italiantl _call_syscheck_26_86cc6bd5:
 translate italiantl _call_syscheck_26_d1a64cdc:
 
     # Sb "I know, and your help is greatly appreciated - believe me. Especially since we're so short on staff right now."
-    Sb "Lo so, e il tuo aiuto è molto apprezzato—credimi. Specie dal momento che siamo così a corto di personale." # corrected simple dash to em-dash
+    Sb "Lo so, e il tuo aiuto è molto apprezzato—credimi. Specie dal momento che siamo così a corto di personale." # corrected em-dash
 
 # game/chapter3.rpy:4340
 translate italiantl _call_syscheck_26_66336c18:
@@ -6104,7 +6104,7 @@ translate italiantl _call_popularcheck_2_e06dc126:
 translate italiantl _call_popularcheck_2_ca9231e1:
 
     # Br "Anyway, if you want to drop by at any time, my door's open, buddy."
-    Br "Ad ogni modo, se ti va di passare in qualsiasi momento—la mia porta è aperta, ragazzə." # see line 4226 of chapter 2, also corrected comma to em-dash to match such line
+    Br "Ad ogni modo, se ti va di passare in qualsiasi momento—la mia porta è aperta, ragazzə." # see line 4226 of chapter 2, also corrected em-dash to match that line
 
 # game/chapter3.rpy:4789
 translate italiantl _call_popularcheck_2_26eaf959:

@@ -268,7 +268,7 @@ translate italiantl _call_skipcheck_20_d9b087b7:
 translate italiantl _call_skipcheck_20_69768876:
 
     # Br stern b "There are no other casualties, but Reza got something else when he broke in: A generator, as well as a few eggs."
-    Br stern b "Non ci sono altre vittime, ma [Rz] ha preso qualcos'altro quando si è introdotto: un generatore, nonché alcune uova." # corrected uppercase letter
+    Br stern b "Non ci sono altre vittime, ma [Rz] ha preso qualcos'altro quando si è introdotto: un generatore, nonché alcune uova." # corrected lowercase letter
 
 # game/chapter4.rpy:764
 translate italiantl _call_skipcheck_20_e95b3a3f:
@@ -580,7 +580,7 @@ translate italiantl _call_skipcheck_20_feed6cdd:
 translate italiantl c4skip1_5f67361e:
 
     # Sb "If anything - with you there, we might be able to convince him to give up. Or we could act like we intend to trade you for the eggs if he tries to use them as a bargaining chip."
-    Sb "Semmai—con te là, potremmo essere in grado di convincerlo ad arrendersi. Oppure potremmo fingere di volerti barattare per le uova se tentasse di usarle come moneta di scambio." # corrected simple dash to em-dash
+    Sb "Semmai—con te là, potremmo essere in grado di convincerlo ad arrendersi. Oppure potremmo fingere di volerti barattare per le uova se tentasse di usarle come moneta di scambio." # corrected em-dash
 
 # game/chapter4.rpy:900
 translate italiantl c4skip1_5dd5c767:
@@ -652,7 +652,7 @@ translate italiantl c4skip1_12cd39ea:
 translate italiantl c4skip1_39ab42ae:
 
     # Br "And Maverick: Good job."
-    Br "E [Mv]: bel lavoro." # corrected uppercase letter
+    Br "E [Mv]: bel lavoro." # corrected lowercase letter
 
 # game/chapter4.rpy:924
 translate italiantl c4skip1_ce05f316:
@@ -2035,7 +2035,7 @@ translate italiantl brycefirst_40d0a46a:
 translate italiantl brycefirst_41ddf17b:
 
     # Sb disapproval b "I've already requested help from one of the cities. I hope they'll send some good investigators our way as soon as possible."
-    Sb disapproval b "Ho già richiesto aiuto da una delle metropoli. Spero che manderanno da noi qualche buon investigatore il prima possibile."
+    Sb disapproval b "Ho già richiesto aiuto da una delle metropoli. Spero che manderanno da noi qualche buon investigatore il prima possibile." # see line 1860
 
 # game/chapter4.rpy:1984
 translate italiantl brycefirst_43d253e6:
@@ -3055,7 +3055,7 @@ translate italiantl loremnotmissing_c21407a9:
 translate italiantl loremnotmissing_45b5fb0a:
 
     # Ip "I don't know what happened to him. He didn't go on vacation, nor did he suddenly decide to visit the next town. I'd know if he did – he would have told me."
-    Ip "Non so cosa gli sia successo. Non è andato in vacanza, né ha deciso all'improvviso di visitare la città più vicina. Lo saprei se così fosse—me ne avrebbe parlato." # corrected simple dash to em-dash
+    Ip "Non so cosa gli sia successo. Non è andato in vacanza, né ha deciso all'improvviso di visitare la città più vicina. Lo saprei se così fosse—me ne avrebbe parlato." # corrected em-dash
 
 # game/chapter4.rpy:2718
 translate italiantl loremnotmissing_0e144e97:
@@ -3223,7 +3223,7 @@ translate italiantl c4library_07d1113d:
 translate italiantl c4library_55a08bac:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Ehi, è il vostro palmare. Te l'avevo detto che avrebbe trovato il modo di arrivare da me alla fine." # "[one of] your PDA[s]", "one would find" -> "it would find"
+    Ry smile "Ehi, è il vostro palmare. Te lo dicevo che avrebbe trovato il modo di arrivare da me alla fine." # "[one of] your PDA[s]", "one would find" -> "it would find"
 
 # game/chapter4.rpy:2838
 translate italiantl c4library_e1a48044:
@@ -3283,7 +3283,7 @@ translate italiantl c4library_07d1113d_1:
 translate italiantl c4library_55a08bac_1:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Ehi, è il vostro palmare. Te l'avevo detto che avrebbe trovato il modo di arrivare da me alla fine." # see line 2836
+    Ry smile "Ehi, è il vostro palmare. Te lo dicevo che avrebbe trovato il modo di arrivare da me alla fine." # see line 2836
 
 # game/chapter4.rpy:2875
 translate italiantl c4library_e1a48044_1:
@@ -3343,7 +3343,7 @@ translate italiantl c4library_07d1113d_2:
 translate italiantl c4library_55a08bac_2:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Ehi, è il vostro palmare. Te l'avevo detto che avrebbe trovato il modo di arrivare da me alla fine." # see line 2836
+    Ry smile "Ehi, è il vostro palmare. Te lo dicevo che avrebbe trovato il modo di arrivare da me alla fine." # see line 2836
 
 # game/chapter4.rpy:2911
 translate italiantl c4library_e1a48044_2:
@@ -4285,7 +4285,7 @@ translate italiantl _call_syscheck_81_e2b6e4af:
 translate italiantl _call_syscheck_81_3e5277ba:
 
     # Ry normal flip "Yeah, Adine and I had a good, long talk - and now here we are."
-    Ry normal flip "Già, [Ad] e io abbiamo avuto una lunga conversazione—e ora eccoci qui." # corrected simple dash to em-dash, also "a [good,] long talk"
+    Ry normal flip "Già, [Ad] e io abbiamo avuto una lunga conversazione—e ora eccoci qui." # corrected em-dash, also "a [good,] long talk"
 
 # game/chapter4.rpy:3562
 translate italiantl _call_syscheck_81_f4e45657:
@@ -5179,7 +5179,7 @@ translate italiantl _call_skipcheck_21_c44eed8f:
 translate italiantl _call_skipcheck_21_63d5ab9a:
 
     # n "But I couldn't find them. Not a single one. Even after checking the portal for its function, I determined that - for all intents and purposes - the portals from the company should have been there to connect with."
-    n "Ma non potei trovarne. Non uno solo. Persino dopo aver verificato il funzionamento del portale, determinai che—a tutti i fini pratici—i portali della compagnia avrebbero dovuto trovarsi là per connettervisi." # corrected simple dash to em-dash, also "couldn't find them" -> "couldn't find any"
+    n "Ma non potei trovarne. Non uno solo. Persino dopo aver verificato il funzionamento del portale, determinai che—a tutti i fini pratici—i portali della compagnia avrebbero dovuto trovarsi là per connettervisi." # corrected em-dash, also "couldn't find them" -> "couldn't find any"
 
 # game/chapter4.rpy:4372
 translate italiantl _call_skipcheck_21_76b2fe88_7:
@@ -5191,7 +5191,7 @@ translate italiantl _call_skipcheck_21_76b2fe88_7:
 translate italiantl _call_skipcheck_21_90482d26:
 
     # n "It was then that I had a terrible realization: The portals in the present didn't exist anymore, or were no longer operational."
-    n "Fu allora che giunsi a una terribile conclusione. I portali nel presente non esistevano più, o non erano più operativi." # corrected colon to dot to preserve the uppercase letter
+    n "Fu allora che giunsi a una terribile conclusione. I portali nel presente non esistevano più, o non erano più operativi." # preserved uppercase letter
 
 # game/chapter4.rpy:4378
 translate italiantl _call_skipcheck_21_1d549a46:
@@ -5209,7 +5209,7 @@ translate italiantl _call_skipcheck_21_ee95b45c:
 translate italiantl _call_skipcheck_21_ad245946:
 
     # n "In my mind, only one possibility remained: Superweapons. Various nations had been using them as bargaining chips for some time. I didn't think the threats had become that serious, but one of them must have launched their weapon and destroyed the majority of Earth."
-    n "Nella mia mente, rimaneva una sola eventualità. Super-armi. Diverse nazioni le usavano ormai già da qualche tempo come moneta di scambio. Non credevo che le minacce fossero divenute tanto gravi, ma una di esse doveva aver lanciato le proprie armi e distrutto la maggior parte della Terra." # corrected colon to dot to preserve the uppercase letter, also "their weaponS"
+    n "Nella mia mente, rimaneva una sola eventualità. Super-armi. Diverse nazioni le usavano ormai già da qualche tempo come moneta di scambio. Non credevo che le minacce fossero divenute tanto gravi, ma una di esse doveva aver lanciato le proprie armi e distrutto la maggior parte della Terra." # preserved uppercase letter, also "their weaponS"
 
 # game/chapter4.rpy:4385
 translate italiantl _call_skipcheck_21_76b2fe88_8:
@@ -5287,7 +5287,7 @@ translate italiantl _call_skipcheck_21_76b2fe88_10:
 translate italiantl _call_skipcheck_21_a06d7c03:
 
     # n "In the end, I still used the lab for what it had been created for: Fusing human and animal DNA to create beings that were mostly animal, but possessed a greater intelligence that allowed them to learn whatever we wanted them to."
-    n "Alla fine, usai comunque il laboratorio per quello che era stato creato: fondere DNA umano e animale a creare degli esseri ch'erano perlopiù animali, ma possedevano un'intelligenza superiore che gli avrebbe permesso di apprendere qualsiasi cosa noi volessimo." # "allowed" -> "would allow", "whatever we wanted [them to]"
+    n "Alla fine, usai comunque il laboratorio per quello che era stato concepito: fondere DNA umano e animale a creare degli esseri ch'erano per lo più animali, ma possedevano un'intelligenza superiore che gli avrebbe permesso di apprendere qualsiasi cosa noi volessimo." # "allowed" -> "would allow", "whatever we wanted [them to]"
 
 # game/chapter4.rpy:4416
 translate italiantl _call_skipcheck_21_3a134373:
@@ -5299,7 +5299,7 @@ translate italiantl _call_skipcheck_21_3a134373:
 translate italiantl _call_skipcheck_21_dbdf94ed:
 
     # n "Automated processes mixed the DNA further across the samples. New abilities were added like enhanced armor, flight, and spit weapons to make the new creatures more effective in combat."
-    n "I processi automatizzati incrociarono ulteriormente il DNA dei campioni. Furono aggiunte nuove abilità quali una corazza aumentata, il volo, e armi a sputo che rendessero le nuove creature più efficaci in combattimento."
+    n "I processi automatizzati incrociarono ulteriormente il DNA dei campioni. Furono aggiunte abilità nuove quali una corazza aumentata, il volo, e armi da sputo a rendere le nuove creature più efficaci in combattimento."
 
 # game/chapter4.rpy:4420
 translate italiantl _call_skipcheck_21_02f15d54:
@@ -5341,13 +5341,13 @@ translate italiantl _call_skipcheck_21_9d67bbfc:
 translate italiantl _call_skipcheck_21_f72aecfc:
 
     # n "I unleashed the first generation of my creation, and as their leader, founded our first village."
-    n "Rilasciai la prima generazione della mia creazione, e quale loro guida, fondai il nostro primo villaggio."
+    n "Rilasciai la prima generazione della mia creazione, e in qualità di loro capo, fondai il nostro primo villaggio."
 
 # game/chapter4.rpy:4436
 translate italiantl _call_skipcheck_21_50e37dd2:
 
     # n "I thought we could really pull it off. And once I saw that they could survive without my guidance - and also govern themselves - I knew my plan was a success."
-    n "Credetti che avremmo potuto farcela davvero. E una volta ch'ebbi visto che potevano sopravvivere—e persino governarsi—senza la mia guida, seppi che il mio piano era stato un successo." # corrected simple dash to em-dash
+    n "Credetti che potevamo davvero farcela. E una volta ch'ebbi visto che potevano sopravvivere—e persino governarsi—senza la mia guida, seppi che il mio piano era stato un successo." # corrected em-dash
 
 # game/chapter4.rpy:4442
 translate italiantl _call_skipcheck_21_76b2fe88_12:
@@ -5413,7 +5413,7 @@ translate italiantl _call_skipcheck_21_7d517c52:
 translate italiantl _call_skipcheck_21_16f012c9:
 
     # As "It will be the end of everyone who lives here, every single dragon you have seen - unless we do something."
-    As "Sarà la fine di tutti coloro che vivono qui, di ogni singolo drago che tu abbia visto—a meno che noi non facciamo qualcosa." # corrected simple dash to em-dash
+    As "Sarà la fine di tutti coloro che vivono qui, di ogni singolo drago che tu abbia visto—a meno che noi non facciamo qualcosa." # corrected em-dash
 
 # game/chapter4.rpy:4474
 translate italiantl _call_skipcheck_21_d68ebd0d:
@@ -5431,7 +5431,7 @@ translate italiantl _call_skipcheck_21_27a4408e:
 translate italiantl _call_skipcheck_21_74b9d5b2:
 
     # c "I came here to help humanity. Now you tell me that this society - this whole world - is also on the brink of extinction?"
-    c "Ero venutə qui per aiutare l'umanità. Ora mi dici che questa società—quest'intero mondo è anch'esso sull'orlo dell'estinzione?" # corrected simple dash to em-dash
+    c "Ero venutə qui per aiutare l'umanità. Ora mi dici che questa società—quest'intero mondo è anch'esso sull'orlo dell'estinzione?" # corrected em-dash
 
 # game/chapter4.rpy:4480
 translate italiantl _call_skipcheck_21_1c7d26e3:
@@ -5533,7 +5533,7 @@ translate italiantl _call_skipcheck_21_749bf135:
 translate italiantl _call_skipcheck_21_810db1fd:
 
     # c "How many generations could it take to forget? Why isn't there proof of your existence?"
-    c "Quante generazioni possono volerci per dimenticare? Perché non esiste prova della tua esistenza?" # "could" -> "can"
+    c "Quante generazioni possono volerci per dimenticare? Perché non esiste prova della tua esistenza?" # "could it take" -> "can it take"
 
 # game/chapter4.rpy:4514
 translate italiantl _call_skipcheck_21_23c33e1c:
@@ -5708,7 +5708,7 @@ translate italiantl _call_skipcheck_21_17611d67:
 translate italiantl _call_skipcheck_21_c025c2be:
 
     # As "If they were not synchronized, the portals on both sides would stay connected not only to a single point in space, but also to a single point in time, thus making proper two-way communication impossible."
-    As "Se non fossero stati sincronizzati, i portali sarebbero rimasti vincolati da entrambi i lati non solo a un singolo punto nello spazio, ma anche a un singolo punto nel tempo, rendendo così impossibile una vera e propria comunicazione a due vie." # "connected" -> "locked" to match line 4556, also see such line
+    As "Se non fossero stati sincronizzati, i portali sarebbero rimasti vincolati da entrambi i lati non solo a un singolo punto nello spazio, ma anche a un singolo punto nel tempo, rendendo così impossibile una vera e propria comunicazione a due vie." # "connected" -> "locked" to match line 4556, also see that line
 
 # game/chapter4.rpy:4572
 translate italiantl _call_skipcheck_21_f2eae827:
@@ -5774,7 +5774,7 @@ translate italiantl _call_skipcheck_21_83d06e49:
 translate italiantl _call_skipcheck_21_1eada674:
 
     # As "It was designed to provide sustainable power completely independently from any already existing network or power lines. It gains energy from many sources - sun rays, earth's heat and movement, just to name a few."
-    As "Era stato progettato per fornire energia sostenibile in modo del tutto indipendente da qualsiasi rete o linea elettrica preesistente. Esso ricava energia da molte sorgenti—i raggi solari, il calore e il movimento della Terra, solo per citarne alcune." # slightly pruned to fit three lines, corrected simple dash to em-dash, also "already existing" -> "preexisting"
+    As "Era stato progettato per fornire energia sostenibile in modo del tutto indipendente da qualsiasi rete o linea elettrica preesistente. Esso ricava energia da molte sorgenti—i raggi solari, il calore e il movimento della Terra, solo per citarne alcune." # slightly pruned to fit three lines, corrected em-dash, also "already existing" -> "preexisting"
 
 # game/chapter4.rpy:4594
 translate italiantl _call_skipcheck_21_abe0cbc6:
@@ -5882,7 +5882,7 @@ translate italiantl _call_skipcheck_21_39d5254d:
 translate italiantl _call_skipcheck_21_968d3ef8:
 
     # As "Their genome as a whole did change, however - which was unavoidable over time. If they had been used as bioweapons as intended, they would have been nothing more than an army of identical clones."
-    As "Il loro genoma nel suo complesso è cambiato, comunque—il che era inevitabile col tempo. Se fossero stati usati come armi biologiche come previsto, sarebbero stati niente più che un'armata di cloni identici." # corrected simple dash to em-dash
+    As "Il loro genoma nel suo complesso è cambiato, comunque—il che era inevitabile col tempo. Se fossero stati usati come armi biologiche come previsto, sarebbero stati niente più che un'armata di cloni identici." # corrected em-dash
 
 # game/chapter4.rpy:4630
 translate italiantl _call_skipcheck_21_f1e332b1:
@@ -6152,7 +6152,7 @@ translate italiantl _call_popularcheck_17_839d7d38:
 translate italiantl _call_popularcheck_17_6c268da3:
 
     # Br "I'm sure we could think of something fun."
-    Br "Sono certo che possiamo pensare a qualcosa di piacevole." # "could" -> "can", also "fun" as in "pleasurable"
+    Br "Sono certo che possiamo pensare a qualcosa di piacevole." # "could think" -> "can think", also "fun" as in "pleasurable"
 
 # game/chapter4.rpy:5127
 translate italiantl _call_popularcheck_17_a7add8b1:
@@ -6242,7 +6242,7 @@ translate italiantl _call_popularcheck_20_b5186df5:
 translate italiantl _call_popularcheck_20_cab02692:
 
     # Ad "It's going to happen pretty soon, you know. I trained so much for this, you wouldn't believe. Probably harder than I ever trained in my entire life."
-    Ad "Succederà molto presto, sai. Mi sono allenata così tanto per questo, non ci crederesti. Probabilmente più duramente di quanto abbia mai fatto in tutta la mia vita." # "I ever trained" -> "I ever did"
+    Ad "Succederà molto presto, sai. Mi sono allenata così tanto per questo, non ci crederesti. Probabilmente più duramente di quanto mi sia allenata in tutta la mia vita."
 
 # game/chapter4.rpy:5233
 translate italiantl _call_popularcheck_20_55e181fa:
@@ -6458,7 +6458,7 @@ translate italiantl _call_popularcheck_29_efcb2250:
 translate italiantl _call_popularcheck_29_49983c63:
 
     # Lo "Right, we're going treasure hunting!"
-    Lo "Andiamo a caccia di tesori!" # "[right,] we're going treasure hunting" to match line 4995 of chapter 3, also see such line
+    Lo "Andiamo a caccia di tesori!" # "[right,] we're going treasure hunting" to match line 4995 of chapter 3, also see that line
 
 # game/chapter4.rpy:5508
 translate italiantl _call_popularcheck_29_e1b1955b:
@@ -6604,7 +6604,7 @@ translate italiantl strings:
 
     # chapter4.rpy:3337
     old "I don't want to meet you again."
-    new "Non mi va più d'incontrarti."
+    new "Non mi va più di incontrarti."
 
     # chapter4.rpy:5924
     old "Meet with Kevin."
