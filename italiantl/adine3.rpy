@@ -280,7 +280,7 @@ translate italiantl _call_skipcheck_9_e2c4b981:
 translate italiantl _call_skipcheck_9_9d27fd83:
 
     # c "To be fair, you are completely covered in scales, so I imagine you wouldn't be affected."
-    c "A onor del vero, sei completamente ricoperta di squame, quindi immagino che non ti farebbe alcun effetto."
+    c "A onor del vero, sei completamente ricoperta di squame, quindi immagino che su di te non avrebbe alcun effetto."
 
 # game/adine3.rpy:228
 translate italiantl _call_skipcheck_9_77d08852:
@@ -928,7 +928,7 @@ translate italiantl _call_skipcheck_9_cadca0e2:
 translate italiantl _call_skipcheck_9_cfbf70ee:
 
     # c "Well, during your competition, nothing lasting is created from the performance itself. It's all about the experience and memories. You have to prove that you are skilled enough to do those stunts right at that very moment just for the competition."
-    c "Be', durante la tua competizione, non si crea nulla di durevole dall'esibizione in sé. Sta tutto nell'esperienza e nei ricordi. Devi dimostrare di essere tanto abile da eseguire quelle acrobazie proprio in quell'istante preciso solo per la competizione."
+    c "Be', durante la tua competizione, non si crea nulla di durevole dall'esibizione in sé. Sta tutto nell'esperienza e nei ricordi. Devi dimostrare di essere tanto abile da fare quelle acrobazie proprio in quell'istante preciso solo per la competizione."
 
 # game/adine3.rpy:538
 translate italiantl _call_skipcheck_9_ae760841:
@@ -1678,7 +1678,7 @@ translate italiantl mpsave_34c4cbef:
 translate italiantl mpsave_1c5aca89:
 
     # c "I certainly hope so."
-    c "Lo spero proprio."
+    c "Lo spero vivamente."
 
 # game/adine3.rpy:988
 translate italiantl mpsave_7ddc622d:
@@ -1702,7 +1702,7 @@ translate italiantl mpsave_0da14851:
 translate italiantl mpsave_6f2269c3:
 
     # m "Effortlessly, she took to the skies, circling around the area a few times before she started to do a few maneuvers."
-    m "Disinvoltamente, si levò nei cieli, girando nei paraggi alcune volte prima d'iniziare a eseguire alcune manovre."
+    m "Disinvoltamente, si levò nei cieli, girando nei paraggi alcune volte prima di iniziare a fare alcune manovre."
 
 # game/adine3.rpy:1007
 translate italiantl mpsave_3bd96cc8:
@@ -1774,7 +1774,7 @@ translate italiantl mpsave_af04e63a:
 translate italiantl mpsave_18cf8b0b:
 
     # Ad "At the show, I'll use a smoke trail when doing the circles, so everyone can actually see me going through the circles I made."
-    Ad "Allo spettacolo, userò una scia di fumo nell'eseguire i cerchi, così tutti potranno davvero vedermi attraversare i cerchi che ho fatto."
+    Ad "Allo spettacolo, nel fare i cerchi userò una scia di fumo, così tutti potranno davvero vedermi attraversare i cerchi che ho fatto."
 
 # game/adine3.rpy:1033
 translate italiantl mpsave_bd10e4b5:
@@ -1786,7 +1786,7 @@ translate italiantl mpsave_bd10e4b5:
 translate italiantl mpsave_f81623d3:
 
     # Ad "That's not all of it. While nosediving, I'll do a few rolls, and just before I hit the ground, I'll pull up again. Lastly, I'll end with a few loops and go to the next maneuver. It all ends up making a neat shape in the sky with the smoke trails."
-    Ad "Non è tutto. Mentre in picchiata, eseguirò alcune rollate, e appena prima di toccare terra, mi alzerò di nuovo. Per ultimo, concluderò con alcune gran volte e andrò alla manovra successiva."
+    Ad "Non è tutto. Nell'andare in picchiata, farò alcune rollate, e appena prima di toccare terra, mi alzerò di nuovo. Per ultimo, concluderò con alcune gran volte e andrò alla manovra successiva."
     Ad "Il tutto finisce per creare una splendida forma nel cielo con le scie di fumo." # split to fit three lines
 
 # game/adine3.rpy:1037
@@ -1823,7 +1823,7 @@ translate italiantl mpsave_9e0fbb32:
 translate italiantl mpsave_fe4a4f27:
 
     # m "Then, she started making her circles, slowly ascending as the circles gradually got smaller and smaller."
-    m "Poi, iniziò a eseguire i suoi cerchi, risalendo lenta mentre i cerchi diventavano gradualmente più e più piccoli."
+    m "Poi, iniziò a fare i suoi cerchi, risalendo lenta mentre i cerchi diventavano gradualmente più e più piccoli."
 
 # game/adine3.rpy:1051
 translate italiantl mpsave_cfead817:
@@ -2393,7 +2393,7 @@ translate italiantl adine3skip_bc9f37b6:
 translate italiantl adine3skip_0fb5135d:
 
     # Ad "Alright. It'll be a while until I get a chance to visit, anyway. All my free time right now will go towards practicing for the competition."
-    Ad "D'accordo. Ci vorrà un po' prima che io abbia occasione di fare visita, comunque. Tutto il mio tempo libero in questo momento sarà volto ad allenarmi per la competizione."
+    Ad "D'accordo. Ci vorrà un po' prima che abbia occasione di fare visita, comunque. Tutto il mio tempo libero in questo momento sarà volto ad allenarmi per la competizione."
 
 # game/adine3.rpy:1286
 translate italiantl adine3skip_89aefe22_2:
@@ -2405,7 +2405,7 @@ translate italiantl adine3skip_89aefe22_2:
 translate italiantl adine3skip_1c5d2593:
 
     # Ad "Well, thanks for the help with the bandage. And sorry about cutting practice short today. I guess you didn't get to see any proper aerobatics after all."
-    Ad "Be', grazie per l'aiuto col bendaggio. E scusa se ho interrotto l'allenamento di oggi. Immagino tu non abbia potuto vedere nessuna aerobazia vera e propria dopotutto."
+    Ad "Be', grazie per l'aiuto con la fasciatura. E scusa se ho interrotto l'allenamento di oggi. Immagino tu non abbia potuto vedere nessuna aerobazia vera e propria dopotutto."
 
 # game/adine3.rpy:1308
 translate italiantl adine3skip_a0354fb0:

@@ -274,7 +274,7 @@ translate italiantl _call_skipcheck_10_629d7ddb:
 translate italiantl _call_skipcheck_10_45ce6c6a:
 
     # c "Let me ask you this: Where do you think the portal you found came from? Who built it?"
-    c "Lascia che ti chieda: da dove credi provenga il portale che avete trovato? Chi l'ha costruito?" # corrected uppercase letter, also "let me ask you [this]"
+    c "Lascia che ti chieda: da dove credi provenga il portale che avete trovato? Chi l'ha costruito?" # corrected lowercase letter, also "let me ask you [this]"
 
 # game/adine1.rpy:288
 translate italiantl _call_skipcheck_10_ef636fcf:
@@ -496,7 +496,7 @@ translate italiantl _call_skipcheck_10_a846bbc7:
 translate italiantl _call_skipcheck_10_abbb67c9:
 
     # Ad "It's the practice of doing flying maneuvers like rolls, spins or loops."
-    Ad "È la pratica di eseguire manovre di volo come rollate, avvitamenti o gran volte."
+    Ad "È la pratica di fare manovre di volo come rollate, avvitamenti o gran volte."
 
 # game/adine1.rpy:392
 translate italiantl _call_skipcheck_10_3a20ab9d:
@@ -640,7 +640,7 @@ translate italiantl _call_skipcheck_10_d7e7b442:
 translate italiantl _call_skipcheck_10_9fd77ad2:
 
     # Ad "To be honest, I don't know if it's such a good idea to generalize like that - even if it's good things you're saying about us. We're all different, you know, and not all of us are nice."
-    Ad "Ad essere onesti, non so se generalizzare a quel modo sia una così buona idea—anche se quelle che hai detto di noi sono belle cose. Siamo tutti diversi, sai, e non tutti noi siamo perbene." # corrected simple dash to em-dash
+    Ad "Ad essere onesti, non so se generalizzare a quel modo sia una così buona idea—anche se quelle che hai detto di noi sono belle cose. Siamo tutti diversi, sai, e non tutti noi siamo perbene." # corrected em-dash
 
 # game/adine1.rpy:470
 translate italiantl _call_skipcheck_10_89aefe22:
@@ -748,7 +748,7 @@ translate italiantl _call_skipcheck_10_5479d226:
 translate italiantl _call_skipcheck_10_ef4c12fa:
 
     # Ad "By the way, interesting selection of books you have there. \"Draconic Desire\", \"Ixomen Sphere\" - are these yours?"
-    Ad "Ad ogni modo, interessante selezione di libri che hai lì. \"Desiderio Draconico\", \"La Sfera di Ixomen\"—sono tuoi?" # corrected simple dash to em-dash
+    Ad "Ad ogni modo, interessante selezione di libri che hai lì. \"Desiderio Draconico\", \"La Sfera di Ixomen\"—sono tuoi?" # corrected em-dash
 
 # game/adine1.rpy:521
 translate italiantl _call_skipcheck_10_304794b1:
@@ -1036,7 +1036,7 @@ translate italiantl nextsc_20ec6614:
 translate italiantl nextsc_bf87ec10:
 
     # Ad "I don't even know what kind of dare I would make you do."
-    Ad "Non so nemmeno che tipo di obbligo dovrei farti fare." # "would" -> "should"
+    Ad "Non so nemmeno che tipo di obbligo dovrei farti fare." # "would make" -> "should make"
 
 # game/adine1.rpy:730
 translate italiantl nextsc_4453a933:
@@ -1186,7 +1186,7 @@ translate italiantl nextsc_818b4ba1:
 translate italiantl nextsc_1b02c93b:
 
     # Ad "Since it is my turn now: What is your greatest wish?"
-    Ad "Dato che ora è il mio turno: qual è il tuo desiderio più grande?" # corrected uppercase letter
+    Ad "Dato che ora è il mio turno: qual è il tuo desiderio più grande?" # corrected lowercase letter
 
 # game/adine1.rpy:790
 translate italiantl nextsc_c00b79d5:
@@ -1396,7 +1396,7 @@ translate italiantl nextsc_e3afd84b:
 translate italiantl nextsc_d022c5bd:
 
     # Ad "Of course I'd love to visit - maybe as some sort of vacation. But if you're talking about permanently, I'm not sure if I could just pack up and leave everything behind just like that."
-    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se intendi in modo permanente, non sono sicura che potrei semplicemente prendere e lasciarmi tutto quanto alle spalle a quel modo." # corrected simple dash to em-dash
+    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se intendi in modo permanente, non sono sicura che potrei semplicemente prendere e lasciarmi tutto quanto alle spalle a quel modo." # corrected em-dash
 
 # game/adine1.rpy:932
 translate italiantl nextsc_b8fb304d:

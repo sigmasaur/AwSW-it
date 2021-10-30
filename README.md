@@ -23,6 +23,7 @@ Currently working on `Adine`'s sections. Files done and up for review:
     adine1.rpy
     adine2.rpy
     adine3.rpy
+    adine4.rpy
 
 A few remarks:
 
@@ -66,10 +67,10 @@ The following are mostly to the benefit of the developer and translators.
 * At line 385, 408: *to skip seen messages* → *to skip messages*, as it depends on the user's preference.
 * At line 431: Corrected simple past tense *were under consideration* to past perfect, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
-* At line 436, 2837: Corrected colon to dot to preserve the uppercase letter.
+* At line 436, 2837: Corrected colon to full stop to preserve the uppercase letter.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1084, 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
-* At line 1358: Corrected number of dots from two to three.
+* At line 1358: Corrected two-dots ellipsis to three-dots.
 * At line 1751: Used if-statement to further distinguish between food types by linguistic necessity.
 * At line 1861: *or even* → *such as*, as bacteria are unicellular.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
@@ -98,7 +99,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
   * At line 2423: A playful exclamation of surprise.
   * At line 3824: This one just had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
-* At line 3510, 3680: Corrected colon to dot to preserve the uppercase letter.
+* At line 3510, 3680: Corrected colon to full stop to preserve the uppercase letter.
 
 ### chapter3.rpy
 
@@ -111,7 +112,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1383: *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
 * At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
-* At line 2457: Corrected colon to dot to preserve the uppercase letter.
+* At line 2457: Corrected colon to full stop to preserve the uppercase letter.
 * At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of `chapter1.rpy`.
 * At line 3098: Slightly pruned to fit fewer lines.
 * At line 3639: *pockets* → *pocket*, to match line 2312.
@@ -135,7 +136,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4345, 4353: *65* → *sixty-five*, for elegance.
 * At line 4365: About *aligning \[the portals\] across the time axis*, note that `Izumi` would still have had to bypass the anti-time travel safeguards for her to be able to return, assuming the portals in the present were still operational.
 * At line 4367: *that meant that* → *moreover*, as there's no real logical implication between line 4365 and this line.
-* At line 4375, 4382: Corrected colon to dot to preserve the uppercase letter.
+* At line 4375, 4382: Corrected colon to full stop to preserve the uppercase letter.
 * At line 4432, 4614: *AI* → *artificial intelligence*, for elegance.
 * At line 4462: *10km* → *ten kilometers*, for elegance.
 * At line 4468, *75%* → *seventy-five percent*, for elegance.
@@ -153,7 +154,7 @@ The following are mostly to the benefit of the developer and translators.
 ### chapter5evilending.rpy
 
 * At line 11, 19, 33, 71, 473, 545: Corrected simple dash to em-dash.
-* At line 25: Corrected colon to dot to preserve the uppercase letter.
+* At line 25: Corrected colon to full stop to preserve the uppercase letter.
 * At line 347, 371: *generators* → *generator*, to match lines 4520, 4590 of `chapter4.rpy`.
   * Note that *the building still having electricity* despite `Reza` having gotten its generator, which was supposed to be *also powering the portal*, is explained by `Reza` himself at line 449, revealing the presence of a backup. At the same line, however, `Reza` claims he *could even get the backup generator as well*, suggesting that the portal is really powered by other means. Whether this is truly the case is never addressed.
 * At line 517, 845: Corrected uppercase letter to lowercase.
@@ -173,7 +174,7 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 53-55: See lines 61-67 of `adine1.rpy`.
 * At line 215: Rendered *children* as *cubs*.
-* At line 346: Corrected extra space.
+* At line 346: Removed extra space.
 * At line 569, 617, 668, 753: Corrected uppercase letter to lowercase.
 * At line 1053: Slightly pruned to fit fewer lines.
 
@@ -186,3 +187,11 @@ The following are mostly to the benefit of the developer and translators.
 * At line 883: Enclosed *hawk* in italics tags.
 * At line 1035: Split in multiple parts to fit fewer lines.
 * At line 1278, 1282: *pockets* → *pocket*, to match line 2312 of `chapter3.rpy`.
+
+### adine4.rpy
+
+* At line 289: Corrected two-dots ellipsis to three-dots.
+* At line 627, 665: *TV* → *television*, for elegance.
+* At line 651: Corrected simple dash to em-dash.
+* At line 863: Rendered *child*(*ren*) as *cub*(*s*).
+* At line 907: *inches* → *centimeters*; see line 2144 of `chapter4.rpy`.

@@ -400,7 +400,7 @@ translate italiantl _call_skipcheck_23_b86d6667:
 translate italiantl _call_skipcheck_23_72a69e39:
 
     # Ad "It's nothing too dramatic. I read this magazine the other day and found a few interesting articles ."
-    Ad "Non è niente di così drammatico. Leggevo questa rivista l'altro giorno e ho trovato alcuni articoli interessanti." # corrected extra space
+    Ad "Non è niente di così drammatico. Leggevo questa rivista l'altro giorno e ho trovato alcuni articoli interessanti." # removed extra space
 
 # game/adine2.rpy:348
 translate italiantl _call_skipcheck_23_1d8e34de:
@@ -658,7 +658,7 @@ translate italiantl _call_skipcheck_23_6c53fdda:
 translate italiantl _call_skipcheck_23_b4acc597:
 
     # Ad giggle b "See, I told you this was going to be fun."
-    Ad giggle b "Vedi, te l'avevo detto che sarebbe stato divertente."
+    Ad giggle b "Vedi, te lo dicevo che sarebbe stato divertente."
 
 # game/adine2.rpy:536
 translate italiantl _call_skipcheck_23_7210ca4f:
@@ -700,7 +700,7 @@ translate italiantl _call_skipcheck_23_9d5db008:
 translate italiantl _call_skipcheck_23_a688d1d5:
 
     # Ad normal b "Okay, first question: In a relationship, what role do you take?"
-    Ad normal b "Okay, prima domanda: in una relazione, quale ruolo assumi?" # corrected uppercase letter
+    Ad normal b "Okay, prima domanda: in una relazione, quale ruolo assumi?" # corrected lowercase letter
 
 # game/adine2.rpy:577
 translate italiantl _call_skipcheck_23_37243f64:
@@ -748,7 +748,7 @@ translate italiantl _call_skipcheck_23_86148265:
 translate italiantl _call_skipcheck_23_c7f796d3:
 
     # Ad "Question number two: What is your favorite dessert?"
-    Ad "Domanda numero due: qual è il tuo dolce preferito?" # corrected uppercase letter
+    Ad "Domanda numero due: qual è il tuo dolce preferito?" # corrected lowercase letter
 
 # game/adine2.rpy:627
 translate italiantl adine2menb_508cb881:
@@ -766,7 +766,7 @@ translate italiantl adine2menb_0cc0ac49:
 translate italiantl adine2menb_eec2b1c8:
 
     # Ad "I'm always worried I'll mess up soufflés; they're just so fragile. I'd certainly try one if I had the opportunity, though!"
-    Ad "Ho sempre il timore di rovinare i soufflé; sono talmente fragili. Di certo ne proverei uno se ne avessi l'opportunità, però!"
+    Ad "Ho sempre il timore di rovinare i soufflé; sono talmente fragili. Di certo ne proverei uno se ne avessi l'occasione, però!"
 
 # game/adine2.rpy:647
 translate italiantl adine2menb_a8a5d6a3:
@@ -784,7 +784,7 @@ translate italiantl adine2menb_b1e68e2d:
 translate italiantl adine2menb_ea6c0095:
 
     # Ad "Here's the next question: What is your dream job?"
-    Ad "Ecco la domanda successiva: qual è il lavoro dei tuoi sogni?" # corrected uppercase letter
+    Ad "Ecco la domanda successiva: qual è il lavoro dei tuoi sogni?" # corrected lowercase letter
 
 # game/adine2.rpy:676
 translate italiantl adine2menb_02eaf6a9:
@@ -880,7 +880,7 @@ translate italiantl adine2menb_bf587384:
 translate italiantl adine2menb_efe42388:
 
     # Ad giggle b "But now we get to the best part: The fortune cards!"
-    Ad giggle b "Ma adesso veniamo alla parte migliore: le carte della fortuna!" # corrected uppercase letter
+    Ad giggle b "Ma adesso veniamo alla parte migliore: le carte della fortuna!" # corrected lowercase letter
 
 # game/adine2.rpy:761
 translate italiantl adine2menb_bbcd79f2:
@@ -1174,7 +1174,7 @@ translate italiantl adine2menb_02b35a09:
 translate italiantl adine2menb_f173471c:
 
     # Ad "Crossroads are ahead of you. Be wary of your decisions, for the consequences may be dire. Careful actions may have rewarding results, but carelessness could have consequences reaching further than you might think."
-    Ad "Un bivio si trova davanti a te. Bada alle tue decisioni, poiché gravi possono essere le conseguenze. Azioni attente possono avere risultati gratificanti, ma l'inattenzione può avere conseguenze di portata maggiore di quanto potresti credere." # "could" -> "may"
+    Ad "Un bivio si trova davanti a te. Bada alle tue decisioni, poiché gravi possono essere le conseguenze. Azioni attente possono avere risultati gratificanti, ma l'inattenzione può avere conseguenze di portata maggiore di quanto potresti credere." # "could have" -> "may have"
 
 # game/adine2.rpy:926
 translate italiantl adine2menb_78cdb8e2:
@@ -1198,7 +1198,7 @@ translate italiantl adine2menb_414990f6:
 translate italiantl adine2menb_bda1ddb5:
 
     # Ad "Well, we make decisions every single day of our lives. I think it's just telling you to be careful."
-    Ad "Be', noi prendiamo decisioni ogni singolo giorno delle nostre vite. Penso che ti stia solo dicendo di fare attenzione."
+    Ad "Be', noi prendiamo decisioni ogni singolo giorno delle nostre vite. Penso ti stia solo dicendo di fare attenzione."
 
 # game/adine2.rpy:938
 translate italiantl adine2menb_c3f43f0d:
@@ -2136,7 +2136,7 @@ translate italiantl strings:
 
     # adine2.rpy:930
     old "I'm not sure what this could mean."
-    new "Non so bene cosa può voler dire." # "could" -> "can"
+    new "Non so bene cosa può voler dire." # "could mean" -> "can mean"
 
     # adine2.rpy:930
     old "I feel like this is totally true."
@@ -2168,7 +2168,7 @@ translate italiantl strings:
 
     # adine2.rpy:1165
     old "I'd pay it a visit myself if I could."
-    new "Vi farei visita io stessə se potessi."
+    new "Vi farei una visita io stessə se potessi."
 
     # adine2.rpy:1199
     old "I can try."
