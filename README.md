@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on `Adine`'s sections. Files done and up for review:
+Currently working on `Anna`'s sections. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -24,6 +24,7 @@ Currently working on `Adine`'s sections. Files done and up for review:
     adine2.rpy
     adine3.rpy
     adine4.rpy
+    adine5.rpy
 
 A few remarks:
 
@@ -54,20 +55,20 @@ I should probably mention that this is intended to be an 'official' translation 
 
 The following are mostly to the benefit of the developer and translators.
 
-### status.rpy
+### [`status.rpy`](italiantl/status.rpy)
 
 * At line 20-216: *good*/*bad* → *positive*/*negative*, as *bad* \[<i>cattivo</i>\] is more commonly understood as *mean* or *evil*. An alternative would be *friendly*/*hostile*.
 
-### help.rpy
+### [`help.rpy`](italiantl/help.rpy)
 
 * At line 13: Used `space` tags in place of plain spaces to obtain a better alignment at a target resolution of 1920 x 1080, hope it's ok. There has to be a better way though.
 
-### chapter1.rpy
+### [`chapter1.rpy`](italiantl/chapter1.rpy)
 
 * At line 385, 408: *to skip seen messages* → *to skip messages*, as it depends on the user's preference.
 * At line 431: Corrected simple past tense *were under consideration* to past perfect, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
-* At line 436, 2837: Corrected colon to full stop to preserve the uppercase letter.
+* At line 436, 2837: Corrected colon to full stop to preserve uppercase letter.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1084, 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 1358: Corrected two-dots ellipsis to three-dots.
@@ -86,22 +87,22 @@ The following are mostly to the benefit of the developer and translators.
 * At line 3245, 3347: Rendered *legs* as *paws*.
 * At line 3712: Assumed *sorry* is addressed to `Sebastian`.
 
-### chapter2.rpy
+### [`chapter2.rpy`](italiantl/chapter2.rpy)
 
 * At line 523, 1278, 3228, 3312, 3712, 3792, 4226: Corrected simple dash to em-dash.
 * At line 572, 958, 1056, 1816, 1826, 1830: Corrected uppercase letter to lowercase.
 * At line 649: Rendered *legs* as *paws*.
 * At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware enough that the intended concordance of genders is syntactic, as semantic concordance of *that* \[<i>quell-</i>\] with the subject would have been rendered with the inclusive gender instead \[<i>-ə</i>\].)
 * At line 1036, 1148, 3771: Slightly pruned to fit fewer lines.
-* At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of `chapter1.rpy`.
-* At line 1607: Added brackets to match line 2301 of `chapter1.rpy`.
+* At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of [`chapter1.rpy`](#chapter1rpy).
+* At line 1607: Added brackets to match line 2301 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1623: *melon bread* → *melon-flavored bread*, to preserve the pun by linguistic necessity.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
   * At line 2423: A playful exclamation of surprise.
   * At line 3824: This one just had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
-* At line 3510, 3680: Corrected colon to full stop to preserve the uppercase letter.
+* At line 3510, 3680: Corrected colon to full stop to preserve uppercase letter.
 
-### chapter3.rpy
+### [`chapter3.rpy`](italiantl/chapter3.rpy)
 
 * At line 823, 825, 835, 847, 882, 988, 996, 1219, 1278, 1139, 1478: *PDAs* → *PDA*.
 * At line 849, 884: Split in multiple parts to fit fewer lines.
@@ -112,14 +113,14 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1383: *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
 * At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
-* At line 2457: Corrected colon to full stop to preserve the uppercase letter.
-* At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of `chapter1.rpy`.
+* At line 2457: Corrected colon to full stop to preserve uppercase letter.
+* At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of [`chapter1.rpy`](#chapter1rpy).
 * At line 3098: Slightly pruned to fit fewer lines.
 * At line 3639: *pockets* → *pocket*, to match line 2312.
 * At line 3751: Adapted to preserve a pun; reverse translation: *I'm stunned.*
 * At line 4046-4064: Note that the larger, orange dragon should be a female, as mentioned by `Zhong` at line 3907; the current translation doesn't use this information, nonetheless.
 
-### chapter4.rpy
+### [`chapter4.rpy`](italiantl/chapter4.rpy)
 
 * At line 762, 922: Corrected uppercase letter to lowercase.
 * At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash to em-dash.
@@ -136,7 +137,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4345, 4353: *65* → *sixty-five*, for elegance.
 * At line 4365: About *aligning \[the portals\] across the time axis*, note that `Izumi` would still have had to bypass the anti-time travel safeguards for her to be able to return, assuming the portals in the present were still operational.
 * At line 4367: *that meant that* → *moreover*, as there's no real logical implication between line 4365 and this line.
-* At line 4375, 4382: Corrected colon to full stop to preserve the uppercase letter.
+* At line 4375, 4382: Corrected colon to full stop to preserve uppercase letter.
 * At line 4432, 4614: *AI* → *artificial intelligence*, for elegance.
 * At line 4462: *10km* → *ten kilometers*, for elegance.
 * At line 4468, *75%* → *seventy-five percent*, for elegance.
@@ -145,24 +146,24 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4556: Split in multiple parts to fit fewer lines.
 * At line 4556: *connected* → *linked*, to avoid repeating *the connection \[...\] is not connected*.
 
-### chapter5.rpy
+### [`chapter5.rpy`](italiantl/chapter5.rpy)
 
 * At line 584, 913: Corrected simple dash to em-dash.
-* At line 646: *inch* → *centimeter*; see line 2144 of `chapter4.rpy`.
-* At line 913: Changed parentheses with brackets to match line 385 of `chapter1.rpy`.
+* At line 646: *inch* → *centimeter*; see line 2144 of [`chapter4.rpy`](#chapter4rpy).
+* At line 913: Changed parentheses with brackets to match line 385 of [`chapter1.rpy`](#chapter1rpy).
 
-### chapter5evilending.rpy
+### [`chapter5evilending.rpy`](italiantl/chapter5evilending.rpy)
 
 * At line 11, 19, 33, 71, 473, 545: Corrected simple dash to em-dash.
-* At line 25: Corrected colon to full stop to preserve the uppercase letter.
-* At line 347, 371: *generators* → *generator*, to match lines 4520, 4590 of `chapter4.rpy`.
+* At line 25: Corrected colon to full stop to preserve uppercase letter.
+* At line 347, 371: *generators* → *generator*, to match lines 4520, 4590 of [`chapter4.rpy`](#chapter4rpy).
   * Note that *the building still having electricity* despite `Reza` having gotten its generator, which was supposed to be *also powering the portal*, is explained by `Reza` himself at line 449, revealing the presence of a backup. At the same line, however, `Reza` claims he *could even get the backup generator as well*, suggesting that the portal is really powered by other means. Whether this is truly the case is never addressed.
 * At line 517, 845: Corrected uppercase letter to lowercase.
 * At line 565: Assumed *it* is referred to *the solution* at line 563.
 * At line 638: Consider adding parentheses to render the monologue a proper soliloquy.
 * At line 733-741: *10* → *ten*, for elegance.
 
-### adine1.rpy
+### [`adine1.rpy`](italiantl/adine1.rpy)
 
 * At line 39: *containers* → *container*, to match `cgadine2.png` and line 129.
 * At line 61-67: Note that these lines also trigger if the user managed to save `Bryce` and returned the eggs to the hatchery, thus having already encountered `Adine` before the actual meeting.
@@ -170,28 +171,36 @@ The following are mostly to the benefit of the developer and translators.
 * At line 307: Rendered *children* as *cubs*.
 * At line 468, 520, 929: Corrected simple dash to em-dash.
 
-### adine2.rpy
+### [`adine2.rpy`](italiantl/adine2.rpy)
 
-* At line 53-55: See lines 61-67 of `adine1.rpy`.
+* At line 53-55: See lines 61-67 of [`adine1.rpy`](#adine1rpy).
 * At line 215: Rendered *children* as *cubs*.
-* At line 346: Removed extra space.
+* At line 346: Removed extra space before full stop.
 * At line 569, 617, 668, 753: Corrected uppercase letter to lowercase.
 * At line 1053: Slightly pruned to fit fewer lines.
 
-### adine3.rpy
+### [`adine3.rpy`](italiantl/adine3.rpy)
 
-* At line 51-53: See lines 61-67 of `adine1.rpy`.
+* At line 51-53: See lines 61-67 of [`adine1.rpy`](#adine1rpy).
 * At line 257, 264: Variable should probably be renamed from `mp.time` to `mp.tan`, although it's never used.
 * At line 405, 407, 417, 419: Rendered *leg*(*s*) as *paw*(*s*).
 * At line 771: Used the English name for *Freefall*, for coherence with the other names.
-* At line 883: Enclosed *hawk* in italics tags.
+* At line 883: Enclosed *hawk* with italics tags.
 * At line 1035: Split in multiple parts to fit fewer lines.
-* At line 1278, 1282: *pockets* → *pocket*, to match line 2312 of `chapter3.rpy`.
+* At line 1278, 1282: *pockets* → *pocket*, to match line 2312 of [`chapter3.rpy`](#chapter3rpy).
 
-### adine4.rpy
+### [`adine4.rpy`](italiantl/adine4.rpy)
 
 * At line 289: Corrected two-dots ellipsis to three-dots.
 * At line 627, 665: *TV* → *television*, for elegance.
 * At line 651: Corrected simple dash to em-dash.
 * At line 863: Rendered *child*(*ren*) as *cub*(*s*).
-* At line 907: *inches* → *centimeters*; see line 2144 of `chapter4.rpy`.
+* At line 907: *inches* → *centimeters*; see line 2144 of [`chapter4.rpy`](#chapter4rpy).
+
+### [`adine5.rpy`](italiantl/adine5.rpy)
+
+* At line 83: *the mysterious person I met* → *the Administrator*, to improve the translation's readability and to match line 541 of [`chapter5.rpy`](#chapter5rpy).
+* At line 146-244: Note that according to the player character at line 146, `Reza`'s *got six bullets* in his gun, which is the same number of bullets that can be heard being fired up until line 244. Whether they actually notice or not is never addressed; either way the player character eventually surrenders as per `Adine`'s plea at line 279.
+* At line 574, 578: Removed extra space before dash.
+* At line 838: Corrected simple dash to em-dash.
+* At line 856: Preserved uppercase letter after the ellipsis.
