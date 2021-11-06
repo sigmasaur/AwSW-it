@@ -4,7 +4,7 @@
 translate italiantl adine1_b66a50f0:
 
     # m "I remembered that Adine had told me that the café did deliveries as well, and not having anything else better to do, I figured I should try it out. I made my order with a quick phone call, and it wasn't long before the doorbell rang."
-    m "Ricordai che [Ad] mi aveva detto che la caffetteria faceva anche consegne, e non avendo niente di meglio da fare, pensai fosse il caso di fare una prova. Effettuai il mio ordine con una breve telefonata, e non ci volle molto prima che il campanello suonasse."
+    m "Ricordai che [Ad] mi aveva detto che la caffetteria faceva anche le consegne, e non avendo nient'altro di meglio da fare, pensai fosse il caso di fare una prova. Effettuai il mio ordine con un colpo di telefono, e non ci volle molto prima che il campanello suonasse."
 
 # game/adine1.rpy:32
 translate italiantl adine1_d60c0822:
@@ -136,7 +136,7 @@ translate italiantl menadine_76b2fe88:
 translate italiantl menadine_544afc3c:
 
     # n "Without another word, I closed the door, with nothing now separating me from the delights of the slightly soggy food before me."
-    n "Senza aggiungere altro, chiusi la porta, senza più niente che ora mi separasse dalle delizie di quel cibo leggermente inumidito che avevo davanti." # "the slightly soggy food" -> "that slightly soggy food"
+    n "Senza aggiungere altro, chiusi la porta, senza più niente che ora mi separasse dalle delizie di quel cibo leggermente inumidito davanti a me." # "the slightly soggy food" -> "that slightly soggy food"
 
 # game/adine1.rpy:129
 translate italiantl menadine_a00b0992:
@@ -184,7 +184,7 @@ translate italiantl _call_skiptut_10_eee83226:
 translate italiantl _call_skiptut_10_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/adine1.rpy:218
 translate italiantl _call_skiptut_10_0054b77b:
@@ -730,7 +730,7 @@ translate italiantl _call_skipcheck_10_821be8f1:
 translate italiantl _call_skipcheck_10_827a62d3:
 
     # c "And it's not just the discovery of you dragons. We found a portal to an entirely different world. We still haven't figured that one out."
-    c "E non si tratta solo dell'aver scoperto voi draghi. Abbiamo trovato un portale verso un mondo totalmente diverso. Quello ancora non ce lo spieghiamo."
+    c "E non si tratta solo dell'aver scoperto voi draghi. Abbiamo trovato un portale verso un mondo totalmente diverso. Di quello non siamo ancora venuti a capo."
 
 # game/adine1.rpy:515
 translate italiantl _call_skipcheck_10_684b625c:
@@ -2084,11 +2084,11 @@ translate italiantl strings:
 
     # adine1.rpy:880
     old "Say my last goodbyes and hope for the best."
-    new "Darei il mio ultimo saluto sperando per il meglio."
+    new "Darei il mio ultimo addio sperando per il meglio."
 
     # adine1.rpy:880
     old "Stay outside and watch it all unfold before my eyes."
-    new "Starei di fuori e guarderei il tutto svolgersi davanti ai miei occhi."
+    new "Rimarrei di fuori e guarderei svolgersi tutto davanti ai miei occhi."
 
     # adine1.rpy:880
     old "Hide in a bunker deep underground."

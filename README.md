@@ -203,4 +203,4 @@ The following are mostly to the benefit of the developer and translators.
 * At line 146-244: Note that according to the player character at line 146, `Reza`'s *got six bullets* in his gun, which is the same number of bullets that can be heard being fired up until line 244. Whether they actually notice or not is never addressed; either way the player character eventually surrenders as per `Adine`'s plea at line 279.
 * At line 574, 578: Removed extra space before dash.
 * At line 838: Corrected simple dash to em-dash.
-* At line 856: Preserved uppercase letter after the ellipsis.
+* At line 856: Preserved uppercase letter after ellipsis.

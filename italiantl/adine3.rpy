@@ -166,7 +166,7 @@ translate italiantl _call_skiptut_9_eee83226:
 translate italiantl _call_skiptut_9_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/adine3.rpy:163
 translate italiantl _call_skiptut_9_0054b77b:
@@ -382,7 +382,7 @@ translate italiantl _call_skipcheck_9_8cd93345:
 translate italiantl _call_skipcheck_9_bcb0ae6a:
 
     # Ad "Pretty much. We can do enough to safely hunt and paddle on the surface, but that's about it. If we actually want to go swimming, it's recommended we wear a life vest."
-    Ad "Praticamente. Sappiamo fare quanto basta per cacciare e tenerci in superficie, ma poco altro. Se vogliamo davvero andare a nuotare, è consigliabile che indossiamo un giubbotto salvagente."
+    Ad "Praticamente. Sappiamo fare quel tanto che basta per cacciare e tenerci in superficie, ma poco altro. Se vogliamo davvero andare a nuotare, è consigliabile che indossiamo un giubbotto salvagente."
 
 # game/adine3.rpy:285
 translate italiantl _call_skipcheck_9_21c714fe:
@@ -1030,7 +1030,7 @@ translate italiantl _call_skipcheck_9_10452b14:
 translate italiantl _call_skipcheck_9_c1e084fd:
 
     # m "Afterwards, she returned and landed near me."
-    m "Dopodiché, ritornò e mi atterrò accanto."
+    m "Dopodiché, ritornò e mi atterrò vicino."
 
 # game/adine3.rpy:597
 translate italiantl _call_skipcheck_9_1eb83f5d:
@@ -1384,7 +1384,7 @@ translate italiantl _call_syscheck_45_f06ae021:
 translate italiantl _call_syscheck_45_d697d8cc:
 
     # Ad giggle b "Actually, now that I'll be part of an official competition, I need a fancy stage name."
-    Ad giggle b "In effetti, adesso che parteciperò a una competizione ufficiale, mi servirà un nome d'arte originale."
+    Ad giggle b "In effetti, adesso che prenderò parte a una competizione ufficiale, mi servirà un nome d'arte originale."
 
 # game/adine3.rpy:761
 translate italiantl _call_syscheck_45_9b46a707:
@@ -1486,7 +1486,7 @@ translate italiantl _call_syscheck_45_920f1752:
 translate italiantl _call_syscheck_45_db7d000f:
 
     # Ad normal b "Either way, that sounds gracious and acrobatic. I like it."
-    Ad normal b "In ogni modo, suona aggraziato e acrobatico. Mi piace."
+    Ad normal b "Comunque sia, suona aggraziato e acrobatico. Mi piace."
 
 # game/adine3.rpy:831
 translate italiantl _call_syscheck_45_cc5a6b34:
@@ -1630,7 +1630,7 @@ translate italiantl adinestagenameentry_3fd43ab8:
 translate italiantl adinestagenameentry_fd2414ca:
 
     # Ad giggle b "Either way, it's a good name. I'll keep it."
-    Ad giggle b "In ogni modo, è un bel nome. Lo tengo." # see line 827
+    Ad giggle b "Comunque sia, è un bel nome. Lo tengo." # see line 827
 
 # game/adine3.rpy:954
 translate italiantl adinestagenameentry_a2b16d91:
@@ -1835,13 +1835,13 @@ translate italiantl mpsave_cfead817:
 translate italiantl mpsave_4e88367c:
 
     # m "Her speed quickly increased while she moved towards the water. Then, she did a roll, and another, followed by the third. Dangerously close to the water's surface, she suddenly pulled up, but as she did so, one of her feet went below the surface, where it apparently caught onto something, causing her to spin out of control."
-    m "La sua velocità aumentava rapidamente nel muoversi in direzione dell'acqua. Poi, eseguì una rollata, e un'altra, seguita dalla terza. Pericolosamente vicina alla superficie dell'acqua, si alzò improvvisamente, ma nel farlo, uno dei suoi piedi finì sotto la superficie, dove sembrò che avesse incespicato in qualcosa, facendola piroettare fuori controllo."
+    m "La sua velocità aumentava rapidamente nel muoversi in direzione dell'acqua. Poi, eseguì una rollata, e un'altra, seguita dalla terza. Pericolosamente vicina alla superficie dell'acqua, si alzò all'improvviso, ma nel farlo, uno dei suoi piedi finì sotto la superficie, dove parve impigliarsi in qualcosa, facendola piroettare fuori controllo."
 
 # game/adine3.rpy:1055
 translate italiantl mpsave_e51c3ae2:
 
     # m "I saw her feeble attempt to regain control as she barely managed to steady herself enough to get back to the beach. She made a rough landing, rolling on the ground a few times after colliding with the sand."
-    m "Vidi il suo fiacco tentativo di riguadagnare il controllo mentre riusciva a malapena a stabilizzarsi quanto bastava per fare ritorno alla spiaggia. Fece un atterraggio duro, ruzzolando al suolo alcune volte dopo ch'ebbe sbattuto contro la sabbia."
+    m "Vidi il suo fievole tentativo di riguadagnare il controllo mentre riusciva a malapena a stabilizzarsi quel tanto che bastava per ritornare alla spiaggia. Compì un atterraggio duro, ruzzolando al suolo alcune volte dopo ch'ebbe sbattuto contro la sabbia."
 
 # game/adine3.rpy:1057
 translate italiantl mpsave_b434465c:

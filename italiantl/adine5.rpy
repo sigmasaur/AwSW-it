@@ -784,7 +784,7 @@ translate italiantl adinegoodending_18903a05:
 translate italiantl adinegoodending_aa885828:
 
     # m "The person I thought was the Administrator took off the mask, only to reveal a strangely familiar face underneath."
-    m "La persona che credevo essere l'Amministratore si tolse la maschera, solo per rivelare un volto stranamente familiare al di sotto."
+    m "La persona che credevo essere l'Amministratore si tolse la maschera, solo per rivelare un volto stranamente familiare al disotto."
 
 # game/adine5.rpy:788
 translate italiantl adinegoodending_25cb0b08:

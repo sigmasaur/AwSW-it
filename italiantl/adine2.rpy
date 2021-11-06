@@ -100,7 +100,7 @@ translate italiantl _call_skiptut_23_690da0b1:
 translate italiantl _call_skiptut_23_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
+    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
 
 # game/adine2.rpy:166
 translate italiantl _call_skiptut_23_0054b77b:
@@ -820,7 +820,7 @@ translate italiantl adine2menb_dd089063:
 translate italiantl adine2menb_a239277e:
 
     # c "How many more questions are there?"
-    c "Quante domande ci sono ancora?"
+    c "Quante altre domande ci sono ancora?"
 
 # game/adine2.rpy:711
 translate italiantl adine2menb_4e2e790b:
@@ -838,7 +838,7 @@ translate italiantl adine2menb_d653223e:
 translate italiantl adine2menb_fd8933bb:
 
     # Ad think b "Oh, it says here that the results are outlined in the weight-loss booklet that came with the magazine, but I already threw that away."
-    Ad think b "Oh, qui dice che i risultati sono riportati nel libretto sul dimagrimento che veniva con la rivista, ma l'ho già buttato via."
+    Ad think b "Oh, qui dice che i risultati sono delineati nel libretto sul dimagrimento che veniva con la rivista, ma l'ho già buttato via."
 
 # game/adine2.rpy:727
 translate italiantl adine2menb_d5bba2c1:
@@ -1672,7 +1672,7 @@ translate italiantl adine2skip_0395e0a6:
 translate italiantl adine2skip_e2af3c5d:
 
     # Ad "See? I think if you put your word in, we could easily make it happen."
-    Ad "Vedi? Penso che se ci metterai una buona parola, potremo facilmente fare in modo che accada."
+    Ad "Vedi? Penso che se ci metterai una buona parola, potremmo facilmente fare in modo che accada."
 
 # game/adine2.rpy:1189
 translate italiantl adine2skip_ac60032b:

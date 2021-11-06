@@ -46,7 +46,7 @@ translate italiantl _call_skiptut_30_eee83226:
 translate italiantl _call_skiptut_30_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/adine4.rpy:92
 translate italiantl _call_skiptut_30_0054b77b:
@@ -520,7 +520,7 @@ translate italiantl _call_skipcheck_30_14c70f0e:
 translate italiantl _call_skipcheck_30_2d31e64d:
 
     # c "No, but it doesn't have to be right now. There will always be another year."
-    c "No, ma non dev'essere per forza adesso. Ci sarà sempre un prossimo anno."
+    c "No, ma non dev'essere per forza adesso. Ci sarà sempre un altro anno."
 
 # game/adine4.rpy:303
 translate italiantl _call_skipcheck_30_e8097404:
@@ -598,7 +598,7 @@ translate italiantl _call_skipcheck_30_7930f2a2:
 translate italiantl _call_skipcheck_30_09a2b00d:
 
     # m "I asked myself whether I even wanted to watch the competition at that point. It was possible that she'd do even better than expected, but if my experience was any indication, her performance would not turn out well."
-    m "Mi chiesi se volessi anche solo guardare la competizione a quel punto. Era possibile che lei avrebbe fatto persino meglio del previsto, ma se la mia esperienza mi diceva qualcosa, era che la sua esibizione non sarebbe finita bene."
+    m "Mi chiesi se volessi anche solo guardare la competizione a quel punto. Era possibile che lei avrebbe fatto persino meglio del previsto, ma se la mia esperienza mi diceva qualcosa, era che la sua esibizione non sarebbe andata a buon fine."
 
 # game/adine4.rpy:331
 translate italiantl _call_skipcheck_30_b529e5e9:
@@ -1636,13 +1636,13 @@ translate italiantl a4shower_3872395b:
 translate italiantl a4shower_a366f1a0:
 
     # m "She took off her goggles and stepped into the roomy walk-in shower. After pressing a button on the wall, water started flowing from the shower head mounted on the wall."
-    m "Si tolse gli occhiali protettivi e mise piede nella spaziosa cabina doccia. Dopo ch'ebbe premuto un bottone sul muro, l'acqua iniziò a fluire dal soffione montato alla parete."
+    m "Si tolse gli occhiali protettivi e mise piede nella spaziosa cabina doccia. Dopo ch'ebbe premuto un bottone sul muro, l'acqua iniziò a fluire dal soffione montato a parete."
 
 # game/adine4.rpy:791
 translate italiantl a4shower_445c3050:
 
     # m "She moved around a bit, stretching this and that way in order to cover her whole body in the water. Soon afterwards, she pressed the button on the wall again, and the water flow stopped."
-    m "Si mosse qua e là, allungandosi da questa e quella parte al fine di coprire il suo intero corpo con l'acqua. Poco dopodiché, premette di nuovo il pulsante sul muro, e il flusso dell'acqua smise."
+    m "Si mosse qua e là, allungandosi da questa e da quella parte al fine di ricoprire il suo intero corpo con l'acqua. Poco più tardi, premette di nuovo il pulsante sul muro, e il flusso dell'acqua smise."
 
 # game/adine4.rpy:795
 translate italiantl a4shower_8619da62:
