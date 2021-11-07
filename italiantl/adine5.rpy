@@ -634,7 +634,7 @@ translate italiantl adinegoodending_c262cf28:
 translate italiantl adinegoodending_b338360e:
 
     # m "Reza slumped instantly and didn't move again."
-    m "[Rz] si accasciò all'istante e non si mosse più."
+    m "[Rz] stramazzò all'istante e non si mosse più."
 
 # game/adine5.rpy:686
 translate italiantl adinegoodending_ac835e18:

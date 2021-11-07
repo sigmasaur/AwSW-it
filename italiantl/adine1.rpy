@@ -208,7 +208,7 @@ translate italiantl _call_skipcheck_10_e53dbbb3:
 translate italiantl _call_skipcheck_10_f212dc62:
 
     # m "I sat down at the table and started eating my food while Adine decided to take a seat opposite of myself."
-    m "Mi sedetti al tavolo e presi a mangiare il mio cibo mentre [Ad] decise di prendere posto di fronte a me."
+    m "Sedetti al tavolo e iniziai a mangiare il mio cibo mentre [Ad] decise di prendere posto di fronte a me."
 
 # game/adine1.rpy:260
 translate italiantl _call_skipcheck_10_58b7831b:

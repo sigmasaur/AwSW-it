@@ -22,7 +22,7 @@ translate italiantl chapter5_9fff8558:
 translate italiantl aloneendings_ae7c103b:
 
     # m "While I was sure any of those I knew would agree to watch the fireworks with me if I asked, I ultimately decided to go alone, not wanting to impose on anyone if they hadn't asked me first."
-    m "Benché fossi certə che chiunque di coloro che conoscevo avrebbe acconsentito a guardare i fuochi d'artificio con me se gliel'avessi chiesto, in fine decisi di andare da solə, non volendo impormi su nessuno che non me l'avesse chiesto per primo."
+    m "Benché fossi certə che chiunque di coloro che conoscevo avrebbe acconsentito a guardare i fuochi d'artificio con me se avessi chiesto, in ultimo decisi di andare da solə, non volendo impormi su nessuno che non me l'avesse chiesto per primo."
 
 # game/chapter5.rpy:506
 translate italiantl aloneendings_df9f1168:
@@ -40,13 +40,13 @@ translate italiantl aloneendings_e385c5e3:
 translate italiantl aloneendings_04daa7ff:
 
     # m "While I waited for the fireworks to start, I looked at the area around me. With no soul in sight, I realized I hadn't actually spent many nights outside and was reminded of the day I had arrived here at my apartment in total darkness, with only Remy by my side."
-    m "Mentre aspettavo che i fuochi d'artificio iniziassero, presi a guardarmi attorno nei paraggi. Senz'anima viva, realizzai che in effetti non avevo trascorso poi molte notti all'aperto e mi ritornò alla mente il giorno in cui ero giuntə qui al mio appartamento nell'oscurità più totale, con solo [Ry] al mio fianco."
+    m "Mentre aspettavo che i fuochi d'artificio iniziassero, mi guardai attorno nei paraggi. Senz'anima viva, realizzai che in effetti non avevo trascorso poi molte notti all'aperto e mi rammentai del giorno in cui ero giuntə qui al mio appartamento nell'oscurità più totale, con solo [Ry] al mio fianco."
 
 # game/chapter5.rpy:520
 translate italiantl aloneendings_e507d2af:
 
     # m "Soon, the total stillness was broken with the sound of the first rocket ascending, its explosion painting a circular pattern in the sky."
-    m "Ben presto, l'assoluta quiete fu spezzata dal suono del primo razzo che ascendeva, la sua esplosione che dipinse un motivo circolare nel cielo."
+    m "Ben presto, l'assoluta quiete fu spezzata dal fragore del primo razzo che ascendeva, la sua esplosione che dipinse una fantasia circolare nel cielo."
 
 # game/chapter5.rpy:522
 translate italiantl aloneendings_6f06eb98:
@@ -58,7 +58,7 @@ translate italiantl aloneendings_6f06eb98:
 translate italiantl aloneendings_37857128:
 
     # m "As the explosions battered my ears, a terrible realization hit me."
-    m "Mentre le esplosioni percuotevano i miei timpani, mi colse una terribile conclusione."
+    m "Mentre le esplosioni percuotevano i miei timpani, mi colse un terribile sospetto."
 
 # game/chapter5.rpy:537
 translate italiantl aloneendings_ba74c7f9:
@@ -70,7 +70,7 @@ translate italiantl aloneendings_ba74c7f9:
 translate italiantl aloneendings_cf6444f6:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever have."
-    m "Non solo il villaggio era praticamente deserto, ma il frastuono dei fuochi d'artificio avrebbe anche eclissato eventuali colpi di pistola, dandogli quanta più sicurezza potesse mai avere."
+    m "Non solo il villaggio era praticamente deserto, ma i rimbombi dei fuochi d'artificio avrebbero anche eclissato eventuali colpi di pistola, dandogli quanta più sicurezza potesse mai avere."
 
 # game/chapter5.rpy:541
 translate italiantl aloneendings_3ecc47ed:
@@ -160,7 +160,7 @@ translate italiantl _call_endingjustafewminuteslater_b4c6de5d:
 translate italiantl _call_endingjustafewminuteslater_fcd47aef:
 
     # m "He pulled out his gun and pointed it at me as he slowly started closing the distance between us."
-    m "Estrasse la pistola e la puntò contro di me, mentre iniziava lentamente a ridurre la distanza che ci separava."
+    m "Estrasse la sua pistola e la puntò contro di me, mentre iniziava lentamente a ridurre la distanza che ci separava."
 
 # game/chapter5.rpy:592
 translate italiantl _call_endingjustafewminuteslater_a04a361a:
@@ -274,7 +274,7 @@ translate italiantl _call_endingjustafewminuteslater_a388a88e:
 translate italiantl _call_endingjustafewminuteslater_59ce4100:
 
     # m "The Administrator started moving, carrying me."
-    m "[As] prese a muoversi, portandomi a braccio."
+    m "[As] iniziò a muoversi, portandomi a braccio."
 
 # game/chapter5.rpy:679
 translate italiantl _call_endingjustafewminuteslater_78c0c468:
@@ -304,7 +304,7 @@ translate italiantl _call_endingjustafewminuteslater_dc4c4166:
 translate italiantl _call_endingjustafewminuteslater_dfa04c88:
 
     # As "I'm going to send you back in time. We'll just try again, and maybe we'll do better next time."
-    As "Intendo mandarti indietro nel tempo. Proveremo di nuovo, e forse faremo meglio la prossima volta."
+    As "Intendo mandarti indietro nel tempo. Proveremo ancora, e forse faremo meglio la prossima volta."
 
 # game/chapter5.rpy:691
 translate italiantl _call_endingjustafewminuteslater_50692fcd:
@@ -346,7 +346,7 @@ translate italiantl _call_endingjustafewminuteslater_76b2fe88:
 translate italiantl _call_endingjustafewminuteslater_7b42eeec:
 
     # n "{cps=40}I heard the sound of the portal starting to do its work as the numbness and pain suddenly left my body.{/cps}{nw}"
-    n "{cps=40}Udii il suono del portale che prendeva a fare il suo lavoro mentre dolore e torpidezza all'improvviso lasciavano il mio corpo.{/cps}{nw}"
+    n "{cps=40}Udii il suono del portale che iniziava a fare il suo lavoro mentre dolore e torpidezza all'improvviso lasciavano il mio corpo.{/cps}{nw}"
 
 # game/chapter5.rpy:734
 translate italiantl _call_endingjustafewminuteslater_d0eadb7a:

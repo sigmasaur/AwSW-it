@@ -112,7 +112,7 @@ translate italiantl evilending_8bd704dd:
 translate italiantl evilending_b90201e3:
 
     # Rz "Can't we talk about this?"
-    Rz "Non possiamo parlarne?" # "about this" -> "about it"
+    Rz "Non possiamo parlarne?"
 
 # game/chapter5evilending.rpy:55
 translate italiantl evilending_0317ceea:
@@ -130,7 +130,7 @@ translate italiantl evilending_94f76ec3:
 translate italiantl evilending_1c64755a:
 
     # c "You think so? Think again. We both know that humanity would have had so much more to gain if we actually cooperated with the dragons."
-    c "Tu pensi? Pensa meglio. Sappiamo entrambi che l'umanità avrebbe avuto talmente tanto di più da guadagnarci se avessimo effettivamente collaborato coi draghi."
+    c "Tu credi? Ricrediti. Sappiamo entrambi che l'umanità avrebbe avuto talmente tanto di più da guadagnarci se avessimo effettivamente collaborato coi draghi."
 
 # game/chapter5evilending.rpy:61
 translate italiantl evilending_dab815b3:
@@ -280,7 +280,7 @@ translate italiantl _call_syscheck_96_2a06d2db:
 translate italiantl endingjustafewminuteslater_18f7c84a:
 
     # m "I arrived at the portal just a few minutes later. I couldn’t help but be glad that it was still turned off and didn’t appear to have been used recently... But it meant Reza was still here, somewhere."
-    m "Giunsi al portale solo qualche minuto più tardi. Non potei fare a meno di essere lietə che fosse ancora spento e apparentemente non fosse stato usato di recente... Ma ciò significava che [Rz] era ancora lì, da qualche parte."
+    m "Giunsi al portale solo qualche minuto più tardi. Non potei fare a meno di essere lietə che fosse ancora spento e apparentemente non fosse stato usato di recente... Il che però significava che [Rz] era ancora lì, da qualche parte."
 
 # game/chapter5evilending.rpy:316
 translate italiantl endingjustafewminuteslaterx_e7f27982:
@@ -448,7 +448,7 @@ translate italiantl no_7baa11a8:
 translate italiantl no_f6c1a298:
 
     # Rz normal "I mean, how could a supposedly completely different, independent civilization speak the same language as us? What was this supposed to be? An alternate reality? No, it was just a different time."
-    Rz normal "Voglio dire, come potrebbe una civiltà completamente diversa e indipendente parlare la nostra stessa lingua? Che cosa dovrebbe essere, una realtà alternativa? No, è solo un diverso periodo." # "what was" -> "what is", "it was just" -> "it is just"
+    Rz normal "Voglio dire, come potrebbe una civiltà completamente diversa e indipendente parlare la nostra stessa lingua? Che cosa dovrebbe essere, una realtà alternativa? No, è solo un diverso tempo." # "what was" -> "what is", "it was just" -> "it is just"
 
 # game/chapter5evilending.rpy:465
 translate italiantl no_46ca0c65:
@@ -616,7 +616,7 @@ translate italiantl no_0b3fb89a:
 translate italiantl no_195e7284:
 
     # Rz annoyed "Since when do you think that you get to have any say in this? You know why you're here. What you're proposing is treason, and you know the consequences."
-    Rz annoyed "Da quando pensi ti sia concesso di avere voce in capitolo? Lo sai perché sei qui. Ciò che proponi è tradimento, e conosci le conseguenze."
+    Rz annoyed "Da quando pensi ti sia dato di avere voce in capitolo? Lo sai perché sei qui. Ciò che proponi è tradimento, e conosci le conseguenze."
 
 # game/chapter5evilending.rpy:537
 translate italiantl no_e5b1e7a9:
@@ -670,7 +670,7 @@ translate italiantl no_ed42ee26:
 translate italiantl no_cf0625b1:
 
     # Rz "This is such an idiotic trope, you know. Random person meets weird natives, learns their ways and then ends up saving them."
-    Rz "Il tuo è uno stereotipo talmente idiota, lo sai. Una persona qualunque incontra gli strambi nativi, impara i loro costumi e quindi finisce per salvarli." # "this" -> "yours"
+    Rz "Il tuo è uno stereotipo talmente idiota, lo sai. Una persona qualunque incontra gli strambi nativi, impara i loro costumi e quindi finisce per salvarli." # "this is" -> "yours is"
 
 # game/chapter5evilending.rpy:555
 translate italiantl no_498b9519:
@@ -1096,7 +1096,7 @@ translate italiantl skiptut_06013450:
 translate italiantl skiptut_c5ae7a1f:
 
     # s "Either way, the choice is yours."
-    s "In ogni modo, la scelta è tua."
+    s "Comunque sia, la scelta è tua."
 
 # game/chapter5evilending.rpy:883
 translate italiantl skiptut_ea93d1df:

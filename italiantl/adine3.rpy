@@ -448,7 +448,7 @@ translate italiantl _call_skipcheck_9_cc2c6348:
 translate italiantl _call_skipcheck_9_a25091eb:
 
     # m "I got an idea and started looking for something in the sand on the ground. With a bit of digging, I found a flat, smooth stone and showed it to her."
-    m "Mi venne un'idea e presi a cercare qualcosa in terra nella sabbia. Dopo aver scavato un po', trovai un ciottolo piatto e liscio, e glielo mostrai."
+    m "Mi venne un'idea e iniziai a cercare qualcosa in terra nella sabbia. Dopo aver scavato un po', trovai un ciottolo piatto e liscio, e glielo mostrai."
 
 # game/adine3.rpy:307
 translate italiantl _call_skipcheck_9_a94fdf1b:

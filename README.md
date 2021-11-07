@@ -76,6 +76,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1861: *or even* → *such as*, as bacteria are unicellular.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
 * At line 2351, 2395: Consider changing *dragon* in accordance with line 472, as dragons probably wouldn't refer to themselves as such, at least in the literature.
+* At line 2371: Removed extra space after ellipsis.
 * At line 2728, 2747, 3609: Adapted to preserve a pun; reverse translation:
   * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre.*)
   * At line 2747: *There's a lot of them.*

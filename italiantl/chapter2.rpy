@@ -22,7 +22,7 @@ translate italiantl _call_skiptut_11_84d46f4f:
 translate italiantl _call_skiptut_11_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
+    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
 
 # game/chapter2.rpy:250
 translate italiantl _call_skiptut_11_0054b77b:
@@ -46,7 +46,7 @@ translate italiantl _call_skipcheck_11_80d4d75b:
 translate italiantl _call_skipcheck_11_e0495caa:
 
     # n "I awoke from dreams filled with fire and smoke. The sun shining through the window gave me a comforting feeling of familiarity, despite the portal in the distance reminding me of my purpose here."
-    n "Mi risvegliai da sogni ricolmi di fuoco e fumo. Il sole che risplendeva attraverso la finestra mi trasmetteva una confortante sensazione di familiarità, malgrado il portale in lontananza mi ricordasse del mio scopo qui."
+    n "Mi risvegliai da sogni ricolmi di fuoco e fumo. Il sole che risplendeva attraverso la finestra mi trasmetteva una confortante sensazione di familiarità, malgrado il portale in lontananza mi rammentasse il mio scopo qui."
 
 # game/chapter2.rpy:291
 translate italiantl _call_skipcheck_11_8daf1491:
@@ -1003,7 +1003,7 @@ translate italiantl _call_skipcheck_11_310c24c3:
 translate italiantl chap2q1_f277d7a3:
 
     # c "Why would he remain here if he was the one who stole it? The generator was already gone when we got here, and the person in question wasn't carrying it, either."
-    c "Perché sarebbe dovuto rimanere qui se è stato lui a rubarlo? Il generatore era già scomparso quando siamo arrivati, e la persona in questione non lo aveva con sé." # "wasn't carrying it[, either]"
+    c "Perché sarebbe dovuto rimanere qui se è stato lui a rubarlo? Il generatore era già scomparso quando siamo arrivati, e la persona in questione non l'aveva con sé." # "wasn't carrying it[, either]"
 
 # game/chapter2.rpy:1006
 translate italiantl chap2q1_8902e5af:
@@ -1749,7 +1749,7 @@ translate italiantl chap2storeques_af023afd:
 translate italiantl chap2storeques_3d3b5ff7:
 
     # St "He's been visiting pretty regularly, now that I think about it."
-    St "È venuto a trovarci piuttosto regolarmente, adesso che ci penso."
+    St "È venuto a trovarci piuttosto regolarmente, ora che ci penso."
 
 # game/chapter2.rpy:1553
 translate italiantl chap2storeques_c5aed8d5:
@@ -2019,7 +2019,7 @@ translate italiantl chap2facility_781c3892:
 translate italiantl chap2facility_909ef36b:
 
     # "???" "Either way, Anna is not here. Would that be all?"
-    "??? " "In ogni modo, [An] non è qui. È tutto?"
+    "??? " "Comunque sia, [An] non è qui. È tutto?"
 
 # game/chapter2.rpy:1788
 translate italiantl chap2facility_cb13aa33:
@@ -2349,7 +2349,7 @@ translate italiantl chap2library_f23a6396:
 translate italiantl chap2library_397c9469:
 
     # m "Adine stormed out so quickly that she didn't even notice me."
-    m "[Ad] se ne andò via talmente di corsa che non mi notò nemmeno."
+    m "[Ad] se ne andò via talmente di fretta e furia che non mi notò nemmeno."
 
 # game/chapter2.rpy:2055
 translate italiantl chap2library_ec2d8db0:
@@ -3453,7 +3453,7 @@ translate italiantl _call_skiptut_12_11989f6d:
 translate italiantl _call_skiptut_12_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
+    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
 
 # game/chapter2.rpy:3446
 translate italiantl _call_skiptut_12_0054b77b:
@@ -3663,7 +3663,7 @@ translate italiantl _call_skipcheck_12_76b2fe88_1:
 translate italiantl _call_skipcheck_12_1e47ad15:
 
     # n "And with that, he was gone."
-    n "E con ciò, se n'era andato."
+    n "E con ciò, se ne fu andato."
 
 # game/chapter2.rpy:3599
 translate italiantl _call_skipcheck_12_072a50de:
@@ -3783,7 +3783,7 @@ translate italiantl _call_skipcheck_12_cd448c52:
 translate italiantl _call_skipcheck_12_3e493b39:
 
     # Sb "At this rate, it doesn't look like we'll find him today."
-    Sb "Di questo passo, ho l'impressione che non lo troveremo oggi."
+    Sb "Di questo passo, ho l'impressione che non lo troveremo oggi." # "it doesn't look" -> "I don't feel"
 
 # game/chapter2.rpy:3664
 translate italiantl _call_skipcheck_12_3cbf6907:
@@ -3843,7 +3843,7 @@ translate italiantl _call_skipcheck_12_2a8954e7:
 translate italiantl _call_skipcheck_12_107283ad:
 
     # c "He's escaped twice now. Each time, he managed to get away without any trouble. I just feel like if we haven't found him by now, we won't do so anytime soon, either. Reza knows what he's doing."
-    c "È già scappato due volte, e ogni volta è riuscito ad allontanarsi senza alcuna difficoltà. Ho solo la sensazione che se non l'abbiamo ancora trovato, non ci riusciremo neanche nell'immediato futuro. [Rz] sa il fatto suo." # corrected comma
+    c "È già fuggito due volte, e ogni volta è riuscito ad allontanarsi senza alcuna difficoltà. Ho solo la sensazione che se non l'abbiamo ancora trovato, non ci riusciremo neanche nell'immediato futuro. [Rz] sa il fatto suo." # corrected comma
 
 # game/chapter2.rpy:3694
 translate italiantl _call_skipcheck_12_b601d0a4:
@@ -3867,7 +3867,7 @@ translate italiantl _call_skipcheck_12_567c8e01:
 translate italiantl _call_skipcheck_12_a0830fbb:
 
     # c "I know, but to be honest, I'm not sure if I can be much help to you at all."
-    c "Lo so, ma ad essere onesti, non sono sicurə di potervi essere granché utile."
+    c "Lo so, ma ad essere onesti, non sono sicurə di potervi essere affatto d'aiuto."
 
 # game/chapter2.rpy:3702
 translate italiantl _call_skipcheck_12_a9821795:

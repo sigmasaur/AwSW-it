@@ -504,7 +504,7 @@ translate italiantl _call_skiptut_4_84d46f4f:
 translate italiantl _call_skiptut_4_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
+    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
 
 # game/chapter3.rpy:960
 translate italiantl _call_skiptut_4_0054b77b:
@@ -2746,7 +2746,7 @@ translate italiantl c3conty_c48dc32f:
 translate italiantl c3conty_dce95571:
 
     # m "I picked up the sheet and started reading. It was about what had happened when I met Reza at the portal. Of course, it didn't say anything I didn't already know."
-    m "Raccolsi il foglio e presi a leggere. Parlava di quello che era successo quando avevo incontrato [Rz] al portale. Ovviamente, non diceva nulla che già non sapessi."
+    m "Raccolsi il foglio e iniziai a leggere. Parlava di quello che era successo quando avevo incontrato [Rz] al portale. Ovviamente, non diceva nulla che già non sapessi."
 
 # game/chapter3.rpy:2046
 translate italiantl c3conty_5017b19f:
@@ -2932,7 +2932,7 @@ translate italiantl c3conty_43e7feea:
 translate italiantl c3conty_74746a81:
 
     # c "I'm afraid I don't know any more than you do. I'm not an engineer, either."
-    c "Temo di non saperne molto più di te. Neanch'io sono un ingegnere." # "any more than you [do]"
+    c "Temo di non saperne più di te. Neanch'io sono un ingegnere." # "any more than you [do]"
 
 # game/chapter3.rpy:2136
 translate italiantl c3conty_7248c322:
@@ -3268,7 +3268,7 @@ translate italiantl c3conty_690cfc94:
 translate italiantl c3conty_4ce2dfed:
 
     # Sb "I know you knew the victim personally, so you don't have to do this if you don't want to. I'll leave the choice to you. You can find her assistant at the production facility."
-    Sb "So che conoscevi la vittima personalmente, quindi non devi farlo per forza se non te la senti. Lascerò a te la scelta. Puoi trovare il suo assistente allo stabilimento di produzione."
+    Sb "So che conoscevi la vittima personalmente, quindi non sei costrettə a farlo se non te la senti. Lascerò a te la scelta. Puoi trovare il suo assistente allo stabilimento di produzione."
 
 # game/chapter3.rpy:2289
 translate italiantl c3conty_e771bb0e:
@@ -3508,7 +3508,7 @@ translate italiantl c3sections_19ce5166:
 translate italiantl c3sections_b39f8015:
 
     # m "Ultimately, I trusted the mysterious message. Remy's list of phone numbers, given to me when he brought me to this apartment in the first place, proved to be a valuable tool. I dialed the emergency line and was greeted by a calm voice asking me about my emergency."
-    m "In fine, confidai nel misterioso messaggio. La nota coi numeri di telefono di [Ry], datami quand'egli mi aveva portato per la prima volta in questo appartamento, si dimostrò uno strumento prezioso. Chiamai la linea di emergenza e fui accoltə da una voce calma che mi chiedeva quale fosse la mia emergenza." # "list of" -> "note with"
+    m "In ultimo, confidai nel misterioso messaggio. La nota coi numeri di telefono di [Ry], datami ancora quand'egli mi aveva portato a questo appartamento, si dimostrò uno strumento prezioso. Chiamai la linea di emergenza e fui accoltə da una voce calma che mi chiedeva quale fosse la mia emergenza." # "list of" -> "note with"
 
 # game/chapter3.rpy:2469
 translate italiantl c3sections_73e9833f:
@@ -4174,7 +4174,7 @@ translate italiantl c3fac_f3b5df06:
 translate italiantl c3fac_e702a767:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b "Interessante. Io che ci guadagno?"
+    An normal b "Interessante. A me cosa ne viene?"
 
 # game/chapter3.rpy:2915
 translate italiantl c3fac_5b71bf41:
@@ -4216,7 +4216,7 @@ translate italiantl c3fac_f3b5df06_1:
 translate italiantl c3fac_e702a767_1:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b "Interessante. Io che ci guadagno?"
+    An normal b "Interessante. A me cosa ne viene?"
 
 # game/chapter3.rpy:2936
 translate italiantl c3fac_5b71bf41_1:
@@ -4258,7 +4258,7 @@ translate italiantl c3fac_f3b5df06_2:
 translate italiantl c3fac_e702a767_2:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b "Interessante. Io che ci guadagno?"
+    An normal b "Interessante. A me cosa ne viene?"
 
 # game/chapter3.rpy:2957
 translate italiantl c3fac_5b71bf41_2:
@@ -4306,7 +4306,7 @@ translate italiantl c3fac_f3b5df06_3:
 translate italiantl c3fac_e702a767_3:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b "Interessante. Io che ci guadagno?"
+    An normal b "Interessante. A me cosa ne viene?"
 
 # game/chapter3.rpy:2994
 translate italiantl c3fac_ce11ee18:
@@ -4372,7 +4372,7 @@ translate italiantl c3fac_f3b5df06_4:
 translate italiantl c3fac_e702a767_4:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b "Interessante. Io che ci guadagno?"
+    An normal b "Interessante. A me cosa ne viene?"
 
 # game/chapter3.rpy:3048
 translate italiantl c3fac_5b71bf41_3:
@@ -4864,7 +4864,7 @@ translate italiantl c3arcques_6ae758d4:
 translate italiantl c3arcques_d5095d43:
 
     # n "At first glance, nothing about it stood out to me, but the more I studied it, the more the facts revealed themselves."
-    n "A prima vista, non vi era niente che balzasse ai miei occhi, ma quanto più la studiavo, tanto più i fatti mi si rivelavano." # "nothing [about it] stood out"
+    n "A prima vista, non vi era niente che mi balzasse agli occhi, ma quanto più la studiavo, tanto più i fatti mi si rivelavano." # "nothing [about it] stood out"
 
 # game/chapter3.rpy:3490
 translate italiantl c3arcques_1a72e446:
@@ -4916,7 +4916,7 @@ translate italiantl c3arcques_7c9f9a1e:
     # nvl clear
     # n "They were only one of the companies involved in championing the teleportation technology that was about to take off on a grand scale before the solar flare changed everything."
     nvl clear
-    n "Essi erano solo una delle società coinvolte nella propugnazione della tecnologia di teletrasporto ch'era in procinto di decollare su larga scala prima che il brillamento solare cambiasse ogni cosa."
+    n "Loro erano solo una delle società coinvolte nella propugnazione della tecnologia di teletrasporto ch'era in procinto di decollare su larga scala prima che il brillamento solare cambiasse ogni cosa."
 
 # game/chapter3.rpy:3510
 translate italiantl c3arcques_ae4bc12d:
@@ -4992,13 +4992,13 @@ translate italiantl c3arcques_c4ee8218:
 translate italiantl c3arcques_b9e83a90:
 
     # n "Where they had been outlawed or their operations shut down, new companies with suspiciously similar products appeared practically overnight."
-    n "Laddove erano stati messi al bando o le loro attività fatte cessare, nuove compagnie con prodotti sospettosamente simili comparivano praticamente da un giorno all'altro."
+    n "Laddove erano stati messi al bando o le loro attività fatte cessare, nuove compagnie con prodotti sospettosamente simili spuntavano praticamente da un giorno all'altro."
 
 # game/chapter3.rpy:3542
 translate italiantl c3arcques_cef0f969:
 
     # n "However, no matter how big their empire was and how well they skirted the lines, they ultimately collapsed just like the rest of the world."
-    n "Tuttavia, per quanto grande fosse il loro impero e quanto abili essi fossero a rasentare i limiti, in fine caddero esattamente come il resto del mondo."
+    n "Tuttavia, per quanto grande fosse il loro impero e quanto bravi fossero a rasentare i limiti, in ultimo caddero esattamente come il resto del mondo."
 
 # game/chapter3.rpy:3544
 translate italiantl c3arcques_fbc34957:
@@ -5654,7 +5654,7 @@ translate italiantl c3go_42478c56:
 translate italiantl c3go_a7a22c85:
 
     # Sb "By the way, good job calling the police when you heard Reza. It's too bad he got away again, but maybe a witness will come forward and we'll find out what happened."
-    Sb "Ad ogni modo, hai fatto bene a chiamare la polizia quando hai sentito [Rz]. Peccato solo che sia scappato di nuovo, ma forse un testimone si farà avanti e scopriremo cos'è successo."
+    Sb "Ad ogni modo, hai fatto bene a chiamare la polizia quando hai sentito [Rz]. Peccato solo che sia fuggito di nuovo, ma forse un testimone si farà avanti e scopriremo cos'è successo."
 
 # game/chapter3.rpy:4182
 translate italiantl c3go_54f803a0:
@@ -5666,7 +5666,7 @@ translate italiantl c3go_54f803a0:
 translate italiantl c3go_5ec0d41a:
 
     # Sb "Someone reported loud bangs consistent with what we know about his weapon. We didn't manage to catch him, but I wonder if this stunt means he's getting desperate."
-    Sb "Qualcuno ha segnalato dei forti tuoni compatibili con ciò che sappiamo della sua arma. Non siamo riusciti a prenderlo, ma mi chiedo se questa sua bravata significa che è alla disperazione."
+    Sb "Qualcuno ha segnalato dei forti tuoni compatibili con ciò che sappiamo della sua arma. Non siamo riusciti a prenderlo, ma mi chiedo se questa bravata non significa che è alla disperazione."
 
 # game/chapter3.rpy:4186
 translate italiantl c3go_475d90b4:

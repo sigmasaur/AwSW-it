@@ -136,7 +136,7 @@ translate italiantl _call_skiptut_20_690da0b1:
 translate italiantl _call_skiptut_20_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
+    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
 
 # game/chapter4.rpy:683
 translate italiantl _call_skiptut_20_0054b77b:
@@ -1771,7 +1771,7 @@ translate italiantl c4intuition_2d80da67:
 translate italiantl c4intuition_aa4656c1:
 
     # Br stern b "Either way, this makes him even more dangerous. At least we now have a whole building's worth of clues."
-    Br stern b "In ogni modo, questo lo rende ancora più pericoloso. Almeno adesso abbiamo un intero edificio di indizi." # "a whole building['s worth] of clues"
+    Br stern b "Comunque sia, questo lo rende ancora più pericoloso. Almeno adesso abbiamo un intero edificio di indizi." # "a whole building['s worth] of clues"
 
 # game/chapter4.rpy:1818
 translate italiantl c4intuition_f812dc1f:
@@ -1891,7 +1891,7 @@ translate italiantl c4intuition_01e42f45:
 translate italiantl c4intuition_b83046c7:
 
     # c "I hope you'll get all the help you'll need."
-    c "Spero che riceverete tutto l'aiuto che vi serve."
+    c "Spero che avrete tutto l'aiuto che vi serve."
 
 # game/chapter4.rpy:1874
 translate italiantl c4intuition_284b5319:
@@ -1981,7 +1981,7 @@ translate italiantl brycefirst_f1285e10:
 translate italiantl brycefirst_0766eb8d:
 
     # m "Though, shortly after Bryce opened the door, an earth-shattering sound echoed across the sky."
-    m "Però, subito dopo che [Br] ebbe aperto la porta, un dirompente frastuono echeggiò attraverso il cielo."
+    m "Però, subito dopo che [Br] ebbe aperto la porta, un dirompente boato echeggiò attraverso il cielo."
 
 # game/chapter4.rpy:1943
 translate italiantl brycefirst_a93c7636:
@@ -2893,7 +2893,7 @@ translate italiantl loremnotmissing_e4572aa4:
 translate italiantl loremnotmissing_75416a96:
 
     # Ip think "Around 2AM, I suddenly hear a few bangs outside. They reminded me of small explosions."
-    Ip think "Attorno alle due del mattino, all'improvviso ho sentito alcuni tuoni di fuori. Mi hanno ricordato delle piccole esplosioni."
+    Ip think "Attorno alle due del mattino, all'improvviso ho sentito alcuni tuoni di fuori. Ricordavano delle piccole esplosioni."
 
 # game/chapter4.rpy:2604
 translate italiantl loremnotmissing_c87e8928:
@@ -3685,7 +3685,7 @@ translate italiantl c4hatchery_1472f888:
 translate italiantl c4hatchery_09839951:
 
     # m "I turned around to see an unfamiliar face before me."
-    m "Mi voltai e mi trovai davanti un volto che non riconoscevo."
+    m "Mi voltai e mi vidi innanzi un volto che non riconoscevo."
 
 # game/chapter4.rpy:3133
 translate italiantl c4hatchery_5f20fb4d:
@@ -4801,7 +4801,7 @@ translate italiantl _call_skiptut_21_11989f6d:
 translate italiantl _call_skiptut_21_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Ebbene, sembra che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
+    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
 
 # game/chapter4.rpy:4202
 translate italiantl _call_skiptut_21_0054b77b:
@@ -5227,7 +5227,7 @@ translate italiantl _call_skipcheck_21_b8e3831d:
 translate italiantl _call_skipcheck_21_0be41dab:
 
     # n "Either way, it was not possible for me to establish any means of communication to find out what had really happened."
-    n "Qualunque fosse il caso, mi era impossibile stabilire una qualsiasi forma di comunicazione per scoprire cosa fosse realmente successo."
+    n "Comunque fosse, mi era impossibile stabilire una qualsiasi forma di comunicazione per scoprire cosa fosse realmente successo."
 
 # game/chapter4.rpy:4392
 translate italiantl _call_skipcheck_21_4301388e:
@@ -5972,7 +5972,7 @@ translate italiantl _call_skipcheck_21_682542b7:
 translate italiantl _call_skipcheck_21_0e21edea:
 
     # As "I have programmed it with emergency coordinates. If you should find yourself in a hopeless situation and feel there is no other way out, go to the portal. I have made sure only you will be able to use them."
-    As "L'ho programmato con delle coordinate di emergenza. Se dovessi trovarti in una situazione disperata e avessi la sensazione che non c'è altra via d'uscita, va' al portale. Mi sono assicurato che solo tu sarai in grado di usarlo."
+    As "L'ho programmato con delle coordinate di emergenza. Se dovessi trovarti in una situazione disperata e sentissi che non c'è altra via d'uscita, va' al portale. Mi sono assicurato che solamente tu sarai in grado di usare tali coordinate." # "them" -> "such coordinates"
 
 # game/chapter4.rpy:4661
 translate italiantl _call_skipcheck_21_59e810c4:
