@@ -26,13 +26,15 @@ Currently working on `Anna`'s sections. Files done and up for review:
     adine4.rpy
     adine5.rpy
 
+    anna1.rpy
+
 A few remarks:
 
-* Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.<br>On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change.
+* Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.<br>On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change. Also, `Emera` is addressed by all other characters with formal pronouns, as well as `Anna` by `Adine`, `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few circumstances.
 
-* I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`. Also, `Emera` is addressed by any other character with formal pronouns, as well as `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few circumstances.
+* I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`, to reduce typos.
 
-* Sometimes, it can happen that a line matches exactly its translated counterpart. These lines don't get rendered correctly for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
+* Sometimes, it may happen that a line matches exactly its translated counterpart. These lines don't get rendered correctly for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
 
 [1]:https://italianoinclusivo.it/
 
@@ -78,7 +80,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 2351, 2395: Consider changing *dragon* in accordance with line 472, as dragons probably wouldn't refer to themselves as such, at least in the literature.
 * At line 2371: Removed extra space after ellipsis.
 * At line 2728, 2747, 3609: Adapted to preserve a pun; reverse translation:
-  * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre.*)
+  * At line 2728: *I'd have a foot on the ground.* (Can also be read as *I'd have a pied-à-terre*.)
   * At line 2747: *There's a lot of them.*
   * At line 3609: *Achoo- I mean, excellent.*
 * At line 2737: Slightly adapted *isn't it fascinating* to add an obvious pun without loss of meaning.
@@ -93,14 +95,14 @@ The following are mostly to the benefit of the developer and translators.
 * At line 523, 1278, 3228, 3312, 3712, 3792, 4226: Corrected simple dash to em-dash.
 * At line 572, 958, 1056, 1816, 1826, 1830: Corrected uppercase letter to lowercase.
 * At line 649: Rendered *legs* as *paws*.
-* At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware enough that the intended concordance of genders is syntactic, as semantic concordance of *that* \[<i>quell-</i>\] with the subject would have been rendered with the inclusive gender instead \[<i>-ə</i>\].)
+* At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware that the intended gender agreement is syntactic, as semantic agreement of *that* \[<i>quell-</i>\] with the player character would have been rendered with the inclusive gender instead \[<i>-ə</i>\].)
 * At line 1036, 1148, 3771: Slightly pruned to fit fewer lines.
 * At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1607: Added brackets to match line 2301 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1623: *melon bread* → *melon-flavored bread*, to preserve the pun by linguistic necessity.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
   * At line 2423: A playful exclamation of surprise.
-  * At line 3824: This one just had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
+  * At line 3824: This had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
 * At line 3510, 3680: Corrected colon to full stop to preserve uppercase letter.
 
 ### [`chapter3.rpy`](italiantl/chapter3.rpy)
@@ -110,7 +112,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 860, 2439: Corrected uppercase letter to lowercase.
 * At line 1264-1266: Corrected future tenses to conditional, as we're supposedly talking of the yet speculative case where the player character doesn't go through the portal as per `Emera`'s resolve.
 * At line 1346: *10* → *ten*, for elegance.
-* At line 1346: *Hiroshima* → *atomic*, for elegance; moreover, the resulting expression reads better without any real loss of meaning, not to mention that we're supposedly addressing `Bryce` and `Emera`, who can't possibly know about it.
+* At line 1346: *Hiroshima* → *atomic*, for elegance, not to mention we're supposedly addressing `Bryce` and `Emera`, who can't possibly know about it; the resulting expression reads better without loss of meaning.
 * At line 1383: *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
 * At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
@@ -127,8 +129,8 @@ The following are mostly to the benefit of the developer and translators.
 * At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash to em-dash.
 * At line 1094: Used if-statement to distinguish whether `Anna` survives or not, and corrected present tenses to simple past in the latter case.
 * At line 1368-1736: The following is a simplified flow chart to help keeping track of which section spoken by the system refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** are persistent variables starting resp. from `0`, `FALSE`. Note that **`CHEAT`** may jump from `0` to `2` but may never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
-  * At line 1676-1736: Note that these lines also trigger if `Bryce` was saved at least once after dying, then just died again and the user tries to cheat for the *first* time, even though apparently this is unintended behavior (see e.g. line 1696).
-* At line 1708, 4592: Slightly pruned to fit fewer lines.
+  * At line 1676-1736: Note that these lines also trigger if `Bryce` has been saved at least once after dying, then just died again and the user tries to cheat for the *first* time, resulting in a possibly unintended behavior (see e.g. line 1696).
+* At line 1708: Slightly pruned to fit fewer lines.
 * At line 1812: Note that in theory, dragons don't know what a car is.
 * At line 2035, 2836, 2873, 2909, 2946: *PDAs* → *PDA*.
 * At line 2411: `Shake` function doesn't seem to trigger.
@@ -146,6 +148,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4500: Corrected *don't think that he would<s>n't</s> hesitate*.
 * At line 4556: Split in multiple parts to fit fewer lines.
 * At line 4556: *connected* → *linked*, to avoid repeating *the connection \[...\] is not connected*.
+* At line 4592: Corrected uppercase letter of *Earth*.
 
 ### [`chapter5.rpy`](italiantl/chapter5.rpy)
 
@@ -185,7 +188,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 51-53: See lines 61-67 of [`adine1.rpy`](#adine1rpy).
 * At line 257, 264: Variable should probably be renamed from `mp.time` to `mp.tan`, although it's never used.
 * At line 405, 407, 417, 419: Rendered *leg*(*s*) as *paw*(*s*).
-* At line 771: Used the English name for *Freefall*, for coherence with the other names.
+* At line 771: Kept the English name for *Freefall*, for coherence with the other names.
 * At line 883: Enclosed *hawk* with italics tags.
 * At line 1035: Split in multiple parts to fit fewer lines.
 * At line 1278, 1282: *pockets* → *pocket*, to match line 2312 of [`chapter3.rpy`](#chapter3rpy).
@@ -200,8 +203,24 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`adine5.rpy`](italiantl/adine5.rpy)
 
-* At line 83: *the mysterious person I met* → *the Administrator*, to improve the translation's readability and to match line 541 of [`chapter5.rpy`](#chapter5rpy).
+* At line 83: *the mysterious person I met* → *the Administrator*, to improve the resulting readability and to match line 541 of [`chapter5.rpy`](#chapter5rpy).
 * At line 146-244: Note that according to the player character at line 146, `Reza`'s *got six bullets* in his gun, which is the same number of bullets that can be heard being fired up until line 244. Whether they actually notice or not is never addressed; either way the player character eventually surrenders as per `Adine`'s plea at line 279.
 * At line 574, 578: Removed extra space before dash.
 * At line 838: Corrected simple dash to em-dash.
 * At line 856: Preserved uppercase letter after ellipsis.
+
+### [`anna1.rpy`](italiantl/anna1.rpy)
+
+* At line 306: *English language* → *our language*.
+* At line 309-311: Adapted to preserve a pun; reverse translation:
+  * At line 309: *\[...\] I'm pretty good with the languages \[...\].* (Can also be read as *I'm pretty good with the tongues.*)
+  * At line 311: This had to be changed completely: *Especially with mine.* Any improvement is welcome. (Note that *cunning* is often translated as *skilled* when a pun is involved, resulting in a duplicate of line 309.)
+* At line 732, 938: Rendered *children* as *cubs*.
+* At line 801: *20* → *twenty*, for elegance.
+* At line 803, 888, 965: Note that wrong answers to `Anna`'s questions seem to be undo-able.
+* At line 932: Corrected uppercase letter to lowercase.
+* At line 963, 965: *#1* → *one*, for elegance.
+* At line 963, 965: *#2* → *two*, for elegance.
+* At line 963, 965, 978, 989: *#3* → *three*/*third*, for elegance.
+* At line 1018: Corrected *approximate <s>acceleration</s> speed*.
+* At line 1029: Corrected *lighter* → *less dense*.
