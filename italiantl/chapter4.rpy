@@ -118,7 +118,7 @@ translate italiantl chapter4_9125b7cb:
 translate italiantl c4resultscontinue_99f8a50b:
 
     # Sb "The chief will explain everything once we get there. Let's not keep him waiting, shall we?"
-    Sb "Il capo ti spiegherà tutto una volta che saremo là. Non facciamolo aspettare, vuoi?" # see line 602 of chapter 3
+    Sb "Il capo ti spiegherà tutto una volta che saremo là. Non facciamolo aspettare, che ne dici?" # see line 602 of chapter 3
 
 # game/chapter4.rpy:652
 translate italiantl _call_skiptut_20_44e0ddc6:
@@ -1561,7 +1561,7 @@ translate italiantl _call_syscheck_76_f5a08d10:
 translate italiantl _call_syscheck_76_41e30641:
 
     # s "I'm sorry, [player_name], but I can't let you do that." # reference to Star Wolf's famous phrase Can't let you do that, Starfox, and also to Hal9000 in 2001 A Space Odyssey
-    s "Mi dispiace, [player_name], purtroppo non posso lasciartelo fare." # adapted the Italian translation to that excerpt from Space Odyssey as that of (the 3DS remake of) Star Fox doesn't really fit here
+    s "Mi dispiace, [player_name], purtroppo non posso lasciartelo fare." # adapted the Italian translation to that excerpt from Space Odyssey, as that from (the 3DS remake of) Star Fox doesn't really fit here
 
 # game/chapter4.rpy:1622
 translate italiantl _call_syscheck_76_0c4a1cda:
@@ -3847,7 +3847,7 @@ translate italiantl c4hatchery_33064caf:
 translate italiantl c4hatchery_88f60b6d:
 
     # c "I can't promise anything right now, but maybe I'll see you another time."
-    c "Non posso prometterti nulla al momento, però magari ci rivedremo un'altra volta."
+    c "Non posso prometterti nulla al momento, però magari ci rivediamo un'altra volta."
 
 # game/chapter4.rpy:3191
 translate italiantl c4hatchery_042cb921:
@@ -3871,7 +3871,7 @@ translate italiantl c4hatchery_30f82174:
 translate italiantl c4hatchery_38e604d2:
 
     # c "Great. I have to get going now, but I'll be sure to let you know if anything's up."
-    c "Ottimo. Devo andare adesso, ma mi assicurerò di farti sapere se ci sono novità."
+    c "Ottimo. Devo andare adesso, ma vedrò di farti sapere se ci sono novità."
 
 # game/chapter4.rpy:3199
 translate italiantl c4hatchery_e37c27a2:
@@ -4357,7 +4357,7 @@ translate italiantl _call_syscheck_81_85c543cb:
 translate italiantl _call_syscheck_81_543b2ee0:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', a una qualche altra volta, [player_name]."
+    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]."
 
 # game/chapter4.rpy:3588
 translate italiantl _call_syscheck_81_a1ae6a4e:
@@ -4417,7 +4417,7 @@ translate italiantl _call_syscheck_81_85c543cb_1:
 translate italiantl _call_syscheck_81_543b2ee0_1:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', a una qualche altra volta, [player_name]."
+    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]."
 
 # game/chapter4.rpy:3647
 translate italiantl _call_syscheck_81_a1ae6a4e_1:
@@ -4609,7 +4609,7 @@ translate italiantl _call_syscheck_82_85c543cb:
 translate italiantl _call_syscheck_82_543b2ee0:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', a una qualche altra volta, [player_name]."
+    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]."
 
 # game/chapter4.rpy:3818
 translate italiantl _call_syscheck_82_a1ae6a4e:
@@ -4669,7 +4669,7 @@ translate italiantl _call_syscheck_82_85c543cb_1:
 translate italiantl _call_syscheck_82_543b2ee0_1:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', a una qualche altra volta, [player_name]."
+    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]."
 
 # game/chapter4.rpy:3877
 translate italiantl _call_syscheck_82_a1ae6a4e_1:
@@ -5191,7 +5191,7 @@ translate italiantl _call_skipcheck_21_76b2fe88_7:
 translate italiantl _call_skipcheck_21_90482d26:
 
     # n "It was then that I had a terrible realization: The portals in the present didn't exist anymore, or were no longer operational."
-    n "Fu allora che giunsi a una terribile conclusione. I portali nel presente non esistevano più, o non erano più operativi." # preserved uppercase letter
+    n "Fu allora che giunsi a una terribile conclusione: i portali nel presente non esistevano più, o non erano più operativi." # corrected lowercase letter
 
 # game/chapter4.rpy:4378
 translate italiantl _call_skipcheck_21_1d549a46:
@@ -5209,7 +5209,7 @@ translate italiantl _call_skipcheck_21_ee95b45c:
 translate italiantl _call_skipcheck_21_ad245946:
 
     # n "In my mind, only one possibility remained: Superweapons. Various nations had been using them as bargaining chips for some time. I didn't think the threats had become that serious, but one of them must have launched their weapon and destroyed the majority of Earth."
-    n "Nella mia mente, rimaneva una sola eventualità. Super-armi. Diverse nazioni le usavano ormai già da qualche tempo come moneta di scambio. Non credevo che le minacce fossero divenute tanto gravi, ma una di esse doveva aver lanciato le proprie armi e distrutto la maggior parte della Terra." # preserved uppercase letter, also "their weaponS"
+    n "Nella mia mente, rimaneva una sola eventualità: super-armi. Diverse nazioni le usavano ormai già da qualche tempo come moneta di scambio. Non credevo che le minacce fossero divenute tanto gravi, ma una di esse doveva aver lanciato le proprie armi e distrutto la maggior parte della Terra." # corrected lowercase letter, also "their weaponS"
 
 # game/chapter4.rpy:4385
 translate italiantl _call_skipcheck_21_76b2fe88_8:
@@ -5774,7 +5774,7 @@ translate italiantl _call_skipcheck_21_83d06e49:
 translate italiantl _call_skipcheck_21_1eada674:
 
     # As "It was designed to provide sustainable power completely independently from any already existing network or power lines. It gains energy from many sources - sun rays, earth's heat and movement, just to name a few."
-    As "Era stato progettato per fornire energia sostenibile in modo del tutto indipendente da qualsiasi rete o linea elettrica preesistente. Esso ricava energia da molte sorgenti—i raggi solari, il calore e il movimento della Terra, solo per citarne alcune." # slightly pruned to fit three lines, corrected em-dash, also "already existing" -> "preexisting"
+    As "Era stato progettato per fornire energia sostenibile in modo del tutto indipendente da qualsiasi rete o linea elettrica preesistente. Trae energia da molte sorgenti—i raggi solari, il calore e il movimento della Terra, solo per citarne alcune." # corrected em-dash, corrected uppercase letter of "Earth", also "already existing" -> "preexisting"
 
 # game/chapter4.rpy:4594
 translate italiantl _call_skipcheck_21_abe0cbc6:
@@ -5786,7 +5786,7 @@ translate italiantl _call_skipcheck_21_abe0cbc6:
 translate italiantl _call_skipcheck_21_5a982d08:
 
     # As "Taking its power from Earth itself, a generator like this could continue providing power to the lab indefinitely."
-    As "Traendo la sua energia dalla Terra stessa, un generatore come questo potrebbe continuare a fornire energia al laboratorio indefinitamente."
+    As "Prendendo la sua energia dalla Terra stessa, un generatore come questo potrebbe continuare a fornire energia al laboratorio indefinitamente."
 
 # game/chapter4.rpy:4598
 translate italiantl _call_skipcheck_21_22ea504f:

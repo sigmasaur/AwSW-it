@@ -16,7 +16,7 @@ translate italiantl chapter3_76b2fe88_1:
 translate italiantl chapter3_0adae58e:
 
     # n "The morning sun declared the arrival of a new day and woke me from my vivid dreams. Memories of my home, enclosed within the towering perimeter wall raced through my head."
-    n "Il sole mattutino proclamò l'arrivo di un nuovo giorno e mi risvegliò da vividi sogni. Ricordi di casa mia, rinchiusa fra le alte mura perimetrali mi attraversarono la mente." # "head" -> "mind"
+    n "Il sole mattutino proclamò l'arrivo di un nuovo giorno e mi risvegliò da vividi sogni. Ricordi di casa mia, rinchiusa fra le alte mura di cinta mi attraversarono la mente." # "wallS", "head" -> "mind"
 
 # game/chapter3.rpy:576
 translate italiantl chapter3_f37eb593:
@@ -154,7 +154,7 @@ translate italiantl chapter3_f1930e50:
 translate italiantl chapter3_c72ebea5:
 
     # Br "I bet you're sorry about your diabetes joke now, huh?"
-    Br "Scommetto che ti penti del tuo scherzo sul diabete adesso, eh?"
+    Br "Scommetto che ti penti della tua battuta sul diabete adesso, eh?"
 
 # game/chapter3.rpy:707
 translate italiantl chapter3_99997eb2:
@@ -172,7 +172,7 @@ translate italiantl chapter3_4838dbe2:
 translate italiantl chapter3_7db4a2dc:
 
     # c "Let's just get this over with."
-    c "Cerchiamo solo di sbrigarci."
+    c "Cerchiamo solo di fare in fretta."
 
 # game/chapter3.rpy:719
 translate italiantl chapter3_f5a56af5:
@@ -184,7 +184,7 @@ translate italiantl chapter3_f5a56af5:
 translate italiantl chapter3_b9def07b:
 
     # c "Yeah, I'm fine. Let's just get this over with."
-    c "Sì, sto bene. Cerchiamo solo di sbrigarci."
+    c "Sì, sto bene. Cerchiamo solo di fare in fretta."
 
 # game/chapter3.rpy:729
 translate italiantl chapter3_e7043b09:
@@ -244,7 +244,7 @@ translate italiantl chapter3_d19f855d:
 translate italiantl chapter3_c72ebea5_1:
 
     # Br "I bet you're sorry about your diabetes joke now, huh?"
-    Br "Scommetto che ti penti del tuo scherzo sul diabete adesso, eh?"
+    Br "Scommetto che ti penti della tua battuta sul diabete adesso, eh?"
 
 # game/chapter3.rpy:792
 translate italiantl chapter3_99997eb2_1:
@@ -262,7 +262,7 @@ translate italiantl chapter3_4f1de054:
 translate italiantl chapter3_7db4a2dc_1:
 
     # c "Let's just get this over with."
-    c "Cerchiamo solo di sbrigarci."
+    c "Cerchiamo solo di fare in fretta."
 
 # game/chapter3.rpy:806
 translate italiantl chapter3_f5a56af5_1:
@@ -274,7 +274,7 @@ translate italiantl chapter3_f5a56af5_1:
 translate italiantl chapter3_b9def07b_1:
 
     # c "Yeah, I'm fine. Let's just get this over with."
-    c "Sì, sto bene. Cerchiamo solo di sbrigarci."
+    c "Sì, sto bene. Cerchiamo solo di fare in fretta."
 
 # game/chapter3.rpy:814
 translate italiantl chapter3_e7043b09_1:
@@ -654,7 +654,7 @@ translate italiantl c3conty_ba0bb0d4:
 translate italiantl c3conty_03186aad:
 
     # Br "Let's go then, shall we?"
-    Br "Andiamo allora, vuoi?"
+    Br "Andiamo allora, che ne dici?"
 
 # game/chapter3.rpy:1062
 translate italiantl c3conty_b1e13d6a:
@@ -1380,7 +1380,7 @@ translate italiantl c3conty_76b2fe88_7:
 translate italiantl c3conty_781ee130:
 
     # n "Of course, there were also wars over resources and territory. The weaponry used was improvised, or reclaimed from the days when humans had been present on the battlefield. It had been ages, but people returned to the old, bloody ways of war."
-    n "Naturalmente, vi furono anche guerre per le risorse e il territorio. L'arsenale impiegato era improvvisato, o rivendicato dai giorni in cui gli umani erano stati presenti sul campo di battaglia. Erano passati degli anni, ma la gente era ritornata alle vecchie e sanguinose vie della guerra." # "ages" -> "years"
+    n "Naturalmente, vi furono anche guerre per le risorse e il territorio. L'arsenale impiegato era improvvisato, o rivendicato dai giorni in cui gli umani erano stati presenti sul campo di battaglia. Erano passati anni, ma la gente era ritornata alle vecchie e sanguinose vie della guerra." # "ages" -> "years"
 
 # game/chapter3.rpy:1409
 translate italiantl c3conty_bf73796a:
@@ -1392,7 +1392,7 @@ translate italiantl c3conty_bf73796a:
 translate italiantl c3conty_d0161738:
 
     # n "Those that I'd call family and friends now live with me in a giant, mostly self-sufficient city-state of survivors. A huge wall around the perimeter, guarded by militia, prevents any outside interference."
-    n "Coloro che chiamerei la mia famiglia e i miei amici ora vivono assieme a me in una gigantesca e pressoché autosufficiente città-stato di sopravvissuti. Un enorme muro attorno al perimetro, presidiato dalla milizia, impedisce qualsiasi interferenza esterna." # "I'd call MY family and friends"
+    n "Coloro che chiamerei la mia famiglia e i miei amici ora vivono con me in una gigantesca e pressoché autosufficiente città-stato di sopravvissuti. Un enorme muro attorno al perimetro, presidiato dalla milizia, impedisce qualsiasi interferenza esterna." # "I'd call MY family and friends"
 
 # game/chapter3.rpy:1413
 translate italiantl c3conty_43c1cb3e:
@@ -1410,7 +1410,7 @@ translate italiantl c3conty_76b2fe88_8:
 translate italiantl c3conty_88940164:
 
     # n "Our contained community has flourished for years now. We have homes to live in, crops to grow and livestock to raise, and still have our own, automated hospital that runs on salvaged generators. Lately, though, supplies have started to run low, and dangerously so."
-    n "La nostra comunità così contenuta prospera ormai da anni. Abbiamo case in cui vivere, piantagioni da coltivare e bestiame da allevare, e ancora disponiamo di un nostro ospedale automatizzato alimentato da generatori di recupero. Recentemente, però, le scorte hanno iniziato a scarseggiare, e in modo pericoloso."
+    n "La nostra comunità così contenuta prospera ormai da anni. Abbiamo case in cui vivere, coltivazioni e allevamenti, e abbiamo ancora un nostro ospedale automatizzato, alimentato da generatori di recupero. Di recente, però, le scorte hanno iniziato a scarseggiare, e anche pericolosamente."
 
 # game/chapter3.rpy:1422
 translate italiantl c3conty_2ae8294e:
@@ -1422,7 +1422,7 @@ translate italiantl c3conty_2ae8294e:
 translate italiantl c3conty_1292ad6d:
 
     # n "We took a great risk to increase the radius of our scouting missions, desperate to find something outside the wall that could help us."
-    n "Abbiamo corso un grave rischio nell'aumentare il raggio delle nostre missioni esplorative, nel disperato bisogno di trovare qualcosa al di fuori delle mura che potesse aiutarci."
+    n "Abbiamo corso un grave rischio nell'aumentare il raggio delle nostre missioni esplorative, nel disperato bisogno di trovare qualcosa fuori delle mura che potesse aiutarci." # "wallS"
 
 # game/chapter3.rpy:1448
 translate italiantl c3conty_aa3be625:
@@ -1998,7 +1998,7 @@ translate italiantl c3conty_60884f44:
 translate italiantl c3conty_b81e0d1c:
 
     # c "About Reza? I'm afraid so."
-    c "Riguardo [Rz]? Temo di sì."
+    c "Riguardo a [Rz]? Temo di sì."
 
 # game/chapter3.rpy:1678
 translate italiantl c3conty_fd1a5ea6:
@@ -3496,7 +3496,7 @@ translate italiantl c3sections_ff99562e:
 translate italiantl c3sections_82efe758:
 
     # m "Regardless, the words I held in my hands were unmistakable: {i}Don't go to the portal.{/i}"
-    m "Malgrado tutto, le parole che stringevo nelle mie mani erano inequivocabili. {i}Non andare al portale.{/i}" # preserved uppercase letter
+    m "Malgrado tutto, le parole che stringevo nelle mie mani erano inequivocabili: {i}Non andare al portale.{/i}"
 
 # game/chapter3.rpy:2459
 translate italiantl c3sections_19ce5166:
@@ -3556,7 +3556,7 @@ translate italiantl _call_lazycheck_1_1f4af686:
 translate italiantl _call_lazycheck_1_81e8eafa:
 
     # m "Long, grotesque shadows stretched before me, and the atmosphere was eerie and dangerous. I couldn't tell if it was because of the evening's shroud of darkness, or if the urgent situation tugging at my mind had twisted my perception."
-    m "Lunghe e grottesche ombre si allungavano davanti a me, e l'atmosfera era densa di mistero e di pericolo. Non riuscivo a dire se fosse per via del manto di oscurità della sera, o se l'incalzante situazione che mi carpiva la mente avesse distorto la mia percezione."
+    m "Ombre lunghe e grottesche si allungavano davanti a me, e l'atmosfera era una di mistero e di pericolo. Non sapevo dire se fosse a causa del manto di oscurità della sera, o se l'incalzante situazione che mi carpiva la mente avesse distorto la mia percezione."
 
 # game/chapter3.rpy:2543
 translate italiantl _call_lazycheck_1_49727304:
@@ -4060,7 +4060,7 @@ translate italiantl c3fac_47de3b7f:
 translate italiantl c3fac_0689c98b:
 
     # Dm face "Yes. Where I come from, people usually introduce themselves before they start asking questions, though."
-    Dm face "Sì. Da dove vengo io, la gente di solito si presenta prima di iniziare a far domande, comunque."
+    Dm face "Sì. Dalle mie parti, la gente di solito si presenta prima di iniziare a far domande, comunque."
 
 # game/chapter3.rpy:2845
 translate italiantl c3fac_2c897276:
@@ -4612,7 +4612,7 @@ translate italiantl c3arc_7860fa8b:
 translate italiantl c3arc_417b34b4:
 
     # Ka "The cart is pretty heavy, so I'll be the one lifting it and holding the wheel steady so the axle doesn't break. Once I give you the sign, you start pulling, and hopefully that'll do the trick."
-    Ka "Il carretto è piuttosto pesante, quindi sarò io a sollevarlo e a tenere ferma la ruota cosicché l'asse non ceda. Una volta che ti avrò dato il segnale, tu comincia a tirare, e sperabilmente così dovrebbe andare."
+    Ka "Il carretto è piuttosto pesante, quindi sarò io a sollevarlo e a tenere ferma la ruota cosicché l'asse non ceda. Una volta che ti avrò dato il segnale, tu comincia a tirare, e speriamo che così funzioni."
 
 # game/chapter3.rpy:3298
 translate italiantl c3arc_86148265:
@@ -4654,7 +4654,7 @@ translate italiantl c3arc_f09d6257:
 translate italiantl c3arc_108d1fe9:
 
     # m "I started pulling, but the cart turned out to be much heavier than I expected and didn't move."
-    m "Iniziai a tirare, ma il carretto si rivelò essere ben più pesante di quanto mi aspettassi e non si mosse."
+    m "Iniziai a tirare, ma il carretto si rivelò essere molto più pesante di quanto mi aspettassi e non si mosse."
 
 # game/chapter3.rpy:3316
 translate italiantl c3arc_eaa23d82:
@@ -4908,7 +4908,7 @@ translate italiantl c3arcques_da2e32b7:
 translate italiantl c3arcques_847598b9:
 
     # n "Naturally, the products and applications of their research was usually fair game to be used and sold worldwide."
-    n "Naturalmente, i prodotti e le applicazioni della loro ricerca solitamente avevano gioco facile nell'essere impiegati e venduti in tutto il mondo."
+    n "Naturalmente, i prodotti e le applicazioni delle loro ricerche solitamente avevano gioco facile nell'essere impiegati e venduti in tutto il mondo."
 
 # game/chapter3.rpy:3506
 translate italiantl c3arcques_7c9f9a1e:

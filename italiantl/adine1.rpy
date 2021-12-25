@@ -58,7 +58,7 @@ translate italiantl adine1_7c3e6087:
 translate italiantl adine1_56d0beb3:
 
     # c "That's right."
-    c "Corretto."
+    c "È giusto."
 
 # game/adine1.rpy:83
 translate italiantl adine1_9d2d1212:
@@ -100,7 +100,7 @@ translate italiantl adine1choice1_be0b9602:
 translate italiantl adine1choice1_8c2647a6:
 
     # m "I was just about to close the door in her face again when she suddenly spoke up."
-    m "Stavo quasi per richiuderle la porta in faccia quand'ella parlò all'improvviso."
+    m "Facevo per richiuderle la porta in faccia quand'ella parlò all'improvviso."
 
 # game/adine1.rpy:107
 translate italiantl adine1choice1_db4b5fa0:
@@ -334,7 +334,7 @@ translate italiantl _call_skipcheck_10_6ab075ea:
 translate italiantl _call_skipcheck_10_4252207b:
 
     # Ad "Not quite. These are orphaned children I'm talking about. I just volunteer to spend some time with them, so I'm really more of a babysitter and teacher all in one."
-    Ad "Non proprio. Questi di cui parlo sono cuccioli orfani. Faccio solo volontariato per passare un po' di tempo con loro, quindi in realtà sono più che altro una balia e una maestra allo stesso tempo."
+    Ad "Non proprio. Questi di cui parlo sono cuccioli orfani. Faccio solo del volontariato per passare un po' di tempo con loro, quindi in realtà sono più che altro una balia e una maestra allo stesso tempo."
 
 # game/adine1.rpy:309
 translate italiantl _call_skipcheck_10_719209ef:
@@ -358,7 +358,7 @@ translate italiantl _call_skipcheck_10_8a56387f:
 translate italiantl _call_skipcheck_10_03b324fd:
 
     # Ad "Thanks. These kids already didn't get a very good hand in life. I just thought that if I can make even a small difference for them it'd be worth it."
-    Ad "Grazie. Questi piccoli già non hanno avuto una gran buona mano nella vita. Ho solo pensato che se posso fare anche solo una piccola differenza per loro ne sarà valsa la pena." # "it'd be worth it" -> "it'll be worth it"
+    Ad "Grazie. Questi piccoli già non hanno avuto molta fortuna nella vita. Ho solo pensato che se posso fare anche solo una piccola differenza per loro ne sarà valsa la pena." # "it'd be worth it" -> "it'll be worth it"
 
 # game/adine1.rpy:314
 translate italiantl _call_skipcheck_10_d29d4197:
@@ -640,7 +640,7 @@ translate italiantl _call_skipcheck_10_d7e7b442:
 translate italiantl _call_skipcheck_10_9fd77ad2:
 
     # Ad "To be honest, I don't know if it's such a good idea to generalize like that - even if it's good things you're saying about us. We're all different, you know, and not all of us are nice."
-    Ad "Ad essere onesti, non so se generalizzare a quel modo sia una così buona idea—anche se quelle che hai detto di noi sono belle cose. Siamo tutti diversi, sai, e non tutti noi siamo perbene." # corrected em-dash
+    Ad "Ad essere onesti, non so se generalizzare a quel modo sia una così buona idea—anche se quelle che hai detto di noi sono belle cose. Siamo tutti diversi, sai, e non tutti siamo brava gente." # corrected em-dash
 
 # game/adine1.rpy:470
 translate italiantl _call_skipcheck_10_89aefe22:
@@ -916,7 +916,7 @@ translate italiantl choiceb_d3b70432:
 translate italiantl choiceb_2c403123:
 
     # Ad "No one at all? I don't believe you. I think you just don't want to tell me. So, who is the lucky person?"
-    Ad "Proprio nessuno? Non ti credo. Penso che tu semplicemente non voglia dirmelo. Allora, chi è la persona fortunata?"
+    Ad "Proprio nessuno? Non ti credo. Io penso che semplicemente non vuoi dirmelo. Allora, chi è la persona fortunata?"
 
 # game/adine1.rpy:655
 translate italiantl choicec_9c4bb8e8:
@@ -1264,7 +1264,7 @@ translate italiantl nextsc_a70918ca:
 translate italiantl nextsc_e950f342:
 
     # Ad "It's actually underground, and they have it heavily guarded while a team of archaeologists works on it. I think it might contain many secrets and answers about the portal and where it came from."
-    Ad "In effetti è interrato, e lo tengono sotto stretta sorveglianza mentre una squadra di archeologi ci lavora. Penso che potrebbe contenere molti segreti e risposte riguardo il portale e da dove è venuto."
+    Ad "In effetti è interrato, e lo tengono sotto stretta sorveglianza mentre una squadra di archeologi ci lavora. Penso che potrebbe contenere molti segreti e risposte riguardo al portale e da dove è venuto."
 
 # game/adine1.rpy:827
 translate italiantl nextsc_81939529:
@@ -1288,7 +1288,7 @@ translate italiantl nextsc_73c2fcc2:
 translate italiantl nextsc_6507f194:
 
     # Ad "Well, I do have some ideas of what might happen afterwards, but even if what I think isn't true, I'm not afraid of the unknown."
-    Ad "Be', qualche idea ce l'ho su quel che potrebbe accadere in seguito, ma anche se quello che penso non è vero, non ho paura dell'ignoto."
+    Ad "Be', qualche idea ce l'ho su quel che potrebbe accadere in séguito, ma anche se quello che penso non è vero, non ho paura dell'ignoto."
 
 # game/adine1.rpy:834
 translate italiantl nextsc_c1901d4d:
@@ -1630,7 +1630,7 @@ translate italiantl _call_syscheck_48_f69997a6:
 translate italiantl _call_syscheck_48_eeef949d:
 
     # c "Whatever you like."
-    c "Quello che vuoi."
+    c "Quello che ti va."
 
 # game/adine1.rpy:1218
 translate italiantl _call_syscheck_48_bd0be8be:
@@ -1666,7 +1666,7 @@ translate italiantl _call_syscheck_48_1f70b032:
 translate italiantl _call_syscheck_48_dc9e044d:
 
     # Ad "Whoops, seems like I've been here longer than I thought."
-    Ad "Oops, pare sia rimasta qui più a lungo di quanto pensassi."
+    Ad "Oops, pare sia stata qui più a lungo di quanto pensassi."
 
 # game/adine1.rpy:1262
 translate italiantl _call_syscheck_48_5eb06388:
@@ -1808,7 +1808,7 @@ translate italiantl strings:
 
     # adine1.rpy:75
     old "I thought we were over this, but at least you don't reduce me to my species anymore."
-    new "Pensavo fossimo andati oltre, ma almeno non mi riduci più alla mia specie."
+    new "Pensavo fossimo andatɜ oltre, ma almeno non mi riduci più alla mia specie."
 
     # adine1.rpy:75
     old "Likewise."
@@ -2096,7 +2096,7 @@ translate italiantl strings:
 
     # adine1.rpy:923
     old "If you could come back with me to my world right now, would you do it?"
-    new "Se adesso potessi tornare indietro con me nel mio mondo, lo faresti?"
+    new "Se potessi tornare con me nel mio mondo in questo momento, lo faresti?"
 
     # adine1.rpy:923
     old "What's your biggest regret?"

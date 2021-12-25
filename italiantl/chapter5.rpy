@@ -382,7 +382,7 @@ translate italiantl tut_49c5e701:
 translate italiantl tut_dc60dc4d:
 
     # s "During the next playthrough, you may want to make different choices. You may even find the information you've gained this time to be helpful!"
-    s "Durante la prossima partita, potresti voler compiere scelte diverse. Potresti anche trovare utili le informazioni che hai raccolto questa volta!"
+    s "Durante la prossima partita, potresti voler compiere scelte diverse. Potresti anche trovare utili le informazioni che hai ottenuto questa volta!"
 
 # game/chapter5.rpy:909
 translate italiantl tut_10345df0:

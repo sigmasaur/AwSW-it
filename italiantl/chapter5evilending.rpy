@@ -64,7 +64,7 @@ translate italiantl evilending_edd9bfac:
 translate italiantl evilending_d3f8c098:
 
     # c "I only have one question: Why would I share it with you?"
-    c "Ho solo una domanda. Perché dovrei dividerle con te?" # preserved uppercase letter
+    c "Ho solo una domanda: perché dovrei dividerle con te?" # corrected lowercase letter
 
 # game/chapter5evilending.rpy:31
 translate italiantl evilending_bfb60130:
@@ -82,7 +82,7 @@ translate italiantl evilending_32568256:
 translate italiantl evilending_36ce8cdb:
 
     # m "I had acquired it in a previous attempt. I wasn't sure how long ago that was, but I vaguely remembered taking it from Reza's corpse after he had tried to kill me one time."
-    m "Me l'ero procurata in un tentativo precedente. Non sapevo bene a quanto tempo addietro risalisse, ma ricordavo vagamente di averla presa dal corpo di [Rz] dopo ch'egli aveva tentato di uccidermi, una volta."
+    m "Me l'ero procurata in un tentativo precedente. Non ero certə a quanto tempo addietro risalisse, ma ricordavo vagamente di averla presa dal corpo di [Rz] dopo ch'egli aveva tentato di uccidermi, una volta."
 
 # game/chapter5evilending.rpy:45
 translate italiantl evilending_b72c2187:
@@ -130,7 +130,7 @@ translate italiantl evilending_94f76ec3:
 translate italiantl evilending_1c64755a:
 
     # c "You think so? Think again. We both know that humanity would have had so much more to gain if we actually cooperated with the dragons."
-    c "Tu credi? Ricrediti. Sappiamo entrambi che l'umanità avrebbe avuto talmente tanto di più da guadagnarci se avessimo effettivamente collaborato coi draghi."
+    c "Tu credi? Ricrediti. Sappiamo entrambi che l'umanità avrebbe avuto talmente di più da guadagnarci se avessimo effettivamente collaborato coi draghi."
 
 # game/chapter5evilending.rpy:61
 translate italiantl evilending_dab815b3:
@@ -388,7 +388,7 @@ translate italiantl sincethelightswerealreadyon_ace552e3:
 translate italiantl sincethelightswerealreadyon_fb77eac2:
 
     # Rz "[player_name]! You're here? You don't know how glad I am to see you. I've wanted to talk with you for so long. I even tried to contact you, but I couldn't with someone tailing you the whole time."
-    Rz "[player_name]! Sei qui? Non sai quanto sono lieto di vederti. Era da tanto che volevo parlarti. Ho anche cercato di contattarti, ma non potevo con qualcuno alle tue calcagna per tutto il tempo."
+    Rz "[player_name]! Sei qui? Non sai quanto sia felice di vederti. Era una vita che volevo parlarti. Ho anche cercato di contattarti, ma non potevo con qualcuno alle tue calcagna per tutto il tempo."
 
 # game/chapter5evilending.rpy:405
 translate italiantl sincethelightswerealreadyon_5a72fb9a:

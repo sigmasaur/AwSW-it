@@ -16,7 +16,7 @@ translate italiantl anna1_8d584416:
 translate italiantl anna1_b230ba57:
 
     # m "I heard some commotion in the distance, and when I approached, I was surprised to see not only Anna, but Remy as well."
-    m "Udii del trambusto in lontananza, e quando mi avvicinai, fui sorpresə di vedere non solo [An], ma con lei anche [Ry]."
+    m "Udii del trambusto in lontananza, e quando mi avvicinai, fui sorpresə di vedere non solo [An], ma anche [Ry] insieme a lei."
 
 # game/anna1.rpy:37
 translate italiantl anna1_64333f1a:
@@ -592,7 +592,7 @@ translate italiantl _call_skipcheck_7_8179bfe4:
 translate italiantl _call_skipcheck_7_d1a103e3:
 
     # An "Ah, I totally needed that."
-    An "Ah, mi ci voleva assolutamente."
+    An "Ah, mi ci voleva proprio."
 
 # game/anna1.rpy:520
 translate italiantl _call_skipcheck_7_b08c600f:
@@ -1066,7 +1066,7 @@ translate italiantl _call_skipcheck_7_3c8056a2:
 translate italiantl _call_skipcheck_7_8dd493bd:
 
     # An "Who is cited as one of our most important historians, his work spanning over 20 books, credited with mapping out our entire history since the beginning of sentience?"
-    An "Chi è citato come uno dei nostri storici più importanti, il suo lavoro che comprende più di venti libri, cui è attribuito il merito di aver tracciato la nostra intera storia sin dal principio del pensiero cosciente?" # "20" -> "twenty" for elegance
+    An "Chi è citato come uno dei nostri storici più importanti, il suo lavoro che comprende più di venti libri, cui è attribuito il merito di aver tracciato la nostra intera storia sin dal principio della consapevolezza?" # "20" -> "twenty" for elegance
 
 # game/anna1.rpy:808
 translate italiantl _call_skipcheck_7_2fa2fb8c:

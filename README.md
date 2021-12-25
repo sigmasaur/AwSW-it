@@ -70,7 +70,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 385, 408: *to skip seen messages* → *to skip messages*, as it depends on the user's preference.
 * At line 431: Corrected simple past tense *were under consideration* to past perfect, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
-* At line 436, 2837: Corrected colon to full stop to preserve uppercase letter.
+* At line 436, 2738, 2837, 2934: Corrected uppercase letter to lowercase after colon.
 * At line 463: *8* → *eight*, for elegance.
 * At line 1084, 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 1358: Corrected two-dots ellipsis to three-dots.
@@ -84,16 +84,19 @@ The following are mostly to the benefit of the developer and translators.
   * At line 2747: *There's a lot of them.*
   * At line 3609: *Achoo- I mean, excellent.*
 * At line 2737: Slightly adapted *isn't it fascinating* to add an obvious pun without loss of meaning.
-* At line 2738, 2934: Corrected uppercase letter to lowercase.
-* At line 3068: *PDAs* → *PDA*.
-* At line 3226: The actual translation in DE:HR would be just *condolences*; consider unfolding *RIP*.
+* At line 3068: *PDAs* → *PDA*, to match numerous lines throughout the script; also note the following:
+  * No more than one PDA unit is ever interacted with or referred to at one time, except when talking about the PDAs as a whole.
+  * Neither the number of PDAs to be delivered by, nor actually given to the player character before the portal's shutdown, is ever addressed.
+  * Even though `Reza` was given a PDA of his own as per line 452, it was before the trade was even set up, so it shouldn't count towards the PDAs to be delivered.
+* At line 3197: Corrected *are the likely cause* → *is the likely cause*.
+* At line 3226: The actual translation in Deus Ex would be just *condolences*; consider unfolding *RIP*.
 * At line 3245, 3347: Rendered *legs* as *paws*.
 * At line 3712: Assumed *sorry* is addressed to `Sebastian`.
 
 ### [`chapter2.rpy`](italiantl/chapter2.rpy)
 
 * At line 523, 1278, 3228, 3312, 3712, 3792, 4226: Corrected simple dash to em-dash.
-* At line 572, 958, 1056, 1816, 1826, 1830: Corrected uppercase letter to lowercase.
+* At line 572, 958, 1056, 1816, 1826, 1830, 3510, 3680: Corrected uppercase letter to lowercase after colon.
 * At line 649: Rendered *legs* as *paws*.
 * At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware that the intended gender agreement is syntactic, as semantic agreement of *that* \[<i>quell-</i>\] with the player character would have been rendered with the inclusive gender instead \[<i>-ə</i>\].)
 * At line 1036, 1148, 3771: Slightly pruned to fit fewer lines.
@@ -103,20 +106,18 @@ The following are mostly to the benefit of the developer and translators.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
   * At line 2423: A playful exclamation of surprise.
   * At line 3824: This had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
-* At line 3510, 3680: Corrected colon to full stop to preserve uppercase letter.
 
 ### [`chapter3.rpy`](italiantl/chapter3.rpy)
 
-* At line 823, 825, 835, 847, 882, 988, 996, 1219, 1278, 1139, 1478: *PDAs* → *PDA*.
+* At line 823, 825, 835, 847, 882, 988, 996, 1219, 1278, 1139, 1478: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
 * At line 849, 884: Split in multiple parts to fit fewer lines.
-* At line 860, 2439: Corrected uppercase letter to lowercase.
+* At line 860, 2439: Corrected uppercase letter to lowercase after colon.
 * At line 1264-1266: Corrected future tenses to conditional, as we're supposedly talking of the yet speculative case where the player character doesn't go through the portal as per `Emera`'s resolve.
 * At line 1346: *10* → *ten*, for elegance.
 * At line 1346: *Hiroshima* → *atomic*, for elegance, not to mention we're supposedly addressing `Bryce` and `Emera`, who can't possibly know about it; the resulting expression reads better without loss of meaning.
 * At line 1383: *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
 * At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
-* At line 2457: Corrected colon to full stop to preserve uppercase letter.
 * At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of [`chapter1.rpy`](#chapter1rpy).
 * At line 3098: Slightly pruned to fit fewer lines.
 * At line 3639: *pockets* → *pocket*, to match line 2312.
@@ -125,14 +126,14 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`chapter4.rpy`](italiantl/chapter4.rpy)
 
-* At line 762, 922: Corrected uppercase letter to lowercase.
+* At line 762, 922, 4375, 4382: Corrected uppercase letter to lowercase after colon.
 * At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash to em-dash.
 * At line 1094: Used if-statement to distinguish whether `Anna` survives or not, and corrected present tenses to simple past in the latter case.
 * At line 1368-1736: The following is a simplified flow chart to help keeping track of which section spoken by the system refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** are persistent variables starting resp. from `0`, `FALSE`. Note that **`CHEAT`** may jump from `0` to `2` but may never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
   * At line 1676-1736: Note that these lines also trigger if `Bryce` has been saved at least once after dying, then just died again and the user tries to cheat for the *first* time, resulting in a possibly unintended behavior (see e.g. line 1696).
 * At line 1708: Slightly pruned to fit fewer lines.
 * At line 1812: Note that in theory, dragons don't know what a car is.
-* At line 2035, 2836, 2873, 2909, 2946: *PDAs* → *PDA*.
+* At line 2035, 2836, 2873, 2909, 2946: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
 * At line 2411: `Shake` function doesn't seem to trigger.
 * At line 3236, 3315, 3468, 3698: Rendered *leg* as *paw*.
 * At line 3285-3289, 3379-3383, 3438-3442, 3511-3515, 3742-3746: Adapted to preserve a pun; reverse translation: *Exceptional.*
@@ -140,7 +141,6 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4345, 4353: *65* → *sixty-five*, for elegance.
 * At line 4365: About *aligning \[the portals\] across the time axis*, note that `Izumi` would still have had to bypass the anti-time travel safeguards for her to be able to return, assuming the portals in the present were still operational.
 * At line 4367: *that meant that* → *moreover*, as there's no real logical implication between line 4365 and this line.
-* At line 4375, 4382: Corrected colon to full stop to preserve uppercase letter.
 * At line 4432, 4614: *AI* → *artificial intelligence*, for elegance.
 * At line 4462: *10km* → *ten kilometers*, for elegance.
 * At line 4468, *75%* → *seventy-five percent*, for elegance.
@@ -159,10 +159,9 @@ The following are mostly to the benefit of the developer and translators.
 ### [`chapter5evilending.rpy`](italiantl/chapter5evilending.rpy)
 
 * At line 11, 19, 33, 71, 473, 545: Corrected simple dash to em-dash.
-* At line 25: Corrected colon to full stop to preserve uppercase letter.
+* At line 25, 517, 845: Corrected uppercase letter to lowercase after colon.
 * At line 347, 371: *generators* → *generator*, to match lines 4520, 4590 of [`chapter4.rpy`](#chapter4rpy).
   * Note that *the building still having electricity* despite `Reza` having gotten its generator, which was supposed to be *also powering the portal*, is explained by `Reza` himself at line 449, revealing the presence of a backup. At the same line, however, `Reza` claims he *could even get the backup generator as well*, suggesting that the portal is really powered by other means. Whether this is truly the case is never addressed.
-* At line 517, 845: Corrected uppercase letter to lowercase.
 * At line 565: Assumed *it* is referred to *the solution* at line 563.
 * At line 638: Consider adding parentheses to render the monologue a proper soliloquy.
 * At line 733-741: *10* → *ten*, for elegance.
@@ -171,7 +170,7 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 39: *containers* → *container*, to match `cgadine2.png` and line 129.
 * At line 61-67: Note that these lines also trigger if the user managed to save `Bryce` and returned the eggs to the hatchery, thus having already encountered `Adine` before the actual meeting.
-* At line 286, 785: Corrected uppercase letter to lowercase.
+* At line 286, 785: Corrected uppercase letter to lowercase after colon.
 * At line 307: Rendered *children* as *cubs*.
 * At line 468, 520, 929: Corrected simple dash to em-dash.
 
@@ -180,7 +179,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 53-55: See lines 61-67 of [`adine1.rpy`](#adine1rpy).
 * At line 215: Rendered *children* as *cubs*.
 * At line 346: Removed extra space before full stop.
-* At line 569, 617, 668, 753: Corrected uppercase letter to lowercase.
+* At line 569, 617, 668, 753: Corrected uppercase letter to lowercase after colon.
 * At line 1053: Slightly pruned to fit fewer lines.
 
 ### [`adine3.rpy`](italiantl/adine3.rpy)
@@ -218,7 +217,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 732, 938: Rendered *children* as *cubs*.
 * At line 801: *20* → *twenty*, for elegance.
 * At line 803, 888, 965: Note that wrong answers to `Anna`'s questions seem to be undo-able.
-* At line 932: Corrected uppercase letter to lowercase.
+* At line 932: Corrected uppercase letter to lowercase after colon.
 * At line 963, 965: *#1* → *one*, for elegance.
 * At line 963, 965: *#2* → *two*, for elegance.
 * At line 963, 965, 978, 989: *#3* → *three*/*third*, for elegance.

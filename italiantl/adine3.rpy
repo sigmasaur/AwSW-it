@@ -190,7 +190,7 @@ translate italiantl _call_skipcheck_9_0f78c647:
 translate italiantl _call_skipcheck_9_1f98587f:
 
     # Ad "I practice just about anywhere, but today's a nice day for a beach visit. Water and sand are also good surfaces to practice complicated maneuvers on, in case you can't make the landing."
-    Ad "Mi alleno pressoché dovunque, ma oggi è una bella giornata per una visita alla spiaggia. Acqua e sabbia sono anche buone superfici su cui praticare manovre complicate, in caso mancassi l'atterraggio."
+    Ad "Mi alleno un po' ovunque, ma oggi è una bella giornata per una visita alla spiaggia. Acqua e sabbia sono anche buone superfici su cui praticare manovre complicate, in caso mancassi l'atterraggio."
 
 # game/adine3.rpy:198
 translate italiantl _call_skipcheck_9_3d635180:
@@ -610,7 +610,7 @@ translate italiantl _call_skipcheck_9_284507c8:
 translate italiantl _call_skipcheck_9_3465527b:
 
     # m "We both started looking for another appropriate stone. I saw Adine scratching around the sand with one of her feet. She crouched down to pick something up before she returned to me."
-    m "Iniziammo entrambi a cercare un'altra pietra adeguata. Vidi [Ad] razzolare nella sabbia con un piede. Si chinò a raccogliere qualcosa prima di ritornare da me."
+    m "Iniziammo entrambɜ a cercare un'altra pietra adeguata. Vidi [Ad] razzolare nella sabbia con un piede. Si chinò a raccogliere qualcosa prima di ritornare da me."
 
 # game/adine3.rpy:367
 translate italiantl _call_skipcheck_9_9b2cc641:
@@ -1192,7 +1192,7 @@ translate italiantl _call_skipcheck_9_006c6c43:
 translate italiantl _call_skipcheck_9_106af37c:
 
     # c "Actually, we have fishing rods for that where I come from."
-    c "In effetti, abbiamo la canna da pesca per quello da dove vengo."
+    c "In effetti, dalle mie parti abbiamo la canna da pesca per quello."
 
 # game/adine3.rpy:655
 translate italiantl _call_skipcheck_9_f10f3831_1:
@@ -2393,7 +2393,7 @@ translate italiantl adine3skip_bc9f37b6:
 translate italiantl adine3skip_0fb5135d:
 
     # Ad "Alright. It'll be a while until I get a chance to visit, anyway. All my free time right now will go towards practicing for the competition."
-    Ad "D'accordo. Ci vorrà un po' prima che abbia occasione di fare visita, comunque. Tutto il mio tempo libero in questo momento sarà volto ad allenarmi per la competizione."
+    Ad "D'accordo. Ci vorrà un po' prima che abbia occasione di fare visita, comunque. Tutto il mio tempo libero al momento sarà volto ad allenarmi per la competizione."
 
 # game/adine3.rpy:1286
 translate italiantl adine3skip_89aefe22_2:

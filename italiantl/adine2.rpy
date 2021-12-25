@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_23_1caf3f1f:
 translate italiantl _call_skipcheck_23_4d017343:
 
     # Ad "Not at all. She's such a brave little girl."
-    Ad "Per niente. È una signorina tanto coraggiosa."
+    Ad "Per nulla. È una signorina tanto coraggiosa."
 
 # game/adine2.rpy:211
 translate italiantl _call_skipcheck_23_1e03cd34:
@@ -922,7 +922,7 @@ translate italiantl adine2menb_c6638b47:
 translate italiantl adine2menb_7a3a5cff:
 
     # Ad think b "Apparently, there are different schools of thought regarding the use of fortune telling cards."
-    Ad think b "A quanto pare, ci sono diverse scuole di pensiero riguardo l'uso delle carte divinatorie."
+    Ad think b "A quanto pare, ci sono diverse scuole di pensiero riguardo all'uso delle carte divinatorie."
 
 # game/adine2.rpy:790
 translate italiantl adine2menb_9f38610b:
@@ -1456,7 +1456,7 @@ translate italiantl adine2menb_5b9fa8d9:
 translate italiantl adine2menb_59ab7f92:
 
     # c "I'm imagining it very hard right now."
-    c "Lo sto immaginando molto forte in questo momento."
+    c "Lo sto immaginando molto forte al momento."
 
 # game/adine2.rpy:1097
 translate italiantl adine2menb_0ce1db36:
@@ -1570,7 +1570,7 @@ translate italiantl adine2menb_1277548e:
 translate italiantl adine2menb_c5d42cb2:
 
     # Ad think b "Actually, I'm not so sure about that. I mailed the application earlier today, so hopefully it will arrive before the deadline."
-    Ad think b "In effetti, non ne sarei così sicura. Ho spedito la domanda oggi di buon'ora, quindi sperabilmente arriverà prima della scadenza."
+    Ad think b "In effetti, non ne sarei così sicura. Ho spedito la domanda oggi di buon'ora, quindi speriamo che arrivi prima della scadenza."
 
 # game/adine2.rpy:1135
 translate italiantl adine2menb_560c5588:
@@ -1762,7 +1762,7 @@ translate italiantl adine2skip_83335fed:
 translate italiantl adine2skip_42be37ee:
 
     # c "And that so shortly after finding out that humans are, in fact, real."
-    c "E questo appena dopo aver scoperto che gli umani sono, in effetti, reali."
+    c "E questo appena dopo aver scoperto che gli umani sono, di fatto, reali."
 
 # game/adine2.rpy:1236
 translate italiantl adine2skip_7089d516:

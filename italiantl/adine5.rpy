@@ -412,7 +412,7 @@ translate italiantl _call_endingjustafewminuteslater_4_8d761ee7:
 translate italiantl _call_endingjustafewminuteslater_4_c1fda0a6:
 
     # n "I met with Adine for one last time to tell her about my plan: I would use the portal to try again, hoping for a better outcome."
-    n "M'incontrai con [Ad] un'ultima volta per dirle del mio piano: avrei usato il portale per tentare ancora, sperando in un esito migliore."
+    n "Mi incontrai con [Ad] un'ultima volta per dirle del mio piano: avrei usato il portale per tentare ancora, sperando in un esito migliore."
 
 # game/adine5.rpy:341
 translate italiantl _call_endingjustafewminuteslater_4_76b2fe88_2:

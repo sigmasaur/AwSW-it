@@ -436,7 +436,7 @@ translate italiantl _call_skipcheck_30_977d9843:
 translate italiantl _call_skipcheck_30_a1b5b231:
 
     # m "She seemed to be examining her shoulder, somewhat lost in thought when I spoke up."
-    m "Lei sembrava esaminare la sua spalla, in qualche modo persa nei suoi pensieri quando io parlai."
+    m "Sembrava esaminare la sua spalla, in qualche modo persa nei suoi pensieri quando parlai."
 
 # game/adine4.rpy:275
 translate italiantl _call_skipcheck_30_bd3b9cdf:
@@ -610,7 +610,7 @@ translate italiantl _call_skipcheck_30_b529e5e9:
 translate italiantl _call_skipcheck_30_a09871d5:
 
     # m "After the competition started, I lost myself in thought, thinking over the conversation I had with Adine while watching the other contestants halfheartedly."
-    m "Dopo che la competizione ebbe inizio, mi persi nei miei pensieri, ripensando alla conversazione che avevo avuto con [Ad] mentre guardavo distrattamente gli altri partecipanti."
+    m "Dopo che la competizione ebbe inizio, mi persi nei miei pensieri, rimuginando la conversazione che avevo avuto con [Ad] mentre guardavo distrattamente gli altri partecipanti."
 
 # game/adine4.rpy:335
 translate italiantl _call_skipcheck_30_dbeb7d2e:
@@ -784,7 +784,7 @@ translate italiantl _call_skipcheck_30_927a52bd:
 translate italiantl _call_skipcheck_30_2cf374d0:
 
     # Ad "You won't notice it just by looking at it, but over the last couple of weeks I have noticed that it has changed positions when comparing it to other stars."
-    Ad "Non lo noti se la guardi soltanto, ma nel corso delle ultime due settimane ho notato che ha cambiato posizione a confronto con le altre stelle."
+    Ad "Non lo noti se la guardi soltanto, ma nel corso delle ultime due settimane ho notato che ha cambiato posizione se paragonata alle altre stelle."
 
 # game/adine4.rpy:421
 translate italiantl _call_skipcheck_30_b5b8a169:
@@ -1180,7 +1180,7 @@ translate italiantl _call_skipcheck_30_c2b28a95:
 translate italiantl _call_skipcheck_30_976c2a4a:
 
     # c "I'm sorry. For what it's worth, I think you made the right decision in the end."
-    c "Mi dispiace. Per quel che vale, credo che tu abbia preso la decisione giusta alla fine."
+    c "Mi dispiace. Per quel che vale, credo tu abbia preso la decisione giusta alla fine."
 
 # game/adine4.rpy:553
 translate italiantl _call_skipcheck_30_91e5a9c9:

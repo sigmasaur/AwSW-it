@@ -1243,19 +1243,19 @@ translate italiantl chapter2sections2_864b25a3:
 translate italiantl chapter2sections2_9196ef07:
 
     # n "My earlier encounter with the masked person was the only time today someone was close enough to smuggle something into my pocket. I figured if someone like Bryce tried to do something like that, I definitely would have noticed."
-    n "Il mio precedente incontro con la persona mascherata era stata la sola volta quel giorno in cui qualcuno mi fosse stato abbastanza vicino da infilarmi di nascosto qualcosa in tasca. Pensai che se uno come [Br] avesse tentato di fare qualcosa del genere, me ne sarei certamente accortə."
+    n "Il mio precedente incontro con la persona mascherata era stata la sola volta quel giorno in cui qualcuno mi fosse stato abbastanza vicino da farmi scivolare qualcosa in tasca. Pensai che se uno come [Br] avesse tentato di fare una cosa del genere, me ne sarei certamente accortə."
 
 # game/chapter2.rpy:1166
 translate italiantl chapter2sections2_53e1b848:
 
     # n "As for \"Tatsu\"... The only related thing I could think of was Tatsu Park, which I had come across when I went to the police station the other day."
-    n "Riguardo \"Tatsu\"... L'unica relazione che mi venisse in mente era con Tatsu Park, nel quale mi ero imbattutə quand'ero andatə alla stazione di polizia l'altro giorno."
+    n "Quanto a \"Tatsu\"... L'unica relazione che mi venisse in mente era con Tatsu Park, nel quale mi ero imbattutə quand'ero andatə alla stazione di polizia l'altro giorno."
 
 # game/chapter2.rpy:1168
 translate italiantl chapter2sections2_1fd7deb2:
 
     # n "Even if that park was the place the mysterious paper referred to, I didn't know if it was actually a good idea to visit. The masked person may have saved me from the falling light fixture, but if it was Reza, it would mean following someone who was also the prime suspect of two murders."
-    n "Se anche quel parco fosse stato il posto cui il misterioso foglietto si riferiva, non sapevo se visitarlo sarebbe stata effettivamente una buona idea. La persona mascherata poteva anche avermi salvato dall'impianto luminoso, ma se fosse stata [Rz], avrebbe significato seguire qualcuno che era anche il sospettato principale di due omicidi."
+    n "Se anche quel parco fosse stato il posto cui il misterioso foglietto si riferiva, non sapevo se visitarlo sarebbe stata effettivamente una buona idea. La persona mascherata poteva anche avermi salvato dall'impianto luminoso, ma se fosse stata [Rz], avrebbe significato seguire qualcuno che era anche il principale sospetto di due omicidi."
 
 # game/chapter2.rpy:1170
 translate italiantl chapter2sections2_a3c147d5:
@@ -1461,7 +1461,7 @@ translate italiantl chap2store_c35fdf03:
 translate italiantl chap2store_e39d4dc3:
 
     # c "I'm very sorry about that. I was drunk out of my mind."
-    c "Ti chiedo davvero scusa per quello. Ero completamente ubriacə."
+    c "Ti chiedo davvero scusa per quello. Ero ubriacə fradiciə."
 
 # game/chapter2.rpy:1386
 translate italiantl chap2store_87a08b08:
@@ -2175,7 +2175,7 @@ translate italiantl chap2facques_e6e60faf:
 translate italiantl chap2facques_234c334f:
 
     # Dm arrogant "Cancer research. She thinks she can cure it, but she's out of her mind."
-    Dm arrogant "Ricerca sul cancro. Lei pensa di poterlo curare, ma è fuori di testa."
+    Dm arrogant "Ricerche sul cancro. Lei pensa di poterlo curare, ma è fuori di testa."
 
 # game/chapter2.rpy:1895
 translate italiantl chap2facques_6e045e60:
@@ -2199,7 +2199,7 @@ translate italiantl chap2facques_af3f998c:
 translate italiantl chap2facques_20d31919:
 
     # c "You did?"
-    c "Tu?"
+    c "Sei forse tu?"
 
 # game/chapter2.rpy:1921
 translate italiantl chap2facques_ef5a3905:
@@ -2721,7 +2721,7 @@ translate italiantl chap2park_63c3de98:
 translate italiantl chap2park1choice_891ef6d9:
 
     # "\"This park is dedicated to our creator, to whom we owe our sentience and existence. As it is our duty to remember, this place honors them every day with its beauty and grants a place of recreation and contemplation to all of us.\""
-    "\"Questo parco è dedicato al nostro creatore, cui dobbiamo la nostra condizione di esseri senzienti. Poiché è nostro dovere ricordare, questo luogo l'onora ogni giorno con la sua bellezza e garantisce un posto ricreativo e contemplativo a tutti noi.\""
+    "\"Questo parco è dedicato al nostro creatore, cui dobbiamo la nostra esistenza e consapevolezza. Poiché è nostro dovere ricordare, questo luogo l'onora ogni giorno con la sua bellezza e garantisce un posto ricreativo e contemplativo a tutti noi.\""
 
 # game/chapter2.rpy:2311
 translate italiantl chap2park1choice_6800c3e1:
@@ -2907,7 +2907,7 @@ translate italiantl _call_syscheck_55_509a5b38:
 translate italiantl _call_syscheck_55_54376d7f:
 
     # m "I was just about to get up when I noticed someone sitting next to me."
-    m "Stavo quasi per alzarmi quando notai qualcuno che mi sedeva accanto."
+    m "Facevo per alzarmi quando notai qualcuno che mi sedeva accanto."
 
 # game/chapter2.rpy:2653
 translate italiantl _call_syscheck_55_3b06ea53:
@@ -3267,7 +3267,7 @@ translate italiantl chap2park3choice_7d41a0ce:
 translate italiantl chap2park3choice_9f6b5cb0:
 
     # Em "Right? Now just imagine what it must be like working with him. He's always running back and forth on my command, like some sort of well-trained, ugly, yappy dog."
-    Em "Vero? Ora immagina solo come debba essere lavorare con lui. Corre continuamente avanti e indietro al mio comando, come una specie di orribile cagnolino uggiolante e ben addestrato."
+    Em "Vero? Ora immagina solo come debba essere lavorare con lui. Non fa che correre avanti e indietro al mio comando, come una specie di cagnetto uggiolante e bene addestrato."
 
 # game/chapter2.rpy:3262
 translate italiantl chap2park3choice_eaa61128:
@@ -3387,7 +3387,7 @@ translate italiantl chap2emselection_7de854e0:
 translate italiantl chap2emselection_dd896968:
 
     # c "Can you tell me more about Tatsu Park?"
-    c "Può dirmi di più riguardo Tatsu Park?"
+    c "Può dirmi di più riguardo a Tatsu Park?"
 
 # game/chapter2.rpy:3332
 translate italiantl chap2emselection_4bbd843e:
@@ -3513,7 +3513,7 @@ translate italiantl _call_skipcheck_12_0c3263aa:
 translate italiantl _call_skipcheck_12_28318dfe:
 
     # Mv "Just tell me one thing: Why?"
-    Mv "Dimmi solo una cosa. Perché?" # preserved uppercase letter
+    Mv "Dimmi solo una cosa: perché?" # corrected lowercase letter
 
 # game/chapter2.rpy:3512
 translate italiantl _call_skipcheck_12_f5e9bd20:
@@ -3609,7 +3609,7 @@ translate italiantl _call_skipcheck_12_6d9e7c4b:
 translate italiantl _call_skipcheck_12_369d093b:
 
     # Mv "That damn hurt, you know."
-    Mv "Ha fatto un male cane, sai."
+    Mv "Ha fatto un male cane, sai." # see line 3250
 
 # game/chapter2.rpy:3573
 translate italiantl _call_skipcheck_12_7f224bac:
@@ -3819,7 +3819,7 @@ translate italiantl _call_skipcheck_12_c9046289:
 translate italiantl _call_skipcheck_12_b3a7298f:
 
     # c "In the end, his only way out is the same way he got in: The portal."
-    c "Alla fine, l'unica sua via d'uscita è la stessa da cui è entrato. Il portale." # preserved uppercase letter
+    c "Alla fine, l'unica sua via d'uscita è la stessa da cui è entrato: il portale." # corrected lowercase letter
 
 # game/chapter2.rpy:3682
 translate italiantl _call_skipcheck_12_e9b06463:
@@ -3843,7 +3843,7 @@ translate italiantl _call_skipcheck_12_2a8954e7:
 translate italiantl _call_skipcheck_12_107283ad:
 
     # c "He's escaped twice now. Each time, he managed to get away without any trouble. I just feel like if we haven't found him by now, we won't do so anytime soon, either. Reza knows what he's doing."
-    c "È già fuggito due volte, e ogni volta è riuscito ad allontanarsi senza alcuna difficoltà. Ho solo la sensazione che se non l'abbiamo ancora trovato, non ci riusciremo neanche nell'immediato futuro. [Rz] sa il fatto suo." # corrected comma
+    c "È già fuggito due volte, e ogni volta è riuscito ad allontanarsi senza alcuna difficoltà. Ho solo la sensazione che se a quest'ora non l'abbiamo trovato, non ce la faremo neanche tanto presto. [Rz] sa il fatto suo." # corrected comma
 
 # game/chapter2.rpy:3694
 translate italiantl _call_skipcheck_12_b601d0a4:
@@ -4185,7 +4185,7 @@ translate italiantl _call_popularcheck_11_d18e1351:
 translate italiantl _call_popularcheck_11_a660fec1:
 
     # Ad "Gotcha! You thought that was your answering machine, but it was me, Adine!" # reference to Jojo "It was me, Dio" line
-    Ad "Ci sei cascatə! Hai pensato che fosse la segreteria, ma in realtà ero io, [Ad]!" # the Italian subtitles to that excerpt don't really fit here
+    Ad "Ci sei cascatə! Hai pensato che fosse la segreteria, ma in realtà ero io, [Ad]!" # the Italian subtitles to that excerpt from Jojo don't really fit here
 
 # game/chapter2.rpy:4278
 translate italiantl _call_popularcheck_11_0a32300e:
@@ -4463,11 +4463,11 @@ translate italiantl strings:
 
     # chapter2.rpy:1843
     old "What kind of research is Anna doing?"
-    new "Che tipo di ricerca sta facendo [An]?"
+    new "Che tipo di ricerche sta facendo [An]?"
 
     # chapter2.rpy:1843
     old "What kind of research are you doing?"
-    new "Che tipo di ricerca stai facendo?"
+    new "Che tipo di ricerche stai facendo?"
 
     # chapter2.rpy:1843
     old "That's all."
@@ -4595,7 +4595,7 @@ translate italiantl strings:
 
     # chapter2.rpy:3516
     old "You know why. We came as ambassadors for humanity and to oversee the trade we agreed on."
-    new "Lo sai perché. Siamo venuti come ambasciatori dell'umanità e per sovrintendere lo scambio che abbiamo concordato."
+    new "Lo sai perché. Siamo venuti come ambasciatori dell'umanità e per sovrintendere allo scambio che abbiamo concordato."
 
     # chapter2.rpy:3516
     old "You wouldn't understand."
