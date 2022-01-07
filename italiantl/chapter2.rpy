@@ -2469,7 +2469,7 @@ translate italiantl chap2libmenu_d7c34a1a:
 translate italiantl chap2libmenu_c92dfbc5:
 
     # Ry shy "Wait, you were here that whole time?"
-    Ry shy "Aspetta, sei statə qui tutto quel tempo?"
+    Ry shy "Aspetta, sei statə qui per tutto il tempo?"
 
 # game/chapter2.rpy:2146
 translate italiantl chap2libmenu_f550fd61:
@@ -3327,7 +3327,7 @@ translate italiantl chap2emselection_be8b7287:
 translate italiantl chap2emselection_70176822:
 
     # Em ques "Arranging your arrival was partly my responsibility. In fact, I would have been at the portal to welcome you myself if something didn't come up at the last second."
-    Em ques "Organizzare il vostro arrivo è stato in parte una mia responsabilità. Infatti, sarei venuta io stessa ad accogliervi al portale se non mi fosse sorto un impegno dell'ultimo secondo."
+    Em ques "Organizzare il vostro arrivo è stato in parte una mia responsabilità. Infatti, sarei venuta io stessa ad accogliervi al portale se non avessi avuto un impegno all'ultimo secondo."
 
 # game/chapter2.rpy:3304
 translate italiantl chap2emselection_9e7e587d:
@@ -4065,7 +4065,7 @@ translate italiantl _call_syscheck_58_67121bb6:
 translate italiantl _call_syscheck_58_581839d6:
 
     # Sb "In any case, thanks for your help. We really do appreciate it."
-    Sb "In ogni caso, grazie per il tuo aiuto. Lo apprezziamo davvero."
+    Sb "In ogni caso, grazie per il tuo aiuto. Te ne siamo davvero grati."
 
 # game/chapter2.rpy:3860
 translate italiantl _call_syscheck_58_fafa9709:
@@ -4185,7 +4185,7 @@ translate italiantl _call_popularcheck_11_d18e1351:
 translate italiantl _call_popularcheck_11_a660fec1:
 
     # Ad "Gotcha! You thought that was your answering machine, but it was me, Adine!" # reference to Jojo "It was me, Dio" line
-    Ad "Ci sei cascatə! Hai pensato che fosse la segreteria, ma in realtà ero io, [Ad]!" # the Italian subtitles to that excerpt from Jojo don't really fit here
+    Ad "Ci sei cascatə! Hai pensato che fosse la segreteria, ma in realtà ero io, [Ad]!" # the Italian subtitles to Jojo don't really fit here
 
 # game/chapter2.rpy:4278
 translate italiantl _call_popularcheck_11_0a32300e:

@@ -436,7 +436,7 @@ translate italiantl _call_skipcheck_10_31f04825:
 translate italiantl _call_skipcheck_10_939a58e1:
 
     # c "I mean that it's {i}nun{/i} of your business."
-    c "Voglio dire che non {i}suor{/i}ebbero affari tuoi." # see the Italian translation to The Mindy Project, 01x21, 04:51
+    c "Voglio dire che non {i}suor{/i}ebbero affari tuoi." # see the Italian translation of The Mindy Project, 01x21, 04:51
 
 # game/adine1.rpy:357
 translate italiantl _call_skipcheck_10_91cd4cae:
@@ -556,7 +556,7 @@ translate italiantl _call_skipcheck_10_53f42aeb:
 translate italiantl _call_skipcheck_10_ac2a2159:
 
     # Ad "I mean, yeah, you do look different from us, but you're not really anything like some of the things that have been said about your kind."
-    Ad "Voglio dire, sì, hai un aspetto diverso dal nostro, ma non è che assomigli ad alcuna delle cose che si sono dette della vostra specie." # "some" -> "any"
+    Ad "Voglio dire, sì, hai un aspetto diverso dal nostro, ma non è che assomigli a nessuna delle cose che si sono dette della vostra specie." # "some" -> "any"
 
 # game/adine1.rpy:431
 translate italiantl _call_skipcheck_10_91928a3d:
@@ -610,7 +610,7 @@ translate italiantl _call_skipcheck_10_b7bc313e:
 translate italiantl _call_skipcheck_10_fbe98f30:
 
     # Ad "Though to be fair, some of what we have about you isn't very nice, either."
-    Ad "Anche se ad essere onesti, non lo è neanche parte di quello che noi abbiamo su di voi."
+    Ad "Anche se ad essere onesti, non lo è neanche parte di quello che noi abbiamo su di voi." # see line 444
 
 # game/adine1.rpy:458
 translate italiantl _call_skipcheck_10_db56dd45:
@@ -706,7 +706,7 @@ translate italiantl _call_skipcheck_10_27b32db1:
 translate italiantl _call_skipcheck_10_aaa0f5f8:
 
     # c "I wasn't sure what to think about it. That is, until I got here and was standing in front of one of you. And after that, I was just rendered speechless."
-    c "Non sapevo bene cosa pensarne. Almeno, finché non sono arrivatə qui e non mi sono ritrovatə di fronte a uno di voi. E dopodiché, sono solo rimastə senza parole."
+    c "Non sapevo bene cosa pensarne. Almeno, finché non sono arrivatə qui e mi sono ritrovatə di fronte a uno di voi. E dopodiché, sono solo rimastə senza parole."
 
 # game/adine1.rpy:498
 translate italiantl _call_skipcheck_10_c9851cf8:
@@ -1660,7 +1660,7 @@ translate italiantl _call_syscheck_48_8b45fabd:
 translate italiantl _call_syscheck_48_1f70b032:
 
     # Ad "Wait, what time is it?"
-    Ad "Fermə, che ore sono?"
+    Ad "Aspetta, che ore sono?"
 
 # game/adine1.rpy:1255
 translate italiantl _call_syscheck_48_dc9e044d:

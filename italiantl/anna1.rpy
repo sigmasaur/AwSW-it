@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_7_e8ba533a:
 translate italiantl _call_skipcheck_7_1b46c468:
 
     # An "Wait, how long have you been here?"
-    An "Fermə, da quanto sei qui?"
+    An "Aspetta, da quanto sei qui?"
 
 # game/anna1.rpy:202
 translate italiantl _call_skipcheck_7_baa3667a:
@@ -322,7 +322,7 @@ translate italiantl _call_skipcheck_7_9a462ada:
 translate italiantl _call_skipcheck_7_0a0912e4:
 
     # c "I am. I am way curiouser than you are."
-    c "Lo sono. Io sono più curiosissimə di te." # used the first Italian translation to that excerpt from Alice in Wonderland by Pietrocòla-Rossetti, 1872
+    c "Lo sono. Io sono più curiosissimə di te." # used the first Italian translation of Alice in Wonderland by Pietrocòla-Rossetti, 1872
 
 # game/anna1.rpy:300
 translate italiantl _call_skipcheck_7_9f1aeeac:
@@ -874,13 +874,13 @@ translate italiantl _call_skipcheck_7_6f9d05c4:
 translate italiantl _call_skipcheck_7_c6a90608:
 
     # An "A board game? Really?"
-    An "Un gioco da tavolo? Sul serio?"
+    An "Un gioco da tavolo? Davvero?"
 
 # game/anna1.rpy:681
 translate italiantl _call_skipcheck_7_e658b925:
 
     # c "I know it's not Knizki's {i}Textile Merchant{/i}, but I suppose it's better than nothing." # reference to Game Board from IT Crowd
-    c "So che non è {i}Textile Merchant{/i} di Knizki, ma suppongo sia meglio di niente." # the Italian translation to IT Crowd keeps the English name for that board game
+    c "So che non è {i}Textile Merchant{/i} di Knizki, ma suppongo sia meglio di niente." # the Italian translation of IT Crowd keeps the English name for that board game
 
 # game/anna1.rpy:685
 translate italiantl _call_skipcheck_7_fa19e5d4:
@@ -1312,7 +1312,7 @@ translate italiantl cont4_58cb19cf:
 translate italiantl cont4_f883752b:
 
     # c "What is the approximate acceleration speed of a nosediving flyer?" # a reference to Monty Python where they ask about the airspeed velocity of an unladen swallow
-    c "Qual è la velocità approssimativa che può raggiungere un volatore in picchiata?" # used the Italian translation to that excerpt from Monty Python, also "approximate [acceleration] speed"
+    c "Qual è la velocità approssimativa che può raggiungere un volatore in picchiata?" # used the Italian translation of Monty Python, also "approximate [acceleration] speed"
 
 # game/anna1.rpy:1022
 translate italiantl cont4_d35e2a23:

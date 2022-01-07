@@ -388,7 +388,7 @@ translate italiantl _call_skipcheck_30_0976511e:
 translate italiantl _call_skipcheck_30_b6b0581a:
 
     # m "She spread out her wing, and only then did I notice that her shoulder joint was tightly bandaged."
-    m "Spiegò le sue ali, e solo allora notai che l'articolazione della sua spalla era stretta in una fasciatura."
+    m "Dispiegò un'ala, e solo allora notai che l'articolazione della sua spalla era stretta in una fasciatura."
 
 # game/adine4.rpy:251
 translate italiantl _call_skipcheck_30_be383434:
@@ -412,7 +412,7 @@ translate italiantl _call_skipcheck_30_fe5f3366:
 translate italiantl _call_skipcheck_30_630b8dee:
 
     # m "I opened the bandage, carefully unwrapping her wing."
-    m "Aprii la fasciatura, liberando con attenzione la sua ala dalle bende."
+    m "Aprii la fasciatura, liberandole cautamente l'ala dalle bende."
 
 # game/adine4.rpy:263
 translate italiantl _call_skipcheck_30_39fda16a:
@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_30_0da14851:
 translate italiantl _call_skipcheck_30_977d9843:
 
     # m "She spread both of her wings, beating them a few times. I couldn't help noticing that the previously bandaged wing was sagging noticeably compared to its counterpart, as if it were misaligned."
-    m "Spiegò entrambe le ali, sbattendole alcune volte. Non potei fare a meno di notare che l'ala in precedenza fasciata ricadeva notevolmente in confronto alla sua controparte, come se non fossero bene in linea." # "it were misaligned" -> "they were misaligned"
+    m "Dispiegò entrambe le ali, sbattendole alcune volte. Non potei fare a meno di notare che l'ala in precedenza fasciata ricadeva notevolmente rispetto alla sua controparte, come se non fossero bene in linea." # "it were misaligned" -> "they were misaligned"
 
 # game/adine4.rpy:273
 translate italiantl _call_skipcheck_30_a1b5b231:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_30_00495487:
 translate italiantl _call_skipcheck_30_e94c70c8:
 
     # Ad "When I was inside and had a bit of time to cool off, I realized I didn't want to do it like this, even if I'd have to wait another year."
-    Ad "Quand'ero dentro e ho avuto un attimo di tempo per sbollire, ho realizzato di non volerlo fare in questo modo, anche se avessi dovuto aspettare un altro anno."
+    Ad "Quand'ero dentro e ho avuto un attimo di tempo per sbollire, mi sono resa conto di non volerlo fare in questo modo, anche se avessi dovuto aspettare un altro anno."
 
 # game/adine4.rpy:389
 translate italiantl _call_skipcheck_30_cef17680:
@@ -1420,7 +1420,7 @@ translate italiantl _call_skipcheck_30_565adb5f:
 translate italiantl _call_skipcheck_30_68a5a602:
 
     # m "By this point, the credits were already rolling, and Adine turned off the TV again."
-    m "A quel punto, i titoli di coda stavano già scorrendo, e [Ad] spense di nuovo il televisore." # "TV" -> "television" for elegance
+    m "A quel punto, scorrevano già i titoli di coda, e [Ad] spense di nuovo il televisore." # "TV" -> "television" for elegance
 
 # game/adine4.rpy:667
 translate italiantl _call_skipcheck_30_7a395875:
@@ -1924,7 +1924,7 @@ translate italiantl a4shower_146047d8:
 translate italiantl a4shower_0731b1a6:
 
     # m "When she turned off the water again, I realized that it didn't cling to her much at all. After she shook herself for a bit, she stepped out again, nearly dry."
-    m "Quando richiuse l'acqua, realizzai che non le era aderita quasi per niente. Dopo che si fu scrollata per un po', mise di nuovo piede fuori, quasi asciutta."
+    m "Quando richiuse l'acqua, mi resi conto che non le era aderita quasi per niente. Dopo che si fu scrollata per un po', mise di nuovo piede fuori, quasi asciutta."
 
 # game/adine4.rpy:957
 translate italiantl a4shower_8d5e3baa:
@@ -1942,7 +1942,7 @@ translate italiantl a4shower_fafa9709:
 translate italiantl a4shower_a9eae600:
 
     # Ad think b "It's probably getting late for you, and I already held you up this long."
-    Ad think b "Probabilmente si sta facendo tardi per te, e io ti ho già trattenuto abbastanza a lungo." # "this long" -> "long enough"
+    Ad think b "Probabilmente si sta facendo tardi per te, e io ti ho già trattenuto abbastanza." # "this long" -> "long enough"
 
 # game/adine4.rpy:963
 translate italiantl a4shower_5101fbef:

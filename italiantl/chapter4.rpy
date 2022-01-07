@@ -688,7 +688,7 @@ translate italiantl c4skip1_ea977812:
 translate italiantl c4skip1_d8194104:
 
     # c "Do you have something against humans in general, or is it just Reza and me? Do you think you are superior to us because of your wings, and teeth, and claws? Your fire?"
-    c "Hai qualcosa contro gli umani in generale, o siamo soltanto io e [Rz]? Ti credi tanto superiore a noi per via delle tue ali, le zanne, e gli artigli? Il tuo sputo di fuoco?" # "your BREATH OF fire"
+    c "Hai qualcosa contro gli umani in generale, o siamo soltanto io e [Rz]? Ti credi tanto superiore a noi per via delle tue ali, le zanne, e gli artigli? Il tuo sputo di fuoco?" # "your BREATH OF fire" where "breath" -> "spit"
 
 # game/chapter4.rpy:984
 translate italiantl c4skip1_10e76bf9:
@@ -802,13 +802,13 @@ translate italiantl c4skip1_45c9e557:
 translate italiantl c4skip1_4dd81fc4:
 
     # Mv "Only after I found out about the secret message he sent to you did I realize that all the messages sent back and forth between the portals could have been similar, even before your arrival."
-    Mv "Solo dopo aver scoperto il messaggio segreto che ti aveva mandato ho realizzato che tutti i messaggi inviati avanti e indietro fra i portali avrebbero potuto essere simili, finanche da prima del tuo arrivo."
+    Mv "Solo dopo aver scoperto il messaggio segreto che ti aveva mandato mi sono reso conto che tutti i messaggi inviati avanti e indietro fra i portali avrebbero potuto essere simili, finanche da prima del tuo arrivo."
 
 # game/chapter4.rpy:1036
 translate italiantl c4skip1_84c7daaf:
 
     # Mv "When the police searched Reza's apartment, of course none of these older letters could be found."
-    Mv "Quando la polizia ha perquisito l'appartamento di [Rz], ovviamente non è stata ritrovata nessuna di queste lettere più vecchie."
+    Mv "Quando la polizia ha perquisito l'appartamento di [Rz], ovviamente nessuna di queste lettere più vecchie è stata ritrovata."
 
 # game/chapter4.rpy:1038
 translate italiantl c4skip1_a8efa75a:
@@ -964,7 +964,7 @@ translate italiantl c4skip1_d19f855d:
 translate italiantl c4skip1_0ce08272:
 
     # Mv nice flip "Wait a minute, you had Anna perform these tests for you?"
-    Mv nice flip "Fermə un minuto, hai fatto eseguire ad [An] queste analisi per tuo conto?"
+    Mv nice flip "Aspetta un minuto, hai fatto eseguire ad [An] queste analisi per tuo conto?"
 
 # game/chapter4.rpy:1092
 translate italiantl c4skip1_96466165:
@@ -1267,7 +1267,7 @@ translate italiantl c4brycegood_a1809cef:
 translate italiantl c4brycegood_57eefef0:
 
     # Br "Or if we get into a standoff, I can tell him you're here as well. I just don't want you to come inside when it could become dangerous."
-    Br "O se finiamo in stallo, posso dirgli che sei qui anche tu. Solo non voglio che tu venga dentro quando potrebbe diventare pericoloso."
+    Br "O se finiamo in stallo, posso dirgli che sei qui anche tu. Solo non voglio che tu venga dentro quando potrebbe diventare pericoloso." # see line 1245
 
 # game/chapter4.rpy:1295
 translate italiantl c4brycegood_1a07bfbf:
@@ -1279,7 +1279,7 @@ translate italiantl c4brycegood_1a07bfbf:
 translate italiantl c4brycegood_2377b934:
 
     # c "Maybe I can talk to him, and we can figure things out. I don't think he wants to kill me, so even if it doesn't work out, Sebastian and you will still be nearby to catch him."
-    c "Forse posso parlargli, e possiamo trovare una soluzione. Non credo che intenda uccidermi, quindi se anche non funziona, ci sarete comunque tu e [Sb] lì vicino a catturarlo."
+    c "Forse posso parlargli, e possiamo trovare una soluzione. Non credo che intenda uccidermi, quindi se anche non funziona, ci sarete comunque tu e [Sb] lì vicino a catturarlo." # see lines 1251, 1253
 
 # game/chapter4.rpy:1301
 translate italiantl c4brycegood_88594f0c:
@@ -1291,7 +1291,7 @@ translate italiantl c4brycegood_88594f0c:
 translate italiantl c4brycegood_88594f0c_1:
 
     # Br stern b "I'll be right behind you, then. But do be careful."
-    Br stern b "Sarò proprio dietro di te, allora. Però sta' attentə."
+    Br stern b "Sarò proprio dietro di te, allora. Però sta' attentə." # see line 1301
 
 # game/chapter4.rpy:1313
 translate italiantl c4brycegood_55531289:
@@ -1561,7 +1561,7 @@ translate italiantl _call_syscheck_76_f5a08d10:
 translate italiantl _call_syscheck_76_41e30641:
 
     # s "I'm sorry, [player_name], but I can't let you do that." # reference to Star Wolf's famous phrase Can't let you do that, Starfox, and also to Hal9000 in 2001 A Space Odyssey
-    s "Mi dispiace, [player_name], purtroppo non posso lasciartelo fare." # adapted the Italian translation to that excerpt from Space Odyssey, as that from (the 3DS remake of) Star Fox doesn't really fit here
+    s "Mi dispiace, [player_name], purtroppo non posso lasciartelo fare." # adapted the Italian translation of a Space Odyssey, as that to (the 3DS remake of) Star Fox doesn't really fit here
 
 # game/chapter4.rpy:1622
 translate italiantl _call_syscheck_76_0c4a1cda:
@@ -1735,13 +1735,13 @@ translate italiantl c4intuition_1dff5c83:
 translate italiantl c4intuition_81e3d0fa:
 
     # Sb "True enough. I had no idea you could make a bomb out of a generator."
-    Sb "Anche questo è vero. Non avevo idea che si potesse fabbricare una bomba con un generatore."
+    Sb "Anche questo è vero. Non avevo idea che si potesse fabbricare una bomba da un generatore."
 
 # game/chapter4.rpy:1806
 translate italiantl c4intuition_4b4c1a61:
 
     # Br "Then you just haven't been with us long enough. If you know how, it's not even that complicated."
-    Br "Allora semplicemente non sei stato con noi abbastanza a lungo. Se sai come fare, non è nemmeno così complicato."
+    Br "Vuol dire che non sei stato con noi abbastanza a lungo. Se sai come fare, non è nemmeno così complicato."
 
 # game/chapter4.rpy:1808
 translate italiantl c4intuition_53428fe1:
@@ -2263,7 +2263,7 @@ translate italiantl c4cont2_f43be0cf:
 translate italiantl c4cont2_0130ecf1:
 
     # Sb "Yes, it has a great tradition behind it. What peeves me most is that I'll be on guard duty when it happens this year, so I probably won't be able to see a thing."
-    Sb "Sì, vi è dietro una grande tradizione. Quel che più mi dà sui nervi è che sarò in turno di guardia quando succederà quest'anno, quindi probabilmente non sarò in grado di vedere niente." # "it has" -> "there's"
+    Sb "Sì, vi è dietro una grande tradizione. Quello che più mi dà sui nervi è che sarò di guardia quando succederà quest'anno, quindi è probabile che non sarò in grado di vedere un bel niente." # "it has" -> "there's"
 
 # game/chapter4.rpy:2089
 translate italiantl c4cont2_4b635033:
@@ -2275,13 +2275,13 @@ translate italiantl c4cont2_4b635033:
 translate italiantl sebdone_8a840b10:
 
     # Sb disapproval b "Are you suggesting I abandon my post during the fireworks?"
-    Sb disapproval b "Mi suggerisci di abbandonare la mia postazione durante i fuochi d'artificio?"
+    Sb disapproval b "Mi stai suggerendo di abbandonare la postazione durante i fuochi d'artificio?"
 
 # game/chapter4.rpy:2109
 translate italiantl sebdone_29ea912c:
 
     # c "No, you don't have to abandon your post, but if you pick a good spot and watch them for like half an hour or so, no one's going to care."
-    c "No, non devi abbandonare la tua postazione, ma se scegli un buon punto e li guardi per tipo una mezz'oretta, non gliene importerà a nessuno."
+    c "No, non devi per forza abbandonare la postazione, ma se scegli un buon punto e li guardi per tipo una mezz'oretta, non gliene importerà a nessuno."
 
 # game/chapter4.rpy:2111
 translate italiantl sebdone_7346d291:
@@ -5059,7 +5059,7 @@ translate italiantl _call_skipcheck_21_76b2fe88_3:
 translate italiantl _call_skipcheck_21_a34cd47b:
 
     # n "Of course, my employer did not want anything like that to happen. Not necessarily for my own sake, but because of all the unfathomably expensive equipment I had with me."
-    n "Naturalmente, i miei superiori non avrebbero voluto che accadesse niente del genere. Non necessariamente nel mio interesse, ma a causa di tutto l'equipaggiamento così immensurabilmente costoso che avevo con me." # "unfathomably" -> "immeasurably"
+    n "Naturalmente, i miei superiori non avrebbero voluto che accadesse niente del genere. Non necessariamente nel mio interesse, ma a causa di tutta l'attrezzatura così immensurabilmente costosa che avevo con me." # "unfathomably" -> "immeasurably"
 
 # game/chapter4.rpy:4325
 translate italiantl _call_skipcheck_21_3b6d0ce7:
@@ -5299,7 +5299,7 @@ translate italiantl _call_skipcheck_21_3a134373:
 translate italiantl _call_skipcheck_21_dbdf94ed:
 
     # n "Automated processes mixed the DNA further across the samples. New abilities were added like enhanced armor, flight, and spit weapons to make the new creatures more effective in combat."
-    n "I processi automatizzati incrociarono ulteriormente il DNA dei campioni. Furono aggiunte abilità nuove quali una corazza aumentata, il volo, e armi da sputo a rendere le nuove creature più efficaci in combattimento."
+    n "I processi automatizzati incrociarono ulteriormente il DNA dei campioni. Nuove abilità furono aggiunte quali una corazza aumentata, il volo, e armi da sputo che rendessero le nuove creature più efficaci in combattimento."
 
 # game/chapter4.rpy:4420
 translate italiantl _call_skipcheck_21_02f15d54:
@@ -5359,7 +5359,7 @@ translate italiantl _call_skipcheck_21_76b2fe88_12:
 translate italiantl _call_skipcheck_21_69156d1f:
 
     # As "When I realized that this new society would eventually be destroyed, I told myself that I would do anything I could to save it."
-    As "Quando realizzai che questa nuova società avrebbe finito con l'essere distrutta, dissi a me stesso che avrei fatto qualsiasi cosa in mio potere per salvarla."
+    As "Quando capii che questa nuova società avrebbe finito con l'essere distrutta, dissi a me stesso che avrei fatto qualsiasi cosa in mio potere per salvarla."
 
 # game/chapter4.rpy:4456
 translate italiantl _call_skipcheck_21_7dbd87da:
@@ -5539,7 +5539,7 @@ translate italiantl _call_skipcheck_21_810db1fd:
 translate italiantl _call_skipcheck_21_23c33e1c:
 
     # As "I don't know exactly how long it's been, myself. When I realized what time period I was in and that my creation was about to be wiped out in the future, I wanted to go to that future and see what they had become."
-    As "Io stesso non so esattamente quanto tempo sia passato. Quando realizzai in quale epoca mi trovavo e che la mia creazione stava per essere spazzata via nel futuro, volli andare in quel futuro e vedere cosa sarebbero diventati." # "had become" -> "would have become"
+    As "Io stesso non so esattamente quanto tempo sia passato. Quando capii in quale epoca mi trovavo e che la mia creazione stava per essere spazzata via nel futuro, volli andare in quel futuro e vedere cosa sarebbero diventati." # "had become" -> "would have become"
 
 # game/chapter4.rpy:4516
 translate italiantl _call_skipcheck_21_49a27033:
@@ -5666,7 +5666,7 @@ translate italiantl _call_skipcheck_21_2dc9e104:
 
     # As "Let me try to rephrase that. The portal you found and my own share a connection. However, while the connection is locked to a certain place, which is wherever the portal is at that very moment, it is not connected to a specific point in time."
     As "Lascia che provi a spiegarmi meglio."
-    As "Il portale che avete trovato e il mio condividono una connessione. Tuttavia, sebbene la connessione sia vincolata a un certo luogo, il quale è dovunque il portale si trovi in quel preciso momento, non è collegata a uno specifico punto nel tempo." # split to fit three lines, also "rephrase" -> "elaborate on", "locked" -> "constrained", "connected" -> "linked" to avoid repetition
+    As "Il portale che avete trovato e il mio condividono una connessione. Tuttavia, sebbene la connessione sia vincolata a un certo luogo, il quale è dovunque il portale si trovi in quel preciso momento, non è collegata a uno specifico punto nel tempo." # split to fit three lines, also "locked" -> "constrained", "connected" -> "linked" to avoid repetition
 
 # game/chapter4.rpy:4558
 translate italiantl _call_skipcheck_21_b5281303:
@@ -5888,7 +5888,7 @@ translate italiantl _call_skipcheck_21_968d3ef8:
 translate italiantl _call_skipcheck_21_f1e332b1:
 
     # As "While I can see subtle changes in behaviors as a result, some traits are still very much present in them. They are content with what they have and don't strive for more."
-    As "Per quanto possa vedere dei sottili cambiamenti comportamentali come risultato, alcuni tratti sono ancora assai ben presenti in loro. Sono contenti di quello che hanno e non cercano di ottenere di più." # "changes in behaviors" -> "behavioral changes"
+    As "Per quanto possa vedere dei sottili cambiamenti comportamentali come risultato, alcuni tratti sono ancora assai ben presenti in loro. Sono contenti di quello che hanno e non cercano di avere di più." # "changes in behaviors" -> "behavioral changes"
 
 # game/chapter4.rpy:4632
 translate italiantl _call_skipcheck_21_278bf3e2:
@@ -6500,7 +6500,7 @@ translate italiantl _call_popularcheck_28_be5c2928:
 translate italiantl _call_popularcheck_28_d5d6cf7c:
 
     # m "In the end, I decided to extend invitations to everyone I knew to come by for a visit. I left a lot of messages and waited the whole afternoon, but nobody came." # But nobody came is a reference to undertale.
-    m "Alla fine, decisi di estendere l'invito a passare a farmi visita a tutti coloro che conoscevo. Lasciai un bel po' di messaggi e aspettai l'intero pomeriggio, ma non venne nessuno." # no Italian translation to Undertale
+    m "Alla fine, decisi di estendere l'invito a passare a farmi visita a tutti coloro che conoscevo. Lasciai un bel po' di messaggi e aspettai l'intero pomeriggio, ma non venne nessuno." # no Italian translation for Undertale
 
 # game/chapter4.rpy:5850
 translate italiantl _call_popularcheck_28_be5c2928_1:

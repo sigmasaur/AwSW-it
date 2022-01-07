@@ -27,6 +27,7 @@ Currently working on `Anna`'s sections. Files done and up for review:
     adine5.rpy
 
     anna1.rpy
+    anna2.rpy
 
 A few remarks:
 
@@ -71,7 +72,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 431: Corrected simple past tense *were under consideration* to past perfect, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
 * At line 436, 2738, 2837, 2934: Corrected uppercase letter to lowercase after colon.
-* At line 463: *8* → *eight*, for elegance.
+* At line 463: Unfolded *8* → *eight*, for elegance.
 * At line 1084, 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 1358: Corrected two-dots ellipsis to three-dots.
 * At line 1751: Used if-statement to further distinguish between food types by linguistic necessity.
@@ -89,7 +90,7 @@ The following are mostly to the benefit of the developer and translators.
   * Neither the number of PDAs to be delivered by, nor actually given to the player character before the portal's shutdown, is ever addressed.
   * Even though `Reza` was given a PDA of his own as per line 452, it was before the trade was even set up, so it shouldn't count towards the PDAs to be delivered.
 * At line 3197: Corrected *are the likely cause* → *is the likely cause*.
-* At line 3226: The actual translation in Deus Ex would be just *condolences*; consider unfolding *RIP*.
+* At line 3226: Unfolded *RIP* → *rest in peace*, as keeping it folded would make an obscure reference in Italian, thus bringing to light elegance concerns.
 * At line 3245, 3347: Rendered *legs* as *paws*.
 * At line 3712: Assumed *sorry* is addressed to `Sebastian`.
 
@@ -113,9 +114,9 @@ The following are mostly to the benefit of the developer and translators.
 * At line 849, 884: Split in multiple parts to fit fewer lines.
 * At line 860, 2439: Corrected uppercase letter to lowercase after colon.
 * At line 1264-1266: Corrected future tenses to conditional, as we're supposedly talking of the yet speculative case where the player character doesn't go through the portal as per `Emera`'s resolve.
-* At line 1346: *10* → *ten*, for elegance.
+* At line 1346: Unfolded *10* → *ten*, for elegance.
 * At line 1346: *Hiroshima* → *atomic*, for elegance, not to mention we're supposedly addressing `Bryce` and `Emera`, who can't possibly know about it; the resulting expression reads better without loss of meaning.
-* At line 1383: *15%* → *fifteen percent*, for elegance.
+* At line 1383: Unfolded *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
 * At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
 * At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of [`chapter1.rpy`](#chapter1rpy).
@@ -138,12 +139,12 @@ The following are mostly to the benefit of the developer and translators.
 * At line 3236, 3315, 3468, 3698: Rendered *leg* as *paw*.
 * At line 3285-3289, 3379-3383, 3438-3442, 3511-3515, 3742-3746: Adapted to preserve a pun; reverse translation: *Exceptional.*
 * At line 3568, 3627, 3798, 3857: Assumed *who* is referred to `Adine`.
-* At line 4345, 4353: *65* → *sixty-five*, for elegance.
+* At line 4345, 4353: Unfolded *65* → *sixty-five*, for elegance.
 * At line 4365: About *aligning \[the portals\] across the time axis*, note that `Izumi` would still have had to bypass the anti-time travel safeguards for her to be able to return, assuming the portals in the present were still operational.
 * At line 4367: *that meant that* → *moreover*, as there's no real logical implication between line 4365 and this line.
-* At line 4432, 4614: *AI* → *artificial intelligence*, for elegance.
-* At line 4462: *10km* → *ten kilometers*, for elegance.
-* At line 4468, *75%* → *seventy-five percent*, for elegance.
+* At line 4432, 4614: Unfolded *AI* → *artificial intelligence*, for elegance.
+* At line 4462: Unfolded *10km* → *ten kilometers*, for elegance.
+* At line 4468: Unfolded *75%* → *seventy-five percent*, for elegance.
 * At line 4468-4472: Slightly adapted to exchange the two units, as Italians way prefer the metric system. Does this qualify as improper localization?
 * At line 4500: Corrected *don't think that he would<s>n't</s> hesitate*.
 * At line 4556: Split in multiple parts to fit fewer lines.
@@ -164,7 +165,7 @@ The following are mostly to the benefit of the developer and translators.
   * Note that *the building still having electricity* despite `Reza` having gotten its generator, which was supposed to be *also powering the portal*, is explained by `Reza` himself at line 449, revealing the presence of a backup. At the same line, however, `Reza` claims he *could even get the backup generator as well*, suggesting that the portal is really powered by other means. Whether this is truly the case is never addressed.
 * At line 565: Assumed *it* is referred to *the solution* at line 563.
 * At line 638: Consider adding parentheses to render the monologue a proper soliloquy.
-* At line 733-741: *10* → *ten*, for elegance.
+* At line 733-741: Unfolded *10* → *ten*, for elegance.
 
 ### [`adine1.rpy`](italiantl/adine1.rpy)
 
@@ -195,7 +196,8 @@ The following are mostly to the benefit of the developer and translators.
 ### [`adine4.rpy`](italiantl/adine4.rpy)
 
 * At line 289: Corrected two-dots ellipsis to three-dots.
-* At line 627, 665: *TV* → *television*, for elegance.
+* At line 377: Consider correcting *in the outskirts* → *on the outskirts*.
+* At line 627, 665: Unfolded *TV* → *television*, for elegance.
 * At line 651: Corrected simple dash to em-dash.
 * At line 863: Rendered *child*(*ren*) as *cub*(*s*).
 * At line 907: *inches* → *centimeters*; see line 2144 of [`chapter4.rpy`](#chapter4rpy).
@@ -215,11 +217,25 @@ The following are mostly to the benefit of the developer and translators.
   * At line 309: *\[...\] I'm pretty good with the languages \[...\].* (Can also be read as *I'm pretty good with the tongues.*)
   * At line 311: This had to be changed completely: *Especially with mine.* Any improvement is welcome. (Note that *cunning* is often translated as *skilled* when a pun is involved, resulting in a duplicate of line 309.)
 * At line 732, 938: Rendered *children* as *cubs*.
-* At line 801: *20* → *twenty*, for elegance.
+* At line 801: Unfolded *20* → *twenty*, for elegance.
 * At line 803, 888, 965: Note that wrong answers to `Anna`'s questions seem to be undo-able.
 * At line 932: Corrected uppercase letter to lowercase after colon.
-* At line 963, 965: *#1* → *one*, for elegance.
-* At line 963, 965: *#2* → *two*, for elegance.
-* At line 963, 965, 978, 989: *#3* → *three*/*third*, for elegance.
+* At line 963, 965: Unfolded *#1* → *one*, for elegance.
+* At line 963, 965: Unfolded *#2* → *two*, for elegance.
+* At line 963, 965, 978, 989: Unfolded *#3* → *three*/*third*, for elegance.
 * At line 1018: Corrected *approximate <s>acceleration</s> speed*.
 * At line 1029: Corrected *lighter* → *less dense*.
+
+### [`anna2.rpy`](italiantl/anna2.rpy)
+
+* At line 219, 760: Corrected uppercase letter to lowercase after colon.
+* At line 219: Unfolded *2* → *two*, for elegance.
+* At line 428, 436: Unfolded *90%* → *ninety percent*, for elegance.
+* At line 430: Unfolded *50%* → *fifty percent*, for elegance.
+* At line 432: Unfolded *99.9%* → *(not) one permill*, *95-97%* → *(not) three-five percent*, for elegance.
+* At line 937: Interpreted *you and another of your species'* as *you and \[the members of\] any species other than yours* and then lifted it from member- to species-level.
+* At line 979: Assumed the first *you* is referred to the player character, the second to the human race.
+* At line 1015: Assumed *you* is referred to the human race.
+* At line 1106: Rendered *man* as *(male) dragon*.
+* At line 1172: Corrected simple dash to em-dash.
+* At line 1211: Unfolded *100%* → *one hundred percent*, for elegance.

@@ -190,7 +190,7 @@ translate italiantl _call_skipcheck_23_fccb16e7:
 translate italiantl _call_skipcheck_23_9c327c5e:
 
     # Ad disappoint b "The older they get, the less likely they are to be adopted. She might be too old to be considered soon..."
-    Ad disappoint b "Più grandi diventano, e meno è probabile che siano adottati. Presto lei potrebbe essere troppo grande per essere presa in considerazione..."
+    Ad disappoint b "Più grandi diventano, e meno è probabile che siano adottati. Presto lei potrebbe essere troppo grande per essere considerata..."
 
 # game/adine2.rpy:225
 translate italiantl _call_skipcheck_23_08610c21:
@@ -616,7 +616,7 @@ translate italiantl _call_skipcheck_23_1ad66100:
 translate italiantl _call_skipcheck_23_a3230f03:
 
     # Ad think b "I'm just saying there's got to be a reason they exist. Even the article concludes that scientists haven't figured out exactly why we dream. It's a big mystery."
-    Ad think b "Sto solo dicendo che ci dev'essere una ragione per cui esistono. Persino l'articolo conclude che gli scienziati non hanno ancora capito esattamente perché sogniamo. È un gran mistero."
+    Ad think b "Dico solo che ci dev'essere una ragione per cui esistono. Persino l'articolo conclude che gli scienziati non hanno ancora capito esattamente perché sogniamo. È un gran mistero."
 
 # game/adine2.rpy:498
 translate italiantl _call_skipcheck_23_573eac2e:
@@ -730,7 +730,7 @@ translate italiantl _call_skipcheck_23_f2387144:
 translate italiantl _call_skipcheck_23_2ee186bd:
 
     # c "Wait, aren't you going to answer the questions, too?"
-    c "Ferma, non intendi rispondere anche tu alle domande?"
+    c "Aspetta, non intendi rispondere anche tu alle domande?"
 
 # game/adine2.rpy:613
 translate italiantl _call_skipcheck_23_6e464236:
@@ -886,7 +886,7 @@ translate italiantl adine2menb_efe42388:
 translate italiantl adine2menb_bbcd79f2:
 
     # Ad disappoint b "Come on, what's the worst that could happen?"
-    Ad disappoint b "Andiamo, qual è il peggio che può succedere?"
+    Ad disappoint b "Andiamo, qual è il peggio che potrebbe succedere?"
 
 # game/adine2.rpy:763
 translate italiantl adine2menb_b1304934:
@@ -1084,7 +1084,7 @@ translate italiantl adine2menb_06b47c2f:
 translate italiantl adine2menb_136ed5fb:
 
     # Ad think b "Your past is filled with fire, strife and conflict. Yet like steel, you adopted it and were tempered by it. What didn't kill you only made you stronger." # half a reference to quotes from the dark knight & the dark knight rises
-    Ad think b "Il tuo passato è ricolmo di fuoco, discordia e conflitto. Eppure come l'acciaio, l'hai adottato e ne sei statə tempratə. Quello che non ti ha ucciso ti ha solo reso più forte." # half used the Italian translation to those excerpts from The Dark Knight, The Dark Knight Rises
+    Ad think b "Il tuo passato è ricolmo di fuoco, discordia e conflitto. Eppure come l'acciaio, l'hai adottato e ne sei statə tempratə. Quello che non ti ha ucciso ti ha solo reso più forte." # half used the Italian translation of the Dark Knight, the Dark Knight Rises
 
 # game/adine2.rpy:859
 translate italiantl adine2menb_db719df0:
@@ -1288,7 +1288,7 @@ translate italiantl adine2menb_85205a4b:
 translate italiantl adine2menb_c80ff75f:
 
     # Ad normal b "If anything, it's not supposed to make you worry, but give you some input so you can prepare for what is to come."
-    Ad normal b "Se non altro, non dovrebbe farti preoccupare, ma solo darti uno spunto cosicché tu possa prepararti per quello che verrà."
+    Ad normal b "Se non altro, non dovrebbe farti preoccupare, ma solo darti uno spunto cosicché tu possa prepararti a quello che verrà."
 
 # game/adine2.rpy:1009
 translate italiantl adine2menb_d343259d:
@@ -1810,7 +1810,7 @@ translate italiantl adine2skip_aa8eed7d:
 translate italiantl adine2skip_571a5097:
 
     # Ad think b "Unless you want to sit in my empty apartment."
-    Ad think b "A meno che tu non voglia restartene nel mio appartamento vuoto."
+    Ad think b "A meno che non vuoi restartene nel mio appartamento vuoto."
 
 # game/adine2.rpy:1254
 translate italiantl adine2skip_4d190ea2:
@@ -2160,7 +2160,7 @@ translate italiantl strings:
 
     # adine2.rpy:1165
     old "What, an actual human in front of you is not enough?"
-    new "Cosa, unə verə umanə di fronte a te non è abbastanza?"
+    new "Come, unə verə umanə di fronte a te non è abbastanza?"
 
     # adine2.rpy:1165
     old "I can think of a few people."

@@ -160,7 +160,7 @@ translate italiantl evilending_3a11d3e0:
 translate italiantl evilending_3fcd3628:
 
     # Rz "So what? I thought we had an agreement there."
-    Rz "E allora? Credevo avessimo un accordo."
+    Rz "E con questo? Credevo avessimo un accordo."
 
 # game/chapter5evilending.rpy:71
 translate italiantl evilending_2dd81155:
@@ -634,7 +634,7 @@ translate italiantl no_f00f491c:
 translate italiantl no_3136b4bd:
 
     # c "I can't do that, Reza." # reference to 2001's Hal 9000
-    c "Non posso farlo, [Rz]." # used the Italian translation to that excerpt from Space Odyssey
+    c "Non posso farlo, [Rz]." # used the Italian translation of a Space Odyssey
 
 # game/chapter5evilending.rpy:543
 translate italiantl no_b1f85f2a:
@@ -754,7 +754,7 @@ translate italiantl no_3d97530d:
 translate italiantl no_ed68b007:
 
     # Rz normal "I can even understand that a little. Of course it would be nice to just stay here where they have everything that we don't, but being here also reminded me of everything I hated about our world as it used to be."
-    Rz normal "Posso anche capirlo un po'. Certo sarebbe carino restare semplicemente qui dove hanno tutto ciò che noi non abbiamo, ma l'essere qui mi ha anche ricordato tutto quello che odiavo del nostro mondo così com'è stato un tempo."
+    Rz normal "Posso anche capirlo un po'. Certo sarebbe bello restarsene qui dove hanno tutto ciò che noi non abbiamo, ma l'essere qui mi ha anche ricordato tutto ciò che ho odiato del nostro mondo così com'è stato un tempo."
 
 # game/chapter5evilending.rpy:583
 translate italiantl no_50b2933d:
@@ -832,7 +832,7 @@ translate italiantl no_8afa0e34:
 translate italiantl no_be7abdba:
 
     # Rz normal "Whatever you may think, you'll find that our leaders back home agree with my course of action."
-    Rz normal "Qualsiasi cosa tu possa credere, troverai che i nostri capi a casa converranno con la mia linea di condotta."
+    Rz normal "Qualunque cosa tu possa credere, troverai che i nostri capi a casa converranno con la mia linea di condotta."
 
 # game/chapter5evilending.rpy:609
 translate italiantl no_4f03a3df:

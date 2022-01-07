@@ -1266,7 +1266,7 @@ translate italiantl c3conty_76b2fe88_2:
 translate italiantl c3conty_51fe36b6:
 
     # n "That day, a force with the power of 10 billion Hiroshima bombs was unleashed into our atmosphere."
-    n "Quel giorno, una forza con la potenza di dieci bombe atomiche fu rilasciata nella nostra atmosfera." # "10" -> "ten" for elegance, "Hiroshima" -> "atomic"
+    n "Quel giorno, una forza con la potenza di dieci bombe atomiche fu rilasciata nella nostra atmosfera." # "10" -> "ten" for elegance, also "Hiroshima" -> "atomic"
 
 # game/chapter3.rpy:1348
 translate italiantl c3conty_1bb80bfb:
@@ -1956,7 +1956,7 @@ translate italiantl c3conty_eb828965:
 translate italiantl c3conty_32f3b804:
 
     # Ad "Wait, does this have something to do with what I heard about Reza?"
-    Ad "Fermə, ha forse qualcosa a che vedere con quello che ho sentito dire su [Rz]?"
+    Ad "Aspetta, ha forse qualcosa a che vedere con quello che ho sentito dire su [Rz]?"
 
 # game/chapter3.rpy:1664
 translate italiantl c3conty_b6688b02:
@@ -2112,7 +2112,7 @@ translate italiantl c3conty_b450f810:
 translate italiantl c3conty_dc0fbbb9:
 
     # Ad disappoint b "Wait, does this have something to do with those rumors I heard? Is Reza really a murderer?"
-    Ad disappoint b "Fermə, ha forse qualcosa a che vedere con quelle dicerie che ho sentito? [Rz] è veramente un assassino?"
+    Ad disappoint b "Aspetta, ha forse qualcosa a che vedere con quelle dicerie che ho sentito? [Rz] è veramente un assassino?"
 
 # game/chapter3.rpy:1719
 translate italiantl c3conty_7084356e_2:
@@ -2268,7 +2268,7 @@ translate italiantl c3conty_f411b20e:
 translate italiantl c3conty_db8babf6:
 
     # Ad "Wait, does this have something to do with what I've been hearing? About Reza being a murderer?"
-    Ad "Fermə, ha forse qualcosa a che vedere con quello che ho sentito dire? Sul fatto che [Rz] è un assassino?"
+    Ad "Aspetta, ha forse qualcosa a che vedere con quello che ho sentito dire? Sul fatto che [Rz] è un assassino?"
 
 # game/chapter3.rpy:1774
 translate italiantl c3conty_26eefe0a:
@@ -2450,7 +2450,7 @@ translate italiantl c3conty_90b653b8:
     # nvl clear
     # n "I wondered if there was any risk of getting lost somewhere between worlds. We didn't really know how the portals worked, after all. Maybe I would be flung somewhere else in space-time, or it might affect my body in some way."
     nvl clear
-    n "Mi domandai se esistesse il rischio di perdersi da qualche parte fra i mondi. Non sapevamo bene come i portali funzionassero, dopotutto. Forse sarei statə scagliatə da qualche altra parte nello spaziotempo, oppure il mio corpo ne sarebbe rimasto affetto in qualche modo."
+    n "Mi domandai se esistesse il rischio di perdersi da qualche parte fra i mondi. Non sapevamo realmente come i portali funzionassero, dopotutto. Forse sarei statə scagliatə altrove nello spaziotempo, oppure il mio corpo ne sarebbe rimasto affetto in qualche modo."
 
 # game/chapter3.rpy:1878
 translate italiantl c3conty_51bd26c2:
@@ -2536,7 +2536,7 @@ translate italiantl c3conty_79b39584:
 translate italiantl c3conty_391da0a0:
 
     # Sb "No, really. It's not working."
-    Sb "No, sul serio. Non funziona."
+    Sb "No, davvero. Non funziona."
 
 # game/chapter3.rpy:1920
 translate italiantl c3conty_568301f3:
@@ -2716,7 +2716,7 @@ translate italiantl c3conty_69876cca:
 translate italiantl c3conty_2bffd471:
 
     # c "Hey, what's this?"
-    c "Ehi, cos'è questo?"
+    c "Ehi, e questo cos'è?"
 
 # game/chapter3.rpy:2025
 translate italiantl c3conty_4c0bced5:
@@ -2836,7 +2836,7 @@ translate italiantl c3conty_8b880a52:
 translate italiantl c3conty_9331073d:
 
     # m "Not wanting to listen to this any longer, I decided to knock."
-    m "Non volendo ascoltare una parola di più, decisi di bussare."
+    m "Non volendo ascoltare oltre, decisi di bussare."
 
 # game/chapter3.rpy:2082
 translate italiantl c3conty_5a46014e:
@@ -2884,7 +2884,7 @@ translate italiantl c3conty_cdb1079d:
 translate italiantl c3conty_88c81d05:
 
     # m "I made my way back to the portal and arrived shortly after Bryce and Sebastian."
-    m "Mi feci di nuovo strada verso il portale e arrivai poco più tardi di [Br] e [Sb]."
+    m "Mi feci nuovamente strada verso il portale e arrivai poco più tardi di [Br] e [Sb]."
 
 # game/chapter3.rpy:2118
 translate italiantl c3conty_1a2f7071:
@@ -3556,7 +3556,7 @@ translate italiantl _call_lazycheck_1_1f4af686:
 translate italiantl _call_lazycheck_1_81e8eafa:
 
     # m "Long, grotesque shadows stretched before me, and the atmosphere was eerie and dangerous. I couldn't tell if it was because of the evening's shroud of darkness, or if the urgent situation tugging at my mind had twisted my perception."
-    m "Ombre lunghe e grottesche si allungavano davanti a me, e l'atmosfera era una di mistero e di pericolo. Non sapevo dire se fosse a causa del manto di oscurità della sera, o se l'incalzante situazione che mi carpiva la mente avesse distorto la mia percezione."
+    m "Ombre lunghe e grottesche si stendevano davanti a me, e spirava un'aria sinistra e malsicura. Non sapevo dire se fosse a causa del manto di oscurità della sera, o se l'incalzante situazione che mi carpiva la mente avesse distorto la mia percezione."
 
 # game/chapter3.rpy:2543
 translate italiantl _call_lazycheck_1_49727304:
@@ -3700,7 +3700,7 @@ translate italiantl c3fac_32c701f6:
 translate italiantl c3fac_62b3f588:
 
     # Lo normal "If you can find the time, I’d certainly appreciate it if we could still make this happen."
-    Lo normal "Se riesci a trovare il tempo, apprezzerei di certo se potessimo ancora fare in modo di organizzarci."
+    Lo normal "Se riesci a trovare il tempo e potessimo ancora organizzarci, lo apprezzerei senz'altro."
 
 # game/chapter3.rpy:2651
 translate italiantl c3fac_8e19e9e6:
@@ -5120,7 +5120,7 @@ translate italiantl _call_syscheck_20_4c34f1c4:
 translate italiantl _call_syscheck_20_c9264d06:
 
     # c "(Huh, what's this?)"
-    c "(Huh, cos'è questo?)"
+    c "(Huh, e questo cos'è?)"
 
 # game/chapter3.rpy:3721
 translate italiantl _call_syscheck_20_5804c28d:

@@ -1862,7 +1862,7 @@ translate italiantl strings:
 
     # anna4.rpy:335
     old "Don't say anything."
-    new ""
+    new "Non dire niente."
 
     # anna4.rpy:335
     old "Tell her you know about her cancer. {image=image/ui/status/heardaboutcancer.png}"

@@ -136,7 +136,7 @@ translate italiantl begingame_76b2fe88:
 translate italiantl begingame_0420e91d:
 
     # n "The year is 20XX." # this line is a reference to Deus Ex: Human Revolution. A line in its trailer is "The year is 2027."
-    n "Corre l'anno 20XX." # used Italian subtitles to that trailer
+    n "Corre l'anno 20XX." # used the Italian subtitles to that trailer
 
 # game/chapter1.rpy:422
 translate italiantl begingame_02e25085:
@@ -350,7 +350,7 @@ translate italiantl begingame_dc6c4ac0:
 translate italiantl begingame_32508c0c:
 
     # n "That was what we knew about them so far, and as interesting as learning those things and debating their cultural significance was, we didn't really know what we should make of it all."
-    n "Questo era ciò che sapevamo di loro fino a quel momento, e per quanto interessante fosse apprendere quelle cose e dibattere il loro significato culturale, in realtà non sapevamo bene cosa pensare di tutto questo." # "we should" -> "to", "it all" -> "all this"
+    n "Questo era ciò che sapevamo di loro fino a quel momento, e per quanto interessante fosse apprendere quelle cose e dibattere il loro significato culturale, non sapevamo realmente cosa pensare di tutto questo." # "we should" -> "to", "it all" -> "all this"
 
 # game/chapter1.rpy:485
 translate italiantl begingame_26e2ea6a:
@@ -990,7 +990,7 @@ translate italiantl _call_skipcheck_2_4f894d15:
 translate italiantl _call_skipcheck_2_bf0efca8:
 
     # m "A growl escaped the darker dragon's trembling lips as he bared his teeth at Reza."
-    m "Un ruggito sfuggì dalle frementi labbra del drago più scuro mentre digrignava le zanne a [Rz]."
+    m "Un ruggito sfuggì dalle frementi labbra del drago più scuro mentre digrignava i denti a [Rz]."
 
 # game/chapter1.rpy:1373
 translate italiantl _call_skipcheck_2_9cffa3e3:
@@ -1506,7 +1506,7 @@ translate italiantl _call_skipcheck_3_761a7bf3:
 translate italiantl _call_skipcheck_3_bfc7dc06:
 
     # m "The female returned, astounding me with her ability to balance the dishes on the edges of her wings. She placed her forelimb on the table and proceeded to move the dishes from her wing to us with a gentle push of her snout."
-    m "La femmina ritornò, lasciandomi sbalorditə dalla sua abilità di bilanciare i piatti sui bordi delle sue ali. Appoggiò il suo arto anteriore sul tavolo e procedette a spostare i piatti dalla sua ala verso di noi con una gentile spinta del muso."
+    m "La femmina ritornò, lasciandomi sbalorditə dalla sua capacità di bilanciare i piatti sui bordi delle sue ali. Appoggiò il suo arto anteriore sul tavolo e procedette a spostare i piatti dalla sua ala verso di noi con una gentile spinta del muso."
 
 # game/chapter1.rpy:1748
 translate italiantl _call_skipcheck_3_67f50da2:
@@ -2287,7 +2287,7 @@ translate italiantl _call_increasing_3_76b2fe88_1:
 translate italiantl _call_increasing_3_49cddd54:
 
     # m "Lines, of course. Maybe I was supposed to read between them? I didn't have an implement on me with which I would've been able to read fine print, though with this handwritten letter, I doubted Reza could have done anything of the sort."
-    m "Le linee, ma certo. Forse avrei dovuto leggervi in mezzo? Non avevo con me uno strumento con cui sarei statə in grado di intraleggere dei caratteri in piccolo, anche se con questa lettera manoscritta, dubitavo che [Rz] potesse aver fatto niente del genere." # see the Italian translation to The Simpsons, 09x19, 03:28
+    m "Le linee, ma certo. Forse avrei dovuto leggervi in mezzo? Non avevo con me uno strumento con cui sarei statə in grado di intraleggere dei caratteri in piccolo, anche se con questa lettera manoscritta, dubitavo che [Rz] potesse aver fatto niente del genere." # see the Italian translation of the Simpsons, 09x19, 03:28
 
 # game/chapter1.rpy:2233
 translate italiantl increasing_08935d98:
@@ -3635,7 +3635,7 @@ translate italiantl _call_syscheck_12_b11d330a:
 translate italiantl _call_syscheck_12_bf72188d:
 
     # Br "I implore you to reconsider!" # reference to Kung Pow: Enter the fist where this sentence is used a few times. the whole exchange is a reference to false choices in JRPGs where there is a "choice" between accepting a quest or not, but declining it just causes the NPC to ask again until you do.
-    Br "Ti imploro in ginocchio di ripensarci!" # used the Italian translation to those excerpts from Kung Pow
+    Br "Ti imploro in ginocchio di ripensarci!" # used the Italian translation of Kung Pow
 
 # game/chapter1.rpy:3170
 translate italiantl _call_syscheck_12_f1ed3266:
@@ -3683,7 +3683,7 @@ translate italiantl investigation_41043505:
 translate italiantl investigation_431a0aec:
 
     # Br "I know it won't be pretty, and I'm sorry for putting you through this, but you know what's at stake here. Just remember what I told you and you should be fine."
-    Br "So che non sarà piacevole, e mi dispiace di averti trascinato in tutto questo, ma lo sai cosa c'è in gioco qui. Ricorda solo ciò che ti ho detto e andrà tutto bene." # "should be fine" -> "will be fine"
+    Br "So che non sarà piacevole, e mi dispiace averti trascinato in tutto questo, ma lo sai cosa c'è in gioco qui. Ricorda solo ciò che ti ho detto e andrà tutto bene." # "should be fine" -> "will be fine"
 
 # game/chapter1.rpy:3204
 translate italiantl investigation_86148265:
@@ -3719,7 +3719,7 @@ translate italiantl investigation_52ed0bbc:
 translate italiantl investigation_331499d0:
 
     # Br "Yeah, RIP." # reference to Deus Ex: Human Revolution.
-    Br "Già, RIP." # the Italian translation to that excerpt from Deus Ex would be just "condolences"
+    Br "Già, riposi in pace." # the Italian translation of Deus Ex doesn't really fit here
 
 # game/chapter1.rpy:3227
 translate italiantl investigation_d0ff8c97:
@@ -4067,7 +4067,7 @@ translate italiantl quest5_7b49274c:
 translate italiantl quest5_7cb5fa29:
 
     # Br "Even then, Haziq's procedure of logic tells us that, until further evidence surfaces, the theory with the least amount of assumptions is the most likely. This one isn't it."
-    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è." # see line 3395, also removed comma to match such line
+    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è." # see line 3395, also removed comma to match that line
 
 # game/chapter1.rpy:3491
 translate italiantl quest5_2d5dd7bc:
@@ -4589,7 +4589,7 @@ translate italiantl _call_syscheck_13_f6aa8926:
 translate italiantl _call_syscheck_13_cbde794f:
 
     # Br "You know what, if you think of something that might help with the investigation, or if you need anything else, just call me."
-    Br "Sai che c'è, se ti viene in mente qualcosa che potrebbe aiutare con l'indagine, o se hai bisogno di qualsiasi altra cosa, fammi solo uno squillo."
+    Br "Sai che c'è, se ti viene in mente qualcosa che potrebbe aiutare con l'indagine, o se hai bisogno di qualsiasi altra cosa, fammi uno squillo."
 
 # game/chapter1.rpy:3782
 translate italiantl _call_syscheck_13_255ecca1:

@@ -1048,7 +1048,7 @@ translate italiantl _call_skipcheck_9_0efcdc0c:
 translate italiantl _call_skipcheck_9_3d62c100:
 
     # Ad annoyed b "You don't have to do exactly the same thing. In the end, I'm just grabbing them right out of the sea. You could do that."
-    Ad annoyed b "Non devi fare esattamente la stessa cosa. Alla fine, non faccio altro che afferrarli direttamente dal mare. Ci riusciresti anche tu."
+    Ad annoyed b "Non devi fare esattamente la stessa cosa. Alla fine, non faccio altro che afferrarli direttamente dal mare. Ci riusciresti anche tu." # "I'm just" -> "all I'm doing is"
 
 # game/adine3.rpy:603
 translate italiantl _call_skipcheck_9_6a9e25b2:
@@ -2093,7 +2093,7 @@ translate italiantl adine3skip_7977d2db:
 translate italiantl adine3skip_c6b2742f:
 
     # Ad sad b "But only after I left did she realize that she had run out of her medication and went out alone to get a refill. If she just told me, or if I had paid more attention and noticed, I could've gotten it for her, and then none of this would have happened."
-    Ad sad b "Ma solo dopo essermene andata realizzò di aver finito i suoi farmaci e uscì da sola a prenderne degli altri. Se solo me l'avesse detto, o se fossi stata più attenta e l'avessi notato, avrei potuto prenderli io per lei, e allora niente di questo sarebbe successo."
+    Ad sad b "Ma solo dopo essermene andata si accorse di aver finito i farmaci e uscì da sola a prenderne degli altri. Se solo me l'avesse detto, o se fossi stata più attenta e l'avessi notato, avrei potuto prenderli io per lei, e allora niente di questo sarebbe successo."
 
 # game/adine3.rpy:1165
 translate italiantl adine3skip_6a24c6d8:
@@ -2225,7 +2225,7 @@ translate italiantl adine3skip_6f420b80:
 translate italiantl adine3skip_8c30660a:
 
     # Ad "For a while, I just felt guilty. But eventually, I realized there are those who have it much worse than myself. I decided to take what I had experienced and to turn it into something positive. That's when I started volunteering at the orphanage."
-    Ad "Per un po', mi sono solo sentita in colpa. Ma alla fine, ho realizzato che c'è chi se la passa molto peggio di me. Decisi di prendere la mia esperienza e di trasformarla in qualcosa di positivo. Fu allora che iniziai a fare da volontaria all'orfanotrofio." # "what I had experienced" -> "my experience"
+    Ad "Per un po', mi sono solo sentita in colpa. Ma alla fine, ho capito che c'è chi se la passa molto peggio di me. Decisi di prendere la mia esperienza e trasformarla in qualcosa di positivo. Fu allora che iniziai a fare da volontaria all'orfanotrofio." # "what I had experienced" -> "my experience"
 
 # game/adine3.rpy:1209
 translate italiantl adine3skip_bbeb5822:

@@ -34,13 +34,13 @@ translate italiantl aloneendings_df9f1168:
 translate italiantl aloneendings_e385c5e3:
 
     # m "When I left my apartment, I realized just how eerily deserted the rest of the place felt. They really weren't kidding when they said {i}everyone{/i} would watch the fireworks. I imagined there were a couple of designated places people gathered for this purpose. I had no doubt they were crowded beyond belief."
-    m "Quando lasciai il mio appartamento, realizzai quanto sinistramente deserto sembrasse il resto del posto. Davvero non scherzavano quando dicevano che {i}tutti quanti{/i} avrebbero guardato i fuochi d'artificio. Immaginai che vi fossero un paio di posti designati dove la gente si riuniva a tale scopo. Non avevo dubbi che fossero gremiti oltre ogni immaginazione."
+    m "Quando lasciai il mio appartamento, realizzai quanto sinistramente deserto sembrasse il resto del posto. Davvero non scherzavano quando dicevano che {i}tutti quanti{/i} avrebbero guardato i fuochi d'artificio. Immaginai vi fossero un paio di posti designati dove la gente si riuniva a tale scopo. Non avevo dubbi che fossero gremiti oltre ogni immaginazione."
 
 # game/chapter5.rpy:516
 translate italiantl aloneendings_04daa7ff:
 
     # m "While I waited for the fireworks to start, I looked at the area around me. With no soul in sight, I realized I hadn't actually spent many nights outside and was reminded of the day I had arrived here at my apartment in total darkness, with only Remy by my side."
-    m "Mentre aspettavo che i fuochi d'artificio iniziassero, mi guardai attorno nei paraggi. Senz'anima viva, realizzai che in effetti non avevo trascorso poi molte notti all'aperto e mi rammentai del giorno in cui ero giuntə qui al mio appartamento nell'oscurità più totale, con solo [Ry] al mio fianco."
+    m "Mentre aspettavo che i fuochi iniziassero, mi guardai attorno nei paraggi. Senz'anima viva in giro, realizzai di non aver trascorso poi molte notti all'aperto e mi rammentai del giorno in cui ero giuntə qui al mio appartamento nell'oscurità più totale, con solo [Ry] al mio fianco."
 
 # game/chapter5.rpy:520
 translate italiantl aloneendings_e507d2af:
@@ -70,7 +70,7 @@ translate italiantl aloneendings_ba74c7f9:
 translate italiantl aloneendings_cf6444f6:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever have."
-    m "Non solo il villaggio era praticamente deserto, ma i rimbombi dei fuochi d'artificio avrebbero anche eclissato eventuali colpi di pistola, dandogli quanta più sicurezza potesse mai avere."
+    m "Non solo il villaggio era praticamente deserto, ma i rimbombi dei fuochi avrebbero anche eclissato eventuali colpi di pistola, dandogli quanta più sicurezza potesse mai avere."
 
 # game/chapter5.rpy:541
 translate italiantl aloneendings_3ecc47ed:

@@ -100,7 +100,7 @@ translate italiantl adine5_b786e88a:
 translate italiantl adine5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "Molti razzi seguirono, il loro tonante fragore che echeggiava in tutto quanto il territorio." # see line 520, 522 of chapter 5
+    m "Molti razzi seguirono, il loro tonante fragore che echeggiava in tutto quanto il territorio." # see lines 520, 522 of chapter 5
 
 # game/adine5.rpy:75
 translate italiantl adine5_3de6ab5e:
@@ -118,7 +118,7 @@ translate italiantl adine5_ba74c7f9:
 translate italiantl adine5_cf6444f6:
 
     # m "Not only was the village basically deserted, but the sounds of the fireworks would also overshadow any gunshots, giving him as much security as he would ever have."
-    m "Non solo il villaggio era praticamente deserto, ma i rimbombi dei fuochi d'artificio avrebbero anche eclissato eventuali colpi di pistola, dandogli quanta più sicurezza potesse mai avere." # see line 539 of chapter 5
+    m "Non solo il villaggio era praticamente deserto, ma i rimbombi dei fuochi avrebbero anche eclissato eventuali colpi di pistola, dandogli quanta più sicurezza potesse mai avere." # see line 539 of chapter 5
 
 # game/adine5.rpy:83
 translate italiantl adine5_d5667416:
@@ -838,7 +838,7 @@ translate italiantl adinegoodending_2fc1d6c7:
 translate italiantl adinegoodending_f85ecedc:
 
     # As "Well, with the generators still intact, we will have no trouble diverting the comet and saving this world, but I also know that you feel very strongly about executing the mission you were sent here for."
-    As "Be', coi generatori ancora intatti, non avremo problemi a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # "about [executing] the mission", see line 814, see also the Italian translation to Charlotte Gray, 08:32
+    As "Be', coi generatori ancora intatti, non avremo problemi a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # "about [executing] the mission", see line 814, also see the Italian translation of Charlotte Gray, 08:32
 
 # game/adine5.rpy:814
 translate italiantl adinegoodending_592747cc:
