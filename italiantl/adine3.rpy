@@ -208,7 +208,7 @@ translate italiantl _call_skipcheck_9_525b9133:
 translate italiantl _call_skipcheck_9_2931928c:
 
     # Ad giggle b "Oh, I can't just start practicing right now. I'm still giddy with excitement from getting that letter earlier. Besides, I wanted to hang out with you while we're here as well."
-    Ad giggle b "Oh, non posso iniziare ad allenarmi proprio adesso. Sono ancora stordita dall'eccitazione di aver ricevuto quella lettera di prima. E poi, volevo stare anche un po' assieme a te già che siamo qui."
+    Ad giggle b "Oh, non posso iniziare ad allenarmi adesso. Sono ancora in preda all'eccitazione per aver ricevuto quella lettera di prima. E poi, volevo anche stare un po' assieme a te già che siamo qui."
 
 # game/adine3.rpy:204
 translate italiantl _call_skipcheck_9_ed080091:
@@ -886,7 +886,7 @@ translate italiantl _call_skipcheck_9_e0d3acf5:
 translate italiantl _call_skipcheck_9_e9e7c2f3:
 
     # Ad think b "It's kinda sad if you think about it."
-    Ad think b "È piuttosto triste se ci pensi."
+    Ad think b "È un po' triste se ci pensi."
 
 # game/adine3.rpy:517
 translate italiantl _call_skipcheck_9_8b6ae76b:
@@ -1042,13 +1042,13 @@ translate italiantl _call_skipcheck_9_1eb83f5d:
 translate italiantl _call_skipcheck_9_0efcdc0c:
 
     # c "Yeah, but I think my distinct lack of wings would probably prevent me from doing the same thing."
-    c "Sì, ma credo che il mio evidente difetto d'ali probabilmente m'impedirebbe di fare la stessa cosa."
+    c "Sì, ma credo che la mia evidente mancanza d'ali probabilmente mi impedirebbe di rifare la stessa cosa."
 
 # game/adine3.rpy:601
 translate italiantl _call_skipcheck_9_3d62c100:
 
     # Ad annoyed b "You don't have to do exactly the same thing. In the end, I'm just grabbing them right out of the sea. You could do that."
-    Ad annoyed b "Non devi fare esattamente la stessa cosa. Alla fine, non faccio altro che afferrarli direttamente dal mare. Ci riusciresti anche tu." # "I'm just" -> "all I'm doing is"
+    Ad annoyed b "Non devi rifare esattamente la stessa cosa. Alla fine, non faccio altro che afferrarli direttamente dal mare. Ci riusciresti anche tu." # "I'm just" -> "all I'm doing is"
 
 # game/adine3.rpy:603
 translate italiantl _call_skipcheck_9_6a9e25b2:
@@ -1708,7 +1708,7 @@ translate italiantl mpsave_6f2269c3:
 translate italiantl mpsave_3bd96cc8:
 
     # m "A roll, followed by a loop, after which she did another roll. It seemed to be less of a practiced routine and more of a warm-up to me."
-    m "Una rollata, seguita da una gran volta, dopo la quale eseguì un'altra rollata. Non mi sembrava che fosse tanto una studiata coreografia quanto un riscaldamento."
+    m "Una rollata, seguita da una gran volta, dopo la quale eseguì un'altra rollata. Non mi pareva essere tanto una studiata coreografia quanto un riscaldamento."
 
 # game/adine3.rpy:1009
 translate italiantl mpsave_6bc1b4cf:
@@ -2285,7 +2285,7 @@ translate italiantl adine3skip_356b153d:
 translate italiantl adine3skip_b18567a7:
 
     # c "(Oh, I totally forgot I still have a copy of that map for her.)"
-    c "(Oh, avevo del tutto scordato di avere ancora una copia della mappa per lei.)"
+    c "(Oh, dimenticavo di avere ancora una copia della mappa per lei.)"
 
 # game/adine3.rpy:1244
 translate italiantl adine3skip_8d441746:

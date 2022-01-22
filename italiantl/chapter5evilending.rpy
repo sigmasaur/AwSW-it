@@ -46,7 +46,7 @@ translate italiantl evilending_dabbfd50:
 translate italiantl evilending_f530db90:
 
     # Rz laugh "All the glory and riches that come from this - they're ours. And we earned it."
-    Rz laugh "Tutta la gloria e le ricchezze che ne derivano—sono nostre. E ce le siamo guadagnate." # corrected em-dash, also "from this" -> "from it"
+    Rz laugh "Tutta la gloria e le ricchezze che ne derivano—sono nostre. E ce le siamo guadagnate." # corrected em-dash
 
 # game/chapter5evilending.rpy:21
 translate italiantl evilending_89daf031:
@@ -82,7 +82,7 @@ translate italiantl evilending_32568256:
 translate italiantl evilending_36ce8cdb:
 
     # m "I had acquired it in a previous attempt. I wasn't sure how long ago that was, but I vaguely remembered taking it from Reza's corpse after he had tried to kill me one time."
-    m "Me l'ero procurata in un tentativo precedente. Non ero certə a quanto tempo addietro risalisse, ma ricordavo vagamente di averla presa dal corpo di [Rz] dopo ch'egli aveva tentato di uccidermi, una volta."
+    m "Me l'ero procurata in un tentativo precedente. Non ero sicurə a quando risalisse, ma ricordavo vagamente di averla presa dal corpo di [Rz] dopo che una volta egli aveva tentato di uccidermi."
 
 # game/chapter5evilending.rpy:45
 translate italiantl evilending_b72c2187:
@@ -118,7 +118,7 @@ translate italiantl evilending_b90201e3:
 translate italiantl evilending_0317ceea:
 
     # c "Do you think this was a spontaneous decision, Reza? You have no idea for how long I've been planning to do this."
-    c "Pensi che questa fosse una decisione spontanea, [Rz]? Non hai idea di quanto a lungo abbia pianificato di farlo." # "to do this" -> "to do it"
+    c "Pensi che questa fosse una decisione spontanea, [Rz]? Non hai idea da quanto pianificassi di farlo."
 
 # game/chapter5evilending.rpy:57
 translate italiantl evilending_94f76ec3:
@@ -136,7 +136,7 @@ translate italiantl evilending_1c64755a:
 translate italiantl evilending_dab815b3:
 
     # c "Just look at all their technology. You were willing to waste it all, and for what? Just so you and I could profit most from this and be hailed as heroes when at large our world wouldn't change."
-    c "Guarda solo la loro tecnologia. Eri disposto a sprecarla tutta, e per cosa? Solo perché tu ed io potessimo trarne il maggior profitto ed essere accolti come degli eroi quando il mondo nel suo insieme non sarebbe cambiato." # "from this" -> "from it"
+    c "Guarda solo la loro tecnologia. Eri disposto a sprecarla tutta, e per cosa? Solo perché tu ed io potessimo trarne il maggior profitto ed essere accolti come degli eroi quando il mondo nel suo insieme non sarebbe cambiato."
 
 # game/chapter5evilending.rpy:63
 translate italiantl evilending_c60afc0e:
@@ -214,7 +214,7 @@ translate italiantl evilending_cc81ed0c:
 translate italiantl evilending_b69213ba:
 
     # Rz "I didn't even need you in the first place. I did all of this on my own, and now you just came here to take everything for yourself. You don't deserve any of it."
-    Rz "Non mi sei neanche servitə sin dall'inizio. Ho fatto tutto questo da solo, e ora vieni semplicemente qui a prendere tutto quanto per te stessə. Non meriti niente di questo." # "any of it" -> "any of this"
+    Rz "Non mi sei neanche mai servitə. Ho fatto tutto questo da solo, e ora te ne vieni qui e vuoi tutto quanto per te stessə. Non meriti niente di questo." # "came here" -> "come here", "any of it" -> "any of this"
 
 # game/chapter5evilending.rpy:89
 translate italiantl evilending_d1ace9ca:
@@ -226,7 +226,7 @@ translate italiantl evilending_d1ace9ca:
 translate italiantl evilending_82b931ec:
 
     # Rz "It doesn't have to. I'd rather die trying to do what is right than sit around, living my life doing nothing and watching our world go down in ashes."
-    Rz "Non ce n'è bisogno. Preferisco morire tentando di fare quello che è giusto piuttosto che restandomene senza far niente, avendo vissuto la mia vita a guardare il nostro mondo che finisce in cenere." # "it doesn't have to" -> "it doesn't need to"
+    Rz "Non ce n'è bisogno. Preferisco morire tentando di fare ciò che è giusto piuttosto che passare la vita a far niente, restandomene a guardare il nostro mondo ridursi in cenere." # "it doesn't have to" -> "it doesn't need to", "sit around, living my life doing nothing and watching" -> "live my life doing nothing, sitting around and watching"
 
 # game/chapter5evilending.rpy:95
 translate italiantl evilending_e15c9673:
@@ -670,7 +670,7 @@ translate italiantl no_ed42ee26:
 translate italiantl no_cf0625b1:
 
     # Rz "This is such an idiotic trope, you know. Random person meets weird natives, learns their ways and then ends up saving them."
-    Rz "Il tuo è uno stereotipo talmente idiota, lo sai. Una persona qualunque incontra gli strambi nativi, impara i loro costumi e quindi finisce per salvarli." # "this is" -> "yours is"
+    Rz "Il tuo è uno stereotipo talmente idiota, lo sai. Una persona qualunque incontra gli strambi nativi, impara i loro costumi e quindi finisce per salvarli." # "this" -> "yours"
 
 # game/chapter5evilending.rpy:555
 translate italiantl no_498b9519:
@@ -706,7 +706,7 @@ translate italiantl no_56d4bb3f:
 translate italiantl no_f79959bc:
 
     # Rz "They've had it for who knows how long. Now it's time for us."
-    Rz "Ce l'hanno avuta per chissà quanto tempo. Ora è il nostro turno." # assumed "it" is referred to "the solution"
+    Rz "Ce l'hanno avuta per chissà quanto. Ora è il nostro turno." # "it" as in "the solution" from line 563
 
 # game/chapter5evilending.rpy:567
 translate italiantl no_36a74191:
@@ -820,7 +820,7 @@ translate italiantl no_1844cca7:
 translate italiantl no_a65330f3:
 
     # Rz "What do you want to do? Talk me down from doing this? And then what?"
-    Rz "Che cosa vorresti fare? Dissuadermi dal farlo? E poi cosa?" # "from doing this" -> "from doing it"
+    Rz "Che cosa vorresti fare? Dissuadermi dal farlo? E poi cosa?"
 
 # game/chapter5evilending.rpy:605
 translate italiantl no_8afa0e34:
@@ -994,7 +994,7 @@ translate italiantl _call_syscheck_99_42e2e280:
 translate italiantl _call_syscheck_99_044dc97c:
 
     # s "You had two messages waiting for you. You sure are getting around, aren't you?"
-    s "Hai avuto due messaggi ad attenderti. Ti stai dando un sacco da fare, non è così?"
+    s "Hai avuto due messaggi ad attenderti. Tu sì che ti dai da fare, dico bene?"
 
 # game/chapter5evilending.rpy:791
 translate italiantl _call_syscheck_100_dcad8579:
@@ -1090,7 +1090,7 @@ translate italiantl skiptut_2acb98f7:
 translate italiantl skiptut_06013450:
 
     # s "It's up to you whether you want to use it or not, but it might save you some time."
-    s "Sta a te decidere se saltare avanti o meno, ma potrebbe farti risparmiare del tempo." # "use it" -> "jump ahead"
+    s "Sta a te decidere se saltare avanti o meno, ma potrebbe risparmiarti del tempo." # "use it" -> "jump ahead"
 
 # game/chapter5evilending.rpy:877
 translate italiantl skiptut_c5ae7a1f:

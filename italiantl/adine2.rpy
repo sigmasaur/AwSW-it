@@ -256,7 +256,7 @@ translate italiantl _call_skipcheck_23_8416514a:
 translate italiantl _call_skipcheck_23_5ec1c392:
 
     # Ad "I'd adopt her myself, but I don't think I could care for her properly. Not as a single parent with my packed work schedule."
-    Ad "L'adotterei io stessa, ma non credo che potrei prendermene cura come si deve. Non come genitore single col mio ritmo di lavoro così serrato."
+    Ad "L'adotterei io stessa, ma non credo che potrei aver cura di lei come si deve. Non come genitore single col mio ritmo di lavoro così serrato."
 
 # game/adine2.rpy:257
 translate italiantl _call_skipcheck_23_434e0470:
@@ -346,7 +346,7 @@ translate italiantl _call_skipcheck_23_8b977e7b:
 translate italiantl _call_skipcheck_23_0b322fb0:
 
     # Ad think b "That's a strange way of looking at it, but you have a point."
-    Ad think b "È uno strano modo di vedere la cosa, ma non hai tutti i torti."
+    Ad think b "È uno strano modo di vederla, ma non hai tutti i torti."
 
 # game/adine2.rpy:319
 translate italiantl _call_skipcheck_23_2d65d668:
@@ -664,7 +664,7 @@ translate italiantl _call_skipcheck_23_b4acc597:
 translate italiantl _call_skipcheck_23_7210ca4f:
 
     # c "What's next?"
-    c "Cosa c'è adesso?"
+    c "Cosa viene adesso?"
 
 # game/adine2.rpy:538
 translate italiantl _call_skipcheck_23_02405e38:
@@ -682,7 +682,7 @@ translate italiantl _call_skipcheck_23_bc0d17cb:
 translate italiantl _call_skipcheck_23_78cf0049:
 
     # Ad annoyed b "Why do you have to be like that? You don't have to take this seriously, but at least have some fun with it."
-    Ad annoyed b "Perché devi essere così? Non devi per forza prendere la cosa così seriamente, ma almeno fattela piacere un po'."
+    Ad annoyed b "Perché devi essere così? Non devi per forza prenderla così seriamente, ma almeno fattela piacere un po'."
 
 # game/adine2.rpy:555
 translate italiantl _call_skipcheck_23_c8963619:
@@ -1162,7 +1162,7 @@ translate italiantl adine2menb_fa90a747:
 translate italiantl adine2menb_88df5d81:
 
     # Ad think b "Oh, this is interesting."
-    Ad think b "Oh, questa è interessante." # "this" as in "the card"
+    Ad think b "Oh, questa è interessante." # "this" as in "this [...] card" from lines 853, 986-988
 
 # game/adine2.rpy:922
 translate italiantl adine2menb_02b35a09:
@@ -1174,7 +1174,7 @@ translate italiantl adine2menb_02b35a09:
 translate italiantl adine2menb_f173471c:
 
     # Ad "Crossroads are ahead of you. Be wary of your decisions, for the consequences may be dire. Careful actions may have rewarding results, but carelessness could have consequences reaching further than you might think."
-    Ad "Un bivio si trova davanti a te. Bada alle tue decisioni, poiché gravi possono essere le conseguenze. Azioni attente possono avere risultati gratificanti, ma l'inattenzione può avere conseguenze di portata maggiore di quanto potresti credere." # "could have" -> "may have"
+    Ad "Un bivio si trova di fronte a te. Bada alle tue decisioni, poiché gravi possono essere le conseguenze. Azioni attente possono avere risultati gratificanti, ma l'inattenzione può avere conseguenze di portata maggiore di quanto potresti credere." # "could have" -> "may have"
 
 # game/adine2.rpy:926
 translate italiantl adine2menb_78cdb8e2:
@@ -1408,7 +1408,7 @@ translate italiantl adine2menb_93e0bca7:
 translate italiantl adine2menb_c4073417:
 
     # c "It's been busy. I thought this whole thing would go by quickly and without any mishaps, but now it seems like there's always something happening."
-    c "Sono statə occupatə. Pensavo che tutta questa storia sarebbe passata in fretta e senza intoppi, ma adesso sembra che accada sempre qualcosa."
+    c "È stato intenso. Pensavo che tutta questa storia sarebbe passata in fretta e senza intoppi, ma adesso sembra che accada sempre qualcosa."
 
 # game/adine2.rpy:1081
 translate italiantl adine2menb_f4e0c922:
@@ -1504,7 +1504,7 @@ translate italiantl adine2menb_ac3e265b:
 translate italiantl adine2menb_8e38b30a:
 
     # Ad disappoint b "As a result, the people waiting for the second order do get angry, because their order has to be remade and delivered all over again."
-    Ad disappoint b "Come risultato, quelli che aspettano il secondo ordine se la prendono eccome, perché il loro ordine dev'essere rifatto e consegnato tutto daccapo." # "the people" -> "those"
+    Ad disappoint b "Come risultato, quelli che aspettano il secondo ordine se la prendono eccome, perché il loro ordine va rifatto e consegnato tutto daccapo." # "the people" -> "those"
 
 # game/adine2.rpy:1113
 translate italiantl adine2menb_e2a3b9f7:
@@ -1606,7 +1606,7 @@ translate italiantl adine2skip_3206ae11:
 translate italiantl adine2skip_b341871b:
 
     # Ad normal b "It's kind of a long story, but there's something I need. You know some people at the police station, right?"
-    Ad normal b "È un po' una storia lunga, ma c'è qualcosa di cui avrei bisogno. Tu hai delle conoscenze alla stazione di polizia, giusto?"
+    Ad normal b "È un po' una lunga storia, ma c'è una cosa di cui avrei bisogno. Tu hai delle conoscenze alla stazione di polizia, giusto?"
 
 # game/adine2.rpy:1149
 translate italiantl adine2skip_24c7ada5:
@@ -1618,7 +1618,7 @@ translate italiantl adine2skip_24c7ada5:
 translate italiantl adine2skip_45cb9ba5:
 
     # Ad think b "I think they're in possession of a map related to an underground building they found."
-    Ad think b "Credo che loro siano in possesso di una mappa collegata all'edificio sotterraneo che hanno trovato."
+    Ad think b "Credo che loro siano in possesso di una mappa collegata a un edificio sotterraneo che hanno trovato."
 
 # game/adine2.rpy:1153
 translate italiantl adine2skip_ffece9d6:
@@ -1642,7 +1642,7 @@ translate italiantl adine2skip_fde92139:
 translate italiantl adine2skip_8bfde663:
 
     # Ad think b "Let's just say I'm interested in doing a little investigation of the place myself."
-    Ad think b "Diciamo solo che m'interessa condurre una piccola investigazione del posto per conto mio."
+    Ad think b "Diciamo solo che mi interessa condurre una piccola investigazione del posto per conto mio."
 
 # game/adine2.rpy:1161
 translate italiantl adine2skip_cf1a4a1a:
@@ -2084,7 +2084,7 @@ translate italiantl strings:
 
     # adine2.rpy:670
     old "Businessperson."
-    new "Imprenditorə."
+    new "Persona d'affari."
 
     # adine2.rpy:670
     old "Stay-at-home parent."

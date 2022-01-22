@@ -630,7 +630,7 @@ translate italiantl c3conty_b5e2021c:
 translate italiantl c3conty_0932934b:
 
     # Br stern b "Maybe. I suppose we'll see soon enough."
-    Br stern b "Magari. Suppongo che lo sapremo molto presto."
+    Br stern b "Magari. Suppongo che lo sapremo presto."
 
 # game/chapter3.rpy:1046
 translate italiantl c3conty_a22ecafd:
@@ -666,7 +666,7 @@ translate italiantl c3conty_b1e13d6a:
 translate italiantl c3conty_04e3ec11:
 
     # Em "That was quicker than I expected. I wouldn't have minded waiting out here a little longer."
-    Em "Ci avete messo meno di quanto mi aspettassi. Non mi sarebbe dispiaciuto aspettare qui fuori un po' più a lungo."
+    Em "Ci avete messo meno di quanto mi aspettassi. Non mi sarebbe dispiaciuto aspettare qui fuori ancora un po'."
 
 # game/chapter3.rpy:1101
 translate italiantl c3conty_b257cff5:
@@ -750,7 +750,7 @@ translate italiantl c3conty_fe17f0dd_1:
 translate italiantl c3conty_bc3dee69:
 
     # Em normal "I see. Well, I know I haven't exactly kept myself up-to-date with the details of Reza's disappearance, but to receive the message today that he has been involved in multiple murders and break-ins is quite shocking."
-    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e irruzioni è stato piuttosto scioccante." # "is quite shocking" -> "was quite shocking" to match lines 1113, 1123, also see those lines
+    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e intrusioni è stato piuttosto scioccante." # "is quite shocking" -> "was quite shocking" to match lines 1113, 1123, also see those lines
 
 # game/chapter3.rpy:1135
 translate italiantl c3conty_98aeb2ec_2:
@@ -948,7 +948,7 @@ translate italiantl c3conty_f3abfbef:
 translate italiantl c3conty_c01983af:
 
     # Em "Why did you choose Maverick as his escort in the first place?"
-    Em "Perché avresti scelto proprio [Mv] come sua scorta?"
+    Em "Per quale motivo avresti scelto [Mv] come sua scorta?"
 
 # game/chapter3.rpy:1201
 translate italiantl c3conty_31a3f5e7:
@@ -1530,7 +1530,7 @@ translate italiantl c3conty_3c643606:
 translate italiantl c3conty_81b9cf49:
 
     # Em frown "I cannot take your word under consideration in this matter, Chief. Taking into account Maverick's actions, and your responsibility for them, you will have to be dealt with separately."
-    Em frown "Non posso tenere in considerazione la tua parola a questo proposito, Capo. Tenuto conto delle azioni di [Mv], e della tua responsabilità per tali azioni, con te si faranno i conti in separata sede." # "them" -> "such actions"
+    Em frown "Non posso tenere in considerazione la tua parola in questa faccenda, Capo. Tenuto conto delle azioni di [Mv], e della tua responsabilità per tali azioni, con te andranno fatti i conti in separata sede." # "them" -> "such actions"
 
 # game/chapter3.rpy:1484
 translate italiantl c3conty_afede6e9:
@@ -1596,7 +1596,7 @@ translate italiantl c3conty_a1b922a7:
 translate italiantl c3conty_6369dfc9:
 
     # m "It didn't take long for Sebastian to arrive. After the situation was explained, he was visibly shocked, but didn't protest when he was given the task of sending me back through the portal."
-    m "Non ci volle molto perché [Sb] arrivasse. Dopo che gli fu spiegata la situazione, egli restò visibilmente sconvolto, ma non protestò quando gli fu affidato l'incarico di rimandarmi indietro attraverso il portale." # "explained TO HIM"
+    m "Non ci volle molto perché [Sb] arrivasse. Dopo che gli fu spiegata la situazione, restò visibilmente sconvolto, ma non protestò quando gli fu affidato l'incarico di rimandarmi indietro attraverso il portale." # "explained TO HIM"
 
 # game/chapter3.rpy:1510
 translate italiantl c3conty_f31aa58e:
@@ -2394,7 +2394,7 @@ translate italiantl c3conty_4ff6fd93:
 translate italiantl c3conty_5a308858:
 
     # c "Go ahead and turn it on, then."
-    c "Va' pure avanti e accendilo, allora."
+    c "Procedi pure e accendilo, allora."
 
 # game/chapter3.rpy:1846
 translate italiantl c3conty_53567e3c:
@@ -2436,7 +2436,7 @@ translate italiantl c3conty_b70e0a3d:
 translate italiantl c3conty_d96fb820:
 
     # n "Nevertheless, I dreaded going back empty-handed and returning to my old life in our ruined city."
-    n "E ciò nondimeno, ero terrorizzatə all'idea di ritornarmene a mani vuote alla mia vecchia vita, nella nostra città in rovina."
+    n "E ciò nondimeno, ero terrorizzatə all'idea di ritornare a mani vuote alla mia vecchia vita, nella nostra città in rovina."
 
 # game/chapter3.rpy:1870
 translate italiantl c3conty_08040799:
@@ -2830,7 +2830,7 @@ translate italiantl c3conty_4736d400:
 translate italiantl c3conty_8b880a52:
 
     # Em "You have been working for me for a long time now. I expected you to learn at some point, but you are very resistant to do so."
-    Em "È ormai da molto che lavori per me. Mi aspettavo che prima o poi avresti imparato, ma sei davvero refrattario." # "you are very resistant [to do so]"
+    Em "È ormai da molto che lavori per me. Mi aspettavo che prima o poi avresti imparato, invece sei davvero refrattario." # "you are very resistant [to do so]"
 
 # game/chapter3.rpy:2076
 translate italiantl c3conty_9331073d:
@@ -3412,7 +3412,7 @@ translate italiantl c3sections_64789417:
 translate italiantl c3sections_a7cf3ec1:
 
     # m "Before deciding my next move, I returned to my apartment for a moment of rest. A small piece of paper had been slipped under my door while I was gone."
-    m "Prima di decidere la mia prossima mossa, me ne ritornai al mio appartamento per un attimo di riposo. Un pezzetto di carta era stato fatto scivolare sotto la mia porta mentre ero via."
+    m "Prima di decidere la mia prossima mossa, ritornai al mio appartamento per un attimo di riposo. Un pezzetto di carta era stato fatto scivolare sotto la mia porta mentre ero via."
 
 # game/chapter3.rpy:2425
 translate italiantl c3sections_99980877:
@@ -3424,13 +3424,13 @@ translate italiantl c3sections_99980877:
 translate italiantl c3sections_f6745d81:
 
     # m "Someone clearly didn't want me to go to the portal, but why would I go there in the first place? As it was out of order right now, such an action would serve no purpose."
-    m "Era chiaro che qualcuno non voleva che io andassi al portale, ma per quale motivo sarei dovutə andarvi? Poiché al momento era fuori uso, una tale azione non sarebbe servita a niente."
+    m "Era chiaro che qualcuno non voleva che io andassi al portale, ma perché mai vi sarei dovutə andare? Poiché al momento era fuori uso, una tale azione non sarebbe servita a niente."
 
 # game/chapter3.rpy:2431
 translate italiantl c3sections_fe0ccee8:
 
     # m "I looked outside the window, at the portal's faint silhouette in the distance. The paper rustled between my fingers as I fidgeted with it, wondering about the message's sender and significance."
-    m "Guardai fuori dalla finestra, alla flebile sagoma del portale in lontananza. Il pezzo di carta frusciava fra le mie dita mentre ci giocavo, interrogandomi sul mittente del messaggio e sul suo significato." # "the PIECE OF paper"
+    m "Guardai fuori dalla finestra, alla flebile sagoma del portale in lontananza. Il pezzo di carta frusciava fra le mie dita mentre ci giocavo, interrogandomi sul mittente del messaggio e il suo significato." # "the PIECE OF paper"
 
 # game/chapter3.rpy:2435
 translate italiantl c3sections_4bad9402:
@@ -3580,7 +3580,7 @@ translate italiantl _call_lazycheck_1_0484a9d0:
 translate italiantl _call_lazycheck_1_4d52ec80:
 
     # m "From what I could see, it was the same hooded figure I had met in the maintenance room after the second murder."
-    m "Da quel che riuscii a vedere, si trattava della stessa figura incappucciata che avevo incontrato nella stanza della manutenzione in séguito al secondo omicidio."
+    m "Da quel che riuscii a vedere, si trattava della stessa figura incappucciata che avevo incontrato nella stanza della manutenzione in séguito al secondo omicidio." # see line 578 of chapter 2
 
 # game/chapter3.rpy:2553
 translate italiantl _call_lazycheck_1_a9d09c8c:
@@ -4162,7 +4162,7 @@ translate italiantl c3fac_1bbcca06:
 translate italiantl c3fac_b8b1dbad:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E perché te ne andresti in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:2911
 translate italiantl c3fac_f3b5df06:
@@ -4204,7 +4204,7 @@ translate italiantl c3fac_1bbcca06_1:
 translate italiantl c3fac_b8b1dbad_1:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E perché te ne andresti in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:2932
 translate italiantl c3fac_f3b5df06_1:
@@ -4246,7 +4246,7 @@ translate italiantl c3fac_1bbcca06_2:
 translate italiantl c3fac_99ccd528:
 
     # An face b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An face b "È così? E perché te ne andresti in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An face b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:2953
 translate italiantl c3fac_f3b5df06_2:
@@ -4294,7 +4294,7 @@ translate italiantl c3fac_9b75e60c:
 translate italiantl c3fac_b8b1dbad_2:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E perché te ne andresti in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:2990
 translate italiantl c3fac_f3b5df06_3:
@@ -4360,7 +4360,7 @@ translate italiantl c3fac_1bbcca06_3:
 translate italiantl c3fac_b8b1dbad_3:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E perché te ne andresti in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:3044
 translate italiantl c3fac_f3b5df06_4:
@@ -4390,7 +4390,7 @@ translate italiantl c3fac_3f746473:
 translate italiantl c3fac_cf90c207:
 
     # An "Cooperation isn't associated with ignoring the person you owe something to, or neglecting to return her phone calls."
-    An "Collaborare non è associato all'ignorare la persona cui devi qualcosa, o al non curarsi di ritornarle le telefonate." # "cooperation" -> "cooperating"
+    An "Collaborare non è associato all'ignorare la persona cui devi qualcosa, o al non curarsi di richiamarla al telefono." # "cooperation" -> "cooperating"
 
 # game/chapter3.rpy:3054
 translate italiantl c3fac_17401384:
@@ -5486,7 +5486,7 @@ translate italiantl follow_4e8538c2:
 translate italiantl follow_b36cdb39:
 
     # m "Then she placed her hands on the large dragon's chin. Gently, she lifted its huge muzzle and guided it toward the bowl. But when she released it, the dragon's head slumped and fell into the liquid. The bowl tumbled sideways and spilled its contents across the cave floor."
-    m "Poi poggiò le mani sul mento del grosso drago. Gentilmente, gli sollevò l'enorme muso e lo guidò verso la ciotola. Ma quand'ebbe lasciato la presa, la testa del drago si accasciò e cadde nel liquido. La ciotola tombolò di fianco e riversò il contenuto sul pavimento della cava."
+    m "Poi poggiò le mani sul mento del grosso drago. Gentilmente, gli sollevò l'enorme muso e lo guidò verso la ciotola. Ma quando ebbe lasciato la presa, la testa del drago si accasciò e cadde nel liquido. La ciotola tombolò di fianco e riversò il contenuto sul pavimento della cava."
 
 # game/chapter3.rpy:4064
 translate italiantl follow_b788615d:
@@ -5714,7 +5714,7 @@ translate italiantl c3go_b43daeae:
 translate italiantl c3go_8bdef6d0:
 
     # Sb "You saved that little girl. As far as I am concerned, nothing else you could have done would have mattered as much."
-    Sb "Hai salvato quella ragazzina. Per quanto mi riguarda, nient'altro che tu potessi fare avrebbe importato di più."
+    Sb "Hai salvato quella ragazzina. Per quanto mi riguarda, nient'altro che tu potessi fare sarebbe contato di più." # "as much" -> "more"
 
 # game/chapter3.rpy:4228
 translate italiantl c3go_86c8a6f3:
@@ -5948,7 +5948,7 @@ translate italiantl _call_syscheck_26_4e0dce76:
 translate italiantl _call_syscheck_26_be50daa0:
 
     # c "Well, it's no big deal. Guess I'll just have to hold on to the Ixomen Sphere for a bit longer."
-    c "Be', non è niente di che. Immagino che dovrò solo tenermi stretta la Sfera di Ixomen un po' più a lungo."
+    c "Be', non è niente di che. Immagino che dovrò solo tenermi stretta la Sfera di Ixomen ancora per un po'."
 
 # game/chapter3.rpy:4406
 translate italiantl _call_syscheck_26_ce04aab7:
@@ -6390,7 +6390,7 @@ translate italiantl strings:
 
     # chapter3.rpy:2641
     old "I've just been busy lately."
-    new "Sono solo statə molto occupatə ultimamente."
+    new "Ho solo avuto da fare ultimamente."
 
     # chapter3.rpy:2641
     old "Actually, I'm not sure if I can do that anymore."
@@ -6418,7 +6418,7 @@ translate italiantl strings:
 
     # chapter3.rpy:3282
     old "Actually, I'm kinda busy right now."
-    new "In effetti, sono piuttosto occupatə al momento."
+    new "In effetti, sono un po' occupatə al momento."
 
     # chapter3.rpy:3465
     old "Study the blueprint of the underground building near the portal."

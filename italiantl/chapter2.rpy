@@ -532,7 +532,7 @@ translate italiantl _call_skipcheck_11_292a4a9d:
 translate italiantl _call_skipcheck_11_6f01925d:
 
     # Br "Besides, putting on that head mount is such a hassle."
-    Br "Tra l'altro, indossare quel copricapo è una vera seccatura."
+    Br "Tra l'altro, mettersi quel copricapo è una vera seccatura."
 
 # game/chapter2.rpy:602
 translate italiantl _call_skipcheck_11_e82a86dd:
@@ -979,13 +979,13 @@ translate italiantl _call_skipcheck_11_ad212339:
 translate italiantl _call_skipcheck_11_7581cdd5:
 
     # Br stern b "Right. Who else would need to steal a generator, when those who live here could either buy or even simply request one? Not to mention, Reza was the one who arranged the diplomatic trade for the generators in the first place."
-    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato proprio [Rz] a organizzare lo scambio diplomatico per i generatori."
+    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato [Rz] a organizzare sin dall'inizio lo scambio diplomatico per i generatori."
 
 # game/chapter2.rpy:981
 translate italiantl _call_skipcheck_11_2c4cde19:
 
     # Br stern b "Right. Who else would need to steal a generator, when those who live here could either buy or even simply request one. Not to mention, Reza was the one who arranged the diplomatic trade for the generators in the first place."
-    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato proprio [Rz] a organizzare lo scambio diplomatico per i generatori." # corrected question mark to match line 975
+    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato [Rz] a organizzare sin dall'inizio lo scambio diplomatico per i generatori." # corrected question mark to match line 975, also see that line
 
 # game/chapter2.rpy:985
 translate italiantl _call_skipcheck_11_3951ceed:
@@ -1269,7 +1269,7 @@ translate italiantl chapter2sections2_a3c147d5:
 translate italiantl chapter2sections2_814ec0e4:
 
     # n "It certainly was going to be a busy day, and I knew I wouldn't have the time to visit all of them."
-    n "Sarebbe certamente stata una giornata impegnativa, e sapevo che non avrei avuto il tempo di visitarli tutti."
+    n "Sarebbe certamente stata una giornata intensa, e sapevo che non avrei avuto il tempo di visitarli tutti."
 
 # game/chapter2.rpy:1191
 translate italiantl chapter2sections_17381aad:
@@ -1623,7 +1623,7 @@ translate italiantl chap2store_bf235757:
 translate italiantl chap2store_2b5a955c:
 
     # St "More of an invitation, really. You can come by any time if you are interested in seeing what else I have in store."
-    St "Più che altro un invito, davvero. Puoi passare quando vuoi se t'interessa vedere cos'altro ho in serbo."
+    St "Più che altro un invito, davvero. Puoi passare quando vuoi se ti interessa vedere cos'altro ho in serbo."
 
 # game/chapter2.rpy:1466
 translate italiantl chap2store_5cd7eb66:
@@ -1797,7 +1797,7 @@ translate italiantl chap2storeques_af2aceae:
 translate italiantl chap2storeques_3e8b8203:
 
     # St "Since our government takes care of all his purchases, they're filed separately. It was simple to pull them up."
-    St "Dato che è il nostro governo a occuparsi di tutti i suoi acquisti, questi sono registrati separatamente. È stato semplice recuperarli."
+    St "Dato che è il nostro governo a spesarlo di tutti i suoi acquisti, questi sono registrati separatamente. È stato semplice recuperarli."
 
 # game/chapter2.rpy:1575
 translate italiantl chap2storeques_3fea1af0:
@@ -2157,7 +2157,7 @@ translate italiantl chap2facques_476c4046:
 translate italiantl chap2facques_c785acc4:
 
     # Dm arrogant "Why do you care about that?"
-    Dm arrogant "Perché t'interessa?"
+    Dm arrogant "Perché ti interessa?"
 
 # game/chapter2.rpy:1875
 translate italiantl chap2facques_e9e2810d:
@@ -2223,7 +2223,7 @@ translate italiantl chap2facques_6f58f482:
 translate italiantl chap2facques_57b6f3f4:
 
     # Dm arrogant "Nothing special, unless you care a lot about genetics. And we're not talking about the basics here, but the deep stuff."
-    Dm arrogant "Niente di speciale, a meno che non t'interessi parecchio di genetica. E non parliamo delle basi qui, ma di roba seria."
+    Dm arrogant "Niente di speciale, a meno che non ti interessi parecchio di genetica. E non parliamo delle basi qui, ma di roba seria."
 
 # game/chapter2.rpy:1942
 translate italiantl chap2facques_4a91bb19:
@@ -3291,7 +3291,7 @@ translate italiantl chap2park3choice_6d2016dd:
 translate italiantl chap2park3choice_bcf690c7:
 
     # Em normal "What would you like to know?"
-    Em normal "Cosa vorresti sapere?"
+    Em normal "Che cosa vorresti sapere?"
 
 # game/chapter2.rpy:3284
 translate italiantl chap2emselection_0f320c21:
@@ -3549,7 +3549,7 @@ translate italiantl _call_skipcheck_12_8f18a63f:
 translate italiantl _call_skipcheck_12_10705a40:
 
     # Mv "I just don't get why you can't be honest with me, even when you know no one else is listening."
-    Mv "Proprio non capisco perché non puoi essere sincerə con me, neanche quando sai che nessuno ci ascolta."
+    Mv "Proprio non capisco perché non puoi essere sincerə con me, neanche quando sai che nessuno ci ascolta." # see line 3522
 
 # game/chapter2.rpy:3534
 translate italiantl _call_skipcheck_12_f64b2b26:
@@ -3573,7 +3573,7 @@ translate italiantl _call_skipcheck_12_a16483ee:
 translate italiantl _call_skipcheck_12_529daa99:
 
     # Mv angry "Tell me, why would an ambassador need such a dangerous tool in the first place?"
-    Mv angry "Dimmi, per quale motivo a un ambasciatore dovrebbe servire uno strumento tanto pericoloso?"
+    Mv angry "Dimmi, perché mai a un ambasciatore dovrebbe servire uno strumento tanto pericoloso?"
 
 # game/chapter2.rpy:3552
 translate italiantl _call_skipcheck_12_310dc4f4:
@@ -3585,7 +3585,7 @@ translate italiantl _call_skipcheck_12_310dc4f4:
 translate italiantl _call_skipcheck_12_529daa99_1:
 
     # Mv angry "Tell me, why would an ambassador need such a dangerous tool in the first place?"
-    Mv angry "Dimmi, per quale motivo a un ambasciatore dovrebbe servire uno strumento tanto pericoloso?"
+    Mv angry "Dimmi, perché mai a un ambasciatore dovrebbe servire uno strumento tanto pericoloso?"
 
 # game/chapter2.rpy:3560
 translate italiantl _call_skipcheck_12_6361f0b4:
@@ -3597,7 +3597,7 @@ translate italiantl _call_skipcheck_12_6361f0b4:
 translate italiantl _call_skipcheck_12_69eb3026:
 
     # Mv angry "Of course, why else would an ambassador need such a dangerous tool?"
-    Mv angry "Ma certo, per quale altro motivo a un ambasciatore dovrebbe servire uno strumento tanto pericoloso?"
+    Mv angry "Ma certo, perché altro a un ambasciatore dovrebbe servire uno strumento tanto pericoloso?"
 
 # game/chapter2.rpy:3569
 translate italiantl _call_skipcheck_12_6d9e7c4b:

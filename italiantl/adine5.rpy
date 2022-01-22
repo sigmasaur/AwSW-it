@@ -844,7 +844,7 @@ translate italiantl adinegoodending_f85ecedc:
 translate italiantl adinegoodending_592747cc:
 
     # As "Unfortunately, I'm starting to realize now that this won't be possible."
-    As "Sfortunatamente, inizio adesso a rendermi conto che non sarà possibile portarla a termine." # "this won't be possible" -> "it won't be possible to execute it"
+    As "Sfortunatamente, inizio adesso a rendermi conto che non sarà possibile portarla a termine." # "this won't be possible" -> "it won't be possible TO EXECUTE IT"
 
 # game/adine5.rpy:816
 translate italiantl adinegoodending_3070bc42:

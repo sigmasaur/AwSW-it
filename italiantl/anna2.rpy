@@ -82,7 +82,7 @@ translate italiantl anna2_d0f7d9df:
 translate italiantl anna2_dc9748a4:
 
     # c "There you are. Where have you been all this time?"
-    c "Eccoti qua. Dove sei stata tutto questo tempo?"
+    c "Eccoti qui. Dove sei stata tutto questo tempo?"
 
 # game/anna2.rpy:133
 translate italiantl anna2_bf57aa74:
@@ -388,13 +388,19 @@ translate italiantl _call_skipcheck_32_8633bdb1:
 translate italiantl _call_skipcheck_32_a44fc2c8:
 
     # c "Sounds like you two don't get along that well."
-    c "Sembra che voi due non andiate molto d'accordo."
+    if chapter3unplayed or damionsurvives:
+        c "Sembra che voi due non andiate molto d'accordo."
+    else:
+        c "Sembra che voi due non andaste molto d'accordo."
 
 # game/anna2.rpy:385
 translate italiantl _call_skipcheck_32_7f3d656a:
 
     # An face "That's the understatement of the century. Being trapped in a small room with the likes of him for hours on end every day is a scenario born of a sick mind with the intention of making me suffer as much as possible. It certainly doesn't make my research any easier."
-    An face "Questo è l'eufemismo del secolo. Essere intrappolata in una stanzetta con uno come lui per ore e ore ogni giorno è uno scenario partorito da una mente malata con l'intento di farmi soffrire il più possibile. Di certo non rende le mie ricerche più facili."
+    if chapter3unplayed or damionsurvives:
+        An face "È l'eufemismo del secolo. Essere intrappolata in una stanzetta con uno come lui per ore e ore ogni giorno è uno scenario partorito da una mente malata con l'intento di farmi soffrire il più possibile. Di certo non rende le mie ricerche più facili."
+    else:
+        An face "È l'eufemismo del secolo. Essere intrappolata in una stanzetta con uno come lui per ore e ore ogni giorno è uno scenario partorito da una mente malata con l'intento di farmi soffrire il più possibile. Di certo non rendeva le mie ricerche più facili."
 
 # game/anna2.rpy:387
 translate italiantl _call_skipcheck_32_fd2ad21e:
@@ -814,13 +820,13 @@ translate italiantl _call_skipcheck_32_bee9ce8e:
 translate italiantl _call_skipcheck_32_0d8501c7:
 
     # An "The medication wasn't the right one, by the way."
-    An "I farmaci non erano quelli giusti, comunque."
+    An "I farmaci non erano quelli giusti, per inciso."
 
 # game/anna2.rpy:606
 translate italiantl _call_skipcheck_32_d9286906:
 
     # An "Maverick takes solace in the fact that he was able to save Bryce, but he's never been the same since that incident. Now, he scrutinizes everyone and everything."
-    An "[Mv] trae conforto dal fatto che è stato in grado di salvare [Br], ma non è stato più lo stesso da quell'incidente. Adesso, mette al vaglio tutto e tutti."
+    An "[Mv] trae consolazione dal fatto che è stato in grado di salvare [Br], ma non è stato più lo stesso da quell'incidente. Adesso, passa al vaglio tutto e tutti."
 
 # game/anna2.rpy:608
 translate italiantl _call_skipcheck_32_572ef42b:
@@ -1438,7 +1444,7 @@ translate italiantl _call_skipcheck_32_f2aa4009:
 translate italiantl _call_skipcheck_32_14bbf64a:
 
     # An smirk c "Mother nature has been so cruel to your race that I almost feel sorry for you."
-    An smirk c "Madre natura è stata così crudele con la tua razza che provo quasi pena per voi." # assumed the first "you" is referred to the player character, the second to the human race
+    An smirk c "Madre natura è stata così crudele con la tua razza che provo quasi pena per voi." # first "you" as in "the player character", second as in "the human race"
 
 # game/anna2.rpy:989
 translate italiantl _call_skipcheck_32_a3bd46da:
@@ -1486,7 +1492,7 @@ translate italiantl _call_skipcheck_32_533d5b93:
 translate italiantl _call_skipcheck_32_609b3cec:
 
     # An "So, being biologically inferior somehow makes you better than us. Got it."
-    An "Quindi, essere biologicamente inferiori in qualche modo vi rende migliori di noi. Afferrato." # assumed "you" is referred to the human race
+    An "Quindi, essere biologicamente inferiori in qualche modo vi rende migliori di noi. Afferrato."
 
 # game/anna2.rpy:1024
 translate italiantl _call_skipcheck_32_21d8cb8c:
@@ -1858,7 +1864,7 @@ translate italiantl anna2else_3a1080d0:
 translate italiantl anna2else_b0f72366:
 
     # An normal "Today was kinda fun, so maybe I should make the effort to get out every once in a while."
-    An normal "Oggi è stato divertente, quindi forse dovrei fare lo sforzo di uscire una volta ogni tanto."
+    An normal "Oggi è stato divertente, quindi forse dovrei fare lo sforzo di uscire una volta ogni tanto." # "today was [kinda] fun"
 
 # game/anna2.rpy:1282
 translate italiantl anna2else_0d6fc47a:

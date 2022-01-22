@@ -220,7 +220,7 @@ translate italiantl _call_skipcheck_10_58b7831b:
 translate italiantl _call_skipcheck_10_d2241b6c:
 
     # c "Yeah, I ordered something I knew I'd actually like this time. I didn't want to make the same mistake I did earlier today."
-    c "Sì, stavolta ho ordinato qualcosa che sapevo mi sarebbe effettivamente piaciuto. Non volevo commettere lo stesso errore di stamane."
+    c "Sì, stavolta ho ordinato qualcosa che sapevo mi sarebbe effettivamente piaciuto. Non volevo rifare lo stesso errore di stamane."
 
 # game/adine1.rpy:265
 translate italiantl _call_skipcheck_10_d9534b58:
@@ -250,7 +250,7 @@ translate italiantl _call_skipcheck_10_1571c3b3:
 translate italiantl _call_skipcheck_10_f57b79ce:
 
     # Ad "At least, that's what I think."
-    Ad "Almeno, è quello che penso io." # "that's" -> "it's"
+    Ad "Almeno, è quello che penso io."
 
 # game/adine1.rpy:282
 translate italiantl _call_skipcheck_10_5727fe5d:
@@ -340,7 +340,7 @@ translate italiantl _call_skipcheck_10_4252207b:
 translate italiantl _call_skipcheck_10_719209ef:
 
     # Ad "I can't really take them in and care for them 24/7 like a proper parent would. I'd love to, but I work far too much to be a single parent."
-    Ad "Non è che possa prenderli con me e badare a loro ventiquattr'ore al giorno come farebbe un genitore vero e proprio. Vorrei tanto, ma lavoro fin troppo per essere un genitore single."
+    Ad "Non è che possa prenderli con me e aver cura di loro ventiquattr'ore al giorno come farebbe un genitore vero e proprio. Vorrei tanto, ma lavoro fin troppo per fare il genitore single."
 
 # game/adine1.rpy:310
 translate italiantl _call_skipcheck_10_6dae616b:
@@ -562,7 +562,7 @@ translate italiantl _call_skipcheck_10_ac2a2159:
 translate italiantl _call_skipcheck_10_91928a3d:
 
     # c "I could say the same thing about you."
-    c "Potrei dire lo stesso di voi." # "you" as in "the dragons"
+    c "Potrei dire lo stesso di voi."
 
 # game/adine1.rpy:433
 translate italiantl _call_skipcheck_10_c097ab55:
@@ -1294,7 +1294,7 @@ translate italiantl nextsc_6507f194:
 translate italiantl nextsc_c1901d4d:
 
     # Ad "In some sort of twisted way, I'm actually kinda curious to find out what it'll be like when it's all over."
-    Ad "In un qualche modo contorto, in effetti sono un po' curiosa di scoprire come sarà quand'è tutto finito."
+    Ad "In un qualche modo contorto, in effetti sono un po' curiosa di scoprire com'è quando sarà tutto finito."
 
 # game/adine1.rpy:840
 translate italiantl nextsc_dace38e7:
@@ -1378,7 +1378,7 @@ translate italiantl nextsc_375c54ad:
 translate italiantl nextsc_c11e0ee0:
 
     # Ad "That would be quite a show, huh?"
-    Ad "Sarebbe un gran bello spettacolo, eh?" # "that would be" -> "it would be"
+    Ad "Sarebbe un gran bello spettacolo, eh?"
 
 # game/adine1.rpy:915
 translate italiantl nextsc_aa2237bc:

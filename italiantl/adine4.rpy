@@ -1270,7 +1270,7 @@ translate italiantl _call_skipcheck_30_a7bca2b2:
 translate italiantl _call_skipcheck_30_56409d3e:
 
     # c "I suppose when they give me books, they know what I'm going to read, but on TV they can't really regulate the content I'm going to see. At least if TV works the same way as ours used to."
-    c "Suppongo che quando mi hanno dato dei libri, sapevano quello che sarei andatə a leggere, ma sulla TV non è che potessero regolamentare i contenuti che avrei visto. Almeno se la TV funziona allo stesso modo di come un tempo funzionava la nostra." # "used to WORK"
+    c "Suppongo che nel darmi dei libri, sapevano quello che sarei andatə a leggere, ma con la TV non è che potessero regolamentare i contenuti che avrei visto. Almeno se la TV funziona allo stesso modo di come un tempo funzionava la nostra." # "used to WORK"
 
 # game/adine4.rpy:611
 translate italiantl _call_skipcheck_30_5c20ef0f:
@@ -1480,13 +1480,13 @@ translate italiantl _call_skipcheck_30_a202fad0:
 translate italiantl _call_skipcheck_30_ef751427:
 
     # c "I see. I hope they aren't too scared of me when they see how different I am, though."
-    c "Capisco. Spero che non abbiano troppa paura di me quando vedranno quanto sono diversə, però."
+    c "Capisco. Spero non abbiano troppa paura di me quando vedranno quanto sono diversə, però."
 
 # game/adine4.rpy:687
 translate italiantl _call_skipcheck_30_612cb0a3:
 
     # Ad giggle b "I didn't run away screaming when I first met you, did I?"
-    Ad giggle b "Io non sono scappata via urlando quando ti ho incontrato per la prima volta, non è così?"
+    Ad giggle b "Io non sono scappata via urlando la prima volta che ti ho incontrato, non è così?"
 
 # game/adine4.rpy:689
 translate italiantl _call_skipcheck_30_7079b2e8_1:
@@ -1642,7 +1642,7 @@ translate italiantl a4shower_a366f1a0:
 translate italiantl a4shower_445c3050:
 
     # m "She moved around a bit, stretching this and that way in order to cover her whole body in the water. Soon afterwards, she pressed the button on the wall again, and the water flow stopped."
-    m "Si mosse qua e là, allungandosi da questa e da quella parte al fine di ricoprire il suo intero corpo con l'acqua. Poco più tardi, premette di nuovo il pulsante sul muro, e il flusso dell'acqua smise."
+    m "Si mosse qua e là, allungandosi da questa e da quella parte al fine di ricoprire il suo intero corpo con l'acqua. Subito dopo, premette di nuovo il pulsante sul muro, e il flusso dell'acqua smise."
 
 # game/adine4.rpy:795
 translate italiantl a4shower_8619da62:

@@ -664,7 +664,7 @@ translate italiantl c4skip1_ce05f316:
 translate italiantl c4skip1_c3ed151e:
 
     # m "Shortly after they vanished, Maverick also turned to leave."
-    m "Subito dopo che furono scomparsi, anche [Mv] si voltò per andarsene."
+    m "Poco dopo che furono scomparsi, anche [Mv] si voltò per andarsene."
 
 # game/chapter4.rpy:974
 translate italiantl c4skip1_ff1eb4c1:
@@ -1159,7 +1159,7 @@ translate italiantl passontestresults_d0c2cf03:
 translate italiantl passontestresults_ae5f8852:
 
     # Sb "Or maybe he's not even in there anymore. He could've seen us and slipped away unnoticed, with plenty of time to destroy the evidence while we've been waiting here."
-    Sb "O forse non è nemmeno più là dentro. Potrebbe averci visto ed essersi dileguato senza farsi notare, con tutto il tempo di distruggere le prove mentre noi eravamo qui ad aspettare."
+    Sb "O forse nemmeno è più là dentro. Potrebbe averci visto ed essersi dileguato senza farsi notare, con tutto il tempo di distruggere le prove mentre noi eravamo qui ad attendere."
 
 # game/chapter4.rpy:1213
 translate italiantl passontestresults_c006bc6e:
@@ -1981,7 +1981,7 @@ translate italiantl brycefirst_f1285e10:
 translate italiantl brycefirst_0766eb8d:
 
     # m "Though, shortly after Bryce opened the door, an earth-shattering sound echoed across the sky."
-    m "Però, subito dopo che [Br] ebbe aperto la porta, un dirompente boato echeggiò attraverso il cielo."
+    m "Però, poco dopo che [Br] ebbe aperto la porta, un dirompente boato echeggiò attraverso il cielo."
 
 # game/chapter4.rpy:1943
 translate italiantl brycefirst_a93c7636:
@@ -2173,7 +2173,7 @@ translate italiantl c4cont_79c69506:
 translate italiantl c4cont_7d2cd944:
 
     # c "Shouldn't we take care of those, first?"
-    c "Non dovremmo occuparci di quelle, per prime?"
+    c "Non dovremmo pensare a quelle, per prime?"
 
 # game/chapter4.rpy:2045
 translate italiantl c4cont_dad19954:
@@ -2329,7 +2329,7 @@ translate italiantl sebelse_ec662314:
 translate italiantl sebelse_3cb2d5d0:
 
     # Sb "I'll leave the stuff for you here, and I'll take care of the rest once I get back, alright?"
-    Sb "Lascerò la roba qui per te, e mi occuperò del resto una volta che sarò di ritorno, d'accordo?"
+    Sb "Lascerò la roba qui per te, e io penserò al resto una volta che sarò di ritorno, d'accordo?"
 
 # game/chapter4.rpy:2138
 translate italiantl sebelse_e631bc97:
@@ -3607,7 +3607,7 @@ translate italiantl c4library_89c2bed2:
 translate italiantl c4library_5cdbca69:
 
     # Sb "One or two instances of being scolded hardly constitutes bullying, especially if Emera had good reasons."
-    Sb "Difficilmente una o due occasioni d'essere rimproverati aspramente costituiscono una molestia, specie se [Em] aveva buone ragioni."
+    Sb "Difficilmente una o due lavate di capo costituiscono una molestia, specie se [Em] aveva buone ragioni."
 
 # game/chapter4.rpy:3077
 translate italiantl c4library_f40bbda7:
@@ -4687,7 +4687,7 @@ translate italiantl c4rest_5097e44f:
 translate italiantl c4rest_cb6b7e5f:
 
     # m "I looked at the bookshelf for new reading material, yet found that none of the books I hadn't already read particularly interested me."
-    m "Guardai alla libreria per del nuovo materiale da lettura, eppure trovai che nessuno dei libri che non avevo ancora letto m'interessava particolarmente."
+    m "Guardai alla libreria per del nuovo materiale da lettura, eppure trovai che nessuno dei libri che non avevo ancora letto mi interessava particolarmente."
 
 # game/chapter4.rpy:4084
 translate italiantl c4postsections_74e02e5b:
@@ -4729,7 +4729,7 @@ translate italiantl c4postsections_38490d1f:
 translate italiantl c4postsections_a7a76515:
 
     # Sb "I'll take care of the remaining tasks, so you can take the rest of the day off. I'm sure you have things to do other than helping the police department."
-    Sb "Mi occuperò io dei rimanenti incarichi, quindi puoi prenderti il resto della giornata. Sono certo che avrai altre cose da fare oltre ad aiutare il dipartimento di polizia."
+    Sb "Penserò io ai rimanenti incarichi, quindi puoi prenderti il resto della giornata. Sono certo che avrai altre cose da fare oltre ad aiutare il dipartimento di polizia."
 
 # game/chapter4.rpy:4110
 translate italiantl c4postsections_dfeb653d:
@@ -5347,7 +5347,7 @@ translate italiantl _call_skipcheck_21_f72aecfc:
 translate italiantl _call_skipcheck_21_50e37dd2:
 
     # n "I thought we could really pull it off. And once I saw that they could survive without my guidance - and also govern themselves - I knew my plan was a success."
-    n "Credetti che potevamo davvero farcela. E una volta ch'ebbi visto che potevano sopravvivere—e persino governarsi—senza la mia guida, seppi che il mio piano era stato un successo." # corrected em-dash
+    n "Credetti che potevamo farcela davvero. E una volta ch'ebbi visto che potevano sopravvivere—e persino governarsi—senza la mia guida, seppi che il mio piano era stato un successo." # corrected em-dash
 
 # game/chapter4.rpy:4442
 translate italiantl _call_skipcheck_21_76b2fe88_12:
@@ -6350,13 +6350,13 @@ translate italiantl _call_popularcheck_23_ea58eab1:
 translate italiantl _call_popularcheck_23_b2b0fd6b:
 
     # m "There was another long pause. I almost thought that something was wrong with the machine, but then I heard Anna's voice."
-    m "Vi fu un'altra lunga pausa. Credetti quasi che vi fosse qualcosa che non andava con la segreteria, ma poi udii la voce di [An]."
+    m "Vi fu un'altra lunga pausa. Credetti quasi che qualcosa non andasse con la segreteria, ma poi udii la voce di [An]."
 
 # game/chapter4.rpy:5363
 translate italiantl _call_popularcheck_23_b564292d:
 
     # An "Hey, [player_name]. I'm not even sure why I'm calling about this, but it seemed like you wanted to hang out last time, so call me back if you feel like it."
-    An "Ehi, [player_name]. Non so nemmeno bene perché ti sto chiamando per questo, ma sembrava che ti andasse di stare un po' assieme la volta scorsa, quindi richiamami se te la senti."
+    An "Ehi, [player_name]. Non so nemmeno bene perché ti sto chiamando per questo, ma sembrava ti andasse di stare un po' assieme la volta scorsa, quindi richiamami se te la senti."
 
 # game/chapter4.rpy:5365
 translate italiantl _call_popularcheck_23_57ae5c94:

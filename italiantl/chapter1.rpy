@@ -536,7 +536,7 @@ translate italiantl holetravel_5c6fb2e0:
 translate italiantl holetravel_b43650b7:
 
     # m "Rendered speechless, I had totally forgotten that I was shouldering the burden of representing my people to them as well. So much for being professional, but at least he gave me a good excuse for my blunder."
-    m "Rimastə senza parole, avevo totalmente dimenticato che portavo sulle spalle il fardello di rappresentare il mio popolo nei loro confronti a mia volta. Alla faccia della professionalità, ma almeno mi aveva dato una buona scusa per la mia cantonata."
+    m "Rimastə senza parole, avevo del tutto dimenticato che portavo sulle spalle il fardello di rappresentare il mio popolo nei loro confronti a mia volta. Alla faccia della professionalità, ma almeno mi aveva offerto una buona scusa per la mia cantonata."
 
 # game/chapter1.rpy:667
 translate italiantl holetravel_883eb98b:
@@ -1452,7 +1452,7 @@ translate italiantl _call_skipcheck_3_15dfbdc0:
 translate italiantl _call_skipcheck_3_b8b2e60e:
 
     # Rz "I've been here much longer than you have been. Maybe you'll see soon enough."
-    Rz "Io sono stato qui molto più a lungo di te. Forse te ne accorgerai molto presto."
+    Rz "Io sono stato qui molto più a lungo di te. Forse te ne accorgerai presto."
 
 # game/chapter1.rpy:1719
 translate italiantl _call_skipcheck_3_0fd8eb86:
@@ -1569,7 +1569,7 @@ translate italiantl _call_skipcheck_3_55feee46:
 translate italiantl _call_skipcheck_3_cac943c3:
 
     # m "Reza rose from his seat before he made it known to me that he still had a few things to do and left the restaurant, followed shortly after by the larger of the two dragons."
-    m "[Rz] si alzò dal suo posto prima di farmi sapere che aveva ancora alcune cose da fare e lasciò il ristorante, seguito subito dopo dal più grosso dei due draghi."
+    m "[Rz] si alzò dal suo posto prima di farmi sapere che aveva ancora alcune cose da fare e lasciò il ristorante, seguito di lì a poco dal più grosso dei due draghi."
 
 # game/chapter1.rpy:1791
 translate italiantl _call_skipcheck_3_a4e9199d:
@@ -2335,7 +2335,7 @@ translate italiantl increasing_c1a963af:
 translate italiantl increasing_6e5d4325:
 
     # c "(Okay, this was the last option and it was still wrong. If that's not enough to prompt me to finally start looking elsewhere, I don't know what else will.)"
-    c "(Okay, questa era l'ultima alternativa ed era comunque sbagliata. Se questo non è abbastanza a spronarmi finalmente a cercare altrove, non so cos'altro lo farà.)"
+    c "(Okay, questa era l'ultima alternativa ed era comunque sbagliata. Se questo non è abbastanza a indurmi finalmente a cercare altrove, non so cos'altro lo farà.)"
 
 # game/chapter1.rpy:2288
 translate italiantl elsewhere_b153aad5:
@@ -2395,7 +2395,7 @@ translate italiantl _call_syscheck_7_7db4bf6b:
 translate italiantl _call_syscheck_7_1d124486:
 
     # n "Barely having reached the age at which the arduous process of finding a mate, settling down and starting a family became expected, yet none of my peers interested myself. They were childish and crude and uncultured."
-    n "Avevo appena raggiunto l'età in cui si preannuncia l'arduo processo di ricerca di un compagno, sistemarsi e mettere su famiglia, eppure nessuno dei miei coetanei m'interessava. Erano immaturi e rozzi e incolti."
+    n "Avevo appena raggiunto l'età in cui si preannuncia l'arduo processo di ricerca di un compagno, sistemarsi e mettere su famiglia, eppure nessuno dei miei coetanei mi interessava. Erano immaturi e rozzi e incolti."
 
 # game/chapter1.rpy:2350
 translate italiantl _call_syscheck_7_133cdd03:
@@ -3101,7 +3101,7 @@ translate italiantl continuation_9f85b645:
 translate italiantl continuation_e435c04f:
 
     # Rz "How did you find out? It took me quite a while, but maybe we can compare notes and make sure we're right."
-    Rz "Come l'hai scoperto? A me ci è voluto un bel po', ma forse possiamo confrontare gli appunti e assicurarci di avere ragione."
+    Rz "Come l'hai scoperto? A me ci è voluto un bel po', ma forse possiamo confrontare gli appunti e assicurarci di aver ragione."
 
 # game/chapter1.rpy:2849
 translate italiantl continuation_f763377c:
@@ -3455,7 +3455,7 @@ translate italiantl continuation_b759422a:
 translate italiantl continuation_36b1d91b:
 
     # c "Actually, none of this is making any sense. Why would we go through all the lengths of our agreement only to jeopardize it by doing something like this?"
-    c "In effetti, niente di questo ha alcun senso. Perché avremmo dovuto passare per l'intera portata del nostro accordo solo per metterlo a repentaglio facendo una cosa del genere?"
+    c "In effetti, niente di questo ha alcun senso. Perché avremmo dovuto passare per l'intera trafila del nostro accordo solo per metterlo a repentaglio facendo una cosa del genere?"
 
 # game/chapter1.rpy:3068
 translate italiantl continuation_b1d6e9a7:
@@ -4151,7 +4151,7 @@ translate italiantl quest6_116a375c:
 translate italiantl quest6_bfce32ae:
 
     # Br "And have the blood from it still stuck to his teeth who knows how long after? I don't think so."
-    Br "E avrebbe avuto ancora del sangue incollato ai denti per chissà quanto tempo dopo? Non credo proprio." # wording
+    Br "E ne avrebbe ancora avuto il sangue incollato ai denti dopo chissà quanto? Non credo proprio."
 
 # game/chapter1.rpy:3546
 translate italiantl quest6_6dd6c5dc:
@@ -4283,7 +4283,7 @@ translate italiantl _call_syscheck_13_56659e1f:
 translate italiantl _call_syscheck_13_d2c48d95:
 
     # Ad "Actually, I don't. You never told me it."
-    Ad "In effetti, no. Non me l'hai mai detto."
+    Ad "In effetti, non lo so. Non me l'hai mai detto." # must match line 3644
 
 # game/chapter1.rpy:3657
 translate italiantl _call_syscheck_13_4cad1270:
@@ -4553,7 +4553,7 @@ translate italiantl _call_syscheck_13_e7fb449d:
 translate italiantl _call_syscheck_13_db3eef0e:
 
     # Br "He's always been like that, always something to prove. We'll have to be careful. He'll be looking for Reza soon enough."
-    Br "È sempre stato così, sempre qualcosa da dimostrare. Dovremo fare attenzione. Andrà molto presto in cerca di [Rz]."
+    Br "È sempre stato così, sempre qualcosa da dimostrare. Dovremo fare attenzione. Andrà presto in cerca di [Rz]."
 
 # game/chapter1.rpy:3770
 translate italiantl _call_syscheck_13_4bf4438d:
@@ -5283,7 +5283,7 @@ translate italiantl strings:
 
     # chapter1.rpy:3644
     old "I have a name, you know."
-    new "Ho un nome, lo sai."
+    new "Ho un nome, sai."
 
     # chapter1.rpy:3644
     old "Go away."

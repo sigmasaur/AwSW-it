@@ -184,7 +184,7 @@ translate italiantl _call_skipcheck_7_5a61a232:
 translate italiantl _call_skipcheck_7_93f35ab2:
 
     # An "But I don't care about him. It's his superiors that are the problem. They don't like me and the research I'm doing. They cite their traditions and values, claiming that those are what have kept us alive for so long."
-    An "Ma a me non importa di lui. Sono i suoi superiori, il problema. Non gli piacciono le mie ricerche e che sia io a farle. Vanno citando le loro tradizioni e i loro valori, sostenendo che sono ciò che ci ha mantenuti in vita così a lungo." # "those are" -> "they are"
+    An "Ma a me non importa di lui. Sono i suoi superiori, il problema. Non gli piacciono le mie ricerche e che sia io a farle. Vanno citando le loro tradizioni e i loro valori, sostenendo che sono ciò che ci ha mantenuti in vita così a lungo." # "those" -> "they"
 
 # game/anna1.rpy:215
 translate italiantl _call_skipcheck_7_fd0e7feb:
@@ -940,7 +940,7 @@ translate italiantl _call_skipcheck_7_8ecea63c:
 translate italiantl _call_skipcheck_7_b95464b4:
 
     # c "No fitting me in during your break, no complaining about everything, and no acting as if you're doing me a favor, especially because it was you who wanted to meet me in the first place."
-    c "Non m'infili in un ritaglio della tua pausa, non ti lamenti di tutto quanto, e non ti atteggi come se mi facessi un favore, specie dal momento che sei stata tu a volermi incontrare sin dall'inizio." # "because" -> "since"
+    c "Non m'infili in un ritaglio della tua pausa, non ti lamenti di ogni cosa, e non ti atteggi come se mi facessi un favore, specie dal momento che sei stata tu a volermi incontrare sin dall'inizio." # "because" -> "since"
 
 # game/anna1.rpy:708
 translate italiantl _call_skipcheck_7_1be57190:
@@ -952,7 +952,7 @@ translate italiantl _call_skipcheck_7_1be57190:
 translate italiantl _call_skipcheck_7_73ed9de4:
 
     # An "And if I win, I'll have you come in sometime so I can run a few tests on you. I won't even need your blood anymore."
-    An "E se vinco io, ti farò ricevere qualche volta così potrò farti degli altri esami. Non avrò nemmeno più bisogno del tuo sangue." # see line 708
+    An "E se vinco io, ti farò ricevere qualche volta così potrò farti alcuni esami. Nemmeno mi servirà più il tuo sangue." # see line 708
 
 # game/anna1.rpy:717
 translate italiantl _call_skipcheck_7_95705c40:
@@ -964,7 +964,7 @@ translate italiantl _call_skipcheck_7_95705c40:
 translate italiantl _call_skipcheck_7_4eb24f9d:
 
     # An "But that's the only thing I'm interested in. You were so cocky you made a bet, but when it comes down to it, I suppose you don't have it in you."
-    An "Ma è l'unica cosa che m'interessa. Eri tanto spavaldə da scommettere, ma quando si è venuti al dunque, suppongo non ne avessi il fegato."
+    An "Ma è l'unica cosa che mi interessa. Eri tanto spavaldə da scommettere, ma quando si è venuti al dunque, suppongo non ne avessi il fegato."
 
 # game/anna1.rpy:730
 translate italiantl _call_skipcheck_7_e8d0b893:
@@ -1042,13 +1042,13 @@ translate italiantl _call_skipcheck_7_a41d7d3e:
 translate italiantl _call_skipcheck_7_0b40c3cf:
 
     # An "Let's make it three. Not sure how long this will take, and my break won't be for too long, either."
-    An "Facciamo tre. Non so bene quanto tempo ci vorrà, e inoltre non sarò in pausa ancora per molto."
+    An "Facciamo tre. Non so bene quanto ci vorrà, e inoltre non sarò in pausa ancora per molto."
 
 # game/anna1.rpy:780
 translate italiantl _call_skipcheck_7_4137e81a:
 
     # c "Alright. Go ahead, then."
-    c "D'accordo. Procedi, allora."
+    c "D'accordo. Procedi pure, allora."
 
 # game/anna1.rpy:784
 translate italiantl _call_skipcheck_7_3a429c00:
@@ -1642,13 +1642,13 @@ translate italiantl anna1skip_7eb6d8f6:
 translate italiantl anna1skip_35135016:
 
     # An "I think you're just experiencing acute posterior pain, because you don't get to go on a date with me now."
-    An "Io penso che il tuo sia solo un grave caso di rodimento epatico, perché adesso non puoi più uscire con me." # "butthurt" => "rodersi il fegato"
+    An "Io penso che il tuo sia solo un grave caso di rodimento epatico, perché adesso non potrai uscire con me." # "butthurt" => "rodersi il fegato"
 
 # game/anna1.rpy:1192
 translate italiantl anna1skip_6af3e46d:
 
     # c "I didn't want to go on a date with you in the first place. I just wanted to teach you some manners."
-    c "Non ho voluto uscire con te sin dall'inizio. Volevo solo insegnarti un po' di buone maniere."
+    c "Non ho mai voluto uscire con te. Volevo solo insegnarti un po' di buone maniere."
 
 # game/anna1.rpy:1194
 translate italiantl anna1skip_bba286a8:
