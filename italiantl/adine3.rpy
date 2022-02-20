@@ -166,7 +166,7 @@ translate italiantl _call_skiptut_9_eee83226:
 translate italiantl _call_skiptut_9_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/adine3.rpy:163
 translate italiantl _call_skiptut_9_0054b77b:
@@ -382,7 +382,7 @@ translate italiantl _call_skipcheck_9_8cd93345:
 translate italiantl _call_skipcheck_9_bcb0ae6a:
 
     # Ad "Pretty much. We can do enough to safely hunt and paddle on the surface, but that's about it. If we actually want to go swimming, it's recommended we wear a life vest."
-    Ad "Praticamente. Sappiamo fare quel tanto che basta per cacciare e tenerci in superficie, ma poco altro. Se vogliamo davvero andare a nuotare, è consigliabile che indossiamo un giubbotto salvagente."
+    Ad "Praticamente. Sappiamo fare quanto basta per cacciare e nuotare al sicuro in superficie, ma più o meno è tutto. Se vogliamo davvero andare a fare il bagno, è consigliabile che indossiamo un giubbotto salvagente." # wording
 
 # game/adine3.rpy:285
 translate italiantl _call_skipcheck_9_21c714fe:
@@ -472,7 +472,7 @@ translate italiantl _call_skipcheck_9_6605186c:
 translate italiantl _call_skipcheck_9_d152b386:
 
     # m "I went to the edge of the water, followed closely by Adine."
-    m "Andai al bordo dell'acqua, seguitə da [Ad] a breve distanza."
+    m "Andai al bordo dell'acqua, subito seguitə da [Ad]."
 
 # game/adine3.rpy:315
 translate italiantl _call_skipcheck_9_b05a9aff:
@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_9_252c6e9d:
 translate italiantl _call_skipcheck_9_79fd0520:
 
     # m "Spinning in the air, the stone bounced on the water's surface a few times before it sunk into the sea."
-    m "Vorticando nell'aria, la pietra rimbalzò sulla superficie dell'acqua alcune volte prima d'immergersi in mare."
+    m "Vorticando nell'aria, la pietra rimbalzò a fior d'acqua alcune volte prima d'immergersi in mare."
 
 # game/adine3.rpy:323
 translate italiantl _call_skipcheck_9_262a4ffb:
@@ -712,7 +712,7 @@ translate italiantl _call_skipcheck_9_0b1fb2d0:
 translate italiantl _call_skipcheck_9_721f7122:
 
     # m "Instead of using her wing, she took the stone into the dextrous claws on one of her feet as she continued to stand on the other leg."
-    m "Invece di usare la sua ala, prese la pietra fra gli agili artigli di uno dei suoi piedi mentre continuava a reggersi sull'altra zampa."
+    m "Invece di usare la sua ala, prese la pietra fra gli abili artigli di uno dei suoi piedi mentre continuava a reggersi sull'altra zampa."
 
 # game/adine3.rpy:407
 translate italiantl _call_skipcheck_9_7b02922e:
@@ -724,7 +724,7 @@ translate italiantl _call_skipcheck_9_7b02922e:
 translate italiantl _call_skipcheck_9_c21e6d59:
 
     # m "It flew in a bit of an upward arch before it bounced off the water's surface once and subsequently sunk into the ocean's waters."
-    m "Questa volò inarcando un po' verso l'alto prima di rimbalzare sulla superficie dell'acqua una volta e successivamente immergersi nelle acque dell'oceano."
+    m "Questa volò inarcando un po' verso l'alto prima di rimbalzare contro la superficie dell'acqua una volta e successivamente immergersi nelle acque dell'oceano." # see line 355
 
 # game/adine3.rpy:413
 translate italiantl _call_skipcheck_9_51a5ea84:
@@ -874,7 +874,7 @@ translate italiantl _call_skipcheck_9_7772417b:
 translate italiantl _call_skipcheck_9_6c95c9e0:
 
     # Ad "To me, it seems a bit of a shame to build big, elaborate sculptures out of something like sand that clearly won't last. I mean, if you're going to spend so much time on it, why not create something that will stay?"
-    Ad "A me sembra un po' un peccato costruire sculture grandi ed elaborate a partire da qualcosa come la sabbia che chiaramente non dureranno. Voglio dire, se devi spenderci così tanto tempo, perché non creare qualcosa che resti?"
+    Ad "A me sembra un po' un peccato costruire sculture grandi ed elaborate a partire da qualcosa come la sabbia che chiaramente non dureranno. Voglio dire, se devi spenderci tanto tempo, perché non creare qualcosa che resti?"
 
 # game/adine3.rpy:513
 translate italiantl _call_skipcheck_9_e0d3acf5:
@@ -1793,7 +1793,7 @@ translate italiantl mpsave_f81623d3:
 translate italiantl mpsave_cd5f97f1:
 
     # c "Sounds like you've got it all figured out already."
-    c "Sembra che tu abbia già pensato a tutto."
+    c "Si direbbe che hai già pensato a tutto."
 
 # game/adine3.rpy:1039
 translate italiantl mpsave_6acdc358:
@@ -1817,7 +1817,7 @@ translate italiantl mpsave_a627306a:
 translate italiantl mpsave_9e0fbb32:
 
     # m "With determination in her eyes, she took to the skies once more. When she reached a certain height, she slowly descended again until she was close to the water's surface."
-    m "Con determinazione negli occhi, si levò nei cieli una volta ancora. Quando raggiunse una certa altezza, ridiscese lentamente finché non fu vicina alla superficie dell'acqua."
+    m "Con la determinazione negli occhi, si levò nei cieli una volta ancora. Quando giunse a una certa altezza, ridiscese lentamente finché non fu vicina alla superficie dell'acqua."
 
 # game/adine3.rpy:1049
 translate italiantl mpsave_fe4a4f27:
@@ -1835,13 +1835,13 @@ translate italiantl mpsave_cfead817:
 translate italiantl mpsave_4e88367c:
 
     # m "Her speed quickly increased while she moved towards the water. Then, she did a roll, and another, followed by the third. Dangerously close to the water's surface, she suddenly pulled up, but as she did so, one of her feet went below the surface, where it apparently caught onto something, causing her to spin out of control."
-    m "La sua velocità aumentava rapidamente nel muoversi in direzione dell'acqua. Poi, eseguì una rollata, e un'altra, seguita dalla terza. Pericolosamente vicina alla superficie dell'acqua, si alzò all'improvviso, ma nel farlo, uno dei suoi piedi finì sotto la superficie, dove parve impigliarsi in qualcosa, facendola piroettare fuori controllo."
+    m "La sua velocità aumentò rapidamente nel muoversi di lei in direzione dell'acqua. Poi, eseguì una rollata, e un'altra, seguita dalla terza. Pericolosamente vicina alla superficie dell'acqua, si alzò all'improvviso, ma nel farlo, uno dei suoi piedi finì sotto la superficie, dove parve impigliarsi in qualcosa, facendola piroettare fuori controllo."
 
 # game/adine3.rpy:1055
 translate italiantl mpsave_e51c3ae2:
 
     # m "I saw her feeble attempt to regain control as she barely managed to steady herself enough to get back to the beach. She made a rough landing, rolling on the ground a few times after colliding with the sand."
-    m "Vidi il suo fievole tentativo di riguadagnare il controllo mentre riusciva a malapena a stabilizzarsi quel tanto che bastava per ritornare alla spiaggia. Compì un atterraggio duro, ruzzolando al suolo alcune volte dopo ch'ebbe sbattuto contro la sabbia."
+    m "Vidi il suo fievole tentativo di riguadagnare il controllo mentre riusciva a malapena a riaversi quel tanto da ritornare alla spiaggia. Compì un atterraggio duro, ruzzolando al suolo alcune volte dopo ch'ebbe sbattuto contro la sabbia." # wording, also "steady" -> "collect"
 
 # game/adine3.rpy:1057
 translate italiantl mpsave_b434465c:
@@ -1853,13 +1853,13 @@ translate italiantl mpsave_b434465c:
 translate italiantl mpsave_a1a25ef4:
 
     # Ad "Well, that wasn't supposed to happen."
-    Ad "Be', questo non era previsto che accadesse."
+    Ad "Be', questo non era previsto."
 
 # game/adine3.rpy:1063
 translate italiantl mpsave_917ba190:
 
     # c "It looked pretty impressive until the landing."
-    c "Sembrava davvero impressionante fino all'atterraggio."
+    c "Sembrava davvero notevole fino all'atterraggio."
 
 # game/adine3.rpy:1065
 translate italiantl mpsave_a62399b6:
@@ -2003,7 +2003,7 @@ translate italiantl adine3skip_aa15b1ce:
 translate italiantl adine3skip_5b398893:
 
     # Ad annoyed b "How do you know that?"
-    Ad annoyed b "Come fai a saperlo?"
+    Ad annoyed b "E tu come lo sai?"
 
 # game/adine3.rpy:1135
 translate italiantl adine3skip_5689ff63:
@@ -2237,13 +2237,13 @@ translate italiantl adine3skip_bbeb5822:
 translate italiantl adine3skip_a041a060:
 
     # c "I share the same sentiment."
-    c "Io condivido quello che pensi." # "sentimentS"
+    c "Io sono dello stesso avviso." # "sentimentS"
 
 # game/adine3.rpy:1213
 translate italiantl adine3skip_f495ba9f:
 
     # Ad "How so?"
-    Ad "E come?"
+    Ad "In che modo?"
 
 # game/adine3.rpy:1215
 translate italiantl adine3skip_d239d615:

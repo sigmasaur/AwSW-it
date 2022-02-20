@@ -46,7 +46,7 @@ translate italiantl _call_skiptut_30_eee83226:
 translate italiantl _call_skiptut_30_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/adine4.rpy:92
 translate italiantl _call_skiptut_30_0054b77b:
@@ -124,13 +124,13 @@ translate italiantl _call_skipcheck_30_89332629:
 translate italiantl _call_skipcheck_30_3c99baa8:
 
     # c "I'm not sure if I'll be able to attend, but I'd gladly accompany you if I have the chance."
-    c "Non sono sicurə che sarò in grado di partecipare, ma ti accompagnerei volentieri se ne ho l'occasione."
+    c "Non sono sicurə che sarò in grado di partecipare, ma ti accompagnerei volentieri se ne ho la possibilità."
 
 # game/adine4.rpy:141
 translate italiantl _call_skipcheck_30_6357ebb6:
 
     # Ad normal b "Sure. So, today's agenda is emotional support, and next time, we can take in all aspects of the festival. Sound good?"
-    Ad normal b "Certo. Quindi, all'ordine del giorno è il supporto emotivo, e la prossima volta, potremo assorbire tutti gli aspetti del festival. Come ti sembra?"
+    Ad normal b "Sicuro. Quindi, all'ordine del giorno è il supporto emotivo, e la prossima volta, potremo assorbire tutti gli aspetti del festival. Come ti sembra?"
 
 # game/adine4.rpy:143
 translate italiantl _call_skipcheck_30_c0cdabcc:
@@ -202,7 +202,7 @@ translate italiantl _call_skipcheck_30_24b1c5b9:
 translate italiantl _call_skipcheck_30_34635a29:
 
     # m "After Adine had waddled off to the other flyers, I surveyed my surroundings idly."
-    m "Dopo che [Ad] se ne fu andata a passo ondeggiante dagli altri volatori, indagai pigramente attorno a me."
+    m "Dopo che [Ad] se ne fu andata ancheggiando dagli altri volatori, indagai pigramente attorno a me."
 
 # game/adine4.rpy:187
 translate italiantl _call_skipcheck_30_350085b9:
@@ -1000,7 +1000,7 @@ translate italiantl _call_skipcheck_30_5286308c:
 translate italiantl _call_skipcheck_30_e4e8acc9:
 
     # c "Wouldn't that mean that I was your creator?"
-    c "Questo non vorrebbe forse dire che sono io il vostro creatore?" # "I was" -> "I am"
+    c "Questo non vorrebbe forse dire che sono stato io a crearvi?" # "I was your creator" -> "I created you"
 
 # game/adine4.rpy:493
 translate italiantl _call_skipcheck_30_28aab4be:
@@ -1054,7 +1054,7 @@ translate italiantl _call_skipcheck_30_88913a93:
 translate italiantl _call_skipcheck_30_3c766831:
 
     # Ad "Maybe it's an experiment and they're testing us. Some say they're always watching us from up there somewhere with a giant mothership and that maybe, one day, they'll return when we're ready to join them."
-    Ad "Forse è un esperimento e ci stanno mettendo alla prova. Alcuni dicono che ci osservano sempre dall'alto di qualche gigantesca nave madre e che forse, un giorno, ritorneranno quando saremo pronti per unirci a loro."
+    Ad "Forse è un esperimento e ci stanno mettendo alla prova. C'è chi dice che ci osservano sempre dall'alto di qualche gigantesca nave madre e che forse, un giorno, ritorneranno quando saremo pronti per unirci a loro."
 
 # game/adine4.rpy:511
 translate italiantl _call_skipcheck_30_9b85bb82:
@@ -1378,13 +1378,13 @@ translate italiantl _call_skipcheck_30_eff5852f:
 translate italiantl _call_skipcheck_30_ce0da94f:
 
     # m "Since the dragons' concept of clothing was different, they had applied their own principles when creating this series."
-    m "Siccome i draghi avevano una diversa nozione di vestiario, nel creare questa serie avevano applicato i loro stessi princìpi."
+    m "Dal momento che i draghi avevano una diversa nozione di vestiario, nel creare questa serie avevano applicato i loro stessi princìpi."
 
 # game/adine4.rpy:651
 translate italiantl _call_skipcheck_30_df34c9d2:
 
     # m "It was quite bizarre to see a typical family sitcom where all the characters were in obviously fake costumes - and also happened to be naked."
-    m "Era alquanto bizzarro vedere una tipica famiglia da sitcom dove tutti i personaggi fossero in costumi palesemente falsi—e inoltre si dà il caso che fossero nudi." # corrected em-dash
+    m "Fu alquanto bizzarro vedere una tipica famiglia da sitcom dove tutti i personaggi erano in costumi palesemente falsi—e inoltre si dava il caso che fossero nudi." # corrected em-dash
 
 # game/adine4.rpy:653
 translate italiantl _call_skipcheck_30_7c5e1867:
@@ -1444,7 +1444,7 @@ translate italiantl _call_skipcheck_30_fd92093d:
 translate italiantl _call_skipcheck_30_a8475080:
 
     # c "Sure, it's impressive if we consider what they had to work with, but there's a few things they got wrong."
-    c "Certo, è impressionante se consideriamo con cosa hanno dovuto arrangiarsi, ma ci sono alcune cose che hanno sbagliato."
+    c "Certo, è notevole se consideriamo con cosa hanno dovuto arrangiarsi, ma ci sono alcune cose che hanno sbagliato."
 
 # game/adine4.rpy:675
 translate italiantl _call_skipcheck_30_f20a8d2b:
@@ -1456,7 +1456,7 @@ translate italiantl _call_skipcheck_30_f20a8d2b:
 translate italiantl _call_skipcheck_30_c58cd189:
 
     # c "For one, humans mostly wear clothing, and secondly, we don't have tails."
-    c "Per prima cosa, gli umani per lo più indossano degli abiti, e secondo, non abbiamo la coda."
+    c "Per cominciare, gli umani per lo più indossano degli abiti, e secondo, non abbiamo la coda."
 
 # game/adine4.rpy:679
 translate italiantl _call_skipcheck_30_3b19d1aa:
@@ -1576,7 +1576,7 @@ translate italiantl adine4skip_cad25449:
 translate italiantl adine4skip_684be4d0:
 
     # Ad normal b "Yeah, I figured as much. Since you were already here, I thought it was worth a shot. Guess I'll just have to manage on my own. Sorry for asking."
-    Ad normal b "Già, l'avevo intuito. Dato che ormai eri qui, ho pensato che valesse la pena tentare. Immagino che dovrò soltanto arrangiarmi da sola. Scusa se ho chiesto."
+    Ad normal b "Già, lo immaginavo. Dato che ormai eri qui, ho pensato che valesse la pena tentare. Immagino che dovrò soltanto arrangiarmi da sola. Scusa se ho chiesto."
 
 # game/adine4.rpy:733
 translate italiantl adine4skip_2cfb4b1f:
@@ -1714,7 +1714,7 @@ translate italiantl a4shower_eb6e85e5:
 translate italiantl a4shower_4bb7de3f:
 
     # m "I started scrubbing her wings. Now that I could see them up-close and fully extended, I found them to be quite impressive."
-    m "Iniziai a strofinare le sue ali. Adesso che potevo vederle da vicino e completamente estese, le trovai alquanto impressionanti."
+    m "Iniziai a strofinare le sue ali. Adesso che potevo vederle da vicino e completamente estese, trovai che fossero alquanto imponenti."
 
 # game/adine4.rpy:841
 translate italiantl a4shower_2355e57c:

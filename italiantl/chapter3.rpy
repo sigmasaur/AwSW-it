@@ -504,7 +504,7 @@ translate italiantl _call_skiptut_4_84d46f4f:
 translate italiantl _call_skiptut_4_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
 
 # game/chapter3.rpy:960
 translate italiantl _call_skiptut_4_0054b77b:
@@ -768,7 +768,7 @@ translate italiantl c3conty_4e35c84c_2:
 translate italiantl c3conty_fd929a12:
 
     # Br "Only after we tested our new evidence, discovered the DNA linking the two victims together, and had the PDAs stolen did your ministry have to become involved."
-    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che Lei, Ministro, fosse coinvolta." # "had the PDAs stolen" -> "found the PDA[s] was stolen", also see line 1119
+    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che Lei, Ministro, fosse coinvolta." # "had the PDA[s] stolen" -> "found the PDA was stolen", also see line 1119
 
 # game/chapter3.rpy:1142
 translate italiantl c3conty_08704206:
@@ -1650,7 +1650,7 @@ translate italiantl c3conty_9c719d56:
 translate italiantl c3conty_7a6d8797:
 
     # m "... I would remember this world and all the people I met."
-    m "... avrei tenuto vivo il ricordo di questo mondo e di tutte le persone che vi avevo incontrato." # "that I met THERE"
+    m "... avrei ricordato questo mondo e tutti coloro che avevo incontrato."
 
 # game/chapter3.rpy:1538
 translate italiantl c3conty_b38dba4f:
@@ -1968,7 +1968,7 @@ translate italiantl c3conty_b6688b02:
 translate italiantl c3conty_b643f4d0:
 
     # Ad annoyed b "I don't. You run your mouth like a pro."
-    Ad annoyed b "Ed è così. Dai fiato alla bocca da verə professionista."
+    Ad annoyed b "Ed è così. Dai fiato alla bocca come pochi."
 
 # game/chapter3.rpy:1668
 translate italiantl c3conty_222b66ca:
@@ -2692,7 +2692,7 @@ translate italiantl c3conty_cef4a0f3:
 translate italiantl c3conty_e44daabb:
 
     # m "She turned to leave, Remy trailing after her."
-    m "Lei si voltò per andarsene, [Ry] al suo séguito."
+    m "Lei fece per andarsene, [Ry] al suo séguito."
 
 # game/chapter3.rpy:2013
 translate italiantl c3conty_ec045626:
@@ -3034,7 +3034,7 @@ translate italiantl c3conty_faaff70c:
 translate italiantl c3conty_4f67b072:
 
     # Br "That's right. Whoever it was had an easy time doing whatever they wanted."
-    Br "Esatto. Chiunque sia stato avrà avuto vita facile a fare quello che voleva."
+    Br "Esatto. Chiunque sia stato non avrà avuto problemi a fare quello che voleva."
 
 # game/chapter3.rpy:2174
 translate italiantl c3conty_ede55a65:
@@ -3064,7 +3064,7 @@ translate italiantl c3conty_9426bc7d:
 translate italiantl c3conty_ffa2cf5a:
 
     # Br stern b flip Br "No, he'd be doing something smart. If he has the part needed to get the portal working again, he's in control of who gets to use it. He's cutting off our ability to communicate with mankind."
-    Br stern b flip Br "No, sarebbe stato furbo. Se ha con sé la parte necessaria a far funzionare di nuovo il portale, ha il controllo su chi lo può usare. Sta interrompendo la nostra capacità di comunicare con l'umanità." # "be doing something smart" -> "have been smart"
+    Br stern b flip Br "No, sarebbe stato furbo. Se ha con sé la parte necessaria a far funzionare di nuovo il portale, ha il controllo su chi lo può usare. Sta tagliando la nostra capacità di comunicare con l'umanità." # "be doing something smart" -> "have been smart"
 
 # game/chapter3.rpy:2184
 translate italiantl c3conty_e82da20b:
@@ -3124,7 +3124,7 @@ translate italiantl c3conty_4e87c4ae:
 translate italiantl c3conty_eeb17e8f:
 
     # Br stern b flip "Sure, but they definitely aren't the only ones to have one. There could be private groups who are interested in the technology or its significance as a human artifact."
-    Br stern b flip "Sicuro, ma non sono decisamente i soli ad avere un movente. Potrebbero esistere gruppi privati che sono interessati alla tecnologia o alla sua rilevanza quale manufatto umano."
+    Br stern b flip "Sicuro, ma decisamente non sono i soli ad avere un movente. Potrebbero esistere gruppi privati che sono interessati alla tecnologia o alla sua rilevanza quale manufatto umano."
 
 # game/chapter3.rpy:2204
 translate italiantl c3conty_99e9fb37:
@@ -3304,7 +3304,7 @@ translate italiantl c3conty_d8e78f6f:
 translate italiantl c3conty_344edb9c:
 
     # c "Do you really think it's okay for me to tamper with your priceless discoveries?"
-    c "Pensi davvero che vada bene che io ficchi il naso nelle vostre inestimabili scoperte?"
+    c "Pensi davvero sia il caso che io armeggi con le vostre inestimabili scoperte?"
 
 # game/chapter3.rpy:2306
 translate italiantl c3conty_e2a2da89:
@@ -3430,7 +3430,7 @@ translate italiantl c3sections_f6745d81:
 translate italiantl c3sections_fe0ccee8:
 
     # m "I looked outside the window, at the portal's faint silhouette in the distance. The paper rustled between my fingers as I fidgeted with it, wondering about the message's sender and significance."
-    m "Guardai fuori dalla finestra, alla flebile sagoma del portale in lontananza. Il pezzo di carta frusciava fra le mie dita mentre ci giocavo, interrogandomi sul mittente del messaggio e il suo significato." # "the PIECE OF paper"
+    m "Guardai fuori dalla finestra, alla flebile sagoma del portale in lontananza. Il foglietto frusciava fra le mie dita mentre ci giocherellavo, interrogandomi sul mittente del messaggio e sul suo significato."
 
 # game/chapter3.rpy:2435
 translate italiantl c3sections_4bad9402:
@@ -3670,7 +3670,7 @@ translate italiantl c3fac_507a8424:
 translate italiantl c3fac_fc1684d0:
 
     # c "Sounds like it's serious."
-    c "Sembra una cosa seria."
+    c "Si direbbe una cosa seria."
 
 # game/chapter3.rpy:2635
 translate italiantl c3fac_8d3704cb:
@@ -3868,7 +3868,7 @@ translate italiantl c3fac_507a8424_1:
 translate italiantl c3fac_fc1684d0_1:
 
     # c "Sounds like it's serious."
-    c "Sembra una cosa seria."
+    c "Si direbbe una cosa seria."
 
 # game/chapter3.rpy:2735
 translate italiantl c3fac_8d3704cb_1:
@@ -3970,7 +3970,7 @@ translate italiantl c3fac_507a8424_2:
 translate italiantl c3fac_fc1684d0_2:
 
     # c "Sounds like it's serious."
-    c "Sembra una cosa seria."
+    c "Si direbbe una cosa seria."
 
 # game/chapter3.rpy:2773
 translate italiantl c3fac_070d6998:
@@ -4138,13 +4138,13 @@ translate italiantl c3fac_e8ad2f88:
 translate italiantl c3fac_0d643da0:
 
     # Dm "I don't know who you think you are, barging into my workplace and barking questions, but if you really are with the police, let them know that I won't say one more word on the matter without a lawyer."
-    Dm "Non so chi ti credi di essere, a irrompere nel posto in cui lavoro e abbaiare domande, ma se stai veramente con la polizia, fagli sapere che non dirò una parola di più sulla questione senza un avvocato."
+    Dm "Non so chi ti credi di essere, a irrompere sul mio posto di lavoro e abbaiare domande, ma se stai veramente con la polizia, fagli sapere che non dirò una parola di più sulla questione senza un avvocato."
 
 # game/chapter3.rpy:2880
 translate italiantl c3fac_a2693ffe:
 
     # m "I wondered if Damion was a suspicious person in general, or if the rumors surrounding Reza were affecting his perception of me. Before this, everyone I had talked to during my investigations had been rather cooperative."
-    m "Mi domandai se [Dm] fosse di regola una persona sospettosa, o se le voci che correvano attorno a [Rz] stessero avendo un effetto sulla sua percezione di me. Prima di questo, tutti coloro a cui avevo parlato durante le mie investigazioni erano stati piuttosto collaborativi."
+    m "Mi domandai se [Dm] fosse di regola una persona sospettosa, o se le voci che circondavano [Rz] stessero avendo un effetto sulla sua percezione di me. Prima di questo, tutti coloro a cui avevo parlato durante le mie investigazioni erano stati piuttosto collaborativi."
 
 # game/chapter3.rpy:2905
 translate italiantl c3fac_06016cb2:
@@ -4864,7 +4864,7 @@ translate italiantl c3arcques_6ae758d4:
 translate italiantl c3arcques_d5095d43:
 
     # n "At first glance, nothing about it stood out to me, but the more I studied it, the more the facts revealed themselves."
-    n "A prima vista, non vi era niente che mi balzasse agli occhi, ma quanto più la studiavo, tanto più i fatti mi si rivelavano." # "nothing [about it] stood out"
+    n "A prima vista, non vi era nulla che mi saltasse agli occhi, ma quanto più la studiavo, tanto più i fatti mi si rivelavano." # "nothing [about it] stood out"
 
 # game/chapter3.rpy:3490
 translate italiantl c3arcques_1a72e446:
@@ -6020,7 +6020,7 @@ translate italiantl chapter3chars_17dda636:
 translate italiantl _call_popularcheck_e0eb1d42:
 
     # Ry "Hello, this is Remy speaking. I'm calling in regard to the dinner we talked about. I'll have an opening soon and was wondering if you also had the time."
-    Ry "Salve, è [Ry] che parla. Chiamo a proposito della cena di cui abbiamo discusso. Mi libererò a breve e mi chiedevo se ne avessi il tempo anche tu." # see line 4165 of chapter 2
+    Ry "Salve, è [Ry] che parla. Chiamo a proposito della cena di cui abbiamo parlato. Mi libererò a breve e mi chiedevo se ne avessi il tempo anche tu." # see line 4165 of chapter 2
 
 # game/chapter3.rpy:4698
 translate italiantl _call_popularcheck_1335da7e:

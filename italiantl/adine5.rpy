@@ -4,7 +4,7 @@
 translate italiantl adine5_33a035e1:
 
     # c "(I guess she's here.)"
-    c "(Immagino che lei sia qui.)"
+    c "(Immagino sia lei.)"
 
 # game/adine5.rpy:20
 translate italiantl adine5_6f5bf235:
@@ -298,7 +298,7 @@ translate italiantl _call_endingjustafewminuteslater_4_81e65529:
 translate italiantl _call_endingjustafewminuteslater_4_33f1ed09:
 
     # m "As Maverick ran towards him, Reza adjusted his aim before shooting at Maverick multiple times."
-    m "Al correre di [Mv] verso di lui, [Rz] corresse la mira prima di sparare a [Mv] ripetute volte."
+    m "Al correre di [Mv] verso di lui, [Rz] corrèsse la mira prima di sparargli più volte contro." # "shooting at Maverick" -> "shooting at him"
 
 # game/adine5.rpy:244
 translate italiantl _call_endingjustafewminuteslater_4_3aa60d2f:
@@ -628,7 +628,7 @@ translate italiantl adinegoodending_dc9adf37:
 translate italiantl adinegoodending_c262cf28:
 
     # m "It was Maverick, who pounced immediately. Reza fell to the ground, and before he could so much as react, Maverick buried his teeth in Reza's neck and bit down."
-    m "Si trattava di [Mv], il quale gli fu subito addosso. [Rz] cadde a terra, e prima che potesse anche solo reagire, [Mv] gli affondò i denti nel collo e morse." # "who pounced ON HIM immediately", "Reza's" -> "his"
+    m "Si trattava di [Mv], il quale gli fu subito addosso. [Rz] cadde a terra, e prima che potesse anche solo reagire, [Mv] gli affondò i denti nel collo e ve li serrò." # "who pounced ON HIM immediately", "Reza's" -> "his"
 
 # game/adine5.rpy:676
 translate italiantl adinegoodending_b338360e:
@@ -766,7 +766,7 @@ translate italiantl adinegoodending_9b8e3f85:
 translate italiantl adinegoodending_25a5cde4:
 
     # As "Besides, it didn't seem like you really needed me. Good job."
-    As "E poi, pare che tu non avessi davvero bisogno di me. Bel lavoro."
+    As "E poi, pare che non avessi davvero bisogno di me. Bel lavoro."
 
 # game/adine5.rpy:776
 translate italiantl adinegoodending_4440f173:
@@ -820,7 +820,7 @@ translate italiantl adinegoodending_1586b2d9:
 translate italiantl adinegoodending_e34c1126:
 
     # As "I didn't know just how complicated it would be."
-    As "Non sapevo quanto sarebbe stato complicato."
+    As "Non sapevo fino a che punto sarebbe stato complicato."
 
 # game/adine5.rpy:806
 translate italiantl adinegoodending_a7671126:
@@ -916,7 +916,7 @@ translate italiantl adinegoodending_78b89aba:
 translate italiantl adinegoodending_640c0e24:
 
     # As "Can we really take that risk? You know that if we fail badly enough even once - if the portal gets destroyed, or if both the Administrator and you die - there won't be any more chances."
-    As "Possiamo davvero correre questo rischio? Sai bene che se falliremo quel tanto che basta anche solo una volta—se il portale sarà distrutto, o se tu e l'Amministratore morirete entrambɜ—non ci saranno altre possibilità." # corrected em-dash
+    As "Possiamo davvero correre questo rischio? Sai bene che se falliremo anche solo una volta—se il portale sarà distrutto, o se tu e l'Amministratore morirete entrambɜ—non ci saranno altre possibilità." # corrected em-dash, also "if we fail [badly enough] even once"
 
 # game/adine5.rpy:840
 translate italiantl adinegoodending_7f22713c:
@@ -958,7 +958,7 @@ translate italiantl adinegoodending_07134479:
 translate italiantl adinegoodending_1e24506d:
 
     # As "I wish I could stay with her. All she does for the orphans... I wish I could be part of that."
-    As "Vorrei poter restare con lei. Tutto quello che fa per gli orfani... Vorrei poter essere parte di quello."
+    As "Vorrei poter restare con lei. Tutto quello che fa per gli orfani... Vorrei poterne essere parte."
 
 # game/adine5.rpy:854
 translate italiantl adinegoodending_ae6bff74:

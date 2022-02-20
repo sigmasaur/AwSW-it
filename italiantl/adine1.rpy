@@ -184,7 +184,7 @@ translate italiantl _call_skiptut_10_eee83226:
 translate italiantl _call_skiptut_10_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/adine1.rpy:218
 translate italiantl _call_skiptut_10_0054b77b:
@@ -592,7 +592,7 @@ translate italiantl _call_skipcheck_10_c21eb134:
 translate italiantl _call_skipcheck_10_8abc6d5e:
 
     # Ad "Sounds like what we have on you, actually. Now that I see one of you right in front of me, it's almost silly what some of the myths say."
-    Ad "Ricorda molto quello che noi abbiamo su di voi, in effetti. Adesso che vedo unə di voi proprio di fronte a me, è quasi ridicolo quello che dicono alcuni dei miti." # "sounds A LOT like"
+    Ad "Ricorda quello che noi abbiamo su di voi, in effetti. Adesso che vedo unə di voi proprio di fronte a me, è quasi ridicolo quello che dicono alcuni dei miti."
 
 # game/adine1.rpy:452
 translate italiantl _call_skipcheck_10_54e6a0c5:
@@ -622,7 +622,7 @@ translate italiantl _call_skipcheck_10_db56dd45:
 translate italiantl _call_skipcheck_10_e5322ba8:
 
     # Ad "Oh, we can be vicious if we want to be. We just usually know better."
-    Ad "Oh, sappiamo essere feroci se vogliamo. È solo che di solito sappiamo fare di meglio."
+    Ad "Oh, sappiamo essere feroci se vogliamo. È solo che di solito abbiamo più buon senso."
 
 # game/adine1.rpy:465
 translate italiantl _call_skipcheck_10_377987b8:
@@ -742,7 +742,7 @@ translate italiantl _call_skipcheck_10_684b625c:
 translate italiantl _call_skipcheck_10_5479d226:
 
     # c "I'm sure we'll find out soon enough."
-    c "Sono certə che ne sapremo di più molto presto."
+    c "Sono certə che presto ne sapremo di più." # "find out MORE"
 
 # game/adine1.rpy:520
 translate italiantl _call_skipcheck_10_ef4c12fa:
@@ -1240,7 +1240,7 @@ translate italiantl nextsc_bc0926e9:
 translate italiantl nextsc_5b659cad:
 
     # c "Well, with this question it's more about what you would do if you had the opportunity to do something without getting caught, like something mischievous or criminal."
-    c "Be', con questa domanda si tratta più che altro di quello che faresti se avessi l'opportunità di fare qualcosa senza essere colta sul fatto, come qualcosa di malizioso o di illegale." # "criminal" -> "illegal"
+    c "Be', questa domanda era più che altro su ciò che faresti se avessi l'opportunità di fare qualcosa senza essere colta sul fatto, come qualcosa di malizioso o di illegale." # "[with] this question", "criminal" -> "illegal"
 
 # game/adine1.rpy:823
 translate italiantl nextsc_d89cde73:
@@ -1342,13 +1342,13 @@ translate italiantl nextsc_7bbf2eae:
 translate italiantl nextsc_08e5ce63:
 
     # Ad "No matter if people like them or not, they always stand out. That's what I don't like."
-    Ad "A prescindere se alla gente piacciono o meno, saltano sempre agli occhi. È questo che non mi piace."
+    Ad "Sia che alla gente piacciano o meno, saltano sempre agli occhi. È questo che non mi piace."
 
 # game/adine1.rpy:871
 translate italiantl nextsc_7b61b183:
 
     # Ad "I know they aren't pretty. You don't have to repeat what I just said."
-    Ad "So bene che non sono graziose. Non c'è bisogno che tu ripeta quello che ho appena detto." # "you don't have to" -> "you don't need to"
+    Ad "So bene che non sono graziose. Non c'è bisogno che ripeti quello che ho appena detto." # "have to" -> "need to"
 
 # game/adine1.rpy:877
 translate italiantl nextsc_27e1283c:
@@ -1396,7 +1396,7 @@ translate italiantl nextsc_e3afd84b:
 translate italiantl nextsc_d022c5bd:
 
     # Ad "Of course I'd love to visit - maybe as some sort of vacation. But if you're talking about permanently, I'm not sure if I could just pack up and leave everything behind just like that."
-    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se intendi in modo permanente, non sono sicura che potrei semplicemente prendere e lasciarmi tutto quanto alle spalle a quel modo." # corrected em-dash
+    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se dicevi in modo permanente, non sono sicura che potrei prendere e lasciarmi tutto quanto alle spalle a quel modo." # corrected em-dash
 
 # game/adine1.rpy:932
 translate italiantl nextsc_b8fb304d:

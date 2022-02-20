@@ -34,7 +34,7 @@ translate italiantl aloneendings_df9f1168:
 translate italiantl aloneendings_e385c5e3:
 
     # m "When I left my apartment, I realized just how eerily deserted the rest of the place felt. They really weren't kidding when they said {i}everyone{/i} would watch the fireworks. I imagined there were a couple of designated places people gathered for this purpose. I had no doubt they were crowded beyond belief."
-    m "Quando lasciai il mio appartamento, realizzai quanto sinistramente deserto sembrasse il resto del posto. Davvero non scherzavano quando dicevano che {i}tutti quanti{/i} avrebbero guardato i fuochi d'artificio. Immaginai vi fossero un paio di posti designati dove la gente si riuniva a tale scopo. Non avevo dubbi che fossero gremiti oltre ogni immaginazione."
+    m "Quando lasciai il mio appartamento, mi resi conto di quanto sinistramente deserto sembrasse il resto del posto. Davvero non scherzavano quando dicevano che {i}proprio tutti{/i} avrebbero guardato i fuochi d'artificio. Immaginai vi fossero un paio di posti designati dove la gente si riuniva a tale scopo. Non avevo dubbi che fossero gremiti oltre ogni immaginazione." # see line 2083 of chapter 4
 
 # game/chapter5.rpy:516
 translate italiantl aloneendings_04daa7ff:
@@ -244,7 +244,7 @@ translate italiantl _call_endingjustafewminuteslater_3e5cfc0a:
 translate italiantl _call_endingjustafewminuteslater_846870c2:
 
     # m "I was shaking and my vision was blurry. Every inch of movement felt like a new and harder chore than the last."
-    m "Tremavo e la mia vista era offuscata. Ogni centimetro sembrava una nuova e più ardua incombenza del precedente." # "every inch of movement" -> "every centimeter"
+    m "Tremavo e la mia vista era offuscata. Ogni centimetro sembrava una nuova e più ardua incombenza del precedente." # "every inch [of movement]" -> "every centimeter"
 
 # game/chapter5.rpy:650
 translate italiantl _call_endingjustafewminuteslater_5aec03e2:
@@ -394,7 +394,7 @@ translate italiantl tut_10345df0:
 translate italiantl tut_1e8d4b79:
 
     # s "At any rate, feel free to employ the game's skip buttons (CTRL and TAB) generously, as - by default - they will only skip text that you have already seen, making subsequent playthroughs much more palatable."
-    s "In ogni caso, sentiti liberə di impiegare i pulsanti di salto [[Ctrl] e [[Tab] senza riserve, siccome—per impostazione predefinita—salteranno solamente il testo che hai già visto, rendendo le successive partite decisamente più appetibili." # changed parentheses with brackets to match line 385 of chapter 1, corrected em-dash, also "the [game's] skip buttons"
+    s "In ogni caso, sentiti liberə di impiegare i pulsanti di salto [[Ctrl] e [[Tab] senza riserve, siccome—per impostazione predefinita—salteranno solamente il testo che hai già visto, rendendo le successive partite decisamente più scorrevoli." # changed parentheses with brackets to match line 385 of chapter 1, corrected em-dash, also "the [game's] skip buttons", "more palatable" -> "smoother"
 
 # game/chapter5.rpy:917
 translate italiantl tut_72b3f8a3:

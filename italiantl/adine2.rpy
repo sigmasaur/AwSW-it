@@ -100,7 +100,7 @@ translate italiantl _call_skiptut_23_690da0b1:
 translate italiantl _call_skiptut_23_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
 
 # game/adine2.rpy:166
 translate italiantl _call_skiptut_23_0054b77b:
@@ -220,13 +220,13 @@ translate italiantl _call_skipcheck_23_d7e70092:
 translate italiantl _call_skipcheck_23_2b09d0f0:
 
     # c "I'm just being honest."
-    c "Sono semplicemente onestə."
+    c "Sono solo sincerə."
 
 # game/adine2.rpy:240
 translate italiantl _call_skipcheck_23_81fedecd:
 
     # Ad annoyed b "You know, sometimes, honesty is not the best policy."
-    Ad annoyed b "Lo sai, a volte, l'onestà non è la miglior politica."
+    Ad annoyed b "Lo sai, a volte, la sincerità non è la miglior politica."
 
 # game/adine2.rpy:242
 translate italiantl _call_skipcheck_23_a1107f7d:
@@ -544,7 +544,7 @@ translate italiantl _call_skipcheck_23_f62f1fb5:
 translate italiantl _call_skipcheck_23_52128d22:
 
     # Ad normal b "Actually, that's not the case. You only think that because you don't remember your dreams."
-    Ad normal b "In effetti, non è questo il caso. Lo credi soltanto perché non ricordi i tuoi sogni."
+    Ad normal b "In effetti, le cose non stanno così. Lo credi soltanto perché non ricordi i tuoi sogni."
 
 # game/adine2.rpy:457
 translate italiantl _call_skipcheck_23_584b119a:
@@ -556,7 +556,7 @@ translate italiantl _call_skipcheck_23_584b119a:
 translate italiantl _call_skipcheck_23_a6521f18:
 
     # Ad "Dream recall is linked to how strong of a sleeper you are and the duration of your rest."
-    Ad "Rievocare i sogni è collegato a quant'è pesante il tuo sonno e alla durata del tuo riposo."
+    Ad "Rievocare i sogni è collegato a quant'è profondo il tuo sonno e alla durata del tuo riposo."
 
 # game/adine2.rpy:461
 translate italiantl _call_skipcheck_23_25c73dcb:
@@ -772,7 +772,7 @@ translate italiantl adine2menb_eec2b1c8:
 translate italiantl adine2menb_a8a5d6a3:
 
     # Ad think b "I don't think chilies should go anywhere near something that's supposed to be a dessert, but that's just me."
-    Ad think b "Penso che il peperoncino dovrebbe stare alla larga da qualcosa che si suppone essere un dolce, ma è solo il mio parere."
+    Ad think b "Penso che il peperoncino non dovrebbe avvicinarsi a qualcosa che si suppone essere un dolce, ma è solo il mio parere."
 
 # game/adine2.rpy:658
 translate italiantl adine2menb_b1e68e2d:
@@ -982,7 +982,7 @@ translate italiantl adine2menb_f930bbb0:
 translate italiantl adine2menb_26af2b97:
 
     # Ad giggle b "The explanations range from ghosts to angelic beings. One even involved humans."
-    Ad giggle b "Le spiegazioni spaziano dai fantasmi agli esseri angelici. Una coinvolge persino gli umani."
+    Ad giggle b "Le spiegazioni spaziano dai fantasmi agli esseri angelici. In una c'entravano persino gli umani."
 
 # game/adine2.rpy:810
 translate italiantl adine2menb_4e24c2ca:
@@ -1114,7 +1114,7 @@ translate italiantl adine2menb_be7b3cad:
 translate italiantl adine2menb_2a8663e1:
 
     # c "That doesn't really apply to me. Like, at all."
-    c "Non è che si adatti al mio caso. Tipo, per niente."
+    c "Non è che valga nel mio caso. Tipo, affatto."
 
 # game/adine2.rpy:882
 translate italiantl adine2menb_03673aa6:
@@ -1138,13 +1138,13 @@ translate italiantl adine2menb_d8b41529:
 translate italiantl adine2menb_5ec8084e:
 
     # c "This is very generic. You know that it's intentionally vague so everyone feels like it applies to them, right?"
-    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che si adatti al loro caso, giusto?"
+    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che valga anche per loro, giusto?"
 
 # game/adine2.rpy:894
 translate italiantl adine2menb_e994abe2:
 
     # Ad annoyed b "You can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Non è che puoi aspettarti una gran quantità di dettagli da una lettura di una sola carta."
+    Ad annoyed b "Non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta."
 
 # game/adine2.rpy:896
 translate italiantl adine2menb_9d0d3f05:
@@ -1222,13 +1222,13 @@ translate italiantl adine2menb_6f49916d:
 translate italiantl adine2menb_5ec8084e_1:
 
     # c "This is very generic. You know that it's intentionally vague so everyone feels like it applies to them, right?"
-    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che si adatti al loro caso, giusto?" # see line 892
+    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che valga anche per loro, giusto?" # see line 892
 
 # game/adine2.rpy:958
 translate italiantl adine2menb_bb359085:
 
     # Ad annoyed b "Well, you can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli da una lettura di una sola carta."
+    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta."
 
 # game/adine2.rpy:960
 translate italiantl adine2menb_9d0d3f05_1:
@@ -1306,13 +1306,13 @@ translate italiantl adine2menb_2e04c98c:
 translate italiantl adine2menb_5ec8084e_2:
 
     # c "This is very generic. You know that it's intentionally vague so everyone feels like it applies to them, right?"
-    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che si adatti al loro caso, giusto?" # see line 892
+    c "È molto generico. Lo sai che è intenzionalmente vago così hanno tutti l'impressione che valga anche per loro, giusto?" # see line 892
 
 # game/adine2.rpy:1018
 translate italiantl adine2menb_bb359085_1:
 
     # Ad annoyed b "Well, you can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli da una lettura di una sola carta."
+    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta."
 
 # game/adine2.rpy:1020
 translate italiantl adine2menb_9d0d3f05_2:
@@ -1360,13 +1360,13 @@ translate italiantl adine2menb_9cefa3aa:
 translate italiantl adine2menb_72213e9e:
 
     # Ad disappoint b "It's got to be so much work to create a magazine like this. From selecting the topics, writing the articles, doing all the photos and the layouts... And then to get it to shops and into the hands of customers. All that work just for it to end up in the trash."
-    Ad disappoint b "Deve volerci così tanto lavoro per creare una rivista come questa. Dal selezionare gli argomenti, scrivere gli articoli, fare le foto e le impaginazioni... Fino al fare che arrivi ai negozi e nelle mani dei clienti. Tutto quel lavoro solo perché finisse nel cestino." # slightly pruned to fit three lines
+    Ad disappoint b "Deve volerci così tanto lavoro per creare una rivista come questa. Dal selezionare gli argomenti, scrivere gli articoli, fare le foto e le impaginazioni... Fino a far sì che arrivi ai negozi e nelle mani dei clienti. Tutto quel lavoro solo perché finisse nel cestino." # slightly pruned to fit three lines
 
 # game/adine2.rpy:1055
 translate italiantl adine2menb_c9e7ff04:
 
     # Ad think b "With how often they come out, it's like they're designed to be disposable."
-    Ad think b "Con la frequenza con cui escono, è come se le avessero progettate per essere usa-e-getta."
+    Ad think b "Con la frequenza con cui escono, è come se fossero progettate per essere usa-e-getta."
 
 # game/adine2.rpy:1057
 translate italiantl adine2menb_395123dc:
@@ -1468,7 +1468,7 @@ translate italiantl adine2menb_0ce1db36:
 translate italiantl adine2menb_f7af450f:
 
     # c "That's certainly not a pleasant situation to be in."
-    c "Questa non è certo una situazione piacevole in cui trovarsi."
+    c "Non è certo una situazione piacevole in cui trovarsi."
 
 # game/adine2.rpy:1101
 translate italiantl adine2menb_e16edad8:
@@ -1528,7 +1528,7 @@ translate italiantl adine2menb_d3f38257:
 translate italiantl adine2menb_c70db99e:
 
     # c "That is unfortunate."
-    c "Questa è una sfortuna."
+    c "Questa è sfortuna."
 
 # game/adine2.rpy:1121
 translate italiantl adine2menb_90397797:
@@ -1672,7 +1672,7 @@ translate italiantl adine2skip_0395e0a6:
 translate italiantl adine2skip_e2af3c5d:
 
     # Ad "See? I think if you put your word in, we could easily make it happen."
-    Ad "Vedi? Penso che se ci metterai una buona parola, potremmo facilmente fare in modo che accada."
+    Ad "Vedi? Penso che se ci metterai una buona parola, potremmo facilmente far sì che accada."
 
 # game/adine2.rpy:1189
 translate italiantl adine2skip_ac60032b:
@@ -1852,7 +1852,7 @@ translate italiantl adine2skip_c1f8ed28:
 translate italiantl adine2skip_971f2892:
 
     # c "Will there be any magazines involved?"
-    c "Non è che ci saranno altre riviste?"
+    c "Non è che c'entreranno altre riviste?" # "any" -> "other"
 
 # game/adine2.rpy:1298
 translate italiantl adine2skip_339ac162:

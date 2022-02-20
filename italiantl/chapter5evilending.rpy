@@ -172,7 +172,7 @@ translate italiantl evilending_2dd81155:
 translate italiantl evilending_3bb85959:
 
     # c "If humanity found out we'd rather forego our trade agreement and just let a potential long-term trade partner be eradicated by the meteorite for our own profit, they surely would not be pleased."
-    c "Se l'umanità scoprisse che preferiremmo rinunciare al nostro accordo di scambio e lasciare che un potenziale partner commerciale a lungo termine fosse annientato da un meteorite per il nostro tornaconto, sicuramente non ne sarebbero contenti."
+    c "Se l'umanità scoprisse che preferiremmo rinunciare al nostro accordo e lasciare che un potenziale partner commerciale a lungo termine fosse annientato da un meteorite per il nostro tornaconto, sicuramente non ne sarebbero contenti." # "our [trade] agreement"
 
 # game/chapter5evilending.rpy:75
 translate italiantl evilending_08c123a0:
@@ -352,7 +352,7 @@ translate italiantl endingjustafewminuteslaterx_d7d0cce6:
 translate italiantl endingjustafewminuteslaterx_fb7b0378:
 
     # m "I could've waited for Reza here, but in the end I decided it would be better to meet him underground. If there was going to be a confrontation, I was sure I would have the advantage in a more crowded space."
-    m "Avrei potuto aspettare [Rz] qui, ma alla fine decisi che sarebbe stato meglio incontrarlo di sotto. Se mai ci fosse stato un confronto, ero certə che sarei statə in vantaggio in uno spazio più angusto." # "if there was EVER going to be"
+    m "Avrei potuto aspettare [Rz] qui, ma alla fine decisi che sarebbe stato meglio incontrarlo di sotto. Se mai si fosse giunti a un confronto, ero certə che sarei statə in vantaggio in uno spazio più angusto." # "if there was EVER going to be"
 
 # game/chapter5evilending.rpy:357
 translate italiantl endingjustafewminuteslaterx_d51db7e2:
@@ -448,7 +448,7 @@ translate italiantl no_7baa11a8:
 translate italiantl no_f6c1a298:
 
     # Rz normal "I mean, how could a supposedly completely different, independent civilization speak the same language as us? What was this supposed to be? An alternate reality? No, it was just a different time."
-    Rz normal "Voglio dire, come potrebbe una civiltà completamente diversa e indipendente parlare la nostra stessa lingua? Che cosa dovrebbe essere, una realtà alternativa? No, è solo un diverso tempo." # "what was" -> "what is", "it was just" -> "it is just"
+    Rz normal "Voglio dire, come potrebbe una civiltà completamente diversa e indipendente parlare la nostra stessa lingua? Cosa avrebbe dovuto essere, una realtà alternativa? No, era solo un diverso tempo."
 
 # game/chapter5evilending.rpy:465
 translate italiantl no_46ca0c65:
@@ -718,7 +718,7 @@ translate italiantl no_36a74191:
 translate italiantl no_c0dcf3df:
 
     # Rz "Do you think I like it? If there was a different way, I wouldn't have spent the last few weeks doing what you didn't."
-    Rz "Credi forse che mi piaccia? Se ci fosse stato un modo diverso, non avrei trascorso le ultime settimane a fare ciò che tu non hai fatto." # "the last [few] weeks"
+    Rz "Credi forse che mi piaccia? Se ci fosse stato un modo diverso, non avrei passato le ultime settimane a fare ciò che tu non hai fatto." # "the last [few] weeks"
 
 # game/chapter5evilending.rpy:571
 translate italiantl no_9e38606f:
@@ -790,7 +790,7 @@ translate italiantl no_44206026:
 translate italiantl no_11bb049e:
 
     # Rz "How many do you think died back home just in the two weeks you've been here because we don't have power for the hospital, huh? Do you think those victims aren't worth mentioning, or do you just care about the few dragons I killed?"
-    Rz "Quanti credi siano morti a casa solo nelle due settimane in cui sei statə qui perché non abbiamo l'energia per l'ospedale, eh? Pensi che non valga la pena di ricordare quelle vittime, o t'importa solo di quei pochi draghi che ho ucciso?" # "the few dragons" -> "those few dragons"
+    Rz "Quanti credi siano morti a casa solo nelle due settimane in cui sei statə qui perché non abbiamo l'energia per l'ospedale, eh? Non pensi che quelle vittime meritino di essere ricordate, o t'importa solo di quei pochi draghi che ho ucciso?" # "the few dragons" -> "those few dragons"
 
 # game/chapter5evilending.rpy:595
 translate italiantl no_c901c5b9:
@@ -1054,7 +1054,7 @@ translate italiantl skiptut_a325d596:
 translate italiantl skiptut_738b6997:
 
     # s "Sometimes, it's just easier to jump over a whole section than speeding it up, y'know?"
-    s "A volte, viene solo più facile saltare un'intera sezione piuttosto che accelerarla, sai?"
+    s "A volte, viene più semplice saltare direttamente un'intera sezione piuttosto che accelerarla, sai."
 
 # game/chapter5evilending.rpy:853
 translate italiantl skiptut_521da73b:

@@ -46,7 +46,7 @@ translate italiantl _call_skiptut_eee83226:
 translate italiantl _call_skiptut_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/anna3.rpy:122
 translate italiantl _call_skiptut_0054b77b:
@@ -196,7 +196,7 @@ translate italiantl _call_skipcheck_9c360a25:
 translate italiantl _call_skipcheck_774855ff:
 
     # An face b "I'm sure you wouldn't, but I'm afraid I don't provide {i}those{/i} kinds of services."
-    An face b "Ne sono certa, ma temo di non offrire {i}quel{/i} tipo di servizi."
+    An face b "Ne sono certa, ma temo di non fornire {i}quel{/i} tipo di servizi."
 
 # game/anna3.rpy:217
 translate italiantl _call_skipcheck_dc15bd8a:
@@ -208,7 +208,7 @@ translate italiantl _call_skipcheck_dc15bd8a:
 translate italiantl _call_skipcheck_282a6965:
 
     # An smirk b "Is that your scientific curiosity shining through? I can approve of that."
-    An smirk b "È forse curiosità scientifica quella che intravedo? Potrei anche approvare." # "is that [your] scientific curiosity", "can" -> "could"
+    An smirk b "È forse curiosità scientifica quella che intravedo? Potrei anche approvare." # "is that [your] scientific curiosity", "can approve" -> "could approve"
 
 # game/anna3.rpy:229
 translate italiantl _call_skipcheck_7416e511:
@@ -274,7 +274,7 @@ translate italiantl _call_skipcheck_eb4b8d72:
 translate italiantl _call_skipcheck_305afc93:
 
     # An disgust b "I sure as heck wouldn't just have let them take anything."
-    An disgust b "Allora col cavolo che li avrei semplicemente lasciati prendere niente."
+    An disgust b "Sta' pur sicurə che non li avrei semplicemente lasciati prendere niente."
 
 # game/anna3.rpy:262
 translate italiantl _call_skipcheck_41b2da87:
@@ -286,7 +286,7 @@ translate italiantl _call_skipcheck_41b2da87:
 translate italiantl _call_skipcheck_48ec34df:
 
     # An face b "Really? What makes you think so?"
-    An face b "Davvero? E cosa te lo fa credere?" # "AND what makes you think so"
+    An face b "Davvero? E cosa te lo fa credere?" # "AND what"
 
 # game/anna3.rpy:266
 translate italiantl _call_skipcheck_af216271:
@@ -574,7 +574,7 @@ translate italiantl _call_skipcheck_fffa4ac0:
 translate italiantl _call_skipcheck_168b3fa1:
 
     # An normal b "Well, we never specified any terms, and I sat out our \"date\" until it was officially over. This will certainly go by much quicker if you can show a little patience."
-    An normal b "Be', non abbiamo mai specificato dei termini, e finché il nostro \"appuntamento\" è durato io sono rimasta. Di certo faremmo molto più in fretta se mostrassi un po' di pazienza." # "until it was officially over" -> "as long as it took", "will certainly go" -> "would certainly go", "can show" -> "showed"
+    An normal b "Be', non abbiamo mai specificato dei termini, e finché il nostro \"appuntamento\" è durato io sono rimasta. Di certo faremmo molto più in fretta se mostrassi un po' di pazienza." # wording, also "until it was officially over" -> "as long as it took", "will certainly go" -> "would certainly go", "can show" -> "showed"
 
 # game/anna3.rpy:423
 translate italiantl _call_skipcheck_7f6008ee:
@@ -1004,7 +1004,7 @@ translate italiantl _call_skipcheck_56c533ec:
 translate italiantl _call_skipcheck_14f50917:
 
     # An "The data is still useful, just not as useful as it could be. And besides, I did tell you I'd make the most of this room."
-    An "I dati sono comunque utili, solo non così utili come potrebbero essere. E poi, te l'ho detto che avrei sfruttato al massimo questa sala." # see lines 150, 154
+    An "I dati sono comunque utili, solo non così utili come potrebbero essere. Oltretutto, te l'ho detto che avrei sfruttato al massimo questa sala." # see lines 150, 154
 
 # game/anna3.rpy:708
 translate italiantl _call_skipcheck_f14b9121:
@@ -1790,7 +1790,7 @@ translate italiantl _call_skipcheck_80b7fddd_3:
 translate italiantl _call_skipcheck_1ffa9ae9:
 
     # c "You sure get to ask me a lot of questions here."
-    c "Certo ti sei concessa di farmi un sacco di domande."
+    c "Certo che mi stai facendo un sacco di domande."
 
 # game/anna3.rpy:1192
 translate italiantl _call_skipcheck_8e8d0cab:
@@ -2051,7 +2051,7 @@ translate italiantl _call_skipcheck_f86a01f7:
 translate italiantl _call_skipcheck_7f3c5a30:
 
     # An "Not really. If you keep skipping grades like I did and were on the fast track in university, you wouldn't really have the time to make or keep any friends either."
-    An "Non proprio. Se a scuola continui a saltare gli anni come ho fatto io e all'università sei in corsia preferenziale, non è che tu abbia il tempo di farti degli amici, né di tenerteli stretti."
+    An "Non proprio. Se continui a saltare le classi come ho fatto io e bruci le tappe all'università, non è che tu abbia il tempo di farti degli amici, né di tenerteli stretti."
 
 # game/anna3.rpy:1344
 translate italiantl _call_skipcheck_4a23c57d:
@@ -2081,7 +2081,7 @@ translate italiantl _call_skipcheck_76b2fe88:
 translate italiantl _call_skipcheck_71714474:
 
     # n "We went to the same class for a while. I ended up skipping a grade after that year."
-    n "Per un po' abbiamo seguito le stesse lezioni. Io finii per saltare l'anno successivo."
+    n "Per un po' avevamo seguito le stesse lezioni. L'anno dopo io finii per saltare una classe."
 
 # game/anna3.rpy:1360
 translate italiantl _call_skipcheck_702f189c:
@@ -2207,7 +2207,7 @@ translate italiantl _call_skipcheck_c604cb5c:
 translate italiantl _call_skipcheck_7e7e1abc:
 
     # c "And you're doing all of that, because of your pure, unselfish heart."
-    c "E tu staresti facendo tutto questo per pura bontà di cuore."
+    c "E staresti facendo tutto questo per pura bontà di cuore."
 
 # game/anna3.rpy:1411
 translate italiantl _call_skipcheck_9b6765fb:
@@ -2279,7 +2279,7 @@ translate italiantl anna3skip_fe5f3366:
 translate italiantl anna3skip_7008dfa3:
 
     # An "You know how busy I am, but I can call you if you'd like."
-    An "Sai quanto sono impegnata, ma posso chiamarti io se desideri."
+    An "Sai quanto sono impegnata, ma posso chiamarti io se ti va."
 
 # game/anna3.rpy:1441
 translate italiantl anna3skip_c48dc32f:
@@ -2439,7 +2439,7 @@ translate italiantl strings:
 
     # anna3.rpy:503
     old "This is kind of embarrassing."
-    new "La cosa è un po' imbarazzante."
+    new "È un po' imbarazzante."
 
     # anna3.rpy:503
     old "It's kinda cold in here."

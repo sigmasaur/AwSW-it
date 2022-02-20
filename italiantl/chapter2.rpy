@@ -22,7 +22,7 @@ translate italiantl _call_skiptut_11_84d46f4f:
 translate italiantl _call_skiptut_11_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
 
 # game/chapter2.rpy:250
 translate italiantl _call_skiptut_11_0054b77b:
@@ -394,7 +394,7 @@ translate italiantl _call_skipcheck_11_2ea1030a:
 translate italiantl _call_skipcheck_11_9f98a1a6:
 
     # Sb "It's an interesting one, that's for sure. The wounds match those of the last victim, so a similar - if not identical - murder weapon is likely."
-    Sb "In modo interessante, questo è certo. Le ferite sono compatibili con quelle dell'ultima vittima, quindi una simile—se non la stessa arma del delitto è da presumersi." # corrected em-dash, also "identical—" -> "the same[—]"
+    Sb "In modo interessante, questo è certo. Le ferite sono compatibili con quelle dell'ultima vittima, quindi una simile—se non la stessa arma del delitto è da presumersi." # corrected em-dash, also "identical[—]" -> "the same"
 
 # game/chapter2.rpy:525
 translate italiantl _call_skipcheck_11_3c662131:
@@ -1255,7 +1255,7 @@ translate italiantl chapter2sections2_53e1b848:
 translate italiantl chapter2sections2_1fd7deb2:
 
     # n "Even if that park was the place the mysterious paper referred to, I didn't know if it was actually a good idea to visit. The masked person may have saved me from the falling light fixture, but if it was Reza, it would mean following someone who was also the prime suspect of two murders."
-    n "Se anche quel parco fosse stato il posto cui il misterioso foglietto si riferiva, non sapevo se visitarlo sarebbe stata effettivamente una buona idea. La persona mascherata poteva anche avermi salvato dall'impianto luminoso, ma se fosse stata [Rz], avrebbe significato seguire qualcuno che era anche il principale sospetto di due omicidi."
+    n "Se anche quel parco fosse stato il luogo cui il misterioso foglietto si riferiva, non sapevo se visitarlo fosse davvero una buona idea. La persona mascherata poteva anche avermi salvato dal crollo dell'impianto luminoso, ma se fosse stata [Rz], avrebbe significato seguire qualcuno che era anche il principale sospetto di due omicidi."
 
 # game/chapter2.rpy:1170
 translate italiantl chapter2sections2_a3c147d5:
@@ -1263,7 +1263,7 @@ translate italiantl chapter2sections2_a3c147d5:
     # nvl clear
     # n "I also had to consider the list of places Reza had been to: A local grocery store, the production facility we had visited and the library were the three places closest to here."
     nvl clear
-    n "Dovevo anche considerare l'elenco dei posti in cui [Rz] era stato: un negozio di alimentari locale, lo stabilimento di produzione che avevamo visitato e la biblioteca erano i tre posti più vicini." # corrected lowercase letter, also "the three places closest to here" -> "the three closest places"
+    n "Dovevo anche considerare l'elenco dei posti in cui [Rz] era stato: un negozio di alimentari locale, lo stabilimento di produzione che avevamo visitato e la biblioteca erano i tre posti più vicini." # corrected lowercase letter, also "the three places closest [to here]" -> "the three closest places"
 
 # game/chapter2.rpy:1174
 translate italiantl chapter2sections2_814ec0e4:
@@ -1335,7 +1335,7 @@ translate italiantl chap2store_ec67b419:
 translate italiantl chap2store_99427c74:
 
     # St "I can't fill it like this. You'll need to tell your parents to visit the doctor so he can write you a new one."
-    St "Non posso evaderla così com'è. Devi dire ai tuoi genitori di andare dal dottore cosicché lui possa scrivertene una nuova."
+    St "Non posso evaderla così com'è. Devi dire ai tuoi genitori di andare dal dottore così lui può scrivertene una nuova."
 
 # game/chapter2.rpy:1314
 translate italiantl chap2store_14b7f614_1:
@@ -1911,7 +1911,7 @@ translate italiantl chap2storebrowsemenu_dfb5ee18:
 translate italiantl chap2storebrowsemenu_76bbd1ee:
 
     # c "(I don't even recognize some of these.)"
-    c "(Alcuni di questi non li riconosco nemmeno.)"
+    c "(Alcuni di questi nemmeno li riconosco.)"
 
 # game/chapter2.rpy:1665
 translate italiantl chap2storebrowsemenu_06fdb0d2:
@@ -2097,7 +2097,7 @@ translate italiantl chap2facility_2c897276:
 translate italiantl chap2facility_ccccd2cf:
 
     # Dm arrogant "Tchk, of course I know who you are, but your assumption validated the point I was going to make. You see, this whole thing about you coming here has been blown out of proportion, like it's some huge event that everyone should be celebrating."
-    Dm arrogant "Tchk, certo che so chi sei, ma la tua presunzione conferma l'idea che volevo rendere. Vedi, tutta questa storia su di voi che arrivate qui è stata ingigantita oltre ogni misura, come se fosse un evento epocale che tutti dovrebbero celebrare."
+    Dm arrogant "Tchk, certo che so chi sei, ma la tua presunzione conferma l'idea che volevo rendere. Vedi, tutta questa storia su di voi che arrivate qui è stata ingigantita oltre ogni misura, come se fosse un evento epocale che tutti quanti dovrebbero celebrare."
 
 # game/chapter2.rpy:1826
 translate italiantl chap2facility_3e235e4f:
@@ -2409,7 +2409,7 @@ translate italiantl chap2libmenu_51600f5b:
 translate italiantl chap2libmenu_844fed17:
 
     # Ry "Not particularly. I thought he just wanted to learn about our world."
-    Ry "Non di preciso. Pensavo volesse solo apprendere di più sul nostro mondo." # "particularly" -> "precisely", "just wanted to learn MORE about"
+    Ry "Non di preciso. Pensavo volesse solo saperne di più sul nostro mondo." # "particularly" -> "precisely"
 
 # game/chapter2.rpy:2105
 translate italiantl chap2libmenu_08d57922:
@@ -2457,13 +2457,13 @@ translate italiantl chap2libmenu_e1a3eb0d:
 translate italiantl chap2libmenu_365fda80:
 
     # c "I can't exactly shut my ears off if I'm nearby."
-    c "Non è che possa tapparmi le orecchie se sono nei paraggi."
+    c "Non è che possa spegnere le mie orecchie se sono nei paraggi."
 
 # game/chapter2.rpy:2134
 translate italiantl chap2libmenu_d7c34a1a:
 
     # Ry "Whatever your reason, it isn't any of your business."
-    Ry "Qualunque sia la tua ragione, non sono affari tuoi."
+    Ry "Quali che siano le tue ragioni, non sono affari tuoi."
 
 # game/chapter2.rpy:2144
 translate italiantl chap2libmenu_c92dfbc5:
@@ -2679,7 +2679,7 @@ translate italiantl chap2libmenu_66c23589:
 translate italiantl chap2libmenu_1ec81466:
 
     # Ry "You have a few good points, so I guess it's only fair. Hopefully with less things being broken this time around, though."
-    Ry "Hai portato dei buoni argomenti, quindi immagino sia solo che giusto. Mi auguro stavolta con meno cose infrante, però." # "broken" as in "broken heart" => "spezzate", "infrante"
+    Ry "Hai portato dei buoni argomenti, quindi immagino sia solo che giusto. Mi auguro stavolta con meno cose infrante, però." # "things being broken" -> "broken things", also "broken" as in "broken heart" => "spezzate", "infrante"
 
 # game/chapter2.rpy:2253
 translate italiantl chap2libmenu_04d95a1f:
@@ -3249,7 +3249,7 @@ translate italiantl chap2park3choice_36bcf2f5:
 translate italiantl chap2park3choice_781bcfe3:
 
     # Em "Oh, Remy? Quite the little nerd, isn't he?"
-    Em "Oh, [Ry]? Proprio uno scolaretto modello, vero?"
+    Em "Oh, [Ry]. Quel piccolo imbranato, dico bene?"
 
 # game/chapter2.rpy:3236
 translate italiantl chap2park3choice_ae31763c:
@@ -3267,13 +3267,13 @@ translate italiantl chap2park3choice_7d41a0ce:
 translate italiantl chap2park3choice_9f6b5cb0:
 
     # Em "Right? Now just imagine what it must be like working with him. He's always running back and forth on my command, like some sort of well-trained, ugly, yappy dog."
-    Em "Vero? Ora immagina solo come debba essere lavorare con lui. Non fa che correre avanti e indietro al mio comando, come una specie di cagnetto uggiolante e bene addestrato."
+    Em "Vero? Ora immagina solo come debba essere lavorare con lui. Non fa che correre avanti e indietro al mio comando, come una brutta specie di cagnetto ammaestrato." # "yappy" -> "little"
 
 # game/chapter2.rpy:3262
 translate italiantl chap2park3choice_eaa61128:
 
     # Em ques "Be that as it may, I just can't help it."
-    Em ques "Sia quel che sia, non posso farci niente."
+    Em ques "Sia quel che sia, non posso farci nulla."
 
 # game/chapter2.rpy:3272
 translate italiantl chap2park3choice_970a8d3a:
@@ -3453,7 +3453,7 @@ translate italiantl _call_skiptut_12_11989f6d:
 translate italiantl _call_skiptut_12_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
 
 # game/chapter2.rpy:3446
 translate italiantl _call_skiptut_12_0054b77b:
@@ -3921,7 +3921,7 @@ translate italiantl _call_skipcheck_12_7d2d963e:
 translate italiantl _call_skipcheck_12_2d53cf3e:
 
     # c "I wonder what will happen to our trade agreement now, considering Reza's still missing, the murders, and the stolen generator."
-    c "Mi chiedo cosa accadrà al nostro accordo di scambio adesso, considerando che [Rz] è ancora disperso, gli omicidi e il generatore rubato."
+    c "Mi chiedo cosa accadrà adesso al nostro accordo commerciale, considerando che [Rz] è ancora disperso, gli omicidi e il generatore rubato."
 
 # game/chapter2.rpy:3720
 translate italiantl _call_skipcheck_12_9d4bcd2a:
@@ -4011,7 +4011,7 @@ translate italiantl chap2skip3_06edf7ee:
 translate italiantl chap2skip3_3dd1ee3e:
 
     # Sb "We'll have to talk to her about it, though. Maybe she has some more details for us."
-    Sb "Dovremo discuterne con lei, comunque. Forse lei ha qualche dettaglio in più per noi."
+    Sb "Dovremo parlarne con lei, comunque. Forse lei ha qualche dettaglio in più per noi."
 
 # game/chapter2.rpy:3790
 translate italiantl chap2skip3_4e1f8841:
@@ -4119,7 +4119,7 @@ translate italiantl chapter2chars_b1f3b2e0:
 translate italiantl chapter2chars_e0eb1d42:
 
     # Ry "Hello, this is Remy speaking. I'm calling in regard to the dinner we talked about. I'll have an opening soon and was wondering if you also had the time."
-    Ry "Salve, è [Ry] che parla. Chiamo a proposito della cena di cui abbiamo discusso. Mi libererò a breve e mi chiedevo se ne avessi il tempo anche tu."
+    Ry "Salve, è [Ry] che parla. Chiamo a proposito della cena di cui abbiamo parlato. Mi libererò a breve e mi chiedevo se ne avessi il tempo anche tu."
 
 # game/chapter2.rpy:4167
 translate italiantl chapter2chars_1335da7e:

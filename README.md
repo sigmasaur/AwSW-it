@@ -29,6 +29,7 @@ Currently working on `Anna`'s sections. Files done and up for review:
     anna1.rpy
     anna2.rpy
     anna3.rpy
+    anna4.rpy
 
 A few remarks:
 
@@ -38,7 +39,7 @@ A few remarks:
 
 * Sometimes, it may happen that a line matches exactly its translated counterpart. These lines don't get rendered correctly for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
 
-* As a design choice, the developer eventually decided that no gameplay sequence would ever lead to both `Anna` and `Damion` surviving `Reza`'s break-in right before `chapter3.rpy`. However, dead branches are still found in the game, and therefore still made available for translation whenever any dialogue is involved. This dialogue is never triggered, but it should probably be at least taken into account when translating related branches.
+* As a design choice, the developer eventually decided that no gameplay sequence would ever lead to both `Anna` and `Damion` surviving `Reza`'s break-in between `chapter2.rpy` and `chapter3.rpy`. However, dead branches are still found in the game, and therefore still made available for translation whenever any dialogue is involved. This dialogue is never triggered, but it should probably be at least taken into account when translating related branches.
 
 [1]:https://italianoinclusivo.it/
 
@@ -154,7 +155,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4500: Corrected *don't think that he would<s>n't</s> hesitate*.
 * At line 4556: Split in multiple parts to fit fewer lines.
 * At line 4556: *connected* → *linked*, to avoid repeating *the connection \[...\] is not connected*.
-* At line 4592: Corrected uppercase letter of *Earth*.
+* At line 4592: Corrected lowercase letter of *earth* to uppercase.
 
 ### [`chapter5.rpy`](italiantl/chapter5.rpy)
 
@@ -252,3 +253,17 @@ The following are mostly to the benefit of the developer and translators.
 * At line 704: Corrected *why do them* → *why do it*.
 * At line 926: Corrected uppercase letter to lowercase after colon.
 * At line 1268: Used if-statement to distinguish whether `Damion` survives or not, and corrected present tenses to simple past in the latter case. Currently, all sequences are affected.
+
+### [`anna4.rpy`](italiantl/anna4.rpy)
+
+* At line 435: Corrected *<s>that</s> you could cure me*.
+* At line 474: Corrected uppercase letter of *Council* to lowercase, to match numerous lines throughout the script.
+* At line 509: Assumed *you* is referred to the player character.
+* At line 511: Consider changing *my last straw*.
+* At line 599: Corrected *dont* → *don't*.
+* At line 617: Removed extra space before question mark.
+* At line 675: Corrected simple dash to em-dash.
+
+## Other remarks
+
+* At line 929 of [`adine1.rpy`](#adine1rpy): On *prendere e* V, see F. Masini, S. Mattiola, G. Vecchi, [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf), 2019.

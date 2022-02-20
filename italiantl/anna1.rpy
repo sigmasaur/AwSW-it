@@ -106,7 +106,7 @@ translate italiantl anna1_32b2cfd8:
 translate italiantl anna1_28d33d90:
 
     # m "Remy turned to leave and started walking in my direction. I ducked behind a pillar, and when he went past, I wasn't sure if he'd seen me. Either way, he left, and I was safe to approach now."
-    m "[Ry] si voltò per andarsene e s'incamminò nella mia direzione. Mi riparai dietro una colonna, e quando egli fu passato, non seppi dire se mi avesse visto. Comunque fosse, lui se ne andò, e allora io potei avvicinarmi." # "wasn't sure" -> "couldn't tell"
+    m "[Ry] fece per andarsene e s'incamminò nella mia direzione. Mi riparai dietro una colonna, e quando egli fu passato, non seppi dire se mi avesse visto. Comunque fosse, lui se ne andò, e allora io potei avvicinarmi." # "wasn't sure" -> "couldn't tell"
 
 # game/anna1.rpy:111
 translate italiantl _call_skiptut_7_0ff5f677:
@@ -124,7 +124,7 @@ translate italiantl _call_skiptut_7_eee83226:
 translate italiantl _call_skiptut_7_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/anna1.rpy:142
 translate italiantl _call_skiptut_7_0054b77b:
@@ -394,7 +394,7 @@ translate italiantl _call_skipcheck_7_a0184477:
 translate italiantl _call_skipcheck_7_8a39980d:
 
     # An "As long as you don't rat me out, that shouldn't be a problem."
-    An "Fintantoché mi reggi il sacco, non dovrebbe essere un problema."
+    An "Fintantoché mi reggi il gioco, non dovrebbe essere un problema."
 
 # game/anna1.rpy:336
 translate italiantl _call_skipcheck_7_63b615c0:
@@ -700,7 +700,7 @@ translate italiantl _call_skipcheck_7_cbd94a65:
 translate italiantl _call_skipcheck_7_7d8ee730:
 
     # An "Sorry, I'm just stressed from all the work lately. I'm not getting much respite between my regular work, overtime, personal projects and other disturbances like that Remy sticking his nose where it doesn't belong."
-    An "Scusa, sono solo stressata per tutto il lavoro, ultimamente. Non mi è dato molto respiro fra lavoro ordinario, straordinari, progetti personali e altre perturbazioni come quel [Ry] che ficca il suo naso dove non gli compete." # "between [my] regular work"
+    An "Scusa, sono solo stressata per tutto il lavoro, ultimamente. Non mi danno molta tregua fra lavoro ordinario, straordinari, progetti personali e altre perturbazioni come quel [Ry] che ficca il suo naso dove non gli compete." # "between [my] regular work"
 
 # game/anna1.rpy:595
 translate italiantl _call_skipcheck_7_9e671d0d:
@@ -712,7 +712,7 @@ translate italiantl _call_skipcheck_7_9e671d0d:
 translate italiantl _call_skipcheck_7_f3734192:
 
     # An "I love my job, I really do. Actually, I love it so much that even in my free time, I still do things that have to do with biology."
-    An "Amo il mio lavoro, dico davvero. In effetti, lo amo così tanto che anche nel mio tempo libero, faccio ancora delle cose che hanno a che vedere con la biologia."
+    An "Amo il mio lavoro, dico davvero. In effetti, lo amo talmente che anche nel mio tempo libero, faccio ancora cose che hanno a che vedere con la biologia."
 
 # game/anna1.rpy:597
 translate italiantl _call_skipcheck_7_a9f2c31d:

@@ -232,7 +232,7 @@ translate italiantl _call_skiptut_32_eee83226:
 translate italiantl _call_skiptut_32_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare che tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/anna2.rpy:276
 translate italiantl _call_skiptut_32_0054b77b:
@@ -389,9 +389,9 @@ translate italiantl _call_skipcheck_32_a44fc2c8:
 
     # c "Sounds like you two don't get along that well."
     if chapter3unplayed or damionsurvives:
-        c "Sembra che voi due non andiate molto d'accordo."
+        c "Si direbbe che voi due non andiate molto d'accordo."
     else:
-        c "Sembra che voi due non andaste molto d'accordo."
+        c "Si direbbe che voi due non andaste molto d'accordo."
 
 # game/anna2.rpy:385
 translate italiantl _call_skipcheck_32_7f3d656a:
@@ -406,7 +406,7 @@ translate italiantl _call_skipcheck_32_7f3d656a:
 translate italiantl _call_skipcheck_32_fd2ad21e:
 
     # c "The stress probably doesn't help you either, and it's not worth jeopardizing your health over. Don't overwork yourself. You can't save anyone if you're dead."
-    c "Probabilmente neanche lo stress ti è di aiuto, e non è qualcosa per cui valga la pena pregiudicare la tua salute. Non devi strapazzarti. Non puoi salvare nessuno se mi muori." # "it's not SOMETHING worth jeopardizing"
+    c "Probabilmente neanche lo stress ti è d'aiuto, e non è qualcosa per cui valga la pena pregiudicare la tua salute. Non devi strapazzarti. Non puoi salvare nessuno se mi muori." # "it's not SOMETHING worth jeopardizing"
 
 # game/anna2.rpy:389
 translate italiantl _call_skipcheck_32_f1fcf8e7:
@@ -568,7 +568,7 @@ translate italiantl _call_skipcheck_32_e3818e2c:
 translate italiantl _call_skipcheck_32_4b5e40d4:
 
     # c "Really? How did that go?"
-    c "Davvero? E com'è andata?"
+    c "Davvero? E com'è andata?" # "AND how"
 
 # game/anna2.rpy:454
 translate italiantl _call_skipcheck_32_611a3f9b:
@@ -790,7 +790,7 @@ translate italiantl _call_skipcheck_32_eca61239:
 translate italiantl _call_skipcheck_32_1bbfbe7e:
 
     # m "Bryce's claws were the only thing preventing Miles from biting down, and they were slipping, slick with blood and quivering with fatigue, as he tried to push him off."
-    m "Gli artigli di [Br] erano la sola cosa che impedisse a Miles di affondare i denti, e stavano scivolando, viscidi per il sangue e tremanti per la fatica, nel cercare di respingerlo."
+    m "Gli artigli di [Br] erano la sola cosa che impedisse a Miles di serrare i denti, e stavano scivolando, viscidi per il sangue e tremanti per la fatica, nel cercare di respingerlo."
 
 # game/anna2.rpy:582
 translate italiantl _call_skipcheck_32_e6fa05f2:
@@ -802,7 +802,7 @@ translate italiantl _call_skipcheck_32_e6fa05f2:
 translate italiantl _call_skipcheck_32_1bf6af32:
 
     # m "When he looked up, he saw that Maverick had managed to get to Miles from behind. He bit through his brother's neck from above."
-    m "Quando levò lo sguardo, vide che [Mv] era riuscito a prendere Miles alle spalle. Dall'alto aveva piantato i denti nel collo del fratello."
+    m "Quando levò lo sguardo, vide che [Mv] era riuscito a prendere Miles alle spalle. Dall'alto aveva morso attraverso il collo del fratello."
 
 # game/anna2.rpy:590
 translate italiantl _call_skipcheck_32_7ebdfc7a:
@@ -1096,7 +1096,7 @@ translate italiantl _call_skipcheck_32_c48dc32f_2:
 translate italiantl _call_skipcheck_32_23127dc3:
 
     # m "After several minutes of walking, Anna led me to the outskirts of town. We arrived at a farm house; on one side, fields stretched toward the horizon, and on the other were lush, green hills with fenced populations of animals."
-    m "Dopo svariati minuti di cammino, [An] mi condusse ai sobborghi della città. Giungemmo a un casolare; da un lato, i campi si perdevano all'orizzonte, e dall'altro erano verdeggianti colline popolate di animali nei recinti." # "with fenced populations of" -> "populated with fenced"
+    m "Dopo diversi minuti di cammino, [An] mi condusse ai sobborghi della città. Giungemmo a un casolare; da un lato, i campi si perdevano all'orizzonte, e dall'altro erano verdeggianti colline popolate di animali nei recinti." # "with fenced populations of" -> "populated with fenced"
 
 # game/anna2.rpy:750
 translate italiantl _call_skipcheck_32_8d3e5f20:
@@ -1144,7 +1144,7 @@ translate italiantl _call_skipcheck_32_92a62e3b:
 translate italiantl _call_skipcheck_32_f9b8e1a7:
 
     # n "I wasn't sure exactly what she was planning, but I wasn't going to be involved."
-    n "Non ero sicurə di cosa lei progettasse esattamente, ma non avevo intenzione di esserne coinvoltə."
+    n "Non ero sicurə di cosa lei progettasse esattamente, ma non intendevo andarci di mezzo."
 
 # game/anna2.rpy:787
 translate italiantl _call_skipcheck_32_e7e6519e:
@@ -1546,7 +1546,7 @@ translate italiantl _call_skipcheck_32_7ab0071a:
 translate italiantl _call_skipcheck_32_880f45b8:
 
     # An "Help yourself."
-    An "Serviti pure."
+    An "Sèrviti pure."
 
 # game/anna2.rpy:1060
 translate italiantl _call_skipcheck_32_7735c230:
@@ -1612,7 +1612,7 @@ translate italiantl _call_skipcheck_32_954aa2a1:
 translate italiantl _call_skipcheck_32_63472a9d:
 
     # c "It's bad enough that you roped me into all this, and now you're making fun of the person you stole from. Seriously, knock it off."
-    c "È già abbastanza grave che tu mi abbia trascinato in tutto questo, e ora ti prendi gioco della persona che hai derubato. Seriamente, dacci un taglio."
+    c "È già abbastanza grave che tu mi abbia coinvolto in tutto questo, e ora ti prendi gioco della persona che hai derubato. Seriamente, dacci un taglio."
 
 # game/anna2.rpy:1095
 translate italiantl _call_skipcheck_32_70b1634e:
@@ -1696,7 +1696,7 @@ translate italiantl _call_skipcheck_32_888f924f:
 translate italiantl _call_skipcheck_32_02d98feb:
 
     # An "Quite different from sitting in an expensive restaurant and using their fancy cutlery and napkins, isn't it?"
-    An "Piuttosto diverso dal sedere in un costoso ristorante e usare le loro posate e i loro tovaglioli di lusso, vero?"
+    An "Piuttosto diverso dal sedere in un ristorante costoso e usare posate e tovaglioli pregiati, vero?" # "using [their] cutlery and napkins"
 
 # game/anna2.rpy:1145
 translate italiantl _call_skipcheck_32_ef240537:
@@ -1768,7 +1768,7 @@ translate italiantl _call_skipcheck_32_d4e460d0:
 translate italiantl _call_skipcheck_32_a1b1befd:
 
     # An smirk c "We can just leave it here. Hey, maybe the old farmer will help himself to it."
-    An smirk c "Possiamo anche solo lasciarlo qui. Ehi, magari se ne servirà anche il vecchio allevatore."
+    An smirk c "Possiamo anche lasciarlo qui. Ehi, magari ne approfitterà il vecchio allevatore."
 
 # game/anna2.rpy:1191
 translate italiantl _call_skipcheck_32_19a7388d:
@@ -1834,7 +1834,7 @@ translate italiantl anna2skip_251f14c0:
 translate italiantl anna2else_f94cf9ab:
 
     # c "Can I ask you something? Did you really have to make me wait two hours so you could finish whatever you were doing?"
-    c "Posso chiederti una cosa? Dovevi veramente farmi aspettare due ore cosicché tu potessi finire qualsiasi cosa stessi facendo?" # see line 1254
+    c "Posso chiederti una cosa? Dovevi veramente farmi aspettare due ore così da poter finire qualsiasi cosa stessi facendo?" # see line 1254
 
 # game/anna2.rpy:1266
 translate italiantl anna2else_f35ca7e8:
