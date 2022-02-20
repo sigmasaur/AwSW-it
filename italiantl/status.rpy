@@ -16,7 +16,7 @@ translate italiantl strings:
 
     # status.rpy:40
     old "Status: {b}Impressed{/b}\nScenes played: {b}[remyscenesfinished]{/b}"
-    new "Stato: {b}Impressionato{/b}\nScene giocate: {b}[remyscenesfinished]{/b}"
+    new "Stato: {b}Colpito{/b}\nScene giocate: {b}[remyscenesfinished]{/b}"
 
     # status.rpy:45
     old "Status: {b}Bad{/b}\nScenes played: {b}[remyscenesfinished]{/b}"
@@ -40,7 +40,7 @@ translate italiantl strings:
 
     # status.rpy:81
     old "Status: {b}Impressed{/b}\nScenes played: {b}[annascenesfinished]{/b}"
-    new "Stato: {b}Impressionata{/b}\nScene giocate: {b}[annascenesfinished]{/b}"
+    new "Stato: {b}Colpita{/b}\nScene giocate: {b}[annascenesfinished]{/b}"
 
     # status.rpy:86
     old "Status: {b}Bad{/b}\nScenes played: {b}[annascenesfinished]{/b}"
@@ -64,7 +64,7 @@ translate italiantl strings:
 
     # status.rpy:122
     old "Status: {b}Impressed{/b}\nScenes played: {b}[loremscenesfinished]{/b}"
-    new "Stato: {b}Impressionato{/b}\nScene giocate: {b}[loremscenesfinished]{/b}"
+    new "Stato: {b}Colpito{/b}\nScene giocate: {b}[loremscenesfinished]{/b}"
 
     # status.rpy:127
     old "Status: {b}Bad{/b}\nScenes played: {b}[loremscenesfinished]{/b}"
@@ -88,7 +88,7 @@ translate italiantl strings:
 
     # status.rpy:164
     old "Status: {b}Impressed{/b}\nScenes played: {b}[brycescenesfinished]{/b}"
-    new "Stato: {b}Impressionato{/b}\nScene giocate: {b}[brycescenesfinished]{/b}"
+    new "Stato: {b}Colpito{/b}\nScene giocate: {b}[brycescenesfinished]{/b}"
 
     # status.rpy:169
     old "Status: {b}Bad{/b}\nScenes played: {b}[brycescenesfinished]{/b}"
@@ -112,7 +112,7 @@ translate italiantl strings:
 
     # status.rpy:206
     old "Status: {b}Impressed{/b}\nScenes played: {b}[adinescenesfinished]{/b}"
-    new "Stato: {b}Impressionata{/b}\nScene giocate: {b}[adinescenesfinished]{/b}"
+    new "Stato: {b}Colpita{/b}\nScene giocate: {b}[adinescenesfinished]{/b}"
 
     # status.rpy:211
     old "Status: {b}Bad{/b}\nScenes played: {b}[adinescenesfinished]{/b}"
