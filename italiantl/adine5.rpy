@@ -124,13 +124,13 @@ translate italiantl adine5_cf6444f6:
 translate italiantl adine5_d5667416:
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Avendo l'Amministratore riparato il portale, [Rz] non avrebbe avuto alcuna difficoltà a mettere in atto la sua fuga, ed io ero l'unicə a sapere." # "the mysterious person I met" -> "the Administrator", also see line 541 of chapter 5
+    m "Avendo l'Amministratore riparato il portale, [Rz] non avrebbe avuto alcuna difficoltà a mettere in atto la sua fuga, ed io ero l'unicə a sapere." # see line 541 of chapter 5, also "the mysterious person I met" -> "the Administrator"
 
 # game/adine5.rpy:85
 translate italiantl adine5_39daf733:
 
     # c "Adine, I think we need to go. Now."
-    c "[Ad], penso che dovremmo andare. Adesso."
+    c "[Ad], credo che dovremmo andare. Adesso."
 
 # game/adine5.rpy:87
 translate italiantl adine5_dc1c9312:
@@ -166,7 +166,7 @@ translate italiantl adine5_fd1afa90:
 translate italiantl adine5_3e479f76:
 
     # c "Maybe you could fly and get us some help. I'll try to buy us some time by confronting him."
-    c "Forse potresti volare e procurarci dell'aiuto. Io cercherò di guadagnare un po' di tempo affrontandolo."
+    c "Forse potresti volare e chiedere aiuto. Io cercherò di guadagnare un po' di tempo affrontandolo."
 
 # game/adine5.rpy:99
 translate italiantl adine5_bdc8c2dc:
@@ -226,7 +226,7 @@ translate italiantl _call_endingjustafewminuteslater_4_561cf27e:
 translate italiantl _call_endingjustafewminuteslater_4_9907fbcf:
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
-    c "Hai sei proiettili per tre persone. Pensi di poterlo fare davvero, [Rz]? Pensi che valga la pena di rischiare la tua vita per questo?"
+    c "Hai sei proiettili per tre persone. Pensi di poterlo fare davvero, [Rz]? Pensi che valga la pena rischiare la tua vita per questo?"
 
 # game/adine5.rpy:148
 translate italiantl _call_endingjustafewminuteslater_4_6281e04a:
@@ -520,7 +520,7 @@ translate italiantl _call_endingjustafewminuteslater_4_e64367db:
 translate italiantl _call_endingjustafewminuteslater_4_c70d6beb:
 
     # c "Unfortunately, no. These coordinates are tied to my biometric data. Only I can use them."
-    c "Sfortunatamente, no. Quelle coordinate sono vincolate ai miei dati biometrici. Io solamente posso usarle." # "these coordinates" -> "those coordinates", also see line 4659 of chapter 4
+    c "Sfortunatamente, no. Quelle coordinate sono vincolate ai miei dati biometrici. Io solamente posso usarle." # see line 4659 of chapter 4, also "these coordinates" -> "those coordinates"
 
 # game/adine5.rpy:402
 translate italiantl _call_endingjustafewminuteslater_4_3a48fa0a:
@@ -604,7 +604,7 @@ translate italiantl adinegoodending_65b3222c:
 translate italiantl adinegoodending_4ebd8ca6:
 
     # m "Suddenly, Reza shot me in the leg, causing me to fall over and squirm in pain." with vpunch
-    m "Improvvisamente, [Rz] mi sparò alla gamba, facendomi crollare e contorcere dal dolore." with vpunch
+    m "Improvvisamente, [Rz] mi sparò alla gamba, facendomi rovesciare e contorcere dal dolore." with vpunch
 
 # game/adine5.rpy:624
 translate italiantl adinegoodending_2f14a3e7:
@@ -664,7 +664,7 @@ translate italiantl adinegoodending_cfdce6cd:
 translate italiantl adinegoodending_9354b068:
 
     # Ad "[player_name]! Are you alright?"
-    Ad "[player_name]! Tutto bene?"
+    Ad "[player_name]! Va tutto bene?"
 
 # game/adine5.rpy:704
 translate italiantl adinegoodending_7d0b35bd:

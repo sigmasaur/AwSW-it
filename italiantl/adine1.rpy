@@ -34,7 +34,7 @@ translate italiantl adine1_2ec83f33:
 translate italiantl adine1_ba9efa2f:
 
     # c "They changed their minds, so I suppose you'll be stuck with me for a little while longer."
-    c "Hanno cambiato idea, quindi suppongo che dovrete sopportarmi ancora per un po'."
+    c "Hanno cambiato idea, quindi suppongo che dovrete sopportarmi ancora per un pochetto."
 
 # game/adine1.rpy:67
 translate italiantl adine1_c84f55d5:
@@ -1832,7 +1832,7 @@ translate italiantl strings:
 
     # adine1.rpy:113
     old "I suppose it won't hurt if you come in for a few minutes."
-    new "Suppongo non mi ucciderà se ti lascio entrare per qualche minuto." # "if I LET YOU come in"
+    new "Suppongo non mi ucciderà se entri per qualche minuto."
 
     # adine1.rpy:113
     old "[[Close the door.]"

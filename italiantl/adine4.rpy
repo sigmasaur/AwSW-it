@@ -4,7 +4,7 @@
 translate italiantl adine4_82ee252e:
 
     # c "(That must be her.)"
-    c "(Quella dev'essere lei.)"
+    c "(Questa dev'essere lei.)"
 
 # game/adine4.rpy:38
 translate italiantl adine4_265e20e7:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_30_00495487:
 translate italiantl _call_skipcheck_30_e94c70c8:
 
     # Ad "When I was inside and had a bit of time to cool off, I realized I didn't want to do it like this, even if I'd have to wait another year."
-    Ad "Quand'ero dentro e ho avuto un attimo di tempo per sbollire, mi sono resa conto di non volerlo fare in questo modo, anche se avessi dovuto aspettare un altro anno."
+    Ad "Quand'ero dentro e ho avuto un po' di tempo per sbollire, mi sono resa conto di non volerlo fare in questo modo, anche se avessi dovuto aspettare un altro anno."
 
 # game/adine4.rpy:389
 translate italiantl _call_skipcheck_30_cef17680:
@@ -1708,7 +1708,7 @@ translate italiantl a4shower_ccdb4373:
 translate italiantl a4shower_eb6e85e5:
 
     # Ad "Good job. Now I've got soap in my nose."
-    Ad "Bel lavoro. Adesso ho del sapone nel naso."
+    Ad "Bel lavoro. Adesso ho il sapone nel naso."
 
 # game/adine4.rpy:837
 translate italiantl a4shower_4bb7de3f:
@@ -1918,7 +1918,7 @@ translate italiantl a4shower_2e207f3f:
 translate italiantl a4shower_146047d8:
 
     # m "After I left the shower again, she pressed a button on the wall, and the water resumed once more. She only stood under it briefly and moved around a bit until the water had completely washed off the suds."
-    m "Dopo ch'io ebbi lasciato di nuovo la doccia, lei premette un bottone sul muro, e l'acqua riprese una volta ancora. Vi restò sotto brevemente e si mosse qua e là finché l'acqua non ebbe completamente lavato via la schiuma."
+    m "Dopo ch'io ebbi lasciato di nuovo la doccia, lei premette un bottone sul muro, e l'acqua riprese ancora una volta. Vi restò sotto brevemente e si mosse qua e là finché l'acqua non ebbe completamente lavato via la schiuma."
 
 # game/adine4.rpy:953
 translate italiantl a4shower_0731b1a6:

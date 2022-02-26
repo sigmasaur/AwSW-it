@@ -1288,7 +1288,7 @@ translate italiantl _call_skipcheck_9_2f20a423:
 translate italiantl _call_skipcheck_9_69bcc6a9:
 
     # Ad "What are you going to do with them now?"
-    Ad "Che cosa intendi farci adesso?"
+    Ad "Cos'hai intenzione di farci adesso?"
 
 # game/adine3.rpy:695
 translate italiantl _call_skipcheck_9_60fa77b7:
@@ -1847,7 +1847,7 @@ translate italiantl mpsave_e51c3ae2:
 translate italiantl mpsave_b434465c:
 
     # c "Adine! Are you alright?"
-    c "[Ad]! Tutto bene?"
+    c "[Ad]! Va tutto bene?"
 
 # game/adine3.rpy:1061
 translate italiantl mpsave_a1a25ef4:

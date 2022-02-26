@@ -248,7 +248,7 @@ translate italiantl begingame_02377e2f:
 translate italiantl begingame_a929e4ad:
 
     # n "The crowd that was applauding him slowly dispersed when the enthusiasm died down, as there was nothing for us to do but wait and speculate."
-    n "La folla che lo aveva applaudito si disperse lentamente quando l'entusiasmo si fu attenuato, siccome non vi era nulla che potessimo fare se non aspettare e speculare."
+    n "La folla che lo aveva applaudito si disperse lentamente quando l'entusiasmo si fu attenuato, siccome non potevamo fare altro che aspettare e speculare."
 
 # game/chapter1.rpy:463
 translate italiantl begingame_4e5d991b:
@@ -744,13 +744,13 @@ translate italiantl seccont_f6acc4a0:
 translate italiantl seccont_22affa1d:
 
     # n "After a good stretch, I looked around the room illuminated by the sunlight coming in from the window. Outside, in the distance, the portal I had emerged from proudly stood on the peak of a small hill."
-    n "Dopo una bella sgranchita, mi guardai attorno per la stanza illuminata dalla luce del sole proveniente dalla finestra. Fuori, in lontananza, il portale da cui ero emersə si ergeva maestoso sulla cima di una breve collina."
+    n "Dopo una bella sgranchita, guardai in giro per la stanza illuminata dalla luce del sole proveniente dalla finestra. Fuori, in lontananza, il portale da cui ero emersə si ergeva maestoso sulla cima di una breve collina."
 
 # game/chapter1.rpy:1149
 translate italiantl seccont_f69b9100:
 
     # n "Getting ready, I noticed something lying on the table. It was the note Remy had left for me in case I needed anything. Along with his own home phone and work number, there were also some numbers for delivery of food and other necessities, as well as emergency and even janitorial services. He had certainly thought of everything, even though I now had to wonder what a dragon plumber might look like."
-    n "Preparandomi, notai qualcosa che giaceva sul tavolo. Era la nota che [Ry] mi aveva lasciato in caso avessi avuto bisogno di qualcosa. Assieme ai suoi stessi numeri di casa e di lavoro, vi erano anche alcuni numeri per la consegna di cibo e altre necessità, nonché servizi di emergenza e persino di pulizia. Aveva certamente pensato a tutto, anche se adesso dovetti domandarmi che aspetto potesse avere un drago idraulico."
+    n "Preparandomi, notai qualcosa che giaceva sul tavolo. Era la nota che [Ry] mi aveva lasciato in caso avessi avuto bisogno di qualcosa. Assieme ai suoi stessi numeri di casa e di lavoro, vi erano anche alcuni numeri per la consegna di cibo e altre necessità, nonché servizi di emergenza e persino di pulizia. Aveva certamente pensato a tutto, anche se adesso dovetti domandarmi che aspetto potesse avere un drago idraulico." # see line 713
 
 # game/chapter1.rpy:1153
 translate italiantl seccont_b34a115e:
@@ -4211,7 +4211,7 @@ translate italiantl _call_syscheck_13_9cf7f4d5:
 translate italiantl _call_syscheck_13_47b8d288:
 
     # Br "Maybe this isn't your strong suit."
-    Br "Forse questo non è proprio il tuo punto forte."
+    Br "Forse questo non è il tuo punto forte."
 
 # game/chapter1.rpy:3619
 translate italiantl _call_syscheck_13_5c730655:

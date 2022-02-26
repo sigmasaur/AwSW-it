@@ -610,7 +610,7 @@ translate italiantl _call_skipcheck_23_0b16a848:
 translate italiantl _call_skipcheck_23_1ad66100:
 
     # c "Or maybe they don't mean anything at all. You're overthinking it."
-    c "O forse non vogliono dire un bel niente. Ci stai rimuginando troppo."
+    c "O magari non vogliono dire un bel niente. Ci stai rimuginando troppo."
 
 # game/adine2.rpy:491
 translate italiantl _call_skipcheck_23_a3230f03:

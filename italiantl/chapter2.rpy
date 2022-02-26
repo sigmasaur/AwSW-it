@@ -694,7 +694,7 @@ translate italiantl _call_skipcheck_11_e3fa7472:
 translate italiantl _call_skipcheck_11_d4938ded:
 
     # Br "[player_name]! Are you alright?"
-    Br "[player_name]! Tutto bene?"
+    Br "[player_name]! Va tutto bene?"
 
 # game/chapter2.rpy:765
 translate italiantl _call_skipcheck_11_ec9e9e05:
@@ -985,7 +985,7 @@ translate italiantl _call_skipcheck_11_7581cdd5:
 translate italiantl _call_skipcheck_11_2c4cde19:
 
     # Br stern b "Right. Who else would need to steal a generator, when those who live here could either buy or even simply request one. Not to mention, Reza was the one who arranged the diplomatic trade for the generators in the first place."
-    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato [Rz] a organizzare sin dall'inizio lo scambio diplomatico per i generatori." # corrected question mark to match line 975, also see that line
+    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato [Rz] a organizzare sin dall'inizio lo scambio diplomatico per i generatori." # see line 975, also corrected question mark to match that line
 
 # game/chapter2.rpy:985
 translate italiantl _call_skipcheck_11_3951ceed:
@@ -3087,7 +3087,7 @@ translate italiantl chap2park3_e37926fe:
 translate italiantl chap2park3_737cbed7:
 
     # Lu "Sorry about that. Are you alright?"
-    Lu "Ti chiedo scusa. Tutto bene?"
+    Lu "Ti chiedo scusa. Va tutto bene?"
 
 # game/chapter2.rpy:3130
 translate italiantl chap2park3_94880a99:

@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on `Anna`'s sections. Files done and up for review:
+Currently working on `Bryce`'s sections. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -30,6 +30,7 @@ Currently working on `Anna`'s sections. Files done and up for review:
     anna2.rpy
     anna3.rpy
     anna4.rpy
+    anna5.rpy
 
 A few remarks:
 
@@ -123,6 +124,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1383: Unfolded *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
 * At line 1482: Corrected *under consideration* → *into consideration*.
+* At line 1946: Corrected uppercase letter of *Chief* to lowercase, to match numerous lines throughout the script where `Bryce` is not addressed directly.
 * At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
 * At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of [`chapter1.rpy`](#chapter1rpy).
 * At line 3054: Consider changing ellipsis with simple dash.
@@ -243,6 +245,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 432: Unfolded *99.9%* → *(not) one permill*, *95-97%* → *(not) three-five percent*, for elegance.
 * At line 937: Interpreted *you and another of your species'* as *you and \[the members of\] any species other than yours* and then lifted it from member- to species-level.
 * At line 979: Assumed the first *you* is referred to the player character, the second to the human race.
+* At line 995: Corrected *burst into flame<b>s</b>*.
 * At line 1106: Rendered *man* as *(male) dragon*.
 * At line 1172: Corrected simple dash to em-dash.
 * At line 1211: Unfolded *100%* → *one hundred percent*, for elegance.
@@ -263,6 +266,13 @@ The following are mostly to the benefit of the developer and translators.
 * At line 599: Corrected *dont* → *don't*.
 * At line 617: Removed extra space before question mark.
 * At line 675: Corrected simple dash to em-dash.
+
+### [`anna5.rpy`](italiantl/anna5.rpy)
+
+* At line 87: see line 83 of [`adine5.rpy`](#adine5rpy).
+* At line 341, 343, 435, 710, 859: Corrected simple dash to em-dash.
+* At line 415: Corrected uppercase letter to lowercase after colon.
+* At line 439: Slightly pruned to fit fewer lines.
 
 ## Other remarks
 

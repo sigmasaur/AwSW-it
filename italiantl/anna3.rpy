@@ -1358,7 +1358,7 @@ translate italiantl _call_skipcheck_afce4b58:
 translate italiantl _call_skipcheck_3d9e61f3:
 
     # Ry "One question before I go: Have you made up your mind about it yet?"
-    Ry "Una domanda prima che vada: hai preso una decisione alla fine?" # corrected lowercase letter, also see line 891
+    Ry "Una domanda prima che vada: hai preso una decisione alla fine?" # see line 891, also corrected lowercase letter
 
 # game/anna3.rpy:928
 translate italiantl _call_skipcheck_bb00a52c_1:

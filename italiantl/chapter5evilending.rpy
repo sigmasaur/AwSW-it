@@ -478,7 +478,7 @@ translate italiantl no_2fa3d196:
 translate italiantl no_a0acb6cc:
 
     # Rz "You could've just pointed your PDA at the sky and it would've told you the time period - including the imminent threat of being eradicated."
-    Rz "Avresti potuto anche solo puntare il tuo palmare al cielo e ti avrebbe detto quale epoca fosse—inclusa l'incombente minaccia di essere annientati." # corrected em-dash, also "WHAT the time period WAS"
+    Rz "Avresti anche potuto puntare il tuo palmare al cielo e ti avrebbe detto quale epoca fosse—inclusa l'incombente minaccia di essere annientati." # corrected em-dash, also "WHAT the time period WAS"
 
 # game/chapter5evilending.rpy:475
 translate italiantl no_9effc950:
@@ -544,7 +544,7 @@ translate italiantl no_d33516e0:
 translate italiantl no_f538170b:
 
     # Rz amused "But who cares that they got back the generators I stole? With just this one, we won't need any of the others."
-    Rz amused "Ma che importa se si sono ripresi i generatori che avevo rubato? Solo con questo, non avremo bisogno di nessuno degli altri."
+    Rz amused "Ma che importa se si sono ripresi i generatori che avevo rubato? Solo con questo, non avremo alcun bisogno degli altri."
 
 # game/chapter5evilending.rpy:513
 translate italiantl no_bd581962:

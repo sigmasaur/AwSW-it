@@ -1441,7 +1441,7 @@ translate italiantl _call_syscheck_75_a70b110c:
 translate italiantl _call_syscheck_75_a1ecb90e:
 
     # s "You can either just ignore this and move on, or if this is really important to you, return to Chapter 1 and start a new timeline. If you do this, don't interfere with other timelines until you get here, or else this might happen again."
-    s "Puoi anche solo ignorarlo e proseguire, o se è davvero importante per te, ritornare al Capitolo 1 e iniziare una nuova linea temporale. Se lo fai, non interferire con altre linee temporali finché non arrivi qui, altrimenti questo potrebbe accadere di nuovo."
+    s "Puoi anche ignorarlo e proseguire, o se è davvero importante per te, ritornare al Capitolo 1 e iniziare una nuova linea temporale. Se lo fai, non interferire con altre linee temporali finché non arrivi qui, altrimenti questo potrebbe accadere di nuovo."
 
 # game/chapter4.rpy:1499
 translate italiantl _call_syscheck_75_4f5f91c6_1:
@@ -5461,7 +5461,7 @@ translate italiantl _call_skipcheck_21_d208b0a1:
 translate italiantl _call_skipcheck_21_80dcb028:
 
     # As "In order to stop the comet, we will need as much power as possible."
-    As "Per poter fermare la cometa, avremo bisogno di quanta più energia possibile."
+    As "Per poter fermare la cometa, ci servirà quanta più energia possibile."
 
 # game/chapter4.rpy:4490
 translate italiantl _call_skipcheck_21_ed49d602:
@@ -5708,7 +5708,7 @@ translate italiantl _call_skipcheck_21_17611d67:
 translate italiantl _call_skipcheck_21_c025c2be:
 
     # As "If they were not synchronized, the portals on both sides would stay connected not only to a single point in space, but also to a single point in time, thus making proper two-way communication impossible."
-    As "Se non fossero stati sincronizzati, i portali sarebbero rimasti vincolati da entrambi i lati non solo a un singolo punto nello spazio, ma anche a un singolo punto nel tempo, rendendo così impossibile una vera e propria comunicazione a due vie." # "connected" -> "locked" to match line 4556, also see that line
+    As "Se non fossero stati sincronizzati, i portali sarebbero rimasti vincolati da entrambi i lati non solo a un singolo punto nello spazio, ma anche a un singolo punto nel tempo, rendendo così impossibile una vera e propria comunicazione a due vie." # see also line 4556, also "connected" -> "locked" to match that line
 
 # game/chapter4.rpy:4572
 translate italiantl _call_skipcheck_21_f2eae827:
@@ -5762,7 +5762,7 @@ translate italiantl _call_skipcheck_21_2e14b0d4:
 translate italiantl _call_skipcheck_21_955a59d5:
 
     # c "How could the portal or even its power source still be operational after all this time?"
-    c "Come potrebbero il portale o anche solo la sua sorgente di energia essere ancora operativi dopo tutto questo tempo?" # "even JUST its power source"
+    c "Come potrebbero il portale o anche solo la sua fonte di energia essere ancora operativi dopo tutto questo tempo?"
 
 # game/chapter4.rpy:4590
 translate italiantl _call_skipcheck_21_83d06e49:
@@ -6458,7 +6458,7 @@ translate italiantl _call_popularcheck_29_efcb2250:
 translate italiantl _call_popularcheck_29_49983c63:
 
     # Lo "Right, we're going treasure hunting!"
-    Lo "Andiamo a caccia di tesori!" # "[right,] we're going treasure hunting" to match line 4995 of chapter 3, also see that line
+    Lo "Andiamo a caccia di tesori!" # see line 4995 of chapter 3, also "[right,] we're going treasure hunting" to match that line
 
 # game/chapter4.rpy:5508
 translate italiantl _call_popularcheck_29_e1b1955b:

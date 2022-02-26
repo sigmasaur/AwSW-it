@@ -407,13 +407,13 @@ translate italiantl c3contx_75df14fe:
 translate italiantl c3contx_8445db31:
 
     # Br "Higher authorities, including the ministry in charge of your whole visit, will know about this soon. I have no idea what will happen once they do."
-    Br "Le autorità superiori, incluso il ministro responsabile della vostra intera visita, ne verranno presto a conoscenza. Non ho idea di cosa accadrà quando lo sapranno."
+    Br "Le autorità superiori, incluso il ministro responsabile della vostra intera visita, ne verranno presto a conoscenza. Non ho idea di cosa accadrà quando lo sapranno." # see line 833
 
 # game/chapter3.rpy:870
 translate italiantl c3contx_405efdd0:
 
     # c "I'm not sure what to say to that."
-    c "Non so bene cosa rispondere."
+    c "Non so bene cosa rispondere." # see line 837
 
 # game/chapter3.rpy:872
 translate italiantl c3contx_f5bf1324:
@@ -425,25 +425,25 @@ translate italiantl c3contx_f5bf1324:
 translate italiantl c3contx_bf7bf6e1:
 
     # Br stern b "This way, we can take action before the ministry does, and before this all becomes public. If we wait, we don't know what they'll do or how the public will react."
-    Br stern b "In questo modo, possiamo agire prima del ministro, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa farà o come reagirà la gente."
+    Br stern b "In questo modo, possiamo agire prima del ministro, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa farà o come reagirà la gente." # see line 841
 
 # game/chapter3.rpy:876
 translate italiantl c3contx_b6fb7f2e:
 
     # Br "With everything going on, it's too dangerous for you to stay here."
-    Br "Con tutto quello che sta accadendo, restare qui è troppo pericoloso per te."
+    Br "Con tutto quello che sta accadendo, restare qui è troppo pericoloso per te." # see line 841
 
 # game/chapter3.rpy:878
 translate italiantl c3contx_e69e42b8:
 
     # c "No."
-    c "No. "
+    c "No. " # see line 843
 
 # game/chapter3.rpy:880
 translate italiantl c3contx_504cc006:
 
     # Br brow b "No?"
-    Br brow b "No? "
+    Br brow b "No? " # see line 845
 
 # game/chapter3.rpy:882
 translate italiantl c3contx_6f357246:
@@ -462,19 +462,19 @@ translate italiantl c3contx_97b938c0:
 translate italiantl c3contx_5af18c6b:
 
     # Br "If that's your decision, then so be it."
-    Br "Se questa è la tua decisione, allora così sia."
+    Br "Se questa è la tua decisione, allora così sia." # see line 851
 
 # game/chapter3.rpy:896
 translate italiantl c3contx_5af18c6b_1:
 
     # Br "If that's your decision, then so be it."
-    Br "Se questa è la tua decisione, allora così sia."
+    Br "Se questa è la tua decisione, allora così sia." # see line 851
 
 # game/chapter3.rpy:900
 translate italiantl c3contx_cced64d8:
 
     # Br "If that's your decision, then so be it. I'll have your back either way."
-    Br "Se questa è la tua decisione, allora così sia. Ti guarderò le spalle in ogni caso."
+    Br "Se questa è la tua decisione, allora così sia. Ti guarderò le spalle in ogni caso." # see line 851
 
 # game/chapter3.rpy:902
 translate italiantl c3contx_f53f8226:
@@ -486,7 +486,7 @@ translate italiantl c3contx_f53f8226:
 translate italiantl c3contx_5af18c6b_2:
 
     # Br "If that's your decision, then so be it."
-    Br "Se questa è la tua decisione, allora così sia."
+    Br "Se questa è la tua decisione, allora così sia." # see line 851
 
 # game/chapter3.rpy:930
 translate italiantl _call_skiptut_4_7c2b96fe:
@@ -750,7 +750,7 @@ translate italiantl c3conty_fe17f0dd_1:
 translate italiantl c3conty_bc3dee69:
 
     # Em normal "I see. Well, I know I haven't exactly kept myself up-to-date with the details of Reza's disappearance, but to receive the message today that he has been involved in multiple murders and break-ins is quite shocking."
-    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e intrusioni è stato piuttosto scioccante." # "is quite shocking" -> "was quite shocking" to match lines 1113, 1123, also see those lines
+    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e intrusioni è stato piuttosto scioccante." # see lines 1113, 1123, also "is quite shocking" -> "was quite shocking" to match those lines
 
 # game/chapter3.rpy:1135
 translate italiantl c3conty_98aeb2ec_2:
@@ -768,7 +768,7 @@ translate italiantl c3conty_4e35c84c_2:
 translate italiantl c3conty_fd929a12:
 
     # Br "Only after we tested our new evidence, discovered the DNA linking the two victims together, and had the PDAs stolen did your ministry have to become involved."
-    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che Lei, Ministro, fosse coinvolta." # "had the PDA[s] stolen" -> "found the PDA was stolen", also see line 1119
+    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che Lei, Ministro, fosse coinvolta." # see line 1119, also "had the PDA[s] stolen" -> "found the PDA was stolen"
 
 # game/chapter3.rpy:1142
 translate italiantl c3conty_08704206:
@@ -2584,7 +2584,7 @@ translate italiantl c3conty_26c97bce:
 translate italiantl c3conty_929882d8:
 
     # Sb "Let's head back. The Chief has to know about this right away."
-    Sb "Torniamo indietro. Il Capo dev'esserne subito informato."
+    Sb "Torniamo indietro. Il capo dev'esserne subito informato." # corrected lowercase letter of "Chief"
 
 # game/chapter3.rpy:1959
 translate italiantl c3conty_8b24b374:
@@ -3592,7 +3592,7 @@ translate italiantl _call_lazycheck_1_a9d09c8c:
 translate italiantl _call_lazycheck_1_5d175cfe:
 
     # m "I was shoved to the ground, and before I could regain my composure, the figure vanished into the darkness."
-    m "Fui sbattutə al suolo, e prima che potessi riacquistare la mia compostezza, la figura svanì nell'oscurità."
+    m "Fui spintə a terra, e prima che potessi riacquistare la mia compostezza, la figura svanì nell'oscurità."
 
 # game/chapter3.rpy:2569
 translate italiantl _call_lazycheck_1_2c78df96:

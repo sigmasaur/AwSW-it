@@ -304,7 +304,7 @@ translate italiantl _call_endingjustafewminuteslater_dc4c4166:
 translate italiantl _call_endingjustafewminuteslater_dfa04c88:
 
     # As "I'm going to send you back in time. We'll just try again, and maybe we'll do better next time."
-    As "Intendo mandarti indietro nel tempo. Proveremo ancora, e forse faremo meglio la prossima volta."
+    As "Intendo mandarti indietro nel tempo. Tenteremo ancora, e forse faremo meglio la prossima volta."
 
 # game/chapter5.rpy:691
 translate italiantl _call_endingjustafewminuteslater_50692fcd:

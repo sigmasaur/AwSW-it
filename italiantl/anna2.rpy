@@ -658,7 +658,7 @@ translate italiantl _call_skipcheck_32_0f389c98:
 translate italiantl _call_skipcheck_32_88e68a44:
 
     # An "That's just him. He gets way too into it once he sets his sights on something."
-    An "È solo fatto così. Si fa prendere anche troppo da una cosa, una volta che questa è nel suo mirino."
+    An "È solo fatto così. Si fa prendere fin troppo da una cosa, una volta che è nel suo mirino."
 
 # game/anna2.rpy:484
 translate italiantl _call_skipcheck_32_2789f598:
@@ -700,7 +700,7 @@ translate italiantl _call_skipcheck_32_b13f7b9a:
 translate italiantl _call_skipcheck_32_b9ffec12:
 
     # An "There was a serial killer who shook up the whole town. The victims were apparently eaten." # The second sentence is a reference to resident evil, were it also appears almost verbatim in the intro.
-    An "C'era un assassino seriale che sconvolgeva l'intera città. Sembrava che le vittime fossero divorate." # adapted the Italian subtitles to Resident Evil (1996)
+    An "C'era un assassino seriale che sconvolse tutta la città. Sembrava che le vittime fossero divorate." # adapted the Italian subtitles to Resident Evil (1996)
 
 # game/anna2.rpy:506
 translate italiantl _call_skipcheck_32_ccc7639e:
@@ -796,7 +796,7 @@ translate italiantl _call_skipcheck_32_1bbfbe7e:
 translate italiantl _call_skipcheck_32_e6fa05f2:
 
     # m "For a brief moment, Bryce thought he'd meet his end, when the jaws suddenly relaxed and he was able to dislodge them."
-    m "Per un breve istante, [Br] pensò di aver trovato la sua fine, quando all'improvviso le mascelle si allentarono e lui fu in grado di rimuoverle."
+    m "Per un breve istante, [Br] pensò di aver trovato la sua fine, quando all'improvviso le mascelle si allentarono e lui fu in grado di smuoverle."
 
 # game/anna2.rpy:584
 translate italiantl _call_skipcheck_32_1bf6af32:
@@ -1456,7 +1456,7 @@ translate italiantl _call_skipcheck_32_a3bd46da:
 translate italiantl _call_skipcheck_32_fbf46b19:
 
     # m "After a few seconds, the liquid burst into flame, heating up our dinner."
-    m "Dopo qualche secondo, il liquido divampò, riscaldando la nostra cena."
+    m "Dopo qualche secondo, il liquido divampò, riscaldando la nostra cena." # "into flameS"
 
 # game/anna2.rpy:999
 translate italiantl _call_skipcheck_32_cb199878:
@@ -1624,7 +1624,7 @@ translate italiantl _call_skipcheck_32_70b1634e:
 translate italiantl _call_skipcheck_32_d5413a53:
 
     # c "How would you feel if I just walked into your lab and took your stuff?"
-    c "Come ti sentiresti se m'introducessi nel tuo laboratorio e prendessi semplicemente la tua roba?"
+    c "Come ti sentiresti se entrassi nel tuo laboratorio e semplicemente prendessi la tua roba?"
 
 # game/anna2.rpy:1099
 translate italiantl _call_skipcheck_32_d0f92eae:
@@ -1942,7 +1942,7 @@ translate italiantl anna2else_83079b08:
 translate italiantl anna2else_670c9433:
 
     # An normal "I'll let you know the details. Or just call me, if I forget."
-    An normal "Ti farò sapere i dettagli. Oppure fammi uno squillo, se me ne dimentico." # must match line 1335, also see line 1286
+    An normal "Ti farò sapere i dettagli. Oppure fammi uno squillo, se me ne dimentico." # see line 1286, also must match line 1335
 
 # game/anna2.rpy:1339
 translate italiantl anna2else_c48dc32f:

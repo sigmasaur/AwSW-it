@@ -1252,7 +1252,7 @@ translate italiantl _call_skipcheck_18_74e6fa19:
 translate italiantl _call_skipcheck_18_04f2322a:
 
     # An face "And he doesn't. It's really been a disaster. He's basically become the laughingstock of the whole town."
-    An face "Cosa che lui non fa. È stato un vero disastro. In pratica è diventato lo zimbello dell'intera città."
+    An face "Cosa che lui non fa. È stato un vero disastro. In pratica è diventato lo zimbello di tutta la città."
 
 # game/anna4.rpy:679
 translate italiantl _call_skipcheck_18_3fc6b56d:
