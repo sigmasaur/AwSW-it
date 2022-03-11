@@ -22,7 +22,7 @@ translate italiantl chapter3_0adae58e:
 translate italiantl chapter3_f37eb593:
 
     # n "The peaceful landscape outside the apartment window stood in defiance of these old thoughts. Rolling hills and blue sky were familiar to me now, and the purity of the sight gave me hope."
-    n "Il sereno paesaggio fuori la finestra dell'appartamento perdurava in segno di sfida a questi vecchi pensieri. Le dolci colline e il cielo azzurro mi erano ormai familiari, e la purezza di quella vista m'infuse speranza." # "the sight" -> "that sight"
+    n "Il sereno paesaggio fuori la finestra dell'appartamento perdurava in segno di sfida a questi vecchi pensieri. Le dolci colline e il cielo azzurro mi erano ormai familiari, e la purezza di quella vista mi infuse speranza." # "the sight" -> "that sight"
 
 # game/chapter3.rpy:592
 translate italiantl chapter3_76b2fe88_2:
@@ -3100,7 +3100,7 @@ translate italiantl c3conty_addf7f80:
 translate italiantl c3conty_14c3ff17:
 
     # Br "No way. Things are too dire for the humans to take such an extraordinary risk, especially for that."
-    Br "Impossibile. La loro situazione è troppo disperata perché gli umani abbiano corso un rischio così straordinario, specie per quello."
+    Br "Lo escludo. La loro situazione è troppo disperata perché gli umani abbiano corso un rischio così straordinario, specie per quello."
 
 # game/chapter3.rpy:2196
 translate italiantl c3conty_cc8600ac:
@@ -3538,7 +3538,7 @@ translate italiantl c3sections_7fc7a351:
 translate italiantl c3sections_2095df67:
 
     # m "In the end, I decided to wait. Investigating was difficult work, yes, but I decided it would be safer to lay low and stay inside for now. I'd gathered enough information for today."
-    m "Alla fine, decisi di aspettare. Investigare era un lavoro difficile, vero, ma decisi che sarebbe stato più sicuro se me ne fossi rimastə in casa per il momento. Avevo raccolto abbastanza informazioni per quel giorno."
+    m "Alla fine, decisi di aspettare. Investigare era un lavoro difficile, vero, ma decisi che sarebbe stato più sicuro se me ne fossi rimastə in casa per il momento. Avevo raccolto abbastanza informazioni per il giorno."
 
 # game/chapter3.rpy:2517
 translate italiantl c3sections_003d8d2c:
@@ -4318,7 +4318,7 @@ translate italiantl c3fac_ce11ee18:
 translate italiantl c3fac_95383295:
 
     # An "Don't undersell yourself. How about you visit me some time? I have a genuine scientific interest in you."
-    An "Non sottovalutarti. Che ne dici di farmi visita qualche volta? Nutro un genuino interesse scientifico nei tuoi confronti."
+    An "Non sottovalutarti. Che ne dici di farmi visita qualche volta? Nutro un sincero interesse scientifico nei tuoi confronti."
 
 # game/chapter3.rpy:3004
 translate italiantl c3fac_ebbc42ad:
@@ -4786,7 +4786,7 @@ translate italiantl c3arc_06597fde:
 translate italiantl c3arc_6999f3b6:
 
     # Ka normal dk "Well, I must get going for now. Here is my number - I'll get you that ice cream some other time."
-    Ka normal dk "Be', per adesso devo andare. Ecco il mio numero—ti offrirò quel gelato una qualche altra volta." # corrected em-dash
+    Ka normal dk "Be', per adesso devo andare. Ecco il mio numero—ti offrirò quel gelato un'altra volta." # corrected em-dash
 
 # game/chapter3.rpy:3368
 translate italiantl c3arc_dd20ffbf:
@@ -5246,13 +5246,13 @@ translate italiantl c3sto_90c9ae06_2:
 translate italiantl c3sto_f1c349e2:
 
     # c "You know who I am?"
-    c "Sai chi sono?" # see line 1508 of chapter 2
+    c "Tu sai chi sono?" # see line 1508 of chapter 2
 
 # game/chapter3.rpy:3866
 translate italiantl c3sto_3d02bb5e:
 
     # St "How could I not? Everyone knows about you."
-    St "Come potrei non saperlo? Tutti quanti sanno di te." # see line 1510 of chapter 2
+    St "Come non saperlo? Tutti quanti sanno di te." # see line 1510 of chapter 2
 
 # game/chapter3.rpy:3869
 translate italiantl c3sto_1bec09e5:
@@ -5264,7 +5264,7 @@ translate italiantl c3sto_1bec09e5:
 translate italiantl c3sto_9d4723cf:
 
     # c "I'm here on behalf of the police, and I was hoping that you could answer a few questions."
-    c "Sono qui per conto della polizia, e speravo che potessi rispondere a qualche domanda."
+    c "Sono qui per conto della polizia, e speravo potessi rispondere a qualche domanda."
 
 # game/chapter3.rpy:3873
 translate italiantl c3sto_d534d27e:
@@ -5300,7 +5300,7 @@ translate italiantl c3sto_3d99ceef:
 translate italiantl c3sto_e6674300:
 
     # St "She comes here occasionally to pick up her mother's prescription."
-    St "Viene qui occasionalmente a ritirare le prescrizioni della madre." # see line 1533 of chapter 2
+    St "Viene qui di tanto in tanto a ritirare le prescrizioni della madre." # see line 1533 of chapter 2
 
 # game/chapter3.rpy:3914
 translate italiantl c3sto_bd179b8b:

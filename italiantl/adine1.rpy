@@ -52,13 +52,13 @@ translate italiantl adine1_796a7e39:
 translate italiantl adine1_7c3e6087:
 
     # Ad "I do remember your name, though. It was... [player_name], right?"
-    Ad "Però il tuo nome me lo ricordo. Era... [player_name], giusto?"
+    Ad "Il tuo nome me lo ricordo, però. Era... [player_name], giusto?"
 
 # game/adine1.rpy:80
 translate italiantl adine1_56d0beb3:
 
     # c "That's right."
-    c "È giusto."
+    c "Giusto." # "[that's] right"
 
 # game/adine1.rpy:83
 translate italiantl adine1_9d2d1212:
@@ -166,7 +166,7 @@ translate italiantl menadine_b01b710e:
 translate italiantl menadine_68d0fcf9:
 
     # Ad "Come on, don't make me fly in the rain like this. Please?"
-    Ad "Avanti, non farmi volare così, con questa pioggia. Ti prego?"
+    Ad "Andiamo, non farmi volare così, con questa pioggia. Ti prego?"
 
 # game/adine1.rpy:188
 translate italiantl _call_skiptut_10_0ff5f677:

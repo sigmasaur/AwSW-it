@@ -340,7 +340,7 @@ translate italiantl _call_skipcheck_17_b7bf63e4:
 translate italiantl _call_skipcheck_17_982e2ece:
 
     # n "With all I had done for them, they knew better than to take away my license, and I was able to continue work in other areas, under the condition that it was within a council-owned facility."
-    n "Con tutto ciò che avevo fatto per loro, ebbero il buon senso di non togliermi la licenza, e io fui in grado di continuare il lavoro in altri settori, sotto la condizione che fosse entro una struttura di proprietà del consiglio."
+    n "Con tutto quello che avevo fatto per loro, ebbero il buon senso di non togliermi la licenza, e io fui in grado di continuare il lavoro in altri settori, sotto la condizione che fosse entro una struttura di proprietà del consiglio."
 
 # game/anna4.rpy:249
 translate italiantl _call_skipcheck_17_76b2fe88_6:
@@ -838,7 +838,7 @@ translate italiantl a4otherwise_a95bb18d:
 translate italiantl a4otherwise_6d9b9a7e:
 
     # An "You know, after that whole affair back then and the suspended sentence, the rumors about me never stopped. Did they warn you about me? Tell you to stay away? I'm sure they have."
-    An "Lo sai, dopo tutta quella vicenda di allora e la sospensione della sentenza, le voci su di me non sono mai smesse. Ti hanno messo in guardia da me? Ti hanno detto di starmi lontano? Sono certa che l'hanno fatto." # "stay away FROM ME"
+    An "Lo sai, dopo tutta quella vicenda di allora e la sospensione della sentenza, le voci su di me non sono mai smesse. Ti hanno messo in guardia su di me? Ti hanno detto di starmi lontano? Sono certa che l'hanno fatto." # "stay away FROM ME"
 
 # game/anna4.rpy:470
 translate italiantl a4otherwise_6bb3777a:

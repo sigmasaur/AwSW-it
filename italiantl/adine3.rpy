@@ -688,7 +688,7 @@ translate italiantl _call_skipcheck_9_86148265:
 translate italiantl _call_skipcheck_9_bc753f21:
 
     # m "I waded a few steps into the water to retrieve the stone she'd thrown only moments ago."
-    m "Feci qualche passo a guado per recuperare la pietra che aveva tirato solo un attimo prima."
+    m "Feci qualche passo a guado per recuperare la pietra che aveva tirato solo qualche attimo prima."
 
 # game/adine3.rpy:399
 translate italiantl _call_skipcheck_9_7cdc3eb6:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_9_721f7122:
 translate italiantl _call_skipcheck_9_7b02922e:
 
     # m "Effortlessly, she pulled her leg back before rapidly moving it forward and releasing the stone."
-    m "Disinvoltamente, tirò indietro la zampa prima di muoverla rapidamente in avanti e lasciare la presa sulla pietra."
+    m "Con disinvoltura, tirò indietro la zampa prima di muoverla rapidamente in avanti e lasciare la presa sulla pietra."
 
 # game/adine3.rpy:411
 translate italiantl _call_skipcheck_9_c21e6d59:
@@ -1294,7 +1294,7 @@ translate italiantl _call_skipcheck_9_69bcc6a9:
 translate italiantl _call_skipcheck_9_60fa77b7:
 
     # c "I'll just leave them here. No point in doing anything with them."
-    c "Le lascerò solo qui. Non ha alcun senso farci niente."
+    c "Le lascerò solo qui. Non avrebbe senso farci niente."
 
 # game/adine3.rpy:697
 translate italiantl _call_skipcheck_9_ebb12d36:
@@ -1564,7 +1564,7 @@ translate italiantl _call_syscheck_45_78ea5755:
 translate italiantl _call_syscheck_45_94e2bf27:
 
     # Ad "Now this is peculiar. I feel like I've heard the word hawk before, but I'm not sure what it means." # stormhawk was another contest winner from our naming contest
-    Ad "Questo sì che è peculiare. Ho l'impressione di aver già sentito la parola {i}hawk{/i} prima d'ora, ma non sono certa del significato."
+    Ad "Questo sì che è bizzarro. Ho l'impressione di aver già sentito la parola {i}hawk{/i} prima d'ora, ma non sono certa del significato."
 
 # game/adine3.rpy:885
 translate italiantl _call_syscheck_45_facae0d5:
@@ -1702,7 +1702,7 @@ translate italiantl mpsave_0da14851:
 translate italiantl mpsave_6f2269c3:
 
     # m "Effortlessly, she took to the skies, circling around the area a few times before she started to do a few maneuvers."
-    m "Disinvoltamente, si levò nei cieli, girando nei paraggi alcune volte prima di iniziare a fare alcune manovre."
+    m "Con disinvoltura, si levò nei cieli, girando nei paraggi alcune volte prima di iniziare a fare alcune manovre."
 
 # game/adine3.rpy:1007
 translate italiantl mpsave_3bd96cc8:

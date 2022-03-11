@@ -322,7 +322,7 @@ translate italiantl _call_endingjustafewminuteslater_1_b783d092:
 translate italiantl _call_endingjustafewminuteslater_1_3305fa38:
 
     # m "He was knocked to the ground and Maverick embedded his teeth into the body before him."
-    m "Fu sbattuto a terra e [Mv] immerse i suoi denti nel corpo che gli stava di fronte."
+    m "Fu sbattuto a terra e [Mv] immerse i suoi denti nel corpo che gli era davanti."
 
 # game/anna5.rpy:246
 translate italiantl _call_endingjustafewminuteslater_1_b5f736a1:
@@ -448,7 +448,7 @@ translate italiantl _call_endingjustafewminuteslater_1_d52184df:
 translate italiantl _call_endingjustafewminuteslater_1_3ecc4bad:
 
     # m "I looked around the room. The fire had stopped and it had become eerily quiet as I checked on the others."
-    m "Guardai attorno a me. Il fuoco si era fermato e uno strano silenzio era sceso mentre controllavo gli altri." # "I looked around [the room]"
+    m "Guardai attorno a me. Si era fermato il fuoco, e un silenzio sinistro era calato mentre controllavo gli altri." # "I looked around [the room]"
 
 # game/anna5.rpy:369
 translate italiantl _call_endingjustafewminuteslater_1_450b2c02:
@@ -652,7 +652,7 @@ translate italiantl _call_endingjustafewminuteslater_1_bc62d587:
 translate italiantl _call_endingjustafewminuteslater_1_2f3bd6e1:
 
     # m "When it parted to reveal Reza's gun, I quickly grabbed it and pointed it out of the way before Izumi pulled the trigger."
-    m "Quando questa si dischiuse a rivelare la pistola di [Rz], l'afferrai in fretta e la rivolsi altrove prima che [Iz] premesse il grilletto." # "when it parted" -> "when this parted"
+    m "Quando questa si dischiuse a rivelare la pistola di [Rz], l'afferrai in fretta e la puntai da parte prima che [Iz] premesse il grilletto." # "when it parted" -> "when this parted"
 
 # game/anna5.rpy:500
 translate italiantl _call_endingjustafewminuteslater_1_8eacf2a2:

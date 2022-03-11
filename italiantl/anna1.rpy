@@ -436,7 +436,7 @@ translate italiantl _call_skipcheck_7_76b2fe88:
 translate italiantl _call_skipcheck_7_a1018474:
 
     # n "Whatever the reason, I decided not to join her in her glorious quest for coffee."
-    n "A prescindere dalle ragioni, decisi di non unirmi a lei nella sua gloriosa avventura alla ricerca del caffè."
+    n "Quali che fossero le ragioni, decisi di non unirmi a lei nella sua gloriosa avventura alla ricerca del caffè."
 
 # game/anna1.rpy:363
 translate italiantl _call_skipcheck_7_3a948282:
@@ -1024,7 +1024,7 @@ translate italiantl _call_skipcheck_7_89cbbcd7:
 translate italiantl _call_skipcheck_7_8fb95eeb:
 
     # c "It seems to be pretty simple. We take turns drawing cards and asking questions until we've both asked a number that we agree on beforehand. Whoever gets more right in the end wins."
-    c "Sembra piuttosto semplice. A turno peschiamo le carte e poniamo domande finché non ne abbiamo poste entrambɜ un numero su cui prima ci siamo accordatɜ. Chiunque ne abbia azzeccate di più alla fine vince."
+    c "Sembra piuttosto semplice. A turno peschiamo le carte e poniamo domande finché non ne abbiamo poste entrambɜ un numero su cui prima ci siamo accordatɜ. Chi ne azzecca di più alla fine vince."
 
 # game/anna1.rpy:777
 translate italiantl _call_skipcheck_7_292b41ad:
@@ -1054,7 +1054,7 @@ translate italiantl _call_skipcheck_7_4137e81a:
 translate italiantl _call_skipcheck_7_3a429c00:
 
     # m "I saw mischief in her eyes, her stare piercing, paired with the hint of an arrogant smirk that exposed her anticipation. She seemed confident that she would win and loved every second of it."
-    m "Intravidi della malizia nei suoi occhi, il suo sguardo penetrante, e nel suo sorrisetto un accenno di arroganza che manifestava la sua trepidazione. Sembrava fiduciosa che avrebbe vinto, e le piaceva anche un sacco." # "paired with" -> "as well as"
+    m "Intravidi della malizia nei suoi occhi, il suo sguardo penetrante, e nel suo sorrisetto un accenno di arroganza che tradiva la sua trepidazione. Sembrava fiduciosa che avrebbe vinto, e le piaceva anche un sacco." # "paired with" -> "as well as"
 
 # game/anna1.rpy:785
 translate italiantl _call_skipcheck_7_3c8056a2:
@@ -1072,7 +1072,7 @@ translate italiantl _call_skipcheck_7_8dd493bd:
 translate italiantl _call_skipcheck_7_2fa2fb8c:
 
     # An "How could you even know something like that? You have only been here for what, a few days?"
-    An "Si può sapere come facevi a sapere una cosa del genere? Sei statə qui solo per quanto, qualche giorno?"
+    An "Ma come facevi a sapere una cosa del genere? Sei statə qui solo per quanto, qualche giorno?"
 
 # game/anna1.rpy:814
 translate italiantl _call_skipcheck_7_900ba916:
@@ -1510,7 +1510,7 @@ translate italiantl anna1skip_e0c94576:
 translate italiantl anna1skip_65d81ac2:
 
     # c "So, when should I come in for the tests?"
-    c "Dunque, quando dovresti ricevermi per gli esami?"
+    c "Allora, quando dovresti ricevermi per gli esami?"
 
 # game/anna1.rpy:1132
 translate italiantl anna1skip_ee815ce8:

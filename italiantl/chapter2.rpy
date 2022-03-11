@@ -88,7 +88,7 @@ translate italiantl _call_skipcheck_11_452be1a7:
 translate italiantl _call_skipcheck_11_69767191:
 
     # Br "We've got some work ahead of us, but before we get to that, I've got to ask you a question."
-    Br "Abbiamo del lavoro che ci attende, ma prima di venire a quello, ho bisogno di farti una domanda."
+    Br "Abbiamo del lavoro che ci attende, ma prima di venire a quello, ti devo chiedere una cosa."
 
 # game/chapter2.rpy:319
 translate italiantl _call_skipcheck_11_287666fc:
@@ -610,7 +610,7 @@ translate italiantl _call_skipcheck_11_6478ffe8:
 translate italiantl _call_skipcheck_11_9aecf486:
 
     # Br "How could I not? It wasn't that long ago."
-    Br "Come potrei non ricordare? Non è stato poi così tanto tempo fa."
+    Br "Come non ricordare? Non è stato poi così tanto tempo fa."
 
 # game/chapter2.rpy:671
 translate italiantl _call_skipcheck_11_3d297083:
@@ -979,7 +979,7 @@ translate italiantl _call_skipcheck_11_ad212339:
 translate italiantl _call_skipcheck_11_7581cdd5:
 
     # Br stern b "Right. Who else would need to steal a generator, when those who live here could either buy or even simply request one? Not to mention, Reza was the one who arranged the diplomatic trade for the generators in the first place."
-    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato [Rz] a organizzare sin dall'inizio lo scambio diplomatico per i generatori."
+    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato [Rz] a organizzare sin dall'inizio lo scambio diplomatico per i generatori." # see line 965
 
 # game/chapter2.rpy:981
 translate italiantl _call_skipcheck_11_2c4cde19:
@@ -1287,7 +1287,7 @@ translate italiantl chapter2sections_d507e048:
 translate italiantl chapter2sections_008d9b72:
 
     # m "I decided I had done enough for today and went to my apartment to relax for a few hours until the afternoon sun hung low in the sky and I decided it was time to report my findings to the police. A brief call to the department, and I was on my way to an appointment with Sebastian."
-    m "Decisi che avevo fatto abbastanza per quel giorno e me ne andai al mio appartamento a rilassarmi per qualche ora finché il sole pomeridiano non fu basso nel cielo e decisi che era tempo di riferire le mie scoperte alla polizia. Una breve telefonata al dipartimento, ed ero in cammino per un appuntamento con [Sb]."
+    m "Decisi che avevo fatto abbastanza per il giorno e me ne andai al mio appartamento a rilassarmi per qualche ora finché il sole pomeridiano non fu basso nel cielo e decisi che era tempo di riferire le mie scoperte alla polizia. Una breve chiamata al dipartimento, ed ero in cammino per un appuntamento con [Sb]."
 
 # game/chapter2.rpy:1278
 translate italiantl chap2store_6edff375:
@@ -1701,7 +1701,7 @@ translate italiantl chap2store_f1c349e2:
 translate italiantl chap2store_3d02bb5e:
 
     # St "How could I not? Everyone knows about you."
-    St "Come potrei non saperlo? Tutti quanti sanno di te."
+    St "Come non saperlo? Tutti quanti sanno di te."
 
 # game/chapter2.rpy:1512
 translate italiantl chap2store_fcf96ee5:
@@ -1719,7 +1719,7 @@ translate italiantl chap2storeques_5ddb112c:
 translate italiantl chap2storeques_e6674300:
 
     # St "She comes here occasionally to pick up her mother's prescription."
-    St "Viene qui occasionalmente a ritirare le prescrizioni della madre."
+    St "Viene qui di tanto in tanto a ritirare le prescrizioni della madre."
 
 # game/chapter2.rpy:1543
 translate italiantl chap2storeques_d4c9ba55:
@@ -2967,7 +2967,7 @@ translate italiantl chap2hatch_801e03ea:
 translate italiantl chap2hatch_f069ccf1:
 
     # m "As I looked into the pitch black center of the orb, I felt strangely drawn to it, its low hum beckoning me to come closer."
-    m "Mentre guardavo nel centro nero come la pece dell'orbe, me ne sentii stranamente attrattə, il suo ronzio sommesso che m'invitava a venire più vicino."
+    m "Mentre guardavo nel centro nero come la pece dell'orbe, me ne sentii stranamente attrattə, il suo ronzio sommesso che mi invitava a venire più vicino."
 
 # game/chapter2.rpy:2763
 translate italiantl chap2hatch_46abce11:
@@ -3075,7 +3075,7 @@ translate italiantl chap2leverresult_d8a6bb28:
 translate italiantl chap2park3_a4ddaedf:
 
     # m "Just as I entered the southern part of the park, I found myself tumbling to the ground when someone suddenly bumped into me."
-    m "Non appena fui entratə nella parte meridionale del parco, mi ritrovai ruzzolante al suolo quando qualcuno all'improvviso mi sbattè contro."
+    m "Come fui entratə nella parte meridionale del parco, mi ritrovai ruzzolante al suolo quando qualcuno all'improvviso mi sbattè contro."
 
 # game/chapter2.rpy:3124
 translate italiantl chap2park3_e37926fe:
@@ -3435,7 +3435,7 @@ translate italiantl chap2emselection_59e810c4:
 translate italiantl chap2cont_eadb43d8:
 
     # m "The afternoon sun hung low in the sky, and I decided it was time to report my findings to the police. A brief call to the department, and I was on my way to an appointment with Sebastian."
-    m "Il sole pomeridiano era ormai basso nel cielo, e decisi che era tempo di riferire le mie scoperte alla polizia. Una breve telefonata al dipartimento, ed ero in cammino per un appuntamento con [Sb]." # see line 1251
+    m "Il sole pomeridiano era ormai basso nel cielo, e decisi che era tempo di riferire le mie scoperte alla polizia. Una breve chiamata al dipartimento, ed ero in cammino per un appuntamento con [Sb]." # see line 1251
 
 # game/chapter2.rpy:3416
 translate italiantl _call_skiptut_12_4d25d249:
@@ -3675,13 +3675,13 @@ translate italiantl _call_skipcheck_12_072a50de:
 translate italiantl _call_skipcheck_12_c67f62de:
 
     # n "I wasn't even sure if it was worth mentioning to the police, since all he did was make vague accusations. It wasn't anything substantial enough to be considered a threat."
-    n "Non ero nemmeno sicurə che valesse la pena menzionarlo alla polizia, dal momento che non aveva fatto altro che lanciare vaghe accuse. Niente di così sostanziale da considerarsi una minaccia." # "it wasn't anything" -> "nothing"
+    n "Non ero nemmeno sicurə che valesse la pena di menzionarlo alla polizia, dal momento che non aveva fatto altro che lanciare vaghe accuse. Niente di così sostanziale da considerarsi una minaccia." # "it wasn't anything" -> "nothing"
 
 # game/chapter2.rpy:3603
 translate italiantl _call_skipcheck_12_9457078a:
 
     # n "However, his actions were growing more calculated, and he seemed very sure of himself. I wondered about what this could amount to..."
-    n "Tuttavia, le sue azioni si stavano facendo più calcolate, e lui sembrava essere molto sicuro di sé. Mi domandai cos'avrebbe potuto significare..."
+    n "Tuttavia, le sue azioni si facevano più calcolate, e lui sembrava essere molto sicuro di sé. Mi domandai cos'avrebbe potuto significare..."
 
 # game/chapter2.rpy:3605
 translate italiantl _call_skipcheck_12_75b736c5:

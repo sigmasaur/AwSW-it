@@ -76,13 +76,13 @@ translate italiantl evilending_bfb60130:
 translate italiantl evilending_32568256:
 
     # m "Having distracted him by letting him hold the box, I already had my finger on the trigger of my own gun - or rather, a copy of Reza's gun."
-    m "Avendolo distratto lasciandogli tenere la scatola, avevo già il dito sul grilletto della mia pistola—o piuttosto, una copia della pistola di [Rz]." # corrected em-dash
+    m "Avendolo distratto lasciandogli tenere la scatola, io avevo già il dito sul grilletto della mia pistola—o piuttosto, una copia della pistola di [Rz]." # corrected em-dash
 
 # game/chapter5evilending.rpy:35
 translate italiantl evilending_36ce8cdb:
 
     # m "I had acquired it in a previous attempt. I wasn't sure how long ago that was, but I vaguely remembered taking it from Reza's corpse after he had tried to kill me one time."
-    m "Me l'ero procurata in un tentativo precedente. Non ero sicurə a quando risalisse, ma ricordavo vagamente di averla presa dal corpo di [Rz] dopo che una volta egli aveva tentato di uccidermi."
+    m "Me l'ero procurata in un tentativo precedente. Non ero sicurə a quando risalisse, ma ricordavo vagamente di averla presa dal corpo di [Rz] dopo che una volta aveva tentato di uccidermi."
 
 # game/chapter5evilending.rpy:45
 translate italiantl evilending_b72c2187:
@@ -208,7 +208,7 @@ translate italiantl evilending_d642e0de:
 translate italiantl evilending_cc81ed0c:
 
     # Rz "I could've ditched you and left you behind, but I trusted you."
-    Rz "Avrei potuto scaricarti e lasciarti indietro, ma mi sono fidato di te."
+    Rz "Avrei potuto scaricarti e abbandonarti, ma mi sono fidato di te."
 
 # game/chapter5evilending.rpy:87
 translate italiantl evilending_b69213ba:
@@ -226,7 +226,7 @@ translate italiantl evilending_d1ace9ca:
 translate italiantl evilending_82b931ec:
 
     # Rz "It doesn't have to. I'd rather die trying to do what is right than sit around, living my life doing nothing and watching our world go down in ashes."
-    Rz "Non ce n'è bisogno. Preferisco morire tentando di fare ciò che è giusto piuttosto che passare la vita a far niente, restandomene a guardare il nostro mondo ridursi in cenere." # "it doesn't have to" -> "it doesn't need to", "sit around, living my life doing nothing and watching" -> "live my life doing nothing, sitting around and watching"
+    Rz "Non ce n'è bisogno. Preferisco morire tentando di fare ciò che è giusto piuttosto che passare la vita a far niente, restando a guardare il nostro mondo ridursi in cenere." # "it doesn't have to" -> "it doesn't need to", "sit around, living my life doing nothing and watching" -> "live my life doing nothing, sitting around and watching"
 
 # game/chapter5evilending.rpy:95
 translate italiantl evilending_e15c9673:
@@ -568,7 +568,7 @@ translate italiantl no_8d884cfd:
 translate italiantl no_5f502c59:
 
     # Rz annoyed "Even if that creep hadn't shown up and interrupted our meeting, we wouldn't have had the time for them to make the generators for us."
-    Rz annoyed "Se anche quella serpe non si fosse mai presentata a interrompere il nostro incontro, non avremmo avuto il tempo perché costruissero i generatori per noi."
+    Rz annoyed "Se anche quella serpe non si fosse presentato a interrompere il nostro incontro, non avremmo avuto il tempo perché costruissero i generatori per noi."
 
 # game/chapter5evilending.rpy:521
 translate italiantl no_9a168e38:
@@ -856,7 +856,7 @@ translate italiantl no_1eb71afe:
 translate italiantl no_2d79312c:
 
     # Rz angry "And you call yourself an ambassador? This generator is the only thing we need for our city to survive. How can you even argue about this?"
-    Rz angry "E tu ti definisci un ambasciatorə? Questo generatore è la sola cosa di cui abbiamo bisogno perché la nostra città sopravviva. Come puoi anche solo volerne discutere?" # "even WANT TO argue"
+    Rz angry "E tu ti definisci un ambasciatorə? Questo generatore è la sola cosa di cui abbiamo bisogno perché la nostra città sopravviva. Come puoi anche solo metterlo in dubbio?"
 
 # game/chapter5evilending.rpy:620
 translate italiantl no_4d5c609b:

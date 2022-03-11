@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_23_19f1eadc:
 translate italiantl _call_skipcheck_23_c029577a:
 
     # Ad normal b "Well, according to this article, that means you're a really creative person."
-    Ad normal b "Be', secondo questo articolo, ciò vuol dire che sei una persona davvero creativa."
+    Ad normal b "Be', secondo l'articolo, questo vuol dire che sei una persona davvero creativa." # "this article" -> "the article"
 
 # game/adine2.rpy:427
 translate italiantl _call_skipcheck_23_4e50fccb:
@@ -706,7 +706,7 @@ translate italiantl _call_skipcheck_23_a688d1d5:
 translate italiantl _call_skipcheck_23_37243f64:
 
     # Ad giggle b "Is that so?"
-    Ad giggle b "È così?"
+    Ad giggle b "Ah, è così?"
 
 # game/adine2.rpy:591
 translate italiantl _call_skipcheck_23_d48bec38:
@@ -1672,7 +1672,7 @@ translate italiantl adine2skip_0395e0a6:
 translate italiantl adine2skip_e2af3c5d:
 
     # Ad "See? I think if you put your word in, we could easily make it happen."
-    Ad "Vedi? Penso che se ci metterai una buona parola, potremmo facilmente far sì che accada."
+    Ad "Vedi? Penso che se ci metterai una buona parola, potremmo tranquillamente far sì che accada."
 
 # game/adine2.rpy:1189
 translate italiantl adine2skip_ac60032b:
@@ -2060,7 +2060,7 @@ translate italiantl strings:
 
     # adine2.rpy:623
     old "Chocolate cream cake."
-    new "Torta crema e cioccolato."
+    new "Torta al cioccolato."
 
     # adine2.rpy:623
     old "Lemon ice cream with sprinkles."

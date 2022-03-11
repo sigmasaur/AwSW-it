@@ -1574,7 +1574,7 @@ translate italiantl _call_skipcheck_106cdec3:
 translate italiantl _call_skipcheck_f282a91e:
 
     # Ry "I would've warned you about her, but I think you know what you're doing."
-    Ry "Ti avrei messo in guardia da lei, ma credo tu sappia quello che fai."
+    Ry "Ti avrei messo in guardia su di lei, ma credo tu sappia quello che fai."
 
 # game/anna3.rpy:1039
 translate italiantl _call_skipcheck_3e831290:
@@ -2303,7 +2303,7 @@ translate italiantl anna3skip_92b380c3:
 translate italiantl anna3skip_0f66dc95:
 
     # An "Mmm-hmm."
-    An "Mmm-hmm. "
+    An "Mm-hmm."
 
 # game/anna3.rpy:1480
 translate italiantl anna3skip_185391c1:
@@ -2345,7 +2345,7 @@ translate italiantl anna3skip_92b380c3_1:
 translate italiantl anna3skip_0f66dc95_1:
 
     # An "Mmm-hmm."
-    An "Mmm-hmm." # see line 1447
+    An "Mm-hmm." # see line 1447
 
 translate italiantl strings:
 

@@ -934,7 +934,7 @@ translate italiantl c4skip1_d5028011:
 translate italiantl c4skip1_847fed5d:
 
     # Mv angry flip "Then why do you blame me for suspecting you?"
-    Mv angry flip "Allora perché mi fai una colpa del fatto che sospetto di te?"
+    Mv angry flip "Allora come puoi biasimarmi se sospetto di te?" # "why do" -> "how can"
 
 # game/chapter4.rpy:1082
 translate italiantl c4skip1_ed09eaca:
@@ -1717,7 +1717,7 @@ translate italiantl c4intuition_70b1faa0:
 translate italiantl c4intuition_682a674b:
 
     # Br brow b "Strange for him to leave everything behind, though. Everything he's stolen, all the generators are still here."
-    Br brow b "Strano da parte sua lasciarsi tutto quanto dietro, però. Tutto ciò che ha rubato, tutti i generatori sono ancora qui."
+    Br brow b "Strano da parte sua lasciarsi dietro ogni cosa, però. Tutto ciò che ha rubato, tutti i generatori sono ancora qui."
 
 # game/chapter4.rpy:1800
 translate italiantl c4intuition_48e7380f:

@@ -32,6 +32,8 @@ Currently working on `Bryce`'s sections. Files done and up for review:
     anna4.rpy
     anna5.rpy
 
+    bryce1.rpy
+
 A few remarks:
 
 * Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.<br>On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change. Also, `Emera` is addressed by all other characters with formal pronouns, as well as `Anna` by `Adine`, `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few circumstances.
@@ -107,6 +109,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware that the intended gender agreement is syntactic, as semantic agreement of *that* \[<i>quell-</i>\] with the player character would have been rendered with the inclusive gender instead \[<i>-ə</i>\].)
 * At line 1036, 1148, 3771: Slightly pruned to fit fewer lines.
 * At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of [`chapter1.rpy`](#chapter1rpy).
+* At line 1420-1438: Note that these lines also trigger if the user left at lines 75, 142 of [`bryce1.rpy`](#bryce1rpy), thus having never encountered `Zhong` at the bar.
 * At line 1607: Added brackets to match line 2301 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1623: *melon bread* → *melon-flavored bread*, to preserve the pun by linguistic necessity.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
@@ -131,6 +134,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 3098: Slightly pruned to fit fewer lines.
 * At line 3639: *pockets* → *pocket*, to match line 2312.
 * At line 3751: Adapted to preserve a pun; reverse translation: *I'm stunned.*
+* At line 3862-3866: Note that these lines also trigger if `Zhong` was already encountered in [`bryce1.rpy`](#bryce1rpy), where he addresses the player character by name. The user is then prompted to ask `Zhong` about him knowing the player character, resulting in the two speaking the same dialogue. Currently, the only affected sequences are where the user leaves at lines 694, 1176 of [`bryce1.rpy`](#bryce1rpy) or plays through, and doesn't interrogate `Zhong` in [`chapter2.rpy`](#chapter2rpy).
 * At line 4046-4064: Note that the larger, orange dragon should be a female, as mentioned by `Zhong` at line 3907; the current translation doesn't use this information, nonetheless.
 
 ### [`chapter4.rpy`](italiantl/chapter4.rpy)
@@ -138,7 +142,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 762, 922, 4375, 4382: Corrected uppercase letter to lowercase after colon.
 * At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash to em-dash.
 * At line 1094: Used if-statement to distinguish whether `Anna` survives or not, and corrected present tenses to simple past in the latter case.
-* At line 1368-1736: The following is a simplified flow chart to help keeping track of which section spoken by the system refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** are persistent variables starting resp. from `0`, `FALSE`. Note that **`CHEAT`** may jump from `0` to `2` but may never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
+* At line 1368-1736: The following is a simplified flow chart to help keeping track of which dialogue spoken by the system refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** are persistent pseudo-variables starting resp. from `0`, `FALSE`. Note that **`CHEAT`** may jump from `0` to `2` but never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
   * At line 1676-1736: Note that these lines also trigger if `Bryce` has been saved at least once after dying, then just died again and the user tries to cheat for the *first* time, resulting in a possibly unintended behavior (see e.g. line 1696).
 * At line 1708: Slightly pruned to fit fewer lines.
 * At line 1812: Note that in theory, dragons don't know what a car is.
@@ -208,6 +212,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 627, 665: Unfolded *TV* → *television*, for elegance.
 * At line 651: Corrected simple dash to em-dash.
 * At line 863: Rendered *child*(*ren*) as *cub*(*s*).
+* At line 877: Rendered *leg* as *paw*.
 * At line 907: *inches* → *centimeters*; see line 2144 of [`chapter4.rpy`](#chapter4rpy).
 
 ### [`adine5.rpy`](italiantl/adine5.rpy)
@@ -273,6 +278,16 @@ The following are mostly to the benefit of the developer and translators.
 * At line 341, 343, 435, 710, 859: Corrected simple dash to em-dash.
 * At line 415: Corrected uppercase letter to lowercase after colon.
 * At line 439: Slightly pruned to fit fewer lines.
+* At line 742: Rendered *leg* as *paw*.
+
+### [`bryce1.rpy`](italiantl/bryce1.rpy)
+
+* At line 44: Corrected simple dash to em-dash.
+* At line 57: Corrected lowercase first letter to uppercase.
+* At line 311: Note that this line also prompts if the user interrogated `Zhong` in [`chapter2.rpy`](#chapter2rpy) or [`chapter3.rpy`](#chapter3rpy), resulting in him and the player character speaking the same dialogue.
+* At line 352: Assumed *you* is referred to the police department.
+* At line 353: Corrected uppercase letter to lowercase after colon.
+* At line 939-1259: Slightly relaxed the use of subjunctive forms in the dialogue spoken by `Bryce` and the player character, to match their altered state.
 
 ## Other remarks
 

@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_30_0da14851:
 translate italiantl _call_skipcheck_30_977d9843:
 
     # m "She spread both of her wings, beating them a few times. I couldn't help noticing that the previously bandaged wing was sagging noticeably compared to its counterpart, as if it were misaligned."
-    m "Dispiegò entrambe le ali, sbattendole alcune volte. Non potei fare a meno di notare che l'ala in precedenza fasciata ricadeva notevolmente rispetto alla sua controparte, come se non fossero bene in linea." # "it were misaligned" -> "they were misaligned"
+    m "Dispiegò entrambe le ali, sbattendole alcune volte. Non potei fare a meno di notare che l'ala in precedenza fasciata ricadeva visibilmente rispetto alla sua controparte, come se non fossero bene in linea." # "it were misaligned" -> "they were misaligned"
 
 # game/adine4.rpy:273
 translate italiantl _call_skipcheck_30_a1b5b231:
@@ -454,7 +454,7 @@ translate italiantl _call_skipcheck_30_b17e7bef:
 translate italiantl _call_skipcheck_30_e83a0228:
 
     # c "I can see you're straining without the bandage."
-    c "Posso vedere che stai facendo uno sforzo senza la fasciatura."
+    c "Lo vedo che fai fatica senza la fasciatura."
 
 # game/adine4.rpy:281
 translate italiantl _call_skipcheck_30_2aec46a2:
@@ -532,7 +532,7 @@ translate italiantl _call_skipcheck_30_e8097404:
 translate italiantl _call_skipcheck_30_c2e2f46d:
 
     # c "If it's not good enough, maybe they won't invite you again next year. If you fly now, they won't accept any excuses. But if you tell them you're injured, they might let you fly another time."
-    c "Se non è abbastanza buona, forse non ti inviteranno di nuovo l'anno prossimo. Se adesso voli, non accetteranno scuse. Ma se gli dici che sei infortunata, potrebbero lasciarti volare un'altra volta."
+    c "Se non sarà abbastanza buona, forse non ti inviteranno di nuovo l'anno prossimo. Se adesso voli, non accetteranno scuse. Ma se gli dici che sei infortunata, potrebbero lasciarti volare un'altra volta."
 
 # game/adine4.rpy:307
 translate italiantl _call_skipcheck_30_0b775fd0:
@@ -550,7 +550,7 @@ translate italiantl _call_skipcheck_30_18130646:
 translate italiantl _call_skipcheck_30_d7634421:
 
     # Ad annoyed b b "You think I don't know that? That I'm not already worrying about this more than I ever have for anything else? I just don't want to make excuses anymore."
-    Ad annoyed b b "Credi che non lo sappia? Che non mi stia già preoccupando per questo più di quanto non l'abbia mai fatto per nient'altro? È solo che non voglio più trovare scuse."
+    Ad annoyed b b "Credi che non lo sappia? Che non mi stia già preoccupando per questo più di quanto non abbia mai fatto per nient'altro? È solo che non voglio più trovare scuse."
 
 # game/adine4.rpy:313
 translate italiantl _call_skipcheck_30_09924f41:
@@ -652,7 +652,7 @@ translate italiantl _call_skipcheck_30_4871e671:
 translate italiantl _call_skipcheck_30_adcd1b0c:
 
     # m "An awkward silence set in as the audience's applause stopped and everyone sat anxiously, waiting for her to show up."
-    m "Si diffuse un silenzio imbarazzato mentre gli applausi del pubblico si fermavano e tutti quanti sedevano ansiosi, in attesa che lei si presentasse."
+    m "Calò un silenzio imbarazzato mentre gli applausi del pubblico si fermavano e tutti quanti sedevano ansiosi, in attesa che lei si presentasse."
 
 # game/adine4.rpy:349
 translate italiantl _call_skipcheck_30_0ceecfbd:
@@ -946,7 +946,7 @@ translate italiantl _call_skipcheck_30_89aefe22_1:
 translate italiantl _call_skipcheck_30_970a8d3a:
 
     # c "Can I ask you a question?"
-    c "Posso farti una domanda?"
+    c "Posso chiederti una cosa?"
 
 # game/adine4.rpy:475
 translate italiantl _call_skipcheck_30_b537b091:
@@ -1780,7 +1780,7 @@ translate italiantl a4shower_f44013ec:
 translate italiantl a4shower_3c8b0420:
 
     # m "Eventually, I reached her lower back, and while I was washing a particular spot on her left side, I could see her leg twitching slightly."
-    m "Alla fine, raggiunsi i suoi lombi, e mentre lavavo un punto in particolare del suo fianco sinistro, potei scorgere la sua coda sussultare leggermente."
+    m "Alla fine, raggiunsi i suoi lombi, e mentre lavavo un punto in particolare del suo fianco sinistro, potei scorgere la sua zampa sussultare leggermente."
 
 # game/adine4.rpy:879
 translate italiantl a4shower_b6f9c6cd:
@@ -1906,7 +1906,7 @@ translate italiantl a4shower_9cc4f7b6:
 translate italiantl a4shower_c6dc6aa9:
 
     # m "Suddenly, her expression changed as she looked over her shoulder."
-    m "All'improvviso, la sua espressione cambiò e lei si guardò alle spalle."
+    m "All'improvviso, la sua espressione cambiò nel guardarsi alle spalle."
 
 # game/adine4.rpy:941
 translate italiantl a4shower_2e207f3f:

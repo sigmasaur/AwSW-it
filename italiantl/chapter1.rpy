@@ -432,7 +432,7 @@ translate italiantl begingame_01f41d60:
 translate italiantl begingame_29ac0db6:
 
     # n "When the time came for me to step through the portal, all my mental preparedness vanished. My anxiousness was fueled by all the questions lurking in my head, just as the machine started to do its work."
-    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale svanì. Non appena la macchina ebbe iniziato a fare il suo lavoro, la mia ansietà fu alimentata da tutte le domande che mi si erano annidate in testa."
+    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale svanì. Come la macchina ebbe iniziato a fare il suo lavoro, la mia ansietà fu alimentata da tutte le domande che mi si erano annidate in testa."
 
 # game/chapter1.rpy:506
 translate italiantl begingame_608fb1d8:
@@ -650,7 +650,7 @@ translate italiantl holetravel_7ce680cd:
 translate italiantl holetravel_0066f440:
 
     # n "I could see movement outside, and as I drew nearer, startled, I could hear footsteps in the grass, moving away quickly. Assuming it must have been the dragon I just met, I thought nothing of it as I went to bed and slowly succumbed to the sweet allure of sleep overdue."
-    n "Riuscii a scorgere del movimento all'esterno, e nell'avvicinarmi, allarmatə, potei sentire il rumore di passi nell'erba allontanarsi velocemente. Presumendo che fossero del drago che avevo appena incontrato, non vi diedi peso mentre andavo a dormire e lentamente soccombevo al dolce richiamo del sonno arretrato."
+    n "Potei scorgere del movimento all'esterno, e nell'avvicinarmi, allarmatə, riuscii a sentire il rumore di passi nell'erba allontanarsi velocemente. Presumendo che fossero del drago che avevo appena incontrato, non vi diedi peso mentre andavo a dormire e lentamente soccombevo al dolce richiamo del sonno arretrato."
 
 # game/chapter1.rpy:733
 translate italiantl holetravel_344cc935:
@@ -738,7 +738,7 @@ translate italiantl seccont_76b2fe88:
 translate italiantl seccont_f6acc4a0:
 
     # n "I awoke from uneasy dreams looking at an unfamiliar ceiling. Just for a moment, I wondered where I was before the events of last night all came back to me."
-    n "Mi risvegliai da sogni agitati guardando a un soffitto che non riconoscevo. Solo per un attimo, mi domandai dove fossi prima che gli eventi della notte passata mi ritornassero tutti."
+    n "Mi risvegliai da sogni agitati guardando a un soffitto che non riconoscevo. Solo per un attimo, mi domandai dove fossi prima che gli eventi della notte passata mi ritornassero tutti alla mente."
 
 # game/chapter1.rpy:1148
 translate italiantl seccont_22affa1d:
@@ -1488,7 +1488,7 @@ translate italiantl _call_skipcheck_3_7b36bca9:
 translate italiantl _call_skipcheck_3_0a540143:
 
     # m "He patted the generator's box for emphasis."
-    m "Diede un buffetto all'involucro del generatore per enfatizzare."
+    m "Diede un buffetto all'involucro del generatore per enfasi."
 
 # game/chapter1.rpy:1736
 translate italiantl _call_skipcheck_3_b2abfd61:
@@ -1539,7 +1539,7 @@ translate italiantl _call_skipcheck_3_2355e57c:
 translate italiantl _call_skipcheck_3_f73d296c:
 
     # m "To be honest, I was a little skeptical of the kind of coffee they might come up with in a place like this, but after a mouthful I had to admit it wasn't so bad. I've certainly had much worse before."
-    m "Ad essere onesti, ero un tantino scetticə del genere di caffè che avrebbero potuto inventarsi in un posto come questo, ma dopo un sorso dovetti ammettere che non era poi così male. Ne avevo certamente avuto ben di peggio prima di allora."
+    m "Ad essere onesti, ero un tantino scetticə del genere di caffè che avrebbero potuto inventarsi in un posto come questo, ma dopo un sorso dovetti ammettere che non era poi così male. Ne avevo certamente bevuto di peggio prima di allora." # "I've certainly had [much] worse"
 
 # game/chapter1.rpy:1777
 translate italiantl _call_skipcheck_3_cb9d0dd9:
@@ -1569,7 +1569,7 @@ translate italiantl _call_skipcheck_3_55feee46:
 translate italiantl _call_skipcheck_3_cac943c3:
 
     # m "Reza rose from his seat before he made it known to me that he still had a few things to do and left the restaurant, followed shortly after by the larger of the two dragons."
-    m "[Rz] si alzò dal suo posto prima di farmi sapere che aveva ancora alcune cose da fare e lasciò il ristorante, seguito di lì a poco dal più grosso dei due draghi."
+    m "[Rz] si levò dal suo posto prima di farmi sapere che aveva ancora alcune cose da fare e lasciò il ristorante, seguito di lì a poco dal più grosso dei due draghi."
 
 # game/chapter1.rpy:1791
 translate italiantl _call_skipcheck_3_a4e9199d:
@@ -1593,7 +1593,7 @@ translate italiantl _call_skipcheck_3_1ccb67dc:
 translate italiantl _call_skipcheck_3_d54bfe60:
 
     # m "Eventually, I took a bite of my somewhat unusual breakfast. While I already thought the smell was quite peculiar, the taste had been even worse. I imagined it might be the kind of delicacy that had an acquired taste. One that I certainly hadn't acquired yet. I decided to get outside before it was too late."
-    m "Finalmente, detti un morso alla mia alquanto inusuale colazione. Per quanto già pensassi che l'odore fosse piuttosto peculiare, il sapore era ancora peggio. Immaginai potesse essere il tipo di prelibatezza che si apprezza col tempo. Una che di certo non apprezzavo ancora. Decisi di uscirmene fuori prima che fosse troppo tardi."
+    m "Finalmente, detti un morso alla mia alquanto inusuale colazione. Per quanto già pensassi che l'odore fosse alquanto peculiare, il sapore era anche peggio. Immaginai potesse essere il tipo di prelibatezza che si apprezza col tempo. Una che di certo non apprezzavo ancora. Decisi di uscirmene fuori prima che fosse troppo tardi."
 
 # game/chapter1.rpy:1799
 translate italiantl _call_skipcheck_3_0da74151:
@@ -1743,7 +1743,7 @@ translate italiantl _call_syscheck_6_8a73ac9b:
 translate italiantl _call_syscheck_6_bd21a880:
 
     # n "Reza didn't seem to share the same interest and instead was more smitten with the generator, but given our reasons for coming here in the first place, I couldn't blame him for his enthusiasm being focused on something else."
-    n "[Rz] non sembrava condividere il mio stesso interesse e invece era più affascinato dai generatori, ma date le nostre ragioni per venire qui sin dall'inizio, non potevo fargli una colpa del fatto che il suo entusiasmo fosse indirizzato altrove." # "the same" -> "my same"
+    n "[Rz] non sembrava condividere il mio stesso interesse e invece era più affascinato dai generatori, ma date le nostre ragioni per venire qui sin dall'inizio, non potevo biasimarlo se il suo entusiasmo era indirizzato altrove." # "the same" -> "my same"
 
 # game/chapter1.rpy:1867
 translate italiantl _call_syscheck_6_88cd86e7:
@@ -3773,7 +3773,7 @@ translate italiantl quest1_239df03f:
 translate italiantl quest1_20413c2f:
 
     # Br "No way."
-    Br "Niente affatto."
+    Br "Lo escludo."
 
 # game/chapter1.rpy:3322
 translate italiantl quest1_fdc342bb:

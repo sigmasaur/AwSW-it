@@ -160,7 +160,7 @@ translate italiantl _call_syscheck_110_89288563:
 translate italiantl _call_syscheck_110_c2f6a1f2:
 
     # s "You looked at Anna's envelope. Naughty. {image=image/ui/status/heardaboutcancer.png}"
-    s "Hai guardato la busta di [An]. Cattivonə.{image=image/ui/status/heardaboutcancer.png}"
+    s "Hai guardato la busta di [An]. Non si fa!{image=image/ui/status/heardaboutcancer.png}"
 
 # game/anna2.rpy:193
 translate italiantl _call_syscheck_110_655131fd:
