@@ -358,7 +358,7 @@ translate italiantl _call_endingjustafewminuteslater_1_f7bc135f:
 translate italiantl _call_endingjustafewminuteslater_1_67907376:
 
     # m "He started flailing his arms around wildly, trying to put out the fire."
-    m "Iniziò ad agitare selvaggiamente le braccia, cercando di spegnere il fuoco."
+    m "Prese a dimenare selvaggiamente le braccia, cercando di spegnere il fuoco."
 
 # game/anna5.rpy:321
 translate italiantl _call_endingjustafewminuteslater_1_a1d1330a:

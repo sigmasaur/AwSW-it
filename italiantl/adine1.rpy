@@ -412,7 +412,7 @@ translate italiantl _call_skipcheck_10_0dce8ee6:
 translate italiantl _call_skipcheck_10_52e199a5:
 
     # c "Nothing special, really. I mean, I have my degrees, but this is the first time I did something that was actually related to them. The work I did previously was just to keep afloat."
-    c "Niente di speciale, davvero. Voglio dire, ho i miei diplomi, ma questa è la prima volta che faccio qualcosa che sia effettivamente collegato ad essi. Il lavoro che facevo prima era solo per tenermi a galla."
+    c "Niente di speciale, davvero. Voglio dire, ho i miei diplomi, ma questa è la prima volta che faccio qualcosa che sia davvero collegato ad essi. Il lavoro che facevo prima era solo per tenermi a galla."
 
 # game/adine1.rpy:348
 translate italiantl _call_skipcheck_10_4b7f20ab:
@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_10_f106bf6f:
 translate italiantl _call_skipcheck_10_a846bbc7:
 
     # Ad "That's what hobbies are for, though, right? It's just something I enjoy doing."
-    Ad "È a questo che servono i passatempi, però, giusto? È solo qualcosa che mi piace fare."
+    Ad "È a questo che serve un passatempo, però, giusto? È solo qualcosa che mi piace fare." # "hobbies are" -> "a hobby is"
 
 # game/adine1.rpy:390
 translate italiantl _call_skipcheck_10_abbb67c9:
@@ -544,7 +544,7 @@ translate italiantl _call_skipcheck_10_9beac2da:
 translate italiantl _call_skipcheck_10_2f44ec25:
 
     # Ad "I'm not sure exactly, but they do say it was humans that made us who we are today. You don't seem so different from us, though."
-    Ad "Non saprei con esattezza, ma dicono che sono stati gli umani a renderci quelli che siamo oggi. Non sembrate poi così diversi da noi, però."
+    Ad "Non saprei con esattezza, ma dicono che siano stati gli umani a fare di noi ciò che siamo oggi. Non sembrate poi così diversi da noi, però."
 
 # game/adine1.rpy:427
 translate italiantl _call_skipcheck_10_53f42aeb:

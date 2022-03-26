@@ -33,6 +33,7 @@ Currently working on `Bryce`'s sections. Files done and up for review:
     anna5.rpy
 
     bryce1.rpy
+    bryce2.rpy
 
 A few remarks:
 
@@ -271,6 +272,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 599: Corrected *dont* → *don't*.
 * At line 617: Removed extra space before question mark.
 * At line 675: Corrected simple dash to em-dash.
+* At line 792: Where did `Anna` say *[she doesn't] really know anyone else*?
 
 ### [`anna5.rpy`](italiantl/anna5.rpy)
 
@@ -288,6 +290,28 @@ The following are mostly to the benefit of the developer and translators.
 * At line 352: Assumed *you* is referred to the police department.
 * At line 353: Corrected uppercase letter to lowercase after colon.
 * At line 939-1259: Slightly relaxed the use of subjunctive forms in the dialogue spoken by `Bryce` and the player character, to match their altered state.
+
+### [`bryce2.rpy`](italiantl/bryce2.rpy)
+
+* At line 70-78, 507, 513-553, 1079-1081, 1153-1157: Note that these lines also trigger under unexpected conditions. For ease of notation, let:<details><summary></summary>
+<code>A1</code> The user left at lines 421, 484, 568 of <a href="#bryce1rpy"><code>bryce1.rpy</code></a> before playing <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
+<code>A2</code> The user left at lines 75, 142, 694 of <a href="#bryce1rpy"><code>bryce1.rpy</code></a>, then interrogated <code>Zhong</code> in <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
+<code>A3</code> The user left at line 1176 of <a href="#bryce1rpy"><code>bryce1.rpy</code></a>, then interrogated <code>Zhong</code> in <a href="#chapter2rpy"><code>chapter2.rpy</code></a> and apologized to him.</br>
+<code>B1</code> The user played through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>bad</code> mood, then interrogated <code>Zhong</code> in <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
+<code>B2</code> The user played through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>neutral</code> mood.</br>
+<code>B3</code> The user played through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>good</code> mood.</details>
+  * At line 70-78: The player character never got to see `Bryce`'s apartment in [`bryce1.rpy`](#bryce1rpy), or did get to see his apartment but they never agreed to *pretend the whole thing never happened*; affected sequences: `A3` in the former case, `B1` in the latter; used if-statement to correct `A3` by `pass`ing.
+  * At line 507, 513-553: The `Administrator` and `Maverick` were already encountered in [`chapter4.rpy`](#chapter4rpy), where:<ul><li>At line 507: The player character learns that the former is not `Reza`;</li><li>At line 513-553: `Bryce` and the player character learn of *what [the latter]'s been up to*;</li></ul>
+  affected sequences: `A1-3`, `B1-2`, or `B3` after playing [`chapter3.rpy`](#chapter3rpy), then the user managed to save `Bryce` in [`chapter4.rpy`](#chapter4rpy).
+  * At line 1079-1081: The player character never got drunk in [`bryce1.rpy`](#bryce1rpy); affected sequences: `A1-2`.
+  * At line 1153-1157: `Bryce` never said *there's more to \[him\] than getting drunk*; affected sequences: `A1-3` or `B1-2`.
+* At line 357, 395, 592, 1169: Corrected simple dash to em-dash.
+* At line 395: Unfolded *100%* → *one hundred percent*, for elegance.
+* At line 428, 430, 465, 848: Rendered *leg*(*s*) as *paw*(*s*).
+* At line 878, 911: Assumed *you* is referred to the player character.
+* At line 880: Assumed *you* is referred to the human race.
+* At line 1057: Rendered *child* as *cub*.
+* At line 1059: Where did `Bryce` and the player character say *no getting drunk this time*?
 
 ## Other remarks
 

@@ -58,7 +58,7 @@ translate italiantl evilending_89daf031:
 translate italiantl evilending_edd9bfac:
 
     # Rz amused "What do you think about that?"
-    Rz amused "Che cosa ne pensi?" # "about that" -> "about it"
+    Rz amused "Che ne pensi di questo?"
 
 # game/chapter5evilending.rpy:25
 translate italiantl evilending_d3f8c098:
@@ -430,7 +430,7 @@ translate italiantl no_d1ad703c:
 translate italiantl no_5b2b6059:
 
     # Rz normal "I've known for a while. It's what I wanted to talk with you about when we met at the portal. How about you?"
-    Rz normal "Lo so già da un pezzo. È ciò di cui volevo parlarti quando ci siamo incontrati al portale. E tu?"
+    Rz normal "Lo so già da un pezzo. È ciò di cui volevo parlarti quando ci siamo incontrati al portale. E tu, invece?"
 
 # game/chapter5evilending.rpy:459
 translate italiantl no_91ed222d:
@@ -442,7 +442,7 @@ translate italiantl no_91ed222d:
 translate italiantl no_7baa11a8:
 
     # Rz annoyed "Looking back, it just seems so obvious to me now. I'm not sure how exactly you figured it out, but there are so many damn clues when you think about it."
-    Rz annoyed "Col senno di poi, adesso mi sembra talmente ovvio. Non so esattamente come tu ci sia arrivatə, ma se ci pensi c'erano tanti di quegli indizi." # "there are" -> "there were", "when" -> "if"
+    Rz annoyed "Col senno di poi, adesso mi sembra talmente ovvio. Non so esattamente come tu ci sia arrivatə, ma se ci pensi c'erano tanti di quegli indizi." # "I'm not sure" -> "I don't know", "there are" -> "there were", "when" -> "if"
 
 # game/chapter5evilending.rpy:463
 translate italiantl no_f6c1a298:

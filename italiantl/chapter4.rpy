@@ -2893,13 +2893,13 @@ translate italiantl loremnotmissing_e4572aa4:
 translate italiantl loremnotmissing_75416a96:
 
     # Ip think "Around 2AM, I suddenly hear a few bangs outside. They reminded me of small explosions."
-    Ip think "Attorno alle due del mattino, all'improvviso ho sentito alcuni tuoni di fuori. Ricordavano delle piccole esplosioni."
+    Ip think "Attorno alle due del mattino, all'improvviso ho sentito alcuni tuoni di fuori. Mi hanno ricordato delle piccole esplosioni."
 
 # game/chapter4.rpy:2604
 translate italiantl loremnotmissing_c87e8928:
 
     # Ip normal "It sounded like they were coming from just around the corner."
-    Ip normal "Sembrava che provenissero da appena dietro l'angolo."
+    Ip normal "Sembrava come se provenissero da appena dietro l'angolo."
 
 # game/chapter4.rpy:2606
 translate italiantl loremnotmissing_66865b4d:
@@ -3721,7 +3721,7 @@ translate italiantl c4hatchery_cdecacfa:
 translate italiantl c4hatchery_d1b8139c:
 
     # c "Sorry, but I already got my degrees."
-    c "Scusa, ma ho già ottenuto i miei diplomi."
+    c "Scusa, ma ho già preso i miei diplomi."
 
 # game/chapter4.rpy:3145
 translate italiantl c4hatchery_79f45a08:
@@ -3769,7 +3769,7 @@ translate italiantl c4hatchery_68670296:
 translate italiantl c4hatchery_6a4c87cd:
 
     # Kv ramble "No, this is just my summer job. Once the semester starts up again, I'll actually be attending to get my degree in psychology."
-    Kv ramble "No, questo è solo il mio lavoro estivo. Quando inizierà di nuovo il semestre, di fatto frequenterò anch'io per ottenere il mio diploma in psicologia." # "I'll actually be attending TOO"
+    Kv ramble "No, questo è solo il mio lavoro estivo. Quando ripartirà il semestre, di fatto frequenterò anch'io per diplomarmi in psicologia." # "I'll actually be attending TOO"
 
 # game/chapter4.rpy:3161
 translate italiantl c4hatchery_bf12a3b2:
@@ -4681,7 +4681,7 @@ translate italiantl _call_syscheck_82_a1ae6a4e_1:
 translate italiantl c4rest_5097e44f:
 
     # m "I decided to take a long break in my apartment. I had already done enough for the day and figured I should take some time off."
-    m "Decisi di prendermi una lunga pausa nel mio appartamento. Avevo già fatto abbastanza per il giorno e pensai che avrei dovuto anche prendermi del tempo."
+    m "Decisi di prendermi una lunga pausa nel mio appartamento. Avevo già fatto abbastanza per il giorno e pensai che avrei anche dovuto prendermi del tempo."
 
 # game/chapter4.rpy:3924
 translate italiantl c4rest_cb6b7e5f:
@@ -6356,7 +6356,7 @@ translate italiantl _call_popularcheck_23_b2b0fd6b:
 translate italiantl _call_popularcheck_23_b564292d:
 
     # An "Hey, [player_name]. I'm not even sure why I'm calling about this, but it seemed like you wanted to hang out last time, so call me back if you feel like it."
-    An "Ehi, [player_name]. Non so nemmeno bene perché ti sto chiamando per questo, ma sembrava ti andasse di stare un po' assieme la volta scorsa, quindi richiamami se te la senti."
+    An "Ehi, [player_name]. Non so nemmeno bene perché ti sto chiamando per questo, ma l'altra volta sembrava ti andasse di stare un po' assieme, quindi richiamami se te la senti."
 
 # game/chapter4.rpy:5365
 translate italiantl _call_popularcheck_23_57ae5c94:

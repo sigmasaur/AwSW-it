@@ -838,7 +838,7 @@ translate italiantl adinegoodending_2fc1d6c7:
 translate italiantl adinegoodending_f85ecedc:
 
     # As "Well, with the generators still intact, we will have no trouble diverting the comet and saving this world, but I also know that you feel very strongly about executing the mission you were sent here for."
-    As "Be', coi generatori ancora intatti, non avremo problemi a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # "about [executing] the mission", see line 814, also see the Italian translation of Charlotte Gray, 08:32
+    As "Be', coi generatori ancora intatti, non avremo problemi a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # see the Italian translation of Charlotte Gray, 00:08:32, also "about [executing] the mission", see line 814
 
 # game/adine5.rpy:814
 translate italiantl adinegoodending_592747cc:

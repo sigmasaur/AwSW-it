@@ -772,7 +772,7 @@ translate italiantl _call_skipcheck_7_b1d7e26c:
 translate italiantl _call_skipcheck_7_995f38ea:
 
     # An "No, I'm saying that even if this was a date, which would be more than whatever this is, it wouldn't be very appropriate. Stories about work aren't very romantic."
-    An "No, sto dicendo che se anche fosse un appuntamento, il che sarebbe più di qualsiasi cosa sia questo, non sarebbe molto appropriato. Le storie di lavoro non sono molto romantiche."
+    An "No, sto dicendo che se anche fosse un appuntamento, il che sarebbe più di qualunque cosa sia questo, non sarebbe molto appropriato. Le storie di lavoro non sono molto romantiche."
 
 # game/anna1.rpy:616
 translate italiantl _call_skipcheck_7_83cfd907:
@@ -1444,7 +1444,7 @@ translate italiantl _call_syscheck_36_764cb07e:
 translate italiantl _call_syscheck_36_20265dca:
 
     # An "Of course. And I'll make sure you deliver your part of the deal."
-    An "Naturalmente. E mi assicurerò che rispetterai la tua parte dell'accordo."
+    An "Naturalmente. E mi assicurerò che manterrai la tua parte dell'accordo."
 
 # game/anna1.rpy:1084
 translate italiantl _call_syscheck_36_46986bde:
@@ -1588,13 +1588,13 @@ translate italiantl anna1skip_76b2fe88:
 translate italiantl anna1skip_4190e1e7:
 
     # n "I was not sure what I had expected out of this encounter, but it certainly wasn't this."
-    n "Non sapevo cosa mi fossi aspettatə da questo incontro, ma di certo non era questo."
+    n "Non ero sicurə di cosa mi fossi aspettatə da questo incontro, ma di certo non era questo." # see line 1093
 
 # game/anna1.rpy:1154
 translate italiantl anna1skip_6329633b:
 
     # n "After all, proposing a proper date was my way of sticking it to her for being rude."
-    n "Dopotutto, proporre un appuntamento vero e proprio era il mio modo di punzecchiarla per essere stata scontrosa."
+    n "Dopotutto, proporre un appuntamento vero e proprio era il mio modo di punzecchiarla per essere stata scontrosa." # see line 1093
 
 # game/anna1.rpy:1155
 translate italiantl anna1skip_1935d8cf:
@@ -1708,7 +1708,7 @@ translate italiantl anna1skip_fc5368ed:
 translate italiantl anna1skip_fee6d309:
 
     # An "You know what? I'm leaving now, but don't expect for a minute that I won't make sure that you'll deliver on your end of the deal."
-    An "Sai che c'è? Ora me ne vado, ma non aspettarti neanche per un minuto che non mi assicurerò che rispetterai la tua parte dell'accordo." # "deliver [on]", "end" -> "part"
+    An "Sai che c'è? Ora me ne vado, ma non aspettarti neanche per un minuto che non mi assicurerò che manterrai la tua parte dell'accordo." # "end" -> "part"
 
 # game/anna1.rpy:1207
 translate italiantl anna1skip_54119fe9:

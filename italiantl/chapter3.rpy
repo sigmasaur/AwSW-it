@@ -346,7 +346,7 @@ translate italiantl chapter3_81a13922:
 translate italiantl chapter3_ba37bcc6:
 
     # Br "This way, we can take action before the ministry does, and before this all becomes public. If we wait, we don't know what they'll do or how the public will react. With everything going on, it's too dangerous for you to stay here."
-    Br "In questo modo, possiamo agire prima del ministro, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa farà o come reagirà la gente. Con tutto quello che sta accadendo, restare qui è troppo pericoloso per te."
+    Br "In questo modo, possiamo agire prima del ministro, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa farà o come reagirà la gente. Con tutto quello che accade, restare qui è troppo pericoloso per te."
 
 # game/chapter3.rpy:843
 translate italiantl chapter3_e69e42b8:
@@ -431,7 +431,7 @@ translate italiantl c3contx_bf7bf6e1:
 translate italiantl c3contx_b6fb7f2e:
 
     # Br "With everything going on, it's too dangerous for you to stay here."
-    Br "Con tutto quello che sta accadendo, restare qui è troppo pericoloso per te." # see line 841
+    Br "Con tutto quello che accade, restare qui è troppo pericoloso per te." # see line 841
 
 # game/chapter3.rpy:878
 translate italiantl c3contx_e69e42b8:
@@ -2854,7 +2854,7 @@ translate italiantl c3conty_c09a99fc:
 translate italiantl c3conty_a7037060:
 
     # m "I only opened the door long enough to hand Remy the sheet of paper."
-    m "Aprii la porta giusto il tempo necessario a consegnare il foglio di carta a [Ry]."
+    m "Aprii la porta solo il tempo necessario a consegnare il foglio di carta a [Ry]."
 
 # game/chapter3.rpy:2090
 translate italiantl c3conty_bc8855dc:
@@ -3622,7 +3622,7 @@ translate italiantl _call_syscheck_16_fb173d52:
 translate italiantl _call_syscheck_16_9361e101:
 
     # s "You tried to go to the portal. And that despite the letter explicitly telling you not to. You rebel."
-    s "Hai provato ad andare al portale. E nonostante il messaggio ti avesse detto di non farlo. Tu, bruttə ribelle." # Star Wars VI, "you rebel [scums]" => "brutta [feccia] ribelle", also "letter" -> "message" to match lines 2431, 2467
+    s "Hai provato ad andare al portale. E nonostante il messaggio ti avesse detto di non farlo. Tu, bruttə ribelle." # see also the Italian translation of Return of the Jedi, 01:33:56, "you rebel [scums]" => "brutta [feccia] ribelle", also "letter" -> "message" to match lines 2431, 2467
 
 # game/chapter3.rpy:2603
 translate italiantl _call_syscheck_16_4e3515c9:
@@ -3742,7 +3742,7 @@ translate italiantl c3fac_8ad6ccea:
 translate italiantl c3fac_1ccc5ec4:
 
     # Lo normal "The stuff you told me last time should come in handy, at least."
-    Lo normal "Le cose che mi hai detto la volta scorsa dovrebbero tornarmi utili, almeno."
+    Lo normal "Le cose che mi hai detto l'altra volta dovrebbero tornarmi utili, almeno."
 
 # game/chapter3.rpy:2674
 translate italiantl c3fac_9f85b645:
@@ -3808,7 +3808,7 @@ translate italiantl c3fac_fc683cd8:
 translate italiantl c3fac_bc094a37:
 
     # Lo think "Did you get a chance to think about what I told you last time?"
-    Lo think "Hai avuto modo di pensare a quello che ti ho detto la volta scorsa?"
+    Lo think "Hai avuto modo di pensare a quello che ti ho detto l'altra volta?"
 
 # game/chapter3.rpy:2711
 translate italiantl c3fac_a131fdf2:
@@ -5180,7 +5180,7 @@ translate italiantl _call_syscheck_22_0a67191b:
 translate italiantl _call_syscheck_22_2cf8fe10:
 
     # c "(Huh, look at the time. I better wrap it up here.)"
-    c "(Huh, guarda l'ora. Sarà meglio chiudere qui.)" # "[I] better wrap it up here"
+    c "(Huh, guarda l'ora. Sarà meglio chiuderla qui.)" # "[I] better wrap it up here"
 
 # game/chapter3.rpy:3810
 translate italiantl c3sto_bd0329ac:

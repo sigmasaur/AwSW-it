@@ -634,7 +634,7 @@ translate italiantl anna4skip1_b965a55f:
 translate italiantl anna4skip1_397f4fa7:
 
     # c "Because where I come from, we can cure cancer."
-    c "Perché da dove provengo, possiamo curare il cancro."
+    c "Perché da dove vengo, possiamo curare il cancro."
 
 # game/anna4.rpy:382
 translate italiantl anna4skip1_398acf0d:
@@ -760,7 +760,7 @@ translate italiantl anna4skip1_4f60a6da:
 translate italiantl anna4skip1_79349d46:
 
     # c "Where I come from, we can cure cancer. If you came with me..."
-    c "Da dove provengo, possiamo curare il cancro. Se solo venissi con me..." # see line 375
+    c "Da dove vengo, possiamo curare il cancro. Se solo venissi con me..." # see line 375
 
 # game/anna4.rpy:433
 translate italiantl anna4skip1_09163495:

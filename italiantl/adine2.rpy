@@ -1192,7 +1192,7 @@ translate italiantl adine2menb_019f1399:
 translate italiantl adine2menb_414990f6:
 
     # c "To be honest, I'm not really sure what this could mean."
-    c "Sinceramente, non saprei bene cosa può voler dire." # see line 930
+    c "Sinceramente, non saprei bene cosa può voler dire."
 
 # game/adine2.rpy:936
 translate italiantl adine2menb_bda1ddb5:
@@ -1288,7 +1288,7 @@ translate italiantl adine2menb_85205a4b:
 translate italiantl adine2menb_c80ff75f:
 
     # Ad normal b "If anything, it's not supposed to make you worry, but give you some input so you can prepare for what is to come."
-    Ad normal b "Se non altro, non dovrebbe farti preoccupare, ma solo darti uno spunto cosicché tu possa prepararti a quello che verrà."
+    Ad normal b "Se non altro, non dovrebbe farti preoccupare, ma solo darti uno spunto così puoi prepararti a quello che verrà."
 
 # game/adine2.rpy:1009
 translate italiantl adine2menb_d343259d:
@@ -2136,7 +2136,7 @@ translate italiantl strings:
 
     # adine2.rpy:930
     old "I'm not sure what this could mean."
-    new "Non so bene cosa può voler dire." # "could mean" -> "can mean"
+    new "Non so bene cosa può voler dire."
 
     # adine2.rpy:930
     old "I feel like this is totally true."

@@ -984,7 +984,7 @@ translate italiantl _call_skipcheck_2_529aeda4:
 translate italiantl _call_skipcheck_2_4f894d15:
 
     # Rz "We're not the ones making a big deal out of this, you are. We're just here to get what we agreed on and then we'll be gone. If anything, I'd actually prefer if you left us alone, but you're the one who insists on following me around wherever I go."
-    Rz "Non siamo noi a farne una questione di stato, ma tu. Noi siamo qui solo per avere ciò che abbiamo pattuito e poi ce ne saremo andati. Semmai, in effetti preferirei che ci lasciassi in pace, ma sei tu quello che insiste a pedinarmi dovunque io vada."
+    Rz "Non siamo noi a farne un affare di stato, ma tu. Noi siamo qui solo per avere ciò che abbiamo pattuito e poi ce ne saremo andati. Semmai, in effetti preferirei che ci lasciassi in pace, ma sei tu quello che insiste a seguirmi ovunque vada."
 
 # game/chapter1.rpy:1369
 translate italiantl _call_skipcheck_2_bf0efca8:
@@ -1506,7 +1506,7 @@ translate italiantl _call_skipcheck_3_761a7bf3:
 translate italiantl _call_skipcheck_3_bfc7dc06:
 
     # m "The female returned, astounding me with her ability to balance the dishes on the edges of her wings. She placed her forelimb on the table and proceeded to move the dishes from her wing to us with a gentle push of her snout."
-    m "La femmina ritornò, lasciandomi sbalorditə dalla sua capacità di bilanciare i piatti sui bordi delle sue ali. Appoggiò il suo arto anteriore sul tavolo e procedette a spostare i piatti dalla sua ala verso di noi con una gentile spinta del muso."
+    m "La femmina ritornò, lasciandomi sbalorditə dalla sua capacità di bilanciare i piatti sui bordi delle sue ali. Poggiò il suo arto anteriore sul tavolo e procedette a spostare i piatti dalla sua ala verso di noi con una gentile spinta del muso."
 
 # game/chapter1.rpy:1748
 translate italiantl _call_skipcheck_3_67f50da2:
@@ -2139,7 +2139,7 @@ translate italiantl _call_syscheck_6_5dc3c29d:
 translate italiantl _call_syscheck_6_1a7f73a9:
 
     # n "I didn't remember ever having a conversation about this topic with him, yet he still relied on me to remember whatever it was that I was missing. Or he thought I would just be able to figure it out on my own."
-    n "Non ricordavo di aver mai avuto con lui una conversazione su questo argomento, eppure contava comunque su di me per ricordare qualsiasi cosa fosse che mi sfuggiva. Oppure pensava che sarei semplicemente statə in grado di arrivarci da solə."
+    n "Non ricordavo di aver mai avuto con lui una conversazione su questo argomento, eppure contava comunque su di me per ricordare qualunque cosa fosse che mi sfuggiva. Oppure pensava che sarei semplicemente statə in grado di arrivarci da solə."
 
 # game/chapter1.rpy:2105
 translate italiantl _call_syscheck_6_d55f237b:
@@ -2657,7 +2657,7 @@ translate italiantl _call_syscheck_7_cf187513:
 translate italiantl _call_syscheck_7_f33190c8:
 
     # c "(Now I know how to work an Ixomen Sphere. Whatever that is.)"
-    c "(Adesso so come usare una Sfera di Ixomen. Qualsiasi cosa sia.)"
+    c "(Adesso so come usare una Sfera di Ixomen. Qualunque cosa sia.)"
 
 # game/chapter1.rpy:2460
 translate italiantl _call_syscheck_7_4f1f0b5f:
@@ -3797,7 +3797,7 @@ translate italiantl quest2_afc197f7:
 translate italiantl quest2_cc15fd9a:
 
     # Br "Actually, we do. Mostly by those who have the proper hands to use them, but still..."
-    Br "In effetti, li usiamo. Per lo più da parte di quelli di noi che possiedono mani adatte, ma comunque..." # "the proper hands [to use them]"
+    Br "In effetti, li usiamo. Per lo più quelli di noi che hanno le mani adatte, ma comunque..." # "mostly [by] those OF US", "the proper hands [to use them]"
 
 # game/chapter1.rpy:3340
 translate italiantl quest2_65ee4be1:
@@ -3833,7 +3833,7 @@ translate italiantl quest2_5df50500:
 translate italiantl quest2_7d1411e6:
 
     # Br "That's right. Only those of us who walk on two legs have the proper dexterity to wield a knife effectively. Most other dragons would probably just bite instead."
-    Br "Corretto. Solo quelli di noi che camminano su due zampe hanno l'adeguata destrezza per impugnare un coltello in modo efficace. La maggior parte degli altri draghi probabilmente avrebbero semplicemente morso piuttosto."
+    Br "Corretto. Solo quelli di noi che camminano su due zampe hanno la manualità per impugnare un coltello in modo efficace. La maggior parte degli altri draghi probabilmente avrebbero semplicemente morso piuttosto." # see line 3335, also "the [proper] dexterity"
 
 # game/chapter1.rpy:3349
 translate italiantl quest2_293a28a6:
@@ -4493,7 +4493,7 @@ translate italiantl _call_syscheck_13_cf1f1ec2:
 translate italiantl _call_syscheck_13_35cc0675:
 
     # c "You know, whatever it was Reza was talking about, he was going to tell me just before you showed up yesterday."
-    c "Lo sai, qualsiasi cosa fosse di cui [Rz] stava parlando, stava per dirmela appena prima che tu ti presentassi ieri."
+    c "Lo sai, di qualunque cosa stesse parlando [Rz], stava per dirmela appena prima che tu ti presentassi ieri."
 
 # game/chapter1.rpy:3747
 translate italiantl _call_syscheck_13_d6e3dd96:
@@ -5135,7 +5135,7 @@ translate italiantl strings:
 
     # chapter1.rpy:3073
     old "Where I come from, this kind of attack on a diplomat could be classified as an act of war, punishable by death."
-    new "Da dove provengo, questo tipo di attacco a unə diplomaticə potrebbe classificarsi come un atto di guerra, punibile con la morte."
+    new "Da dove vengo, questo tipo di attacco a unə diplomaticə potrebbe classificarsi come un atto di guerra, punibile con la morte."
 
     # chapter1.rpy:3073
     old "I hope so."

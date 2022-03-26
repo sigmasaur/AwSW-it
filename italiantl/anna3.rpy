@@ -340,7 +340,7 @@ translate italiantl _call_skipcheck_bf7914e7:
 translate italiantl _call_skipcheck_15f34fa1:
 
     # c "Wherever you like."
-    c "Dovunque ti vada."
+    c "Dovunque ti va."
 
 # game/anna3.rpy:288
 translate italiantl _call_skipcheck_7ef5d1c9:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_f201ef26:
 translate italiantl _call_skipcheck_60777bb5:
 
     # An "Luckily, our scales are pretty good insulators, as you saw last time. It actually goes both ways. We're pretty resistant to both heat and cold."
-    An "Per fortuna, le nostre squame sono degli isolanti piuttosto buoni, come hai visto la volta scorsa. In effetti funziona in entrambi i sensi. Siamo piuttosto resistenti sia al caldo che al freddo."
+    An "Per fortuna, le nostre squame sono degli isolanti piuttosto buoni, come hai visto l'altra volta. In effetti funziona in entrambi i sensi. Siamo piuttosto refrattari sia al caldo che al freddo."
 
 # game/anna3.rpy:532
 translate italiantl _call_skipcheck_9fe2c3cb:
@@ -1028,7 +1028,7 @@ translate italiantl _call_skipcheck_5018d5a5:
 translate italiantl _call_skipcheck_1e9c5323:
 
     # An face b "Is that what you're into? Good to know."
-    An face b "Ti piacciono queste cose? Buono a sapersi."
+    An face b "È questo che ti piace fare? Buono a sapersi."
 
 # game/anna3.rpy:736
 translate italiantl _call_skipcheck_d5782ea3:
@@ -1766,7 +1766,7 @@ translate italiantl _call_skipcheck_5fc28105:
 translate italiantl _call_skipcheck_5337153e:
 
     # An "Anyways, I've got your data, so we can head back inside if you're not too exhausted to walk."
-    An "Comunque, ho preso i tuoi dati, quindi possiamo anche tornare dentro se non sei troppo esaustə da camminare."
+    An "Comunque, ho preso i tuoi dati, quindi possiamo anche tornare dentro se non sei troppo esaustə per camminare."
 
 # game/anna3.rpy:1152
 translate italiantl _call_skipcheck_4e8c7062_1:

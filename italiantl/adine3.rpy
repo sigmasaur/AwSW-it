@@ -646,7 +646,7 @@ translate italiantl _call_skipcheck_9_f8b12e80:
 translate italiantl _call_skipcheck_9_3d66dc5a:
 
     # c "For the throw, you'll want to move your wing forward as fast as you can, and at the very end of the extension, let go of the stone."
-    c "Per il lancio, vorrai muovere la tua ala in avanti il più velocemente possibile, e al culmine dell'estensione, lasciar andare la pietra."
+    c "Per il lancio, vorrai muovere l'ala in avanti il più velocemente possibile, e al culmine dell'estensione, lasciar andare la pietra."
 
 # game/adine3.rpy:381
 translate italiantl _call_skipcheck_9_279d1196:
@@ -1366,7 +1366,7 @@ translate italiantl _call_syscheck_45_73ecc8d3:
 translate italiantl _call_syscheck_45_031a6443:
 
     # s "You got some seashells. Are you sure it's okay to take them? Well, too late for that now..."
-    s "Hai ottenuto alcune conchiglie. Sicurə che fosse il caso di prenderle? Be', troppo tardi per quello ormai..."
+    s "Hai ottenuto alcune conchiglie. Sicurə sia il caso di prenderle? Be', troppo tardi per quello ormai..."
 
 # game/adine3.rpy:755
 translate italiantl _call_syscheck_45_f1feac00:

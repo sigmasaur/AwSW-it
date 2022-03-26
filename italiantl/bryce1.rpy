@@ -82,7 +82,7 @@ translate italiantl bryce1_2f0ba0b7:
 translate italiantl bryce1_db7471f7:
 
     # Br "In that case, you can say whatever it is you have to say to someone else tomorrow, alright?"
-    Br "In tal caso, qualunque cosa devi dirmi puoi anche dirla a qualcun'altro domani, d'accordo?" # "have to say" -> "have to tell me"
+    Br "In tal caso, qualunque cosa devi dirmi puoi anche dirla a qualcun altro domani, d'accordo?" # "have to say" -> "have to tell me"
 
 # game/bryce1.rpy:80
 translate italiantl bryce1_c48dc32f:
@@ -414,7 +414,7 @@ translate italiantl waitmenu_96107e98:
 translate italiantl waitmenu_7cc8b85d:
 
     # Br "He could have easily done so since he was in charge of Reza and everything, but he totally shouldn't have. I mean, we wouldn't do anything of the sort with you. Everything he has done in regard to Reza has been a poor show of character."
-    Br "Poteva farlo tranquillamente dato che era responsabile di [Rz] e tutto il resto, ma proprio non doveva. Voglio dire, noi non faremmo niente del genere con te. Tutto quello che ha fatto in merito a [Rz] è stata una prova di scarso giudizio." # "character" -> "judgement"
+    Br "Poteva farlo tranquillamente dato che era responsabile di [Rz] e tutto il resto, ma proprio non avrebbe dovuto. Voglio dire, noi non faremmo niente del genere con te. Tutto quello che ha fatto in merito a [Rz] è stata una prova di scarso giudizio." # "character" -> "judgement"
 
 # game/bryce1.rpy:368
 translate italiantl waitmenu_5fc73175:

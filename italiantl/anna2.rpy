@@ -424,7 +424,7 @@ translate italiantl _call_skipcheck_32_cf73bb24:
 translate italiantl _call_skipcheck_32_b1a2fef9:
 
     # An sad "Not long enough to finish it."
-    An sad "Non tanto da finirlo."
+    An sad "Non abbastanza da finirlo."
 
 # game/anna2.rpy:397
 translate italiantl _call_skipcheck_32_2003fe8c:
@@ -1978,7 +1978,7 @@ translate italiantl anna2else_5928f4c0:
 translate italiantl anna2else_0c8c960f:
 
     # An disgust "My work is my business, not yours. Keep your nose out of it and get back to whatever it is you're supposed to be doing here."
-    An disgust "Il mio lavoro è affar mio, non tuo. Vedi di non ficcarci il naso e tornatene a qualsiasi cosa tu sia venutə a fare qui."
+    An disgust "Il mio lavoro è affar mio, non tuo. Vedi di non ficcarci il naso e tornatene a qualunque cosa tu sia venutə a fare qui."
 
 # game/anna2.rpy:1383
 translate italiantl anna2else_87da3647:

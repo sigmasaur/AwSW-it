@@ -604,7 +604,7 @@ translate italiantl _call_skipcheck_11_770cb11d:
 translate italiantl _call_skipcheck_11_6478ffe8:
 
     # Sb "This kinda reminds me of when we found that underground base, or whatever it was. Remember, Chief?"
-    Sb "Questo mi ricorda un po' di quando abbiamo scoperto quella base sotterranea, o qualsiasi cosa fosse. Ricordi, Capo?"
+    Sb "Questo mi ricorda un po' di quando abbiamo scoperto quella base sotterranea, o qualunque cosa fosse. Ricordi, Capo?"
 
 # game/chapter2.rpy:663
 translate italiantl _call_skipcheck_11_9aecf486:
@@ -1551,7 +1551,7 @@ translate italiantl chap2store_f3c3db15:
 translate italiantl chap2store_3f210a8a:
 
     # St "I know he can be a little rough around the edges, but if you call him and talk about what happened, it should be fine. If you want to, that is."
-    St "Lo so che può avere dei modi un po' spigolosi, ma se lo chiami e gli parli di quello che è successo, vedrai che andrà tutto bene. Se ne hai voglia, certo."
+    St "So che può avere dei modi un po' spigolosi, ma se lo chiami e gli parli di quello che è successo, vedrai che andrà tutto bene. Se ne hai voglia, certo."
 
 # game/chapter2.rpy:1430
 translate italiantl chap2store_1f5067bf_1:
@@ -2379,7 +2379,7 @@ translate italiantl chap2library_8102b477:
 translate italiantl chap2library_dc54aa64:
 
     # Ry "Oh, hello [player_name]! Good to see you. Do you need anything?"
-    Ry "Oh, salve [player_name]! È bello rivederti. Hai bisogno di qualcosa?"
+    Ry "Oh, salve [player_name]! È bello vederti. Hai bisogno di qualcosa?"
 
 # game/chapter2.rpy:2077
 translate italiantl chap2library_435e0f44:
@@ -3207,7 +3207,7 @@ translate italiantl chap2park3choice_225c54a0:
 translate italiantl chap2park3choice_a838690f:
 
     # c "I'm not quite sure of that myself."
-    c "Non ne sono molto sicurə nemmeno io."
+    c "Non ne sono del tutto sicurə nemmeno io."
 
 # game/chapter2.rpy:3220
 translate italiantl chap2park3choice_29a6be0e:
@@ -3675,7 +3675,7 @@ translate italiantl _call_skipcheck_12_072a50de:
 translate italiantl _call_skipcheck_12_c67f62de:
 
     # n "I wasn't even sure if it was worth mentioning to the police, since all he did was make vague accusations. It wasn't anything substantial enough to be considered a threat."
-    n "Non ero nemmeno sicurə che valesse la pena di menzionarlo alla polizia, dal momento che non aveva fatto altro che lanciare vaghe accuse. Niente di così sostanziale da considerarsi una minaccia." # "it wasn't anything" -> "nothing"
+    n "Non ero nemmeno sicurə valesse la pena di menzionarlo alla polizia, dal momento che non aveva fatto altro che lanciare vaghe accuse. Niente di così sostanziale da considerarsi una minaccia." # "it wasn't anything" -> "nothing"
 
 # game/chapter2.rpy:3603
 translate italiantl _call_skipcheck_12_9457078a:
@@ -4149,7 +4149,7 @@ translate italiantl _call_popularcheck_10_8bf0501b:
 translate italiantl _call_popularcheck_10_e0bc6ab0:
 
     # Br "I think you had some fun too, but I also wanted to show you there's more to me than that."
-    Br "Penso ti sia divertitə anche tu, ma volevo anche mostrarti che so essere più di questo."
+    Br "Penso ti sia divertitə anche tu, ma volevo anche mostrarti che so essere più di questo." # see also line 1412 of Bryce 1
 
 # game/chapter2.rpy:4222
 translate italiantl _call_popularcheck_10_ed3abd0d:
