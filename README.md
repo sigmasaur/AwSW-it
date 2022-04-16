@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on `Bryce`'s sections. Files done and up for review:
+Currently on hold until the end of April. Files done and up for review:
 
     common.rpy
     dv.rpy
