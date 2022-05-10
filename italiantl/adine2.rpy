@@ -184,7 +184,7 @@ translate italiantl _call_skipcheck_23_48373b94:
 translate italiantl _call_skipcheck_23_fccb16e7:
 
     # Ad think b "I guess you could almost call it babysitting, but for the kids, we basically become foster parents."
-    Ad think b "Immagino che potresti quasi dire che gli facciamo da balia, ma per i piccoli, in pratica diventiamo i loro genitori adottivi."
+    Ad think b "Immagino si potrebbe quasi dire che gli facciamo da balia, ma per i piccoli, in pratica diventiamo i loro genitori adottivi."
 
 # game/adine2.rpy:219
 translate italiantl _call_skipcheck_23_9c327c5e:
@@ -2024,7 +2024,7 @@ translate italiantl strings:
 
     # adine2.rpy:509
     old "I'll reserve judgment on that."
-    new "Mi riserverò il giudizio a riguardo."
+    new "Mi riserverò il giudizio al riguardo."
 
     # adine2.rpy:509
     old "Do you think you can hit the trash can with it from here? You should try."

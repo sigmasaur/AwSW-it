@@ -454,7 +454,7 @@ translate italiantl _call_skipcheck_8c8064c7:
 translate italiantl _call_skipcheck_262441af:
 
     # An "Quiet, please. There's a scientist at work here."
-    An "Silenzio, prego. C'è una scienziata a lavoro qui."
+    An "Silenzio, prego. C'è una scienziata al lavoro qui."
 
 # game/anna3.rpy:353
 translate italiantl _call_skipcheck_fe5f3366:
@@ -2559,11 +2559,11 @@ translate italiantl strings:
 
     # anna3.rpy:1164
     old "A lot."
-    new "Un bel po'."
+    new "Molto." # must also match line 3007 of chapter 4
 
     # anna3.rpy:1164
     old "A little."
-    new "Un pochino."
+    new "Non molto." # must also match line 3007 of chapter 4
 
     # anna3.rpy:1164
     old "None at all."
@@ -2579,5 +2579,5 @@ translate italiantl strings:
 
     # anna3.rpy:1200
     old "I'd rather be looking at some pretty pictures of you instead."
-    new "Preferirei guardare delle belle immagini di te invece."
+    new "Preferirei guardare delle belle immagini di te piuttosto."
 

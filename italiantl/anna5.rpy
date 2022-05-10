@@ -832,7 +832,7 @@ translate italiantl annagoodending_76b2fe88_2:
 translate italiantl annagoodending_c8720a47:
 
     # c "What did the doctor say?"
-    c "Che cos'ha detto il dottore?"
+    c "Cos'ha detto il dottore?"
 
 # game/anna5.rpy:821
 translate italiantl annagoodending_598ee9f8:

@@ -202,7 +202,7 @@ translate italiantl _call_skipcheck_30_24b1c5b9:
 translate italiantl _call_skipcheck_30_34635a29:
 
     # m "After Adine had waddled off to the other flyers, I surveyed my surroundings idly."
-    m "Dopo che [Ad] se ne fu andata ancheggiando dagli altri volatori, indagai pigramente attorno a me."
+    m "Dopo che [Ad] se ne fu andata ancheggiando dagli altri volatori, indagai pigramente intorno a me."
 
 # game/adine4.rpy:187
 translate italiantl _call_skipcheck_30_350085b9:
@@ -838,7 +838,7 @@ translate italiantl _call_skipcheck_30_860568ba:
 translate italiantl _call_skipcheck_30_d31f7f37:
 
     # c "I don't know. It could hit the moon, or something like that."
-    c "Non lo so. Potrebbe colpire la luna, o qualcosa del genere."
+    c "Non lo so. Potrebbe colpire la luna, o roba del genere."
 
 # game/adine4.rpy:439
 translate italiantl _call_skipcheck_30_40cecab6:
@@ -1114,7 +1114,7 @@ translate italiantl _call_skipcheck_30_3edcdd32:
 translate italiantl _call_skipcheck_30_ff7034f0:
 
     # c "Do you know what our world is like? Are there any rumors about that?"
-    c "Sai com'è fatto il nostro mondo? Girano delle voci a riguardo?"
+    c "Sai com'è fatto il nostro mondo? Girano delle voci al riguardo?"
 
 # game/adine4.rpy:531
 translate italiantl _call_skipcheck_30_7f2d4a0b:
@@ -1258,7 +1258,7 @@ translate italiantl _call_skipcheck_30_cc74570c:
 translate italiantl _call_skipcheck_30_17196c8f:
 
     # c "Maybe they wanted to avoid culture shock, or something like that."
-    c "Forse volevano evitare uno shock culturale, o qualcosa del genere."
+    c "Forse volevano evitare uno shock culturale, o roba del genere."
 
 # game/adine4.rpy:607
 translate italiantl _call_skipcheck_30_a7bca2b2:
@@ -1342,7 +1342,7 @@ translate italiantl _call_skipcheck_30_f4748bb5:
 translate italiantl _call_skipcheck_30_9f6ef34a:
 
     # m "It was clear to me that these figures were played by actors in obviously fake, bulky costumes that reminded me of mascots."
-    m "Mi parve chiaro che queste figure fossero interpretate da attori in costumi ingombranti e palesemente falsi che ricordavano delle mascotte."
+    m "Mi parve chiaro che queste figure fossero interpretate da attori in costumi ingombranti e palesemente finti che ricordavano delle mascotte."
 
 # game/adine4.rpy:639
 translate italiantl _call_skipcheck_30_a653a412:
@@ -1384,7 +1384,7 @@ translate italiantl _call_skipcheck_30_ce0da94f:
 translate italiantl _call_skipcheck_30_df34c9d2:
 
     # m "It was quite bizarre to see a typical family sitcom where all the characters were in obviously fake costumes - and also happened to be naked."
-    m "Fu alquanto bizzarro vedere una tipica famiglia da sitcom dove tutti i personaggi erano in costumi palesemente falsi—e inoltre si dava il caso che fossero nudi." # corrected em-dash
+    m "Fu alquanto bizzarro vedere una tipica famiglia da sitcom dove tutti i personaggi erano in costumi palesemente finti—e inoltre si dava il caso che fossero nudi." # corrected em-dash
 
 # game/adine4.rpy:653
 translate italiantl _call_skipcheck_30_7c5e1867:
@@ -1702,7 +1702,7 @@ translate italiantl a4shower_3b76aa65:
 translate italiantl a4shower_ccdb4373:
 
     # c "Sorry, I couldn't resist."
-    c "Scusa, non ho potuto resistere."
+    c "Scusa, non ho saputo resistere."
 
 # game/adine4.rpy:831
 translate italiantl a4shower_eb6e85e5:
@@ -1762,7 +1762,7 @@ translate italiantl a4shower_40b08c73:
 translate italiantl a4shower_f74e637e:
 
     # c "They are, trust me."
-    c "Lo sono, fidati."
+    c "Lo sono, fìdati."
 
 # game/adine4.rpy:869
 translate italiantl a4shower_9868a4c6:
@@ -1774,7 +1774,7 @@ translate italiantl a4shower_9868a4c6:
 translate italiantl a4shower_f44013ec:
 
     # c "I'll be careful."
-    c "Farò attenzione."
+    c "Starò attentə."
 
 # game/adine4.rpy:877
 translate italiantl a4shower_3c8b0420:

@@ -41,7 +41,7 @@ translate italiantl bryce2_c87a0ae5:
 
     # c "Wait a minute, something seems different here..."
     if not leftbryce:
-        c "Aspetta un minuto, c'è qualcosa di diverso qui..."
+        c "Aspetta un minuto, c'è qualcosa di diverso qui..." # "seems" -> "is"
 
 # game/bryce2.rpy:72
 translate italiantl bryce2_84a6eb8a:
@@ -62,7 +62,7 @@ translate italiantl bryce2_6d9b9885:
 
     # Br "I thought we weren't going to mention that."
     if not leftbryce:
-        Br "Pensavo che non dovessimo menzionarlo." # see lines 1372, 1409 of Bryce 1
+        Br "Credevo non dovessimo menzionarlo." # see lines 1372, 1409 of Bryce 1
 
 # game/bryce2.rpy:78
 translate italiantl bryce2_f5f7c27d:
@@ -123,7 +123,7 @@ translate italiantl _call_skipcheck_6_bf4da10d:
 translate italiantl _call_skipcheck_6_9fd805a8:
 
     # c "Long day at work?"
-    c "Giornata lunga a lavoro?"
+    c "Giornata lunga al lavoro?"
 
 # game/bryce2.rpy:163
 translate italiantl _call_skipcheck_6_5cc157d3:
@@ -447,7 +447,7 @@ translate italiantl _call_skipcheck_6_83b5e915:
 translate italiantl _call_skipcheck_6_8c4703c9:
 
     # Br brow "I can't say that I don't find the thought exciting, but in the end, I've got my people here, and they need their chief."
-    Br brow "Non posso dire che non troverei il pensiero entusiasmante, ma alla fine, ho la mia gente qui, e a loro serve il loro capo."
+    Br brow "Non posso dire che non troverei il pensiero eccitante, ma alla fine, ho la mia gente qui, e a loro serve il loro capo."
 
 # game/bryce2.rpy:381
 translate italiantl _call_skipcheck_6_3a4c3a08:
@@ -477,7 +477,7 @@ translate italiantl _call_skipcheck_6_433fca34:
 translate italiantl _call_skipcheck_6_3aef6a65:
 
     # Br stern "Seriously? Just because I don't look like a body builder doesn't mean I'm out of shape. Heck, I work out every day, and I train for strength - not to just look the part. Everything you see is 100%% pure muscle."
-    Br stern "Sul serio? Solo perché non assomiglio a un culturista non vuol dire che sia fuori forma. Diamine, mi alleno ogni giorno, e lavoro sulla forza—non solo per l'aspetto giusto. Tutto ciò che vedi è al cento percento puro muscolo." # corrected em-dash, also "100%" -> "one hundred percent" for elegance
+    Br stern "Sul serio? Solo perché non assomiglio a un culturista non vuol dire che sia fuori forma. Diamine, mi alleno ogni giorno, e lavoro sulla forza—non solo per l'aspetto giusto. Tutto quello che vedi è al cento percento puro muscolo." # corrected em-dash, also "100%" -> "one hundred percent" for elegance
 
 # game/bryce2.rpy:404
 translate italiantl _call_skipcheck_6_c00cf4e2:
@@ -1593,7 +1593,7 @@ translate italiantl bryce2cont2_765e5597:
 translate italiantl bryce2cont2_261c1e44:
 
     # c "The only reason you forget things like this is because you keep getting drunk enough to do so. Besides, what are you going to do about it? What if I just opened it and poured it out? What would you do then, huh?"
-    c "La sola ragione per cui dimentichi cose come queste è perché continui a sbronzarti tanto da riuscirci. E poi, cosa vorresti fare a riguardo? E se l'aprissi e semplicemente la versassi? Che cosa faresti allora, eh?"
+    c "La sola ragione per cui dimentichi cose come queste è perché continui a sbronzarti tanto da riuscirci. E poi, cos'hai intenzione di fare al riguardo? E se l'aprissi e semplicemente la versassi? Che cosa faresti allora, eh?"
 
 # game/bryce2.rpy:1093
 translate italiantl bryce2cont2_f698ff9f:
@@ -1665,7 +1665,7 @@ translate italiantl bryce2cont2_4962c95c:
 translate italiantl bryce2cont2_efe638a0:
 
     # c "No, but you said there was more to you than getting drunk and this is your third one already."
-    c "No, ma dicevi di saper fare di più che ubriacarti e questa è già la terza." # see line 1412 of Bryce 1, see also line 4220 of chapter 2, also "your third" -> "the third"
+    c "No, ma dicevi di saper fare di più che ubriacarti e questa è già la terza." # see line 1412 of Bryce 1, also see line 4220 of chapter 2, also "your third" -> "the third"
 
 # game/bryce2.rpy:1155
 translate italiantl bryce2cont2_71222a28:
@@ -1845,7 +1845,7 @@ translate italiantl bryce2cont2_73c2fcc2:
 translate italiantl bryce2cont2_675e9570:
 
     # Br brow "Not sure how it's done where you are from, but here people usually don't like me telling them about the horrible things I see at work."
-    Br brow "Non so bene come funzioni dalle tue parti, ma qui la gente di solito non apprezza che io racconti loro delle cose terribili che vedo a lavoro."
+    Br brow "Non so bene come funzioni dalle tue parti, ma qui la gente di solito non apprezza che io racconti loro le cose terribili che vedo al lavoro."
 
 # game/bryce2.rpy:1225
 translate italiantl bryce2cont2_16c20a85:

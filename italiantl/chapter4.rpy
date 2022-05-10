@@ -550,13 +550,13 @@ translate italiantl _call_skipcheck_20_88a8ab82:
 translate italiantl _call_skipcheck_20_fc856fa4:
 
     # Mv "Besides, if I saw Reza right now, I'd probably do something I shouldn't."
-    Mv "E poi, se solo vedessi [Rz] in questo momento, probabilmente farei qualcosa che non dovrei." # "if I ONLY saw"
+    Mv "E poi, se solo vedessi [Rz] in questo momento, probabilmente farei qualcosa che non devo." # "if I ONLY saw"
 
 # game/chapter4.rpy:888
 translate italiantl _call_skipcheck_20_0580c488:
 
     # Br brow b "How about you, [player_name]?"
-    Br brow b "E tu che mi dici, [player_name]?"
+    Br brow b "E tu, invece, [player_name]?"
 
 # game/chapter4.rpy:890
 translate italiantl _call_skipcheck_20_4a29cfe6:
@@ -2947,7 +2947,7 @@ translate italiantl loremnotmissing_96280233:
 translate italiantl loremnotmissing_60f37cc4:
 
     # Ip "You’ve hung out with him a few times now. You see, he doesn’t have many friends, and I think he’s starting to like you."
-    Ip "Siete stati assieme diverse volte ormai. Vedi, lui non ha molti amici, e penso tu stia iniziando a piacergli." # "you've hung out [with him]"
+    Ip "Ti sei vistə con lui diverse volte ormai. Vedi, lui non ha molti amici, e penso tu stia iniziando a piacergli."
 
 # game/chapter4.rpy:2624
 translate italiantl loremnotmissing_d5faba5e:
@@ -3469,7 +3469,7 @@ translate italiantl c4library_3026356f:
 translate italiantl c4library_17a7ece9:
 
     # Sb "How well did you know him?"
-    Sb "Quanto bene lo conoscevi?"
+    Sb "Lo conoscevi bene?"
 
 # game/chapter4.rpy:3023
 translate italiantl c4library_f51e808a:
@@ -3487,7 +3487,7 @@ translate italiantl c4library_ff12b77a:
 translate italiantl c4library_6fdd6ae0:
 
     # Sb "I know he has no family, and I don't think he had many friends, either."
-    Sb "So che non aveva famiglia, e non penso che avesse poi neanche molti amici."
+    Sb "So che non aveva famiglia, e non penso avesse poi neanche molti amici."
 
 # game/chapter4.rpy:3029
 translate italiantl c4library_b268a854:
@@ -4285,7 +4285,7 @@ translate italiantl _call_syscheck_81_e2b6e4af:
 translate italiantl _call_syscheck_81_3e5277ba:
 
     # Ry normal flip "Yeah, Adine and I had a good, long talk - and now here we are."
-    Ry normal flip "Già, [Ad] e io abbiamo fatto una lunga chiacchierata—e ora eccoci qui." # corrected em-dash, also "a [good,] long talk"
+    Ry normal flip "Già, [Ad] ed io abbiamo fatto una lunga chiacchierata—e ora eccoci qui." # corrected em-dash, also "a [good,] long talk"
 
 # game/chapter4.rpy:3562
 translate italiantl _call_syscheck_81_f4e45657:
@@ -4537,7 +4537,7 @@ translate italiantl _call_syscheck_82_e2b6e4af:
 translate italiantl _call_syscheck_82_3e5277ba:
 
     # Ry normal flip "Yeah, Adine and I had a good, long talk - and now here we are."
-    Ry normal flip "Già, [Ad] e io abbiamo fatto una lunga chiacchierata—e ora eccoci qui." # see line 3560
+    Ry normal flip "Già, [Ad] ed io abbiamo fatto una lunga chiacchierata—e ora eccoci qui." # see line 3560
 
 # game/chapter4.rpy:3792
 translate italiantl _call_syscheck_82_f4e45657:
@@ -5083,7 +5083,7 @@ translate italiantl _call_skipcheck_21_6dbd6a73:
 translate italiantl _call_skipcheck_21_ac5d3af2:
 
     # n "I knew something was off, but nevertheless, I set to work immediately. At the very least, I could prepare the building. I would have shelter, and then I could begin preparations for our project. Getting the portal into working order would take more time as it was a complicated process that could take several weeks."
-    n "Sapevo che qualcosa non andava, ma nondimeno, mi misi subito a lavoro. Se non altro, potevo preparare l'edificio. Avrei avuto riparo, e quindi avrei potuto iniziare i preparativi del nostro progetto. Ci sarebbe voluto del tempo per mettere in funzione il portale siccome era un processo complicato che poteva richiedere diverse settimane."
+    n "Sapevo che qualcosa non andava, ma nondimeno, mi misi subito al lavoro. Se non altro, potevo preparare l'edificio. Avrei avuto riparo, e quindi avrei potuto iniziare i preparativi del nostro progetto. Ci sarebbe voluto del tempo per mettere in funzione il portale siccome era un processo complicato che poteva richiedere diverse settimane."
 
 # game/chapter4.rpy:4334
 translate italiantl _call_skipcheck_21_76b2fe88_4:
@@ -5672,7 +5672,7 @@ translate italiantl _call_skipcheck_21_2dc9e104:
 translate italiantl _call_skipcheck_21_b5281303:
 
     # As "For us and the physical machines that are the portals, time passes linearly and we can't do anything about that. However, for the black holes this isn't the case."
-    As "Per noi e per le macchine fisiche quali sono i portali, il tempo passa linearmente e non possiamo farci nulla a riguardo. Tuttavia, non è questo il caso per i buchi neri."
+    As "Per noi e per le macchine fisiche quali sono i portali, il tempo passa linearmente e non possiamo farci nulla al riguardo. Tuttavia, non è questo il caso per i buchi neri."
 
 # game/chapter4.rpy:4560
 translate italiantl _call_skipcheck_21_98f966e9:
@@ -5804,7 +5804,7 @@ translate italiantl _call_skipcheck_21_39086922:
 translate italiantl _call_skipcheck_21_a9868dd9:
 
     # As "Many still hunt on their own for sustenance, and as such, the original species they were based on have mostly vanished, as in direct competition, ours proved to be far superior."
-    As "Molti cacciano ancora i loro simili per il sostentamento, e pertanto, la specie originale su cui erano basati è per lo più scomparsa, siccome in competizione diretta, la nostra si è dimostrata nettamente superiore."
+    As "Molti cacciano ancora da soli per il sostentamento, e pertanto, le specie originali su cui erano basati sono per lo più scomparse, siccome in competizione diretta, le nostre si sono dimostrate nettamente superiori."
 
 # game/chapter4.rpy:4604
 translate italiantl _call_skipcheck_21_09805296:
@@ -6146,7 +6146,7 @@ translate italiantl _call_popularcheck_17_b4dbb953:
 translate italiantl _call_popularcheck_17_839d7d38:
 
     # Br "I just want to get out of my crummy temporary apartment."
-    Br "Ho solo voglia di uscirmene da questo misero appartamento provvisorio." # "my" -> "this"
+    Br "Ho solo voglia di uscirmene da questo misero appartamento temporaneo." # "my" -> "this"
 
 # game/chapter4.rpy:5121
 translate italiantl _call_popularcheck_17_6c268da3:

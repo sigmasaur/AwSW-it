@@ -856,7 +856,7 @@ translate italiantl no_1eb71afe:
 translate italiantl no_2d79312c:
 
     # Rz angry "And you call yourself an ambassador? This generator is the only thing we need for our city to survive. How can you even argue about this?"
-    Rz angry "E tu ti definisci un ambasciatorə? Questo generatore è la sola cosa di cui abbiamo bisogno perché la nostra città sopravviva. Come puoi anche solo metterlo in dubbio?"
+    Rz angry "E tu ti definisci un ambasciatorə? Questo generatore è la sola cosa di cui abbiamo bisogno perché la nostra città sopravviva. Come puoi anche solo volerne discutere?"
 
 # game/chapter5evilending.rpy:620
 translate italiantl no_4d5c609b:
@@ -934,7 +934,7 @@ translate italiantl no_bb787d06:
 translate italiantl no_138dcbc4:
 
     # Rz amused "Listening to you was fun and all, but the grownups must get back to work now."
-    Rz amused "Ascoltarti è stato divertente e via dicendo, ma adesso gli adulti devono tornare a lavoro." # "was" -> "is"
+    Rz amused "Ascoltarti è stato divertente e via dicendo, ma adesso i grandi devono tornare al lavoro."
 
 # game/chapter5evilending.rpy:659
 translate italiantl no_7342b0c0:

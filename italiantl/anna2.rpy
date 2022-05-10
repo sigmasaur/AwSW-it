@@ -766,7 +766,7 @@ translate italiantl _call_skipcheck_32_640b5fdf:
 translate italiantl _call_skipcheck_32_f4349131:
 
     # m "Miles raised his head from his kill, blood dripping from his maw. The officers' breaths were smothered by the deathly stillness of the night. Fangs bared, the feral dragon snarled and stood strong in front of his meal, prepared to protect it from the two who intruded upon his territory."
-    m "Miles sollevò il capo dal suo bottino di caccia, le fauci grondanti di sangue. La mortale quiete della notte mozzava il respiro agli agenti. Digrignando le zanne, il drago ferino ringhiò e si erse possente davanti al suo pasto, pronto a proteggerlo dai due che avevano invaso il suo territorio."
+    m "Miles sollevò la bocca dal suo fiero pasto, il sangue che colava dalle fauci. La mortale quiete della notte mozzava il respiro agli agenti. Digrignando le zanne, il drago ferino ringhiò e si erse possente davanti alla sua preda, pronto a proteggerla dai due che avevano invaso il suo territorio." # half quoted the Divine Comedy, Inferno, canto XXXIII, line 1 and exchanged "kill" and "meal" as a result, also "fangs bared" -> "baring his fangs"
 
 # game/anna2.rpy:542
 translate italiantl _call_skipcheck_32_9919657a:
@@ -1450,7 +1450,7 @@ translate italiantl _call_skipcheck_32_14bbf64a:
 translate italiantl _call_skipcheck_32_a3bd46da:
 
     # m "She opened her maw wide before a liquid shot from both corners of her mouth and onto the ground below the parts of the Mouflon she had prepared."
-    m "Spalancò le fauci prima che un liquido le scaturisse da entrambi gli angoli della bocca e fino al suolo, sotto le parti del muflone che aveva preparato."
+    m "Spalancò le fauci prima che un liquido le scaturisse da entrambi gli angoli della bocca e fino al suolo, sotto le parti del muflone che aveva approntato."
 
 # game/anna2.rpy:995
 translate italiantl _call_skipcheck_32_fbf46b19:
@@ -1600,7 +1600,7 @@ translate italiantl _call_skipcheck_32_715002fb:
 translate italiantl _call_skipcheck_32_38caf1ef:
 
     # An smirk c "Just wonderful. Stolen goods always taste best. I can already picture the old farmer reduced to tears after he discovers one of his precious Mouflons is gone."
-    An smirk c "Semplicemente fantastico. È sempre più buono quand'è rubato. Posso già vedere il vecchio allevatore ridotto in lacrime dopo aver scoperto che uno dei suoi preziosi mufloni è sparito."
+    An smirk c "Semplicemente fantastico. È sempre più buono quand'è rubato. Posso già figurarmi il vecchio allevatore ridotto in lacrime dopo aver scoperto che uno dei suoi preziosi mufloni è sparito."
 
 # game/anna2.rpy:1084
 translate italiantl _call_skipcheck_32_954aa2a1:

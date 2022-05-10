@@ -190,7 +190,7 @@ translate italiantl _call_endingjustafewminuteslater_7ea9afa3:
 translate italiantl _call_endingjustafewminuteslater_6bb0c534:
 
     # m "I heard gunshots. Immediately I felt the most excruciating pain I’ve ever experienced resonate through my arm. As I kept sprinting as fast as I could, I heard a beeping sound that made me realize I had inadvertently activated the bomb when I was hit."
-    m "Udii dei colpi di pistola. Immediatamente avvertii il dolore più lancinante che avessi mai provato riverberarmi attraverso il braccio. Mentre continuavo a correre più veloce che potevo, sentii un segnale acustico che mi fece intendere come avessi inavvertitamente attivato la bomba quand'ero statə colpitə."
+    m "Sentii dei colpi di pistola. Immediatamente avvertii il dolore più lancinante che avessi mai provato riverberarmi attraverso il braccio. Mentre continuavo a correre più veloce che potevo, udii un segnale acustico che mi fece realizzare come avessi inavvertitamente attivato la bomba quand'ero statə colpitə."
 
 # game/chapter5.rpy:608
 translate italiantl _call_endingjustafewminuteslater_fcdea398:

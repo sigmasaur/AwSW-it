@@ -16,7 +16,7 @@ translate italiantl anna1_8d584416:
 translate italiantl anna1_b230ba57:
 
     # m "I heard some commotion in the distance, and when I approached, I was surprised to see not only Anna, but Remy as well."
-    m "Udii del trambusto in lontananza, e quando mi avvicinai, fui sorpresə di vedere non solo [An], ma anche [Ry] insieme a lei."
+    m "Udii del trambusto in lontananza, e quando mi avvicinai, fui sorpresə di vedere non solo [An], ma con lei anche [Ry]." # "but Remy WITH HER as well"
 
 # game/anna1.rpy:37
 translate italiantl anna1_64333f1a:
@@ -910,7 +910,7 @@ translate italiantl _call_skipcheck_7_5b3a3cb1:
 translate italiantl _call_skipcheck_7_91a94269:
 
     # An "Do you even know what kind of advanced knowledge I have to memorize and work with every single day?"
-    An "Almeno lo sai che genere di conoscenze avanzate devo memorizzare e applicare a lavoro ogni singolo giorno?"
+    An "Almeno lo sai che genere di conoscenze avanzate devo memorizzare e applicare al lavoro ogni singolo giorno?"
 
 # game/anna1.rpy:697
 translate italiantl _call_skipcheck_7_9714e430:
@@ -1432,7 +1432,7 @@ translate italiantl _call_syscheck_36_e897fbb0:
 translate italiantl _call_syscheck_36_f03c4888:
 
     # An "In any case, I should head back to work. My break is just about over."
-    An "In ogni caso, dovrei tornare a lavoro. La mia pausa è quasi finita."
+    An "In ogni caso, dovrei tornare al lavoro. La mia pausa è quasi finita."
 
 # game/anna1.rpy:1080
 translate italiantl _call_syscheck_36_764cb07e:
@@ -1824,7 +1824,7 @@ translate italiantl strings:
 
     # anna1.rpy:534
     old "Not at all."
-    new "Per nulla."
+    new "Per niente." # must also match line 3007 of chapter 4
 
     # anna1.rpy:562
     old "I was just asking a question, that's all."
@@ -1876,7 +1876,7 @@ translate italiantl strings:
 
     # anna1.rpy:727
     old "Sorry, but I can't sell my body for a bet."
-    new "Scusa, ma non posso vendere il mio corpo per una scommessa."
+    new "Scusa, ma non posso vendere il mio corpo per scommessa."
 
     # anna1.rpy:727
     old "I changed my mind, I'll do it."

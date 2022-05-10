@@ -174,7 +174,7 @@ translate italiantl begingame_337d015e:
 translate italiantl begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta: una lettera d'invito. Dopo qualche deliberazione, fu deciso di accettare la loro ospitalità e inviare una persona dall'altro lato." # corrected lowercase letter, also "a [very] unexpected reply"
+    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta: una lettera d'invito. Dopo qualche riflessione, fu deciso di accettare la loro ospitalità e inviare una persona dall'altro lato." # corrected lowercase letter, also "a [very] unexpected reply"
 
 # game/chapter1.rpy:437
 translate italiantl begingame_3dadd8d0:
@@ -608,7 +608,7 @@ translate italiantl holetravel_6e0c5972:
 translate italiantl holetravel_4bcd03cc:
 
     # m "I could vaguely see the dragon, his light colors still visible within the blackness that engulfed the area, rear up and manipulate the door handle with one of his forepaws."
-    m "Riuscivo vagamente a scorgere il drago, i suoi colori chiari ancora visibili nella tenebra che inghiottiva i dintorni, sollevarsi sulle zampe posteriori e manipolare la maniglia della porta con una delle sue anteriori."
+    m "Riuscivo vagamente a scorgere il drago, i suoi colori chiari ancora visibili nella tenebra che inghiottiva la zona, sollevarsi sulle zampe posteriori e manipolare la maniglia della porta con una delle sue anteriori."
 
 # game/chapter1.rpy:709
 translate italiantl holetravel_f97397b2:
@@ -632,7 +632,7 @@ translate italiantl holetravel_e590ac89:
 translate italiantl holetravel_a1bc0095:
 
     # c "Thank you, Remy. Have a good night."
-    c "Ti ringrazio, [Ry]. Ti auguro una buona notte."
+    c "Ti ringrazio, [Ry]. Ti auguro una buonanotte."
 
 # game/chapter1.rpy:716
 translate italiantl holetravel_acc659e8:
@@ -1278,7 +1278,7 @@ translate italiantl _call_syscheck_4_f0387be4:
 translate italiantl _call_syscheck_4_9bb48a13:
 
     # c "I'm getting hungry. How about some breakfast?"
-    c "Sto iniziando ad avere fame. Che ne dici di un po' di colazione?"
+    c "Mi sta venendo fame. Che ne dici di un po' di colazione?"
 
 # game/chapter1.rpy:1543
 translate italiantl _call_syscheck_4_ed80bfe0:
@@ -1941,7 +1941,7 @@ translate italiantl _call_syscheck_6_89aefe22:
 translate italiantl _call_syscheck_6_e01a6f22:
 
     # m "Looking over the clipboard the small dragon was holding up to me, I saw that the sender of the letter in question was Reza."
-    m "Sbirciando al di sopra del portablocco che il piccolo drago teneva sollevato verso di me, vidi che il mittente della lettera in questione era [Rz]."
+    m "Sbirciando al disopra del portablocco che il piccolo drago teneva sollevato verso di me, vidi che il mittente della lettera in questione era [Rz]."
 
 # game/chapter1.rpy:2007
 translate italiantl _call_syscheck_6_39fda16a:
@@ -2323,7 +2323,7 @@ translate italiantl increasing_43f2e8f5:
 translate italiantl increasing_a0b98dc0:
 
     # c "(I have now reached the point where, statistically speaking, I should have gotten the right one. Either I'm just exceptionally bad at guessing or I should start looking elsewhere.)"
-    c "(Adesso ho raggiunto un punto in cui, statisticamente parlando, avrei dovuto azzeccare quella giusta. O sono solo eccezionalmente scarsə a indovinare o dovrei iniziare a cercare altrove.)"
+    c "(Adesso ho raggiunto un punto in cui, statisticamente, avrei dovuto azzeccare quella giusta. O sono solo eccezionalmente scarsə a indovinare o dovrei iniziare a cercare altrove.)"
 
 # game/chapter1.rpy:2257
 translate italiantl increasing_c1a963af:
@@ -2589,7 +2589,7 @@ translate italiantl _call_syscheck_7_76b2fe88_4:
 translate italiantl _call_syscheck_7_264b3908:
 
     # n "As a manual meant for the general populace, this booklet intends to bring you, the valued reader, closer to the uses and joys an Ixomen Sphere might bring. I have taken utmost care to use simple language and instructions to remove the well-known barrier between individuals and knowledge of proper use of this most wondrous device. For interested parties, a chapter about the Ixomen Sphere's history and ideas for advanced applications can be found later in the book."
-    n "Come manuale rivolto al popolo generale, questo libretto si propone di portare te, stimato lettore, più vicino agli usi e alle gioie che una Sfera di Ixomen può portare. Ho prestato la massima attenzione a usare un linguaggio e istruzioni semplici per rimuovere la ben nota barriera fra gli individui e la conoscenza del corretto utilizzo di questo dispositivo così prodigioso. Per le parti interessate, un capitolo sulla storia della Sfera di Ixomen e sulle idee per applicazioni avanzate può essere trovato più avanti nel libro."
+    n "Come manuale rivolto al grande pubblico, questo libretto si propone di portare te, stimato lettore, più vicino agli usi e alle gioie che una Sfera di Ixomen può portare. Ho prestato la massima attenzione a usare un linguaggio e istruzioni semplici per rimuovere la ben nota barriera fra gli individui e la conoscenza del corretto utilizzo di questo dispositivo così prodigioso. Per le parti interessate, un capitolo sulla storia della Sfera di Ixomen e sulle idee per applicazioni avanzate può essere trovato più avanti nel libro." # "might bring" -> "can bring"
 
 # game/chapter1.rpy:2431
 translate italiantl _call_syscheck_7_a3139658:
@@ -2753,7 +2753,7 @@ translate italiantl menukitchen_06ab5d9e:
 translate italiantl menufridge_1ac24b1a:
 
     # c "(It is just a slab of meat. Nothing special about it.)"
-    c "(È solo una fetta di carne. Niente di speciale a riguardo.)"
+    c "(È solo una fetta di carne. Niente di speciale al riguardo.)"
 
 # game/chapter1.rpy:2585
 translate italiantl menufridge_a63bc919:
@@ -2915,7 +2915,7 @@ translate italiantl _call_syscheck_11_b897d68b:
 translate italiantl _call_syscheck_11_acb439a1:
 
     # c "(It might as well be said that the influence of figs is as far reaching as its fruit is succulent. Fig-uratively speaking, that is.)"
-    c "(Si potrebbe anche dire che l'influenza dei fichi ha una portata tanto ampia quanto il loro frutto è succulento. Fic-urativamente parlando, s'intende.)" # "its fruit" -> "their fruit"
+    c "(Si potrebbe anche dire che l'influenza dei fichi ha una portata tanto ampia quanto il loro frutto è succulento. In senso fic-urato, s'intende.)" # "its fruit" -> "their fruit"
 
 # game/chapter1.rpy:2741
 translate italiantl _call_syscheck_11_9ca3ba4e:
@@ -3203,7 +3203,7 @@ translate italiantl continuation_4f9d14fc:
 translate italiantl continuation_b002be4f:
 
     # m "I frantically scanned my surroundings looking for Reza, though he had already vanished into the darkness. What was I supposed to do? Run away as well? Help Maverick? I was just a diplomat and I had no idea what was happening."
-    m "Scrutai freneticamente attorno a me in cerca di [Rz], sebbene questi fosse già svanito nell'oscurità. Che cosa avrei dovuto fare? Fuggire a mia volta? Aiutare [Mv]? Ero solo unə diplomaticə e non avevo idea di cosa stesse accadendo."
+    m "Scrutai freneticamente intorno a me in cerca di [Rz], sebbene questi fosse già svanito nell'oscurità. Che cosa avrei dovuto fare? Fuggire a mia volta? Aiutare [Mv]? Ero solo unə diplomaticə e non avevo idea di cosa stesse accadendo."
 
 # game/chapter1.rpy:2918
 translate italiantl continuation_a868f086:
@@ -3491,7 +3491,7 @@ translate italiantl continuation_c4f759c6:
 translate italiantl continuation_dd21be7f:
 
     # c "We still got quite a lot on our hands now, though. We have a wounded dragon and a missing human. This could lead to a diplomatic crisis."
-    c "Per adesso abbiamo ancora parecchio per le mani, comunque. Abbiamo un drago ferito e un umano disperso. Il che potrebbe portare a una crisi diplomatica."
+    c "Per adesso abbiamo ancora parecchio per le mani, comunque. Abbiamo un drago ferito e un umano scomparso. Il che potrebbe portare a una crisi diplomatica." # "FOR now"
 
 # game/chapter1.rpy:3081
 translate italiantl continuation_0195f9bc_1:
@@ -3503,7 +3503,7 @@ translate italiantl continuation_0195f9bc_1:
 translate italiantl continuation_dd21be7f_1:
 
     # c "We still got quite a lot on our hands now, though. We have a wounded dragon and a missing human. This could lead to a diplomatic crisis."
-    c "Per adesso abbiamo ancora parecchio per le mani, comunque. Abbiamo un drago ferito e un umano disperso. Il che potrebbe portare a una crisi diplomatica."
+    c "Per adesso abbiamo ancora parecchio per le mani, comunque. Abbiamo un drago ferito e un umano scomparso. Il che potrebbe portare a una crisi diplomatica." # see line 3076
 
 # game/chapter1.rpy:3087
 translate italiantl continuation_948ed879:
@@ -3515,7 +3515,7 @@ translate italiantl continuation_948ed879:
 translate italiantl continuation_dd21be7f_2:
 
     # c "We still got quite a lot on our hands now, though. We have a wounded dragon and a missing human. This could lead to a diplomatic crisis."
-    c "Per adesso abbiamo ancora parecchio per le mani, comunque. Abbiamo un drago ferito e un umano disperso. Il che potrebbe portare a una crisi diplomatica."
+    c "Per adesso abbiamo ancora parecchio per le mani, comunque. Abbiamo un drago ferito e un umano scomparso. Il che potrebbe portare a una crisi diplomatica." # see line 3076
 
 # game/chapter1.rpy:3090
 translate italiantl continuation_e3c5319a:
@@ -4031,7 +4031,7 @@ translate italiantl quest5_d19f855d:
 translate italiantl quest5_2e8a7b46:
 
     # c "He died here, else there would have been a trail we could follow. The splatters also suggest this is where they fought."
-    c "È morto qui, altrimenti vi sarebbe stata una scia da poter seguire. Gli schizzi inoltre suggeriscono che è qui che hanno lottato."
+    c "È morto qui, altrimenti vi sarebbe stata una scia da poter seguire. Gli schizzi inoltre indicano che è qui che hanno lottato."
 
 # game/chapter1.rpy:3469
 translate italiantl quest5_0ee50d1c:
@@ -4049,7 +4049,7 @@ translate italiantl quest5_f913b41f:
 translate italiantl quest5_ac0be0ab:
 
     # Br "Well, there is no blood anywhere else in the vicinity that would suggest that. Unless the perpetrator had the time to clean up some of it."
-    Br "Be', non c'è sangue da nessun'altra parte nelle vicinanze che lo indichi. A meno che l'aggressore non abbia avuto il tempo di pulirne una parte."
+    Br "Be', non c'è sangue da nessun'altra parte nelle vicinanze che lo indicherebbe. A meno che l'aggressore non abbia avuto il tempo di ripulirne una parte."
 
 # game/chapter1.rpy:3486
 translate italiantl quest5_9e24a4c4:
@@ -4553,7 +4553,7 @@ translate italiantl _call_syscheck_13_e7fb449d:
 translate italiantl _call_syscheck_13_db3eef0e:
 
     # Br "He's always been like that, always something to prove. We'll have to be careful. He'll be looking for Reza soon enough."
-    Br "È sempre stato così, sempre qualcosa da dimostrare. Dovremo fare attenzione. Andrà presto in cerca di [Rz]."
+    Br "È sempre stato così, sempre qualcosa da dimostrare. Dovremo stare attenti. Andrà presto in cerca di [Rz]."
 
 # game/chapter1.rpy:3770
 translate italiantl _call_syscheck_13_4bf4438d:
@@ -5227,7 +5227,7 @@ translate italiantl strings:
 
     # chapter1.rpy:3448
     old "The blood splatters suggest that:"
-    new "Le macchie di sangue suggeriscono che:"
+    new "Gli schizzi di sangue indicano che:"
 
     # chapter1.rpy:3448
     old "He was hemophiliac."
@@ -5255,7 +5255,7 @@ translate italiantl strings:
 
     # chapter1.rpy:3524
     old "The blood on his muzzle suggests that:"
-    new "Il sangue sul suo muso suggerisce che:"
+    new "Il sangue sul suo muso indica che:"
 
     # chapter1.rpy:3524
     old "He is a vampire."

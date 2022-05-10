@@ -34,7 +34,7 @@ translate italiantl bryce1_edcc1faa:
 translate italiantl bryce1_df11dec0:
 
     # c "I'm not sure if it's worth mentioning, but I have known Reza for a couple of years, so I know some things about his personality."
-    c "Non sono sicurə valga la pena di menzionarlo, ma ho conosciuto [Rz] per un paio d'anni, quindi so alcune cose sulla sua personalità."
+    c "Non sono sicurə che valga la pena di menzionarlo, ma ho conosciuto [Rz] per un paio d'anni, quindi so alcune cose sulla sua personalità."
 
 # game/bryce1.rpy:44
 translate italiantl bryce1_586e9ee6:
@@ -270,7 +270,7 @@ translate italiantl _call_skipcheck_8_39d68eb9:
 translate italiantl _call_skipcheck_8_61113c8f:
 
     # Wr "One generic beer for the chief of police, sure thing. How about you, [player_name]?"
-    Wr "Una birra per il capo di polizia, senz'altro. E tu invece, [player_name]?" # "one [generic] beer"
+    Wr "Una birra per il capo di polizia, senz'altro. E tu, invece, [player_name]?" # "one [generic] beer"
 
 # game/bryce1.rpy:313
 translate italiantl waitmenu_702e1676:
@@ -348,7 +348,7 @@ translate italiantl waitmenu_528630b1:
 translate italiantl waitmenu_d6dfe5da:
 
     # c "Of course, his nature caused him to clash with others, sometimes even including the school staff, though his genuine enthusiasm also garnered praise from them. He was quite a character."
-    c "Certo, questa sua natura lo spingeva a scontrarsi con gli altri, a volte persino a includere il personale scolastico, per quanto il suo sincero entusiasmo raccogliesse anche i loro elogi. Era un bel personaggio." # "his nature" -> "this nature of his"
+    c "Certo, questa sua natura lo spingeva a scontrarsi con gli altri, a volte persino a includere il personale scolastico, sebbene il suo sincero entusiasmo raccogliesse anche i loro elogi. Era un bel personaggio." # "his nature" -> "this nature of his"
 
 # game/bryce1.rpy:351
 translate italiantl waitmenu_162e9e6d:
@@ -1134,7 +1134,7 @@ translate italiantl _call_syscheck_41_8ae23095:
 translate italiantl _call_syscheck_41_110a5d5b:
 
     # Br "Thought so. I won't disagree with that."
-    Br "Lo immaginavo. Niente da obiettare a riguardo."
+    Br "Lo immaginavo. Niente da obiettare al riguardo."
 
 # game/bryce1.rpy:916
 translate italiantl _call_syscheck_41_948c0f54:
@@ -1200,7 +1200,7 @@ translate italiantl _call_syscheck_41_467820d0:
 translate italiantl _call_syscheck_41_88e66bd2:
 
     # m "By now it was obvious that Bryce was faltering, though he still was faring much better than I was. He even had to take a break in the middle of his beer, unable to down it in one go."
-    m "Per allora era ovvio che [Br] stesse perdendo colpi, sebbene se la passasse ancora molto meglio di me. Dovette persino prendersi una pausa a metà della sua birra, incapace di buttarla giù tutta d'un fiato."
+    m "Per allora era evidente che [Br] stesse perdendo colpi, sebbene se la passasse ancora molto meglio di me. Dovette persino prendersi una pausa a metà della sua birra, incapace di buttarla giù tutta d'un fiato."
 
 # game/bryce1.rpy:955
 translate italiantl _call_syscheck_41_4b508814:
@@ -1380,7 +1380,7 @@ translate italiantl _call_syscheck_41_c1731578:
 translate italiantl _call_syscheck_41_0d2a0960:
 
     # m "He was struggling. It became more and more obvious as he tried to swallow the liquid in his bowl bit by bit. He stopped at one point, panting heavily. I considered taking a cheap shot at him, but as he had refrained from doing so during my turn, I wasn't going to start now."
-    m "Era in difficoltà. Divenne tanto più ovvio quanto più del liquido nella sua tazza tentava di ingoiare a poco a poco. A un certo punto si fermò, ansimando forte. Considerai di lanciargli una frecciatina, ma siccome lui si era astenuto dal farlo durante il mio turno, non intendevo iniziare adesso."
+    m "Era in difficoltà. Divenne tanto più evidente quanto più del liquido nella sua tazza tentava di ingoiare a poco a poco. A un certo punto si fermò, ansimando forte. Considerai di lanciargli una frecciatina, ma siccome lui si era astenuto dal farlo durante il mio turno, non intendevo iniziare adesso."
 
 # game/bryce1.rpy:1086
 translate italiantl _call_syscheck_41_7480d039_1:
@@ -1884,7 +1884,7 @@ translate italiantl bryce1skip_9b9ab1ee:
 translate italiantl bryce1skip_1808e0cc:
 
     # Br "Damn, I should really get going, or I'll be late for work. You know how to get back to your apartment from here, right?"
-    Br "Diamine, dovrei veramente andare, o farò tardi a lavoro. Lo sai come ritornare al tuo appartamento da qui, vero?"
+    Br "Diamine, dovrei veramente andare, o farò tardi al lavoro. Lo sai come ritornare al tuo appartamento da qui, vero?"
 
 # game/bryce1.rpy:1378
 translate italiantl bryce1skip_3275e9ef:

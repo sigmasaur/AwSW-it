@@ -377,7 +377,7 @@ translate italiantl chapter3_97b938c0:
 translate italiantl chapter3_ed6087b4:
 
     # Br stern b "If that's your decision, then so be it."
-    Br stern b "Se questa è la tua decisione, allora così sia."
+    Br stern b "Se è questo che hai deciso, allora così sia."
 
 # game/chapter3.rpy:860
 translate italiantl c3contx_a9c6669a:
@@ -462,19 +462,19 @@ translate italiantl c3contx_97b938c0:
 translate italiantl c3contx_5af18c6b:
 
     # Br "If that's your decision, then so be it."
-    Br "Se questa è la tua decisione, allora così sia." # see line 851
+    Br "Se è questo che hai deciso, allora così sia." # see line 851
 
 # game/chapter3.rpy:896
 translate italiantl c3contx_5af18c6b_1:
 
     # Br "If that's your decision, then so be it."
-    Br "Se questa è la tua decisione, allora così sia." # see line 851
+    Br "Se è questo che hai deciso, allora così sia." # see line 851
 
 # game/chapter3.rpy:900
 translate italiantl c3contx_cced64d8:
 
     # Br "If that's your decision, then so be it. I'll have your back either way."
-    Br "Se questa è la tua decisione, allora così sia. Ti guarderò le spalle in ogni caso." # see line 851
+    Br "Se è questo che hai deciso, allora così sia. Ti guarderò le spalle in ogni caso." # see line 851
 
 # game/chapter3.rpy:902
 translate italiantl c3contx_f53f8226:
@@ -486,7 +486,7 @@ translate italiantl c3contx_f53f8226:
 translate italiantl c3contx_5af18c6b_2:
 
     # Br "If that's your decision, then so be it."
-    Br "Se questa è la tua decisione, allora così sia." # see line 851
+    Br "Se è questo che hai deciso, allora così sia." # see line 851
 
 # game/chapter3.rpy:930
 translate italiantl _call_skiptut_4_7c2b96fe:
@@ -834,7 +834,7 @@ translate italiantl c3conty_e0f35670:
 translate italiantl c3conty_f10bc2e4:
 
     # Em frown "And how do we know [player_name] isn't following a similar plan to Reza's, whatever that may be?"
-    Em frown "E come sappiamo che [player_name] non sta seguendo un piano simile a quello di [Rz], qualsiasi esso sia?"
+    Em frown "E come sappiamo che [player_name] non sta seguendo un piano simile a quello di [Rz], qualunque esso sia?"
 
 # game/chapter3.rpy:1164
 translate italiantl c3conty_c8f9159b:
@@ -912,7 +912,7 @@ translate italiantl c3conty_42c8fe85:
 translate italiantl c3conty_de0e4b28:
 
     # Br "Reza's been missing ever since."
-    Br "[Rz] è disperso da allora."
+    Br "[Rz] è scomparso da allora."
 
 # game/chapter3.rpy:1189
 translate italiantl c3conty_1822d45e:
@@ -1110,7 +1110,7 @@ translate italiantl c3conty_841f91fd:
 translate italiantl c3conty_6aa58db2:
 
     # Em frown "Reza himself may come to silence you once he learns that you are helping us. Or consider the public uproar from those who would question your involvement."
-    Em frown "[Rz] in persona potrebbe arrivare a farti tacere una volta che avesse appreso che ci stai aiutando. Oppure considera il pubblico risentimento da parte di coloro che metterebbero in dubbio il tuo coinvolgimento." # "may come" -> "might come", "learns" -> "learned"
+    Em frown "[Rz] stesso potrebbe arrivare a farti tacere una volta che avesse appreso che ci stai aiutando. Oppure considera il tumulto popolare da parte di coloro che contesterebbero il tuo coinvolgimento." # "may come" -> "might come", "learns" -> "learned"
 
 # game/chapter3.rpy:1268
 translate italiantl c3conty_eeff36cd:
@@ -1452,7 +1452,7 @@ translate italiantl c3conty_ee894df7:
 translate italiantl c3conty_f51e7d87:
 
     # c "When Reza and I were sent here, my peers made it clear that this was our last chance. If anything happens to us, no more people will be sent."
-    c "Quando [Rz] e io siamo stati inviati qui, i miei colleghi hanno messo bene in chiaro che questa era la nostra ultima possibilità. Se anche ci succede qualcosa, non verrà inviato più nessuno."
+    c "Quando [Rz] ed io siamo stati inviati qui, i miei colleghi hanno messo bene in chiaro che questa era la nostra ultima possibilità. Se anche ci succede qualcosa, non verrà inviato più nessuno."
 
 # game/chapter3.rpy:1458
 translate italiantl c3conty_13c7fe8b:
@@ -1632,7 +1632,7 @@ translate italiantl c3conty_180f8ab8:
 translate italiantl c3conty_fe006878:
 
     # m "We were silent as Sebastian and I slowly made our way to the portal."
-    m "Restammo in silenzio mentre [Sb] e io lentamente ci facevamo strada verso il portale."
+    m "Restammo in silenzio mentre [Sb] ed io ci facevamo lentamente strada verso il portale."
 
 # game/chapter3.rpy:1530
 translate italiantl c3conty_4f3c2b46:
@@ -2244,7 +2244,7 @@ translate italiantl c3conty_df6b99ad:
 translate italiantl c3conty_e393c137:
 
     # Ad disappoint b "I thought you had fun when we hung out in your apartment, but I guess I was wrong."
-    Ad disappoint b "Pensavo ti fossi divertitə quando siamo statɜ assieme al tuo appartamento, ma immagino di essermi sbagliata."
+    Ad disappoint b "Pensavo ti fossi divertitə quando ci siamo vistɜ al tuo appartamento, ma immagino di essermi sbagliata."
 
 # game/chapter3.rpy:1766
 translate italiantl c3conty_dcd37574:
@@ -2734,7 +2734,7 @@ translate italiantl c3conty_77d4a046:
 translate italiantl c3conty_d4a6529c:
 
     # Br stern b flip "You better bring that to her. Sebastian and I should hurry to the portal. Meet us there afterwards, okay?"
-    Br stern b flip "Faresti meglio a riportarglielo. [Sb] e io dovremmo affrettarci al portale. Incontraci là in séguito, okay?"
+    Br stern b flip "Faresti meglio a riportarglielo. [Sb] ed io dovremmo affrettarci al portale. Incontraci là in séguito, okay?"
 
 # game/chapter3.rpy:2031
 translate italiantl c3conty_c48dc32f:
@@ -2836,7 +2836,7 @@ translate italiantl c3conty_8b880a52:
 translate italiantl c3conty_9331073d:
 
     # m "Not wanting to listen to this any longer, I decided to knock."
-    m "Non volendo ascoltare oltre, decisi di bussare."
+    m "Non volendo sentire oltre, decisi di bussare." # "to listen [to this] any longer"
 
 # game/chapter3.rpy:2082
 translate italiantl c3conty_5a46014e:
@@ -4330,7 +4330,7 @@ translate italiantl c3fac_ebbc42ad:
 translate italiantl c3fac_ea4fe7aa:
 
     # An normal b "You know, I should get back to work. I really am busy. Excuse me."
-    An normal b "Sai, dovrei tornare a lavoro. Ho davvero molto da fare. Con permesso."
+    An normal b "Sai, dovrei tornare al lavoro. Ho davvero molto da fare. Con permesso."
 
 # game/chapter3.rpy:3014
 translate italiantl c3fac_571ba8de_1:
@@ -5480,7 +5480,7 @@ translate italiantl follow_338906d7:
 translate italiantl follow_4e8538c2:
 
     # m "When I peered inside, I saw Vara alongside a much larger, orange dragon. The small dragon filled a bowl with a thick fluid and placed it front of the other."
-    m "Quando vi scrutai all'interno, vidi [Vr] a fianco di un drago molto più grosso e di un colore arancio. Il piccolo drago riempì una ciotola con del liquido viscoso e la mise di fronte all'altro."
+    m "Quando sbirciai all'interno, vidi [Vr] a fianco di un drago molto più grosso e di un colore arancio. Il piccolo drago riempì una ciotola con del liquido viscoso e la pose di fronte all'altro."
 
 # game/chapter3.rpy:4048
 translate italiantl follow_b36cdb39:
@@ -5924,7 +5924,7 @@ translate italiantl _call_syscheck_26_e2a3b9f7:
 translate italiantl _call_syscheck_26_f8b6ed8e:
 
     # m "He cocked his head to the side. We both peered into the trash can that was next to the table, but it was empty."
-    m "Inclinò la testa da un lato. Scrutammo entrambi nel cestino dei rifiuti ch'era accanto al tavolo, ma questo era vuoto."
+    m "Inclinò la testa da un lato. Sbirciammo entrambi nel cestino dei rifiuti ch'era accanto al tavolo, ma questo era vuoto."
 
 # game/chapter3.rpy:4398
 translate italiantl _call_syscheck_26_96448e70:
@@ -5954,7 +5954,7 @@ translate italiantl _call_syscheck_26_be50daa0:
 translate italiantl _call_syscheck_26_ce04aab7:
 
     # Sb "Alright, I'll have to get back to work now. We'll contact you if we need anything else."
-    Sb "D'accordo, dovrò tornare a lavoro adesso. Ti contatteremo noi se abbiamo bisogno d'altro."
+    Sb "D'accordo, dovrò tornare al lavoro adesso. Ti contatteremo noi se abbiamo bisogno d'altro."
 
 # game/chapter3.rpy:4408
 translate italiantl _call_syscheck_26_da705393:

@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently on hold until the end of April. Files done and up for review:
+Currently working on `Bryce`'s sections. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -34,20 +34,21 @@ Currently on hold until the end of April. Files done and up for review:
 
     bryce1.rpy
     bryce2.rpy
+    bryce3.rpy
 
-A few remarks:
+### A few remarks
 
 * Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.<br>On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change. Also, `Emera` is addressed by all other characters with formal pronouns, as well as `Anna` by `Adine`, `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few circumstances.
 
 * I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`, to reduce the risk of typos when translating.
 
-* Sometimes, it may happen that a line matches exactly its translated counterpart. These lines don't get rendered correctly for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
+* Sometimes, it can happen that a line matches exactly its translated counterpart. These lines don't get rendered correctly for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
 
-* As a design choice, the developer eventually decided that no gameplay sequence would ever lead to both `Anna` and `Damion` surviving `Reza`'s break-in between `chapter2.rpy` and `chapter3.rpy`. However, dead branches are still found in the game, and therefore still made available for translation whenever any dialogue is involved. This dialogue is never triggered, but it should probably be at least taken into account when translating related branches.
+* As a design choice, the developer eventually decided that no gameplay sequence would ever lead to both `Anna` and `Damion` surviving `Reza`'s break-in between `chapter2.rpy` and `chapter3.rpy`. However, dead branches are still found in the game, and therefore still made available for translation whenever any dialogue is involved. This dialogue is never spoken, but it should probably be taken into account when translating related branches.
 
 [1]:https://italianoinclusivo.it/
 
-## How can I participate?
+## How can I contribute?
 
 1. To start, have a look at the pinned threads in the dedicated [Steam sub-forum][2]; there you'll also find the Italian translation thread.
 2. You can contact me either through [Steam][3] or [Discord][4], so that I can add you as a collaborator and we can discuss how to divide up the tasks, but in the meantime feel free to poke around to get an idea or even start working on the translation on your own.
@@ -110,7 +111,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware that the intended gender agreement is syntactic, as semantic agreement of *that* \[<i>quell-</i>\] with the player character would have been rendered with the inclusive gender instead \[<i>-ə</i>\].)
 * At line 1036, 1148, 3771: Slightly pruned to fit fewer lines.
 * At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of [`chapter1.rpy`](#chapter1rpy).
-* At line 1420-1438: Note that these lines also trigger if the user left at lines 75, 142 of [`bryce1.rpy`](#bryce1rpy), thus having never encountered `Zhong` at the bar.
+* At line 1420-1438: Note that these lines also trigger if `Zhong` was never met at the bar. Affected sequences: play [`bryce1.rpy`](#bryce1rpy) and leave at lines 75, 142.
 * At line 1607: Added brackets to match line 2301 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1623: *melon bread* → *melon-flavored bread*, to preserve the pun by linguistic necessity.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
@@ -135,7 +136,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 3098: Slightly pruned to fit fewer lines.
 * At line 3639: *pockets* → *pocket*, to match line 2312.
 * At line 3751: Adapted to preserve a pun; reverse translation: *I'm stunned.*
-* At line 3862-3866: Note that these lines also trigger if `Zhong` was already encountered in [`bryce1.rpy`](#bryce1rpy), where he addresses the player character by name. The user is then prompted to ask `Zhong` about him knowing the player character, resulting in the two speaking the same dialogue. Currently, the only affected sequences are where the user leaves at lines 694, 1176 of [`bryce1.rpy`](#bryce1rpy) or plays through, and doesn't interrogate `Zhong` in [`chapter2.rpy`](#chapter2rpy).
+* At line 3862-3866: Note that these lines also trigger if `Zhong` already addressed the player character by name in [`bryce1.rpy`](#bryce1rpy), where they may speak the same dialogue. Affected sequences: play [`bryce1.rpy`](#bryce1rpy) and [`chapter2.rpy`](#chapter2rpy) in either order; ask `Zhong` about him knowing the player character's name in [`bryce1.rpy`](#bryce1rpy) and optionally leave at lines 694, 1176, don't visit the grocery store in [`chapter2.rpy`](#chapter2rpy).
 * At line 4046-4064: Note that the larger, orange dragon should be a female, as mentioned by `Zhong` at line 3907; the current translation doesn't use this information, nonetheless.
 
 ### [`chapter4.rpy`](italiantl/chapter4.rpy)
@@ -144,7 +145,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash to em-dash.
 * At line 1094: Used if-statement to distinguish whether `Anna` survives or not, and corrected present tenses to simple past in the latter case.
 * At line 1368-1736: The following is a simplified flow chart to help keeping track of which dialogue spoken by the system refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** are persistent pseudo-variables starting resp. from `0`, `FALSE`. Note that **`CHEAT`** may jump from `0` to `2` but never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
-  * At line 1676-1736: Note that these lines also trigger if `Bryce` has been saved at least once after dying, then just died again and the user tries to cheat for the *first* time, resulting in a possibly unintended behavior (see e.g. line 1696).
+  * At line 1676-1736: Note that these lines also trigger if the user tried to cheat for the *first* time; see e.g. line 1696. Affected sequences: save `Bryce` after he died in a previous run, then try to cheat on the current run.
 * At line 1708: Slightly pruned to fit fewer lines.
 * At line 1812: Note that in theory, dragons don't know what a car is.
 * At line 2035, 2836, 2873, 2909, 2946: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
@@ -183,14 +184,14 @@ The following are mostly to the benefit of the developer and translators.
 ### [`adine1.rpy`](italiantl/adine1.rpy)
 
 * At line 39: *containers* → *container*, to match `cgadine2.png` and line 129.
-* At line 61-67: Note that these lines also trigger if the user managed to save `Bryce` and returned the eggs to the hatchery, thus having already encountered `Adine` before the actual meeting.
+* At line 61-67: Note that these lines also trigger if `Adine` was already met after [`chapter3.rpy`](#chapter3rpy). Affected sequences: save `Bryce` and return the eggs to the hatchery in [`chapter4.rpy`](#chapter4rpy).
 * At line 286, 785: Corrected uppercase letter to lowercase after colon.
 * At line 307: Rendered *children* as *cubs*.
 * At line 468, 520, 929: Corrected simple dash to em-dash.
 
 ### [`adine2.rpy`](italiantl/adine2.rpy)
 
-* At line 53-55: See lines 61-67 of [`adine1.rpy`](#adine1rpy).
+* At line 53-55: Note that these lines also trigger if `Adine` was already met after [`chapter3.rpy`](#chapter3rpy); see lines 61-67 of [`adine1.rpy`](#adine1rpy). Affected sub-sequences: play [`adine1.rpy`](#adine1rpy) before [`chapter3.rpy`](#chapter3rpy).
 * At line 215: Rendered *children* as *cubs*.
 * At line 346: Removed extra space before full stop.
 * At line 569, 617, 668, 753: Corrected uppercase letter to lowercase after colon.
@@ -198,7 +199,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`adine3.rpy`](italiantl/adine3.rpy)
 
-* At line 51-53: See lines 61-67 of [`adine1.rpy`](#adine1rpy).
+* At line 51-53: Note that these lines also trigger if `Adine` was already met after [`chapter3.rpy`](#chapter3rpy); see lines 61-67 of [`adine1.rpy`](#adine1rpy). Affected sub-sequences: play [`adine2.rpy`](#adine2rpy) before [`chapter3.rpy`](#chapter3rpy).
 * At line 257, 264: Consider renaming variable from `mp.time` to `mp.tan`, although it's never used.
 * At line 405, 407, 417, 419: Rendered *leg*(*s*) as *paw*(*s*).
 * At line 771: Kept the English name for *Freefall*, for coherence with the other names.
@@ -245,7 +246,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 219, 760: Corrected uppercase letter to lowercase after colon.
 * At line 219: Unfolded *2* → *two*, for elegance.
 * At line 369: Consider changing variable `chap2facres2` with `chap2facres`; see also line 1889 of [`chapter2.rpy`](#chapter2rpy).
-* At line 383-385: Used if-statements to distinguish whether `Damion` survives or not, and corrected present tenses to simple past in the latter case. Currently, the only affected sequence is where the user has already seen `Anna`'s good ending, then just played [`chapter3.rpy`](#chapter3rpy) after playing [`anna1.rpy`](#anna1rpy) and asking `Damion` about his research in [`chapter2.rpy`](#chapter2rpy); see also line 369.
+* At line 383-385: Note that these lines also trigger if `Damion` didn't survive. Affected sequences: see `Anna`'s good ending, visit the production facility and ask `Damion` about his research in [`chapter2.rpy`](#chapter2rpy), play [`chapter3.rpy`](#chapter3rpy); see also line 369. Used if-statement to correct all affected sequences by changing present tenses to simple past.
 * At line 428, 436: Unfolded *90%* → *ninety percent*, for elegance.
 * At line 430: Unfolded *50%* → *fifty percent*, for elegance.
 * At line 432: Unfolded *99.9%* → *(not) one permill*, *95-97%* → *(not) three-five percent*, for elegance.
@@ -261,7 +262,8 @@ The following are mostly to the benefit of the developer and translators.
 * At line 622: Used if-statement to distinguish color names based on whether their first character is a vowel or not, by linguistic necessity.
 * At line 704: Corrected *why do them* → *why do it*.
 * At line 926: Corrected uppercase letter to lowercase after colon.
-* At line 1268: Used if-statement to distinguish whether `Damion` survives or not, and corrected present tenses to simple past in the latter case. Currently, all sequences are affected.
+* At line 1084: Consider changing the value of variable `remystatus` from `"normal"` to `"neutral"`, and removing the `normal` mood from [`status.rpy`](#statusrpy).
+* At line 1268: Note that this line also triggers if `Damion` didn't survive. All sequences are affected; see [remarks](#a-few-remarks). Used if-statement to correct all affected sequences by changing present tenses to simple past.
 
 ### [`anna4.rpy`](italiantl/anna4.rpy)
 
@@ -286,7 +288,7 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 44: Corrected simple dash to em-dash.
 * At line 57: Corrected lowercase first letter to uppercase.
-* At line 311: Note that this line also prompts if the user interrogated `Zhong` in [`chapter2.rpy`](#chapter2rpy) or [`chapter3.rpy`](#chapter3rpy), resulting in him and the player character speaking the same dialogue.
+* At line 313: Note that this line may also be triggered if `Zhong` and the player character already spoke the same dialogue in [`chapter2.rpy`](#chapter2rpy) or [`chapter3.rpy`](#chapter3rpy). Affected sequences: visit the grocery store in either chapter.
 * At line 352: Assumed *you* is referred to the police department.
 * At line 353: Corrected uppercase letter to lowercase after colon.
 * At line 939-1259: Slightly relaxed the use of subjunctive forms in the dialogue spoken by `Bryce` and the player character, to match their altered state.
@@ -294,17 +296,17 @@ The following are mostly to the benefit of the developer and translators.
 ### [`bryce2.rpy`](italiantl/bryce2.rpy)
 
 * At line 70-78, 507, 513-553, 1079-1081, 1153-1157: Note that these lines also trigger under unexpected conditions. For ease of notation, let:<details><summary></summary>
-<code>A1</code> The user left at lines 421, 484, 568 of <a href="#bryce1rpy"><code>bryce1.rpy</code></a> before playing <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
-<code>A2</code> The user left at lines 75, 142, 694 of <a href="#bryce1rpy"><code>bryce1.rpy</code></a>, then interrogated <code>Zhong</code> in <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
-<code>A3</code> The user left at line 1176 of <a href="#bryce1rpy"><code>bryce1.rpy</code></a>, then interrogated <code>Zhong</code> in <a href="#chapter2rpy"><code>chapter2.rpy</code></a> and apologized to him.</br>
-<code>B1</code> The user played through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>bad</code> mood, then interrogated <code>Zhong</code> in <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
-<code>B2</code> The user played through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>neutral</code> mood.</br>
-<code>B3</code> The user played through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>good</code> mood.</details>
-  * At line 70-78: The player character never got to see `Bryce`'s apartment in [`bryce1.rpy`](#bryce1rpy), or did get to see his apartment but they never agreed to *pretend the whole thing never happened*; affected sequences: `A3` in the former case, `B1` in the latter; used if-statement to correct `A3` by `pass`ing.
-  * At line 507, 513-553: The `Administrator` and `Maverick` were already encountered in [`chapter4.rpy`](#chapter4rpy), where:<ul><li>At line 507: The player character learns that the former is not `Reza`;</li><li>At line 513-553: `Bryce` and the player character learn of *what [the latter]'s been up to*;</li></ul>
-  affected sequences: `A1-3`, `B1-2`, or `B3` after playing [`chapter3.rpy`](#chapter3rpy), then the user managed to save `Bryce` in [`chapter4.rpy`](#chapter4rpy).
-  * At line 1079-1081: The player character never got drunk in [`bryce1.rpy`](#bryce1rpy); affected sequences: `A1-2`.
-  * At line 1153-1157: `Bryce` never said *there's more to \[him\] than getting drunk*; affected sequences: `A1-3` or `B1-2`.
+<i>A</i><sub>1</sub>&ensp;Play <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and leave at lines 421, 484, 568 before <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
+<i>A</i><sub>2</sub>&ensp;Play <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and leave at lines 75, 142, 694, then visit the grocery store in <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
+<i>A</i><sub>3</sub>&ensp;Play <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and leave at line 1176, then visit the grocery store in <a href="#chapter2rpy"><code>chapter2.rpy</code></a> and apologize to <code>Zhong</code>.</br>
+<i>B</i><sub>1</sub>&ensp;Play through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>bad</code> mood, then visit the grocery store in <code>chapter2.rpy</code></a>.</br>
+<i>B</i><sub>2</sub>&ensp;Play through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>neutral</code> mood.</br>
+<i>B</i><sub>3</sub>&ensp;Play through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>good</code> mood.</details>
+  * At line 70-78: The player character never saw `Bryce`'s apartment, or did see his apartment but never agreed to *just pretend the whole thing never happened* in [`bryce1.rpy`](#bryce1rpy). Affected sequences: *A*<sub>3</sub> in the former case, *B*<sub>1</sub> in the latter. Used if-statement to correct *A*<sub>3</sub> by `pass`ing.
+  * At line 507, 513-553: The `Administrator` and `Maverick` were already met in [`chapter4.rpy`](#chapter4rpy), where:<ul><li>At line 507: The player character learns that the former is not `Reza`;</li><li>At line 513-553: `Bryce` and the player character learn of *what [the latter]'s been up to*.</li></ul>
+  Affected sequences: *A*<sub>1-3</sub>, *B*<sub>1-2</sub>, or *B*<sub>3</sub> after [`chapter3.rpy`](#chapter3rpy), then save `Bryce` in [`chapter4.rpy`](#chapter4rpy).
+  * At line 1079-1081: The player character never got drunk in [`bryce1.rpy`](#bryce1rpy). Affected sequences: *A*<sub>1-2</sub>.
+  * At line 1153-1157: `Bryce` never said *there's more to \[him\] than getting drunk* either in [`bryce1.rpy`](#bryce1rpy) or by message. Affected sequences: *A*<sub>1-3</sub> or *B*<sub>1-2</sub>.
 * At line 357, 395, 592, 1169: Corrected simple dash to em-dash.
 * At line 395: Unfolded *100%* → *one hundred percent*, for elegance.
 * At line 428, 430, 465, 848: Rendered *leg*(*s*) as *paw*(*s*).
@@ -312,6 +314,25 @@ The following are mostly to the benefit of the developer and translators.
 * At line 880: Assumed *you* is referred to the human race.
 * At line 1057: Rendered *child* as *cub*.
 * At line 1059: Where did `Bryce` and the player character say *no getting drunk this time*?
+
+### [`bryce3.rpy`](italiantl/bryce3.rpy)
+
+* At line 133-135: Note that these lines also trigger if `Maverick` was already met in [`chapter4.rpy`](#chapter4rpy), where `Bryce` and the player character learn of *what he's up to*; see lines 513-553 of [`bryce2.rpy`](#bryce2rpy).
+* At line 217: Note that this line also triggers if `Zhong` was never met at the bar in [`bryce1.rpy`](#bryce1rpy); see lines 1420-1438 of [`chapter2.rpy`](#chapter2rpy).
+* At line 438: Made `Bryce` use formal pronouns when addressing `Sebastian` as *Master of Ceremony*.
+* At line 463, 467, 1132: Corrected simple dash to em-dash.
+* At line 535-537: Adapted to preserve a pun; reverse translation:
+  * At line 535: *\[...\] her personality makes your scales stand on end.*
+  * At line 537: *Makes your what stand on end?*
+* At line 543: Note that the player character must be referring to lines 2056-2100 of [`chapter3.rpy`](#chapter3rpy).
+* At line 573: Corrected missing full stop.
+* At line 664: Unfolded *10%* → *ten percent*, for elegance.
+* At line 682: Corrected *sub<b>t</b>lety*.
+* At line 749: Corrected *encouraged* → *discouraged*, as `Bryce` is supposedly the same species, so if *dating between different species \[was\] encouraged* then it wouldn't explain *why `Emera` is so interested* in him.
+* At line 749: Split in multiple parts to fit fewer lines.
+* At line 793-838: Note that these lines also trigger if `Remy` didn't survive and `Sebastian` and the player character learned of it. Affected sequences: don't see `Remy`'s good ending, play [`remy3.rpy`](#remy3rpy) and put `Remy` in a `bad` mood, save `Bryce` and take the PDA to the library in [`chapter4.rpy`](#chapter4rpy).
+* At line 869, 1146: Corrected uppercase letter to lowercase after colon.
+* At line 1144: Unfolded *5* → *five*, for elegance.
 
 ## Other remarks
 

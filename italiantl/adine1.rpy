@@ -394,7 +394,7 @@ translate italiantl _call_skipcheck_10_cdd3e6f5:
 translate italiantl _call_skipcheck_10_75906cf7:
 
     # Ad "Well, I don't really know much about you. Actually, I'm not sure if there is anyone here who does."
-    Ad "Be', non so poi molto di te. In effetti, non sono sicura che ci sia qualcuno qui che possa dire di conoscerti." # "who does" -> "who can say that they know you"
+    Ad "Be', non so poi molto di te. In effetti, non sono sicura che ci sia nessuno qui che ti conosce." # "who does KNOW YOU"
 
 # game/adine1.rpy:339
 translate italiantl _call_skipcheck_10_41444a40:
@@ -820,7 +820,7 @@ translate italiantl _call_skipcheck_10_089aa707:
 translate italiantl _call_skipcheck_10_98d1aad3:
 
     # Ad "Let me know when you do. I'd be interested in hearing what you have to say about it."
-    Ad "Fammi sapere quando lo fai. Sarei interessata a sentire cos'hai da dire a riguardo."
+    Ad "Fammi sapere quando lo fai. Sarei interessata a sentire cos'hai da dire al riguardo."
 
 # game/adine1.rpy:578
 translate italiantl _call_skipcheck_10_4b7f20ab_1:
@@ -1054,7 +1054,7 @@ translate italiantl nextsc_0532a010:
 translate italiantl nextsc_206795eb:
 
     # c "Well, keep in mind that revenge might be coming quicker than you think, so don't ask someone for anything you wouldn't do yourself."
-    c "Be', tieni a mente che la rivincita potrebbe arrivare prima di quel che pensi, quindi non chiedere a qualcuno di fare niente che non faresti tu stessa." # "quicker" -> "earlier"
+    c "Be', tieni a mente che la rivincita potrebbe arrivare prima di quello che pensi, quindi non chiedere a qualcuno di fare niente che non faresti tu stessa." # "quicker" -> "earlier"
 
 # game/adine1.rpy:739
 translate italiantl nextsc_b0e643f3:
@@ -1066,7 +1066,7 @@ translate italiantl nextsc_b0e643f3:
 translate italiantl nextsc_24285aa7:
 
     # c "You asked the last few questions, so it's only fair if I start."
-    c "Hai posto tu le ultime domande, quindi è solo che giusto che sia io a iniziare." # "the last [few] questions"
+    c "Hai posto tu le ultime domande, quindi è solo che giusto che sia io a iniziare."
 
 # game/adine1.rpy:744
 translate italiantl nextsc_58abfc7c:
@@ -2076,7 +2076,7 @@ translate italiantl strings:
 
     # adine1.rpy:863
     old "I'm not sure I'd agree with that."
-    new "Non sono sicurə che mi troveresti d'accordo."
+    new "Non sono sicurə che sarei d'accordo."
 
     # adine1.rpy:880
     old "Enjoy life to the fullest until the last moment."

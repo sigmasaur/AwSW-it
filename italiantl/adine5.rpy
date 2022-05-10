@@ -682,7 +682,7 @@ translate italiantl adinegoodending_56341089:
 translate italiantl adinegoodending_46ac73c9:
 
     # Ad "Can I do anything else? I'm not sure if I can apply the bandage."
-    Ad "Posso fare nient'altro? Non sono sicura di poter applicare la fasciatura."
+    Ad "Posso fare nient'altro? Non sono sicura di saper applicare la fasciatura."
 
 # game/adine5.rpy:716
 translate italiantl adinegoodending_aa5d2b2e:
@@ -694,7 +694,7 @@ translate italiantl adinegoodending_aa5d2b2e:
 translate italiantl adinegoodending_c15dbd2d:
 
     # Ad normal b "Well, at first, Maverick wanted to storm the place head-on, but then I remembered the map you gave me and the other entrance. We heard you two talking and figured we could surprise him if we went in the other way."
-    Ad normal b "Be', all'inizio, [Mv] voleva prendere il posto d'assalto a testa bassa, ma poi mi sono ricordata della mappa che mi avevi dato e dell'altra entrata. Vi abbiamo sentiti parlare e abbiamo pensato di poterlo sorprendere se fossimo entrati dall'altra parte."
+    Ad normal b "Be', all'inizio, [Mv] voleva assaltare il posto a testa bassa, ma poi mi sono ricordata della mappa che mi avevi dato e dell'altra entrata. Vi abbiamo sentiti parlare e abbiamo pensato di poterlo sorprendere se fossimo entrati dall'altra parte." # "we heard you [two] talking"
 
 # game/adine5.rpy:720
 translate italiantl adinegoodending_feb7e810:
@@ -838,7 +838,7 @@ translate italiantl adinegoodending_2fc1d6c7:
 translate italiantl adinegoodending_f85ecedc:
 
     # As "Well, with the generators still intact, we will have no trouble diverting the comet and saving this world, but I also know that you feel very strongly about executing the mission you were sent here for."
-    As "Be', coi generatori ancora intatti, non avremo problemi a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # see the Italian translation of Charlotte Gray, 00:08:32, also "about [executing] the mission", see line 814
+    As "Be', coi generatori ancora intatti, non avremo difficoltà a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # see the Italian translation of Charlotte Gray, 00:08:32, also "about [executing] the mission", see line 814
 
 # game/adine5.rpy:814
 translate italiantl adinegoodending_592747cc:
@@ -1138,7 +1138,7 @@ translate italiantl adinegoodending_da51e021:
 translate italiantl adinegoodending_ae56a84f:
 
     # Ad think b "Have you ever babysat before?"
-    Ad think b "Hai mai fatto da balia prima d'ora?"
+    Ad think b "Avevi mai fatto da balia prima d'ora?"
 
 # game/adine5.rpy:1034
 translate italiantl adinegoodending_255f2038:

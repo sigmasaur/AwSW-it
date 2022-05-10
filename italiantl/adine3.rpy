@@ -208,7 +208,7 @@ translate italiantl _call_skipcheck_9_525b9133:
 translate italiantl _call_skipcheck_9_2931928c:
 
     # Ad giggle b "Oh, I can't just start practicing right now. I'm still giddy with excitement from getting that letter earlier. Besides, I wanted to hang out with you while we're here as well."
-    Ad giggle b "Oh, non posso iniziare ad allenarmi adesso. Sono ancora in preda all'eccitazione per aver ricevuto quella lettera di prima. E poi, volevo anche stare un po' assieme a te già che siamo qui."
+    Ad giggle b "Oh, non posso iniziare ad allenarmi adesso. Sono ancora in preda all'entusiasmo di aver ricevuto quella lettera di prima. E poi, volevo anche stare un po' assieme a te già che siamo qui."
 
 # game/adine3.rpy:204
 translate italiantl _call_skipcheck_9_ed080091:
@@ -2075,7 +2075,7 @@ translate italiantl adine3skip_df72d121:
 translate italiantl adine3skip_e147d262:
 
     # Ad "When she got sick, I often visited her. I just wanted to check up on her and take a little of the edge off, considering what she was going through at work."
-    Ad "Quando si è ammalata, le facevo spesso visita. Volevo solo controllarla e allentare la tensione un tantino, considerando quello che stava passando a lavoro."
+    Ad "Quando si è ammalata, le facevo spesso visita. Volevo solo controllarla e allentare la tensione un tantino, considerando quello che stava passando al lavoro."
 
 # game/adine3.rpy:1159
 translate italiantl adine3skip_46e2fe54:

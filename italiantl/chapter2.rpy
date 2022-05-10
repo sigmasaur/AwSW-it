@@ -622,7 +622,7 @@ translate italiantl _call_skipcheck_11_3d297083:
 translate italiantl _call_skipcheck_11_67221283:
 
     # Br "Yeah, the portal wasn't the only piece of ancient technology we found. There was also this whole... lab near it. Seemed to have some high-tech stuff in there."
-    Br "Già, il portale non è stato l'unico reperto di antica tecnologia che abbiamo trovato. C'era anche quest'intero... laboratorio vicino. Sembrava esserci della roba altamente tecnologica là dentro." # "seemed to have" -> "seemed to be"
+    Br "Già, il portale non è stato l'unico reperto di antica tecnologia che abbiamo trovato. C'era anche quest'intero... laboratorio vicino. Sembrava esserci dell'alta tecnologia là dentro." # "seemed to have" -> "seemed to be"
 
 # game/chapter2.rpy:675
 translate italiantl _call_skipcheck_11_8ab0c974:
@@ -2613,7 +2613,7 @@ translate italiantl chap2libmenu_efe0e8c3:
 translate italiantl chap2libmenu_78b86ff4:
 
     # Ry shy "I'm not at liberty to discuss them at the moment. I'm supposed to be working, you know."
-    Ry shy "Non mi è concesso di discuterne al momento. Dovrei essere a lavoro, sai."
+    Ry shy "Non mi è concesso di discuterne al momento. Dovrei essere al lavoro, sai."
 
 # game/chapter2.rpy:2231
 translate italiantl chap2libmenu_8695bafc:
@@ -2961,7 +2961,7 @@ translate italiantl _call_syscheck_55_8d8add9d:
 translate italiantl chap2hatch_801e03ea:
 
     # m "Beneath the hatch, a strange-looking orb of darkness was floating in the shaft that leads down to the maintenance tunnels."
-    m "Al di sotto della botola, un orbe di tenebra dallo strano aspetto fluttuava nel condotto che conduceva giù alle gallerie di manutenzione." # corrected past tenses
+    m "Al disotto della botola, un orbe di tenebra dallo strano aspetto fluttuava nel condotto che conduceva giù alle gallerie di manutenzione." # corrected past tenses
 
 # game/chapter2.rpy:2715
 translate italiantl chap2hatch_f069ccf1:
@@ -2973,7 +2973,7 @@ translate italiantl chap2hatch_f069ccf1:
 translate italiantl chap2hatch_46abce11:
 
     # m "I looked down to see the maintenance tunnels for the underground drain system. A pale object starkly contrasted against the pitch-black backdrop."
-    m "Guardai in basso per scorgere le gallerie di manutenzione del sistema di drenaggio sotterraneo. Un pallido oggetto si distingueva nettamente dal fondo nero come la pece."
+    m "Guardai in basso e scòrsi le gallerie di manutenzione del sistema di drenaggio sotterraneo. Un pallido oggetto si distingueva nettamente dal fondo nero come la pece."
 
 # game/chapter2.rpy:2771
 translate italiantl chap2hatch_0d43d13a:
@@ -3123,7 +3123,7 @@ translate italiantl chap2park3_ef994d78:
 translate italiantl chap2park3_8833e938:
 
     # Lu "Yep! Oh, I should probably go before the bookstore closes. Bye!"
-    Lu "Già! Oh, sarà meglio che vada prima che la libreria chiuda. Ciao!"
+    Lu "Già! Oh, probabilmente dovrei andare prima che la libreria chiuda. Ciao!"
 
 # game/chapter2.rpy:3154
 translate italiantl chap2park3_be7f9017:
@@ -3309,13 +3309,13 @@ translate italiantl chap2emselection_6fb65b35:
 translate italiantl chap2emselection_db1472da:
 
     # Em normal "Well, I think it is about the most exciting thing that has happened here in the last few years."
-    Em normal "Be', penso sia forse la cosa più entusiasmante che è capitata qui negli ultimi anni."
+    Em normal "Be', penso sia forse la cosa più eccitante che è capitata qui negli ultimi anni."
 
 # game/chapter2.rpy:3290
 translate italiantl chap2emselection_36f0762f:
 
     # Em mean "It certainly has been a nice distraction from the other boring things I have to do at work."
-    Em mean "Di certo è stata una gradevole distrazione dalle altre noiosità che mi tocca affrontare a lavoro."
+    Em mean "Di certo è stata una gradevole distrazione dalle altre noiosità che mi tocca affrontare al lavoro."
 
 # game/chapter2.rpy:3292
 translate italiantl chap2emselection_be8b7287:
@@ -3393,7 +3393,7 @@ translate italiantl chap2emselection_dd896968:
 translate italiantl chap2emselection_4bbd843e:
 
     # Em ques "Well, I'm not so sure there is that much to say about it."
-    Em ques "Be', non sono sicura che ci sia granché da dire a riguardo."
+    Em ques "Be', non sono sicura ci sia granché da dire al riguardo."
 
 # game/chapter2.rpy:3334
 translate italiantl chap2emselection_3bca9ae4:
@@ -3411,7 +3411,7 @@ translate italiantl chap2emselection_ccd67b51:
 translate italiantl chap2emselection_4d41bd47:
 
     # Em ques "I suppose I should be getting back to work anyway."
-    Em ques "Suppongo che dovrei tornarmene a lavoro comunque."
+    Em ques "Suppongo che dovrei tornarmene al lavoro comunque."
 
 # game/chapter2.rpy:3352
 translate italiantl chap2emselection_4fe18e35:
@@ -3669,7 +3669,7 @@ translate italiantl _call_skipcheck_12_1e47ad15:
 translate italiantl _call_skipcheck_12_072a50de:
 
     # n "On the way to the police station, Maverick's words kept finding their way back into my mind. I couldn't decide how to feel about them."
-    n "Sulla strada per la stazione di polizia, le parole di [Mv] continuarono a trovare il modo di ritornarmi alla mente. Non riuscivo a decidere come sentirmi a riguardo."
+    n "Sulla strada per la stazione di polizia, le parole di [Mv] continuarono a trovare il modo di ritornarmi alla mente. Non riuscivo a decidere come sentirmi al riguardo."
 
 # game/chapter2.rpy:3601
 translate italiantl _call_skipcheck_12_c67f62de:
@@ -3963,7 +3963,7 @@ translate italiantl _call_skipcheck_12_f3aa2ec9:
 translate italiantl _call_skipcheck_12_ae3a2ed6:
 
     # Sb "Reza may be our prime suspect, but he's also a missing person. For all we know, he could be a victim. Maybe someone is making him do this."
-    Sb "[Rz] potrà anche essere il nostro sospettato principale, ma è anche una persona dispersa. Per quel che ne sappiamo, potrebbe essere una vittima. Forse qualcuno lo sta obbligando a fare questo."
+    Sb "[Rz] potrà anche essere il nostro sospettato principale, ma è anche una persona scomparsa. Per quel che ne sappiamo, potrebbe essere una vittima. Forse qualcuno lo sta obbligando a fare questo."
 
 # game/chapter2.rpy:3734
 translate italiantl _call_skipcheck_12_411ea6d0:
