@@ -64,7 +64,7 @@ translate italiantl adine1_56d0beb3:
 translate italiantl adine1_9d2d1212:
 
     # Ad "Shouldn't come as a surprise, considering you knew I deliver for the café."
-    Ad "Non dovrebbe sorprenderti, considerando che sapevi che consegno per la caffetteria."
+    Ad "Non dovrebbe stupirti, considerando che sapevi che consegno per la caffetteria."
 
 # game/adine1.rpy:85
 translate italiantl adine1_56e644c8:
@@ -1738,7 +1738,7 @@ translate italiantl _call_syscheck_48_9b53a99d:
 translate italiantl adine1skip_57b8b63d:
 
     # Ad "You know, if you want me to come over again, you don't have to order anything to do it."
-    Ad "Lo sai, se ti va che io faccia di nuovo un salto da queste parti, non devi per forza ordinare qualcosa." # "you don't have to order anything [to do it]"
+    Ad "Lo sai, se vuoi che faccia di nuovo un salto da queste parti, non devi per forza ordinare qualcosa." # "you don't have to order anything [to do it]"
 
 # game/adine1.rpy:1351
 translate italiantl adine1skip_1f4d0787:

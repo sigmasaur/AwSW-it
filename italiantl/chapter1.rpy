@@ -744,7 +744,7 @@ translate italiantl seccont_f6acc4a0:
 translate italiantl seccont_22affa1d:
 
     # n "After a good stretch, I looked around the room illuminated by the sunlight coming in from the window. Outside, in the distance, the portal I had emerged from proudly stood on the peak of a small hill."
-    n "Dopo una bella sgranchita, guardai in giro per la stanza illuminata dalla luce del sole proveniente dalla finestra. Fuori, in lontananza, il portale da cui ero emersə si ergeva maestoso sulla cima di una breve collina."
+    n "Dopo una bella sgranchita, curiosai per la stanza illuminata dalla luce del sole proveniente dalla finestra. Fuori, in lontananza, il portale da cui ero emersə si ergeva maestoso sulla cima di una breve collina."
 
 # game/chapter1.rpy:1149
 translate italiantl seccont_f69b9100:
@@ -1891,7 +1891,7 @@ translate italiantl _call_syscheck_6_27ce47bd:
 translate italiantl _call_syscheck_6_a13f6eb8:
 
     # n "In the end, I settled for an adventure novel about a dragon archaeologist who stumbles upon the remains of a long lost human civilization, after which she is hunted by an evil organization who wants to use the found magical artifacts for its own, nefarious purposes."
-    n "Alla fine, mi accontentai di un romanzo d'avventura su una dragonessa archeologa che s'imbatte nei resti di una civiltà umana a lungo perduta, e quindi è braccata da una malvagia organizzazione che intende sfruttare i ritrovati manufatti magici per i propri, nefasti scopi."
+    n "Alla fine, mi accontentai di un romanzo d'avventura su una dragonessa archeologa che si imbatte nei resti di una civiltà umana a lungo perduta, e quindi è braccata da una malvagia organizzazione che intende sfruttare i ritrovati manufatti magici per i propri, nefasti scopi."
 
 # game/chapter1.rpy:1943
 translate italiantl _call_syscheck_6_f3eb79d8:
@@ -2897,7 +2897,7 @@ translate italiantl _call_syscheck_11_7f70b567:
 translate italiantl _call_syscheck_11_c3a06d2e:
 
     # c "(Not only that, but it is also mentioned in Greek mythology. Isn't it fascinating?)"
-    c "(Non solo, ma è anche menzionato nella mitologia Greca. Fico, vero?)" # slightly adapted to add a pun without loss of meaning
+    c "(Non solo, ma è anche menzionato nella mitologia greca. Fico, vero?)" # slightly adapted to add a pun without loss of meaning
 
 # game/chapter1.rpy:2738
 translate italiantl _call_syscheck_11_1e35e980:
@@ -2909,7 +2909,7 @@ translate italiantl _call_syscheck_11_1e35e980:
 translate italiantl _call_syscheck_11_b897d68b:
 
     # c "(Take the word \"sycophant\", for example, which comes from a Greek expression meaning \"someone who shows the fig\", which was a vulgar gesture at the time, or \"I don't give a fig\", which of course is a fig-ure of speech.)"
-    c "(Prendi la parola \"sicofante\", ad esempio, che viene da un'espressione Greca che significa \"colui che mostra il fico\", che indicava un gesto volgare al tempo, oppure \"non me ne importa un fico secco\", che ovviamente è una fic-ura retorica.)" # other sources cite a somewhat different etymology
+    c "(Prendi la parola \"sicofante\", ad esempio, che viene da un'espressione greca che significa \"colui che mostra il fico\", che indicava un gesto volgare al tempo, oppure \"non me ne importa un fico secco\", che ovviamente è una fic-ura retorica.)" # other sources cite a somewhat different etymology
 
 # game/chapter1.rpy:2740
 translate italiantl _call_syscheck_11_acb439a1:
@@ -2975,7 +2975,7 @@ translate italiantl _call_syscheck_11_6d1e2555:
 translate italiantl _call_syscheck_11_d7a61edb:
 
     # m "Unsurprisingly, it came to a happy end, with the evil organization stopped in its tracks, at least for now. I thought the ending was deliberately left open for ambiguity, but when I turned the page and saw the advertisement for the next entry in this apparently long-running series of books, I realized all of this had just been a ploy to set up the inevitable sequel."
-    m "Prevedibilmente, giungeva a una felice conclusione, con la malvagia organizzazione fermata sul nascere, almeno per ora. Pensai che il finale fosse stato deliberatamente lasciato aperto a interpretazioni ambigue, ma quando girai la pagina e vidi l'annuncio del capitolo successivo di questa apparentemente longeva serie di libri, realizzai che altro non era stato che uno stratagemma volto a imbastire l'inevitabile séguito."
+    m "Prevedibilmente, giungeva a una felice conclusione, con la malvagia organizzazione fermata sul nascere, almeno per ora. Pensai che il finale fosse stato deliberatamente lasciato aperto a interpretazioni ambigue, ma quando girai la pagina e vidi l'annuncio del capitolo successivo di questa apparentemente longeva serie di libri, realizzai che era stato tutto uno stratagemma vòlto a imbastire l'inevitabile séguito."
 
 # game/chapter1.rpy:2787
 translate italiantl continuation_cfb5aca4:
@@ -2987,7 +2987,7 @@ translate italiantl continuation_cfb5aca4:
 translate italiantl continuation_832fbb36:
 
     # m "When I got outside, it didn't seem quite as dark as it was when I arrived yesterday. I might have had difficulties finding my way, otherwise, but I could still see the portal in the distance."
-    m "Quando uscii fuori, non sembrava poi così buio come lo era stato quand'ero arrivatə il giorno prima. Avrei potuto avere difficoltà a trovare la strada, altrimenti, ma potevo ancora scorgere il portale in lontananza."
+    m "Quando uscii fuori, non sembrava poi così buio come lo era stato quand'ero arrivatə, il giorno prima. Avrei potuto avere difficoltà a trovare la strada, altrimenti, ma potevo ancora scorgere il portale in lontananza."
 
 # game/chapter1.rpy:2797
 translate italiantl continuation_0b0eb11f:
@@ -4475,7 +4475,7 @@ translate italiantl _call_syscheck_13_c1c6fd1f:
 translate italiantl _call_syscheck_13_e73d0e45:
 
     # Br "You really have an attitude problem. You know, if you weren't on sick leave you'd be suspended right now for attacking [player_name] yesterday. Do you even have any idea what kind of repercussions this could have on us all?"
-    Br "Hai davvero un carattere impossibile. Lo sai, se non fossi in congedo per malattia in questo momento saresti sospeso per aver attaccato [player_name] ieri. Hai almeno una vaga idea di che tipo di ripercussioni possa avere su tutti noi?"
+    Br "Hai davvero un carattere impossibile. Lo sai, se non fossi in malattia in questo momento saresti sospeso per aver attaccato [player_name] ieri. Hai almeno una vaga idea di che tipo di ripercussioni possa avere su tutti noi?"
 
 # game/chapter1.rpy:3743
 translate italiantl _call_syscheck_13_fcd88baa:
@@ -4559,7 +4559,7 @@ translate italiantl _call_syscheck_13_db3eef0e:
 translate italiantl _call_syscheck_13_4bf4438d:
 
     # Br "Yeah, and that's exactly why he wouldn't be on the case even if he wasn't on sick leave."
-    Br "Già, ed è esattamente il motivo per cui non sarebbe sul caso nemmeno se non fosse in congedo per malattia."
+    Br "Già, ed è esattamente il motivo per cui non sarebbe sul caso nemmeno se non fosse in malattia."
 
 # game/chapter1.rpy:3773
 translate italiantl _call_syscheck_13_de4291be:
@@ -5279,7 +5279,7 @@ translate italiantl strings:
 
     # chapter1.rpy:3644
     old "Well, I'm {i}a{/i} human."
-    new "Be', sono {i}unə{/i} umanə."
+    new "Be', sono {i}un{/i} umanə."
 
     # chapter1.rpy:3644
     old "I have a name, you know."

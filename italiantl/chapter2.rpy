@@ -688,7 +688,7 @@ translate italiantl _call_skipcheck_11_bbb2170d:
 translate italiantl _call_skipcheck_11_e3fa7472:
 
     # m "I looked above toward the source of the noise as it grew louder, and in the next instant I was pushed sideways and fell to the ground — just barely avoiding the giant light fixture that fell from the ceiling and shattered into countless pieces alongside me."
-    m "Alzai gli occhi verso la sorgente del rumore mentre questo si faceva più forte, e nell'istante successivo fui spintə di lato e caddi in terra—a stento evitando l'enorme impianto luminoso ch'era crollato dal soffitto ed esploso in innumerevoli pezzi al mio fianco."
+    m "Alzai gli occhi verso la sorgente del rumore mentre questo si faceva più forte, e nell'istante successivo fui spintə di lato e caddi a terra—a stento evitando il gigantesco impianto luminoso ch'era crollato dal soffitto ed esploso in innumerevoli pezzi al mio fianco."
 
 # game/chapter2.rpy:763
 translate italiantl _call_skipcheck_11_d4938ded:
@@ -3309,7 +3309,7 @@ translate italiantl chap2emselection_6fb65b35:
 translate italiantl chap2emselection_db1472da:
 
     # Em normal "Well, I think it is about the most exciting thing that has happened here in the last few years."
-    Em normal "Be', penso sia forse la cosa più eccitante che è capitata qui negli ultimi anni."
+    Em normal "Be', penso sia forse la cosa più eccitante che sia capitata qui da qualche anno a questa parte."
 
 # game/chapter2.rpy:3290
 translate italiantl chap2emselection_36f0762f:
@@ -4281,7 +4281,7 @@ translate italiantl _call_popularcheck_14_85982b7e:
 translate italiantl _call_popularcheck_14_ad846bd9:
 
     # m "By the time I had finished the book, in which the Scepter of Sovereignty from the preceding novel is first stolen, then reclaimed by the novels' titular hero, only to be stolen again in another cliffhanger ending ploy setting up the series' next entry, I wished I had spent the time doing something more productive."
-    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, e quindi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale volto a imbastirne il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # "novels" -> "series"
+    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, e quindi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale vòlto a imbastirne il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # "novels" -> "series"
 
 # game/chapter2.rpy:4797
 translate italiantl _call_popularcheck_14_45731809:
@@ -4299,7 +4299,7 @@ translate italiantl chap2altmenub2_85982b7e:
 translate italiantl chap2altmenub2_ad846bd9:
 
     # m "By the time I had finished the book, in which the Scepter of Sovereignty from the preceding novel is first stolen, then reclaimed by the novels' titular hero, only to be stolen again in another cliffhanger ending ploy setting up the series' next entry, I wished I had spent the time doing something more productive."
-    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, e quindi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale volto a imbastirne il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # see line 4796
+    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, e quindi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale vòlto a imbastirne il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # see line 4796
 
 # game/chapter2.rpy:5048
 translate italiantl chap2altmenub2_45731809:
@@ -4603,7 +4603,7 @@ translate italiantl strings:
 
     # chapter2.rpy:3540
     old "I would never do such a thing."
-    new "Non farei mai una cosa del genere."
+    new "Non farei mai una cosa simile."
 
     # chapter2.rpy:3540
     old "{#chapter2}If I have to."

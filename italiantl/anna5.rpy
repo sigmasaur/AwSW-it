@@ -448,7 +448,7 @@ translate italiantl _call_endingjustafewminuteslater_1_d52184df:
 translate italiantl _call_endingjustafewminuteslater_1_3ecc4bad:
 
     # m "I looked around the room. The fire had stopped and it had become eerily quiet as I checked on the others."
-    m "Guardai attorno a me. Si era fermato il fuoco, e un silenzio sinistro era calato mentre controllavo gli altri." # "I looked around [the room]"
+    m "Mi guardai attorno. Il fuoco si era fermato, ed era calato un silenzio sinistro mentre controllavo gli altri."
 
 # game/anna5.rpy:369
 translate italiantl _call_endingjustafewminuteslater_1_450b2c02:

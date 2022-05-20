@@ -112,7 +112,7 @@ translate italiantl _call_skipcheck_30_2a34125a:
 translate italiantl _call_skipcheck_30_e0a733fd:
 
     # c "Yeah, I've heard about that. Everyone keeps telling me how important it is for me to see."
-    c "Sì, ne ho sentito parlare. Continuano tutti a dirmi quanto sia importante che io lo veda."
+    c "Sì, ne ho sentito parlare. Continuano tutti a ripetermi quanto sia importante che io lo veda."
 
 # game/adine4.rpy:137
 translate italiantl _call_skipcheck_30_89332629:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_30_00495487:
 translate italiantl _call_skipcheck_30_e94c70c8:
 
     # Ad "When I was inside and had a bit of time to cool off, I realized I didn't want to do it like this, even if I'd have to wait another year."
-    Ad "Quand'ero dentro e ho avuto un po' di tempo per sbollire, mi sono resa conto di non volerlo fare in questo modo, anche se avessi dovuto aspettare un altro anno."
+    Ad "Quando ero dentro e ho avuto un po' di tempo per sbollire, mi sono resa conto di non volerlo fare in questo modo, anche se avessi dovuto aspettare un altro anno."
 
 # game/adine4.rpy:389
 translate italiantl _call_skipcheck_30_cef17680:
@@ -1300,7 +1300,7 @@ translate italiantl _call_skipcheck_30_0f173ebb:
 translate italiantl _call_skipcheck_30_8badefcc:
 
     # Ad giggle b "Well, I'm not going to tell you. Do you want me to put it on or not?"
-    Ad giggle b "Be', non ho intenzione di dirtelo. Vuoi che la metta oppure no?"
+    Ad giggle b "Be', non ho intenzione di dirtelo. Vuoi che la metta o no?"
 
 # game/adine4.rpy:621
 translate italiantl _call_skipcheck_30_5145c461:
@@ -1396,7 +1396,7 @@ translate italiantl _call_skipcheck_30_7c5e1867:
 translate italiantl _call_skipcheck_30_75def1de:
 
     # Ad think b "It's one of my favorites. While it is a sitcom, it manages to address serious and deep issues fairly often, which I don't think would be as effective if we weren't watching them through the lens of this alternate reality."
-    Ad think b "È una delle mie preferite. Per quanto sia una sitcom, riesce ad affrontare questioni serie e profonde abbastanza spesso, il che non credo sarebbe così efficace se non li guardassimo attraverso le lenti di questa realtà alternativa."
+    Ad think b "È una delle mie preferite. Per quanto sia una sitcom, riesce ad affrontare questioni serie e profonde piuttosto spesso, il che non credo sarebbe così efficace se non li guardassimo attraverso le lenti di questa realtà alternativa."
 
 # game/adine4.rpy:657
 translate italiantl _call_skipcheck_30_3936fee2:
@@ -1528,7 +1528,7 @@ translate italiantl adine4skip_e969b72a:
 translate italiantl adine4skip_26f0be65:
 
     # Ad giggle b "I get pretty dirty from practice sometimes, especially from the bad landings. And recently, the detachable shower head broke."
-    Ad giggle b "A volte mi sporco parecchio facendo pratica, specialmente nei cattivi atterraggi. E di recente, il soffione rimovibile si è rotto."
+    Ad giggle b "A volte mi sporco parecchio facendo pratica, specie nei cattivi atterraggi. E di recente, il soffione rimovibile si è rotto."
 
 # game/adine4.rpy:705
 translate italiantl adine4skip_a23cac18:

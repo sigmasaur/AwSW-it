@@ -570,7 +570,7 @@ translate italiantl _call_skipcheck_4_dfcef4fe:
 translate italiantl _call_skipcheck_4_73516a55:
 
     # c "Hey, I'm just saying that it's possible."
-    c "Ehi, sto solo dicendo che è possibile."
+    c "Ehi, dico solo che è possibile."
 
 # game/chapter3.rpy:1004
 translate italiantl _call_skipcheck_4_e0e8b0cf:
@@ -906,7 +906,7 @@ translate italiantl c3conty_ff44517b:
 translate italiantl c3conty_42c8fe85:
 
     # Br "The humans intended to send one of their promised generators through, but there was a confrontation that ended with both Maverick and [player_name] wounded, and Reza running away."
-    Br "Gli umani avevano intenzione di inviarvi attraverso uno dei generatori loro promessi, ma c'è stato un confronto che si è concluso con entrambi [Mv] e [player_name] feriti, e con [Rz] in fuga."
+    Br "Gli umani intendevano inviarvi attraverso uno dei generatori loro promessi, ma c'è stato un confronto che si è concluso con entrambi [Mv] e [player_name] feriti, e con [Rz] in fuga."
 
 # game/chapter3.rpy:1187
 translate italiantl c3conty_de0e4b28:
@@ -3016,7 +3016,7 @@ translate italiantl c3conty_c5c97541:
 translate italiantl c3conty_538f2597:
 
     # Br "The night patrol for last night would have been Maverick. I got wrapped up in all the recent chaos and forgot to find a replacement for him when he went on sick leave."
-    Br "A fare di pattuglia la notte scorsa sarebbe stato [Mv]. Sono stato talmente preso da tutto il caos recente che ho dimenticato di trovargli un rimpiazzo quando è andato in congedo per malattia."
+    Br "A fare di pattuglia la notte scorsa sarebbe stato [Mv]. Sono stato talmente preso da tutto il caos recente che ho dimenticato di trovargli un rimpiazzo quando è andato in malattia."
 
 # game/chapter3.rpy:2168
 translate italiantl c3conty_2715ead0:
@@ -3244,7 +3244,7 @@ translate italiantl c3conty_f57bbd7f:
 translate italiantl c3conty_fb571a12:
 
     # Sb "We're just a small town police department, and with Bryce removed from the case, our resources are thinner than ever."
-    Sb "Siamo solo il dipartimento di polizia di una piccola città, e con [Br] rimosso dal caso, le nostre risorse sono ridotte all'osso."
+    Sb "Siamo solo il dipartimento di polizia di una piccola città, e con [Br] rimosso dal caso, le nostre risorse sono più magre che mai."
 
 # game/chapter3.rpy:2276
 translate italiantl c3conty_55fa4d3d:
@@ -5486,13 +5486,13 @@ translate italiantl follow_4e8538c2:
 translate italiantl follow_b36cdb39:
 
     # m "Then she placed her hands on the large dragon's chin. Gently, she lifted its huge muzzle and guided it toward the bowl. But when she released it, the dragon's head slumped and fell into the liquid. The bowl tumbled sideways and spilled its contents across the cave floor."
-    m "Poi poggiò le mani sul mento del grosso drago. Gentilmente, gli sollevò l'enorme muso e lo guidò verso la ciotola. Ma quando ebbe lasciato la presa, la testa del drago si accasciò e cadde nel liquido. La ciotola tombolò di fianco e riversò il contenuto sul pavimento della cava."
+    m "Poi poggiò le mani sul mento del grosso drago. Gentilmente, gli sollevò l'enorme muso e lo guidò verso la ciotola. Ma quando ebbe lasciato la presa, la testa del drago si accasciò e cadde nel liquido. La ciotola tombolò di fianco e rovesciò il contenuto sul pavimento della cava."
 
 # game/chapter3.rpy:4064
 translate italiantl follow_b788615d:
 
     # m "I realized then, that other than what Vara had done, the orange dragon hadn't moved at all since I arrived."
-    m "Realizzai allora, che a parte quello che aveva fatto [Vr], il drago di colore arancio non si era affatto mosso da quand'ero arrivatə."
+    m "Realizzai allora, che a parte quello che aveva fatto [Vr], il drago di colore arancio non si era affatto mosso da quando ero arrivatə."
 
 # game/chapter3.rpy:4074
 translate italiantl follow_25717af4:
@@ -6346,7 +6346,7 @@ translate italiantl strings:
 
     # chapter3.rpy:1026
     old "Maybe they're going to throw a surprise party for us."
-    new "Forse hanno intenzione di farci una festa a sorpresa."
+    new "Forse intendono farci una festa a sorpresa."
 
     # chapter3.rpy:1223
     old "Bryce wouldn't let me say no."

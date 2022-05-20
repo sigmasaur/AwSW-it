@@ -850,7 +850,7 @@ translate italiantl _call_skipcheck_26_5d0ba434:
 translate italiantl _call_skipcheck_26_0b89dc64:
 
     # Zh "Of course, Bryce. When you make up a story, just going out with a high-ranking politician isn't enough. Obviously, she also can't resist your manly allure."
-    Zh "Ma certo, [Br]. Quando ti inventi una storia, soltanto uscire con una politica d'alto rango non è abbastanza. Ovviamente, lei deve anche cedere al tuo fascino maschio." # "can't resist" -> "must give in"
+    Zh "Ma certo, [Br]. Quando t'inventi una storia, soltanto uscire con una politica d'alto rango non è abbastanza. Ovviamente, lei deve anche cedere al tuo fascino maschio." # "can't resist" -> "must give in"
 
 # game/bryce3.rpy:535
 translate italiantl _call_skipcheck_26_d63c67d4:
@@ -1078,7 +1078,7 @@ translate italiantl bryce3pass_01f01318:
 translate italiantl bryce3pass_5693fea0:
 
     # Sb "Actually, I don't think even Bryce could've come up with that one on his own."
-    Sb "Effettivamente, non penso che nemmeno [Br] avrebbe saputo inventarsi questa da solo."
+    Sb "Effettivamente, non credo che questa avrebbe saputo inventarsela da solo nemmeno [Br]."
 
 # game/bryce3.rpy:632
 translate italiantl bryce3pass_2e986e96:
@@ -1841,7 +1841,7 @@ translate italiantl bryce3pass_dec7d235:
 translate italiantl bryce3pass_710cb42c:
 
     # Zh "Are you going to make fun of my food choices again?"
-    Zh "Hai intenzione di continuare a prenderti gioco delle mie scelte alimentari?" # "to make fun of my food choices [again]" -> "to KEEP making fun of my food choices"
+    Zh "Intendi continuare a prenderti gioco delle mie scelte alimentari?" # "to make fun of my food choices [again]" -> "to KEEP making fun of my food choices"
 
 # game/bryce3.rpy:1013
 translate italiantl bryce3pass_1c082526:
@@ -2063,7 +2063,7 @@ translate italiantl bryce3pass_76b2fe88:
 translate italiantl bryce3pass_0c64f8b0:
 
     # n "Back when I was a kid, some of my friends and I always used to play outside and go \"adventuring\" together."
-    n "Quand'ero ancora piccolo, alcuni dei miei amici ed io eravamo soliti giocare fuori e andare \"all'avventura\" insieme."
+    n "Quando ero ancora piccolo, alcuni dei miei amici ed io eravamo soliti giocare fuori e andare \"all'avventura\" assieme."
 
 # game/bryce3.rpy:1128
 translate italiantl bryce3pass_edd97bfe:
@@ -2491,7 +2491,7 @@ translate italiantl strings:
 
     # bryce3.rpy:363
     old "I don't suppose you have any matches?"
-    new "Suppongo che non abbiate fiammiferi?"
+    new "Suppongo non abbiate dei fiammiferi?"
 
     # bryce3.rpy:363
     old "Is this a joke?"

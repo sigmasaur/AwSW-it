@@ -861,7 +861,7 @@ translate italiantl _call_skipcheck_6_eba2c75c_1:
 translate italiantl _call_skipcheck_6_89ce4d2f:
 
     # m "Bryce got up and left through one of the doors to fetch his beer, leaving me alone in the room."
-    m "[Br] si alzò e uscì da una delle porte a recuperare la sua birra, lasciandomi da solə nella stanza."
+    m "[Br] si alzò e uscì da una delle porte per andare a prendere la sua birra, lasciandomi da solə nella stanza."
 
 # game/bryce2.rpy:677
 translate italiantl _call_skipcheck_6_e90dbfcf:

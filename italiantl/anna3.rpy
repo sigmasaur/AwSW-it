@@ -580,7 +580,7 @@ translate italiantl _call_skipcheck_168b3fa1:
 translate italiantl _call_skipcheck_7f6008ee:
 
     # An smirk b "I don't complain, I just point out errors. Besides, I'd be empress, not just a queen."
-    An smirk b "Io non mi lagno, puntualizzo solo gli errori. E poi, sarei imperatrice, non solo una regina."
+    An smirk b "Io non mi lagno, evidenzio solo gli errori. E poi, sarei imperatrice, non solo una regina."
 
 # game/anna3.rpy:432
 translate italiantl _call_skipcheck_e864050c:
@@ -1166,7 +1166,7 @@ translate italiantl _call_skipcheck_79d53492:
 translate italiantl _call_skipcheck_3238dc0a:
 
     # An "Of course not. The honest and good [player_name] would never do such a thing."
-    An "Ma certo che no. Lə buonə e onestə [player_name] non farebbe mai una cosa del genere."
+    An "Ma certo che no. Lə buonə e onestə [player_name] non farebbe mai una cosa simile."
 
 # game/anna3.rpy:822
 translate italiantl _call_skipcheck_6289c73b:
@@ -2003,13 +2003,13 @@ translate italiantl _call_skipcheck_67beb563:
 translate italiantl _call_skipcheck_10cb26d8:
 
     # An "I said get the heck out of here."
-    An "Ho detto fuori dai piedi." # must match line 1282
+    An "Ho detto vattene fuori di qui." # must match line 1282
 
 # game/anna3.rpy:1292
 translate italiantl _call_skipcheck_3e5e1c61:
 
     # m "She grabbed my arm and roughly walked me to the door. After shoving me outside, she quickly closed the door behind me."
-    m "Mi afferrò un braccio e mi accompagnò bruscamente alla porta. Dopo avermi sbattuto fuori, chiuse in fretta la porta dietro di me."
+    m "Mi afferrò per un braccio e mi accompagnò bruscamente alla porta. Dopo avermi sbattuto fuori, chiuse in fretta la porta dietro di me."
 
 # game/anna3.rpy:1300
 translate italiantl _call_skipcheck_fe5f3366_2:
@@ -2519,7 +2519,7 @@ translate italiantl strings:
 
     # anna3.rpy:816
     old "I wouldn't do such a thing."
-    new "Non farei mai una cosa del genere." # "wouldn't" -> "would never"
+    new "Non farei mai una cosa simile." # "wouldn't" -> "would never"
 
     # anna3.rpy:816
     old "Piece of cake."

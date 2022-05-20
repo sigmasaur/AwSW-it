@@ -1918,7 +1918,7 @@ translate italiantl anna2else_33cabf79:
 translate italiantl anna2else_545da01d:
 
     # c "So, what are you going to do?"
-    c "Quindi, cos'hai intenzione di fare?"
+    c "Quindi, che cosa pensi di fare?"
 
 # game/anna2.rpy:1331
 translate italiantl anna2else_f8c1ea5d:

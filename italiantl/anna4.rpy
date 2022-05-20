@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_17_6a52549c:
 translate italiantl _call_skipcheck_17_6770fe0f:
 
     # n "I was still in school and already solving problems that no one had even touched before."
-    n "Ero ancora a scuola e già risolvevo problemi che nessuno aveva mai neanche toccato prima di allora."
+    n "Ero ancora a scuola e già risolvevo problemi che nessuno aveva nemmeno toccato prima di allora."
 
 # game/anna4.rpy:173
 translate italiantl _call_skipcheck_17_b7f336c7:
@@ -172,7 +172,7 @@ translate italiantl _call_skipcheck_17_b7f336c7:
 translate italiantl _call_skipcheck_17_944bcbb5:
 
     # n "Besides, I couldn't care less about what some old people thought about my work. As if I needed their approval. I was already more than any of them could have ever dreamed to be."
-    n "E poi, non m'importava nulla di cosa pensasse del mio lavoro qualche vecchietto. Come se mi fosse servita la loro approvazione. Io ero già più di quanto chiunque di loro avesse mai sognato."
+    n "E poi, non m'importava nulla di cosa pensasse qualche vecchietto del mio lavoro. Come se mi fosse servita la loro approvazione. Io ero già più di quanto chiunque di loro avesse mai sognato."
 
 # game/anna4.rpy:178
 translate italiantl _call_skipcheck_17_76b2fe88_1:

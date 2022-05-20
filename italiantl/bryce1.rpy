@@ -1518,7 +1518,7 @@ translate italiantl _call_syscheck_41_f5524811:
 translate italiantl _call_syscheck_41_47c56494:
 
     # c "Get outta my way, you scaly sack, before I show you how nice I can be... with my fists!"
-    c "Va' fuori dai piedi, sacco di squame, prima che ti faccia vedere io quanto so essere gentile... coi miei pugni!"
+    c "Fuori dai piedi, sacco di squame, prima che ti faccia vedere io quanto so essere gentile... coi miei pugni!"
 
 # game/bryce1.rpy:1182
 translate italiantl _call_syscheck_41_76b2fe88_2:
@@ -1680,7 +1680,7 @@ translate italiantl _call_syscheck_41_25c5b01b_1:
 translate italiantl _call_syscheck_41_803a507c:
 
     # m "I awoke looking at an unfamiliar ceiling. For a moment, I wondered where I was before the events of last night all came back to me. As I got up and looked around, I realized that I'd apparently slept on the floor."
-    m "Mi risvegliai guardando a un soffitto che non riconoscevo. Per un attimo, mi domandai dove fossi prima che gli eventi della notte passata mi ritornassero tutti alla mente. Mi alzai e mi guardai attorno, e realizzai di aver dormito su quello che pareva essere il pavimento." # see line 1147 of chapter 1
+    m "Mi risvegliai guardando a un soffitto che non riconoscevo. Per un attimo, mi domandai dove fossi prima che gli eventi della notte passata mi ritornassero tutti alla mente. Mentre mi alzavo e mi guardavo attorno, realizzai di aver dormito su quello che pareva essere il pavimento." # see line 1147 of chapter 1
 
 # game/bryce1.rpy:1266
 translate italiantl _call_syscheck_41_82181d98:

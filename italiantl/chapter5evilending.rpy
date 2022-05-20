@@ -532,7 +532,7 @@ translate italiantl no_4d398d4f:
 translate italiantl no_653a4234:
 
     # Rz normal "It would have taken who knows how long, but I didn't intend to stay a day longer than necessary."
-    Rz normal "Avrebbe richiesto chissà quanto, e io non avevo intenzione di restare un giorno più del necessario." # "but" -> "and"
+    Rz normal "Avrebbe richiesto chissà quanto, e io non intendevo restare un giorno più del necessario." # "but" -> "and"
 
 # game/chapter5evilending.rpy:509
 translate italiantl no_d33516e0:

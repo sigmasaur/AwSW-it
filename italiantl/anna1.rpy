@@ -616,7 +616,7 @@ translate italiantl _call_skipcheck_7_3a37edec:
 translate italiantl _call_skipcheck_7_351663c1:
 
     # An "We do all kinds of things. The truth is, we just have all kinds of specialized machinery there which is used by many different people for many different purposes. The building is owned and run by the council, who oversees the schedule."
-    An "Facciamo un po' di tutto. La pura verità è che là abbiamo ogni genere di macchinari specializzati che sono usati da molte persone diverse per molti scopi diversi. L'edificio è di proprietà e gestione del consiglio, il quale sovrintende agli orari."
+    An "Facciamo un po' di tutto. La pura verità è che là abbiamo ogni sorta di macchinari specializzati che sono usati da molte persone diverse per molti scopi diversi. L'edificio è di proprietà e gestione del consiglio, il quale sovrintende agli orari."
 
 # game/anna1.rpy:527
 translate italiantl _call_skipcheck_7_6cb0e058:
@@ -814,7 +814,7 @@ translate italiantl _call_skipcheck_7_1195b284:
 translate italiantl _call_skipcheck_7_33bb994f:
 
     # c "Do you have anything here to entertain your guests? Any games or other distractions?"
-    c "Avete qualcosa qui per intrattenere i vostri clienti? Dei giochi o altre distrazioni?"
+    c "Avete qualcosa qui per intrattenere i clienti? Dei giochi o altre distrazioni?"
 
 # game/anna1.rpy:631
 translate italiantl _call_skipcheck_7_6b6f7eca:

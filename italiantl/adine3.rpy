@@ -844,7 +844,7 @@ translate italiantl _call_skipcheck_9_26fa6d2b:
 translate italiantl _call_skipcheck_9_81835b9d:
 
     # c "Yeah, people would build huge, detailed sculptures that would be taller than both of us, just with sand."
-    c "Sì, la gente costruiva queste enormi sculture dettagliate ch'erano più alte di noi due, solo con la sabbia."
+    c "Sì, la gente costruiva queste enormi sculture dettagliate che erano più alte di noi due, solo con la sabbia."
 
 # game/adine3.rpy:478
 translate italiantl _call_skipcheck_9_838e1b45:
@@ -2393,7 +2393,7 @@ translate italiantl adine3skip_bc9f37b6:
 translate italiantl adine3skip_0fb5135d:
 
     # Ad "Alright. It'll be a while until I get a chance to visit, anyway. All my free time right now will go towards practicing for the competition."
-    Ad "D'accordo. Ci vorrà un po' prima che abbia occasione di fare visita, comunque. Tutto il mio tempo libero al momento sarà volto ad allenarmi per la competizione."
+    Ad "D'accordo. Ci vorrà un po' prima che abbia occasione di fare visita, in ogni caso. Tutto il mio tempo libero al momento sarà vòlto ad allenarmi per la competizione."
 
 # game/adine3.rpy:1286
 translate italiantl adine3skip_89aefe22_2:
@@ -2441,7 +2441,7 @@ translate italiantl adine3skip_1a040acb:
 translate italiantl adine3skip_618f6bd4:
 
     # Ad "Are you going to come to the show?"
-    Ad "Avevi intenzione di venire allo spettacolo?"
+    Ad "Pensavi di venire allo spettacolo?"
 
 # game/adine3.rpy:1352
 translate italiantl adine3skip_baaea236:

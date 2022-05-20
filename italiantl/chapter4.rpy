@@ -544,7 +544,7 @@ translate italiantl _call_skipcheck_20_03586b86:
 translate italiantl _call_skipcheck_20_88a8ab82:
 
     # Mv "I'm still on sick leave, remember?"
-    Mv "Sono ancora in congedo per malattia, ricordi?"
+    Mv "Sono ancora in malattia, ricordi?"
 
 # game/chapter4.rpy:886
 translate italiantl _call_skipcheck_20_fc856fa4:
@@ -922,7 +922,7 @@ translate italiantl c4skip1_f56b0d9c:
 translate italiantl c4skip1_794c0e23:
 
     # Mv normal flip "If they had listened to me in the first place, maybe I'd have caught Reza that day I was wounded, and things would look very different right now."
-    Mv normal flip "Se mi avessero dato ascolto sin dall'inizio, forse avrei catturato [Rz] quel giorno che sono stato ferito, e le cose sarebbero molto diverse in questo momento." # "look" -> "be"
+    Mv normal flip "Se mi avessero dato retta sin dall'inizio, forse avrei catturato [Rz] quel giorno che sono stato ferito, e adesso le cose sarebbero molto diverse." # "look" -> "be"
 
 # game/chapter4.rpy:1078
 translate italiantl c4skip1_d5028011:
@@ -2029,7 +2029,7 @@ translate italiantl brycefirst_7d98aa6a:
 translate italiantl brycefirst_40d0a46a:
 
     # Sb drop b "This case is just beyond our capabilities. We were already at a bare minimum before this, but with Bryce gone, I just don't know what we should do now."
-    Sb drop b "Questo caso è semplicemente al di là delle nostre capacità. Eravamo già ridotti allo stretto necessario prima di questo, ma ora che [Br] se n'è andato, non so proprio cosa dovremmo fare."
+    Sb drop b "Questo caso è semplicemente al di là delle nostre capacità. Eravamo già allo stretto necessario prima di questo, ma ora che [Br] se n'è andato, non so proprio cosa dovremmo fare."
 
 # game/chapter4.rpy:1982
 translate italiantl brycefirst_41ddf17b:
@@ -2155,7 +2155,7 @@ translate italiantl c4cont_320a075d:
 translate italiantl c4cont_e2d559af:
 
     # Sb "Also, now that we have reclaimed your PDAs, we're going to send one to the archives for analysis. Since they have experience with human artifacts, they're better suited to do it than any of our departments."
-    Sb "Inoltre, ora che abbiamo riavuto il vostro palmare, lo invieremo agli archivi per analizzarlo. Dato che hanno esperienza coi manufatti umani, loro sono meglio adatti a farlo di qualunque dei nostri dipartimenti." # "PDA[s]", "send one" -> "send it"
+    Sb "Inoltre, ora che abbiamo riavuto il vostro palmare, lo manderemo agli archivi per analizzarlo. Dato che hanno esperienza coi manufatti umani, loro sono più adatti a farlo di qualunque dei nostri dipartimenti." # "PDA[s]", "send one" -> "send it"
 
 # game/chapter4.rpy:2037
 translate italiantl c4cont_bd805a76:
@@ -2257,7 +2257,7 @@ translate italiantl c4cont2_7f0fc3ed:
 translate italiantl c4cont2_f43be0cf:
 
     # c "Everyone?"
-    c "Proprio tutti?"
+    c "Tutti quanti?"
 
 # game/chapter4.rpy:2085
 translate italiantl c4cont2_0130ecf1:
@@ -2455,7 +2455,7 @@ translate italiantl c4facility_a29e5373:
 translate italiantl c4facility_6a6a1f07:
 
     # An "Alright then, I'll take it. Not for the police department's sake, but for yours."
-    An "D'accordo allora, la prendo io. Non per il dipartimento di polizia, ma per te." # "not for the police department['s sake], but for you[rs]"
+    An "D'accordo allora, la prenderò io. Non per il dipartimento di polizia, ma per te." # "not for the police department['s sake], but for you[rs]"
 
 # game/chapter4.rpy:2325
 translate italiantl c4facility_8e9a23b0:
@@ -2557,7 +2557,7 @@ translate italiantl c4facility_a29e5373_1:
 translate italiantl c4facility_6a6a1f07_1:
 
     # An "Alright then, I'll take it. Not for the police department's sake, but for yours."
-    An "D'accordo allora, la prendo io. Non per il dipartimento di polizia, ma per te." # see line 2323
+    An "D'accordo allora, la prenderò io. Non per il dipartimento di polizia, ma per te." # see line 2323
 
 # game/chapter4.rpy:2373
 translate italiantl c4facility_8e9a23b0_1:
@@ -2773,7 +2773,7 @@ translate italiantl c4facility_e1a16437:
 translate italiantl c4facility_846c1a46:
 
     # An "Good luck with the whole ambassador thing."
-    An "Buona fortuna con tutta la cosa dell'ambasciatorə."
+    An "Buona fortuna con tutta la storia dell'ambasciatorə."
 
 # game/chapter4.rpy:2476
 translate italiantl c4facility_2ae4c97a:
@@ -4687,7 +4687,7 @@ translate italiantl c4rest_5097e44f:
 translate italiantl c4rest_cb6b7e5f:
 
     # m "I looked at the bookshelf for new reading material, yet found that none of the books I hadn't already read particularly interested me."
-    m "Guardai alla libreria per del nuovo materiale da lettura, eppure trovai che nessuno dei libri che non avevo ancora letto mi interessava particolarmente."
+    m "Guardai nella libreria per del nuovo materiale da lettura, eppure trovai che nessuno dei libri che non avevo ancora letto mi interessava particolarmente."
 
 # game/chapter4.rpy:4084
 translate italiantl c4postsections_74e02e5b:
@@ -5041,7 +5041,7 @@ translate italiantl _call_skipcheck_21_71c1914d:
 translate italiantl _call_skipcheck_21_6e6a43e4:
 
     # n "In case you didn't know, it is possible to use a portal to send someone to a previously defined end point. Therefore, it is not required to have a portal at the destination to be sent there, but as you can imagine, this is also very dangerous."
-    n "In caso non lo sapessi, è possibile usare un portale per inviare qualcuno a un punto d'arrivo precedentemente definito. Pertanto, non c'è bisogno di avere un portale alla destinazione per raggiungerla, ma come puoi immaginare, è anche molto pericoloso." # "to be sent there" -> "to get there"
+    n "In caso non lo sapessi, è possibile usare un portale per inviare qualcuno a un punto d'arrivo precedentemente definito. Pertanto, non è necessario avere un portale alla destinazione per raggiungerla, ma come puoi immaginare, è anche molto pericoloso." # "to be sent there" -> "to get there"
 
 # game/chapter4.rpy:4317
 translate italiantl _call_skipcheck_21_a21261f6:
@@ -5425,7 +5425,7 @@ translate italiantl _call_skipcheck_21_d68ebd0d:
 translate italiantl _call_skipcheck_21_27a4408e:
 
     # As "Do you not wish to save them?"
-    As "Non desideri forse salvarli?"
+    As "Non desideri salvarli?"
 
 # game/chapter4.rpy:4478
 translate italiantl _call_skipcheck_21_74b9d5b2:
@@ -6500,7 +6500,7 @@ translate italiantl _call_popularcheck_28_be5c2928:
 translate italiantl _call_popularcheck_28_d5d6cf7c:
 
     # m "In the end, I decided to extend invitations to everyone I knew to come by for a visit. I left a lot of messages and waited the whole afternoon, but nobody came." # But nobody came is a reference to undertale.
-    m "Alla fine, decisi di estendere l'invito a passare a farmi visita a tutti coloro che conoscevo. Lasciai un bel po' di messaggi e aspettai l'intero pomeriggio, ma non venne nessuno." # no Italian translation for Undertale
+    m "Alla fine, decisi di estendere l'invito a passare a farmi visita a tutti coloro che conoscevo. Lasciai molti messaggi e aspettai l'intero pomeriggio, ma non venne nessuno." # no Italian translation for Undertale
 
 # game/chapter4.rpy:5850
 translate italiantl _call_popularcheck_28_be5c2928_1:

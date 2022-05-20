@@ -34,13 +34,13 @@ translate italiantl aloneendings_df9f1168:
 translate italiantl aloneendings_e385c5e3:
 
     # m "When I left my apartment, I realized just how eerily deserted the rest of the place felt. They really weren't kidding when they said {i}everyone{/i} would watch the fireworks. I imagined there were a couple of designated places people gathered for this purpose. I had no doubt they were crowded beyond belief."
-    m "Quando lasciai il mio appartamento, mi resi conto di quanto sinistramente deserto sembrasse il resto del posto. Davvero non scherzavano quando dicevano che {i}proprio tutti{/i} avrebbero guardato i fuochi d'artificio. Immaginai vi fossero un paio di posti designati dove la gente si riuniva a tale scopo. Non avevo dubbi che fossero gremiti oltre ogni immaginazione." # see line 2083 of chapter 4
+    m "Quando lasciai il mio appartamento, mi resi conto di quanto sinistramente deserto sembrasse il resto del posto. Davvero non scherzavano quando dicevano che {i}tutti quanti{/i} avrebbero guardato i fuochi d'artificio. Immaginai vi fossero un paio di posti designati dove la gente si riuniva a tale scopo. Non avevo dubbi che fossero gremiti oltre ogni immaginazione." # see line 2083 of chapter 4
 
 # game/chapter5.rpy:516
 translate italiantl aloneendings_04daa7ff:
 
     # m "While I waited for the fireworks to start, I looked at the area around me. With no soul in sight, I realized I hadn't actually spent many nights outside and was reminded of the day I had arrived here at my apartment in total darkness, with only Remy by my side."
-    m "Mentre aspettavo che i fuochi iniziassero, mi guardai attorno nei paraggi. Senz'anima viva in giro, realizzai di non aver trascorso poi molte notti all'aperto e mi rammentai del giorno in cui ero giuntə qui al mio appartamento nell'oscurità più totale, con solo [Ry] al mio fianco."
+    m "Mentre aspettavo che i fuochi iniziassero, guardai la zona intorno a me. Senz'anima viva in giro, realizzai di non aver trascorso poi molte notti all'aperto e mi rammentai del giorno in cui ero giuntə qui al mio appartamento nell'oscurità più totale, con solo [Ry] al mio fianco."
 
 # game/chapter5.rpy:520
 translate italiantl aloneendings_e507d2af:
@@ -136,7 +136,7 @@ translate italiantl _call_endingjustafewminuteslater_3a7a8c67:
 translate italiantl _call_endingjustafewminuteslater_46985aa4:
 
     # m "I set the bomb on the ground between us. With it and me between Reza and the exit, he would have to listen now."
-    m "Posai la bomba in terra fra di noi. Con essa e me a metà strada fra [Rz] e l'uscita, ora avrebbe dovuto ascoltarmi."
+    m "Posai la bomba a terra fra di noi. Con essa e me a metà strada fra [Rz] e l'uscita, ora avrebbe dovuto ascoltarmi."
 
 # game/chapter5.rpy:580
 translate italiantl _call_endingjustafewminuteslater_bf205efc:
@@ -220,7 +220,7 @@ translate italiantl _call_endingjustafewminuteslater_b597b931:
 translate italiantl _call_endingjustafewminuteslater_d1e49880:
 
     # m "But I could not give up now. I slowly got up, looking around the area to get some perspective of the situation. Not far from where I was, I saw Reza lying on the ground. He wasn't moving."
-    m "Ma non potevo mollare adesso. Mi rialzai lentamente, guardandomi attorno nei paraggi per farmi un'idea della situazione. Non lontano da dove mi trovavo, vidi [Rz] disteso al suolo. Non si muoveva."
+    m "Ma non potevo mollare adesso. Mi rialzai lentamente, guardandomi attorno per farmi un'idea della situazione. Non lontano da dove mi trovavo, vidi [Rz] disteso al suolo. Non si muoveva."
 
 # game/chapter5.rpy:636
 translate italiantl _call_endingjustafewminuteslater_9365651e:

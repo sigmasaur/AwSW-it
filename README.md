@@ -35,6 +35,7 @@ Currently working on `Bryce`'s sections. Files done and up for review:
     bryce1.rpy
     bryce2.rpy
     bryce3.rpy
+    bryce4.rpy
 
 ### A few remarks
 
@@ -129,7 +130,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1383: Unfolded *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
 * At line 1482: Corrected *under consideration* → *into consideration*.
-* At line 1946: Corrected uppercase letter of *Chief* to lowercase, to match numerous lines throughout the script where `Bryce` is not addressed directly.
+* At line 1946: Corrected uppercase letter of *Chief* to lowercase, to match numerous lines throughout the script where `Bryce` is not addressed directly or is the one speaking.
 * At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
 * At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of [`chapter1.rpy`](#chapter1rpy).
 * At line 3054: Consider changing ellipsis with simple dash.
@@ -167,6 +168,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`chapter5.rpy`](italiantl/chapter5.rpy)
 
+* At line 514: Note that the player character must be referring to lines 2077-2085 of [`chapter4.rpy`](#chapter4rpy).
 * At line 584, 913: Corrected simple dash to em-dash.
 * At line 646: *inch* → *centimeter*; see line 2144 of [`chapter4.rpy`](#chapter4rpy).
 * At line 913: Changed parentheses with brackets to match line 385 of [`chapter1.rpy`](#chapter1rpy).
@@ -334,6 +336,14 @@ The following are mostly to the benefit of the developer and translators.
 * At line 869, 1146: Corrected uppercase letter to lowercase after colon.
 * At line 1144: Unfolded *5* → *five*, for elegance.
 
+### [`bryce4.rpy`](italiantl/bryce4.rpy)
+
+* At line 117, 652: Note that these lines also trigger if `Bryce` never said he *wanted to get out of \[his\] apartment* by message. Affected sequences: put `Bryce` in a `neutral` mood in [`bryce3.rpy`](#bryce3rpy).
+* At line 123, 336, 361, 379: Corrected uppercase letter of *Chief* to lowercase; see line 1946 of [`chapter3.rpy`](#chapter3rpy).
+* At line 123: Corrected uppercase letter of *Police* to lowercase; see line 1946 of [`chapter3.rpy`](#chapter3rpy).
+* At line 226: Unfolded *5-10* → *five-ten*, for elegance.
+* At line 409: Corrected simple dash to em-dash.
+
 ## Other remarks
 
-* At line 929 of [`adine1.rpy`](#adine1rpy): On *prendere e* V, see F. Masini, S. Mattiola, G. Vecchi, [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf), 2019.
+* At line 929 of [`adine1.rpy`](#adine1rpy): On *prendere e* V, see F. Masini, S. Mattiola, G. Vecchi; [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf); 2019.
