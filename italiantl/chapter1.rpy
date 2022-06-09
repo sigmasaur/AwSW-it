@@ -160,7 +160,7 @@ translate italiantl begingame_c9f110ae:
 translate italiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Avevo già sentito di una simile tecnologia, anche se per lo più a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi l'avesse costruito, né quando—o perché l'avessimo trovato nella desolazione in cui l'avevamo trovato. Ma ciò che per noi fu più entusiasmante era il fatto che... funzionasse." # corrected em-dash, also "were under consideration" -> "had been under consideration", "BUT what was more exciting"
+    n "Avevo già sentito di una simile tecnologia, anche se per lo più a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi l'avesse costruito, né quando—o perché l'avessimo trovato nella desolazione in cui l'avevamo trovato. Ma ciò che per noi fu più entusiasmante era il fatto che... funzionasse." # corrected em-dash; "were under consideration" -> "had been under consideration"; "BUT what was more exciting"
 
 # game/chapter1.rpy:433
 translate italiantl begingame_337d015e:
@@ -174,7 +174,7 @@ translate italiantl begingame_337d015e:
 translate italiantl begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta: una lettera d'invito. Dopo qualche riflessione, fu deciso di accettare la loro ospitalità e inviare una persona dall'altro lato." # corrected lowercase letter, also "a [very] unexpected reply"
+    n "Quando lo facemmo intendere all'altro lato, ricevemmo un'inattesa risposta: una lettera d'invito. Dopo qualche riflessione, fu deciso di accettare la loro ospitalità e inviare una persona dall'altro lato." # corrected lowercase letter; "a [very] unexpected reply"
 
 # game/chapter1.rpy:437
 translate italiantl begingame_3dadd8d0:
@@ -324,7 +324,7 @@ translate italiantl begingame_1020ae93:
 translate italiantl begingame_3ff6841f:
 
     # n "Some people brought up quantum mechanics and parallel universes, but in the end all of this was just conjecture and an ultimately fruitless endeavor, since we neither had the means nor the resources to explore these possibilities in greater detail."
-    n "Alcuni tirarono in ballo la meccanica quantistica e gli universi paralleli, ma alla fine altro non erano che congetture e in definitiva inutili sforzi, dal momento che non avevamo né i mezzi, né le risorse per esplorare tali possibilità nel dettaglio." # "these possibilities" -> "such possibilities", "in [greater] detail"
+    n "Alcuni tirarono in ballo la meccanica quantistica e gli universi paralleli, ma alla fine altro non erano che congetture e in definitiva inutili sforzi, dal momento che non avevamo né i mezzi, né le risorse per esplorare tali possibilità nel dettaglio." # "these possibilities" -> "such possibilities"; "in [greater] detail"
 
 # game/chapter1.rpy:479
 translate italiantl begingame_94c45763:
@@ -350,7 +350,7 @@ translate italiantl begingame_dc6c4ac0:
 translate italiantl begingame_32508c0c:
 
     # n "That was what we knew about them so far, and as interesting as learning those things and debating their cultural significance was, we didn't really know what we should make of it all."
-    n "Questo era ciò che sapevamo di loro fino a quel momento, e per quanto interessante fosse apprendere quelle cose e dibattere il loro significato culturale, non sapevamo realmente cosa pensare di tutto questo." # "we should" -> "to", "it all" -> "all this"
+    n "Questo era ciò che sapevamo di loro fino a quel momento, e per interessante che fosse apprendere quelle cose e dibattere il loro significato culturale, non sapevamo realmente cosa pensare di tutto questo." # "we should" -> "to"; "it all" -> "all this"
 
 # game/chapter1.rpy:485
 translate italiantl begingame_26e2ea6a:
@@ -524,7 +524,7 @@ translate italiantl holetravel_7941b5bd:
 translate italiantl holetravel_b40dd6f0:
 
     # m "The dragon spoke! It was one thing to have heard and read about this, but something else entirely to have one standing in front of me, in flesh and blood... and tongue. It was good that all my mental preparedness had disappeared when I was teleported, because nothing could have prepared me for this."
-    m "Il drago parlava! Un conto era sentirne dire o leggerne, ma del tutto un altro averne uno di fronte, in carne ed ossa... e lingua. Era un bene che tutta la mia preparazione mentale fosse scomparsa quando fui teletrasportatə, perché nulla avrebbe potuto prepararmi per questo."
+    m "Il drago parlava! Un conto era sentirne dire o leggerne, ma del tutto un altro trovarsene uno davanti, in carne ed ossa... e lingua. Era un bene che tutta la mia preparazione mentale fosse scomparsa quando fui teletrasportatə, perché nulla avrebbe potuto prepararmi per questo."
 
 # game/chapter1.rpy:665
 translate italiantl holetravel_5c6fb2e0:
@@ -2529,7 +2529,7 @@ translate italiantl _call_syscheck_7_217fb58f:
 translate italiantl _call_syscheck_7_771a3b0c:
 
     # n "I have no doubt of my father's political achievements, yet only those who had to live with him know that these successes came at the price of his very soul. An empty shell of a dragon driven by nothing but his performance as a politician, not as a father."
-    n "Non ho dubbi sui raggiungimenti politici di mio padre, eppure solo coloro che dovettero vivergli accanto sanno che tali successi vennero a costo della sua anima. Un guscio vuoto di un drago guidato da nient'altro che la sua prestazione come politico, non come padre." # slightly pruned to fit three lines, also "these successes" -> "such successes"
+    n "Non ho dubbi sui raggiungimenti politici di mio padre, eppure solo coloro che dovettero vivergli accanto sanno che tali successi vennero a costo della sua anima. Un guscio vuoto di un drago guidato da nient'altro che la sua prestazione come politico, non come padre." # slightly pruned to fit three lines; "these successes" -> "such successes"
 
 # game/chapter1.rpy:2398
 translate italiantl _call_syscheck_7_e52d75f4:
@@ -2933,7 +2933,7 @@ translate italiantl _call_syscheck_11_4c8f346f:
 translate italiantl _call_syscheck_11_9c2c9e41:
 
     # c "(So, daddy grape finds his kid crying and asks \"What's wrong, kid?\", but through all the tears, the kid couldn't get a single word out. Eventually, daddy had enough, so he said: \"Stop wi...\" No, I won't say it. It wasn't a good joke anyway.)"
-    c "(Dunque, papà grappolo trova suo figlio piangere e chiede \"Che succede, figliolo?\", ma fra tutte le lacrime, il bimbo non riesce a cacciare una parola. Finalmente, il papà ne ha abbastanza, e dice: \"Piantala di vignucol...\" Nah, non era granché come battuta.)" # slightly pruned to fit three lines, also corrected present tenses
+    c "(Dunque, papà grappolo trova suo figlio piangere e chiede \"Che succede, figliolo?\", ma fra tutte le lacrime, il bimbo non riesce a cacciare una parola. Finalmente, il papà ne ha abbastanza, e dice: \"Piantala di vignucol...\" Nah, non era granché come battuta.)" # slightly pruned to fit three lines; corrected present tenses
 
 # game/chapter1.rpy:2760
 translate italiantl _call_syscheck_11_4a56c371:
@@ -3389,7 +3389,7 @@ translate italiantl continuation_c48dc32f:
 translate italiantl continuation_8c191191:
 
     # m "This time, I was taken along a different route than yesterday. And I was quite sure there was more to this than just taking a walk."
-    m "Questa volta, fui condottə lungo un percorso diverso dal giorno prima. Ed ero piuttosto sicurə che vi fosse sotto qualcosa di più che una semplice passeggiata." # "than just [taking] a walk"
+    m "Questa volta, fui condottə lungo un percorso diverso dal giorno prima. Ed ero piuttosto sicurə che ci fosse sotto qualcosa di più che una semplice passeggiata." # "than just [taking] a walk"
 
 # game/chapter1.rpy:3046
 translate italiantl continuation_b044f66d:
@@ -3455,7 +3455,7 @@ translate italiantl continuation_b759422a:
 translate italiantl continuation_36b1d91b:
 
     # c "Actually, none of this is making any sense. Why would we go through all the lengths of our agreement only to jeopardize it by doing something like this?"
-    c "In effetti, niente di questo ha alcun senso. Perché avremmo dovuto passare per l'intera trafila del nostro accordo solo per metterlo a repentaglio facendo una cosa del genere?"
+    c "In effetti, niente di questo ha alcun senso. Perché passare per l'intera trafila del nostro accordo solo per metterlo a repentaglio facendo una cosa del genere?" # "why [would we] go"
 
 # game/chapter1.rpy:3068
 translate italiantl continuation_b1d6e9a7:
@@ -3599,7 +3599,7 @@ translate italiantl continuation_2f8adaed:
 translate italiantl continuation_6e5c7142:
 
     # Br "It's just that you're the only link to Reza we have. Consider what he said would happen to us. It's in all of our interests that we find him as soon as possible, and if he has anything to do with it, you might be able to help us find him."
-    Br "È solo che sei il nostro unico collegamento con [Rz]. Considera ciò che ha detto che ci sarebbe successo. È nell'interesse di tutti che lo troviamo il prima possibile, e se ha qualcosa a che vedere con questo, potresti essere in grado di aiutarci a trovarlo." # slightly pruned to fit three lines, also "with it" -> "with this"
+    Br "È solo che sei il nostro unico collegamento con [Rz]. Considera ciò che ha detto che ci sarebbe successo. È nell'interesse di tutti che lo troviamo il prima possibile, e se ha qualcosa a che vedere con questo, potresti essere in grado di aiutarci a trovarlo." # slightly pruned to fit three lines; "with it" -> "with this"
 
 # game/chapter1.rpy:3119
 translate italiantl continuation_e8f43124:
@@ -3797,7 +3797,7 @@ translate italiantl quest2_afc197f7:
 translate italiantl quest2_cc15fd9a:
 
     # Br "Actually, we do. Mostly by those who have the proper hands to use them, but still..."
-    Br "In effetti, li usiamo. Per lo più quelli di noi che hanno le mani adatte, ma comunque..." # "mostly [by] those OF US", "the proper hands [to use them]"
+    Br "In effetti, li usiamo. Per lo più quelli di noi che hanno le mani adatte, ma comunque..." # "mostly [by] those OF US"; "the proper hands [to use them]"
 
 # game/chapter1.rpy:3340
 translate italiantl quest2_65ee4be1:
@@ -3833,7 +3833,7 @@ translate italiantl quest2_5df50500:
 translate italiantl quest2_7d1411e6:
 
     # Br "That's right. Only those of us who walk on two legs have the proper dexterity to wield a knife effectively. Most other dragons would probably just bite instead."
-    Br "Corretto. Solo quelli di noi che camminano su due zampe hanno la manualità per impugnare un coltello in modo efficace. La maggior parte degli altri draghi probabilmente avrebbero semplicemente morso piuttosto." # see line 3335, also "the [proper] dexterity"
+    Br "Corretto. Solo quelli di noi che camminano su due zampe hanno la manualità per impugnare un coltello in modo efficace. La maggior parte degli altri draghi probabilmente avrebbero semplicemente morso piuttosto." # see line 3335; "the [proper] dexterity"
 
 # game/chapter1.rpy:3349
 translate italiantl quest2_293a28a6:
@@ -4067,7 +4067,7 @@ translate italiantl quest5_7b49274c:
 translate italiantl quest5_7cb5fa29:
 
     # Br "Even then, Haziq's procedure of logic tells us that, until further evidence surfaces, the theory with the least amount of assumptions is the most likely. This one isn't it."
-    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è." # see line 3395, also removed comma to match that line
+    Br "Anche allora, la procedura logica di Haziq ci dice che fino all'emergere di ulteriori prove, la teoria col minor numero di ipotesi è quella più probabile. E questa non lo è." # see line 3395; removed comma to match that line
 
 # game/chapter1.rpy:3491
 translate italiantl quest5_2d5dd7bc:
@@ -4475,7 +4475,7 @@ translate italiantl _call_syscheck_13_c1c6fd1f:
 translate italiantl _call_syscheck_13_e73d0e45:
 
     # Br "You really have an attitude problem. You know, if you weren't on sick leave you'd be suspended right now for attacking [player_name] yesterday. Do you even have any idea what kind of repercussions this could have on us all?"
-    Br "Hai davvero un carattere impossibile. Lo sai, se non fossi in malattia in questo momento saresti sospeso per aver attaccato [player_name] ieri. Hai almeno una vaga idea di che tipo di ripercussioni possa avere su tutti noi?"
+    Br "Hai davvero un carattere impossibile. Lo sai, se non fossi in malattia in questo momento saresti sospeso per aver attaccato [player_name] ieri. Hai almeno una vaga idea di che tipo di ripercussioni possa avere su tutti noi?" # see line 3071
 
 # game/chapter1.rpy:3743
 translate italiantl _call_syscheck_13_fcd88baa:

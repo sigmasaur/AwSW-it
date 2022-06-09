@@ -16,7 +16,7 @@ translate italiantl chapter3_76b2fe88_1:
 translate italiantl chapter3_0adae58e:
 
     # n "The morning sun declared the arrival of a new day and woke me from my vivid dreams. Memories of my home, enclosed within the towering perimeter wall raced through my head."
-    n "Il sole mattutino proclamò l'arrivo di un nuovo giorno e mi risvegliò da vividi sogni. Ricordi di casa mia, rinchiusa fra le alte mura di cinta mi attraversarono la mente." # "wallS", "head" -> "mind"
+    n "Il sole mattutino proclamò l'arrivo di un nuovo giorno e mi risvegliò da vividi sogni. Ricordi di casa mia, rinchiusa fra le alte mura di cinta mi attraversarono la mente." # "wallS"; "head" -> "mind"
 
 # game/chapter3.rpy:576
 translate italiantl chapter3_f37eb593:
@@ -371,7 +371,7 @@ translate italiantl chapter3_97b938c0:
 
     # c "If I leave now, the only thing I return home with is my life. I'll have lost everything else. We need those generators, Bryce. I have no idea if your authorities will continue to uphold our deal, or what they'd do to Reza, but I'm not leaving until this is over."
     c "Se me ne vado adesso, la sola cosa con cui ritornerò a casa è la mia stessa vita. Avrò perso tutto quanto il resto."
-    c "Ci servono quei generatori, [Br]. Io non ho idea se le vostre autorità continueranno a tener fede al nostro patto, o di cosa farebbero a [Rz], ma non me ne vado finché non è finita." # split to fit three lines, also "my OWN life"
+    c "Ci servono quei generatori, [Br]. Io non ho idea se le vostre autorità continueranno a tener fede al nostro patto, o di cosa farebbero a [Rz], ma non me ne vado finché non è finita." # split to fit three lines; "my OWN life"
 
 # game/chapter3.rpy:851
 translate italiantl chapter3_ed6087b4:
@@ -750,7 +750,7 @@ translate italiantl c3conty_fe17f0dd_1:
 translate italiantl c3conty_bc3dee69:
 
     # Em normal "I see. Well, I know I haven't exactly kept myself up-to-date with the details of Reza's disappearance, but to receive the message today that he has been involved in multiple murders and break-ins is quite shocking."
-    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e intrusioni è stato piuttosto scioccante." # see lines 1113, 1123, also "is quite shocking" -> "was quite shocking" to match those lines
+    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e intrusioni è stato piuttosto scioccante." # see lines 1113, 1123; "is quite shocking" -> "was quite shocking" to match those lines
 
 # game/chapter3.rpy:1135
 translate italiantl c3conty_98aeb2ec_2:
@@ -768,7 +768,7 @@ translate italiantl c3conty_4e35c84c_2:
 translate italiantl c3conty_fd929a12:
 
     # Br "Only after we tested our new evidence, discovered the DNA linking the two victims together, and had the PDAs stolen did your ministry have to become involved."
-    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che Lei, Ministro, fosse coinvolta." # see line 1119, also "had the PDA[s] stolen" -> "found the PDA was stolen"
+    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che Lei, Ministro, fosse coinvolta." # see line 1119; "had the PDA[s] stolen" -> "found the PDA was stolen"
 
 # game/chapter3.rpy:1142
 translate italiantl c3conty_08704206:
@@ -1104,13 +1104,13 @@ translate italiantl c3conty_0a0f89f3:
 translate italiantl c3conty_841f91fd:
 
     # Em "You, me and Bryce will have to face the backlash resulting from this information becoming public, and what's more, [player_name], you might be in real danger yourself."
-    Em "Tu, io e [Br] dovremmo far fronte al contraccolpo risultante dalla divulgazione di questa informazione, e per di più, [player_name], tu stessə potresti venire a trovarti in serio pericolo." # "will have to" -> "would have to", "you might COME TO be"
+    Em "Tu, io e [Br] dovremmo far fronte al contraccolpo risultante dalla divulgazione di questa informazione, e per di più, [player_name], tu stessə potresti venire a trovarti in serio pericolo." # "will have to" -> "would have to"; "you might COME TO be"
 
 # game/chapter3.rpy:1266
 translate italiantl c3conty_6aa58db2:
 
     # Em frown "Reza himself may come to silence you once he learns that you are helping us. Or consider the public uproar from those who would question your involvement."
-    Em frown "[Rz] stesso potrebbe arrivare a farti tacere una volta che avesse appreso che ci stai aiutando. Oppure considera il tumulto popolare da parte di coloro che contesterebbero il tuo coinvolgimento." # "may come" -> "might come", "learns" -> "learned"
+    Em frown "[Rz] stesso potrebbe arrivare a farti tacere una volta che avesse appreso che ci stai aiutando. Oppure considera il tumulto popolare da parte di coloro che contesterebbero il tuo coinvolgimento." # "may come" -> "might come"; "learns" -> "learned"
 
 # game/chapter3.rpy:1268
 translate italiantl c3conty_eeff36cd:
@@ -1266,7 +1266,7 @@ translate italiantl c3conty_76b2fe88_2:
 translate italiantl c3conty_51fe36b6:
 
     # n "That day, a force with the power of 10 billion Hiroshima bombs was unleashed into our atmosphere."
-    n "Quel giorno, una forza con la potenza di dieci bombe atomiche fu rilasciata nella nostra atmosfera." # "10" -> "ten" for elegance, also "Hiroshima" -> "atomic"
+    n "Quel giorno, una forza con la potenza di dieci miliardi di bombe atomiche fu rilasciata nella nostra atmosfera." # "10" -> "ten" for elegance; "Hiroshima" -> "atomic"
 
 # game/chapter3.rpy:1348
 translate italiantl c3conty_1bb80bfb:
@@ -1332,7 +1332,7 @@ translate italiantl c3conty_6bdd3699:
 translate italiantl c3conty_c743571a:
 
     # n "Once the full power of the waves hit us, however, society as we knew it collapsed in one fell swoop. Power grids on Earth shut down in an instant, as did all the machines that automated our routine tasks. Long-distance communication and transport became a thing of the past."
-    n "Una volta che la piena potenza dell'onda ci ebbe colpito, comunque, la società come la conoscevamo collassò in un solo colpo. Le reti elettriche sulla Terra si spensero in un istante, così come anche tutte le macchine che avevano automatizzato le nostre attività di routine. Le comunicazioni a lunga distanza e i trasporti divennero un ricordo del passato." # "the wave[s]", "that HAD automated"
+    n "Una volta che la piena potenza dell'onda ci ebbe colpito, comunque, la società come la conoscevamo collassò in un solo colpo. Le reti elettriche sulla Terra si spensero in un istante, così come tutte le macchine che avevano automatizzato le nostre attività di routine. Le comunicazioni a lunga distanza e i trasporti divennero un ricordo del passato." # "the wave[s]"; "that HAD automated"
 
 # game/chapter3.rpy:1389
 translate italiantl c3conty_76b2fe88_6:
@@ -1398,7 +1398,7 @@ translate italiantl c3conty_d0161738:
 translate italiantl c3conty_43c1cb3e:
 
     # n "It's the only way we can retain a modicum of order. Gangs of raiders and looters run rampant on the outside. They wouldn't hesitate to kill first and ask questions later if they had known about my PDA."
-    n "È il solo modo che abbiamo per mantenere una parvenza d'ordine. Bande di razziatori e di sciacalli imperversano all'esterno. Loro non esiterebbero a uccidere prima e fare domande dopo se solo sapessero del mio palmare." # "we can" -> "we have to", "if they had known" -> "if ONLY they knew"
+    n "È il solo modo che abbiamo per mantenere una parvenza d'ordine. Bande di razziatori e di sciacalli imperversano all'esterno. Loro non esiterebbero a uccidere prima e fare domande dopo se solo sapessero del mio palmare." # "we can" -> "we have to"; "if they had known" -> "if ONLY they knew"
 
 # game/chapter3.rpy:1417
 translate italiantl c3conty_76b2fe88_8:
@@ -2674,7 +2674,7 @@ translate italiantl c3conty_23c8f7d9:
 translate italiantl c3conty_a8df4202:
 
     # Em "Considering the circumstances, you will be allowed to coordinate the investigation of the portal, but after that, you are to immediately return to me to start your new task. Understood?"
-    Em "Considerando le circostanze, ti sarà concesso di coordinare l'indagine sul portale, ma dopodiché, dovrai fare immediato ritorno da me per iniziare il tuo nuovo incarico. Intesi?"
+    Em "Considerate le circostanze, ti sarà concesso di coordinare l'indagine sul portale, ma dopodiché, dovrai fare immediato ritorno da me per iniziare il tuo nuovo incarico. Intesi?"
 
 # game/chapter3.rpy:1995
 translate italiantl c3conty_52baf69b:
@@ -2962,7 +2962,7 @@ translate italiantl c3conty_b7d62b76:
 translate italiantl c3conty_d942e538:
 
     # Br "It'd be easy to overlook. It's a small part of the machine, and it's not like she was expected to check every square inch of it with each lap around the area."
-    Br "Sarebbe facile da perdersi. È una piccola parte della macchina, e da lei non ci si aspettava certo che ne controllasse ogni centimetro quadrato con ogni giro attorno alla zona." # "inch" -> "centimeter", "it's not like she was expected" -> "she sure wasn't expected"
+    Br "Sarebbe facile da perdersi. È una piccola parte della macchina, e da lei non ci si aspettava certo che ne controllasse ogni centimetro quadrato con ogni giro attorno alla zona." # "inch" -> "centimeter"; "it's not like she was expected" -> "she sure wasn't expected"
 
 # game/chapter3.rpy:2146
 translate italiantl c3conty_9c1d0281:
@@ -3328,7 +3328,7 @@ translate italiantl c3conty_56d513f3:
 translate italiantl c3conty_2e150999:
 
     # Sb "Yes. The whole building is underground, and we've determined that there is a rather large pocket of water surrounding it. Any kind of disturbance could endanger everything and everyone inside."
-    Sb "Sì. L'intero edificio è interrato, e abbiamo determinato la presenza di una sacca d'acqua piuttosto grande che lo circonda. Qualunque tipo di perturbazione potrebbe mettere in pericolo tutto e tutti al suo interno."
+    Sb "Sì. L'intero edificio è interrato, e abbiamo determinato la presenza di sacche d'acqua piuttosto grandi che lo circondano. Qualunque tipo di perturbazione potrebbe mettere in pericolo tutto e tutti al suo interno." # "there is a rather large pocket of water" -> "there are rather large pockets of water"
 
 # game/chapter3.rpy:2314
 translate italiantl c3conty_89aefe22:
@@ -3622,7 +3622,7 @@ translate italiantl _call_syscheck_16_fb173d52:
 translate italiantl _call_syscheck_16_9361e101:
 
     # s "You tried to go to the portal. And that despite the letter explicitly telling you not to. You rebel."
-    s "Hai provato ad andare al portale. E nonostante il messaggio ti avesse detto di non farlo. Tu, bruttə ribelle." # see also the Italian translation of Return of the Jedi, 01:33:56, "you rebel [scums]" => "brutta [feccia] ribelle", also "letter" -> "message" to match lines 2431, 2467
+    s "Hai provato ad andare al portale. E nonostante il messaggio ti avesse detto di non farlo. Tu, bruttə ribelle." # see the Italian translation of Return of the Jedi, 01:33:56, "you rebel [scums]" => "brutta [feccia] ribelle"; "letter" -> "message" to match lines 2431, 2467
 
 # game/chapter3.rpy:2603
 translate italiantl _call_syscheck_16_4e3515c9:
@@ -4684,7 +4684,7 @@ translate italiantl c3arc_bf52e605:
 translate italiantl c3arc_b94979dc:
 
     # m "With a dull thud, the dragon set the cart down again before he flopped on the ground, exhausted."
-    m "Con un tonfo sordo, il drago posò nuovamente il carretto prima di lasciarsi cadere al suolo, esausto."
+    m "Con un tonfo sordo, il drago posò nuovamente il carretto prima di lasciarsi cadere a terra, esausto."
 
 # game/chapter3.rpy:3334
 translate italiantl c3arc_83b7a7eb:
@@ -5060,7 +5060,7 @@ translate italiantl _call_syscheck_19_ee3bcbd5:
 translate italiantl _call_syscheck_19_acb4214c:
 
     # n "Since the building had unknown historical and technological value, there was a plan in place to drain the water pockets. The legal permissions had not yet gone through, however, and it would take some time for the equipment to arrive."
-    n "Dal momento che la valenza storica e tecnologica dell'edificio era ignota, era in atto un piano per drenare la sacca d'acqua. I permessi legali non erano ancora stati rilasciati, però, e ci sarebbe voluto del tempo perché l'attrezzatura arrivasse." # "water pocket[s]" to match line 2312
+    n "Dal momento che la valenza storica e tecnologica dell'edificio era ignota, era in atto un piano per drenare le sacche d'acqua. I permessi legali non erano ancora stati rilasciati, però, e ci sarebbe voluto del tempo perché l'attrezzatura arrivasse."
 
 # game/chapter3.rpy:3641
 translate italiantl _call_syscheck_19_240ed26c:
@@ -6104,7 +6104,7 @@ translate italiantl _call_popularcheck_2_e06dc126:
 translate italiantl _call_popularcheck_2_ca9231e1:
 
     # Br "Anyway, if you want to drop by at any time, my door's open, buddy."
-    Br "Ad ogni modo, se ti va di passare in qualsiasi momento—la mia porta è aperta, ragazzə." # see line 4226 of chapter 2, also corrected em-dash to match that line
+    Br "Ad ogni modo, se ti va di passare in qualsiasi momento—la mia porta è aperta, ragazzə." # see line 4226 of chapter 2; corrected em-dash to match that line
 
 # game/chapter3.rpy:4789
 translate italiantl _call_popularcheck_2_26eaf959:

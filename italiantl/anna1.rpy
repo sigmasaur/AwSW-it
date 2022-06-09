@@ -190,7 +190,7 @@ translate italiantl _call_skipcheck_7_93f35ab2:
 translate italiantl _call_skipcheck_7_fd0e7feb:
 
     # An "If anything were to change, it would obviously fracture the base this society is built on, cause it all to collapse, tear apart families and allow all hell to break loose."
-    An "Se mai dovesse cambiare qualcosa, ovviamente minerebbe questa società alle sue fondamenta, facendola collassare tutta, farebbe a pezzi le famiglie e scatenerebbe un inferno." # "cause" -> "causing", "allow all hell to break loose" -> "break loose all hell"
+    An "Se mai dovesse cambiare qualcosa, ovviamente minerebbe questa società alle sue fondamenta, facendola collassare tutta, farebbe a pezzi le famiglie e scatenerebbe un inferno." # "cause" -> "causing"; "allow all hell to break loose" -> "break loose all hell"
 
 # game/anna1.rpy:219
 translate italiantl _call_skipcheck_7_36b5bba3:
@@ -232,7 +232,7 @@ translate italiantl _call_skipcheck_7_4e54941b:
 translate italiantl _call_skipcheck_7_501d818b:
 
     # An "Wasting my time with that guy was just another setback, not that I don't already have more than enough work to do. Even right now I'm supposed to be working overtime."
-    An "Sprecare il mio fiato con quel tipo è stato solo l'ennesimo contrattempo, come se non avessi già abbastanza lavoro da fare. Persino adesso dovrei stare facendo gli straordinari." # "time" -> "breath", "not that" -> "like"
+    An "Sprecare il mio fiato con quel tipo è stato solo l'ennesimo contrattempo, come se non avessi già abbastanza lavoro da fare. Persino adesso dovrei stare facendo gli straordinari." # "time" -> "breath"; "not that" -> "like"
 
 # game/anna1.rpy:247
 translate italiantl _call_skipcheck_7_206a6186_1:
@@ -352,7 +352,7 @@ translate italiantl _call_skipcheck_7_65ce626d:
 translate italiantl _call_skipcheck_7_3f4c75b3:
 
     # An "Excuse me for a moment, but I must weep for the English language. At this rate, why don't you just say you're the \"most curiouserest\"?"
-    An "No, scusa un momento, ma devo piangere per la nostra lingua. Di questo passo, perché non dire semplicemente che sei lə più \"curioserrimə\"?" # must match line 298, also "English" -> "our", "don't you" -> "not"
+    An "No, scusa un momento, ma devo piangere per la nostra lingua. Di questo passo, perché non dire semplicemente che sei lə più \"curioserrimə\"?" # must match line 298; "English" -> "our"; "don't you" -> "not"
 
 # game/anna1.rpy:307
 translate italiantl _call_skipcheck_7_ad12b171:
@@ -442,7 +442,7 @@ translate italiantl _call_skipcheck_7_a1018474:
 translate italiantl _call_skipcheck_7_3a948282:
 
     # n "I wasn't sure whether I would regret the choice I made in the times to come, but in the end, it is what I had to do."
-    n "Non ero sicurə se avrei rimpianto o meno la mia scelta nel tempo a venire, ma in fin dei conti, avevo fatto quel che dovevo." # "the choice I made" -> "my choice", "it is what I had to do" -> "I did what I had to"
+    n "Non ero sicurə se avrei rimpianto o meno la mia scelta nel tempo a venire, ma in fin dei conti, avevo fatto quel che dovevo." # "the choice I made" -> "my choice"; "it is what I had to do" -> "I did what I had to"
 
 # game/anna1.rpy:389
 translate italiantl _call_skipcheck_7_0c82e1c2:
@@ -1138,7 +1138,7 @@ translate italiantl cont1_e7d505dd:
 translate italiantl cont1_f67814b1:
 
     # An "Only until the middle. Anything after that and you're walking out of the woods again."
-    An "Solo fino a metà. Un solo passo più avanti e ne staresti uscendo di nuovo." # "anything" -> "a single step", "the woods" -> "it"
+    An "Solo fino a metà. Un solo passo più avanti e ne staresti uscendo di nuovo." # "anything" -> "a single step"; "the woods" -> "it"
 
 # game/anna1.rpy:859
 translate italiantl cont1_46db7d15:
@@ -1258,7 +1258,7 @@ translate italiantl cont2_ac54beca:
 translate italiantl cont2_e0e6802f:
 
     # An "That's right. All the rooms are equally deadly. Alligators can go up to two years or more without food, making room #3 as deadly as the others. The other two rooms should not require any explanation."
-    An "È giusto. Tutte le stanze sono egualmente letali. Gli alligatori possono restare fino a due anni o più senza cibo, rendendo la terza stanza altrettanto letale delle altre. Le prime due stanze non dovrebbero aver bisogno di spiegazioni." # "room #3" -> "third room", "other" -> "first"
+    An "È giusto. Tutte le stanze sono egualmente letali. Gli alligatori possono restare fino a due anni o più senza cibo, rendendo la terza stanza altrettanto letale delle altre. Le prime due stanze non dovrebbero aver bisogno di spiegazioni." # "room #3" -> "third room"; "other" -> "first"
 
 # game/anna1.rpy:982
 translate italiantl cont2_2fe75ba3:
@@ -1312,7 +1312,7 @@ translate italiantl cont4_58cb19cf:
 translate italiantl cont4_f883752b:
 
     # c "What is the approximate acceleration speed of a nosediving flyer?" # a reference to Monty Python where they ask about the airspeed velocity of an unladen swallow
-    c "Qual è la velocità approssimativa che può raggiungere un volatore in picchiata?" # used the Italian translation of Monty Python, also "approximate [acceleration] speed"
+    c "Qual è la velocità approssimativa che può raggiungere un volatore in picchiata?" # used the Italian translation of Monty Python; "approximate [acceleration] speed"
 
 # game/anna1.rpy:1022
 translate italiantl cont4_d35e2a23:
@@ -1468,7 +1468,7 @@ translate italiantl _call_syscheck_36_27a8acdb:
 translate italiantl _call_syscheck_36_4e513385:
 
     # n "Even though my bet of forcing her to go on a proper date with me was more to get back at her for her earlier rudeness, I had not expected this outcome. I was not even sure what I expected from this meeting in the first place, but now I was locked into going on a date with her and being her own, personal guinea pig."
-    n "Anche se la mia scommessa che sarebbe venuta a un vero e proprio appuntamento con me era più che altro per rivalermi della sua scontrosità di prima, quest'esito non me l'aspettavo. Non ero nemmeno sicurə di cosa mi fossi aspettatə da questo incontro, eppure adesso mi ero impegnatə a uscire con lei e fare da sua personale cavia da laboratorio." # "what I HAD expected from this meeting [in the first place]", "but" -> "yet"
+    n "Anche se la mia scommessa che sarebbe venuta a un vero e proprio appuntamento con me era più che altro per rivalermi della sua scontrosità di prima, quest'esito non me l'aspettavo. Non ero nemmeno sicurə di cosa mi fossi aspettatə da questo incontro, eppure adesso mi ero impegnatə a uscire con lei e fare da sua personale cavia da laboratorio." # "what I HAD expected from this meeting [in the first place]"; "but" -> "yet"
 
 # game/anna1.rpy:1094
 translate italiantl _call_syscheck_36_7f2e72b6:

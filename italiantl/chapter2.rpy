@@ -64,7 +64,7 @@ translate italiantl _call_skipcheck_11_d527dbc7:
 translate italiantl _call_skipcheck_11_2c4ed385:
 
     # n "But I had greater things to worry about at the moment, like Reza, murders and generators. How much danger was I in, really?"
-    n "Ma avevo cose più importanti di cui preoccuparmi al momento, come [Rz], omicidi e generatori. Quanto in pericolo mi trovavo, veramente?"
+    n "Ma al momento avevo cose più importanti di cui preoccuparmi, come [Rz], omicidi e generatori. Quanto in pericolo mi trovavo, veramente?"
 
 # game/chapter2.rpy:307
 translate italiantl _call_skipcheck_11_76b2fe88:
@@ -394,7 +394,7 @@ translate italiantl _call_skipcheck_11_2ea1030a:
 translate italiantl _call_skipcheck_11_9f98a1a6:
 
     # Sb "It's an interesting one, that's for sure. The wounds match those of the last victim, so a similar - if not identical - murder weapon is likely."
-    Sb "In modo interessante, questo è certo. Le ferite sono compatibili con quelle dell'ultima vittima, quindi una simile—se non la stessa arma del delitto è da presumersi." # corrected em-dash, also "identical[—]" -> "the same"
+    Sb "In modo interessante, questo è certo. Le ferite sono compatibili con quelle dell'ultima vittima, quindi una simile—se non la stessa arma del delitto è da presumersi." # corrected em-dash; "identical[ -]" -> "the same"
 
 # game/chapter2.rpy:525
 translate italiantl _call_skipcheck_11_3c662131:
@@ -985,7 +985,7 @@ translate italiantl _call_skipcheck_11_7581cdd5:
 translate italiantl _call_skipcheck_11_2c4cde19:
 
     # Br stern b "Right. Who else would need to steal a generator, when those who live here could either buy or even simply request one. Not to mention, Reza was the one who arranged the diplomatic trade for the generators in the first place."
-    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato [Rz] a organizzare sin dall'inizio lo scambio diplomatico per i generatori." # see line 975, also corrected question mark to match that line
+    Br stern b "Giusto. Chi altri avrebbe bisogno di rubare un generatore, quando coloro che vivono qui potrebbero comprarne uno o anche solo richiederlo? Senza contare che è stato [Rz] a organizzare sin dall'inizio lo scambio diplomatico per i generatori." # see line 975; corrected question mark to match that line
 
 # game/chapter2.rpy:985
 translate italiantl _call_skipcheck_11_3951ceed:
@@ -1045,7 +1045,7 @@ translate italiantl chap2q1_f7c22d23:
 translate italiantl chap2q1_eee7140b:
 
     # Br "Honestly, things aren't looking great for him right now. It's still our top priority to find him, but after what we've seen here today, I'm not sure what will happen when we do. I just don't want to give you any false hope, you know?"
-    Br "Onestamente, le cose non si mettono bene per lui in questo momento. Trovarlo ha ancora la priorità assoluta, ma dopo quello che abbiamo visto qui oggi, non so bene cosa accadrà quando ci riusciremo. Solo non voglio darti false speranze, mi segui?" # slightly pruned to fit three lines
+    Br "Onestamente, le cose non si mettono bene per lui in questo momento. Trovarlo ha ancora la priorità assoluta, ma dopo quello che abbiamo visto qui oggi, non so bene cosa accadrà quando ci riusciremo. Solo non voglio darti false speranze, mi segui?" # slightly pruned to fit three lines; "great" -> "good"
 
 # game/chapter2.rpy:1038
 translate italiantl chap2q1_89aefe22:
@@ -1069,7 +1069,7 @@ translate italiantl chap2q1_a3eda8d1:
 translate italiantl chap2q1_199760a9:
 
     # Br brow b "Let's put this into perspective: We've found two corpses so far. Reza is the prime suspect, and you think all he needs is someone to talk to him? Sorry, but I'll be going with a \"no\" on that one."
-    Br brow b "Vediamola in prospettiva: abbiamo trovato due corpi finora, [Rz] è il sospettato principale, e tu pensi che tutto ciò che gli serve sia qualcuno che gli parli? Perdonami, ma credo proprio di dover dissentire." # corrected lowercase letter, also corrected comma
+    Br brow b "Vediamola in prospettiva: abbiamo trovato due corpi finora, [Rz] è il sospettato principale, e tu pensi che tutto ciò che gli serve sia qualcuno che gli parli? Perdonami, ma credo proprio di dover dissentire." # corrected lowercase letter, comma
 
 # game/chapter2.rpy:1064
 translate italiantl chap2q1_cedac8ae:
@@ -1263,7 +1263,7 @@ translate italiantl chapter2sections2_a3c147d5:
     # nvl clear
     # n "I also had to consider the list of places Reza had been to: A local grocery store, the production facility we had visited and the library were the three places closest to here."
     nvl clear
-    n "Dovevo anche considerare l'elenco dei posti in cui [Rz] era stato: un negozio di alimentari locale, lo stabilimento di produzione che avevamo visitato e la biblioteca erano i tre posti più vicini." # corrected lowercase letter, also "the three places closest [to here]" -> "the three closest places"
+    n "Dovevo anche considerare l'elenco dei posti in cui [Rz] era stato: un negozio di alimentari locale, lo stabilimento di produzione che avevamo visitato e la biblioteca erano i tre posti più vicini." # corrected lowercase letter; "the three places closest [to here]" -> "the three closest places"
 
 # game/chapter2.rpy:1174
 translate italiantl chapter2sections2_814ec0e4:
@@ -2073,7 +2073,7 @@ translate italiantl chap2facility_6d126859:
 translate italiantl chap2facility_37ef5819:
 
     # "???" "Here's the short version: My name is Damion. I work in this facility, and I'm unfortunate enough to live the nightmare of having to deal with Anna on a daily basis. Nice to meet you."
-    "??? " "Ecco la versione breve: il mio nome è [Dm], lavoro in questo stabilimento, e sono abbastanza sfortunato da vivere l'incubo di dover avere a che fare quotidianamente con [An]. Piacere di conoscerti." # corrected lowercase letter, also corrected comma
+    "??? " "Ecco la versione breve: il mio nome è [Dm], lavoro in questo stabilimento, e sono abbastanza sfortunato da vivere l'incubo di dover avere a che fare quotidianamente con [An]. Piacere di conoscerti." # corrected lowercase letter, comma
 
 # game/chapter2.rpy:1818
 translate italiantl chap2facility_4ce6b84d:
@@ -2679,7 +2679,7 @@ translate italiantl chap2libmenu_66c23589:
 translate italiantl chap2libmenu_1ec81466:
 
     # Ry "You have a few good points, so I guess it's only fair. Hopefully with less things being broken this time around, though."
-    Ry "Hai portato dei buoni argomenti, quindi immagino sia solo che giusto. Mi auguro stavolta con meno cose infrante, però." # "things being broken" -> "broken things", also "broken" as in "broken heart" => "spezzate", "infrante"
+    Ry "Hai portato dei buoni argomenti, quindi immagino sia solo che giusto. Mi auguro stavolta con meno cose infrante, però." # "things being broken" -> "broken things"; "broken" as in "broken heart" => "spezzate", "infrante"
 
 # game/chapter2.rpy:2253
 translate italiantl chap2libmenu_04d95a1f:
@@ -4143,13 +4143,13 @@ translate italiantl chapter2chars_14f20a32:
 translate italiantl _call_popularcheck_10_8bf0501b:
 
     # Br "Hey. I was just thinking about last time. I know we got a little blackout drunk, but I still thought that was kinda fun."
-    Br "Ehi. Stavo giusto ripensando all'ultima volta. So che abbiamo alzato un po' il gomito, ma penso sia stato comunque divertente." # "thought" -> "think", "that was [kinda] fun"
+    Br "Ehi. Stavo giusto ripensando all'ultima volta. So che abbiamo alzato un po' il gomito, ma penso sia stato comunque divertente." # "thought" -> "think"; "that was [kinda] fun"
 
 # game/chapter2.rpy:4220
 translate italiantl _call_popularcheck_10_e0bc6ab0:
 
     # Br "I think you had some fun too, but I also wanted to show you there's more to me than that."
-    Br "Penso ti sia divertitə anche tu, ma volevo anche mostrarti che so essere più di questo." # see also line 1412 of Bryce 1
+    Br "Penso ti sia divertitə anche tu, ma volevo anche mostrarti che so essere più di questo." # see line 1412 of Bryce 1
 
 # game/chapter2.rpy:4222
 translate italiantl _call_popularcheck_10_ed3abd0d:

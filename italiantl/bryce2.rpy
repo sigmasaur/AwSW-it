@@ -273,7 +273,7 @@ translate italiantl _call_skipcheck_6_7bd0dea6:
 translate italiantl _call_skipcheck_6_7e45cf95:
 
     # m "He went to a shelf on the far side of the room and picked up a long object, carrying it in his maw as he returned to the table before me and gently set it down."
-    m "Andò a uno scaffale sul lato opposto della stanza e raccolse un lungo oggetto, portandolo nelle fauci mentre ritornava al tavolino di fronte a me e lo posò gentilmente."
+    m "Andò a uno scaffale sul lato opposto della stanza e raccolse un lungo oggetto, portandolo nelle fauci mentre ritornava al tavolino davanti a me e lo posò gentilmente."
 
 # game/bryce2.rpy:300
 translate italiantl _call_skipcheck_6_5a1ba1ae:
@@ -411,7 +411,7 @@ translate italiantl _call_skipcheck_6_fa257366:
 translate italiantl _call_skipcheck_6_20a44318:
 
     # Br normal "Well, some of us can fly, and some of us can run well, but none of us can swim beyond the seas."
-    Br normal "Be', alcuni di noi sanno volare, e alcuni sanno correre bene, ma nessuno sa nuotare oltreoceano." # "some [of us] can run", "none [of us] can swim"
+    Br normal "Be', alcuni di noi sanno volare, e alcuni sanno correre bene, ma nessuno sa nuotare oltreoceano." # "some [of us] can run"; "none [of us] can swim"
 
 # game/bryce2.rpy:369
 translate italiantl _call_skipcheck_6_8ac9160f:
@@ -477,7 +477,7 @@ translate italiantl _call_skipcheck_6_433fca34:
 translate italiantl _call_skipcheck_6_3aef6a65:
 
     # Br stern "Seriously? Just because I don't look like a body builder doesn't mean I'm out of shape. Heck, I work out every day, and I train for strength - not to just look the part. Everything you see is 100%% pure muscle."
-    Br stern "Sul serio? Solo perché non assomiglio a un culturista non vuol dire che sia fuori forma. Diamine, mi alleno ogni giorno, e lavoro sulla forza—non solo per l'aspetto giusto. Tutto quello che vedi è al cento percento puro muscolo." # corrected em-dash, also "100%" -> "one hundred percent" for elegance
+    Br stern "Sul serio? Solo perché non assomiglio a un culturista non vuol dire che sia fuori forma. Diamine, mi alleno ogni giorno, e lavoro sulla forza—non solo per l'aspetto giusto. Tutto quello che vedi è al cento percento puro muscolo." # corrected em-dash; "100%" -> "one hundred percent" for elegance
 
 # game/bryce2.rpy:404
 translate italiantl _call_skipcheck_6_c00cf4e2:
@@ -1071,7 +1071,7 @@ translate italiantl bryce2cont2_be700cff:
 translate italiantl bryce2cont2_5ab05f1b:
 
     # c "That makes me wonder. I know you can use your forelegs well enough for things, but what about your hind legs? Can you walk on those?"
-    c "È che mi fa pensare. So che usate le zampe anteriori abbastanza bene per fare le cose, ma che dire delle zampe posteriori? Potete camminare su quelle?" # "I know you [can] use", "for DOING things"
+    c "È che mi fa pensare. So che usate le zampe anteriori abbastanza bene per fare le cose, ma che dire delle zampe posteriori? Potete camminare su quelle?" # "I know you [can] use"; "for DOING things"
 
 # game/bryce2.rpy:850
 translate italiantl bryce2cont2_85b95ca1:
@@ -1419,7 +1419,7 @@ translate italiantl bryce2cont2_95c76ef7:
 translate italiantl bryce2cont2_8ac06971:
 
     # m "After holding it for a few seconds, he breathed a sigh of relief as he relaxed and the flapping motion stopped again."
-    m "Dopo averlo mantenuto per qualche secondo, tirò un sospiro di sollievo mentre si rilassava e il battere smise di nuovo." # "holding it" where "it" as in "the rhythm", "the flapping [motion]"
+    m "Dopo averlo mantenuto per qualche secondo, tirò un sospiro di sollievo mentre si rilassava e il battere smise di nuovo." # "holding it" where "it" as in "the rhythm"; "the flapping [motion]"
 
 # game/bryce2.rpy:1010
 translate italiantl bryce2cont2_dadd5c9c:
@@ -1497,7 +1497,7 @@ translate italiantl bryce2cont2_6f771cec:
 translate italiantl bryce2cont2_fdc2df57:
 
     # c "Yes, really. We said no getting drunk this time, so I'm cutting you off."
-    c "Sì, sul serio. Avevamo detto niente sbronze stavolta, quindi ti taglio la birra." # "cutting you off" -> "cutting off youR BEER", also where did they say so?
+    c "Sì, sul serio. Avevamo detto niente sbronze stavolta, quindi ti taglio la birra." # "cutting you off" -> "cutting off youR BEER"; where did they say so?
 
 # game/bryce2.rpy:1061
 translate italiantl bryce2cont2_3ca32e40:
@@ -1665,7 +1665,7 @@ translate italiantl bryce2cont2_4962c95c:
 translate italiantl bryce2cont2_efe638a0:
 
     # c "No, but you said there was more to you than getting drunk and this is your third one already."
-    c "No, ma dicevi di saper fare di più che ubriacarti e questa è già la terza." # see line 1412 of Bryce 1, also see line 4220 of chapter 2, also "your third" -> "the third"
+    c "No, ma dicevi di saper fare di più che ubriacarti e questa è già la terza." # see line 1412 of Bryce 1, line 4220 of chapter 2; "your third" -> "the third"
 
 # game/bryce2.rpy:1155
 translate italiantl bryce2cont2_71222a28:
@@ -1689,19 +1689,19 @@ translate italiantl bryce2cont2_7efed046:
 translate italiantl bryce2cont2_a83267c5:
 
     # c "I'm still not quite sure how I ended up here. I guess in my case it was a combination of the right degrees, volunteering and a great deal of luck."
-    c "Ancora non sono del tutto sicurə di come sono finitə qui. Immagino che nel mio caso sia stata una combinazione dei giusti diplomi, l'essermi offertə volontariə e una buona dose di fortuna." # see also line 346 of Adine 1
+    c "Ancora non sono del tutto sicurə di come sia finitə qui. Immagino che nel mio caso sia stata una combinazione dei giusti diplomi, l'essermi offertə volontariə e una buona dose di fortuna."
 
 # game/bryce2.rpy:1167
 translate italiantl bryce2cont2_1b120d85:
 
     # Br brow "But what kind of job did you have before that? Were you, like, a politician, or a diplomat, or what?"
-    Br brow "Ma che tipo di lavoro facevi prima di quello? Eri forse, tipo, unə politicə, o unə diplomaticə, o cosa?" # see also line 346 of Adine 1
+    Br brow "Ma che tipo di lavoro facevi prima di quello? Eri forse, tipo, unə politicə, o unə diplomaticə, o cosa?"
 
 # game/bryce2.rpy:1169
 translate italiantl bryce2cont2_d5a6f787:
 
     # c "Actually, I was none of those things. Reza, maybe - but certainly not me."
-    c "In effetti, non ero nessuna di quelle cose. [Rz], forse—ma certo non io." # corrected em-dash
+    c "In effetti, non ero nessuna di quelle cose. [Rz], forse—ma non certo io." # corrected em-dash
 
 # game/bryce2.rpy:1171
 translate italiantl bryce2cont2_0401c90e:
@@ -1749,7 +1749,7 @@ translate italiantl bryce2cont2_94882170:
 translate italiantl bryce2cont2_12f798a4:
 
     # c "Let's just say that where I come from, the word often carries negative connotations with it."
-    c "Diciamo solo che dalle mie parti, quella parola spesso porta con sé una connotazione negativa." # "the word" -> "that word", "A negative connotation[s]"
+    c "Diciamo solo che dalle mie parti, quella parola spesso porta con sé una connotazione negativa." # "the word" -> "that word"; "A negative connotation[s]"
 
 # game/bryce2.rpy:1187
 translate italiantl bryce2cont2_217ab4fa:

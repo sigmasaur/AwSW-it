@@ -1072,7 +1072,7 @@ translate italiantl _call_skipcheck_18_9840b3f3:
 translate italiantl _call_skipcheck_18_57a04928:
 
     # An normal "Do you want to know what I did on my last vacation ? I just started walking in a random direction. I spent a week in the wilderness before I came back."
-    An normal "Vuoi sapere come ho passato le mie ultime vacanze? Ho preso una direzione a caso e ho camminato. Ho trascorso una settimana in mezzo alla natura prima di tornare." # removed extra space, also "what I did on" -> "how I spent"
+    An normal "Vuoi sapere come ho passato le mie ultime vacanze? Ho preso una direzione a caso e ho camminato. Ho trascorso una settimana in mezzo alla natura prima di tornare." # removed extra space; "what I did on" -> "how I spent"
 
 # game/anna4.rpy:619
 translate italiantl _call_skipcheck_18_1870a566:
@@ -1132,7 +1132,7 @@ translate italiantl _call_skipcheck_18_846cf6e7:
 translate italiantl _call_skipcheck_18_8b800a52:
 
     # An face "My personal ones?"
-    An face "I nostri progressi in laboratorio?" # must match line 635, also "ones" -> "advances"
+    An face "I nostri progressi in laboratorio?" # must match line 635; "ones" -> "advances"
 
 # game/anna4.rpy:639
 translate italiantl _call_skipcheck_18_ce34c345:
@@ -1162,13 +1162,13 @@ translate italiantl _call_skipcheck_18_4e5a4202:
 translate italiantl _call_skipcheck_18_a2333aaa:
 
     # An face "Our enlightened society does not see any value in it. Besides, you know about our creation myth, right?"
-    An face "La nostra illuminata società non ne vede l'utilità. E poi, conosci il nostro mito della creazione, giusto?" # "any value" -> "the value"
+    An face "La nostra società illuminata non ne vede l'utilità. E poi, conosci il nostro mito della creazione, giusto?" # "any value" -> "the value"
 
 # game/anna4.rpy:649
 translate italiantl _call_skipcheck_18_a9a698ae:
 
     # c "The one about a human creating you?"
-    c "Quello sull'umano che vi avrebbe creati?" # see also line 495 of Adine 4
+    c "Quello sull'umano che vi avrebbe creati?" # see line 495 of Adine 4
 
 # game/anna4.rpy:651
 translate italiantl _call_skipcheck_18_f60d7ae9:
@@ -1336,7 +1336,7 @@ translate italiantl _call_skipcheck_18_c3009a29:
 translate italiantl _call_skipcheck_18_c09d41a9:
 
     # An face "Not necessarily, since it also leads to reluctant agreements and sweeping issues that should be talked about under the rug. You know what? That doesn't jive with me."
-    An face "Non necessariamente, dato che porta anche ad accordarsi con riluttanza e accantonare questioni di cui si dovrebbe discutere. E sai che c'è? La cosa non mi va a genio." # wording, also "AND you know what"
+    An face "Non necessariamente, dato che porta anche ad accordarsi con riluttanza e accantonare questioni di cui si dovrebbe discutere. E sai che c'è? La cosa non mi va a genio." # wording; "AND you know what"
 
 # game/anna4.rpy:707
 translate italiantl _call_skipcheck_18_b56474f2:

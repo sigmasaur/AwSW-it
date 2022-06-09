@@ -262,7 +262,7 @@ translate italiantl _call_skipcheck_23_5ec1c392:
 translate italiantl _call_skipcheck_23_434e0470:
 
     # Ad "I still volunteer as often as I can, because if I don't, who will? Someone needs to be there for those kids."
-    Ad "Faccio comunque da volontaria ogni volta che posso, perché se non io, allora chi altri? C'è bisogno di qualcuno là per quei piccoli." # "if I don't" -> "if not me", "who ELSE [will]"
+    Ad "Faccio comunque da volontaria ogni volta che posso, perché se non io, allora chi altri? C'è bisogno di qualcuno là per quei piccoli." # "if I don't" -> "if not me"; "who ELSE [will]"
 
 # game/adine2.rpy:265
 translate italiantl _call_skipcheck_23_8793cbdb:
@@ -1462,7 +1462,7 @@ translate italiantl adine2menb_59ab7f92:
 translate italiantl adine2menb_0ce1db36:
 
     # Ad normal b "Alright, so you get to the destination of the second delivery, and they actually check what you're handing them. It turns out that you mixed up the orders, but you already delivered the first one."
-    Ad normal b "D'accordo, così arrivi alla destinazione della seconda consegna, e questi controllano effettivamente ciò che gli stai consegnando. E viene fuori che hai confuso gli ordini, però hai già consegnato il primo." # "they" -> "these", "AND it turns out"
+    Ad normal b "D'accordo, così arrivi alla destinazione della seconda consegna, e questi controllano effettivamente ciò che gli stai consegnando. E viene fuori che hai confuso gli ordini, però hai già consegnato il primo." # "they" -> "these"; "AND it turns out"
 
 # game/adine2.rpy:1099
 translate italiantl adine2menb_f7af450f:

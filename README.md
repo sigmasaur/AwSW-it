@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on `Bryce`'s sections. Files done and up for review:
+Currently working on `Lorem`'s sections. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -36,14 +36,16 @@ Currently working on `Bryce`'s sections. Files done and up for review:
     bryce2.rpy
     bryce3.rpy
     bryce4.rpy
+    bryce5.rpy
 
 ### A few remarks
 
-* Having considered the developer's opinion, and given the precedent of game Neo Cab, I opted to use [Inclusive Italian][1] to help addressing the player character with a neutral gender, which wouldn't be feasible otherwise, if not by questionable adaptation of some of the script. I took the liberty of updating `Ardnas.otf` with a few accented vowels, which were needed anyways, and `TitilliumWeb-*.ttf` as well with `ə` and `ɜ`, needed for such a neutral gender; they were all easily obtained from other symbols. Note that Inclusive Italian only applies to the actual in-game entries, i.e. practically from `chapter1.rpy` onwards.<br>On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change. Also, `Emera` is addressed by all other characters with formal pronouns, as well as `Anna` by `Adine`, `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few circumstances.
+* Having considered the developer's opinion, and given the precedent of game *Neo Cab*, I decided to use [Inclusive Italian][1] to help address the player character with a neutral gender. I took the liberty of updating the fonts with `ə` and `ɜ`, needed for such neutral gender, as well as with accented vowels, which were needed anyway.<br>
+On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change. Also, `Emera` is addressed by all other characters with formal pronouns, as are `Anna` by `Adine`, `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few cases.
 
 * I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`, to reduce the risk of typos when translating.
 
-* Sometimes, it can happen that a line matches exactly its translated counterpart. These lines don't get rendered correctly for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
+* Sometimes, translated lines matching their source don't get rendered for some reason, and the only way I found to bypass the issue is to differentiate them by just putting a blank at the end.
 
 * As a design choice, the developer eventually decided that no gameplay sequence would ever lead to both `Anna` and `Damion` surviving `Reza`'s break-in between `chapter2.rpy` and `chapter3.rpy`. However, dead branches are still found in the game, and therefore still made available for translation whenever any dialogue is involved. This dialogue is never spoken, but it should probably be taken into account when translating related branches.
 
@@ -53,7 +55,7 @@ Currently working on `Bryce`'s sections. Files done and up for review:
 
 1. To start, have a look at the pinned threads in the dedicated [Steam sub-forum][2]; there you'll also find the Italian translation thread.
 2. You can contact me either through [Steam][3] or [Discord][4], so that I can add you as a collaborator and we can discuss how to divide up the tasks, but in the meantime feel free to poke around to get an idea or even start working on the translation on your own.
-3. If you don't feel like working on the actual translation, you can still provide a precious contribution by reviewing the already translated files and report errors/suggest improvements, either by contacting me directly or by posting on the [discussions][5] here.
+3. If you don't feel like working on the actual translation, you can still provide a precious contribution by reviewing the already translated files and report errors/suggest improvements, either by contacting me directly or here on the [discussions][5].
 4. Should you need contextual reference while translating/reviewing, you can find the game's relevant source code in this [Onedrive folder][6], together with other stuff like images containing text that needs to be translated, too.
 
 I should probably mention that this is intended to be an 'official' translation until proven otherwise, so if you want to give your contribution then you agree to transfer all rights on said translation to the developer (except maybe for the attribution right, but it remains at their discretion) so that it may be included in the game without legal issues.
@@ -74,7 +76,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`help.rpy`](italiantl/help.rpy)
 
-* At line 13: Used `space` tags in place of plain spaces to obtain a better alignment at a target resolution of 1920 x 1080, hope it's ok. There has to be a better way though.
+* At line 13: Used `space` tags in place of plain spaces to obtain a better alignment at a target resolution of 1920 × 1080, hope it's ok. There has to be a better way though.
 
 ### [`chapter1.rpy`](italiantl/chapter1.rpy)
 
@@ -132,10 +134,10 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1482: Corrected *under consideration* → *into consideration*.
 * At line 1946: Corrected uppercase letter of *Chief* to lowercase, to match numerous lines throughout the script where `Bryce` is not addressed directly or is the one speaking.
 * At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
+* At line 2312: *pocket* → *pockets*, to match numerous lines throughout the script.
 * At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of [`chapter1.rpy`](#chapter1rpy).
 * At line 3054: Consider changing ellipsis with simple dash.
 * At line 3098: Slightly pruned to fit fewer lines.
-* At line 3639: *pockets* → *pocket*, to match line 2312.
 * At line 3751: Adapted to preserve a pun; reverse translation: *I'm stunned.*
 * At line 3862-3866: Note that these lines also trigger if `Zhong` already addressed the player character by name in [`bryce1.rpy`](#bryce1rpy), where they may speak the same dialogue. Affected sequences: play [`bryce1.rpy`](#bryce1rpy) and [`chapter2.rpy`](#chapter2rpy) in either order; ask `Zhong` about him knowing the player character's name in [`bryce1.rpy`](#bryce1rpy) and optionally leave at lines 694, 1176, don't visit the grocery store in [`chapter2.rpy`](#chapter2rpy).
 * At line 4046-4064: Note that the larger, orange dragon should be a female, as mentioned by `Zhong` at line 3907; the current translation doesn't use this information, nonetheless.
@@ -145,7 +147,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 762, 922, 4375, 4382: Corrected uppercase letter to lowercase after colon.
 * At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash to em-dash.
 * At line 1094: Used if-statement to distinguish whether `Anna` survives or not, and corrected present tenses to simple past in the latter case.
-* At line 1368-1736: The following is a simplified flow chart to help keeping track of which dialogue spoken by the system refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** are persistent pseudo-variables starting resp. from `0`, `FALSE`. Note that **`CHEAT`** may jump from `0` to `2` but never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
+* At line 1368-1736: The following is a simplified flow chart to help keep track of which dialogue spoken by the `System` refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** start resp. from `0`, `FALSE` and persist on the next runs. Note that **`CHEAT`** may jump from `0` to `2` but never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
   * At line 1676-1736: Note that these lines also trigger if the user tried to cheat for the *first* time; see e.g. line 1696. Affected sequences: save `Bryce` after he died in a previous run, then try to cheat on the current run.
 * At line 1708: Slightly pruned to fit fewer lines.
 * At line 1812: Note that in theory, dragons don't know what a car is.
@@ -177,7 +179,7 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 11, 19, 33, 71, 473, 545: Corrected simple dash to em-dash.
 * At line 25, 517, 845: Corrected uppercase letter to lowercase after colon.
-* At line 347, 371: *generators* → *generator*, to match lines 4520, 4590 of [`chapter4.rpy`](#chapter4rpy).
+* At line 347, 371: *generators* → *generator*, to match numerous lines throughout the script, and especially lines 4520, 4590 of [`chapter4.rpy`](#chapter4rpy).
   * Note that *the building still having electricity* despite `Reza` having gotten its generator, which was supposed to be *also powering the portal*, is explained by `Reza` himself at line 449, revealing the presence of a backup. At the same line, however, `Reza` claims he *could even get the backup generator as well*, suggesting that the portal is really powered by other means. Whether this is truly the case is never addressed.
 * At line 565: Assumed *it* is referred to *the solution* at line 563.
 * At line 638: Consider adding parentheses to render the monologue a proper soliloquy.
@@ -207,12 +209,12 @@ The following are mostly to the benefit of the developer and translators.
 * At line 771: Kept the English name for *Freefall*, for coherence with the other names.
 * At line 883: Enclosed *hawk* with italics tags.
 * At line 1035: Split in multiple parts to fit fewer lines.
-* At line 1278, 1282: *pockets* → *pocket*, to match line 2312 of [`chapter3.rpy`](#chapter3rpy).
 
 ### [`adine4.rpy`](italiantl/adine4.rpy)
 
 * At line 289: Corrected two-dots ellipsis to three-dots.
 * At line 377: Corrected *in the outskirts* → *on the outskirts*.
+* At line 497: Slightly pruned to fit fewer lines.
 * At line 627, 665: Unfolded *TV* → *television*, for elegance.
 * At line 651: Corrected simple dash to em-dash.
 * At line 863: Rendered *child*(*ren*) as *cub*(*s*).
@@ -221,8 +223,10 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`adine5.rpy`](italiantl/adine5.rpy)
 
-* At line 83: *the mysterious person I met* → *the Administrator*, to improve the resulting readability and to match line 541 of [`chapter5.rpy`](#chapter5rpy).
+* At line 83: *the mysterious person I met* → *the Administrator*, to improve readability and to match line 541 of [`chapter5.rpy`](#chapter5rpy).
 * At line 146-244: Note that according to the player character at line 146, `Reza`'s *got six bullets* in his gun, which is the same number of bullets that can be heard being fired up until line 244. Whether they actually notice or not is never addressed; either way the player character eventually surrenders as per `Adine`'s plea at line 279.
+* At line 327, 812: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
+  * At line 327: Also note that `Reza` only took one generator with him.
 * At line 574, 578: Removed extra space before dash.
 * At line 838: Corrected simple dash to em-dash.
 * At line 856: Preserved uppercase letter after ellipsis.
@@ -231,7 +235,7 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 306: *English language* → *our language*.
 * At line 309-311: Adapted to preserve a pun; reverse translation:
-  * At line 309: *\[...\] I'm pretty good with the languages \[...\].* (Can also be read as *I'm pretty good with the tongues.*)
+  * At line 309: *I'm pretty good with the tongues \[...\].*
   * At line 311: This had to be changed completely: *Especially with mine.* Any improvement is welcome. (Note that *cunning* is often translated as *skilled* when a pun is involved, resulting in a duplicate of line 309.)
 * At line 732, 938: Rendered *children* as *cubs*.
 * At line 801: Unfolded *20* → *twenty*, for elegance.
@@ -285,6 +289,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 415: Corrected uppercase letter to lowercase after colon.
 * At line 439: Slightly pruned to fit fewer lines.
 * At line 742: Rendered *leg* as *paw*.
+* At line 789: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
 
 ### [`bryce1.rpy`](italiantl/bryce1.rpy)
 
@@ -328,6 +333,7 @@ The following are mostly to the benefit of the developer and translators.
   * At line 537: *Makes your what stand on end?*
 * At line 543: Note that the player character must be referring to lines 2056-2100 of [`chapter3.rpy`](#chapter3rpy).
 * At line 573: Corrected missing full stop.
+* At line 595, 628, 767, 769: Rendered *child*(*ren*) as *cub*(*s*).
 * At line 664: Unfolded *10%* → *ten percent*, for elegance.
 * At line 682: Corrected *sub<b>t</b>lety*.
 * At line 749: Corrected *encouraged* → *discouraged*, as `Bryce` is supposedly the same species, so if *dating between different species \[was\] encouraged* then it wouldn't explain *why `Emera` is so interested* in him.
@@ -340,9 +346,20 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 117, 652: Note that these lines also trigger if `Bryce` never said he *wanted to get out of \[his\] apartment* by message. Affected sequences: put `Bryce` in a `neutral` mood in [`bryce3.rpy`](#bryce3rpy).
 * At line 123, 336, 361, 379: Corrected uppercase letter of *Chief* to lowercase; see line 1946 of [`chapter3.rpy`](#chapter3rpy).
-* At line 123: Corrected uppercase letter of *Police* to lowercase; see line 1946 of [`chapter3.rpy`](#chapter3rpy).
+* At line 123: Corrected uppercase letter of *Police* to lowercase, to match corrected lowercase letter of *chief*.
 * At line 226: Unfolded *5-10* → *five-ten*, for elegance.
+* At line 346: Rendered *child* as *cub*.
 * At line 409: Corrected simple dash to em-dash.
+
+### [`bryce5.rpy`](italiantl/bryce5.rpy)
+
+* At line 121: see line 83 of [`adine5.rpy`](#adine5rpy).
+* At line 194: see line 347 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
+* At line 204: Note that this line also triggers if the player character didn't go in first at `Reza`'s hideout. Affected sequences: see `Bryce`'s good ending, suggest that `Bryce` go in first in [`chapter4.rpy`](#chapter4rpy).
+* At line 513: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
+* At line 753: Corrected uppercase letter to lowercase after colon.
+* At line 1149, 1315, 1373: Corrected simple dash to em-dash.
+* At line 1309, 1343: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
 
 ## Other remarks
 

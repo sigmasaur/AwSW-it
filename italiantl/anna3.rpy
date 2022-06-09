@@ -208,7 +208,7 @@ translate italiantl _call_skipcheck_dc15bd8a:
 translate italiantl _call_skipcheck_282a6965:
 
     # An smirk b "Is that your scientific curiosity shining through? I can approve of that."
-    An smirk b "È forse curiosità scientifica quella che intravedo? Potrei anche approvare." # "is that [your] scientific curiosity", "can approve" -> "could approve"
+    An smirk b "È forse curiosità scientifica quella che intravedo? Potrei anche approvare." # "is that [your] scientific curiosity"; "can approve" -> "could approve"
 
 # game/anna3.rpy:229
 translate italiantl _call_skipcheck_7416e511:
@@ -574,7 +574,7 @@ translate italiantl _call_skipcheck_fffa4ac0:
 translate italiantl _call_skipcheck_168b3fa1:
 
     # An normal b "Well, we never specified any terms, and I sat out our \"date\" until it was officially over. This will certainly go by much quicker if you can show a little patience."
-    An normal b "Be', non abbiamo mai specificato dei termini, e finché il nostro \"appuntamento\" è durato io sono rimasta. Di certo faremmo molto più in fretta se mostrassi un po' di pazienza." # wording, also "until it was officially over" -> "as long as it took", "will certainly go" -> "would certainly go", "can show" -> "showed"
+    An normal b "Be', non abbiamo mai specificato dei termini, e finché il nostro \"appuntamento\" è durato io sono rimasta. Di certo faremmo molto più in fretta se mostrassi un po' di pazienza." # wording; "until it was officially over" -> "as long as it took"; "will certainly go" -> "would certainly go"; "can show" -> "showed"
 
 # game/anna3.rpy:423
 translate italiantl _call_skipcheck_7f6008ee:
@@ -1358,7 +1358,7 @@ translate italiantl _call_skipcheck_afce4b58:
 translate italiantl _call_skipcheck_3d9e61f3:
 
     # Ry "One question before I go: Have you made up your mind about it yet?"
-    Ry "Una domanda prima che vada: hai preso una decisione alla fine?" # see line 891, also corrected lowercase letter
+    Ry "Una domanda prima che vada: hai preso una decisione alla fine?" # see line 891; corrected lowercase letter
 
 # game/anna3.rpy:928
 translate italiantl _call_skipcheck_bb00a52c_1:

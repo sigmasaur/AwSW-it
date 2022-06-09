@@ -22,7 +22,7 @@ translate italiantl evilending_7d88fe5d:
 translate italiantl evilending_d141aba5:
 
     # Rz amused "We've made it, [player_name]. We really did. With this, we can save our city - and we can have something for ourselves too."
-    Rz amused "Ce l'abbiamo fatta, [player_name]. L'abbiamo fatto davvero. Con questo, possiamo salvare la nostra città—e possiamo anche tenerci qualcosa per noi stessi." # corrected em-dash, also "have" -> "keep"
+    Rz amused "Ce l'abbiamo fatta, [player_name]. L'abbiamo fatto davvero. Con questo, possiamo salvare la nostra città—e possiamo anche tenerci qualcosa per noi stessi." # corrected em-dash; "have" -> "keep"
 
 # game/chapter5evilending.rpy:13
 translate italiantl evilending_da106dee:
@@ -136,7 +136,7 @@ translate italiantl evilending_1c64755a:
 translate italiantl evilending_dab815b3:
 
     # c "Just look at all their technology. You were willing to waste it all, and for what? Just so you and I could profit most from this and be hailed as heroes when at large our world wouldn't change."
-    c "Guarda solo la loro tecnologia. Eri disposto a sprecarla tutta, e per cosa? Solo perché tu ed io potessimo trarne il maggior profitto ed essere accolti come degli eroi quando il mondo nel suo insieme non sarebbe cambiato."
+    c "Guarda solo la loro tecnologia. Eri disposto a sprecarla tutta, e per cosa? Solo perché tu ed io potessimo trarne il maggior profitto ed essere accolti da eroi quando il mondo nel suo insieme non sarebbe cambiato."
 
 # game/chapter5evilending.rpy:63
 translate italiantl evilending_c60afc0e:
@@ -190,7 +190,7 @@ translate italiantl evilending_a33aae66:
 translate italiantl evilending_a004c533:
 
     # c "I know you don't shy away from murder, so I was sure that one day, you would try to silence me to eliminate the last risk of being found out."
-    c "So bene che non ti sottrai all'omicidio, quindi ero certə che un giorno, avresti cercato di zittirmi per eliminare anche l'ultimo rischio di essere scoperto." # "to eliminate EVEN the last risk"
+    c "So bene che non ti fai scrupoli a uccidere, quindi ero certə che un giorno, avresti cercato di zittirmi per eliminare anche l'ultimo rischio di essere scoperto." # "murder" -> "killing"; "to eliminate EVEN the last risk"
 
 # game/chapter5evilending.rpy:81
 translate italiantl evilending_a0e44aee:
@@ -214,7 +214,7 @@ translate italiantl evilending_cc81ed0c:
 translate italiantl evilending_b69213ba:
 
     # Rz "I didn't even need you in the first place. I did all of this on my own, and now you just came here to take everything for yourself. You don't deserve any of it."
-    Rz "Non mi sei neanche mai servitə. Ho fatto tutto questo da solo, e ora te ne vieni qui e vuoi tutto quanto per te stessə. Non meriti niente di questo." # "came here" -> "come here", "any of it" -> "any of this"
+    Rz "Non mi sei neanche mai servitə. Ho fatto tutto questo da solo, e ora te ne vieni qui e vuoi tutto quanto per te stessə. Non meriti niente di questo." # "came here" -> "come here"; "any of it" -> "any of this"
 
 # game/chapter5evilending.rpy:89
 translate italiantl evilending_d1ace9ca:
@@ -226,7 +226,7 @@ translate italiantl evilending_d1ace9ca:
 translate italiantl evilending_82b931ec:
 
     # Rz "It doesn't have to. I'd rather die trying to do what is right than sit around, living my life doing nothing and watching our world go down in ashes."
-    Rz "Non ce n'è bisogno. Preferisco morire tentando di fare ciò che è giusto piuttosto che passare la vita a far niente, restando a guardare il nostro mondo ridursi in cenere." # "it doesn't have to" -> "it doesn't need to", "sit around, living my life doing nothing and watching" -> "live my life doing nothing, sitting around and watching"
+    Rz "Non ce n'è bisogno. Preferisco morire tentando di fare ciò che è giusto piuttosto che passare la vita a far niente, restando a guardare il nostro mondo ridursi in cenere." # "it doesn't have to" -> "it doesn't need to"; "sit around, living my life doing nothing and watching" -> "live my life doing nothing, sitting around and watching"
 
 # game/chapter5evilending.rpy:95
 translate italiantl evilending_e15c9673:
@@ -340,13 +340,13 @@ translate italiantl endingjustafewminuteslaterx_b34b2d28:
 translate italiantl endingjustafewminuteslaterx_e864a6f7:
 
     # m "The underground building. The Administrator had told me all about the prowess of the generators within. It probably hadn't been hard for Reza to guess the same, or to try stealing them from a place he knew would be even more deserted than the rest of the village was right now."
-    m "L'edificio sotterraneo. [As] mi aveva raccontato tutto sulle prodezze del generatore all'interno. Probabilmente per [Rz] non era stato difficile tirare le stesse somme, tentando di rubarlo da un posto che sapeva sarebbe stato ancor più deserto di quanto non fosse il resto del villaggio in quel momento." # "generator[s]", "them" -> "it" to match lines 4520, 4590 of chapter 4, also "or to try stealing" -> "trying to steal"
+    m "L'edificio sotterraneo. [As] mi aveva raccontato tutto sulle prodezze del generatore all'interno. Probabilmente per [Rz] non era stato difficile tirare le stesse somme, tentando di rubarlo da un posto che sapeva sarebbe stato ancor più deserto di quanto non fosse il resto del villaggio in quel momento." # "generator[s]"; "them" -> "it"; "or to try stealing" -> "trying to steal"
 
 # game/chapter5evilending.rpy:349
 translate italiantl endingjustafewminuteslaterx_d7d0cce6:
 
     # m "He also didn't have far to go from the portal. All things considered, it was the only option that made sense to me."
-    m "Non avrebbe dovuto nemmeno allontanarsi troppo dal portale. Tutto considerato, era l'unica alternativa che per me avesse un senso."
+    m "Non avrebbe nemmeno dovuto allontanarsi troppo dal portale. Tutto considerato, era l'unica alternativa che per me avesse un senso."
 
 # game/chapter5evilending.rpy:351
 translate italiantl endingjustafewminuteslaterx_fb7b0378:
@@ -370,7 +370,7 @@ translate italiantl endingjustafewminuteslaterx_c1029fbb:
 translate italiantl sincethelightswerealreadyon_48903454:
 
     # m "Since the lights were already on, Reza had to be very close. I wasn't surprised at the building still having electricity, since its generators were also powering the portal."
-    m "Dal momento che le luci erano già accese, [Rz] doveva essere molto vicino. Non fui sorpresə che all'edificio arrivasse ancora energia elettrica, dato che il suo generatore alimentava anche il portale." # "generator[s]" to match lines 4520, 4590 of chapter 4
+    m "Dal momento che le luci erano già accese, [Rz] doveva essere molto vicino. Non fui sorpresə che all'edificio arrivasse ancora energia elettrica, dato che il suo generatore alimentava anche il portale." # "generator[s]"
 
 # game/chapter5evilending.rpy:375
 translate italiantl sincethelightswerealreadyon_d1e515a6:
@@ -388,13 +388,13 @@ translate italiantl sincethelightswerealreadyon_ace552e3:
 translate italiantl sincethelightswerealreadyon_fb77eac2:
 
     # Rz "[player_name]! You're here? You don't know how glad I am to see you. I've wanted to talk with you for so long. I even tried to contact you, but I couldn't with someone tailing you the whole time."
-    Rz "[player_name]! Sei qui? Non sai quanto sia felice di vederti. Era una vita che volevo parlarti. Ho anche cercato di contattarti, ma non potevo con qualcuno alle tue calcagna per tutto il tempo."
+    Rz "[player_name]! Sei qui? Non sai quanto sia felice di vederti. È una vita che volevo parlarti. Ho anche cercato di contattarti, ma non potevo con qualcuno alle tue calcagna per tutto il tempo."
 
 # game/chapter5evilending.rpy:405
 translate italiantl sincethelightswerealreadyon_5a72fb9a:
 
     # Rz "But talking can wait. Now that you're here, we've got everything. Come on, help me with this and let's get out of here."
-    Rz "Ma le chiacchiere possono aspettare. Ora che tu sei qui, abbiamo tutto quanto. Avanti, dammi una mano con questo e andiamocene da qui."
+    Rz "Ma le chiacchiere possono aspettare. Ora che tu sei qui, abbiamo tutto quanto. Avanti, dammi una mano con questo e andiamocene di qui."
 
 # game/chapter5evilending.rpy:443
 translate italiantl no_e69e42b8:
@@ -442,7 +442,7 @@ translate italiantl no_91ed222d:
 translate italiantl no_7baa11a8:
 
     # Rz annoyed "Looking back, it just seems so obvious to me now. I'm not sure how exactly you figured it out, but there are so many damn clues when you think about it."
-    Rz annoyed "Col senno di poi, adesso mi sembra talmente ovvio. Non so esattamente come tu ci sia arrivatə, ma se ci pensi c'erano tanti di quegli indizi." # "I'm not sure" -> "I don't know", "there are" -> "there were", "when" -> "if"
+    Rz annoyed "Col senno di poi, adesso mi sembra talmente ovvio. Non so esattamente come tu ci sia arrivatə, ma se ci pensi c'erano tanti di quegli indizi." # "I'm not sure" -> "I don't know"; "there are" -> "there were"; "when" -> "if"
 
 # game/chapter5evilending.rpy:463
 translate italiantl no_f6c1a298:
@@ -454,7 +454,7 @@ translate italiantl no_f6c1a298:
 translate italiantl no_46ca0c65:
 
     # Rz annoyed "When was there ever anything resembling these ... creatures on Earth? It's not hard to make the jump from dragons to dinosaurs when some of them here look pretty damn near identical to dinosaurs we knew about."
-    Rz annoyed "Quand'è mai esistito qualcosa che somigliasse a queste... creature sulla Terra? Non è difficile colmare il divario fra draghi e dinosauri quando alcuni di loro qui sono così maledettamente simili ai dinosauri che conosciamo." # "near identical" -> "similar", "knew" -> "know"
+    Rz annoyed "Quand'è mai esistito qualcosa che somigliasse a queste... creature sulla Terra? Non è difficile colmare il divario fra draghi e dinosauri quando alcuni di loro qui sono così maledettamente simili ai dinosauri che conosciamo." # "near identical" -> "similar"; "knew" -> "know"
 
 # game/chapter5evilending.rpy:467
 translate italiantl no_9ae497ad:
@@ -478,7 +478,7 @@ translate italiantl no_2fa3d196:
 translate italiantl no_a0acb6cc:
 
     # Rz "You could've just pointed your PDA at the sky and it would've told you the time period - including the imminent threat of being eradicated."
-    Rz "Avresti anche potuto puntare il tuo palmare al cielo e ti avrebbe detto quale epoca fosse—inclusa l'incombente minaccia di essere annientati." # corrected em-dash, also "WHAT the time period WAS"
+    Rz "Avresti anche potuto puntare il tuo palmare al cielo e ti avrebbe detto quale epoca fosse—inclusa l'incombente minaccia di essere annientati." # corrected em-dash; "the time period" -> "what time period it was"
 
 # game/chapter5evilending.rpy:475
 translate italiantl no_9effc950:
@@ -562,7 +562,7 @@ translate italiantl no_ab4b2d83:
 translate italiantl no_8d884cfd:
 
     # Rz amused "Let me ask you this: What harm is there really in taking their generators when their whole civilization will be gone in a few weeks, anyway? The ones I killed just died a little earlier than scheduled."
-    Rz amused "Lascia che ti chieda: che male c'è veramente a prendere i loro generatori quando la loro intera civiltà scomparirà comunque nel giro di qualche settimana? Quelli che ho ucciso sono semplicemente morti un tantino prima del previsto." # corrected lowercase letter, also "let me ask you [this]"
+    Rz amused "Lascia che ti chieda: che male c'è veramente a prendere i loro generatori quando la loro intera civiltà scomparirà comunque nel giro di qualche settimana? Quelli che ho ucciso sono semplicemente morti un tantino prima del previsto." # corrected lowercase letter; "let me ask you [this]"
 
 # game/chapter5evilending.rpy:519
 translate italiantl no_5f502c59:
@@ -658,7 +658,7 @@ translate italiantl no_a39121b7:
 translate italiantl no_aa71d2f1:
 
     # c "Their entire world is on the line here."
-    c "In gioco qui c'è il loro intero mondo."
+    c "Qui c'è in gioco il loro intero mondo."
 
 # game/chapter5evilending.rpy:551
 translate italiantl no_ed42ee26:
@@ -970,7 +970,7 @@ translate italiantl _call_syscheck_98_b9c658b8:
 translate italiantl _call_syscheck_98_d28ca258:
 
     # s "You used the skip function 10 times. You skipper."
-    s "Hai usato la funzione di salto per dieci volte. Tu, bruttə saltatorə." # see line 733, also see line 2597 of chapter 3
+    s "Hai usato la funzione di salto per dieci volte. Tu, bruttə saltatorə." # see line 733, line 2597 of chapter 3
 
 # game/chapter5evilending.rpy:741
 translate italiantl _call_syscheck_98_b33e9d23:
@@ -1078,7 +1078,7 @@ translate italiantl skiptut_21aa4b71:
 translate italiantl skiptut_5496eeb1:
 
     # s "Jumping ahead will often skip minor choices that can be made, especially during character sections with lots of dialogue options. This can include parts that would unlock new achievements."
-    s "Saltare avanti comporterà spesso la perdita di scelte minori che potresti compiere, specie durante le sezioni dei personaggi con parecchie opzioni di conversazione. Il che può includere parti che andrebbero a sbloccare nuovi obiettivi." # "skip" -> "lose", "can be made" -> "you can make"
+    s "Saltare avanti comporterà spesso la perdita di scelte minori che potresti compiere, specie durante le sezioni dei personaggi con parecchie opzioni di conversazione. Il che può includere parti che andrebbero a sbloccare nuovi obiettivi." # "skip" -> "lose"; "can be made" -> "you can make"
 
 # game/chapter5evilending.rpy:869
 translate italiantl skiptut_2acb98f7:

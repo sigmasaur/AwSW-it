@@ -640,7 +640,7 @@ translate italiantl _call_skipcheck_9_dc095c19:
 translate italiantl _call_skipcheck_9_f8b12e80:
 
     # m "She was holding the stone in the claws at the edge of her wing. I tried to guide her by pulling her wing back like I would an arm, but it became clear to me that it lacked a lot of maneuverability an arm would have."
-    m "Teneva la pietra negli artigli al margine delle sue ali. Tentai di guidarla portandole indietro l'ala come avrei fatto con un braccio, ma mi divenne chiaro che difettava di gran parte della manovrabilità che un braccio avrebbe avuto."
+    m "Teneva la pietra negli artigli al margine delle sue ali. Tentai di guidarla portandole indietro l'ala come avrei fatto con un braccio, ma mi divenne chiaro che le mancava molta della manovrabilità che un braccio avrebbe avuto."
 
 # game/adine3.rpy:379
 translate italiantl _call_skipcheck_9_3d66dc5a:
@@ -904,7 +904,7 @@ translate italiantl _call_skipcheck_9_f4e0c922:
 translate italiantl _call_skipcheck_9_bbbe5ab0:
 
     # c "Yes, people demonstrate their skill in creating these sculptures. And by using something like sand, they prove that it doesn't matter if the sculpture gets destroyed in the end because they can just do it again if they like."
-    c "Sì, le persone dimostrano la loro abilità nel creare queste sculture. E usando qualcosa come la sabbia, danno prova che non importa se alla fine le sculture sono distrutte perché possono semplicemente rifarle se lo desiderano." # "the sculptureS get[s]", "do it again" -> "do them again"
+    c "Sì, le persone dimostrano la loro abilità nel creare queste sculture. E usando qualcosa come la sabbia, danno prova che non importa se alla fine le sculture sono distrutte perché possono semplicemente rifarle se lo desiderano." # "the sculptureS get[s]"; "do it again" -> "do them again"
 
 # game/adine3.rpy:530
 translate italiantl _call_skipcheck_9_13da54dc:
@@ -928,7 +928,7 @@ translate italiantl _call_skipcheck_9_cadca0e2:
 translate italiantl _call_skipcheck_9_cfbf70ee:
 
     # c "Well, during your competition, nothing lasting is created from the performance itself. It's all about the experience and memories. You have to prove that you are skilled enough to do those stunts right at that very moment just for the competition."
-    c "Be', durante la tua competizione, non si crea nulla di durevole dall'esibizione in sé. Sta tutto nell'esperienza e nei ricordi. Devi dimostrare di essere tanto abile da fare quelle acrobazie proprio in quell'istante preciso solo per la competizione."
+    c "Be', durante la tua competizione, non si crea nulla di durevole dall'esibizione in sé. Sta tutto nell'esperienza e nei ricordi. Devi dimostrare di essere tanto abile da fare quelle acrobazie proprio in quel preciso istante solo per la competizione."
 
 # game/adine3.rpy:538
 translate italiantl _call_skipcheck_9_ae760841:
@@ -958,7 +958,7 @@ translate italiantl _call_skipcheck_9_58abfc7c:
 translate italiantl _call_skipcheck_9_52e0caeb:
 
     # Ad giggle b "You can watch me if you like. Maybe you can learn a thing or two from it."
-    Ad giggle b "Puoi guardarmi se ti va. Potresti anche imparare una cosa o due." # "maybe you can" -> "you could", "a thing or two [from it]"
+    Ad giggle b "Puoi guardarmi se ti va. Potresti anche imparare una cosa o due." # "maybe you can" -> "you could"; "a thing or two [from it]"
 
 # game/adine3.rpy:565
 translate italiantl _call_skipcheck_9_040d4940:
@@ -1042,7 +1042,7 @@ translate italiantl _call_skipcheck_9_1eb83f5d:
 translate italiantl _call_skipcheck_9_0efcdc0c:
 
     # c "Yeah, but I think my distinct lack of wings would probably prevent me from doing the same thing."
-    c "Sì, ma credo che la mia evidente mancanza d'ali probabilmente mi impedirebbe di rifare la stessa cosa."
+    c "Sì, ma credo che la mia evidente mancanza di ali probabilmente mi impedirebbe di rifare la stessa cosa."
 
 # game/adine3.rpy:601
 translate italiantl _call_skipcheck_9_3d62c100:
@@ -1240,7 +1240,7 @@ translate italiantl _call_skipcheck_9_98505ebc:
 translate italiantl _call_skipcheck_9_b11cf885:
 
     # Ad "True, but sometimes it's easier to just get them there to get what I want to, instead of coming all the way here."
-    Ad "Vero, ma a volte è più semplice che siano loro ad andarci e prendere ciò che mi serve, invece di venire io stessa fin quaggiù." # "want to" -> "need", "all the way here MYSELF"
+    Ad "Vero, ma a volte è più semplice che siano loro ad andarci e prendere ciò che mi serve, invece di venire io stessa fin quaggiù." # "want to" -> "need"; "all the way here MYSELF"
 
 # game/adine3.rpy:671
 translate italiantl _call_skipcheck_9_89aefe22_3:
@@ -1264,7 +1264,7 @@ translate italiantl _call_skipcheck_9_0b1fb2d0_1:
 translate italiantl _call_skipcheck_9_6eef3b46:
 
     # m "Once more, Adine took to the sky to hunt for fish. While it was interesting to watch her for a bit, she kept hunting for a while, and I started passing the time by collecting some seashells."
-    m "Una volta ancora, [Ad] si levò in cielo a caccia di pesci. Per quanto interessante fosse osservarla, lei continuò a cacciare per un po', e io iniziai a passare il tempo collezionando alcune conchiglie." # "watch her [for a bit]"
+    m "Una volta ancora, [Ad] si levò in cielo a caccia di pesci. Per interessante che fosse osservarla, lei continuò a cacciare per un po', e io iniziai a passare il tempo collezionando alcune conchiglie." # "watch her [for a bit]"
 
 # game/adine3.rpy:683
 translate italiantl _call_skipcheck_9_a8e88ed4:
@@ -1708,7 +1708,7 @@ translate italiantl mpsave_6f2269c3:
 translate italiantl mpsave_3bd96cc8:
 
     # m "A roll, followed by a loop, after which she did another roll. It seemed to be less of a practiced routine and more of a warm-up to me."
-    m "Una rollata, seguita da una gran volta, dopo la quale eseguì un'altra rollata. Non mi pareva essere tanto una studiata coreografia quanto un riscaldamento."
+    m "Una rollata, seguita da una gran volta, dopo la quale eseguì un'altra rollata. Non sembrava essere tanto una studiata coreografia quanto un riscaldamento." # "and more of a warm-up [to me]"
 
 # game/adine3.rpy:1009
 translate italiantl mpsave_6bc1b4cf:
@@ -1841,7 +1841,7 @@ translate italiantl mpsave_4e88367c:
 translate italiantl mpsave_e51c3ae2:
 
     # m "I saw her feeble attempt to regain control as she barely managed to steady herself enough to get back to the beach. She made a rough landing, rolling on the ground a few times after colliding with the sand."
-    m "Vidi il suo fievole tentativo di riguadagnare il controllo mentre riusciva a malapena a riaversi quel tanto da ritornare alla spiaggia. Compì un atterraggio duro, ruzzolando al suolo alcune volte dopo ch'ebbe sbattuto contro la sabbia." # wording, also "steady" -> "collect"
+    m "Vidi il suo fievole tentativo di riguadagnare il controllo mentre riusciva a malapena a riaversi quel tanto da ritornare alla spiaggia. Compì un atterraggio duro, ruzzolando al suolo alcune volte dopo ch'ebbe sbattuto contro la sabbia." # wording; "steady" -> "collect"
 
 # game/adine3.rpy:1057
 translate italiantl mpsave_b434465c:
@@ -2375,7 +2375,7 @@ translate italiantl adine3skip_301f5e4b:
 translate italiantl adine3skip_ad06aa5e:
 
     # c "You might have heard about the water pockets surrounding the building. Any kind of disturbance could be fatal for any prospective explorers."
-    c "Potresti aver sentito parlare della sacca d'acqua che circonda l'edificio. Qualunque tipo di perturbazione potrebbe essere fatale per qualsiasi potenziale esploratore." # "water pocket[s]" to match line 2312 of chapter 3
+    c "Potresti aver sentito parlare delle sacche d'acqua che circondano l'edificio. Qualunque tipo di perturbazione potrebbe essere fatale per qualsiasi potenziale esploratore." # see line 2312 of chapter 3
 
 # game/adine3.rpy:1280
 translate italiantl adine3skip_f5429729:
@@ -2387,7 +2387,7 @@ translate italiantl adine3skip_f5429729:
 translate italiantl adine3skip_bc9f37b6:
 
     # c "Yes, it is. I'd be careful if I were you. Or at least wait until they have taken care of the water pockets, so there is no danger if you decide to pay it a visit."
-    c "Sì, lo è. Starei attentə se fossi in te. O almeno aspetterei finché non si siano occupati della sacca d'acqua, così non ci sarà alcun pericolo se deciderai di farvi una visita." # "water pocket[s]" to match line 2312 of chapter 3
+    c "Sì, lo è. Starei attentə se fossi in te. O almeno aspetterei finché non si siano occupati delle sacche d'acqua, così non ci sarà alcun pericolo se deciderai di farvi una visita."
 
 # game/adine3.rpy:1284
 translate italiantl adine3skip_0fb5135d:

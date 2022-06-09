@@ -22,7 +22,7 @@ translate italiantl bryce1_89257397:
 translate italiantl bryce1_0ccc8efa:
 
     # c "Nothing much, but you told me to contact you if I could remember anything that might help with the investigation."
-    c "Niente di che, ma mi avevi detto di contattarti se avessi ricordato qualcosa che potesse aiutare con l'indagine." # see line 3781 of chapter 1, also "if I [could] rememberED"
+    c "Niente di che, ma mi avevi detto di contattarti se avessi ricordato qualcosa che potesse aiutare con l'indagine." # see line 3781 of chapter 1; "if I [could] rememberED"
 
 # game/bryce1.rpy:39
 translate italiantl bryce1_edcc1faa:
@@ -336,7 +336,7 @@ translate italiantl waitmenu_80237363:
 translate italiantl waitmenu_d0e93113:
 
     # c "Overall, I'd say he was an above-average student. We didn't talk very often, but he always was very outspoken and never failed to speak up to make his opinions known."
-    c "Nel complesso, direi che era uno studente sopra la media. Non mi parlava granché spesso, ma sempre fuori dai denti e non mancava mai di far valere la sua opinione." # "we didn't talk" -> "he didn't talk to me", "never failed to [speak up to] make his opinion known"
+    c "Nel complesso, direi che era uno studente sopra la media. Non mi parlava granché spesso, ma sempre fuori dai denti e non mancava mai di far valere la sua opinione." # "we didn't talk" -> "he didn't talk to me"; "never failed to [speak up to] make his opinion known"
 
 # game/bryce1.rpy:349
 translate italiantl waitmenu_528630b1:
@@ -360,7 +360,7 @@ translate italiantl waitmenu_162e9e6d:
 translate italiantl waitmenu_1a6531fd:
 
     # c "It wasn't until I was already here that I actually met him again, however brief our interactions were. But then I already told you everything about what happened prior to the eventual scuffle with Maverick."
-    c "È stato solo quand'ero già qui che l'ho effettivamente incontrato di nuovo, per quanto brevi siano state le nostre interazioni. Ma poi, vi ho già raccontato tutto riguardo a quello che è successo fino a prima del tafferuglio con [Mv]." # "you" as in "the police department"
+    c "È stato solo quand'ero già qui che l'ho effettivamente incontrato di nuovo, per brevi che siano state le nostre interazioni. Ma poi, vi ho già raccontato tutto riguardo a quello che è successo fino a prima del tafferuglio con [Mv]." # "you" as in "the police department"
 
 # game/bryce1.rpy:353
 translate italiantl waitmenu_e9b001dc:
@@ -450,7 +450,7 @@ translate italiantl waitmenu_c0898fbd:
 translate italiantl waitmenu_e8f0305c:
 
     # m "I hadn't noticed, but while I was talking, Bryce had been busy sipping on his drink. The empty bowl before him was proof of his proficiency, while I had barely touched my own drink."
-    m "Non l'avevo notato, ma mentre parlavo, [Br] era stato occupato a sorseggiare la sua birra. La tazza vuota davanti a lui era la prova della sua efficienza, mentre io avevo a malapena toccato la mia." # "proficiency" -> "efficiency", "his drink" -> "his beer", "my own [drink]" as in "my beer"
+    m "Non l'avevo notato, ma mentre parlavo, [Br] era stato occupato a sorseggiare la sua birra. La tazza vuota davanti a lui era la prova della sua efficienza, mentre io avevo a malapena toccato la mia." # "proficiency" -> "efficiency"; "his drink" -> "his beer"; "my own [drink]" as in "my beer"
 
 # game/bryce1.rpy:386
 translate italiantl waitmenu_1a077e16:
@@ -474,7 +474,7 @@ translate italiantl waitmenu_8725758a:
 translate italiantl waitmenu_a7945234:
 
     # Br "Oh, come on and stay a little. Considering we're here already, might as well enjoy the evening, right? I mean, you don't have to, but I certainly will. Or do you need to be somewhere?"
-    Br "Oh, andiamo, resta ancora un po'. Considerando che siamo già qui, tanto vale che ci godiamo la serata, giusto? Voglio dire, non sei costrettə, ma io lo farò senz'altro. O devi andare da qualche parte?" # "a little LONGER"
+    Br "Oh, andiamo, resta ancora un po'. Considerato che siamo già qui, tanto vale che ci godiamo la serata, giusto? Voglio dire, non sei costrettə, ma io lo farò senz'altro. O devi essere da qualche parte?" # "a little LONGER"
 
 # game/bryce1.rpy:404
 translate italiantl waitmenu_38331395:
@@ -594,7 +594,7 @@ translate italiantl _call_syscheck_39_09439738:
 translate italiantl _call_syscheck_39_54a8b257:
 
     # n "I could certainly enjoy myself without alcohol and those who partook in its consumption."
-    n "Potevo certamente fare a meno dell'alcol e di coloro che prendevano parte al suo consumo." # "enjoy myself" -> "do", see also line 580
+    n "Potevo certamente fare a meno dell'alcol e di coloro che prendevano parte al suo consumo." # "enjoy myself" -> "do", see line 580
 
 # game/bryce1.rpy:493
 translate italiantl _call_syscheck_39_09e57abf:
@@ -708,7 +708,7 @@ translate italiantl _call_syscheck_40_76b2fe88:
 translate italiantl _call_syscheck_40_29877c22:
 
     # n "Despite Bryce's further protests, I simply got up and left."
-    n "Malgrado le ulteriori proteste di [Br], mi alzai semplicemente e me ne andai." # see also line 430
+    n "Malgrado le ulteriori proteste di [Br], mi alzai semplicemente e me ne andai."
 
 # game/bryce1.rpy:579
 translate italiantl _call_syscheck_40_b2590a5d:
@@ -750,7 +750,7 @@ translate italiantl _call_syscheck_41_7243e5f4:
 translate italiantl _call_syscheck_41_f15a69da:
 
     # Br "The rules are simple. We both get a round, then we wait a few moments until the next one so the effects can kick in. Whoever gives up first loses."
-    Br "Le regole sono semplici. A ciascuno un turno, poi aspettiamo qualche istante prima del giro successivo così gli effetti si fanno sentire. Chi si arrende per primo perde." # "round" -> "turn", "until the next one" -> "before the next round"
+    Br "Le regole sono semplici. A ciascuno un turno, poi aspettiamo qualche istante prima del giro successivo così gli effetti si fanno sentire. Chi si arrende per primo perde." # "round" -> "turn"; "until the next one" -> "before the next round"
 
 # game/bryce1.rpy:640
 translate italiantl _call_syscheck_41_37241e44:
@@ -780,7 +780,7 @@ translate italiantl _call_syscheck_41_24bf3ebf:
 translate italiantl _call_syscheck_41_95920217:
 
     # m "He made a show of looking me in the eyes while he lowered his muzzle into the bowl before he started guzzling his drink noisily. It was gone in seconds. Certainly, this was going to be tough."
-    m "Fece una scena di guardarmi dritto negli occhi mentre abbassava il muso nella tazza prima che iniziasse a tracannare rumorosamente la sua birra. Sparì nel giro di qualche secondo. Certo, la vedevo dura." # see also line 560, also "drink" -> "beer", "in seconds" -> "in A FEW seconds"
+    m "Fece una scena di guardarmi dritto negli occhi mentre abbassava il muso nella tazza prima che iniziasse a tracannare rumorosamente la sua birra. Sparì nel giro di qualche secondo. Certo, la vedevo dura." # "drink" -> "beer"; "in A FEW seconds"
 
 # game/bryce1.rpy:665
 translate italiantl _call_syscheck_41_120e03dd:
@@ -792,7 +792,7 @@ translate italiantl _call_syscheck_41_120e03dd:
 translate italiantl _call_syscheck_41_8b9c58f0:
 
     # m "Nevertheless, I grasped the drink, putting on the best show I could while I tried to recreate Bryce's feat. After the first sip, however, I realized it was very different from any other beer I had tried before, yet I persevered through the intense taste until the glass was empty."
-    m "Nondimeno, impugnai il bicchiere, facendo quanta più scena possibile mentre cercavo di ricreare l'impresa di [Br]. Dopo il primo sorso, tuttavia, realizzai che era molto diversa da qualsiasi altra birra avessi provato prima di allora, eppure perseverai attraverso quel gusto intenso finché il bicchiere non fu svuotato." # "drink" -> "glass", "the intense taste" -> "that intense taste"
+    m "Nondimeno, impugnai il bicchiere, facendo quanta più scena possibile mentre cercavo di ricreare l'impresa di [Br]. Dopo il primo sorso, tuttavia, realizzai che era molto diversa da qualsiasi altra birra avessi provato prima di allora, eppure perseverai attraverso quel gusto intenso finché il bicchiere non fu svuotato." # "drink" -> "glass"; "the intense taste" -> "that intense taste"
 
 # game/bryce1.rpy:673
 translate italiantl _call_syscheck_41_c866ee43:
@@ -834,7 +834,7 @@ translate italiantl _call_syscheck_41_fa181c86:
 translate italiantl _call_syscheck_41_506f977e:
 
     # c "Yeah, I can't stand another drink of this. You win."
-    c "Sì, non lo reggo un altro giro di questa roba. Hai vinto." # "drink" -> "round", "this STUFF"
+    c "Sì, non lo reggo un altro giro di questa roba. Hai vinto." # "drink" -> "round"; "this STUFF"
 
 # game/bryce1.rpy:698
 translate italiantl _call_syscheck_41_3a8a02d3:
@@ -1104,7 +1104,7 @@ translate italiantl _call_syscheck_41_b5ff6161:
 translate italiantl _call_syscheck_41_30bc5d3a:
 
     # m "Once again, he consumed his drink, though his swigs were noticeably slower than before. His resolve was also fading, though not as fast as mine had, as he clearly held the advantage. Was there any way I could still turn this around?"
-    m "Ancora una volta, consumò la sua birra, sebbene a sorsate visibilmente più lente di prima. Anche la sua risolutezza stava svanendo, pur non così in fretta come la mia, siccome era chiaramente lui a detenere il vantaggio. Potevo ancora in qualche modo ribaltare la situazione?" # "drink" -> "beer", "not as fast as mine [had]"
+    m "Ancora una volta, consumò la sua birra, sebbene a sorsate visibilmente più lente di prima. Anche la sua risolutezza stava svanendo, pur non così in fretta come la mia, siccome era chiaramente lui a detenere il vantaggio. Potevo ancora in qualche modo ribaltare la situazione?" # "drink" -> "beer"; "not as fast as mine [had]"
 
 # game/bryce1.rpy:890
 translate italiantl _call_syscheck_41_7480d039:
@@ -1380,7 +1380,7 @@ translate italiantl _call_syscheck_41_c1731578:
 translate italiantl _call_syscheck_41_0d2a0960:
 
     # m "He was struggling. It became more and more obvious as he tried to swallow the liquid in his bowl bit by bit. He stopped at one point, panting heavily. I considered taking a cheap shot at him, but as he had refrained from doing so during my turn, I wasn't going to start now."
-    m "Era in difficoltà. Divenne tanto più evidente quanto più del liquido nella sua tazza tentava di ingoiare a poco a poco. A un certo punto si fermò, ansimando forte. Considerai di lanciargli una frecciatina, ma siccome lui si era astenuto dal farlo durante il mio turno, non intendevo iniziare adesso."
+    m "Era in difficoltà. Divenne tanto più evidente quanto più del liquido nella sua tazza tentava di ingoiare a poco a poco. A un certo punto si fermò, ansando forte. Considerai di lanciargli una frecciatina, ma siccome lui si era astenuto dal farlo durante il mio turno, non intendevo iniziare adesso."
 
 # game/bryce1.rpy:1086
 translate italiantl _call_syscheck_41_7480d039_1:
@@ -1860,7 +1860,7 @@ translate italiantl bryce1skip_b97488ce:
 translate italiantl bryce1skip_3ffd6748:
 
     # Br "Let's just pretend the whole thing never happened."
-    Br "Facciamo solo finta che la cosa non sia mai successa." # see also lines 323, 331 of chapter 2
+    Br "Facciamo solo finta che la cosa non sia mai successa."
 
 # game/bryce1.rpy:1373
 translate italiantl bryce1skip_51e1a649:

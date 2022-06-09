@@ -64,7 +64,7 @@ translate italiantl aloneendings_37857128:
 translate italiantl aloneendings_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Considerando quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # "everyone" -> "many"
+    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # "everyone" -> "many"
 
 # game/chapter5.rpy:539
 translate italiantl aloneendings_cf6444f6:
@@ -76,7 +76,7 @@ translate italiantl aloneendings_cf6444f6:
 translate italiantl aloneendings_3ecc47ed:
 
     # m "As the portal had been repaired by the Administrator, Reza would have no trouble making his getaway, and I was the only one who knew."
-    m "Avendo l'Amministratore riparato il portale, [Rz] non avrebbe avuto alcuna difficoltà a mettere in atto la sua fuga, ed io ero l'unicə a sapere."
+    m "Avendo l'Amministratore riparato il portale, [Rz] non avrebbe avuto difficoltà a mettere in atto la sua fuga, ed io ero l'unicə a sapere."
 
 # game/chapter5.rpy:543
 translate italiantl aloneendings_fa8bff57:
@@ -172,7 +172,7 @@ translate italiantl _call_endingjustafewminuteslater_a04a361a:
 translate italiantl _call_endingjustafewminuteslater_861dff8c:
 
     # m "Reza was right. In reality, the bomb provided no real leverage against him. If his goal was truly to save our city back home at any costs, he would not turn himself in. Even if the threat of setting off the bomb was a real one, his best chance would be to at least try to kill me now."
-    m "[Rz] aveva ragione. In realtà, la bomba non avrebbe fatto su di lui alcuna vera pressione. Se il suo obiettivo era veramente di salvare la nostra città ad ogni costo, non si sarebbe mai consegnato. E se anche la minaccia di innescare la bomba fosse stata reale, quantomeno tentare di uccidermi adesso era la sua possibilità migliore." # "our city [back home]", "not turn" -> "never turn", "AND even if"
+    m "[Rz] aveva ragione. In realtà, la bomba non avrebbe fatto su di lui alcuna vera pressione. Se il suo obiettivo era veramente di salvare la nostra città ad ogni costo, non si sarebbe mai consegnato. E se anche la minaccia di innescare la bomba fosse stata reale, quantomeno tentare di uccidermi adesso era la sua possibilità migliore." # "our city [back home]"; "not turn" -> "never turn"; "AND even if"
 
 # game/chapter5.rpy:596
 translate italiantl _call_endingjustafewminuteslater_69f65a19:
@@ -196,7 +196,7 @@ translate italiantl _call_endingjustafewminuteslater_6bb0c534:
 translate italiantl _call_endingjustafewminuteslater_fcdea398:
 
     # m "Out of bullets, Reza was not far behind me as we both scrambled towards the exit."
-    m "A corto di proiettili, [Rz] mi stava alle costole nel precipitarci di entrambi verso l'uscita."
+    m "A corto di proiettili, [Rz] mi stava alle costole nel precipitarci entrambi verso l'uscita."
 
 # game/chapter5.rpy:622
 translate italiantl _call_endingjustafewminuteslater_4ffa6f77:
@@ -208,13 +208,13 @@ translate italiantl _call_endingjustafewminuteslater_4ffa6f77:
 translate italiantl _call_endingjustafewminuteslater_f42fab5d:
 
     # m "I collided with the ground and immediately felt a hail of debris. I cowered, waiting for it to die down."
-    m "Sbattei contro il suolo e immediatamente sentii una pioggia di detriti. Mi acquattai, aspettando che finisse."
+    m "Sbattei contro il suolo e immediatamente avvertii una pioggia di detriti. Mi acquattai, aspettando che finisse." # "hail" -> "rain"
 
 # game/chapter5.rpy:628
 translate italiantl _call_endingjustafewminuteslater_b597b931:
 
     # m "After a few seconds, I turned around and looked at the sky where the fireworks still painted patterns in the stars. With one hand, I reached toward my injured arm only to find it wet with blood from my bullet wound. My whole body was numb."
-    m "Dopo qualche secondo, mi voltai a guardare il cielo dove i fuochi d'artificio ancora dipingevano motivi fra le stelle. Portai una mano verso il mio braccio infortunato solo per trovarlo zuppo del sangue dalla mia ferita d'arma da fuoco. Il mio intero corpo era intorpidito."
+    m "Dopo qualche secondo, mi voltai a guardare il cielo dove i fuochi d'artificio ancora dipingevano motivi fra le stelle. Portai una mano al braccio infortunato, solo per trovarlo zuppo del sangue dalla mia ferita da proiettile. Il mio intero corpo era intorpidito."
 
 # game/chapter5.rpy:630
 translate italiantl _call_endingjustafewminuteslater_d1e49880:
@@ -394,7 +394,7 @@ translate italiantl tut_10345df0:
 translate italiantl tut_1e8d4b79:
 
     # s "At any rate, feel free to employ the game's skip buttons (CTRL and TAB) generously, as - by default - they will only skip text that you have already seen, making subsequent playthroughs much more palatable."
-    s "In ogni caso, sentiti liberə di impiegare i pulsanti di salto [[Ctrl] e [[Tab] senza riserve, siccome—per impostazione predefinita—salteranno solamente il testo che hai già visto, rendendo le successive partite decisamente più scorrevoli." # changed parentheses with brackets to match line 385 of chapter 1, corrected em-dash, also "the [game's] skip buttons", "more palatable" -> "smoother"
+    s "In ogni caso, sentiti liberə di impiegare i pulsanti di salto [[Ctrl] e [[Tab] senza riserve, siccome—per impostazione predefinita—salteranno solamente il testo che hai già visto, rendendo le successive partite decisamente più scorrevoli." # changed parentheses with brackets to match line 385 of chapter 1; corrected em-dash; "the [game's] skip buttons"; "more palatable" -> "smoother"
 
 # game/chapter5.rpy:917
 translate italiantl tut_72b3f8a3:

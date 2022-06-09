@@ -112,7 +112,7 @@ translate italiantl adine5_3de6ab5e:
 translate italiantl adine5_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Considerando quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # see line 537 of chapter 5
+    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # see line 537 of chapter 5
 
 # game/adine5.rpy:81
 translate italiantl adine5_cf6444f6:
@@ -124,7 +124,7 @@ translate italiantl adine5_cf6444f6:
 translate italiantl adine5_d5667416:
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Avendo l'Amministratore riparato il portale, [Rz] non avrebbe avuto alcuna difficoltà a mettere in atto la sua fuga, ed io ero l'unicə a sapere." # see line 541 of chapter 5, also "the mysterious person I met" -> "the Administrator"
+    m "Avendo l'Amministratore riparato il portale, adesso era il momento perfetto perché [Rz] mettesse in atto la sua fuga, ed io ero l'unicə a sapere." # see line 541 of chapter 5; "the mysterious person I met" -> "the Administrator"
 
 # game/adine5.rpy:85
 translate italiantl adine5_39daf733:
@@ -214,19 +214,19 @@ translate italiantl _call_endingjustafewminuteslater_4_dd0403ac:
 translate italiantl _call_endingjustafewminuteslater_4_bdbf243c:
 
     # m "He pulled out his gun, not sure which one of us he should be aiming at."
-    m "Estrasse la sua pistola, non sapendo bene a chi di noi avrebbe dovuto puntarla." # "aiming IT at"
+    m "Estrasse la sua pistola, non sapendo bene a chi di noi dovesse puntarla." # "aiming IT at"
 
 # game/adine5.rpy:144
 translate italiantl _call_endingjustafewminuteslater_4_561cf27e:
 
     # Rz "Just let me go, and I'll forget this thing ever happened."
-    Rz "Basta che mi lasciate andare, e farò finta che questa cosa non sia mai successa."
+    Rz "Basta che mi lasciate andare, e dimenticherò che questa cosa sia mai successa."
 
 # game/adine5.rpy:146
 translate italiantl _call_endingjustafewminuteslater_4_9907fbcf:
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
-    c "Hai sei proiettili per tre persone. Pensi di poterlo fare davvero, [Rz]? Pensi che valga la pena rischiare la tua vita per questo?"
+    c "Hai sei proiettili per tre persone. Pensi di poterlo fare davvero, [Rz]? Pensi valga la pena rischiare la tua vita per questo?"
 
 # game/adine5.rpy:148
 translate italiantl _call_endingjustafewminuteslater_4_6281e04a:
@@ -286,19 +286,19 @@ translate italiantl _call_endingjustafewminuteslater_4_45e01706:
 translate italiantl _call_endingjustafewminuteslater_4_48e40cdb:
 
     # m "He pulled the trigger, and the Administrator fell to the ground with a dull thud that knocked her mask off."
-    m "Premette il grilletto, e l'Amministratore cadde a terra con un tonfo sordo che gli fece sobbalzare via la maschera."
+    m "Premette il grilletto, e l'Amministratore cadde a terra con un tonfo sordo che le fece sobbalzare via la maschera."
 
 # game/adine5.rpy:221
 translate italiantl _call_endingjustafewminuteslater_4_81e65529:
 
     # m "Reza was quick with his gun and shot Adine once before Maverick even had a chance to charge."
-    m "[Rz] si affrettò a sparare la sua pistola contro [Ad] una volta prima che [Mv] avesse anche solo una possibilità di andare alla carica."
+    m "[Rz] fu svelto con la pistola e sparò ad [Ad] una volta prima che [Mv] avesse anche solo una possibilità di andare alla carica."
 
 # game/adine5.rpy:237
 translate italiantl _call_endingjustafewminuteslater_4_33f1ed09:
 
     # m "As Maverick ran towards him, Reza adjusted his aim before shooting at Maverick multiple times."
-    m "Al correre di [Mv] verso di lui, [Rz] corrèsse la mira prima di sparargli più volte contro." # "shooting at Maverick" -> "shooting at him"
+    m "Al correre di [Mv] verso di lui, [Rz] corrèsse la mira prima di sparargli contro più volte." # "shooting at Maverick" -> "shooting at him"
 
 # game/adine5.rpy:244
 translate italiantl _call_endingjustafewminuteslater_4_3aa60d2f:
@@ -328,7 +328,7 @@ translate italiantl _call_endingjustafewminuteslater_4_b9a4a5af:
 translate italiantl _call_endingjustafewminuteslater_4_c026ff29:
 
     # c "Now you hesitate to kill, after doing all this?"
-    c "Dopo aver fatto tutto questo, adesso ti fai tanti scrupoli a uccidere?"
+    c "Dopo aver fatto tutto questo, adesso esiti a uccidere?"
 
 # game/adine5.rpy:277
 translate italiantl _call_endingjustafewminuteslater_4_84cb213c:
@@ -376,7 +376,7 @@ translate italiantl _call_endingjustafewminuteslater_4_76b2fe88:
 translate italiantl _call_endingjustafewminuteslater_4_47c1d45e:
 
     # n "While both Maverick and the Administrator were dead, it turned out that Adine's injury was fairly minor and she soon got the medical attention she needed."
-    n "Sebbene entrambi [Mv] e l'Amministratore fossero morti, si scoprì che la ferita di [Ad] era piuttosto lieve ed ella ottenne presto le attenzioni mediche di cui aveva bisogno."
+    n "Sebbene entrambi [Mv] e l'Amministratore fossero morti, si scoprì che la ferita di [Ad] era piuttosto lieve ed ella ottenne presto le attenzioni mediche di cui bisognava."
 
 # game/adine5.rpy:323
 translate italiantl _call_endingjustafewminuteslater_4_76466fa9:
@@ -394,7 +394,7 @@ translate italiantl _call_endingjustafewminuteslater_4_777c2a34:
 translate italiantl _call_endingjustafewminuteslater_4_50822352:
 
     # n "I warned the dragons about the comet, but without the generators from the underground building, they failed at diverting the comet enough to make a difference."
-    n "Misi in guardia i draghi sulla cometa, ma senza i generatori dall'edificio sotterraneo, essi non riuscirono a deviare la cometa quanto bastava perché facesse la differenza."
+    n "Misi in guardia i draghi sulla cometa, ma senza il generatore dall'edificio sotterraneo, essi non riuscirono a deviare la cometa quanto bastava perché facesse la differenza." # "generator[s]"
 
 # game/adine5.rpy:330
 translate italiantl _call_endingjustafewminuteslater_4_76b2fe88_1:
@@ -406,7 +406,7 @@ translate italiantl _call_endingjustafewminuteslater_4_76b2fe88_1:
 translate italiantl _call_endingjustafewminuteslater_4_8d761ee7:
 
     # n "As such, the only remaining option for me was to use the portal with the Administrator's coordinates, which would enable me to travel back in time to the day of my arrival in this world."
-    n "Pertanto, la sola opzione che mi restasse era di usare il portale con le coordinate dell'Amministratore, le quali mi avrebbero consentito di viaggiare indietro nel tempo al giorno del mio arrivo in questo mondo."
+    n "Pertanto, la sola opzione che mi restasse era usare il portale con le coordinate dell'Amministratore, le quali mi avrebbero consentito di viaggiare indietro nel tempo al giorno del mio arrivo in questo mondo."
 
 # game/adine5.rpy:335
 translate italiantl _call_endingjustafewminuteslater_4_c1fda0a6:
@@ -520,7 +520,7 @@ translate italiantl _call_endingjustafewminuteslater_4_e64367db:
 translate italiantl _call_endingjustafewminuteslater_4_c70d6beb:
 
     # c "Unfortunately, no. These coordinates are tied to my biometric data. Only I can use them."
-    c "Sfortunatamente, no. Quelle coordinate sono vincolate ai miei dati biometrici. Io solamente posso usarle." # see line 4659 of chapter 4, also "these coordinates" -> "those coordinates"
+    c "Sfortunatamente, no. Quelle coordinate sono vincolate ai miei dati biometrici. Soltanto io posso usarle." # see line 4659 of chapter 4; "these coordinates" -> "those coordinates"
 
 # game/adine5.rpy:402
 translate italiantl _call_endingjustafewminuteslater_4_3a48fa0a:
@@ -628,7 +628,7 @@ translate italiantl adinegoodending_dc9adf37:
 translate italiantl adinegoodending_c262cf28:
 
     # m "It was Maverick, who pounced immediately. Reza fell to the ground, and before he could so much as react, Maverick buried his teeth in Reza's neck and bit down."
-    m "Si trattava di [Mv], il quale gli fu subito addosso. [Rz] cadde a terra, e prima che potesse anche solo reagire, [Mv] gli affondò i denti nel collo e ve li serrò." # "who pounced ON HIM immediately", "Reza's" -> "his"
+    m "Si trattava di [Mv], il quale gli fu subito addosso. [Rz] cadde a terra, e prima che potesse anche solo reagire, [Mv] gli affondò i denti nel collo e ve li serrò." # "who pounced ON HIM immediately"; "Reza's" -> "his"
 
 # game/adine5.rpy:676
 translate italiantl adinegoodending_b338360e:
@@ -838,7 +838,7 @@ translate italiantl adinegoodending_2fc1d6c7:
 translate italiantl adinegoodending_f85ecedc:
 
     # As "Well, with the generators still intact, we will have no trouble diverting the comet and saving this world, but I also know that you feel very strongly about executing the mission you were sent here for."
-    As "Be', coi generatori ancora intatti, non avremo difficoltà a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # see the Italian translation of Charlotte Gray, 00:08:32, also "about [executing] the mission", see line 814
+    As "Be', col generatore ancora intatto, non avremo difficoltà a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # see the Italian translation of Charlotte Gray, 00:08:32; "generator[s]"; "about [executing] the mission", see line 814
 
 # game/adine5.rpy:814
 translate italiantl adinegoodending_592747cc:
@@ -886,7 +886,7 @@ translate italiantl adinegoodending_1554684f:
 translate italiantl adinegoodending_d599bd66:
 
     # As "I didn't realize it would come to this. I just executed her plan as she would have. I can understand her reasoning for it, though."
-    As "Non immaginavo che saremmo giunti a questo. Ho solo eseguito il suo piano così come lei avrebbe fatto. Posso capire le sue ragioni, però." # "realize" -> "imagine", "her reasoning [for it]"
+    As "Non immaginavo che saremmo giunti a questo. Ho solo eseguito il suo piano così come lei avrebbe fatto. Posso capire le sue ragioni, però." # "realize" -> "imagine"; "her reasoning [for it]"
 
 # game/adine5.rpy:830
 translate italiantl adinegoodending_b85d5ecc:
@@ -916,7 +916,7 @@ translate italiantl adinegoodending_78b89aba:
 translate italiantl adinegoodending_640c0e24:
 
     # As "Can we really take that risk? You know that if we fail badly enough even once - if the portal gets destroyed, or if both the Administrator and you die - there won't be any more chances."
-    As "Possiamo davvero correre questo rischio? Sai bene che se falliremo anche solo una volta—se il portale sarà distrutto, o se tu e l'Amministratore morirete entrambɜ—non ci saranno altre possibilità." # corrected em-dash, also "if we fail [badly enough] even once"
+    As "Possiamo davvero correre questo rischio? Sai bene che se falliremo anche solo una volta—se il portale sarà distrutto, o se tu e l'Amministratore morirete entrambɜ—non ci saranno altre possibilità." # corrected em-dash; "if we fail [badly enough] even once"
 
 # game/adine5.rpy:840
 translate italiantl adinegoodending_7f22713c:

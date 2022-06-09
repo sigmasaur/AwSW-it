@@ -70,7 +70,7 @@ translate italiantl anna5_8aa8fa3e:
 translate italiantl anna5_20e2d7dc:
 
     # c "So much for the whole town being out to watch the fireworks."
-    c "Fortuna che doveva esserci tutta la città a guardare i fuochi."
+    c "Fortuna che doveva esserci tutta la città a guardare i fuochi." # see line 40 of Adine 5
 
 # game/anna5.rpy:50
 translate italiantl anna5_fd08d2f0:
@@ -106,7 +106,7 @@ translate italiantl anna5_0d382a65:
 translate italiantl anna5_126dd557:
 
     # c "Oh, I think it's starting."
-    c "Oh, credo stia iniziando."
+    c "Oh, credo stia iniziando." # see line 54 of Adine 5
 
 # game/anna5.rpy:64
 translate italiantl anna5_b786e88a:
@@ -130,7 +130,7 @@ translate italiantl anna5_3de6ab5e:
 translate italiantl anna5_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Considerando quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # see line 537 of chapter 5
+    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # see line 537 of chapter 5
 
 # game/anna5.rpy:85
 translate italiantl anna5_ef9cdfc8:
@@ -142,7 +142,7 @@ translate italiantl anna5_ef9cdfc8:
 translate italiantl anna5_d5667416:
 
     # m "As the portal had been repaired by the mysterious person I met, now was the perfect time for Reza to make his getaway, and I was the only one who knew."
-    m "Avendo l'Amministratore riparato il portale, [Rz] non avrebbe avuto alcuna difficoltà a mettere in atto la sua fuga, ed io ero l'unicə a sapere." # see line 83 of Adine 5
+    m "Avendo l'Amministratore riparato il portale, adesso era il momento perfetto perché [Rz] mettesse in atto la sua fuga, ed io ero l'unicə a sapere." # see line 83 of Adine 5
 
 # game/anna5.rpy:89
 translate italiantl anna5_91355740:
@@ -232,19 +232,19 @@ translate italiantl _call_endingjustafewminuteslater_1_dd0403ac:
 translate italiantl _call_endingjustafewminuteslater_1_bdbf243c:
 
     # m "He pulled out his gun, not sure which one of us he should be aiming at."
-    m "Estrasse la sua pistola, non sapendo bene a chi di noi avrebbe dovuto puntarla." # see line 142 of Adine 5
+    m "Estrasse la sua pistola, non sapendo bene a chi di noi dovesse puntarla." # see line 142 of Adine 5
 
 # game/anna5.rpy:144
 translate italiantl _call_endingjustafewminuteslater_1_561cf27e:
 
     # Rz "Just let me go, and I'll forget this thing ever happened."
-    Rz "Basta che mi lasciate andare, e farò finta che questa cosa non sia mai successa." # see line 144 of Adine 5
+    Rz "Basta che mi lasciate andare, e dimenticherò che questa cosa sia mai successa." # see line 144 of Adine 5
 
 # game/anna5.rpy:146
 translate italiantl _call_endingjustafewminuteslater_1_9907fbcf:
 
     # c "You've got six bullets for three people. Do you think you can really do that, Reza? Do you think this is worth risking your life for?"
-    c "Hai sei proiettili per tre persone. Pensi di poterlo fare davvero, [Rz]? Pensi che valga la pena rischiare la tua vita per questo?" # see line 146 of Adine 5
+    c "Hai sei proiettili per tre persone. Pensi di poterlo fare davvero, [Rz]? Pensi valga la pena rischiare la tua vita per questo?" # see line 146 of Adine 5
 
 # game/anna5.rpy:148
 translate italiantl _call_endingjustafewminuteslater_1_6281e04a:
@@ -304,7 +304,7 @@ translate italiantl _call_endingjustafewminuteslater_1_45e01706:
 translate italiantl _call_endingjustafewminuteslater_1_a113215c:
 
     # m "He pulled the trigger and the Administrator fell to the ground with a dull thud that knocked her mask off."
-    m "Premette il grilletto, e l'Amministratore cadde a terra con un tonfo sordo che gli fece sobbalzare via la maschera." # see line 199 of Adine 5, also added comma to match that line
+    m "Premette il grilletto, e l'Amministratore cadde a terra con un tonfo sordo che le fece sobbalzare via la maschera." # see line 199 of Adine 5; added comma to match that line
 
 # game/anna5.rpy:213
 translate italiantl _call_endingjustafewminuteslater_1_a776138b:
@@ -340,7 +340,7 @@ translate italiantl _call_endingjustafewminuteslater_1_98a8dd49:
 translate italiantl _call_endingjustafewminuteslater_1_69a3b56e:
 
     # m "While I was unharmed, Anna was hit multiple times and fell to the ground. While I watched Reza's hand dive into his pocket for more ammo, Anna's harsh breathing filled my ears."
-    m "Sebbene io rimasi illesə, [An] fu colpita più volte e cadde a terra. Mentre guardavo la mano di [Rz] tuffarsi nelle sue tasche in cerca di altre munizioni, il respiro strozzato di [An] mi riempiva le orecchie." # "into his pocketS"
+    m "Sebbene io fossi illesə, [An] fu colpita più volte e cadde a terra. Mentre guardavo la mano di [Rz] tuffarsi nelle sue tasche in cerca di altre munizioni, il respiro strozzato di [An] mi riempiva le orecchie." # "into his pocketS"
 
 # game/anna5.rpy:313
 translate italiantl _call_endingjustafewminuteslater_1_9abbc5a9:
@@ -376,7 +376,7 @@ translate italiantl _call_endingjustafewminuteslater_1_c0501288:
 translate italiantl _call_endingjustafewminuteslater_1_c6550d67:
 
     # m "I went over to Anna, only to realize she was covered in blood from her bullet wounds. She was breathing heavily, but was still alive."
-    m "Andai da [An], solo per realizzare che era coperta del sangue dalle sue ferite d'arma da fuoco. Aveva il respiro pesante, ma era ancora viva."
+    m "Andai da [An], solo per realizzare che era coperta del sangue dalle sue ferite da proiettile. Aveva il respiro pesante, ma era ancora viva."
 
 # game/anna5.rpy:327
 translate italiantl _call_endingjustafewminuteslater_1_61e166c3:
@@ -400,7 +400,7 @@ translate italiantl _call_endingjustafewminuteslater_1_058c4d85:
 translate italiantl _call_endingjustafewminuteslater_1_c07bed80:
 
     # An "I've done autopsies before. I know how this goes. No one can help me now."
-    An "Ho già fatto autopsie prima d'ora. So come vanno queste cose. Nessuno può aiutarmi adesso."
+    An "Ho già fatto autopsie prima d'ora. So come vanno queste cose. Ormai nessuno può aiutarmi."
 
 # game/anna5.rpy:337
 translate italiantl _call_endingjustafewminuteslater_1_8ac40d51:
@@ -418,13 +418,13 @@ translate italiantl _call_endingjustafewminuteslater_1_3957bdba:
 translate italiantl _call_endingjustafewminuteslater_1_afefa1e4:
 
     # An "Would you want to spend your last days strapped to a hospital bed, slowly wasting away until nothing is left but a mere shell - a shadow of your former self?"
-    An "Vorresti passare i tuoi ultimi giorni legato a un letto di ospedale, consumandoti lentamente finché non resta che un mero involucro—un'ombra di quel che sei stato un tempo?" # see also line 1378 of Anna 3, also corrected em-dash
+    An "Vorresti passare i tuoi ultimi giorni legatə a un letto di ospedale, consumandoti lentamente finché non resta che un mero involucro—un'ombra di quel che sei statə un tempo?" # see line 1378 of Anna 3; corrected em-dash
 
 # game/anna5.rpy:343
 translate italiantl _call_endingjustafewminuteslater_1_c48f1b73:
 
     # An "They can prolong my life, but they can't save me. But by doing this, I could save you - so I did."
-    An "Possono allungarmi la vita, ma non possono salvarmi. Ma facendo questo, avrei potuto salvare te—e così ho fatto." # corrected em-dash, also "AND so I did"
+    An "Possono allungarmi la vita, ma non possono salvarmi. Ma facendo questo, avrei potuto salvare te—e così ho fatto." # corrected em-dash; "AND so I did"
 
 # game/anna5.rpy:345
 translate italiantl _call_endingjustafewminuteslater_1_d7961dd8:
@@ -436,7 +436,7 @@ translate italiantl _call_endingjustafewminuteslater_1_d7961dd8:
 translate italiantl _call_endingjustafewminuteslater_1_fc6c4d06:
 
     # An "Even if they'd have me rot and die in prison rather than finding a cure for myself and who knows how many others. Just... make it count, [player_name]."
-    An "Anche se mi avrebbero fatto marcire e morire in prigione piuttosto che trovare una cura per me stessa e per chissà quanti altri. Solo... fa' che sia servito, [player_name]." # see also the Italian translation of No Time to Die, 01:02:23
+    An "Anche se mi avrebbero fatto marcire e morire in prigione piuttosto che trovare una cura per me stessa e per chissà quanti altri. Solo... fa' che sia servito, [player_name]." # see the Italian translation of No Time to Die, 01:02:23
 
 # game/anna5.rpy:351
 translate italiantl _call_endingjustafewminuteslater_1_d52184df:
@@ -502,7 +502,7 @@ translate italiantl _call_endingjustafewminuteslater_1_51e0f8ca:
 translate italiantl _call_endingjustafewminuteslater_1_0cc640c7:
 
     # c "Sending generators now would be out of the question, since we'll need all we can gather in order to stop the comet."
-    c "Inviare i generatori adesso sarebbe fuori questione, dato che ci serviranno tutti quelli che possiamo racimolare per poter fermare la cometa." # see also lines 4488-4492 of chapter 4
+    c "Inviare generatori adesso sarebbe fuori discussione, dato che ci serviranno tutti quelli che possiamo racimolare per poter fermare la cometa." # see lines 4488-4492 of chapter 4
 
 # game/anna5.rpy:409
 translate italiantl _call_endingjustafewminuteslater_1_bf178f51:
@@ -664,7 +664,7 @@ translate italiantl _call_endingjustafewminuteslater_1_8eacf2a2:
 translate italiantl _call_endingjustafewminuteslater_1_fea43be3:
 
     # m "She collapsed in pain as blood started to run down her cheek where the impact had opened a gash."
-    m "Lei crollò dolorante mentre il sangue iniziava a correrle giù per la guancia laddove l'impatto aveva aperto un taglio profondo."
+    m "Lei crollò dolorante mentre il sangue iniziava a correrle lungo la guancia laddove l'impatto aveva aperto un taglio profondo."
 
 # game/anna5.rpy:504
 translate italiantl _call_endingjustafewminuteslater_1_65e5d3a6:
@@ -700,19 +700,19 @@ translate italiantl _call_syscheck_42_e7760f77:
 translate italiantl annagoodending_6874a8ae:
 
     # m "The jaws dislodged and Reza aimed his gun in my direction. Out of nowhere, Anna tackled me – shoving us both out of the way just before Reza unloaded the weapon in our direction."
-    m "Le mascelle si smossero e [Rz] puntò la sua pistola nella mia direzione. Di punto in bianco, [An] mi si gettò addosso—spingendoci entrambɜ da parte prima che [Rz] scaricasse l'arma nella nostra direzione." # see line 294, also corrected em-dash
+    m "Le mascelle si smossero e [Rz] puntò la sua pistola nella mia direzione. Di punto in bianco, [An] mi si gettò addosso—spingendoci entrambɜ da parte prima che [Rz] scaricasse l'arma nella nostra direzione." # see line 294; corrected em-dash
 
 # game/anna5.rpy:718
 translate italiantl annagoodending_5f389ab6:
 
     # m "Both of us were seemingly unharmed, and by the time Reza was reloading his gun, Anna was already up again and running towards him."
-    m "Entrambɜ rimanemmo apparentemente illesɜ, e [Rz] non fece in tempo a ricaricare la sua pistola che [An] era di nuovo in piedi e correva verso di lui." # see also line 299
+    m "Entrambɜ fummo apparentemente illesɜ, e [Rz] non fece in tempo a ricaricare la sua pistola che [An] era di nuovo in piedi e correva verso di lui." # see line 299
 
 # game/anna5.rpy:738
 translate italiantl annagoodending_545de3ca:
 
     # m "Just as he raised his arm to aim at her, she jumped and collided with him, causing him to miss his target wildly."
-    m "Come lui alzò il braccio per prendere la mira, lei saltò e gli sbatté contro, facendogli mancare il bersaglio ampiamente."
+    m "Come lui alzò il braccio per prendere la mira, lei saltò e gli sbatté contro, facendogli mancare ampiamente il bersaglio."
 
 # game/anna5.rpy:742
 translate italiantl annagoodending_7860e0db:
@@ -748,7 +748,7 @@ translate italiantl annagoodending_9f85b645:
 translate italiantl annagoodending_1ff8ac61:
 
     # m "We went to check on the others, but both Maverick and the Administrator were dead."
-    m "Andammo a controllare gli altri, ma entrambi [Mv] e l'Amministratore erano morti." # see also lines 355-369
+    m "Andammo a controllare gli altri, ma entrambi [Mv] e l'Amministratore erano morti." # see lines 355-369
 
 # game/anna5.rpy:779
 translate italiantl annagoodending_76b2fe88:
@@ -772,19 +772,19 @@ translate italiantl annagoodending_cfb57675:
 translate italiantl annagoodending_01e1c5cc:
 
     # n "When the time came, the dragons executed their plan, and by utilizing the underground building's generators, the comet was ultimately diverted and never hit Earth."
-    n "Quando giunse il momento, i draghi eseguirono il loro piano, e utilizzando i generatori dell'edificio sotterraneo, la cometa fu in ultimo deviata e non colpì mai la Terra."
+    n "Quando giunse il momento, i draghi eseguirono il loro piano, e utilizzando il generatore dell'edificio sotterraneo, la cometa fu in ultimo deviata e non colpì mai la Terra." # "generator[s]"
 
 # game/anna5.rpy:791
 translate italiantl annagoodending_0d4277f6:
 
     # n "Even after they recovered and power was restored to the portal, I knew that I wouldn't be able to return to my own time as the Administrator, Izumi, had deleted the coordinates I needed to return home when she repaired the portal a while ago."
-    n "Anche dopo che si furono ripresi e fu ripristinata l'energia al portale, sapevo che non sarei statə in grado di fare ritorno al mio tempo siccome l'Amministratore, [Iz], aveva cancellato le coordinate che mi servivano per tornare a casa quand'ella aveva riparato il portale qualche tempo addietro." # see also line 423
+    n "Anche dopo che si furono ripresi e fu ripristinata l'energia al portale, sapevo che non sarei statə in grado di fare ritorno al mio tempo siccome l'Amministratore, [Iz], aveva cancellato le coordinate che mi servivano per tornare a casa quand'ella aveva riparato il portale qualche tempo addietro."
 
 # game/anna5.rpy:793
 translate italiantl annagoodending_92633769:
 
     # n "While she had her own reasons for doing this, it meant that now my only options were to stay here, or to use the portal and the coordinates she had entered to travel back in time and return to the day of my arrival in this world."
-    n "Per quanto lei avesse avuto le sue ragioni per farlo, significava che adesso le mie sole opzioni erano di restare qui, oppure usare il portale e le coordinate che aveva inserito per viaggiare indietro nel tempo al giorno del mio arrivo in questo mondo." # see also line 429
+    n "Per quanto lei avesse avuto le sue ragioni per farlo, significava che adesso le mie sole opzioni erano restare qui, oppure usare il portale e le coordinate che aveva inserito per viaggiare indietro nel tempo al giorno del mio arrivo in questo mondo."
 
 # game/anna5.rpy:796
 translate italiantl annagoodending_76b2fe88_1:
@@ -880,13 +880,13 @@ translate italiantl annagoodending_f5b886fc:
 translate italiantl annagoodending_81c7c120:
 
     # An "Yet here I am, being what I never wanted to become."
-    An "Eppure eccomi qui, come non avrei mai voluto diventare." # see also line 1384 of Anna 3
+    An "Eppure eccomi qui, come non avrei mai voluto diventare." # see line 1384 of Anna 3
 
 # game/anna5.rpy:841
 translate italiantl annagoodending_31e4c84b:
 
     # An "But at least I'm not alone."
-    An "Ma almeno non sono sola." # see also line 1384 of Anna 3
+    An "Ma almeno non sono sola." # see line 1384 of Anna 3
 
 # game/anna5.rpy:847
 translate italiantl annagoodending_76b2fe88_3:

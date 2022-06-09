@@ -202,7 +202,7 @@ translate italiantl _call_syscheck_110_91aab194:
 translate italiantl _call_syscheck_110_b26d58cb:
 
     # c "Note to self: The word \"soon\" now refers to a time span of over 2 hours when waiting for a scheduled appointment."
-    c "Nota a me stessə: la parola \"presto\" adesso si riferisce a un lasso di tempo di oltre due ore quando si aspetta un appuntamento." # corrected lowercase letter, also "2" -> "two" for elegance, also "for a [scheduled] appointment"
+    c "Nota a me stessə: la parola \"presto\" adesso si riferisce a un lasso di tempo di oltre due ore quando si aspetta un appuntamento." # corrected lowercase letter; "2" -> "two" for elegance; "for a [scheduled] appointment"
 
 # game/anna2.rpy:221
 translate italiantl _call_syscheck_110_355cff5d:
@@ -418,7 +418,7 @@ translate italiantl _call_skipcheck_32_f1fcf8e7:
 translate italiantl _call_skipcheck_32_cf73bb24:
 
     # c "I understand wanting to see things through to completion. How long have you been working on your current project?"
-    c "Capisco bene il voler andare fino in fondo a una cosa. Da quant'è che lavori al tuo attuale progetto?" # must match line 395, also "things" -> "something"
+    c "Capisco bene il voler andare fino in fondo a una cosa. Da quant'è che lavori al tuo attuale progetto?" # must match line 395; "things" -> "something"
 
 # game/anna2.rpy:395
 translate italiantl _call_skipcheck_32_b1a2fef9:
@@ -520,7 +520,7 @@ translate italiantl _call_skipcheck_32_42bfa25e:
 translate italiantl _call_skipcheck_32_87426d48:
 
     # An "Although a match of 90%% sounds like a lot, it's not as much as you might think. Still, for two beings from a different world altogether, that's quite remarkable."
-    An "Sebbene una corrispondenza del novanta percento sembri tanto, non è quanto potresti pensare. Comunque, per degli esseri di un mondo del tutto diverso, è alquanto notevole." # see line 428, also "[two] beings"
+    An "Sebbene una corrispondenza del novanta percento sembri tanto, non è quanto potresti pensare. Comunque, per degli esseri di un mondo del tutto diverso, è alquanto notevole." # see line 428; "[two] beings"
 
 # game/anna2.rpy:438
 translate italiantl _call_skipcheck_32_7c45fda0:
@@ -580,7 +580,7 @@ translate italiantl _call_skipcheck_32_611a3f9b:
 translate italiantl _call_skipcheck_32_359cfa9a:
 
     # An "But in the end, we both got too absorbed in our jobs until we realized we had drifted apart too much and agreed it would be better if we just broke up."
-    An "Ma alla fine, eravamo entrambi fin troppo assorti nel lavoro per capire di esserci allontanati troppo e abbiamo convenuto che sarebbe stato meglio se ci fossimo semplicemente lasciati." # "WAY too absorbed", "until we realized" -> "to realize"
+    An "Ma alla fine, eravamo entrambi fin troppo assorti nel lavoro per capire di esserci allontanati troppo e abbiamo convenuto che sarebbe stato meglio se ci fossimo semplicemente lasciati." # "WAY too absorbed"; "until we realized" -> "to realize"
 
 # game/anna2.rpy:458
 translate italiantl _call_skipcheck_32_803a1558:
@@ -766,7 +766,7 @@ translate italiantl _call_skipcheck_32_640b5fdf:
 translate italiantl _call_skipcheck_32_f4349131:
 
     # m "Miles raised his head from his kill, blood dripping from his maw. The officers' breaths were smothered by the deathly stillness of the night. Fangs bared, the feral dragon snarled and stood strong in front of his meal, prepared to protect it from the two who intruded upon his territory."
-    m "Miles sollevò la bocca dal suo fiero pasto, il sangue che colava dalle fauci. La mortale quiete della notte mozzava il respiro agli agenti. Digrignando le zanne, il drago ferino ringhiò e si erse possente davanti alla sua preda, pronto a proteggerla dai due che avevano invaso il suo territorio." # half quoted the Divine Comedy, Inferno, canto XXXIII, line 1 and exchanged "kill" and "meal" as a result, also "fangs bared" -> "baring his fangs"
+    m "Miles sollevò la bocca dal suo fiero pasto, il sangue che colava dalle fauci. La mortale quiete della notte mozzava il respiro agli agenti. Digrignando le zanne, il drago ferino ringhiò e si erse possente davanti alla sua preda, pronto a proteggerla dai due che avevano invaso il suo territorio." # half quoted the Divine Comedy, Inferno, canto XXXIII, line 1 and exchanged "kill" and "meal" as a result; "fangs bared" -> "baring his fangs"
 
 # game/anna2.rpy:542
 translate italiantl _call_skipcheck_32_9919657a:
@@ -1294,7 +1294,7 @@ translate italiantl _call_skipcheck_32_338ffbd9:
 translate italiantl _call_skipcheck_32_82a1bfde:
 
     # c "Grilled. Unless prepared properly, raw meat carries a significant risk of diseases for us."
-    c "Arrosto. Se non preparata a dovere, la carne cruda comporta un rischio significativo di malattie per noi." # see line 903, also "unless" -> "if not"
+    c "Arrosto. Se non preparata a dovere, la carne cruda comporta un rischio significativo di malattie per noi." # see line 903; "unless" -> "if not"
 
 # game/anna2.rpy:909
 translate italiantl _call_skipcheck_32_982f6a29:
@@ -1348,7 +1348,7 @@ translate italiantl _call_skipcheck_32_640a1ac4:
 translate italiantl _call_skipcheck_32_9dd1c0ea:
 
     # An smirk c "That's mostly us, the runners. We've got proper hands, after all."
-    An smirk c "Perlopiù noi, i corridori. Abbiamo delle mani vere e proprie, dopotutto."
+    An smirk c "Per lo più noi, i corridori. Abbiamo delle mani vere e proprie, dopotutto."
 
 # game/anna2.rpy:933
 translate italiantl _call_skipcheck_32_66b779fe:
@@ -1510,7 +1510,7 @@ translate italiantl _call_skipcheck_32_05fcfeac:
 translate italiantl _call_skipcheck_32_b448568f:
 
     # c "It would be a neat ability to have, but I don't think I'd want a deadly weapon at my disposal at all times. Furthermore, I'm not sure about what could happen if other humans had access to that skill."
-    c "Sarebbe bello esserne capace, ma non penso che vorrei un'arma mortale a mia disposizione in ogni momento. Oltretutto, non so bene cosa potrebbe accadere se altri umani avessero accesso a una tale abilità." # "a neat ability to have" -> "neat to be capable of", "that skill" -> "such a skill"
+    c "Sarebbe bello esserne capace, ma non penso che vorrei un'arma mortale a mia disposizione in ogni momento. Oltretutto, non so bene cosa potrebbe accadere se altri umani avessero accesso a una tale abilità." # "a neat ability to have" -> "neat to be capable of"; "that skill" -> "such a skill"
 
 # game/anna2.rpy:1039
 translate italiantl _call_skipcheck_32_5057e9fb:
@@ -1648,7 +1648,7 @@ translate italiantl _call_skipcheck_32_125d05ce:
 translate italiantl _call_skipcheck_32_c72afdc0:
 
     # m "Carefully, I grabbed one of the pieces, which by now had indeed cooled down enough to not burn me anymore and took a bite."
-    m "Cautamente, afferrai uno dei pezzetti, il quale in effetti si era ormai freddato abbastanza da non bruciarmi, e ne presi un morso." # "to not burn me [anymore]", "took a bite FROM IT"
+    m "Cautamente, afferrai uno dei pezzetti, il quale in effetti si era ormai freddato abbastanza da non bruciarmi, e ne presi un morso." # "to not burn me [anymore]"; "took a bite FROM IT"
 
 # game/anna2.rpy:1117
 translate italiantl _call_skipcheck_32_4334daf7:
@@ -1744,7 +1744,7 @@ translate italiantl _call_skipcheck_32_1337cc4c:
 translate italiantl _call_skipcheck_32_265b6161:
 
     # An "Even out here, I can take care of myself. I got the Mouflon, I cut it up and - surprise, surprise - I was also the one who cooked it."
-    An "Anche qua fuori, io so badare a me stessa. Ho preso il muflone, l'ho tagliato e—sorpresa, sorpresa—sono anche quella che l'ha cucinato." # corrected em-dash
+    An "Anche qua fuori, io so badare a me stessa. Ho preso io il muflone, io l'ho tagliato e—sorpresa, sorpresa—sono sempre io che l'ho cucinato." # corrected em-dash
 
 # game/anna2.rpy:1177
 translate italiantl _call_skipcheck_32_52ae2312:
@@ -1942,7 +1942,7 @@ translate italiantl anna2else_83079b08:
 translate italiantl anna2else_670c9433:
 
     # An normal "I'll let you know the details. Or just call me, if I forget."
-    An normal "Ti farò sapere i dettagli. Oppure fammi uno squillo, se me ne dimentico." # see line 1286, also must match line 1335
+    An normal "Ti farò sapere i dettagli. Oppure fammi uno squillo, se me ne dimentico." # see line 1286; must match line 1335
 
 # game/anna2.rpy:1339
 translate italiantl anna2else_c48dc32f:

@@ -70,7 +70,7 @@ translate italiantl _call_skipcheck_1_670439dc:
 translate italiantl _call_skipcheck_1_43ff890b:
 
     # Br normal "Whereas the Chief of Police has to make do with whatever he can get."
-    Br normal "Mentre invece il capo di polizia deve accontentarsi di quello che trova." # corrected lowercase letter of "Chief" and "Police"
+    Br normal "Mentre invece il capo di polizia deve accontentarsi di quello che trova." # corrected lowercase letter of "Chief", "Police"
 
 # game/bryce4.rpy:125
 translate italiantl _call_skipcheck_1_2c877c0e:
@@ -538,7 +538,7 @@ translate italiantl _call_skipcheck_1_36e74905:
 translate italiantl _call_skipcheck_1_16c29965:
 
     # Br "Let this be my official apology to you: I apologize for anything I might have done to wrong you."
-    Br "Lascia che mi scusi ufficialmente con te: ti chiedo scusa per qualsiasi torto possa averti fatto." # "I apologize TO YOU", "anything I might have done to wrong you" -> "any wrong I might have done to you"
+    Br "Lascia che mi scusi ufficialmente con te: ti chiedo scusa per qualsiasi torto possa averti fatto." # "I apologize TO YOU"; "anything I might have done to wrong you" -> "any wrong I might have done to you"
 
 # game/bryce4.rpy:310
 translate italiantl _call_skipcheck_1_8ec45780:
@@ -610,7 +610,7 @@ translate italiantl _call_skipcheck_1_87d3969a:
 translate italiantl _call_skipcheck_1_b5b56901:
 
     # Br "You'd think as Chief I'd be used to it by now, but I'm not."
-    Br "Penseresti che come capo ormai ci abbia fatto l'abitudine, ma non è così." # must match line 338, also corrected lowercase letter of "Chief"
+    Br "Penseresti che come capo ormai ci abbia fatto l'abitudine, ma non è così." # must match line 338; corrected lowercase letter of "Chief"
 
 # game/bryce4.rpy:338
 translate italiantl _call_skipcheck_1_6acd8a3e:
@@ -796,7 +796,7 @@ translate italiantl _call_skipcheck_1_c4286e39:
 translate italiantl _call_skipcheck_1_e4209dd7:
 
     # Br sad "My point with all this is: We're all a very tight knit group at the police station. Me, Sebastian, Maverick, Naomi - the bond we form on the job is how we know to look out for each other."
-    Br sad "Quello che voglio dire con tutto questo, è che alla stazione di polizia siamo tutti un gruppo molto affiatato. Io, [Sb], [Mv], Naomi—è formando quel legame sul lavoro che sappiamo prenderci cura l'uno dell'altro." # corrected em-dash, also "the bond we form on the job is how" -> "it's by forming that bond on the job that"
+    Br sad "Quello che voglio dire con tutto questo, è che alla stazione di polizia siamo tutti un gruppo molto affiatato. Io, [Sb], [Mv], Naomi—è formando quel legame sul lavoro che sappiamo prenderci cura l'uno dell'altro." # corrected em-dash; "the bond we form on the job is how" -> "it's by forming that bond on the job that"
 
 # game/bryce4.rpy:411
 translate italiantl _call_skipcheck_1_f9bfb766:
@@ -838,7 +838,7 @@ translate italiantl _call_skipcheck_1_ea2da1bc:
 translate italiantl _call_skipcheck_1_15fcaaff:
 
     # Br "Remember when I told you about the wooden models I'm making?"
-    Br "Ricordi quando ti ho detto del modellino di legno che sto facendo?" # must match line 425
+    Br "Ricordi quando ti dissi del modellino di legno che sto facendo?" # must match line 425; see lines 259-357 of Bryce 2
 
 # game/bryce4.rpy:425
 translate italiantl _call_skipcheck_1_bb8eeb88:
@@ -934,7 +934,7 @@ translate italiantl _call_skipcheck_1_4184c4dc:
 translate italiantl _call_skipcheck_1_17555bb4:
 
     # Br smirk "Yeah, usually it's those who have better hands than I do. But then, she doesn't really want the massage anyway. She just wants me."
-    Br smirk "Già, di solito sono quelli che hanno mani migliori delle mie. D'altra parte, tanto non è che lei volesse un massaggio. Lei voleva me e basta." # "want the massage" -> "wanted a massage", "wants" -> "wanted"
+    Br smirk "Già, di solito sono quelli che hanno mani migliori delle mie. D'altra parte, tanto non è che lei volesse un massaggio. Lei voleva me e basta." # "want the massage" -> "wanted a massage"; "wants" -> "wanted"
 
 # game/bryce4.rpy:460
 translate italiantl _call_skipcheck_1_329c2285:
@@ -1126,7 +1126,7 @@ translate italiantl _call_skipcheck_1_de4291be:
 translate italiantl _call_skipcheck_1_3261af55:
 
     # Br smirk "Well, I did what you told me and asked her out."
-    Br smirk "Be', ho fatto quel che mi hai detto e le ho chiesto di uscire." # see line 440, also see line 700 of Bryce 3
+    Br smirk "Be', ho fatto quel che mi hai detto e le ho chiesto di uscire." # see line 440, line 700 of Bryce 3
 
 # game/bryce4.rpy:532
 translate italiantl _call_skipcheck_1_d94f5e6f:
@@ -1288,7 +1288,7 @@ translate italiantl _call_skipcheck_1_d7e1eed1:
 translate italiantl _call_skipcheck_1_79d74465:
 
     # Br "If there is no proof, we'll look for proof. If we don't find some, well..."
-    Br "Se non ci sono prove, allora le cerchiamo. E se non ne troviamo, be'..." # "we'll look for proof" -> "THEN we look for it", "AND if we don't find some"
+    Br "Se non ci sono prove, allora le cerchiamo. E se non ne troviamo, be'..." # "we'll look for proof" -> "THEN we look for it"; "AND if we don't find some"
 
 # game/bryce4.rpy:589
 translate italiantl _call_skipcheck_1_08213c72:
@@ -1414,7 +1414,7 @@ translate italiantl bryce4skip_b258cf58:
 translate italiantl bryce4skip_2d0667f2:
 
     # c "When we talked with Emera, she pointed out that incident could've caused this whole mess."
-    c "Quando abbiamo parlato con [Em], lei ha fatto notare come quell'incidente poteva aver provocato tutto questo casino." # see line 1191 of chapter 3, also "she pointed out HOW that incident could've caused"
+    c "Quando abbiamo parlato con [Em], lei ha fatto notare come quell'incidente poteva aver provocato tutto questo casino." # see line 1191 of chapter 3; "she pointed out HOW that incident could've caused"
 
 # game/bryce4.rpy:638
 translate italiantl bryce4skip_25cfb626:
@@ -1492,7 +1492,7 @@ translate italiantl bryce4skip_8514adf0:
 translate italiantl bryce4skip_cb86b900:
 
     # Br "Well, yeah. But it's a big tradition here, maybe even an ideological one. Y'know, everyone in the whole town united under the stars, watching the beautiful fireworks. It's a thing."
-    Br "Be', sì. Ma qui è una grande tradizione, forse persino ideologica. Sai, tutta quanta la città riunita sotto le stelle, a guardare i bellissimi fuochi d'artificio. È una cosa che facciamo." # "[an] ideological [one]", "it's a thing WE DO"
+    Br "Be', sì. Ma qui è una grande tradizione, forse persino ideologica. Sai, tutta quanta la città riunita sotto le stelle, a guardare i bellissimi fuochi d'artificio. È una cosa che facciamo." # "[an] ideological [one]"; "it's a thing WE DO"
 
 # game/bryce4.rpy:666
 translate italiantl bryce4skip_be68808f:

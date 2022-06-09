@@ -16,7 +16,7 @@ translate italiantl adine1_d60c0822:
 translate italiantl adine1_245dbdc1:
 
     # m "It just so happened that Adine herself stood in the doorway, dripping wet and with damp containers in her grip."
-    m "Caso volle che fosse [Ad] in persona a starsene lì sulla soglia, gocciolante e con un contenitore umido nella sua presa." # "container[s]" to match image cgadine2 and line 129, also "stood THERE in the doorway"
+    m "Caso volle che fosse [Ad] in persona a starsene lì sulla soglia, gocciolante e con un contenitore umido nella sua presa." # "container[s]" to match image cgadine2 and line 129; "stood THERE in the doorway"
 
 # game/adine1.rpy:61
 translate italiantl adine1_c084e644:
@@ -274,7 +274,7 @@ translate italiantl _call_skipcheck_10_629d7ddb:
 translate italiantl _call_skipcheck_10_45ce6c6a:
 
     # c "Let me ask you this: Where do you think the portal you found came from? Who built it?"
-    c "Lascia che ti chieda: da dove credi provenga il portale che avete trovato? Chi l'ha costruito?" # corrected lowercase letter, also "let me ask you [this]"
+    c "Lascia che ti chieda: da dove credi provenga il portale che avete trovato? Chi l'ha costruito?" # corrected lowercase letter; "let me ask you [this]"
 
 # game/adine1.rpy:288
 translate italiantl _call_skipcheck_10_ef636fcf:
@@ -706,7 +706,7 @@ translate italiantl _call_skipcheck_10_27b32db1:
 translate italiantl _call_skipcheck_10_aaa0f5f8:
 
     # c "I wasn't sure what to think about it. That is, until I got here and was standing in front of one of you. And after that, I was just rendered speechless."
-    c "Non sapevo bene cosa pensarne. Almeno, finché non sono arrivatə qui e mi sono ritrovatə di fronte a uno di voi. E dopodiché, sono solo rimastə senza parole."
+    c "Non sapevo bene cosa pensarne. Almeno, finché non sono arrivatə qui e mi sono trovatə davanti uno di voi. E dopodiché, sono solo rimastə senza parole." # see line 664 of chapter 1; "was standing in front of one of you" -> "had one of you stand in front of me"
 
 # game/adine1.rpy:498
 translate italiantl _call_skipcheck_10_c9851cf8:
@@ -1174,7 +1174,7 @@ translate italiantl nextsc_54608f68:
 translate italiantl nextsc_57d8dcd9:
 
     # c "That wasn't enough to stop you from ever trying again?"
-    c "Però non è bastato a dissuaderti dal provare ancora?" # "BUT that wasn't enough", "from [ever] trying again"
+    c "Però non è bastato a dissuaderti dal provare ancora?" # "BUT that wasn't enough"; "from [ever] trying again"
 
 # game/adine1.rpy:783
 translate italiantl nextsc_818b4ba1:
@@ -1240,7 +1240,7 @@ translate italiantl nextsc_bc0926e9:
 translate italiantl nextsc_5b659cad:
 
     # c "Well, with this question it's more about what you would do if you had the opportunity to do something without getting caught, like something mischievous or criminal."
-    c "Be', questa domanda era più che altro su ciò che faresti se avessi l'opportunità di fare qualcosa senza essere colta sul fatto, come qualcosa di malizioso o di illegale." # "[with] this question", "criminal" -> "illegal"
+    c "Be', questa domanda era più che altro su ciò che faresti se avessi l'opportunità di fare qualcosa senza essere colta sul fatto, come qualcosa di malizioso o di illegale." # "[with] this question"; "criminal" -> "illegal"
 
 # game/adine1.rpy:823
 translate italiantl nextsc_d89cde73:
@@ -1384,7 +1384,7 @@ translate italiantl nextsc_c11e0ee0:
 translate italiantl nextsc_aa2237bc:
 
     # Ad "I'm not sure if I could do that. I don't like tight, enclosed spaces."
-    Ad "Non sono sicura che potrei farlo. Non mi piacciono i luoghi chiusi e ristretti." # "do that" -> "do it"
+    Ad "Non sono sicura che potrei farlo. Non mi piacciono gli spazi chiusi e ristretti." # "do that" -> "do it"
 
 # game/adine1.rpy:927
 translate italiantl nextsc_e3afd84b:
@@ -1654,7 +1654,7 @@ translate italiantl _call_syscheck_48_7215760e:
 translate italiantl _call_syscheck_48_8b45fabd:
 
     # c "Oh, looks like it's getting late."
-    c "Oh, sembra che si stia facendo tardi."
+    c "Oh, sembra si stia facendo tardi."
 
 # game/adine1.rpy:1248
 translate italiantl _call_syscheck_48_1f70b032:

@@ -88,7 +88,7 @@ translate italiantl _call_skipcheck_30_8be16951:
 translate italiantl _call_skipcheck_30_80560524:
 
     # c "That's out of the question. I'm here to spend time with you. The festival is not that important."
-    c "Quello è fuori questione. Sono qui per passare del tempo con te. Il festival non è così importante."
+    c "Questo è fuori discussione. Sono qui per passare del tempo con te. Il festival non è così importante."
 
 # game/adine4.rpy:129
 translate italiantl _call_skipcheck_30_2529c9a0:
@@ -316,7 +316,7 @@ translate italiantl _call_skipcheck_30_b416699b:
 translate italiantl _call_skipcheck_30_9ebff89e:
 
     # Ad think b "There comes a certain point in time when you just can't perform as well anymore as you used to."
-    Ad think b "Arriva un certo punto in cui semplicemente non puoi più esibirti come una volta." # "a certain point [in time]", "can't perform [as well] anymore"
+    Ad think b "Arriva un certo punto in cui semplicemente non puoi più esibirti come una volta." # "a certain point [in time]"; "can't perform [as well] anymore"
 
 # game/adine4.rpy:227
 translate italiantl _call_skipcheck_30_96b912cb:
@@ -1018,7 +1018,7 @@ translate italiantl _call_skipcheck_30_259c38e8:
 translate italiantl _call_skipcheck_30_607a0b5c:
 
     # Ad think b "Yeah, but people speculate, trying to find explanations for those old myths. Maybe, there were more humans around, and they just died. Or their creation rebelled and killed them. Others say they fled across the ocean. We just don't know."
-    Ad think b "Sì, ma la gente specula, cercando una spiegazione per quei vecchi miti. Forse, ci sono stati altri umani, e sono semplicemente morti. O la loro creazione si è ribellata e li ha uccisi. Altri dicono che siano fuggiti oltreoceano. Semplicemente non lo sappiamo."
+    Ad think b "Sì, ma la gente specula, cercando una spiegazione per quei vecchi miti. Forse, ci sono stati altri umani, e sono semplicemente morti. O la loro creazione si è ribellata e li ha uccisi. Altri dicono che siano fuggiti oltreoceano. Semplicemente non lo sappiamo." # slightly pruned to fit three lines
 
 # game/adine4.rpy:499
 translate italiantl _call_skipcheck_30_1c7d5fe8:

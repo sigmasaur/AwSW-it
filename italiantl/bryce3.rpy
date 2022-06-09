@@ -52,7 +52,7 @@ translate italiantl _call_skipcheck_26_b50ff404:
 translate italiantl _call_skipcheck_26_f0dffd63:
 
     # Br normal "Oh, you are. It's just that everyone always gets so excited about this that they come a little earlier."
-    Br normal "Oh, lo sei. È solo che si entusiasmano tutti così tanto per questo che arrivano sempre un po' prima." # "[always] get so excited", "ALWAYS come a little earlier"
+    Br normal "Oh, lo sei. È solo che si entusiasmano tutti così tanto per questo che arrivano sempre un po' prima." # "[always] get so excited"; "ALWAYS come a little earlier"
 
 # game/bryce3.rpy:117
 translate italiantl _call_skipcheck_26_94a3cc11:
@@ -112,7 +112,7 @@ translate italiantl _call_skipcheck_26_21796c83:
 translate italiantl _call_skipcheck_26_9a4a94cc:
 
     # Br brow "Besides, if I invited you and not him, I'm not sure how he would've reacted. He's always come to my BBQs before. Plus, maybe if I talk to him, I can find out what he's up to."
-    Br brow "E poi, se avessi invitato te e non lui, non so bene come avrebbe reagito. È sempre venuto alle mie grigliate in passato. In più, magari se gli parlo, posso scoprire cosa combina." # see also line 513 of Bryce 1
+    Br brow "E poi, se avessi invitato te e non lui, non so bene come avrebbe reagito. È sempre venuto alle mie grigliate in passato. In più, magari se gli parlo, posso scoprire cosa combina." # see line 513 of Bryce 2
 
 # game/bryce3.rpy:137
 translate italiantl _call_skipcheck_26_d32deb63:
@@ -436,7 +436,7 @@ translate italiantl _call_skipcheck_26_b8f76218:
 translate italiantl _call_skipcheck_26_1be12521:
 
     # Br normal "I'm not sure if I'm feeling up for the task."
-    Br normal "Non so se me la sento di assumermi il compito." # "I'm not sure" -> "I don't know", "for TAKING ON the task"
+    Br normal "Non so se me la sento di assumermi il compito." # "I'm not sure" -> "I don't know"; "for TAKING ON the task"
 
 # game/bryce3.rpy:351
 translate italiantl _call_skipcheck_26_eef42808:
@@ -700,7 +700,7 @@ translate italiantl _call_skipcheck_26_04aa86a6:
 translate italiantl _call_skipcheck_26_426bef2c:
 
     # Br "We even got some of the algae stuff we usually bring for Naomi – one of the girls at the department - but she couldn't come tonight."
-    Br "Abbiamo persino un po' di quelle alghe che portiamo di solito per Naomi—una delle ragazze al dipartimento—ma lei non è potuta venire stasera." # corrected em-dash, also "the algae stuff" -> "that algae stuff"
+    Br "Abbiamo persino un po' di quelle alghe che portiamo di solito per Naomi—una delle ragazze al dipartimento—ma lei non è potuta venire stasera." # corrected em-dash; "the algae stuff" -> "that algae stuff"
 
 # game/bryce3.rpy:469
 translate italiantl _call_skipcheck_26_0dedc24f:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_26_628aae63:
 translate italiantl _call_skipcheck_26_b9a36056:
 
     # Br brow "Now that I think about it, maybe it was just that damn cheese that made everything so bad last time."
-    Br brow "Ora che ci penso, forse era solo quell'accidenti di formaggio che ha reso tutto così tremendo l'altra volta." # see also line 345
+    Br brow "Ora che ci penso, forse era solo quell'accidenti di formaggio che ha reso tutto così tremendo l'altra volta." # see line 345
 
 # game/bryce3.rpy:475
 translate italiantl _call_skipcheck_26_f3b546bd:
@@ -1301,7 +1301,7 @@ translate italiantl bryce3pass_0877bf2d:
 
     # c "That kinda makes me curious, though. How does dating work in this world, considering there are so many sentient species around here? Is dating between different species encouraged? Maybe that's why Emera is so interested. Is there ever any crossbreeding?"
     c "Un po' m'incuriosisce, però. Come funzionano gli appuntamenti in questo mondo, considerando che ci sono così tante specie senzienti da queste parti?"
-    c "Frequentarsi fra specie diverse è forse scoraggiato? Magari è per questo che [Em] è così interessata. Ci sono mai ibridazioni?" # split to fit three lines, also "encouraged" -> "discouraged"
+    c "Frequentarsi fra specie diverse è forse scoraggiato? Magari è per questo che [Em] è così interessata. Ci sono mai ibridazioni?" # split to fit three lines; "encouraged" -> "discouraged"
 
 # game/bryce3.rpy:751
 translate italiantl bryce3pass_f0490e1a:
@@ -1403,7 +1403,7 @@ translate italiantl bryce3pass_9e96ef3e:
 translate italiantl bryce3pass_32106b28:
 
     # Sb "Hey, I'm not getting between the beautiful thing Emera and Bryce have going on."
-    Sb "Ehi, non mi metto in mezzo alla bellissima storia che stanno avendo [Em] e [Br]."
+    Sb "Ehi, io non m'intrometto nella bellissima storia che stanno avendo [Em] e [Br]."
 
 # game/bryce3.rpy:789
 translate italiantl bryce3pass_eab18ce4:
@@ -1691,7 +1691,7 @@ translate italiantl bryce3pass_86e1e633:
 translate italiantl bryce3pass_a0cc92d6:
 
     # Sb "Well, [player_name] has hung out with Lorem a few times now."
-    Sb "Be', [player_name] si è vistə con [Lo] diverse volte ormai." # see line 793, see also line 2622 of chapter 4
+    Sb "Be', [player_name] si è vistə con [Lo] diverse volte ormai." # see line 793, line 2622 of chapter 4
 
 # game/bryce3.rpy:943
 translate italiantl bryce3pass_5d357fce:
@@ -1973,7 +1973,7 @@ translate italiantl bryce3pass_3070bc42:
 translate italiantl bryce3pass_929b98a2:
 
     # Br "Well, they all live in the vicinity, but your apartment is on the other side of town. I'm not letting you go home alone at this hour. Reza has always operated during the night, and he may just be waiting for an opportunity like this."
-    Br "Be', loro vivono tutti nelle vicinanze, ma il tuo appartamento è dall'altra parte della città. Non ti lascerò andare a casa da solə a quest'ora. [Rz] ha sempre agito durante la notte, e potrebbe stare solo aspettando un'occasione come questa." # see also line 1207 of chapter 4
+    Br "Be', loro vivono tutti nelle vicinanze, ma il tuo appartamento è dall'altra parte della città. Non ti lascerò andare a casa da solə a quest'ora. [Rz] ha sempre agito durante la notte, e potrebbe stare solo aspettando un'occasione come questa." # see line 1207 of chapter 4
 
 # game/bryce3.rpy:1071
 translate italiantl bryce3pass_6f947559:
@@ -2111,13 +2111,13 @@ translate italiantl bryce3pass_40aa9350:
 translate italiantl bryce3pass_3b2582ce:
 
     # n "Maybe that was my mistake. When I was in one of the remote corners, the ground suddenly gave way and I fell about 5 metres into the cave below."
-    n "Forse fu quello il mio sbaglio. Quando fui in uno degli angoli più lontani, all'improvviso il terreno cedette e caddi per quasi cinque metri in una grotta più sotto." # "5" -> "five" for elegance, also "into the cave below" -> "into a cave below"
+    n "Forse fu quello il mio sbaglio. Quando fui in uno degli angoli più lontani, all'improvviso il terreno cedette e caddi per quasi cinque metri in una grotta più sotto." # "5" -> "five" for elegance; "into the cave below" -> "into a cave below"
 
 # game/bryce3.rpy:1146
 translate italiantl bryce3pass_b477ced8:
 
     # n "Luckily, I didn't get any serious injuries from the fall, but as I looked for another exit, an ominous realization set in: This cave had no entry or exit except the one I came in."
-    n "Fortunatamente, non riportai gravi ferite dalla caduta, ma mentre cercavo un'altra uscita, mi assalì un ferale sospetto: che quella grotta non avesse entrata, né uscita eccetto quella da cui ero venuto." # corrected lowercase letter, also "set in" ~ "kicked in"
+    n "Fortunatamente, non riportai gravi ferite dalla caduta, ma mentre cercavo un'altra uscita, mi assalì un ferale sospetto: che quella grotta non avesse entrata, né uscita eccetto quella da cui ero venuto." # corrected lowercase letter; "set in" ~ "kicked in"
 
 # game/bryce3.rpy:1148
 translate italiantl bryce3pass_525bcad9:
@@ -2141,7 +2141,7 @@ translate italiantl bryce3pass_2b055a8c:
 translate italiantl bryce3pass_e40695a5:
 
     # n "Even so, I still got about halfway before I lost my grip and fell down again, cutting my muzzle on the edge of a rock in the process."
-    n "Nondimeno, ero arrivato all'incirca a metà strada prima di perdere la presa e cadere di nuovo, nel mentre tagliandomi il muso sul bordo di una roccia." # "even so" -> "nonetheless", "I [still] got about halfway"
+    n "Nondimeno, ero arrivato all'incirca a metà strada prima di perdere la presa e cadere di nuovo, nel mentre tagliandomi il muso sul bordo di una roccia." # "even so" -> "nonetheless"; "I [still] got about halfway"
 
 # game/bryce3.rpy:1158
 translate italiantl bryce3pass_f382e733:
