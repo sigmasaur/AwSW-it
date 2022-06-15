@@ -1305,7 +1305,7 @@ translate italiantl bryce2cont2_ed78f42a:
 translate italiantl bryce2cont2_164832a6:
 
     # c "That would be an unusual friendship. Let's just say that displaying that area would usually imply more."
-    c "Sarebbe un'amicizia insolita. Diciamo solo che esibire quell'area di solito implica qualcosa di più." # "would usually imply more" -> "usually implies SOMETHING more"
+    c "Sarebbe un'amicizia insolita. Diciamo solo che esibire quell'area di solito suggerisce qualcosa di più." # "would usually imply more" -> "usually implies SOMETHING more"
 
 # game/bryce2.rpy:966
 translate italiantl bryce2cont2_e9d761e3:

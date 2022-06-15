@@ -38,6 +38,8 @@ Currently working on `Lorem`'s sections. Files done and up for review:
     bryce4.rpy
     bryce5.rpy
 
+    lorem1.rpy
+
 ### A few remarks
 
 * Having considered the developer's opinion, and given the precedent of game *Neo Cab*, I decided to use [Inclusive Italian][1] to help address the player character with a neutral gender. I took the liberty of updating the fonts with `ə` and `ɜ`, needed for such neutral gender, as well as with accented vowels, which were needed anyway.<br>
@@ -136,10 +138,11 @@ The following are mostly to the benefit of the developer and translators.
 * At line 2144: *inch* → *centimeter*, as Italians prefer the metric system and the resulting expression reads better.
 * At line 2312: *pocket* → *pockets*, to match numerous lines throughout the script.
 * At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of [`chapter1.rpy`](#chapter1rpy).
+* At line 2739-2751: Note that these lines also trigger if `Lorem` already mentioned making some pictures of the player character both in [`lorem1.rpy`](#lorem1rpy) and by message. Affected sequences: play [`lorem1.rpy`](#lorem1rpy) after [`chapter2.rpy`](#chapter2rpy) and put `Lorem` in a `good` mood.
 * At line 3054: Consider changing ellipsis with simple dash.
 * At line 3098: Slightly pruned to fit fewer lines.
 * At line 3751: Adapted to preserve a pun; reverse translation: *I'm stunned.*
-* At line 3862-3866: Note that these lines also trigger if `Zhong` already addressed the player character by name in [`bryce1.rpy`](#bryce1rpy), where they may speak the same dialogue. Affected sequences: play [`bryce1.rpy`](#bryce1rpy) and [`chapter2.rpy`](#chapter2rpy) in either order; ask `Zhong` about him knowing the player character's name in [`bryce1.rpy`](#bryce1rpy) and optionally leave at lines 694, 1176, don't visit the grocery store in [`chapter2.rpy`](#chapter2rpy).
+* At line 3862-3866: Note that these lines also trigger if `Zhong` already addressed the player character by name in [`bryce1.rpy`](#bryce1rpy), where they may speak the same dialogue. Affected sequences: play [`bryce1.rpy`](#bryce1rpy) and [`chapter2.rpy`](#chapter2rpy) in either order; ask `Zhong` about him knowing the player character's name in [`bryce1.rpy`](#bryce1rpy) and leave at lines 694, 1176 or play through, don't visit the grocery store in [`chapter2.rpy`](#chapter2rpy).
 * At line 4046-4064: Note that the larger, orange dragon should be a female, as mentioned by `Zhong` at line 3907; the current translation doesn't use this information, nonetheless.
 
 ### [`chapter4.rpy`](italiantl/chapter4.rpy)
@@ -207,7 +210,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 257, 264: Consider renaming variable from `mp.time` to `mp.tan`, although it's never used.
 * At line 405, 407, 417, 419: Rendered *leg*(*s*) as *paw*(*s*).
 * At line 771: Kept the English name for *Freefall*, for coherence with the other names.
-* At line 883: Enclosed *hawk* with italics tags.
+* At line 883: Enclosed *hawk* in italics tags.
 * At line 1035: Split in multiple parts to fit fewer lines.
 
 ### [`adine4.rpy`](italiantl/adine4.rpy)
@@ -284,7 +287,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`anna5.rpy`](italiantl/anna5.rpy)
 
-* At line 87: see line 83 of [`adine5.rpy`](#adine5rpy).
+* At line 87: See line 83 of [`adine5.rpy`](#adine5rpy).
 * At line 341, 343, 435, 710, 859: Corrected simple dash to em-dash.
 * At line 415: Corrected uppercase letter to lowercase after colon.
 * At line 439: Slightly pruned to fit fewer lines.
@@ -353,13 +356,20 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`bryce5.rpy`](italiantl/bryce5.rpy)
 
-* At line 121: see line 83 of [`adine5.rpy`](#adine5rpy).
-* At line 194: see line 347 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
+* At line 121: See line 83 of [`adine5.rpy`](#adine5rpy).
+* At line 194: See line 347 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
 * At line 204: Note that this line also triggers if the player character didn't go in first at `Reza`'s hideout. Affected sequences: see `Bryce`'s good ending, suggest that `Bryce` go in first in [`chapter4.rpy`](#chapter4rpy).
 * At line 513: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
 * At line 753: Corrected uppercase letter to lowercase after colon.
 * At line 1149, 1315, 1373: Corrected simple dash to em-dash.
 * At line 1309, 1343: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
+
+### [`lorem1.rpy`](italiantl/lorem1.rpy)
+
+* At line 228, 366, 439, 651, 653, 657, 687: Assumed plural of modesty.
+* At line 228, 493, 659: Corrected simple dash to em-dash.
+* At line 447: Corrected uppercase letter to lowercase after colon.
+* At line 553: Enclosed *human* in italics tags.
 
 ## Other remarks
 

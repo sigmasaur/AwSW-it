@@ -3769,7 +3769,7 @@ translate italiantl c4hatchery_68670296:
 translate italiantl c4hatchery_6a4c87cd:
 
     # Kv ramble "No, this is just my summer job. Once the semester starts up again, I'll actually be attending to get my degree in psychology."
-    Kv ramble "No, questo è solo il mio lavoro estivo. Quando ripartirà il semestre, di fatto frequenterò anch'io per diplomarmi in psicologia." # "I'll actually be attending TOO"
+    Kv ramble "No, questo è solo il mio lavoro estivo. Quando ripartirà il semestre, di fatto frequenterò anch'io per laurearmi in psicologia." # "I'll actually be attending TOO"
 
 # game/chapter4.rpy:3161
 translate italiantl c4hatchery_bf12a3b2:
@@ -4741,7 +4741,7 @@ translate italiantl c4postsections_dfeb653d:
 translate italiantl c4postsections_999306e1:
 
     # Sb "Alright, then. I'll see you next time."
-    Sb "D'accordo, allora. Ci vediamo alla prossima."
+    Sb "D'accordo, allora. Ci vediamo la prossima volta."
 
 # game/chapter4.rpy:4114
 translate italiantl c4postsections_a4c90328:

@@ -2013,13 +2013,13 @@ translate italiantl _call_syscheck_6_aa49c3cb:
 translate italiantl _call_syscheck_6_53d64cd9:
 
     # Lo think b flip "Huh, I think I lost it."
-    Lo think b flip "Huh, credo di averlo perso."
+    Lo think b flip "Huh, credo di averla persa."
 
 # game/chapter1.rpy:2039
 translate italiantl _call_syscheck_6_76f36185:
 
     # Lo happy b flip "Anyway, I wanted to show you some pictures of what people think humans look like. On some of them, they have like four heads and look nothing like you. It's crazy!"
-    Lo happy b flip "Ad ogni modo, volevo mostrarti alcune immagini di come la gente pensa che gli umani siano fatti. In alcune di queste, hanno tipo quattro teste e non ti somigliano affatto. È pazzesco!"
+    Lo happy b flip "Ad ogni modo, volevo mostrarti alcune immagini di come la gente pensa che siano gli umani. In alcune di queste, hanno tipo quattro teste e non ti somigliano affatto. È pazzesco!"
 
 # game/chapter1.rpy:2041
 translate italiantl _call_syscheck_6_0ce0d2c1:

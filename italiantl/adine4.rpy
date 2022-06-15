@@ -184,7 +184,7 @@ translate italiantl _call_skipcheck_30_579bbff4:
 translate italiantl _call_skipcheck_30_a8366068:
 
     # Ad think b "Besides, they'd certainly stare and start asking all kinds of questions."
-    Ad think b "E poi, non farebbero che fissarti e inizierebbero a farti ogni genere di domanda." # "certainly" -> "only"
+    Ad think b "E poi, non farebbero che fissarti e inizierebbero a farti ogni genere di domande." # "certainly" -> "only"
 
 # game/adine4.rpy:179
 translate italiantl _call_skipcheck_30_9bc9068c:

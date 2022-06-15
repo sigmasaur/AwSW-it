@@ -1510,7 +1510,7 @@ translate italiantl _call_skipcheck_18_904c6800:
 translate italiantl _call_skipcheck_18_c7bf314e:
 
     # An face "Okay. Anything else you want to know?"
-    An face "Okay. Altro che vuoi sapere?"
+    An face "Okay. Nient'altro che vuoi sapere?"
 
 # game/anna4.rpy:788
 translate italiantl _call_skipcheck_18_4ddd52e1:

@@ -1249,7 +1249,7 @@ translate italiantl chapter2sections2_9196ef07:
 translate italiantl chapter2sections2_53e1b848:
 
     # n "As for \"Tatsu\"... The only related thing I could think of was Tatsu Park, which I had come across when I went to the police station the other day."
-    n "Quanto a \"Tatsu\"... L'unica relazione che mi venisse in mente era con Tatsu Park, nel quale mi ero imbattutə quand'ero andatə alla stazione di polizia l'altro giorno."
+    n "Quanto a \"Tatsu\"... L'unica relazione che mi venisse in mente era con Tatsu Park, nel quale mi ero imbattutə quando ero andatə alla stazione di polizia l'altro giorno."
 
 # game/chapter2.rpy:1168
 translate italiantl chapter2sections2_1fd7deb2:
@@ -2109,7 +2109,7 @@ translate italiantl chap2facility_3e235e4f:
 translate italiantl chap2facility_78e507f9:
 
     # c "I imagine a lot of it has to do with those human myths you have."
-    c "Immagino che gran parte di questo abbia a che vedere con quei vostri miti sugli umani."
+    c "Immagino che molto abbia a che vedere con quei vostri miti sugli umani."
 
 # game/chapter2.rpy:1830
 translate italiantl chap2facility_122f0543:

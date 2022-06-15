@@ -1736,7 +1736,7 @@ translate italiantl strings:
 
     # anna1.rpy:170
     old "What was that all about?"
-    new "Cos'era quella storia?"
+    new "Cos'era tutta quella storia?"
 
     # anna1.rpy:170
     old "Hey, Anna."

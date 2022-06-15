@@ -1868,7 +1868,7 @@ translate italiantl strings:
 
     # adine1.rpy:320
     old "Sure, go ahead."
-    new "Certo, va' avanti."
+    new "Sicuro, va' avanti."
 
     # adine1.rpy:320
     old "No."

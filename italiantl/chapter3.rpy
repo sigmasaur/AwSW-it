@@ -3688,7 +3688,7 @@ translate italiantl c3fac_c48dc32f:
 translate italiantl c3fac_d2f94974:
 
     # Lo shy "By the way, are you still up to have those pictures made of you? I left you a message a while ago and haven't heard from you since."
-    Lo shy "Ad ogni modo, ti andrebbe ancora di farti prendere quelle immagini di te? Ti avevo lasciato un messaggio tempo fa ma non ho più avuto tue notizie."
+    Lo shy "Ad ogni modo, ti andrebbe ancora di farti fare quelle immagini di te? Ti avevo lasciato un messaggio tempo fa ma non ho più avuto tue notizie." # see line 4388 of chapter 2
 
 # game/chapter3.rpy:2647
 translate italiantl c3fac_32c701f6:
@@ -3898,7 +3898,7 @@ translate italiantl c3fac_0f173ebb:
 translate italiantl c3fac_b50b6d53:
 
     # Lo happy "I'd like to make some pictures of you."
-    Lo happy "Mi piacerebbe prendere delle immagini di te."
+    Lo happy "Mi piacerebbe fare alcune immagini di te." # see line 2639
 
 # game/chapter3.rpy:2745
 translate italiantl c3fac_4b489c83:
@@ -4980,7 +4980,7 @@ translate italiantl c3arcques_fd582abe:
 translate italiantl c3arcques_3623e085:
 
     # n "Ultimately, they had a hand in influencing every area of life on a global scale. It was unknown who was truly calling the shots, as their network of companies and names was vast."
-    n "In definitiva, avevano le mani in pasta in ogni ambito della vita su scala globale. Non era chiaro chi fosse davvero a condurre il gioco, data la vastità della loro rete di compagnie e prestanomi."
+    n "In definitiva, avevano le mani in pasta in ogni àmbito della vita su scala globale. Non era chiaro chi fosse davvero a condurre il gioco, data la vastità della loro rete di compagnie e prestanomi."
 
 # game/chapter3.rpy:3534
 translate italiantl c3arcques_c4ee8218:

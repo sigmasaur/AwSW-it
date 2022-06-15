@@ -1564,7 +1564,7 @@ translate italiantl _call_syscheck_45_78ea5755:
 translate italiantl _call_syscheck_45_94e2bf27:
 
     # Ad "Now this is peculiar. I feel like I've heard the word hawk before, but I'm not sure what it means." # stormhawk was another contest winner from our naming contest
-    Ad "Questo sì che è bizzarro. Ho l'impressione di aver già sentito la parola {i}hawk{/i} prima d'ora, ma non sono certa del significato."
+    Ad "Questo sì che è bizzarro. Ho l'impressione di aver già sentito la parola {i}hawk{/i} prima d'ora, ma non sono certa del significato." # enclosed "hawk" in italic tags
 
 # game/adine3.rpy:885
 translate italiantl _call_syscheck_45_facae0d5:
@@ -2429,7 +2429,7 @@ translate italiantl adine3skip_fafa9709:
 translate italiantl adine3skip_51404203:
 
     # c "I guess I'll leave you to recuperate now, and maybe I'll see you next time."
-    c "Immagino che ti lascerò ristabilirti adesso, e magari ci rivediamo alla prossima."
+    c "Immagino che ti lascerò ristabilirti adesso, e magari ci vediamo la prossima volta."
 
 # game/adine3.rpy:1318
 translate italiantl adine3skip_1a040acb:
@@ -2477,7 +2477,7 @@ translate italiantl adine3skip_993ba4d9:
 translate italiantl adine3skip_e6d9aa1c:
 
     # Ad "I'll see you next time, then."
-    Ad "Ci vediamo alla prossima, allora."
+    Ad "Ci vediamo la prossima volta, allora."
 
 # game/adine3.rpy:1364
 translate italiantl adine3skip_a4c90328:
