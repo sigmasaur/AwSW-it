@@ -262,7 +262,7 @@ translate italiantl evilending_58a57c8b:
 translate italiantl evilending_d13e9f16:
 
     # m "After activating the controls, I took my place, ready to return to humanity as a hero."
-    m "Dopo aver attivato i controlli, vi presi posto, prontə a fare ritorno all'umanità come un eroə."
+    m "Dopo aver attivato i controlli, vi presi posto, prontə a fare ritorno all'umanità come un eroə." # "I took my place IN IT"
 
 # game/chapter5evilending.rpy:145
 translate italiantl evilending_3cc2cda2:
@@ -454,7 +454,7 @@ translate italiantl no_f6c1a298:
 translate italiantl no_46ca0c65:
 
     # Rz annoyed "When was there ever anything resembling these ... creatures on Earth? It's not hard to make the jump from dragons to dinosaurs when some of them here look pretty damn near identical to dinosaurs we knew about."
-    Rz annoyed "Quand'è mai esistito qualcosa che somigliasse a queste... creature sulla Terra? Non è difficile colmare il divario fra draghi e dinosauri quando alcuni di loro qui sono così maledettamente simili ai dinosauri che conosciamo." # "near identical" -> "similar"; "knew" -> "know"
+    Rz annoyed "Quand'è mai esistito qualcosa che assomigliasse a queste... creature sulla Terra? Non è difficile colmare il divario fra draghi e dinosauri quando alcuni di loro qui sono così dannatamente simili ai dinosauri che conosciamo." # "near identical" -> "similar"; "knew" -> "know"
 
 # game/chapter5evilending.rpy:467
 translate italiantl no_9ae497ad:

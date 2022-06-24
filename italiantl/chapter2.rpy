@@ -118,7 +118,7 @@ translate italiantl _call_skipcheck_11_de08b67a:
 translate italiantl _call_skipcheck_11_7b28e1dc:
 
     # Br "Anyway, how about I invite you to make up for the whole thing?"
-    Br "Ad ogni modo, che ne diresti se t'invitassi per farmi perdonare della cosa?"
+    Br "Ad ogni modo, che ne diresti se ti invitassi per farmi perdonare della cosa?"
 
 # game/chapter2.rpy:333
 translate italiantl _call_skipcheck_11_409ecbdd:
@@ -2223,7 +2223,7 @@ translate italiantl chap2facques_6f58f482:
 translate italiantl chap2facques_57b6f3f4:
 
     # Dm arrogant "Nothing special, unless you care a lot about genetics. And we're not talking about the basics here, but the deep stuff."
-    Dm arrogant "Niente di speciale, a meno che non ti interessi parecchio di genetica. E non parliamo delle basi qui, ma di roba seria."
+    Dm arrogant "Niente di speciale, a meno che non ti interessi parecchio di genetica. E non parliamo delle basi, ma di roba seria."
 
 # game/chapter2.rpy:1942
 translate italiantl chap2facques_4a91bb19:
@@ -2799,7 +2799,7 @@ translate italiantl _call_syscheck_52_d57a7dc7:
 translate italiantl _call_syscheck_52_44e8dccf:
 
     # c "(Might as well take it with me.)"
-    c "(Tanto vale che lo porti via con me.)"
+    c "(Tanto vale che lo prenda con me.)"
 
 # game/chapter2.rpy:2419
 translate italiantl _call_syscheck_53_803f0293:
@@ -2823,7 +2823,7 @@ translate italiantl _call_syscheck_53_4c490094:
 translate italiantl _call_syscheck_53_fd263fbb:
 
     # c "(Not sure what it is, but I'll take it with me, just in case.)"
-    c "(Non so bene cosa sia, ma lo porterò via con me, non si sa mai.)"
+    c "(Non so bene cosa sia, ma lo prenderò con me, non si sa mai.)"
 
 # game/chapter2.rpy:2447
 translate italiantl _call_syscheck_54_49f197d1:

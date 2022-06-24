@@ -664,7 +664,7 @@ translate italiantl _call_skipcheck_26_7d206358:
 translate italiantl _call_skipcheck_26_b49c5e0f:
 
     # m "Sebastian went up to the small bed of stones they had prepared. Since his back was turned towards me, I couldn't exactly see what he did, but a few seconds later, a fire started burning among the stones."
-    m "[Sb] andò al piccolo letto di pietre che avevano approntato. Dato che la sua schiena era rivolta verso di me, non potei vedere esattamente quello che fece, ma qualche secondo più tardi, un fuoco prese a bruciare fra le pietre."
+    m "[Sb] andò al piccolo letto di pietre che avevano approntato. Dal momento che aveva la schiena rivolta verso di me, non potei vedere esattamente quello che fece, ma qualche secondo più tardi, un fuoco prese a bruciare fra le pietre."
 
 # game/bryce3.rpy:448
 translate italiantl _call_skipcheck_26_933d0018:
@@ -1613,7 +1613,7 @@ translate italiantl bryce3pass_d6de999b:
 translate italiantl bryce3pass_1ebe4f54:
 
     # Zh "That could be for a number of reasons."
-    Zh "Potrebbe essere per un numero di ragioni."
+    Zh "Potrebbe essere per una serie di ragioni."
 
 # game/bryce3.rpy:901
 translate italiantl bryce3pass_f6b22ded:
@@ -2105,7 +2105,7 @@ translate italiantl bryce3pass_26a7647c:
 translate italiantl bryce3pass_40aa9350:
 
     # n "Plus, since I was alone, I could take the time to explore every last nook and cranny that I wanted to."
-    n "In più, siccome ero da solo, potevo prendermi il tempo di esplorare fino all'ultimo recesso che volevo."
+    n "In più, dato che ero da solo, potevo prendermi il tempo di esplorare fino all'ultimo recesso che volevo."
 
 # game/bryce3.rpy:1144
 translate italiantl bryce3pass_3b2582ce:

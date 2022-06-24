@@ -921,7 +921,7 @@ translate italiantl _call_syscheck_32_71566561:
 translate italiantl _call_syscheck_32_04c4eff5:
 
     # m "Curiosity got the best of me and I found myself staring at the first double page, which profiled their {i}Athlete of the Month{/i}. It was accompanied by a range of pictures showing off the athlete's body from different angles in a number of poses."
-    m "La mia curiosità ebbe la meglio e mi ritrovai a fissare il primo paginone, il quale profilava i loro {i}Atleti del Mese{/i}. Era accompagnato da una serie di immagini che mettevano in mostra il corpo degli atleti da angoli diversi e in un numero di pose."
+    m "La mia curiosità ebbe la meglio e mi ritrovai a fissare il primo paginone, il quale profilava il loro {i}Atleta del Mese{/i}. Era accompagnato da una gamma di immagini che mettevano in mostra il corpo dell'atleta da angoli diversi e in una serie di pose." # "AND in a number of poses"
 
 # game/bryce2.rpy:741
 translate italiantl _call_syscheck_33_fc079ab9:
@@ -1161,7 +1161,7 @@ translate italiantl bryce2cont2_8ff0b4c3:
 translate italiantl bryce2cont2_43ae2aa2:
 
     # Br laugh "Speaking of which, it's kinda funny just how upright you are when you move."
-    Br laugh "A proposito, è piuttosto buffo come te ne stai drittə quando ti muovi." # "you" as in "the player character"
+    Br laugh "A proposito, è piuttosto buffo come te ne stai impettitə quando ti muovi." # "you" as in "the player character"
 
 # game/bryce2.rpy:880
 translate italiantl bryce2cont2_7ae35722:

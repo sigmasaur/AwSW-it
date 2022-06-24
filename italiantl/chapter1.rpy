@@ -650,7 +650,7 @@ translate italiantl holetravel_7ce680cd:
 translate italiantl holetravel_0066f440:
 
     # n "I could see movement outside, and as I drew nearer, startled, I could hear footsteps in the grass, moving away quickly. Assuming it must have been the dragon I just met, I thought nothing of it as I went to bed and slowly succumbed to the sweet allure of sleep overdue."
-    n "Potei scorgere del movimento all'esterno, e nell'avvicinarmi, allarmatə, riuscii a sentire il rumore di passi nell'erba allontanarsi velocemente. Presumendo che fossero del drago che avevo appena incontrato, non vi diedi peso mentre andavo a dormire e lentamente soccombevo al dolce richiamo del sonno arretrato."
+    n "Potei scorgere del movimento all'esterno, e nell'avvicinarmi, allarmatə, riuscii a sentire dei passi nell'erba allontanarsi rapidamente. Presumendo fossero del drago che avevo appena incontrato, non vi diedi peso mentre andavo a dormire e lentamente soccombevo al dolce richiamo del sonno arretrato." # "it must have been" -> "they had been from" where "they" as in "the footsteps"
 
 # game/chapter1.rpy:733
 translate italiantl holetravel_344cc935:
@@ -2007,7 +2007,7 @@ translate italiantl _call_syscheck_6_d1179078:
 translate italiantl _call_syscheck_6_aa49c3cb:
 
     # m "The small dragon opened his bag, rummaging through a number of letters and small packages."
-    m "Il piccolo drago aprì la sua borsa, rovistando fra un numero di lettere e pacchettini."
+    m "Il piccolo drago aprì la sua borsa, rovistando fra una serie di lettere e pacchettini."
 
 # game/chapter1.rpy:2037
 translate italiantl _call_syscheck_6_53d64cd9:
@@ -4493,7 +4493,7 @@ translate italiantl _call_syscheck_13_cf1f1ec2:
 translate italiantl _call_syscheck_13_35cc0675:
 
     # c "You know, whatever it was Reza was talking about, he was going to tell me just before you showed up yesterday."
-    c "Lo sai, di qualunque cosa stesse parlando [Rz], stava per dirmela appena prima che tu ti presentassi ieri."
+    c "Lo sai, di qualunque cosa stesse parlando [Rz], stava per dirmela appena prima che ti presentassi ieri."
 
 # game/chapter1.rpy:3747
 translate italiantl _call_syscheck_13_d6e3dd96:

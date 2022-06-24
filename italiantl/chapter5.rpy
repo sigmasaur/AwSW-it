@@ -46,7 +46,7 @@ translate italiantl aloneendings_04daa7ff:
 translate italiantl aloneendings_e507d2af:
 
     # m "Soon, the total stillness was broken with the sound of the first rocket ascending, its explosion painting a circular pattern in the sky."
-    m "Ben presto, l'assoluta quiete fu spezzata dal fragore del primo razzo che ascendeva, la sua esplosione che dipinse una fantasia circolare nel cielo."
+    m "Ben presto, l'assoluta quiete fu spezzata dal suono del primo razzo che ascendeva, la sua esplosione che dipinse una fantasia circolare nel cielo."
 
 # game/chapter5.rpy:522
 translate italiantl aloneendings_6f06eb98:

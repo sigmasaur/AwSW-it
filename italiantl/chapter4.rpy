@@ -3595,7 +3595,7 @@ translate italiantl c4library_5eb39e2c:
 translate italiantl c4library_de251424:
 
     # Sb "Well, do you have any proof of this bullying you speak of? Do you know how long it was going on or how extensive it was?"
-    Sb "Be', hai qualche prova di questi maltrattamenti di cui parli? Sai da quanto la cosa andasse avanti o quanto frequente fosse?"
+    Sb "Be', hai qualche prova di questi maltrattamenti di cui parli? Sai da quanto la cosa andasse avanti o quanto frequente fosse?" # "extensive" -> "frequent"
 
 # game/chapter4.rpy:3073
 translate italiantl c4library_89c2bed2:
@@ -3685,7 +3685,7 @@ translate italiantl c4hatchery_1472f888:
 translate italiantl c4hatchery_09839951:
 
     # m "I turned around to see an unfamiliar face before me."
-    m "Mi voltai e mi vidi innanzi un volto che non riconoscevo."
+    m "Mi voltai e vidi dinnanzi a me un volto che non riconoscevo."
 
 # game/chapter4.rpy:3133
 translate italiantl c4hatchery_5f20fb4d:
@@ -4045,7 +4045,7 @@ translate italiantl _call_syscheck_78_f5e779f8:
 translate italiantl _call_syscheck_78_4d4a0b95:
 
     # Ad think b "By the way, I haven't seen you for a while, and you didn't call me back, either..."
-    Ad think b "Ad ogni modo, è un po' che non ti vedo, e non mi hai neanche richiamato..."
+    Ad think b "Ad ogni modo, è da un po' che non ti vedo, e nemmeno mi hai richiamato..."
 
 # game/chapter4.rpy:3341
 translate italiantl _call_syscheck_78_ce6701aa:
@@ -5293,7 +5293,7 @@ translate italiantl _call_skipcheck_21_a06d7c03:
 translate italiantl _call_skipcheck_21_3a134373:
 
     # n "As I didn't have any animal samples sent with me when I initially arrived, I collected them from the sources available to me."
-    n "Siccome non mi ero fatto inviare con me alcun campione animale al mio primo arrivo, li raccolsi dalle fonti a me accessibili."
+    n "Poiché non mi ero fatto inviare alcun campione animale al mio primo arrivo, li raccolsi dalle fonti a me accessibili." # "with me" ~ "to me"
 
 # game/chapter4.rpy:4418
 translate italiantl _call_skipcheck_21_dbdf94ed:
@@ -5305,7 +5305,7 @@ translate italiantl _call_skipcheck_21_dbdf94ed:
 translate italiantl _call_skipcheck_21_02f15d54:
 
     # n "The result was a number of different species, each tailored and optimized to fill a specific role in a war situation."
-    n "Il risultato fu un numero di specie diverse, ciascuna studiata e ottimizzata a ricoprire uno specifico ruolo in una situazione di guerra."
+    n "Il risultato fu una serie di specie diverse, ciascuna studiata e ottimizzata a ricoprire uno specifico ruolo in una situazione di guerra."
 
 # game/chapter4.rpy:4422
 translate italiantl _call_skipcheck_21_ca4f20c4:

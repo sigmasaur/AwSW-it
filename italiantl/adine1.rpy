@@ -1702,7 +1702,7 @@ translate italiantl _call_syscheck_48_244ffce1:
 translate italiantl _call_syscheck_48_a475c68f:
 
     # Ad "Or maybe I'll get your number instead. Since you ordered from us, I already have it anyway."
-    Ad "O magari potresti darmi il tuo numero, invece. Dato che hai ordinato da noi, ce l'ho già comunque." # "I'll get" -> "you could give me"
+    Ad "O magari potresti darmi il tuo numero invece. Dato che hai ordinato da noi, ce l'ho già comunque." # "I'll get" -> "you could give me"
 
 # game/adine1.rpy:1277
 translate italiantl _call_syscheck_48_405efdd0:
@@ -2072,7 +2072,7 @@ translate italiantl strings:
 
     # adine1.rpy:863
     old "I agree with you there."
-    new "Sono d'accordo con te."
+    new "Su questo sono d'accordo."
 
     # adine1.rpy:863
     old "I'm not sure I'd agree with that."

@@ -882,7 +882,7 @@ translate italiantl _call_syscheck_41_76e9ea22:
 translate italiantl _call_syscheck_41_60dca1b0:
 
     # n "Guess he could play it without me in the future."
-    n "Voleva dire che ci avrebbe giocato senza di me in futuro." # "could" -> "would"
+    n "Voleva dire che ci avrebbe giocato senza di me in futuro." # "could play" -> "would play"
 
 # game/bryce1.rpy:711
 translate italiantl _call_syscheck_41_76b2fe88_1:
@@ -2156,7 +2156,7 @@ translate italiantl strings:
 
     # bryce1.rpy:1109
     old "Yeah."
-    new "Sì, sto bene." # "yeah, I'M OKAY"
+    new "Direi di sì." # must match lines 204, 1245 of Lorem 2
 
     # bryce1.rpy:1109
     old "I'll mess you up if you don't get your face outta my face."

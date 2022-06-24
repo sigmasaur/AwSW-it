@@ -46,7 +46,7 @@ translate italiantl anna1_3f4546f9:
 translate italiantl anna1_5e3528a3:
 
     # An "I don't know what you are talking about."
-    An "Non so di che stai parlando."
+    An "Non so di cosa stai parlando."
 
 # game/anna1.rpy:52
 translate italiantl anna1_cc16093b:
@@ -256,7 +256,7 @@ translate italiantl _call_skipcheck_7_3501252f:
 translate italiantl _call_skipcheck_7_781a7e53:
 
     # An "It's nothing, really. Just the usual stress that comes with the job. Even right now I'm supposed to be working overtime."
-    An "Non è niente, davvero. Solo il solito stress che viene col lavoro. Persino adesso dovrei stare facendo gli straordinari." # see line 235
+    An "Non è niente, davvero. Solo il solito stress che accompagna il lavoro. Persino adesso dovrei stare facendo gli straordinari." # see line 235
 
 # game/anna1.rpy:260
 translate italiantl _call_skipcheck_7_afb05e33:
@@ -1018,13 +1018,13 @@ translate italiantl _call_skipcheck_7_95705c40_1:
 translate italiantl _call_skipcheck_7_89cbbcd7:
 
     # An "Since it was your idea, it's only fair that I start. So, how does this work?"
-    An "Dato che è stata una tua idea, è solo che giusto che sia io a iniziare. Quindi, com'è che funziona?"
+    An "Dal momento che è stata una tua idea, è solo che giusto che sia io a iniziare. Quindi, com'è che funziona?"
 
 # game/anna1.rpy:776
 translate italiantl _call_skipcheck_7_8fb95eeb:
 
     # c "It seems to be pretty simple. We take turns drawing cards and asking questions until we've both asked a number that we agree on beforehand. Whoever gets more right in the end wins."
-    c "Sembra piuttosto semplice. A turno peschiamo le carte e poniamo domande finché non ne abbiamo poste entrambɜ un numero su cui prima ci siamo accordatɜ. Chi ne azzecca di più alla fine vince."
+    c "Sembra essere piuttosto semplice. A turno peschiamo le carte e poniamo domande finché non ne abbiamo poste entrambɜ un numero su cui prima ci siamo accordatɜ. Chi ne azzecca di più alla fine vince."
 
 # game/anna1.rpy:777
 translate italiantl _call_skipcheck_7_292b41ad:
@@ -1678,7 +1678,7 @@ translate italiantl anna1skip_0eabec36:
 translate italiantl anna1skip_b7bca3d1:
 
     # An "You criticize me, but you're such a hypocrite. I can't even understand what you're saying. What's a horse?"
-    An "Tu mi critichi, ma sei unə tale ipocrita. Non riesco nemmeno a capire quello che dici. Cos'è un olimpo?"
+    An "Tu mi critichi, ma sei unə tale ipocrita. Non riesco nemmeno a capire quello che dici. Cos'è un olimpo?" # must match line 1198
 
 # game/anna1.rpy:1201
 translate italiantl anna1skip_089d2a2e:
@@ -1824,7 +1824,7 @@ translate italiantl strings:
 
     # anna1.rpy:534
     old "Not at all."
-    new "Per niente." # must also match line 3007 of chapter 4
+    new "Per niente." # must match line 3009 of chapter 4
 
     # anna1.rpy:562
     old "I was just asking a question, that's all."

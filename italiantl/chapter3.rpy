@@ -1104,7 +1104,7 @@ translate italiantl c3conty_0a0f89f3:
 translate italiantl c3conty_841f91fd:
 
     # Em "You, me and Bryce will have to face the backlash resulting from this information becoming public, and what's more, [player_name], you might be in real danger yourself."
-    Em "Tu, io e [Br] dovremmo far fronte al contraccolpo risultante dalla divulgazione di questa informazione, e per di più, [player_name], tu stessə potresti venire a trovarti in serio pericolo." # "will have to" -> "would have to"; "you might COME TO be"
+    Em "Tu, io e [Br] dovremmo far fronte al contraccolpo risultante dalla divulgazione di questa informazione, e per di più, [player_name], tu stessə potresti venire a trovarti in serio pericolo." # "will have to face" -> "would have to face"; "you might COME TO be"
 
 # game/chapter3.rpy:1266
 translate italiantl c3conty_6aa58db2:
@@ -1434,7 +1434,7 @@ translate italiantl c3conty_aa3be625:
 translate italiantl c3conty_17ff235a:
 
     # c "And now you know why this whole thing is so important to me. All our hopes lie in acquiring the generators you promised us."
-    c "E ora sapete perché quest'intera faccenda è così importante per me. Ogni nostra speranza risiede nell'acquisire i generatori che ci avete promesso."
+    c "E ora sapete perché tutta questa faccenda è così importante per me. Ogni nostra speranza risiede nell'acquisire i generatori che ci avete promesso."
 
 # game/chapter3.rpy:1452
 translate italiantl c3conty_235d6a94:
@@ -1464,7 +1464,7 @@ translate italiantl c3conty_13c7fe8b:
 translate italiantl c3conty_d6e77afb:
 
     # Br "I'm sorry, [player_name]. I didn't know."
-    Br "Mi dispiace, [player_name]. Non ne avevo idea." # "I didn't know" -> "I had no idea"
+    Br "Mi dispiace, [player_name]. Non lo sapevo."
 
 # game/chapter3.rpy:1462
 translate italiantl c3conty_e9c70e78:
@@ -2854,7 +2854,7 @@ translate italiantl c3conty_c09a99fc:
 translate italiantl c3conty_a7037060:
 
     # m "I only opened the door long enough to hand Remy the sheet of paper."
-    m "Aprii la porta solo il tempo necessario a consegnare il foglio di carta a [Ry]."
+    m "Aprii la porta solo il tempo necessario a porgere il foglio di carta a [Ry]."
 
 # game/chapter3.rpy:2090
 translate italiantl c3conty_bc8855dc:
@@ -3142,7 +3142,7 @@ translate italiantl c3conty_e3ee2a2e:
 translate italiantl c3conty_10622880:
 
     # Br stern b flip "Sebastian, can you take it from here? You've been just as dedicated to the case as I have. Since I'll have to be at the Minister's side for a while, I'd like you to take charge of the investigation for now."
-    Br stern b flip "[Sb], puoi andare avanti da solo? Ti sei dedicato al caso tanto quanto me. Dal momento che dovrò stare al fianco del Ministro per un po', vorrei che per il momento prendessi tu il comando dell'indagine."
+    Br stern b flip "[Sb], puoi andare avanti da solo? Ti sei dedicato al caso tanto quanto me. Dato che dovrò stare al fianco del Ministro per un po', vorrei che per il momento prendessi tu il comando dell'indagine."
 
 # game/chapter3.rpy:2210
 translate italiantl c3conty_3388a779:
@@ -3886,7 +3886,7 @@ translate italiantl c3fac_c48dc32f_1:
 translate italiantl c3fac_edda43e2:
 
     # Lo think "By the way, how about I invite you to our place sometime? There’s another thing you could help me with."
-    Lo think "Ad ogni modo, che ne diresti se t'invitassi da noi qualche volta? Ci sarebbe un'altra cosa con cui potresti aiutarmi."
+    Lo think "Ad ogni modo, che ne diresti se ti invitassi da noi qualche volta? Ci sarebbe un'altra cosa con cui potresti aiutarmi."
 
 # game/chapter3.rpy:2741
 translate italiantl c3fac_0f173ebb:
@@ -4564,7 +4564,7 @@ translate italiantl c3arc_91fa16a3:
 translate italiantl c3arc_a6b27b25:
 
     # c "I can see that."
-    c "Lo vedo."
+    c "Me ne sono accorto."
 
 # game/chapter3.rpy:3274
 translate italiantl c3arc_408fc55a:
@@ -4840,7 +4840,7 @@ translate italiantl nohelp_13bc3018:
 translate italiantl nohelp_fac7ad07:
 
     # Kl "You're in luck, [player_name]! Bryce compiled all the case files a while ago. Ever since you came to our world, he seems to be a lot more interested in these human mysteries. I wonder if it has something to do with you?"
-    Kl "Sei fortunatə, [player_name]! [Br] ha compilato da poco tutti i fascicoli. Da quando sei arrivatə nel nostro mondo, sembra molto più interessato a questi misteri umani. Mi chiedo se abbia qualcosa a che vedere con te?"
+    Kl "Sei fortunatə, [player_name]! [Br] ha compilato da poco tutti i fascicoli. Da quando sei arrivatə nel nostro mondo, sembra essere molto più interessato a questi misteri umani. Mi chiedo se abbia qualcosa a che vedere con te?"
 
 # game/chapter3.rpy:3445
 translate italiantl nohelp_39bb285d:
@@ -5528,7 +5528,7 @@ translate italiantl follow_a893d785:
 translate italiantl follow_e2f4eecd:
 
     # Sb "She'll be sent to the orphanage. The background check determined that she had a father, but the two hadn't seen each other in years."
-    Sb "Sarà mandata in orfanotrofio. La verifica dei trascorsi ha determinato che aveva un padre, ma che i due non si vedevano ormai da anni."
+    Sb "Sarà mandata in orfanotrofio. La verifica dei trascorsi ha determinato che aveva un padre, ma che i due non si vedevano da anni."
 
 # game/chapter3.rpy:4086
 translate italiantl follow_b1bfb125:
@@ -5702,7 +5702,7 @@ translate italiantl c3go_73925600:
 translate italiantl c3go_33fe9f85:
 
     # Sb "The statement from the store clerk is interesting. We've had few reports of Reza since he went into hiding, so this is very helpful. It's another confirmation of his involvement in this whole matter."
-    Sb "La dichiarazione del commesso del negozio è interessante. Abbiamo ricevuto poche segnalazioni di [Rz] da quando si è dato alla macchia, perciò questa è di grande aiuto. È un'altra conferma del suo coinvolgimento in quest'intera faccenda."
+    Sb "La dichiarazione del commesso del negozio è interessante. Abbiamo avuto poche segnalazioni di [Rz] da quando si è dato alla macchia, perciò questa è di grande aiuto. È un'altra conferma del suo coinvolgimento in tutta questa faccenda."
 
 # game/chapter3.rpy:4224
 translate italiantl c3go_b43daeae:

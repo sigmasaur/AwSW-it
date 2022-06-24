@@ -398,15 +398,15 @@ translate italiantl _call_skipcheck_32_7f3d656a:
 
     # An face "That's the understatement of the century. Being trapped in a small room with the likes of him for hours on end every day is a scenario born of a sick mind with the intention of making me suffer as much as possible. It certainly doesn't make my research any easier."
     if chapter3unplayed or damionsurvives:
-        An face "È l'eufemismo del secolo. Essere intrappolata in una stanzetta con uno come lui per ore e ore ogni giorno è uno scenario partorito da una mente malata con l'intento di farmi soffrire il più possibile. Di certo non rende le mie ricerche più facili."
+        An face "È l'eufemismo del secolo. Essere intrappolata in uno stanzino con uno come lui per ore e ore ogni giorno è uno scenario partorito da una mente malata con l'intento di farmi soffrire il più possibile. Di certo non rende le mie ricerche più facili."
     else:
-        An face "È l'eufemismo del secolo. Essere intrappolata in una stanzetta con uno come lui per ore e ore ogni giorno è uno scenario partorito da una mente malata con l'intento di farmi soffrire il più possibile. Di certo non rendeva le mie ricerche più facili."
+        An face "È l'eufemismo del secolo. Essere intrappolata in uno stanzino con uno come lui per ore e ore ogni giorno è uno scenario partorito da una mente malata con l'intento di farmi soffrire il più possibile. Di certo non rendeva le mie ricerche più facili."
 
 # game/anna2.rpy:387
 translate italiantl _call_skipcheck_32_fd2ad21e:
 
     # c "The stress probably doesn't help you either, and it's not worth jeopardizing your health over. Don't overwork yourself. You can't save anyone if you're dead."
-    c "Probabilmente neanche lo stress ti è d'aiuto, e non è qualcosa per cui valga la pena pregiudicare la tua salute. Non devi strapazzarti. Non puoi salvare nessuno se mi muori." # "it's not SOMETHING worth jeopardizing"
+    c "Probabilmente neanche lo stress ti è d'aiuto, e non vale la pena pregiudicare la tua salute per questo. Non devi strapazzarti. Non puoi salvare nessuno se mi muori." # "jeopardizing your health over THIS"
 
 # game/anna2.rpy:389
 translate italiantl _call_skipcheck_32_f1fcf8e7:
@@ -1972,7 +1972,7 @@ translate italiantl anna2else_205cd6ec:
 translate italiantl anna2else_5928f4c0:
 
     # c "Your attitude only proves my point, you know."
-    c "Il tuo atteggiamento non fa che darmi ragione, lo sai."
+    c "Il tuo atteggiamento non fa che darmi ragione, sai."
 
 # game/anna2.rpy:1381
 translate italiantl anna2else_0c8c960f:

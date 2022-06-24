@@ -2465,7 +2465,7 @@ translate italiantl adine3skip_9b71b613:
 translate italiantl adine3skip_8ce90212:
 
     # Ad normal b "I'll contact you later with all the details, and we can figure it out from there."
-    Ad normal b "Ti contatterò dopo con tutti i dettagli, e poi vedremo di capire come organizzarci."
+    Ad normal b "Ti contatterò più tardi con tutti i dettagli, e da lì in poi vedremo di organizzarci."
 
 # game/adine3.rpy:1360
 translate italiantl adine3skip_993ba4d9:

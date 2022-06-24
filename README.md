@@ -39,6 +39,7 @@ Currently working on `Lorem`'s sections. Files done and up for review:
     bryce5.rpy
 
     lorem1.rpy
+    lorem2.rpy
 
 ### A few remarks
 
@@ -276,6 +277,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`anna4.rpy`](italiantl/anna4.rpy)
 
+* At line 404: Assumed *you* is referred to the human race.
 * At line 435: Corrected *<s>that</s> you could cure me*.
 * At line 474: Corrected uppercase letter of *Council* to lowercase, to match numerous lines throughout the script.
 * At line 509: Assumed *you* is referred to the player character.
@@ -369,7 +371,18 @@ The following are mostly to the benefit of the developer and translators.
 * At line 228, 366, 439, 651, 653, 657, 687: Assumed plural of modesty.
 * At line 228, 493, 659: Corrected simple dash to em-dash.
 * At line 447: Corrected uppercase letter to lowercase after colon.
+* At line 456: Adapted to preserve a pun; reverse translation: *I don't have a spit weapon, unless you count spluttering.*
 * At line 553: Enclosed *human* in italics tags.
+
+### [`lorem2.rpy`](italiantl/lorem2.rpy)
+
+* At line 220, 566, 839: Corrected uppercase letter to lowercase after colon.
+* At line 246, 249, 269, 845: Rendered *legs* as *paws*.
+* At line 654, 752, 754, 801: Corrected simple dash to em-dash.
+* At line 704: Corrected two-dots ellipsis to three-dots.
+* At line 829: Note that the player character might have already met `Katsuharu` or `Kevin`, who both have hair.
+* At line 1089: Added *the <b>left</b> edge* to match line 1095, where the right edge is mentioned.
+* At line 1151: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
 
 ## Other remarks
 

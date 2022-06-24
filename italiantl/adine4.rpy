@@ -358,7 +358,7 @@ translate italiantl _call_skipcheck_30_2c805365:
 translate italiantl _call_skipcheck_30_1b32456d:
 
     # Ad "I still can hardly believe that I'm here. This is the moment I've worked so hard for."
-    Ad "Fatico ancora a credere di essere qui. Questo è il momento per cui ho lavorato così duramente."
+    Ad "Stento ancora a credere di essere qui. Questo è il momento per cui ho lavorato così duramente."
 
 # game/adine4.rpy:241
 translate italiantl _call_skipcheck_30_4962b228:
@@ -586,13 +586,13 @@ translate italiantl _call_skipcheck_30_186264ff:
 translate italiantl _call_skipcheck_30_1bee9df9:
 
     # m "Before I could reply, she angrily stomped off towards the building, where by now a number of contestants had arrived."
-    m "Prima che potessi replicare, se ne andò battendo i piedi verso l'edificio, dove era ormai arrivato un numero di partecipanti."
+    m "Prima che potessi replicare, se ne andò battendo i piedi verso l'edificio, dove era ormai arrivato un certo numero di partecipanti."
 
 # game/adine4.rpy:327
 translate italiantl _call_skipcheck_30_7930f2a2:
 
     # m "While I had failed to convince her, at least I could say that I had tried my hardest to stop her."
-    m "Sebbene non fossi riuscitə a convincerla, almeno potevo dire di aver provato con tuttə me stessə a fermarla."
+    m "Sebbene non fossi riuscitə a convincerla, almeno potevo dire di aver cercato in tutti i modi di fermarla."
 
 # game/adine4.rpy:329
 translate italiantl _call_skipcheck_30_09a2b00d:

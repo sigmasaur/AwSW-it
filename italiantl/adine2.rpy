@@ -904,7 +904,7 @@ translate italiantl adine2menb_fe3290e5:
 translate italiantl adine2menb_8bd50539:
 
     # Ad annoyed b "I just want to try it out for fun. You need to be more open-minded."
-    Ad annoyed b "Voglio solo farci una prova per divertimento. Dovresti essere di più larghe vedute." # "need to" -> "should"
+    Ad annoyed b "Voglio solo farci una prova per divertimento. Dovresti essere di più larghe vedute." # "need to be more open-minded" -> "should be more open-minded"
 
 # game/adine2.rpy:781
 translate italiantl adine2menb_f74971f2:
@@ -1174,7 +1174,7 @@ translate italiantl adine2menb_02b35a09:
 translate italiantl adine2menb_f173471c:
 
     # Ad "Crossroads are ahead of you. Be wary of your decisions, for the consequences may be dire. Careful actions may have rewarding results, but carelessness could have consequences reaching further than you might think."
-    Ad "Un bivio si trova di fronte a te. Bada alle tue decisioni, poiché gravi possono essere le conseguenze. Azioni attente possono avere risultati gratificanti, ma l'inattenzione può avere conseguenze di portata maggiore di quanto potresti credere." # "could have" -> "may have"
+    Ad "Un bivio si trova di fronte a te. Bada alle tue decisioni, poiché gravi possono essere le conseguenze. Azioni attente possono avere risultati gratificanti, ma l'inattenzione può avere conseguenze di portata maggiore di quanto potresti credere." # "could have consequences" -> "may have consequences"
 
 # game/adine2.rpy:926
 translate italiantl adine2menb_78cdb8e2:
@@ -1354,7 +1354,7 @@ translate italiantl adine2menb_f8368da4:
 translate italiantl adine2menb_9cefa3aa:
 
     # c "I agree with you there."
-    c "Sono d'accordo con te."
+    c "Su questo sono d'accordo."
 
 # game/adine2.rpy:1053
 translate italiantl adine2menb_72213e9e:
@@ -1462,7 +1462,7 @@ translate italiantl adine2menb_59ab7f92:
 translate italiantl adine2menb_0ce1db36:
 
     # Ad normal b "Alright, so you get to the destination of the second delivery, and they actually check what you're handing them. It turns out that you mixed up the orders, but you already delivered the first one."
-    Ad normal b "D'accordo, così arrivi alla destinazione della seconda consegna, e questi controllano effettivamente ciò che gli stai consegnando. E viene fuori che hai confuso gli ordini, però hai già consegnato il primo." # "they" -> "these"; "AND it turns out"
+    Ad normal b "D'accordo, così arrivi alla destinazione della seconda consegna, e questi controllano effettivamente ciò che gli stai porgendo. E viene fuori che hai confuso gli ordini, però hai già consegnato il primo." # "they" -> "these"; "AND it turns out"
 
 # game/adine2.rpy:1099
 translate italiantl adine2menb_f7af450f:

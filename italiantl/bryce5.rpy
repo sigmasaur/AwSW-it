@@ -52,7 +52,7 @@ translate italiantl bryce5_c989f8fc:
 translate italiantl bryce5_fb06a60b:
 
     # c "I'm serious. Let's just forget it and focus on today."
-    c "Sono seriə. Dimentichiamocene e concentriamoci sull'oggi." # "let's [just] forget it"
+    c "Sono seriə. Lasciamo perdere e concentriamoci sull'oggi." # "let's [just] forget it"
 
 # game/bryce5.rpy:38
 translate italiantl bryce5_467820d0:
@@ -334,7 +334,7 @@ translate italiantl bryce5_a799eff8:
 translate italiantl bryce5_119742f0:
 
     # Br stern "Then he must be close, but where is he? What is so important that he won't leave without it?"
-    Br stern "Allora lui dev'essere vicino, ma dove? Cos'è così importante senza cui non può andarsene?" # see lines 332, 344 of chapter 5 evil; "but where [is he]"; "won't" -> "can't"
+    Br stern "Allora lui dev'essere vicino, ma dove? Cos'è così importante senza cui non può andarsene?" # see lines 332, 344 of chapter 5 evil; "but where [is he]"; "won't leave" -> "can't leave"
 
 # game/bryce5.rpy:192
 translate italiantl bryce5_9fb08834:
@@ -1204,7 +1204,7 @@ translate italiantl _call_no_b60d461f:
 translate italiantl _call_no_e22b8f4d:
 
     # m "We both set to work as I stuck my head into the hole that the Administrator had crawled out of."
-    m "Ci mettemmo entrambi a lavoro mentre infilavo la testa nel buco da cui l'Amministratore aveva strisciato fuori."
+    m "Ci mettemmo entrambi al lavoro mentre infilavo la testa nel buco da cui l'Amministratore aveva strisciato fuori."
 
 # game/bryce5.rpy:1028
 translate italiantl _call_no_d1c17132:

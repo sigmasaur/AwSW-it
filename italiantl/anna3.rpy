@@ -1814,7 +1814,7 @@ translate italiantl _call_skipcheck_b9416955:
 translate italiantl _call_skipcheck_d7326f0d:
 
     # An "Oh, some of the data from the scanning machine has been processed. We can look at some pretty pictures of you."
-    An "Oh, alcuni dei dati dalla macchina di scansione sono stati processati. Potremo guardarci delle belle immagini di te."
+    An "Oh, alcuni dei dati dalla macchina di scansione sono stati processati. Potremo guardarci qualche bella immagine di te."
 
 # game/anna3.rpy:1204
 translate italiantl _call_skipcheck_26759579:
@@ -1886,7 +1886,7 @@ translate italiantl _call_skipcheck_1898452c:
 translate italiantl _call_skipcheck_7877c062:
 
     # An "It just seems so funny to me. Do you nurse your young from your teats as well?"
-    An "È solo che mi sembra così buffo. Nutrite anche voi i vostri piccoli al seno?"
+    An "È che mi sembra così buffo. Nutrite anche voi i vostri piccoli al seno?"
 
 # game/anna3.rpy:1248
 translate italiantl _call_skipcheck_55732973:
@@ -2519,7 +2519,7 @@ translate italiantl strings:
 
     # anna3.rpy:816
     old "I wouldn't do such a thing."
-    new "Non farei mai una cosa simile." # "wouldn't" -> "would never"
+    new "Non farei mai una cosa simile." # "wouldn't do" -> "would never do"
 
     # anna3.rpy:816
     old "Piece of cake."
@@ -2559,11 +2559,11 @@ translate italiantl strings:
 
     # anna3.rpy:1164
     old "A lot."
-    new "Molto." # must also match line 3007 of chapter 4
+    new "Molto." # must match line 3009 of chapter 4
 
     # anna3.rpy:1164
     old "A little."
-    new "Non molto." # must also match line 3007 of chapter 4
+    new "Non molto." # must match line 3009 of chapter 4
 
     # anna3.rpy:1164
     old "None at all."
@@ -2579,5 +2579,5 @@ translate italiantl strings:
 
     # anna3.rpy:1200
     old "I'd rather be looking at some pretty pictures of you instead."
-    new "Preferirei guardare delle belle immagini di te piuttosto."
+    new "Preferirei guardare qualche bella immagine di te piuttosto."
 

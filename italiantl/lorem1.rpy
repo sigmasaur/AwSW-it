@@ -1258,7 +1258,7 @@ translate italiantl _call_skipcheck_16_df4298d3:
 translate italiantl _call_skipcheck_16_088e6966:
 
     # Lo relieved "You're right about that. One wrong move and you've suddenly shredded the letter you were just going to hand to someone."
-    Lo relieved "Su questo hai ragione. Una mossa falsa e improvvisamente hai stracciato la lettera che stavi per consegnare a qualcuno."
+    Lo relieved "Su questo hai ragione. Una mossa falsa e improvvisamente hai stracciato la lettera che stavi per porgere a qualcuno."
 
 # game/lorem1.rpy:780
 translate italiantl _call_skipcheck_16_9041e3cd:
@@ -1348,7 +1348,7 @@ translate italiantl _call_skipcheck_16_2631e6bd:
 translate italiantl _call_skipcheck_16_bdefd922:
 
     # Lo happy "I can't thank you enough for doing this. You've been a huge help!"
-    Lo happy "Non posso ringraziarti abbastanza per questo. Sei statə di enorme aiuto!" # "for [doing] this"
+    Lo happy "Non posso ringraziarti abbastanza per aver fatto questo. Sei statə di enorme aiuto!"
 
 # game/lorem1.rpy:832
 translate italiantl _call_skipcheck_16_5101fbef:

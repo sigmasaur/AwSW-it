@@ -700,7 +700,7 @@ translate italiantl anna4skip1_e3dd800d:
 translate italiantl anna4skip1_cb810fa6:
 
     # An disgust "The same rules and traditions that would make them worship you, just because of some stupid, old legend."
-    An disgust "Le stesse regole e tradizioni che gli farebbero idolatrare te, solo per via di qualche stupida, vecchia leggenda."
+    An disgust "Le stesse regole e tradizioni che gli farebbero venerare voi, solo per via di qualche stupida, vecchia leggenda." # "you" as in "the human race"
 
 # game/anna4.rpy:406
 translate italiantl anna4skip1_3d2095fb:
@@ -1048,7 +1048,7 @@ translate italiantl _call_skipcheck_18_b8565449:
 translate italiantl _call_skipcheck_18_d10c9fc3:
 
     # An face "You're such a VIP, aren't you?"
-    An face "Sei unə tale VIP, non è vero?"
+    An face "Sei proprio unə VIP, non è vero?"
 
 # game/anna4.rpy:611
 translate italiantl _call_skipcheck_18_23e7ac20:
@@ -1324,7 +1324,7 @@ translate italiantl _call_skipcheck_18_0b3a944c:
 translate italiantl _call_skipcheck_18_b9a6a655:
 
     # An sad "That's not something people would like here. If you are a council member who wants to be popular, you don't engage in that kind of behavior."
-    An sad "Non è qualcosa che farebbero qui. Se sei un membro del consiglio che vuol essere popolare, non assumi una condotta del genere."
+    An sad "Non è qualcosa che la gente gradirebbe qui. Se sei un membro del consiglio che vuol essere popolare, non assumi una condotta del genere."
 
 # game/anna4.rpy:703
 translate italiantl _call_skipcheck_18_c3009a29:
@@ -1678,7 +1678,7 @@ translate italiantl anna4skip2_9f4c3685:
 translate italiantl anna4skip2_2a273f16:
 
     # An face "You're such a do-gooder. You spent enough time with me that I started to care, and then it turns out it's just platonic."
-    An face "Sei unə tale santarellə. Hai passato tanto tempo con me che iniziava a importarmene, e poi viene fuori che era solo platonico."
+    An face "Sei proprio unə santarellə. Hai passato tanto tempo con me che iniziava a importarmene, e poi viene fuori che era solo platonico."
 
 # game/anna4.rpy:864
 translate italiantl anna4skip2_230bcb88:

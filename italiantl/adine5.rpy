@@ -964,7 +964,7 @@ translate italiantl adinegoodending_1e24506d:
 translate italiantl adinegoodending_ae6bff74:
 
     # As "I wish I could be done with this already and settle down, but someone has to go back and ensure we can reach the outcome both of us want. No matter if it's you or me, one of us has to do it."
-    As "Vorrei potermi sistemare e farla finita con questo una buona volta, ma qualcuno deve tornare indietro e assicurarsi che possiamo raggiungere l'esito che vogliamo entrambɜ. Non importa che sia tu od io, ma unə di noi deve farlo." # "could be" -> "was"
+    As "Vorrei potermi sistemare e farla finita con questo una buona volta, ma qualcuno deve tornare indietro e assicurarsi che possiamo raggiungere l'esito che vogliamo entrambɜ. Non importa che sia tu od io, ma unə di noi deve farlo."
 
 # game/adine5.rpy:856
 translate italiantl adinegoodending_4fd5e1db:

@@ -1222,7 +1222,7 @@ translate italiantl _call_skipcheck_1_1237f4c9:
 translate italiantl _call_skipcheck_1_c0acdc2e:
 
     # Br normal "I'd want to see some proof of it first. That's not something you come across everyday, after all."
-    Br normal "Prima vorrei vederne una qualche prova. Non è una cosa in cui ti imbatti ogni giorno, dopotutto."
+    Br normal "Prima vorrei vederne una qualche prova. Non è qualcosa che si incontra ogni giorno, dopotutto."
 
 # game/bryce4.rpy:567
 translate italiantl _call_skipcheck_1_a5cb4dcb:

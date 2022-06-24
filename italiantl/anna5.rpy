@@ -100,7 +100,7 @@ translate italiantl anna5_53482720:
 translate italiantl anna5_0d382a65:
 
     # An normal "No, that's not it. Actually, that could be quite fun. It would only be another reason for people to be jealous of me."
-    An normal "No, non è così. In effetti, potrebbe essere divertente. Sarebbe solo una ragione in più perché fossero invidiosi di me."
+    An normal "No, non è così. In effetti, potrebbe essere divertente. Sarebbe solo una ragione in più perché fossero invidiosi di me." # "that could be [quite] fun"
 
 # game/anna5.rpy:60
 translate italiantl anna5_126dd557:
