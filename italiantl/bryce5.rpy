@@ -976,7 +976,7 @@ translate italiantl _call_no_d76f79b6:
 translate italiantl _call_no_c856a65c:
 
     # Rz "What are you going to do, huh? I'll be long gone by the time you call the cops."
-    Rz "Cos'avresti intenzione di fare, eh? Per quando avrai chiamato gli sbirri io me ne sarò già andato da un pezzo."
+    Rz "Cosa avresti intenzione di fare, eh? Per quando avrai chiamato gli sbirri io me ne sarò già andato da un pezzo."
 
 # game/bryce5.rpy:765
 translate italiantl _call_no_c0297ef4:
@@ -1726,7 +1726,7 @@ translate italiantl _call_no_668199af:
 translate italiantl _call_no_63860d73:
 
     # c "Hey, no need for melancholy now. It's not as if we're not going to see each other again."
-    c "Ehi, non c'è motivo di immalinconirsi, adesso. Non è come se non dovessimo più rivederci."
+    c "Ehi, non c'è motivo di essere malinconici. Non è come se non dovessimo più rivederci." # "no need for melancholy [now]"
 
 # game/bryce5.rpy:1357
 translate italiantl _call_no_76b2fe88:

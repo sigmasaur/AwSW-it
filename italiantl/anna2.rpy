@@ -310,7 +310,7 @@ translate italiantl _call_skipcheck_32_830b55a0:
 translate italiantl _call_skipcheck_32_2fc1d6c7:
 
     # c "So, what do we do now?"
-    c "Quindi, che facciamo adesso?"
+    c "Quindi, cosa facciamo adesso?"
 
 # game/anna2.rpy:350
 translate italiantl _call_skipcheck_32_44dd807d:
@@ -1456,7 +1456,7 @@ translate italiantl _call_skipcheck_32_a3bd46da:
 translate italiantl _call_skipcheck_32_fbf46b19:
 
     # m "After a few seconds, the liquid burst into flame, heating up our dinner."
-    m "Dopo qualche secondo, il liquido divampò, riscaldando la nostra cena." # "into flameS"
+    m "Dopo qualche secondo, il liquido divampò, riscaldando la nostra cena." # corrected "into flameS"
 
 # game/anna2.rpy:999
 translate italiantl _call_skipcheck_32_cb199878:
@@ -1894,7 +1894,7 @@ translate italiantl anna2else_2d3c9328:
 translate italiantl anna2else_c3ff5da8:
 
     # An face "Why do you think so?"
-    An face "E perché lo pensi?"
+    An face "E perché lo credi?"
 
 # game/anna2.rpy:1323
 translate italiantl anna2else_eb025f84:

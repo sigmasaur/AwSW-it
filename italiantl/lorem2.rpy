@@ -424,7 +424,7 @@ translate italiantl _call_skipcheck_33_7e7c0961:
 translate italiantl _call_skipcheck_33_685c0d02:
 
     # Lo normal "Great. Now try to stay as still as possible."
-    Lo normal "Fantastico. Ora cerca di restare il più fermə possibile."
+    Lo normal "Ottimo. Ora cerca di restare il più fermə possibile."
 
 # game/lorem2.rpy:427
 translate italiantl _call_skipcheck_33_83eb823b:

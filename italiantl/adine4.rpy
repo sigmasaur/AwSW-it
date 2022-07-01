@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_30_029afb69:
 translate italiantl _call_skipcheck_30_df3ca2e6:
 
     # m "Eventually, we arrived at a rather large open air area near the facility that had been roped off. At one corner of the building, a few flyers had already gathered."
-    m "Finalmente, giungemmo in una zona all'aperto piuttosto grande vicino allo stabilimento che era stata delimitata. A un angolo dell'edificio, si erano già radunati alcuni volatori."
+    m "Finalmente, giungemmo in una zona all'aperto piuttosto grande vicino allo stabilimento che era stata transennata. A un angolo dell'edificio, si erano già radunati alcuni volatori."
 
 # game/adine4.rpy:171
 translate italiantl _call_skipcheck_30_063136f1:
@@ -694,7 +694,7 @@ translate italiantl _call_skipcheck_30_fe5f3366_1:
 translate italiantl _call_skipcheck_30_4052a713:
 
     # m "We walked away from the festival and sat down under a tree in the outskirts of town. As the competition was already nearly over, the darkness had already set in."
-    m "Ci allontanammo dal festival e sedemmo sotto un albero nei sobborghi della città. Mentre la competizione volgeva già al termine, l'oscurità si era ormai insediata."
+    m "Ci allontanammo dal festival e sedemmo sotto un albero nei sobborghi della città. Mentre la competizione volgeva già al termine, l'oscurità si era ormai insediata." # corrected "in the outskirts" -> "on the outskirts"
 
 # game/adine4.rpy:381
 translate italiantl _call_skipcheck_30_87988039:
@@ -1030,7 +1030,7 @@ translate italiantl _call_skipcheck_30_1c7d5fe8:
 translate italiantl _call_skipcheck_30_44becc07:
 
     # Ad normal b "I don't know. I like reading about all the theories and trying to piece the puzzle together myself. That's why I want to visit that underground building we found. Some of the theories are quite out there."
-    Ad normal b "Non lo so. Mi piace leggere di tutte le teorie e tentare di rimettere insieme i pezzi del puzzle io stessa. È per questo che voglio visitare quell'edificio sotterraneo che abbiamo trovato. Alcune delle teorie sono davvero folli."
+    Ad normal b "Non lo so. Mi piace leggere di tutte le teorie e tentare di rimettere insieme i pezzi del puzzle io stessa. È per questo che voglio visitare quell'edificio sotterraneo che abbiamo trovato. Alcune delle teorie sono piuttosto folli."
 
 # game/adine4.rpy:503
 translate italiantl _call_skipcheck_30_efe0e8c3:
@@ -1258,7 +1258,7 @@ translate italiantl _call_skipcheck_30_cc74570c:
 translate italiantl _call_skipcheck_30_17196c8f:
 
     # c "Maybe they wanted to avoid culture shock, or something like that."
-    c "Forse volevano evitare uno shock culturale, o roba del genere."
+    c "Forse volevano evitare un trauma culturale, o roba del genere."
 
 # game/adine4.rpy:607
 translate italiantl _call_skipcheck_30_a7bca2b2:

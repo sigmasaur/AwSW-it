@@ -478,7 +478,7 @@ translate italiantl _call_skipcheck_1_033b77e1:
 translate italiantl _call_skipcheck_1_56338d8d:
 
     # c "And me? I'm just here, right in the middle of this whole mess, just trying to make the best of it."
-    c "Ed io? Io sono solo qui, proprio nel mezzo di tutto questo casino, cercando solo di trarne il meglio."
+    c "Ed io? Io sono solo qui, nel bel mezzo di tutto questo casino, cercando solo di trarne il meglio."
 
 # game/bryce4.rpy:290
 translate italiantl _call_skipcheck_1_c7e818c4:
@@ -604,7 +604,7 @@ translate italiantl _call_skipcheck_1_0fe0a495:
 translate italiantl _call_skipcheck_1_87d3969a:
 
     # Br "Do you think I don't keep asking myself the same questions? What I could've done differently, and if that would've made a difference?"
-    Br "Credi che non continui a rifarmi le stesse domande? Cos'avrei potuto fare di diverso, e se questo avrebbe potuto fare la differenza?"
+    Br "Credi che non continui a rifarmi le stesse domande? Cosa avrei potuto fare di diverso, e se questo avrebbe potuto fare la differenza?"
 
 # game/bryce4.rpy:336
 translate italiantl _call_skipcheck_1_b5b56901:
@@ -982,7 +982,7 @@ translate italiantl _call_skipcheck_1_8e36b4d6:
 translate italiantl _call_skipcheck_1_69f1a93a:
 
     # Br normal "I'll probably just do it again. If I can get the day off, I can at least go back to the department and work on the case a bit instead of doing nothing in her office all day."
-    Br normal "Probabilmente lo farò di nuovo e basta. Se posso prendermi la giornata, almeno posso tornare al dipartimento e lavorare un po' al caso invece di non far niente nel suo ufficio tutto il giorno."
+    Br normal "Probabilmente lo rifarò e basta. Se posso prendermi la giornata, almeno posso tornare al dipartimento e lavorare un po' al caso invece di non far niente nel suo ufficio tutto il giorno."
 
 # game/bryce4.rpy:476
 translate italiantl _call_skipcheck_1_feed6cdd:

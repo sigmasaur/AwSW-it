@@ -998,7 +998,7 @@ translate italiantl _call_skipcheck_36e9dc76:
 translate italiantl _call_skipcheck_56c533ec:
 
     # c "Then why do them in the first place?"
-    c "Allora che motivo c'era di farlo?" # "them" -> "it" as in "test" from line 702
+    c "Allora che motivo c'era di farlo?" # corrected "them" -> "it" as in "test"
 
 # game/anna3.rpy:706
 translate italiantl _call_skipcheck_14f50917:

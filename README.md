@@ -40,6 +40,7 @@ Currently working on `Lorem`'s sections. Files done and up for review:
 
     lorem1.rpy
     lorem2.rpy
+    lorem3.rpy
 
 ### A few remarks
 
@@ -149,7 +150,7 @@ The following are mostly to the benefit of the developer and translators.
 ### [`chapter4.rpy`](italiantl/chapter4.rpy)
 
 * At line 762, 922, 4375, 4382: Corrected uppercase letter to lowercase after colon.
-* At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash to em-dash.
+* At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash or en-dash to em-dash.
 * At line 1094: Used if-statement to distinguish whether `Anna` survives or not, and corrected present tenses to simple past in the latter case.
 * At line 1368-1736: The following is a simplified flow chart to help keep track of which dialogue spoken by the `System` refers to which case. `INV` is the number of investigation points on this run. **`CHEAT`**, **`SAVED`** start resp. from `0`, `FALSE` and persist on the next runs. Note that **`CHEAT`** may jump from `0` to `2` but never decrease, and **`SAVED`** may never fall back to `FALSE`.<details><summary></summary><p align="center">![bryce_death](bryce_death.png)</p></details>
   * At line 1676-1736: Note that these lines also trigger if the user tried to cheat for the *first* time; see e.g. line 1696. Affected sequences: save `Bryce` after he died in a previous run, then try to cheat on the current run.
@@ -244,7 +245,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 732, 938: Rendered *children* as *cubs*.
 * At line 801: Unfolded *20* → *twenty*, for elegance.
 * At line 803, 888, 965: Note that wrong answers to `Anna`'s questions seem to be undo-able.
-* At line 932: Corrected uppercase letter to lowercase after colon.
+* At line 932, 963: Corrected uppercase letter to lowercase after colon.
 * At line 963, 965: Unfolded *#1* → *one*, for elegance.
 * At line 963, 965: Unfolded *#2* → *two*, for elegance.
 * At line 963, 965, 978, 989: Unfolded *#3* → *three*/*third*, for elegance.
@@ -290,7 +291,7 @@ The following are mostly to the benefit of the developer and translators.
 ### [`anna5.rpy`](italiantl/anna5.rpy)
 
 * At line 87: See line 83 of [`adine5.rpy`](#adine5rpy).
-* At line 341, 343, 435, 710, 859: Corrected simple dash to em-dash.
+* At line 341, 343, 435, 710, 859: Corrected simple dash or en-dash to em-dash.
 * At line 415: Corrected uppercase letter to lowercase after colon.
 * At line 439: Slightly pruned to fit fewer lines.
 * At line 742: Rendered *leg* as *paw*.
@@ -332,7 +333,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 133-135: Note that these lines also trigger if `Maverick` was already met in [`chapter4.rpy`](#chapter4rpy), where `Bryce` and the player character learn of *what he's up to*; see lines 513-553 of [`bryce2.rpy`](#bryce2rpy).
 * At line 217: Note that this line also triggers if `Zhong` was never met at the bar in [`bryce1.rpy`](#bryce1rpy); see lines 1420-1438 of [`chapter2.rpy`](#chapter2rpy).
 * At line 438: Made `Bryce` use formal pronouns when addressing `Sebastian` as *Master of Ceremony*.
-* At line 463, 467, 1132: Corrected simple dash to em-dash.
+* At line 463, 467, 1132: Corrected simple dash or en-dash to em-dash.
 * At line 535-537: Adapted to preserve a pun; reverse translation:
   * At line 535: *\[...\] her personality makes your scales stand on end.*
   * At line 537: *Makes your what stand on end?*
@@ -363,13 +364,13 @@ The following are mostly to the benefit of the developer and translators.
 * At line 204: Note that this line also triggers if the player character didn't go in first at `Reza`'s hideout. Affected sequences: see `Bryce`'s good ending, suggest that `Bryce` go in first in [`chapter4.rpy`](#chapter4rpy).
 * At line 513: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
 * At line 753: Corrected uppercase letter to lowercase after colon.
-* At line 1149, 1315, 1373: Corrected simple dash to em-dash.
+* At line 1149, 1315, 1373: Corrected simple dash or en-dash to em-dash.
 * At line 1309, 1343: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
 
 ### [`lorem1.rpy`](italiantl/lorem1.rpy)
 
 * At line 228, 366, 439, 651, 653, 657, 687: Assumed plural of modesty.
-* At line 228, 493, 659: Corrected simple dash to em-dash.
+* At line 228, 493, 659: Corrected simple dash or en-dash to em-dash.
 * At line 447: Corrected uppercase letter to lowercase after colon.
 * At line 456: Adapted to preserve a pun; reverse translation: *I don't have a spit weapon, unless you count spluttering.*
 * At line 553: Enclosed *human* in italics tags.
@@ -378,11 +379,23 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 220, 566, 839: Corrected uppercase letter to lowercase after colon.
 * At line 246, 249, 269, 845: Rendered *legs* as *paws*.
-* At line 654, 752, 754, 801: Corrected simple dash to em-dash.
+* At line 654, 752, 754, 801: Corrected simple dash or en-dash to em-dash.
 * At line 704: Corrected two-dots ellipsis to three-dots.
 * At line 829: Note that the player character might have already met `Katsuharu` or `Kevin`, who both have hair.
 * At line 1089: Added *the <b>left</b> edge* to match line 1095, where the right edge is mentioned.
 * At line 1151: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
+
+### [`lorem3.rpy`](italiantl/lorem3.rpy)
+
+* At line 201: Rendered *children* as *cubs*.
+* At line 219: Slightly pruned to fit fewer lines.
+* At line 221: Unfolded *10* → *ten*, for elegance.
+* At line 233, 350, 428, 490, 532, 584, 644, 658, 1017: Corrected simple dash or en-dash to em-dash.
+* At line 350: *inches* → *centimeters*; see line 2144 of [`chapter4.rpy`](#chapter4rpy).
+* At line 937: Corrected *w<s>h</s>ere coming*.
+* Al line 961: Rendered *leg* as *paw*.
+* At line 1009: Corrected *Pantoli'<b>s</b> Pizza*.
+* At line 1039: Split in multiple parts to fit fewer lines.
 
 ## Other remarks
 

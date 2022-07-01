@@ -382,7 +382,7 @@ translate italiantl _call_skipcheck_17_2466102c:
 translate italiantl _call_skipcheck_17_e9553d62:
 
     # An "I just didn't have the time. Quite frankly, I don't even know how much longer I have left."
-    An "Semplicemente non ne avevo il tempo. Francamente, non so nemmeno quanto mi resta."
+    An "Semplicemente non ne avevo il tempo. Francamente, non so nemmeno quanto mi resta." # "I just didn't have the time FOR IT"
 
 # game/anna4.rpy:273
 translate italiantl _call_skipcheck_17_4810babe:
@@ -772,7 +772,7 @@ translate italiantl anna4skip1_09163495:
 translate italiantl anna4skip1_0adfecd8:
 
     # An "You can? Are you saying that if I went back with you, if you smuggled me out, that you could cure me?"
-    An "Potete? Stai dicendo che se tornassi indietro con te, se mi facessi uscire di nascosto, potreste curarmi?"
+    An "Potete? Stai dicendo che se tornassi indietro con te, se mi facessi uscire di nascosto, potreste curarmi?" # corrected "[that] you could cure me"
 
 # game/anna4.rpy:439
 translate italiantl anna4skip1_97ce8ee6:
@@ -1018,7 +1018,7 @@ translate italiantl _call_skipcheck_18_0054b77b:
 translate italiantl _call_skipcheck_18_a6c475aa:
 
     # An sad "Anyway, enough of that. I hope you dont mind me hanging around here. My place still looks like the police raided it. Oh, wait, that's exactly what happened."
-    An sad "Comunque, basta con questi discorsi. Spero non ti dia fastidio avermi qui intorno. Da me sembra ancora che abbia fatto irruzione la polizia. Oh, aspetta, è esattamente ciò che è successo." # "me hanging" -> "having me"
+    An sad "Comunque, basta con questi discorsi. Spero non ti dia fastidio avermi qui intorno. Da me sembra ancora che abbia fatto irruzione la polizia. Oh, aspetta, è esattamente ciò che è successo." # corrected "dont" -> "don't"; "me hanging" -> "having me"
 
 # game/anna4.rpy:601
 translate italiantl _call_skipcheck_18_ea1507a8:

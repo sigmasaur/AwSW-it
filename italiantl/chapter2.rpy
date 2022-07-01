@@ -2877,7 +2877,7 @@ translate italiantl chap2park2choice_34c30ac6:
 translate italiantl chap2park2choice_f849c248:
 
     # c "(The view of the scenery is perfect.)"
-    c "(La vista dello scenario è perfetta.)"
+    c "(La vista del paesaggio è perfetta.)"
 
 # game/chapter2.rpy:2636
 translate italiantl _call_syscheck_55_a9c85e60:
@@ -3681,7 +3681,7 @@ translate italiantl _call_skipcheck_12_c67f62de:
 translate italiantl _call_skipcheck_12_9457078a:
 
     # n "However, his actions were growing more calculated, and he seemed very sure of himself. I wondered about what this could amount to..."
-    n "Tuttavia, le sue azioni si facevano più calcolate, e lui sembrava essere molto sicuro di sé. Mi domandai cos'avrebbe potuto significare..."
+    n "Tuttavia, le sue azioni si facevano più calcolate, e lui sembrava essere molto sicuro di sé. Mi domandai cosa avrebbe potuto significare..."
 
 # game/chapter2.rpy:3605
 translate italiantl _call_skipcheck_12_75b736c5:
@@ -3807,7 +3807,7 @@ translate italiantl _call_skipcheck_12_cc14b6ac:
 translate italiantl _call_skipcheck_12_5138560b:
 
     # c "I don't think he's going anywhere."
-    c "Non penso che andrà da nessuna parte."
+    c "Non penso andrà da nessuna parte."
 
 # game/chapter2.rpy:3678
 translate italiantl _call_skipcheck_12_c9046289:
@@ -3855,7 +3855,7 @@ translate italiantl _call_skipcheck_12_b601d0a4:
 translate italiantl _call_skipcheck_12_9c7c41dd:
 
     # c "I don't think you quite understand what you're dealing with."
-    c "Non penso che abbiate ben capito con cosa avete a che fare."
+    c "Non credo abbiate ben capito con cosa avete a che fare."
 
 # game/chapter2.rpy:3698
 translate italiantl _call_skipcheck_12_567c8e01:
@@ -4023,7 +4023,7 @@ translate italiantl chap2skip3_4e1f8841:
 translate italiantl chap2skip3_12dac46c:
 
     # Sb "He could've needed a map to plan something, I suppose, but who knows what he really wanted to do with it. It's the kind of detail that - on its own - might not tell us much, but could be crucial later on."
-    Sb "Potrebbe aver avuto bisogno di una mappa per pianificare qualcosa, suppongo, ma chissà cos'avrebbe voluto farci veramente. È quel tipo di dettaglio che—di per sé—potrebbe non dirci molto, ma rivelarsi cruciale più avanti." # corrected em-dash
+    Sb "Potrebbe aver avuto bisogno di una mappa per pianificare qualcosa, suppongo, ma chissà cosa avrebbe voluto farci realmente. È quel tipo di dettaglio che—di per sé—potrebbe non dirci molto, ma rivelarsi cruciale più avanti." # corrected em-dash
 
 # game/chapter2.rpy:3800
 translate italiantl chap2skip3_0778013f:
@@ -4627,7 +4627,7 @@ translate italiantl strings:
 
     # chapter2.rpy:3666
     old "I don't think he's going anywhere."
-    new "Non penso che andrà da nessuna parte."
+    new "Non penso andrà da nessuna parte."
 
     # chapter2.rpy:3666
     old "We'll never find him."

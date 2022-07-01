@@ -358,7 +358,7 @@ translate italiantl endingjustafewminuteslaterx_fb7b0378:
 translate italiantl endingjustafewminuteslaterx_d51db7e2:
 
     # m "Even in the darkness, it was easy for me to spot the site where they had unearthed the building's entry as it was in a roped off area that I had seen from afar before."
-    m "Anche nell'oscurità, mi fu facile individuare il sito dove avevano dissotterrato l'entrata dell'edificio, trovandosi in un'area delimitata che avevo già visto da lontano prima di allora."
+    m "Anche nell'oscurità, mi fu facile individuare il sito dove avevano dissotterrato l'entrata dell'edificio, trovandosi in un'area interdetta che avevo già visto da lontano prima di allora."
 
 # game/chapter5evilending.rpy:367
 translate italiantl endingjustafewminuteslaterx_c1029fbb:
@@ -958,7 +958,7 @@ translate italiantl _call_syscheck_97_0ffb665d:
 translate italiantl _call_syscheck_97_42aff287:
 
     # s "You decided not to meet anyone or investigate for the tenth time. Being exceptionally good at doing nothing apparently is a skill, too."
-    s "Hai deciso di non incontrare nessuno o investigare per la decima volta. A quanto pare l'essere eccezionalmente bravi a non fare niente è anch'essa un'abilità."
+    s "Hai deciso di non incontrare nessuno o investigare per la decima volta. A quanto pare essere eccezionalmente bravi a non far niente è anch'essa un'abilità."
 
 # game/chapter5evilending.rpy:733
 translate italiantl _call_syscheck_98_b9c658b8:

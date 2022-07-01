@@ -460,7 +460,7 @@ translate italiantl _call_endingjustafewminuteslater_4_e897fbb0:
 translate italiantl _call_endingjustafewminuteslater_4_602dbfba:
 
     # Ad disappoint b "Remember when I asked you what you were going to do if you knew the world was going to end?"
-    Ad disappoint b "Ricordi quando ti chiesi cos'avresti fatto se avessi saputo che il mondo stava per finire?" # see line 879 of Adine 1
+    Ad disappoint b "Ricordi quando ti chiesi cosa avresti fatto se avessi saputo che il mondo stava per finire?" # see line 879 of Adine 1
 
 # game/adine5.rpy:375
 translate italiantl _call_endingjustafewminuteslater_4_bda930f4:

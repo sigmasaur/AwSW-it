@@ -1192,7 +1192,7 @@ translate italiantl bryce3pass_76bfecc4:
 translate italiantl bryce3pass_540efd31:
 
     # Sb "I see, so this is a situation that requires careful deliberation and sublety. Not exactly your strong suits, Bryce."
-    Sb "Capisco, quindi questa è una situazione che richiede raffinatezza e un'attenta riflessione. Non esattamente il tuo forte, [Br]."
+    Sb "Capisco, quindi questa è una situazione che richiede raffinatezza e un'attenta riflessione. Non esattamente il tuo forte, [Br]." # corrected "subTlety"
 
 # game/bryce3.rpy:684
 translate italiantl bryce3pass_214501a4:
@@ -1301,7 +1301,7 @@ translate italiantl bryce3pass_0877bf2d:
 
     # c "That kinda makes me curious, though. How does dating work in this world, considering there are so many sentient species around here? Is dating between different species encouraged? Maybe that's why Emera is so interested. Is there ever any crossbreeding?"
     c "Un po' m'incuriosisce, però. Come funzionano gli appuntamenti in questo mondo, considerando che ci sono così tante specie senzienti da queste parti?"
-    c "Frequentarsi fra specie diverse è forse scoraggiato? Magari è per questo che [Em] è così interessata. Ci sono mai ibridazioni?" # split to fit three lines; "encouraged" -> "discouraged"
+    c "Frequentarsi fra specie diverse è forse scoraggiato? Magari è per questo che [Em] è così interessata. Ci sono mai ibridazioni?" # split to fit three lines; corrected "encouraged" -> "discouraged"
 
 # game/bryce3.rpy:751
 translate italiantl bryce3pass_f0490e1a:

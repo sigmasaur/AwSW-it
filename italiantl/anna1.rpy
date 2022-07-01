@@ -1252,7 +1252,7 @@ translate italiantl cont2_ecaa91ea:
 translate italiantl cont2_ac54beca:
 
     # An "#1: A room filled with poisonous gas. #2: A room filled with one hundred highly trained assassins. #3: A room submerged in water filled with alligators that have not eaten in eight months."
-    An "Uno: una stanza ricolma di gas velenoso. Due: una stanza gremita di cento assassini altamente addestrati. Tre: una stanza sommersa in un'acqua piena di alligatori che non mangiano da otto mesi." # "#1" -> "one", "#2" -> "two", "#3" -> "three" for elegance
+    An "Uno: una stanza ricolma di gas velenoso. Due: una stanza gremita di cento assassini altamente addestrati. Tre: una stanza sommersa da un'acqua piena di alligatori che non mangiano da otto mesi." # corrected lowercase letter; "#1" -> "one", "#2" -> "two", "#3" -> "three" for elegance
 
 # game/anna1.rpy:978
 translate italiantl cont2_e0e6802f:
@@ -1312,7 +1312,7 @@ translate italiantl cont4_58cb19cf:
 translate italiantl cont4_f883752b:
 
     # c "What is the approximate acceleration speed of a nosediving flyer?" # a reference to Monty Python where they ask about the airspeed velocity of an unladen swallow
-    c "Qual è la velocità approssimativa che può raggiungere un volatore in picchiata?" # used the Italian translation of Monty Python; "approximate [acceleration] speed"
+    c "Qual è la velocità approssimativa che può raggiungere un volatore in picchiata?" # used the Italian translation of Monty Python; corrected "approximate [acceleration] speed"
 
 # game/anna1.rpy:1022
 translate italiantl cont4_d35e2a23:
@@ -1342,7 +1342,7 @@ translate italiantl cont4_a1c6efd2:
 translate italiantl cont4_5879abc9:
 
     # c "Okay, here's the real question: What is the only substance known to be lighter in its solid form compared to its liquid state?"
-    c "Okay, ecco la vera domanda: qual è l'unica sostanza nota per essere meno densa nella sua forma solida rispetto al suo stato liquido?" # "lighter" -> "less dense"
+    c "Okay, ecco la vera domanda: qual è l'unica sostanza nota per essere meno densa nella sua forma solida rispetto al suo stato liquido?" # corrected "lighter" -> "less dense"
 
 # game/anna1.rpy:1030
 translate italiantl cont4_f229ea8c:
@@ -1940,7 +1940,7 @@ translate italiantl strings:
 
     # anna1.rpy:965
     old "#3, the room submerged in water filled with alligators that have not eaten in eight months."
-    new "Tre, la stanza sommersa in un'acqua piena di alligatori che non mangiano da otto mesi." # see line 963
+    new "Tre, la stanza sommersa da un'acqua piena di alligatori che non mangiano da otto mesi." # see line 963
 
     # anna1.rpy:965
     old "None of these."

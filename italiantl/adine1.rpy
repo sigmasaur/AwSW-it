@@ -148,7 +148,7 @@ translate italiantl menadine_a00b0992:
 translate italiantl menadine_07803e25:
 
     # n "The problem was, I hadn't ordered noodles. I rushed to the door, wondering what had gone wrong and what I had done to deserve this, but it was too late."
-    n "Il problema era che non avevo ordinato i noodles. Mi precipitai alla porta, domandandomi cosa fosse andato storto e cos'avessi fatto per meritarmi questo, ma era troppo tardi."
+    n "Il problema era che non avevo ordinato i noodles. Mi precipitai alla porta, domandandomi cosa fosse andato storto e cosa avessi fatto per meritarmi questo, ma era troppo tardi."
 
 # game/adine1.rpy:131
 translate italiantl menadine_54475cd1:
@@ -556,7 +556,7 @@ translate italiantl _call_skipcheck_10_53f42aeb:
 translate italiantl _call_skipcheck_10_ac2a2159:
 
     # Ad "I mean, yeah, you do look different from us, but you're not really anything like some of the things that have been said about your kind."
-    Ad "Voglio dire, sì, hai un aspetto diverso dal nostro, ma non è che assomigli a nessuna delle cose che si sono dette della vostra specie." # "some" -> "any"
+    Ad "Voglio dire, sì, hai un aspetto diverso dal nostro, ma non è che tu sia come alcune delle cose che si sono dette della vostra specie." # "some" -> "any"
 
 # game/adine1.rpy:431
 translate italiantl _call_skipcheck_10_91928a3d:
@@ -1774,7 +1774,7 @@ translate italiantl adine1skip_a544d69c:
 translate italiantl adine1skip_e0210aa9:
 
     # c "That wasn't what I was talking about."
-    c "Non è di questo che stavo parlando." # "wasn't" -> "isn't"
+    c "Non era di questo che parlavo."
 
 # game/adine1.rpy:1391
 translate italiantl adine1skip_a9ea478e:

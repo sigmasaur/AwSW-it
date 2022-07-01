@@ -1392,7 +1392,7 @@ translate italiantl c3conty_bf73796a:
 translate italiantl c3conty_d0161738:
 
     # n "Those that I'd call family and friends now live with me in a giant, mostly self-sufficient city-state of survivors. A huge wall around the perimeter, guarded by militia, prevents any outside interference."
-    n "Coloro che chiamerei la mia famiglia e i miei amici ora vivono con me in una gigantesca e pressoché autosufficiente città-stato di sopravvissuti. Un enorme muro attorno al perimetro, presidiato dalla milizia, impedisce qualsiasi interferenza esterna." # "I'd call MY family and friends"
+    n "Coloro che chiamerei la mia famiglia e i miei amici ora vivono con me in una gigantesca e per lo più autosufficiente città-stato di sopravvissuti. Un enorme muro attorno al perimetro, presidiato dalla milizia, impedisce qualsiasi interferenza esterna." # "I'd call MY family and friends"
 
 # game/chapter3.rpy:1413
 translate italiantl c3conty_43c1cb3e:
@@ -1530,7 +1530,7 @@ translate italiantl c3conty_3c643606:
 translate italiantl c3conty_81b9cf49:
 
     # Em frown "I cannot take your word under consideration in this matter, Chief. Taking into account Maverick's actions, and your responsibility for them, you will have to be dealt with separately."
-    Em frown "Non posso tenere in considerazione la tua parola in questa faccenda, Capo. Tenuto conto delle azioni di [Mv], e della tua responsabilità per tali azioni, con te andranno fatti i conti in separata sede." # "them" -> "such actions"
+    Em frown "Non posso tenere in considerazione la tua parola in questa faccenda, Capo. Tenuto conto delle azioni di [Mv], e della tua responsabilità per tali azioni, con te andranno fatti i conti in separata sede." # corrected "under consideration" -> "into consideration"; "them" -> "such actions"
 
 # game/chapter3.rpy:1484
 translate italiantl c3conty_afede6e9:
@@ -4564,7 +4564,7 @@ translate italiantl c3arc_91fa16a3:
 translate italiantl c3arc_a6b27b25:
 
     # c "I can see that."
-    c "Me ne sono accorto."
+    c "Me ne sono accortə."
 
 # game/chapter3.rpy:3274
 translate italiantl c3arc_408fc55a:
@@ -4600,7 +4600,7 @@ translate italiantl c3arc_05fbb388:
 translate italiantl c3arc_a18ff829:
 
     # Ka normal dk "Now, I already tried just pulling it out, but I think the axle is going to break if I try to do that again. It wasn't really in the best condition to begin with, honestly, and I heard a crack when I tried to pull it out earlier."
-    Ka normal dk "Ora, ho già provato semplicemente a estrarlo, ma penso che l'asse finirà per cedere se proverò a farlo di nuovo. Non era proprio nelle migliori condizioni sin dal principio, onestamente, e ho sentito un crac quando prima ho provato a tirarlo fuori."
+    Ka normal dk "Ora, ho già provato semplicemente a tirarlo fuori, ma credo che l'asse finirà per cedere se proverò a rifarlo. Non era proprio nelle migliori condizioni sin dal principio, onestamente, e ho sentito un crac quando prima ho provato a tirarlo fuori."
 
 # game/chapter3.rpy:3294
 translate italiantl c3arc_7860fa8b:

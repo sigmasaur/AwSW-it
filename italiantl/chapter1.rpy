@@ -1713,7 +1713,7 @@ translate italiantl _call_syscheck_6_e631bc97:
 translate italiantl _call_syscheck_6_b1ff8271:
 
     # n "I stepped outside, taking in the scenery of this strangely familiar world."
-    n "Misi piede fuori, assorbendo lo scenario di questo mondo così stranamente familiare."
+    n "Misi piede fuori, assorbendo il paesaggio di questo mondo così stranamente familiare."
 
 # game/chapter1.rpy:1859
 translate italiantl _call_syscheck_6_74fd8cc1:
@@ -2669,7 +2669,7 @@ translate italiantl _call_syscheck_7_4f1f0b5f:
 translate italiantl _call_syscheck_7_d0a1ba27:
 
     # c "(No, even after removing every single book from the shelf, there is still no indicator of anything that would help me decode his secret message.)"
-    c "(No, anche dopo aver rimosso ogni singolo libro dallo scaffale, non vi è ancora traccia di qualcosa che mi aiuterebbe a decodificare il suo messaggio segreto.)"
+    c "(No, anche dopo aver rimosso ogni singolo libro dallo scaffale, non c'è ancora traccia di qualcosa che mi aiuterebbe a decodificare il suo messaggio segreto.)"
 
 # game/chapter1.rpy:2468
 translate italiantl _call_syscheck_7_454d542b:
@@ -3671,7 +3671,7 @@ translate italiantl investigation_251044bd:
 translate italiantl investigation_f17df21d:
 
     # Sb "This morning, the victim was found by a delivery flyer for a restaurant. Blood loss from multiple wounds are the likely cause of death. Forensics was already here, so feel free to poke around."
-    Sb "Questa mattina, la vittima è stata trovata da una volatrice delle consegne per un ristorante. Il dissanguamento da molteplici ferite è la probabile causa della morte. La scientifica è già stata qui, quindi date pure un'occhiata in giro." # "are the likely cause" -> "is the likely cause"
+    Sb "Questa mattina, la vittima è stata trovata da una volatrice delle consegne per un ristorante. Il dissanguamento da molteplici ferite è la probabile causa della morte. La scientifica è già stata qui, quindi date pure un'occhiata in giro." # corrected "are the likely cause" -> "is the likely cause"
 
 # game/chapter1.rpy:3201
 translate italiantl investigation_41043505:

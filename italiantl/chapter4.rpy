@@ -700,7 +700,7 @@ translate italiantl c4skip1_10e76bf9:
 translate italiantl c4skip1_14ae27a4:
 
     # c "I know the first day I met you, you were all hung up on people paying attention to us because we're human."
-    c "So che il primo giorno che ti ho incontrato, eri tutto preso dal fatto che la gente avesse gli occhi su di noi perché siamo degli umani."
+    c "So che il primo giorno che ti ho incontrato, eri tutto preso dal fatto che la gente facesse caso a noi perché siamo degli umani."
 
 # game/chapter4.rpy:988
 translate italiantl c4skip1_8a37c614:
@@ -1135,7 +1135,7 @@ translate italiantl passontestresults_a33e0fb6:
 translate italiantl passontestresults_96ecbbcb:
 
     # c "So, what happened?"
-    c "Quindi, che è successo?"
+    c "Quindi, cos'è successo?"
 
 # game/chapter4.rpy:1201
 translate italiantl passontestresults_a7a20cba:
@@ -5497,7 +5497,7 @@ translate italiantl _call_skipcheck_21_0c43fc9a:
 translate italiantl _call_skipcheck_21_99dcf20d:
 
     # As "Don't think that he wouldn't hesitate to kill you if you were in his way."
-    As "Non pensare che esiterebbe a ucciderti se provassi a ostacolarlo." # "that he would[n't] hesitate"
+    As "Non pensare che esiterebbe a ucciderti se provassi a ostacolarlo." # corrected "that he would[n't] hesitate"
 
 # game/chapter4.rpy:4502
 translate italiantl _call_skipcheck_21_d0c70f78:
@@ -5605,7 +5605,7 @@ translate italiantl _call_skipcheck_21_e17fce04:
 translate italiantl _call_skipcheck_21_ecb962a3:
 
     # As "The portal you found was no doubt one of my company's. They must have been connected before, so the corresponding data for their connection already existed when you found it."
-    As "Il portale che avete trovato era senza alcun dubbio uno della mia compagnia. Dovevano essere stati connessi in passato, quindi i corrispondenti dati per la loro connessione esistevano già quando l'avete trovato."
+    As "Il portale che avete trovato era senza dubbio uno della mia compagnia. Dovevano essere stati connessi in passato, quindi i corrispondenti dati per la loro connessione esistevano già quando l'avete trovato."
 
 # game/chapter4.rpy:4538
 translate italiantl _call_skipcheck_21_52f635cd:
@@ -5816,7 +5816,7 @@ translate italiantl _call_skipcheck_21_09805296:
 translate italiantl _call_skipcheck_21_b36e5f58:
 
     # As "Yet while the dragon population has increased tremendously, I have found that by and large, their society as whole has not changed much."
-    As "Eppure, per quanto la popolazione dei draghi sia tremendamente aumentata, ho trovato che in linea di massima, la loro società nel suo complesso non è cambiata poi molto."
+    As "Eppure, per quanto la popolazione dei draghi sia tremendamente aumentata, ho trovato che in linea di massima, la loro società nel suo insieme non è cambiata poi molto."
 
 # game/chapter4.rpy:4608
 translate italiantl _call_skipcheck_21_3fee8a5c:
