@@ -64,7 +64,7 @@ translate italiantl _call_skipcheck_30_0054b77b:
 translate italiantl _call_skipcheck_30_7e7e79bf:
 
     # Ad normal b "Oh, I'm sorry if it came across that way, but I don't think we'll actually have much time to take part in the festivities."
-    Ad normal b "Oh, mi dispiace se ti ho dato questa impressione, ma non credo che in effetti avremo poi molto tempo per prendere parte ai festeggiamenti."
+    Ad normal b "Oh, mi dispiace se ti ho dato questa impressione, ma non credo che in effetti avremo molto tempo per prendere parte ai festeggiamenti."
 
 # game/adine4.rpy:121
 translate italiantl _call_skipcheck_30_f0b69231:
@@ -184,7 +184,7 @@ translate italiantl _call_skipcheck_30_579bbff4:
 translate italiantl _call_skipcheck_30_a8366068:
 
     # Ad think b "Besides, they'd certainly stare and start asking all kinds of questions."
-    Ad think b "E poi, non farebbero che fissarti e inizierebbero a farti ogni genere di domande." # "certainly" -> "only"
+    Ad think b "E poi, non farebbero che fissare e inizierebbero a farti ogni genere di domande." # "certainly" -> "only"
 
 # game/adine4.rpy:179
 translate italiantl _call_skipcheck_30_9bc9068c:
@@ -496,7 +496,7 @@ translate italiantl _call_skipcheck_30_0e18ac17:
 translate italiantl _call_skipcheck_30_8f90f4fd:
 
     # Ad "If I start making excuses now, maybe I'll never stop. I'll always be too nervous, or too injured, or didn't eat right the day before. I feel bad enough as it is."
-    Ad "Se inizio a trovare delle scuse adesso, forse non smetterò mai. Sarò sempre troppo nervosa, o troppo infortunata, o non avrò mangiato bene il giorno prima. Mi sento già abbastanza in colpa così."
+    Ad "Se adesso inizio a trovare scuse, forse non smetterò mai. Sarò sempre troppo nervosa, o troppo infortunata, o non avrò mangiato bene il giorno prima. Mi sento già abbastanza in colpa così."
 
 # game/adine4.rpy:295
 translate italiantl _call_skipcheck_30_fb8f8319:
@@ -544,13 +544,13 @@ translate italiantl _call_skipcheck_30_0b775fd0:
 translate italiantl _call_skipcheck_30_18130646:
 
     # c "I just can't help thinking about last time. If you crash like that again, there's no sand here to cushion your fall. It would be much worse."
-    c "È solo che non riesco a non pensare all'ultima volta. Se ti schianterai di nuovo a quel modo, non ci sarà nessuna sabbia qui ad attutire la tua caduta. Sarebbe molto peggio." # "be much worse" -> "end much worse"
+    c "È che non riesco a non pensare all'ultima volta. Se ti schianterai di nuovo a quel modo, non ci sarà nessuna sabbia qui ad attutire la tua caduta. Sarebbe molto peggio."
 
 # game/adine4.rpy:311
 translate italiantl _call_skipcheck_30_d7634421:
 
     # Ad annoyed b b "You think I don't know that? That I'm not already worrying about this more than I ever have for anything else? I just don't want to make excuses anymore."
-    Ad annoyed b b "Credi che non lo sappia? Che non mi stia già preoccupando per questo più di quanto non abbia mai fatto per nient'altro? È solo che non voglio più trovare scuse."
+    Ad annoyed b b "Credi che non lo sappia? Che non mi stia già preoccupando per questo più di quanto non abbia mai fatto per nient'altro? È che non voglio più trovare scuse."
 
 # game/adine4.rpy:313
 translate italiantl _call_skipcheck_30_09924f41:
@@ -1330,7 +1330,7 @@ translate italiantl _call_skipcheck_30_25ee6891:
 translate italiantl _call_skipcheck_30_e01bf2e4:
 
     # m "The camera cut to the inside of the home while the chattering of small talk could be heard."
-    m "L'inquadratura tagliò all'interno della casa mentre si poteva sentire il mormorio di una conversazione casuale."
+    m "L'inquadratura tagliò all'interno della casa mentre si poteva sentire il mormorio di una conversazione."
 
 # game/adine4.rpy:635
 translate italiantl _call_skipcheck_30_f4748bb5:
@@ -1846,7 +1846,7 @@ translate italiantl a4shower_e7e86b90:
 translate italiantl a4shower_076354c1:
 
     # m "The forked tip of her tail was still hovering inches in front of my face. Its peculiar shape reminded me of something, and I couldn't help but grab it and hold it like a telephone."
-    m "La punta biforcuta della sua coda era ancora sospesa a pochi centimetri di fronte al mio viso. La sua forma peculiare mi ricordò qualcosa, e non potei fare a meno di afferrarla e tenerla come un telefono." # "inches" -> "centimeters"
+    m "La punta biforcuta della sua coda era ancora sospesa a pochi centimetri davanti al mio viso. La sua forma peculiare mi ricordò qualcosa, e non potei fare a meno di afferrarla e tenerla come un telefono." # "inches" -> "centimeters"
 
 # game/adine4.rpy:909
 translate italiantl a4shower_f2d7c91f:

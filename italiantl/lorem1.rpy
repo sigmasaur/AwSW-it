@@ -1282,7 +1282,7 @@ translate italiantl _call_skipcheck_16_57968227:
 translate italiantl _call_skipcheck_16_c538817e:
 
     # Lo normal "And it's not just for me. Some people ask me to open their letters for them, since doing that on their own can be difficult for some of the less dextrous and older ones."
-    Lo normal "E non è soltanto per me. Alcuni mi chiedono di aprirgli le lettere per loro, dato che farlo da soli può essere difficile per alcuni dei più anziani o con una minore manualità."
+    Lo normal "E non è soltanto per me. Alcuni mi chiedono di aprire le lettere per loro, dato che farlo da soli può essere difficile per alcuni dei più anziani o con una minore manualità."
 
 # game/lorem1.rpy:788
 translate italiantl _call_skipcheck_16_5a56cb9b:
@@ -1306,7 +1306,7 @@ translate italiantl _call_skipcheck_16_c9537556:
 translate italiantl _call_skipcheck_16_1883cb8f:
 
     # Lo happy "Of course, being able to fly is a big plus. My size means I can't deliver any big packages, but I often get assigned to urgent letters that have to be delivered as soon as possible."
-    Lo happy "Ovviamente, essere in grado di volare è un grosso vantaggio. La mia taglia non mi permette di consegnare grossi pacchi, ma spesso mi vengono assegnate lettere urgenti che devono essere consegnate il più presto possibile."
+    Lo happy "Ovviamente, essere in grado di volare è un grosso vantaggio. La mia taglia non mi permette di consegnare grossi pacchi, ma spesso mi vengono assegnate lettere urgenti che vanno consegnate il più presto possibile." # "means I can't" -> "doesn't allow me to"
 
 # game/lorem1.rpy:813
 translate italiantl _call_skipcheck_16_03042aef:
@@ -1570,7 +1570,7 @@ translate italiantl strings:
 
     # lorem1.rpy:368
     old "You certainly seem passionate enough about this."
-    new "Di certo sembri aver preso a cuore questa cosa."
+    new "Di certo sembri aver preso a cuore la cosa."
 
     # lorem1.rpy:368
     old "Those are some messed up priorities."
@@ -1594,7 +1594,7 @@ translate italiantl strings:
 
     # lorem1.rpy:456
     old "I don't have a breath weapon, unless you count my morning breath."
-    new "Io non ho un'arma da sputo, a meno che non conti gli sputacchi." # must match line 453
+    new "Io non ho un'arma da sputo, a meno che non conti gli sputacchi." # adapted to preserve a pun; must match line 453
 
     # lorem1.rpy:456
     old "I can rub two sticks together to make fire. Does that count?"

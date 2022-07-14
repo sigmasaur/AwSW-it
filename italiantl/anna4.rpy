@@ -520,7 +520,7 @@ translate italiantl _call_skipcheck_17_54c05cee:
 translate italiantl _call_skipcheck_17_bf062190:
 
     # An "I will spend my last days bedridden in a prison cell, and no one will visit me or care."
-    An "Passerò i miei ultimi giorni costretta al letto di una cella, e nessuno che mi faccia visita o a cui importi." # "in a [prison] cell"
+    An "Passerò i miei ultimi giorni costretta al letto di una cella, e nessuno che mi faccia visita o a cui importi." # "in a [prison] cell"; "no one will" -> "no one to"
 
 # game/anna4.rpy:321
 translate italiantl _call_skipcheck_17_e98b2883:
@@ -538,7 +538,7 @@ translate italiantl _call_skipcheck_17_09163495:
 translate italiantl _call_skipcheck_17_62d3329a:
 
     # An face "I don't want to cry in front of you. I don't want the attention or the pity. I don't want it."
-    An face "Non voglio piangere davanti a te. Non voglio né attenzioni, né compassione. Non le voglio." # "attentionS"
+    An face "Non voglio piangere davanti a te. Non voglio le attenzioni o la compassione. Non le voglio." # "attentionS"
 
 # game/anna4.rpy:329
 translate italiantl anna4skip1_cbbc280d:
@@ -1024,13 +1024,13 @@ translate italiantl _call_skipcheck_18_a6c475aa:
 translate italiantl _call_skipcheck_18_ea1507a8:
 
     # c "Do you need help cleaning up?"
-    c "Ti serve aiuto per fare pulizia?"
+    c "Ti serve aiuto per pulire?"
 
 # game/anna4.rpy:603
 translate italiantl _call_skipcheck_18_c01cbb0a:
 
     # An face "No, I can pay someone to do it later. I just don't want to be there right now."
-    An face "No, posso pagare qualcuno per farlo più tardi. È solo che non voglio stare là in questo momento."
+    An face "No, posso pagare qualcuno per farlo più tardi. È che non voglio stare là in questo momento."
 
 # game/anna4.rpy:605
 translate italiantl _call_skipcheck_18_4d006aae:
@@ -1732,7 +1732,7 @@ translate italiantl anna4skip2_dfc6aaca:
 translate italiantl anna4skip2_b6123621:
 
     # An "I figured as much. Don't worry about it, though. I can see it on my own. It just would've been nice to have some company."
-    An "Sì, lo immaginavo. Non ti preoccupare, comunque. Posso vederlo anche per conto mio. È solo che sarebbe stato bello avere un po' di compagnia." # "YEAH, I figured as much"
+    An "Sì, lo immaginavo. Non ti preoccupare, comunque. Posso vederlo anche per conto mio. È che sarebbe stato bello avere un po' di compagnia." # "YEAH, I figured as much"
 
 # game/anna4.rpy:882
 translate italiantl anna4skip2_e9412bc9:

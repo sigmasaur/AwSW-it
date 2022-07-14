@@ -1182,13 +1182,13 @@ translate italiantl c3conty_ba5b8cc9:
 translate italiantl c3conty_8759d94c:
 
     # n "Even children had the power to access the most advanced knowledge at their fingertips. With our PDAs, our interconnectedness with other people and our environment was greater than ever."
-    n "Persino i bambini detenevano il potere di accedere alle più avanzate conoscenze a portata di mano. Coi nostri palmari, la nostra interconnessione con le persone e il nostro ambiente non era mai stata così forte." # "with [other] people"
+    n "Persino i bambini detenevano il potere di accedere alle più avanzate conoscenze a portata di mano. Coi nostri palmari, la nostra interconnessione con le persone e con l'ambiente non era mai stata così forte." # "with [other] people"; "our environment" -> "the environment"
 
 # game/chapter3.rpy:1302
 translate italiantl c3conty_26772518:
 
     # n "From locomotion to repetitious work and household chores, many processes were automated to such a degree that except for our jobs and hobbies, there was nothing that needed to be done by a person anymore."
-    n "Dalla locomozione al lavoro meccanico, alle faccende di casa, molti processi erano stati automatizzati a tal punto che ad eccezione dei nostri impieghi e passatempi, non vi era più niente che dovesse essere svolto da una persona."
+    n "Dalla locomozione al lavoro meccanico, alle faccende di casa, molti processi erano stati automatizzati a tal punto che ad eccezione dei nostri impieghi e passatempi, non vi era più nulla che dovesse essere svolto da una persona."
 
 # game/chapter3.rpy:1304
 translate italiantl c3conty_40299bbc:
@@ -3514,7 +3514,7 @@ translate italiantl c3sections_b39f8015:
 translate italiantl c3sections_73e9833f:
 
     # m "The gravity of the situation was understood, and I was advised to stay inside until further notice. A team was dispatched to deal with the situation while I waited. From my window, I tried to catch a glimpse of what was going on at the portal, but I couldn't see much. The dark of night was fast approaching."
-    m "La gravità della situazione fu compresa, e io fui raccomandatə di restare in casa fino a ulteriore avviso. Una squadra fu inviata a occuparsi della situazione mentre aspettavo. Dalla mia finestra, tentai di cogliere uno scorcio di quel che accadeva al portale, ma non riuscii a vedere granché. Il buio della notte era ormai alle soglie."
+    m "La gravità della situazione fu compresa, e io fui raccomandatə di rimanere in casa fino a ulteriore avviso. Una squadra fu inviata a occuparsi della situazione mentre aspettavo. Dalla mia finestra, tentai di cogliere uno scorcio di quel che accadeva al portale, ma non riuscii a vedere granché. Il buio della notte era ormai alle soglie."
 
 # game/chapter3.rpy:2471
 translate italiantl c3sections_c1a0a1fb:
@@ -3538,7 +3538,7 @@ translate italiantl c3sections_7fc7a351:
 translate italiantl c3sections_2095df67:
 
     # m "In the end, I decided to wait. Investigating was difficult work, yes, but I decided it would be safer to lay low and stay inside for now. I'd gathered enough information for today."
-    m "Alla fine, decisi di aspettare. Investigare era un lavoro difficile, vero, ma decisi che sarebbe stato più sicuro se me ne fossi rimastə in casa per il momento. Avevo raccolto abbastanza informazioni per il giorno."
+    m "Alla fine, decisi di aspettare. Investigare era un lavoro difficile, vero, ma decisi che per il momento sarebbe stato più sicuro rimanere in casa e non dare nell'occhio. Avevo raccolto abbastanza informazioni per il giorno."
 
 # game/chapter3.rpy:2517
 translate italiantl c3sections_003d8d2c:
@@ -3664,7 +3664,7 @@ translate italiantl c3fac_811641e2:
 translate italiantl c3fac_507a8424:
 
     # Lo think "He sounded very emotional, which is very unusual for him."
-    Lo think "Sembrava molto suscettibile, il che è insolito da parte sua."
+    Lo think "Sembrava molto suscettibile, il che è molto insolito da parte sua."
 
 # game/chapter3.rpy:2633
 translate italiantl c3fac_fc1684d0:
@@ -3760,19 +3760,19 @@ translate italiantl c3fac_c74cd445:
 translate italiantl c3fac_2f8d49ac_1:
 
     # Lo think "I should really get going before my roommate blows up the apartment."
-    Lo think "Dovrei proprio darmi una mossa prima che il mio coinquilino faccia saltare in aria l'appartamento."
+    Lo think "Dovrei proprio darmi una mossa prima che il mio coinquilino faccia saltare in aria l'appartamento." # see line 2655
 
 # game/chapter3.rpy:2680
 translate italiantl c3fac_da705393_1:
 
     # c "Sure. Take care."
-    c "Certo. Stammi bene."
+    c "Certo. Stammi bene." # see line 2657
 
 # game/chapter3.rpy:2682
 translate italiantl c3fac_9a4a39ed:
 
     # Lo normal "You too!"
-    Lo normal "Anche tu!"
+    Lo normal "Anche tu!" # see line 2659
 
 # game/chapter3.rpy:2691
 translate italiantl c3fac_803f3f6a:
@@ -3844,49 +3844,49 @@ translate italiantl c3fac_b092993f:
 translate italiantl c3fac_0b226d75_1:
 
     # Lo happy "Hey, [player_name]!"
-    Lo happy "Ehi, [player_name]!"
+    Lo happy "Ehi, [player_name]!" # see line 2625
 
 # game/chapter3.rpy:2727
 translate italiantl c3fac_418328d3_1:
 
     # c "Lorem, what are you doing here?"
-    c "[Lo], che ci fai tu qui?"
+    c "[Lo], che ci fai tu qui?" # see line 2627
 
 # game/chapter3.rpy:2729
 translate italiantl c3fac_811641e2_1:
 
     # Lo normal "I'm just fetching some equipment for my roommate. He's in the middle of an experiment and really needs this stuff."
-    Lo normal "Sto solo recuperando dell'attrezzatura per il mio coinquilino. È nel bel mezzo di un esperimento e ha proprio bisogno di questa roba."
+    Lo normal "Sto solo recuperando dell'attrezzatura per il mio coinquilino. È nel bel mezzo di un esperimento e ha proprio bisogno di questa roba." # see line 2629
 
 # game/chapter3.rpy:2731
 translate italiantl c3fac_507a8424_1:
 
     # Lo think "He sounded very emotional, which is very unusual for him."
-    Lo think "Sembrava molto suscettibile, il che è insolito da parte sua."
+    Lo think "Sembrava molto suscettibile, il che è molto insolito da parte sua." # see line 2631
 
 # game/chapter3.rpy:2733
 translate italiantl c3fac_fc1684d0_1:
 
     # c "Sounds like it's serious."
-    c "Si direbbe una cosa seria."
+    c "Si direbbe una cosa seria." # see line 2633
 
 # game/chapter3.rpy:2735
 translate italiantl c3fac_8d3704cb_1:
 
     # Lo happy "And you're here for important human business, I bet."
-    Lo happy "E scommetto che tu sei qui per importanti affari umani."
+    Lo happy "E scommetto che tu sei qui per importanti affari umani." # see line 2635
 
 # game/chapter3.rpy:2737
 translate italiantl c3fac_c48dc32f_1:
 
     # c "Sure."
-    c "Sicuro."
+    c "Sicuro." # see line 2637
 
 # game/chapter3.rpy:2739
 translate italiantl c3fac_edda43e2:
 
     # Lo think "By the way, how about I invite you to our place sometime? There’s another thing you could help me with."
-    Lo think "Ad ogni modo, che ne diresti se ti invitassi da noi qualche volta? Ci sarebbe un'altra cosa con cui potresti aiutarmi."
+    Lo think "Ad ogni modo, che ne diresti se ti invitassi da noi qualche volta? Ci sarebbe un'altra cosa con cui potresti aiutarmi." # see line 2639
 
 # game/chapter3.rpy:2741
 translate italiantl c3fac_0f173ebb:
@@ -3922,73 +3922,73 @@ translate italiantl c3fac_8e1bc377:
 translate italiantl c3fac_de96437c:
 
     # Lo happy "Great, thanks!"
-    Lo happy "Ottimo, grazie!"
+    Lo happy "Ottimo, grazie!" # see line 2653
 
 # game/chapter3.rpy:2753
 translate italiantl c3fac_2f8d49ac_2:
 
     # Lo think "I should really get going before my roommate blows up the apartment."
-    Lo think "Dovrei proprio darmi una mossa prima che il mio coinquilino faccia saltare in aria l'appartamento."
+    Lo think "Dovrei proprio darmi una mossa prima che il mio coinquilino faccia saltare in aria l'appartamento." # see line 2655
 
 # game/chapter3.rpy:2755
 translate italiantl c3fac_da705393_2:
 
     # c "Sure. Take care."
-    c "Certo. Stammi bene."
+    c "Certo. Stammi bene." # see line 2657
 
 # game/chapter3.rpy:2757
 translate italiantl c3fac_9a4a39ed_1:
 
     # Lo normal "You too!"
-    Lo normal "Anche tu!"
+    Lo normal "Anche tu!" # see line 2659
 
 # game/chapter3.rpy:2763
 translate italiantl c3fac_0b226d75_2:
 
     # Lo happy "Hey, [player_name]!"
-    Lo happy "Ehi, [player_name]!"
+    Lo happy "Ehi, [player_name]!" # see line 2625
 
 # game/chapter3.rpy:2765
 translate italiantl c3fac_418328d3_2:
 
     # c "Lorem, what are you doing here?"
-    c "[Lo], che ci fai tu qui?"
+    c "[Lo], che ci fai tu qui?" # see line 2627
 
 # game/chapter3.rpy:2767
 translate italiantl c3fac_f5027e57:
 
     # Lo normal "I'm just fetching some equipment for Ipsum. He's in the middle of an experiment and really needs this stuff."
-    Lo normal "Sto solo recuperando dell'attrezzatura per [Ip]. È nel bel mezzo di un esperimento e ha proprio bisogno di questa roba."
+    Lo normal "Sto solo recuperando dell'attrezzatura per [Ip]. È nel bel mezzo di un esperimento e ha proprio bisogno di questa roba." # see line 2629
 
 # game/chapter3.rpy:2769
 translate italiantl c3fac_507a8424_2:
 
     # Lo think "He sounded very emotional, which is very unusual for him."
-    Lo think "Sembrava molto suscettibile, il che è insolito da parte sua."
+    Lo think "Sembrava molto suscettibile, il che è molto insolito da parte sua." # see line 2631
 
 # game/chapter3.rpy:2771
 translate italiantl c3fac_fc1684d0_2:
 
     # c "Sounds like it's serious."
-    c "Si direbbe una cosa seria."
+    c "Si direbbe una cosa seria." # see line 2633
 
 # game/chapter3.rpy:2773
 translate italiantl c3fac_070d6998:
 
     # Lo normal "And you're here for important human business, I bet."
-    Lo normal "E scommetto che tu sei qui per importanti affari umani."
+    Lo normal "E scommetto che tu sei qui per importanti affari umani." # see line 2635
 
 # game/chapter3.rpy:2775
 translate italiantl c3fac_c48dc32f_2:
 
     # c "Sure."
-    c "Sicuro."
+    c "Sicuro." # see line 2637
 
 # game/chapter3.rpy:2777
 translate italiantl c3fac_76da7c59:
 
     # Lo happy "By the way, do you still accept my invitation? I have something really neat planned!"
-    Lo happy "Ad ogni modo, accetti ancora il mio invito? Ho in serbo qualcosa di davvero carino!"
+    Lo happy "Ad ogni modo, accetti ancora il mio invito? Ho in serbo qualcosa di davvero carino!" # see line 2639
 
 # game/chapter3.rpy:2779
 translate italiantl c3fac_b00d059d:
@@ -4000,25 +4000,25 @@ translate italiantl c3fac_b00d059d:
 translate italiantl c3fac_9bc73867:
 
     # Lo normal "It's no problem, really. Just let me know when you have the time and I'll make it happen."
-    Lo normal "Non c'è problema, davvero. Fammi solo sapere quando hai tempo e farò in modo di organizzarmi."
+    Lo normal "Non c'è problema, davvero. Fammi solo sapere quando hai tempo e farò in modo di organizzarmi." # see line 2649
 
 # game/chapter3.rpy:2783
 translate italiantl c3fac_57cfd7b3:
 
     # Lo think "I should really get going before Ipsum blows up the apartment."
-    Lo think "Dovrei proprio darmi una mossa prima che [Ip] faccia saltare in aria l'appartamento."
+    Lo think "Dovrei proprio darmi una mossa prima che [Ip] faccia saltare in aria l'appartamento." # see line 2655
 
 # game/chapter3.rpy:2785
 translate italiantl c3fac_da705393_3:
 
     # c "Sure. Take care."
-    c "Certo. Stammi bene."
+    c "Certo. Stammi bene." # see line 2657
 
 # game/chapter3.rpy:2787
 translate italiantl c3fac_9a4a39ed_2:
 
     # Lo normal "You too!"
-    Lo normal "Anche tu!"
+    Lo normal "Anche tu!" # see line 2659
 
 # game/chapter3.rpy:2795
 translate italiantl c3fac_e8b28693:
@@ -4030,7 +4030,7 @@ translate italiantl c3fac_e8b28693:
 translate italiantl c3fac_d014df32:
 
     # Dm "Oh, it's you again. What do you want?"
-    Dm "Oh, sei tu di nuovo. Che cosa vuoi?"
+    Dm "Oh, sei di nuovo tu. Che cosa vuoi?"
 
 # game/chapter3.rpy:2835
 translate italiantl c3fac_9d308e3d:
@@ -4060,7 +4060,7 @@ translate italiantl c3fac_47de3b7f:
 translate italiantl c3fac_0689c98b:
 
     # Dm face "Yes. Where I come from, people usually introduce themselves before they start asking questions, though."
-    Dm face "Sì. Dalle mie parti, la gente di solito si presenta prima di iniziare a far domande, comunque."
+    Dm face "Sì. Dalle mie parti, la gente di solito si presenta prima di iniziare a fare domande, comunque."
 
 # game/chapter3.rpy:2845
 translate italiantl c3fac_2c897276:
@@ -4108,7 +4108,7 @@ translate italiantl c3fac_30b3db04:
 translate italiantl c3fac_de6b4811:
 
     # Dm "And who are you to go around asking questions like that?"
-    Dm "E chi sei tu per andartene in giro a far domande a quel modo?"
+    Dm "E chi sei tu per andartene in giro a fare domande a quel modo?"
 
 # game/chapter3.rpy:2864
 translate italiantl c3fac_2837cec7:
@@ -4162,7 +4162,7 @@ translate italiantl c3fac_1bbcca06:
 translate italiantl c3fac_b8b1dbad:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:2911
 translate italiantl c3fac_f3b5df06:
@@ -4204,7 +4204,7 @@ translate italiantl c3fac_1bbcca06_1:
 translate italiantl c3fac_b8b1dbad_1:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:2932
 translate italiantl c3fac_f3b5df06_1:
@@ -4246,7 +4246,7 @@ translate italiantl c3fac_1bbcca06_2:
 translate italiantl c3fac_99ccd528:
 
     # An face b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An face b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An face b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:2953
 translate italiantl c3fac_f3b5df06_2:
@@ -4294,7 +4294,7 @@ translate italiantl c3fac_9b75e60c:
 translate italiantl c3fac_b8b1dbad_2:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:2990
 translate italiantl c3fac_f3b5df06_3:
@@ -4360,7 +4360,7 @@ translate italiantl c3fac_1bbcca06_3:
 translate italiantl c3fac_b8b1dbad_3:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E com'è che te ne vai in giro a far domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
 
 # game/chapter3.rpy:3044
 translate italiantl c3fac_f3b5df06_4:
@@ -4612,7 +4612,7 @@ translate italiantl c3arc_7860fa8b:
 translate italiantl c3arc_417b34b4:
 
     # Ka "The cart is pretty heavy, so I'll be the one lifting it and holding the wheel steady so the axle doesn't break. Once I give you the sign, you start pulling, and hopefully that'll do the trick."
-    Ka "Il carretto è piuttosto pesante, quindi sarò io a sollevarlo e a tenere ferma la ruota cosicché l'asse non ceda. Una volta che ti avrò dato il segnale, tu comincia a tirare, e speriamo che così funzioni."
+    Ka "Il carretto è piuttosto pesante, quindi sarò io a sollevarlo e a tenere ferma la ruota cosicché l'asse non ceda. Una volta che ti avrò dato il segnale, tu inizia a tirare, e speriamo che così funzioni."
 
 # game/chapter3.rpy:3298
 translate italiantl c3arc_86148265:

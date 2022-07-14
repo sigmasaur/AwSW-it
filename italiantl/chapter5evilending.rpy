@@ -634,7 +634,7 @@ translate italiantl no_f00f491c:
 translate italiantl no_3136b4bd:
 
     # c "I can't do that, Reza." # reference to 2001's Hal 9000
-    c "Non posso farlo, [Rz]." # used the Italian translation of a Space Odyssey
+    c "Non posso farlo, [Rz]." # used the Italian translation of A Space Odyssey
 
 # game/chapter5evilending.rpy:543
 translate italiantl no_b1f85f2a:
@@ -760,13 +760,13 @@ translate italiantl no_ed68b007:
 translate italiantl no_50b2933d:
 
     # Rz angry "The pettiness and the politics. Say about the solar flare what you want, but it leveled the playing field and gave people like us a chance to make a difference."
-    Rz angry "La meschinità e la politica. Di' pure quello che vuoi del brillamento solare, ma ha spianato il campo da gioco e ha dato alla gente come noi l'opportunità di fare la differenza."
+    Rz angry "La meschinità e la politica. Di' pure quello che vuoi del brillamento solare, ma ha spianato il campo da gioco e ha dato a quelli come noi l'opportunità di fare la differenza."
 
 # game/chapter5evilending.rpy:585
 translate italiantl no_057799eb:
 
     # Rz "For all of our efforts, what did we get? A vote that was meaningless in a sea of stupidity and lies. Now everyone has to pull their own weight. We make the rules."
-    Rz "Tutti i nostri sforzi, e cosa avevamo ottenuto? Un voto ch'era privo di significato in un mare di stupidità e menzogna. Adesso ognuno deve fare la sua parte. Siamo noi a dettare le regole."
+    Rz "Tutti i nostri sforzi, e cosa avevamo ottenuto? Un voto che era privo di significato in un mare di stupidità e menzogna. Adesso ognuno deve fare la sua parte. Siamo noi a dettare le regole."
 
 # game/chapter5evilending.rpy:587
 translate italiantl no_5e7282f6:

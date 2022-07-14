@@ -178,7 +178,7 @@ translate italiantl _call_skipcheck_11_24b39723_1:
 translate italiantl _call_skipcheck_11_9cf059a8:
 
     # Br "Hey, [player_name]. Don't worry, I'm not here to talk about last time. This is strictly business."
-    Br "Ehi, [player_name]. Sta' tranquillə, non sono qui per parlare dell'ultima volta. È soltanto per lavoro."
+    Br "Ehi, [player_name]. Tranquillə, non sono qui per parlare dell'altra volta. È soltanto per lavoro."
 
 # game/chapter2.rpy:368
 translate italiantl _call_skipcheck_11_2003f708_1:
@@ -208,7 +208,7 @@ translate italiantl _call_skipcheck_11_e085fae4:
 translate italiantl _call_skipcheck_11_0373f873:
 
     # Br "I hope you're in the mood for some good, old-fashioned police work."
-    Br "Spero che tu sia dell'umore per del buon, vecchio lavoro da poliziotto."
+    Br "Spero tu sia dell'umore per del buon, vecchio lavoro da poliziotto."
 
 # game/chapter2.rpy:391
 translate italiantl _call_skipcheck_11_1a499248_1:
@@ -706,7 +706,7 @@ translate italiantl _call_skipcheck_11_ec9e9e05:
 translate italiantl _call_skipcheck_11_4efdbd2a:
 
     # m "The figure crouched down next to me, its mask hovering right in front of my face. Merely a whisper reached my ears when it spoke."
-    m "La figura si chinò accanto a me, la sua maschera sospesa proprio di fronte al mio viso. Solamente un sussurro raggiunse il mio orecchio quand'essa parlò."
+    m "La figura si chinò accanto a me, la sua maschera sospesa proprio davanti al mio viso. Solamente un sussurro raggiunse il mio orecchio quand'essa parlò."
 
 # game/chapter2.rpy:777
 translate italiantl _call_skipcheck_11_9beb3abe:
@@ -1165,7 +1165,7 @@ translate italiantl chap2q1_d673d2c2:
 translate italiantl chap2q1_c04cc9d5:
 
     # Br normal b "Considering your status, you shouldn't have any trouble in these places, but if anything happens, call me and I'll check up on you later."
-    Br normal b "Considerando la tua posizione, non dovresti avere problemi in questi posti, ma se succede qualcosa, chiamami e verrò a controllarti più tardi."
+    Br normal b "Considerando la tua posizione, non dovresti avere problemi in questi posti, ma se succede qualcosa, chiamami e verrò a controllare come stai più tardi."
 
 # game/chapter2.rpy:1116
 translate italiantl chap2q1_2476223c:
@@ -2817,7 +2817,7 @@ translate italiantl _call_syscheck_53_32642f7c:
 translate italiantl _call_syscheck_53_4c490094:
 
     # s "You acquired an Ixomen Sphere part (Orb). I hope you have big pockets to carry this thing around in. {image=image/ui/status/orb_taken.png}"
-    s "Hai acquisito una parte di Sfera di Ixomen (Orbe). Spero che tu abbia tasche abbastanza grandi da portarci dentro quest'affare.{image=image/ui/status/orb_taken.png}" # "big ENOUGH pockets"
+    s "Hai acquisito una parte di Sfera di Ixomen (Orbe). Spero tu abbia tasche abbastanza grandi da portarci dentro quest'affare.{image=image/ui/status/orb_taken.png}" # "big ENOUGH pockets"
 
 # game/chapter2.rpy:2433
 translate italiantl _call_syscheck_53_fd263fbb:
@@ -3099,7 +3099,7 @@ translate italiantl chap2park3_94880a99:
 translate italiantl chap2park3_14d84080:
 
     # Lu "I should really look where I'm going. Sometimes, I just get lost in my thoughts."
-    Lu "Dovrei stare più attento a dove vado. È solo che a volte mi perdo nei miei pensieri."
+    Lu "Dovrei stare più attento a dove vado. È che a volte mi perdo nei miei pensieri."
 
 # game/chapter2.rpy:3136
 translate italiantl chap2park3_bbbe0966:
@@ -3393,7 +3393,7 @@ translate italiantl chap2emselection_dd896968:
 translate italiantl chap2emselection_4bbd843e:
 
     # Em ques "Well, I'm not so sure there is that much to say about it."
-    Em ques "Be', non sono sicura ci sia granché da dire al riguardo."
+    Em ques "Be', non sono sicura ci sia poi granché da dire al riguardo."
 
 # game/chapter2.rpy:3334
 translate italiantl chap2emselection_3bca9ae4:
@@ -3477,7 +3477,7 @@ translate italiantl _call_skipcheck_12_0054b77b:
 translate italiantl _call_skipcheck_12_abcf1389:
 
     # c "(I'm not sure how my findings will help, but at least I have something.)"
-    c "(Non sono sicurə di come le mie scoperte saranno d'aiuto, ma almeno ho qualcosa.)"
+    c "(Non sono sicurə che le mie scoperte saranno d'aiuto, ma almeno ho qualcosa.)" # "how" -> "if"
 
 # game/chapter2.rpy:3482
 translate italiantl _call_skipcheck_12_86cdfcf0:
@@ -3675,7 +3675,7 @@ translate italiantl _call_skipcheck_12_072a50de:
 translate italiantl _call_skipcheck_12_c67f62de:
 
     # n "I wasn't even sure if it was worth mentioning to the police, since all he did was make vague accusations. It wasn't anything substantial enough to be considered a threat."
-    n "Non ero nemmeno sicurə valesse la pena di menzionarlo alla polizia, dal momento che non aveva fatto altro che lanciare vaghe accuse. Niente di così sostanziale da considerarsi una minaccia." # "it wasn't anything" -> "nothing"
+    n "Non ero nemmeno sicurə che valesse la pena di menzionarlo alla polizia, dal momento che non aveva fatto altro che lanciare vaghe accuse. Niente di così sostanziale da considerarsi una minaccia." # "it wasn't anything" -> "nothing"
 
 # game/chapter2.rpy:3603
 translate italiantl _call_skipcheck_12_9457078a:
@@ -3891,7 +3891,7 @@ translate italiantl _call_skipcheck_12_be016faf:
 translate italiantl _call_skipcheck_12_ce812a36:
 
     # Sb "You can go over the same facts and evidence dozens of times and still miss something. Focus and keep trying, and you'll eventually find something new."
-    Sb "Puoi avere ripercorso gli stessi fatti ed elementi dozzine di volte e ancora esserti perso qualcosa. Concentrati e continua a provare, e alla fine troverai qualche cosa di nuovo."
+    Sb "Puoi avere ripercorso gli stessi fatti ed elementi dozzine di volte e ancora esserti perso qualcosa. Concéntrati e continua a provare, e alla fine troverai qualcosa di nuovo."
 
 # game/chapter2.rpy:3710
 translate italiantl _call_skipcheck_12_bff08eef:
@@ -4005,7 +4005,7 @@ translate italiantl chap2skip3_35e3cdf6:
 translate italiantl chap2skip3_06edf7ee:
 
     # Sb "I'm not sure if there's anything special about Anna wanting Reza's blood. I mean, she's a scientist, so it's natural that she'd be interested in something like that."
-    Sb "Non sono sicuro che ci sia niente di speciale nel fatto che [An] volesse il sangue di [Rz]. Voglio dire, lei è una scienziata, quindi è naturale che mostri interesse per qualcosa del genere."
+    Sb "Non sono sicuro che ci sia niente di speciale nel fatto che [An] volesse il sangue di [Rz]. Voglio dire, lei è una scienziata, quindi è naturale che si interessi a qualcosa del genere."
 
 # game/chapter2.rpy:3782
 translate italiantl chap2skip3_3dd1ee3e:
@@ -4029,7 +4029,7 @@ translate italiantl chap2skip3_12dac46c:
 translate italiantl chap2skip3_0778013f:
 
     # Sb smile b "Well done, [player_name]. That gives us some solid points from which we can continue our investigation."
-    Sb smile b "Ben fatto, [player_name]. Questo ci dà alcuni solidi punti da cui possiamo riprendere la nostra indagine."
+    Sb smile b "Ben fatto, [player_name]. Questo ci dà alcuni punti fermi da cui possiamo continuare la nostra indagine."
 
 # game/chapter2.rpy:3816
 translate italiantl _call_syscheck_58_b1a41a23:

@@ -358,7 +358,7 @@ translate italiantl _call_skipcheck_23_2d65d668:
 translate italiantl _call_skipcheck_23_89403437:
 
     # c "Don't just focus on the bad things. It's no use lamenting something you can't change."
-    c "Non focalizzarti solo sulle brutte cose. Non serve a nulla dolersi di qualcosa che non puoi cambiare."
+    c "Non focalizzarti solo sulle brutte cose. È inutile dolersi di qualcosa che non puoi cambiare."
 
 # game/adine2.rpy:329
 translate italiantl _call_skipcheck_23_fa4cb7ce:
@@ -1084,7 +1084,7 @@ translate italiantl adine2menb_06b47c2f:
 translate italiantl adine2menb_136ed5fb:
 
     # Ad think b "Your past is filled with fire, strife and conflict. Yet like steel, you adopted it and were tempered by it. What didn't kill you only made you stronger." # half a reference to quotes from the dark knight & the dark knight rises
-    Ad think b "Il tuo passato è ricolmo di fuoco, discordia e conflitto. Eppure come l'acciaio, l'hai adottato e ne sei statə tempratə. Quello che non ti ha ucciso ti ha solo reso più forte." # half used the Italian translation of the Dark Knight, the Dark Knight Rises
+    Ad think b "Il tuo passato è ricolmo di fuoco, discordia e conflitto. Eppure come l'acciaio, l'hai adottato e ne sei statə tempratə. Quello che non ti ha ucciso ti ha solo reso più forte." # half used the Italian translation of The Dark Knight, The Dark Knight Rises
 
 # game/adine2.rpy:859
 translate italiantl adine2menb_db719df0:
@@ -1654,7 +1654,7 @@ translate italiantl adine2skip_cf1a4a1a:
 translate italiantl adine2skip_3d7a1cf2:
 
     # Ad normal b "It's supposed to be a remnant of an earlier civilization, or maybe even something created by humans. Who wouldn't be interested in that?"
-    Ad normal b "Si suppone essere il vestigio di un'antica civiltà, o magari anche qualcosa di creato dagli umani. Chi non ne sarebbe interessato?"
+    Ad normal b "Si suppone essere il vestigio di un'antica civiltà, o magari anche qualcosa di creato dagli umani. Chi non sarebbe interessato?" # "who wouldn't be interested [in that]"
 
 # game/adine2.rpy:1171
 translate italiantl adine2skip_46a68dc8:
@@ -1684,13 +1684,13 @@ translate italiantl adine2skip_ac60032b:
 translate italiantl adine2skip_045604be:
 
     # Ad think b "You could always say that humanity is interested in it."
-    Ad think b "Potresti sempre dire che è l'umanità ad averne interesse."
+    Ad think b "Potresti sempre dire che è l'umanità ad essere interessata." # "humanity is interested [in it]"
 
 # game/adine2.rpy:1193
 translate italiantl adine2skip_3ffe97ce:
 
     # c "Honestly, they probably would be."
-    c "Onestamente, è probabile che l'avrebbe."
+    c "Onestamente, è probabile che lo sarebbero."
 
 # game/adine2.rpy:1195
 translate italiantl adine2skip_700fa348:
@@ -2168,7 +2168,7 @@ translate italiantl strings:
 
     # adine2.rpy:1165
     old "I'd pay it a visit myself if I could."
-    new "Vi farei una visita io stessə se potessi."
+    new "Ci farei una visita io stessə se potessi."
 
     # adine2.rpy:1199
     old "I can try."

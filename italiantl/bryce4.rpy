@@ -136,7 +136,7 @@ translate italiantl _call_skipcheck_1_126fc530:
 translate italiantl _call_skipcheck_1_42da92ae:
 
     # Br brow "Why would I visit you just to read some crummy book? And besides, I do read from time to time."
-    Br brow "Perché dovrei farti visita solo per leggere un misero libro? E comunque, io leggo di tanto in tanto."
+    Br brow "Perché dovrei venire a trovarti solo per leggere un misero libro? E comunque, io leggo di tanto in tanto."
 
 # game/bryce4.rpy:147
 translate italiantl _call_skipcheck_1_4286af4c:
@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_1_1297fce2:
 translate italiantl _call_skipcheck_1_aeb978db:
 
     # Br normal "Let me take a look around your apartment, then."
-    Br normal "Fammi dare un'occhiata al tuo appartamento, allora." # "around" -> "at"
+    Br normal "Fammi dare un'occhiata al tuo appartamento, allora."
 
 # game/bryce4.rpy:155
 translate italiantl _call_skipcheck_1_7c44f6fc:
@@ -178,7 +178,7 @@ translate italiantl _call_skipcheck_1_aa7b75ec:
 translate italiantl _call_skipcheck_1_e5c84619:
 
     # c "So that's what you're really looking for."
-    c "Allora è quella che cercavi davvero."
+    c "Allora era questo che cercavi davvero."
 
 # game/bryce4.rpy:165
 translate italiantl _call_skipcheck_1_3e022742:
@@ -418,7 +418,7 @@ translate italiantl _call_skipcheck_1_a59f8f81:
 translate italiantl _call_skipcheck_1_824d9ab8:
 
     # Br flirty "Well, we could still play it with just the two of us."
-    Br flirty "Be', possiamo ancora giocarci noi due soli."
+    Br flirty "Be', potremmo ancora giocarci noi due soli."
 
 # game/bryce4.rpy:268
 translate italiantl _call_skipcheck_1_7f1acbd6:
@@ -652,7 +652,7 @@ translate italiantl _call_skipcheck_1_66515c0a:
 translate italiantl _call_skipcheck_1_3cd7e277:
 
     # Br "It's the same for me, really. Sure, they could ask someone else to be Chief, but If I'm the one who's best suited for the job, who am I to reject that? Otherwise, I'd have to blame myself for every mistake the other Chief made."
-    Br "È lo stesso per me, davvero. Certo, potrebbero chiedere a qualcun altro di essere il capo, ma se sono io quello più adatto al lavoro, chi sono io per rifiutarlo? Altrimenti, dovrei farmi una colpa di tutti gli sbagli che commettesse l'altro capo." # corrected lowercase letter of "Chief"
+    Br "È lo stesso per me, davvero. Certo, potrebbero chiedere a qualcun altro di essere il capo, ma se sono io quello più adatto al lavoro, chi sono io per rifiutarlo? Altrimenti, dovrei incolpare me stesso di tutti gli sbagli che commettesse l'altro capo." # corrected lowercase letter of "Chief"
 
 # game/bryce4.rpy:363
 translate italiantl _call_skipcheck_1_d0adae6d:
@@ -1252,7 +1252,7 @@ translate italiantl _call_skipcheck_1_5a1324ba:
 translate italiantl _call_skipcheck_1_8fe2ba10:
 
     # c "Alright, let's forget about time travellers. What if I told you there is another human here besides Reza and me?"
-    c "D'accordo, dimentichiamoci dei viaggiatori nel tempo. E se ti dicessi che c'è un altro umano qui oltre a me e [Rz]?"
+    c "D'accordo, dimentichiamoci i viaggiatori nel tempo. E se ti dicessi che c'è un altro umano qui oltre a me e [Rz]?"
 
 # game/bryce4.rpy:577
 translate italiantl _call_skipcheck_1_4a8b9283:
@@ -1318,7 +1318,7 @@ translate italiantl bryce4skip_e4692167:
 translate italiantl bryce4skip_6ac5d749:
 
     # c "Yeah. I was worried there for a few seconds."
-    c "Già. Mi sono preoccupatə per qualche secondo."
+    c "Già. Mi ero preoccupatə per qualche secondo."
 
 # game/bryce4.rpy:601
 translate italiantl bryce4skip_156df2b4:
@@ -1432,7 +1432,7 @@ translate italiantl bryce4skip_a9f34c76:
 translate italiantl bryce4skip_761eaf9f:
 
     # Br stern "This sucks for everyone involved, so let's just focus on getting things done when on the job and not let it consume us elsewhere."
-    Br stern "È uno schifo per chiunque sia coinvolto, quindi concentriamoci sull'ottenere dei risultati sul lavoro e non lasciamo che ci consumi altrove." # "everyone" -> "anyone"
+    Br stern "È uno schifo per chiunque sia coinvolto, quindi concentriamoci sull'ottenere dei risultati quando siamo sul lavoro e non lasciamo che ci consumi altrove." # "everyone" -> "anyone"; "when WE'RE on the job"
 
 # game/bryce4.rpy:644
 translate italiantl bryce4skip_18dcf887:

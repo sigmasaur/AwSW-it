@@ -237,7 +237,7 @@ translate italiantl _call_skipcheck_6_22f73618:
 translate italiantl _call_skipcheck_6_4e9cc12b:
 
     # Br laugh "Different things. A little bit of this, a little bit of that... You know how it is."
-    Br laugh "Diverse cose. Un pochino di questo, un pochino di quello... Lo sai com'è."
+    Br laugh "Diverse cose. Un poco di questo, un poco di quello... Lo sai com'è."
 
 # game/bryce2.rpy:263
 translate italiantl _call_skipcheck_6_03afa2cd:
@@ -1407,7 +1407,7 @@ translate italiantl bryce2cont2_6803513e:
 translate italiantl bryce2cont2_b7be1173:
 
     # m "Then, suddenly, his wings started to move. Slowly at first, they swayed up and down."
-    m "Poi, improvvisamente, le sue ali iniziarono a muoversi. Lente all'inizio, ondeggiarono avanti e indietro." # "up and down" -> "back and forth"
+    m "Poi, improvvisamente, le sue ali presero a muoversi. Lente all'inizio, ondeggiarono avanti e indietro." # "up and down" -> "back and forth"
 
 # game/bryce2.rpy:1006
 translate italiantl bryce2cont2_95c76ef7:
@@ -2071,7 +2071,7 @@ translate italiantl strings:
 
     # bryce2.rpy:165
     old "Is this a bad time for me to visit?"
-    new "È un brutto momento per farti visita?"
+    new "È un brutto momento per una visita?"
 
     # bryce2.rpy:165
     old "Hey, things are pretty overwhelming for me, too. Being an emissary's no joke."
@@ -2123,7 +2123,7 @@ translate italiantl strings:
 
     # bryce2.rpy:389
     old "Don't worry, fat floats on water."
-    new "Non preoccuparti, il grasso galleggia sull'acqua."
+    new "Tranquillo, il grasso galleggia sull'acqua."
 
     # bryce2.rpy:389
     old "You're the pinnacle of masculinity."

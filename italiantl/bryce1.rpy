@@ -82,7 +82,7 @@ translate italiantl bryce1_2f0ba0b7:
 translate italiantl bryce1_db7471f7:
 
     # Br "In that case, you can say whatever it is you have to say to someone else tomorrow, alright?"
-    Br "In tal caso, qualunque cosa devi dirmi puoi anche dirla a qualcun altro domani, d'accordo?" # "have to say" -> "have to tell me"
+    Br "In tal caso, qualunque cosa tu abbia da dirmi puoi anche dirla a qualcun altro domani, d'accordo?" # "have to say" -> "have to tell me"
 
 # game/bryce1.rpy:80
 translate italiantl bryce1_c48dc32f:
@@ -630,7 +630,7 @@ translate italiantl _call_syscheck_40_8b86f8ee:
 translate italiantl _call_syscheck_40_b8efe23b:
 
     # m "Bryce was just about to start on his second when he suddenly spoke up."
-    m "[Br] fece per intaccare la sua seconda birra quando parlò all'improvviso." # "his second BEER"
+    m "[Br] faceva per intaccare la sua seconda birra quando parlò all'improvviso." # "his second BEER"
 
 # game/bryce1.rpy:549
 translate italiantl _call_syscheck_40_e589dbf6:
@@ -744,7 +744,7 @@ translate italiantl _call_syscheck_41_8b86f8ee:
 translate italiantl _call_syscheck_41_7243e5f4:
 
     # c "(Considering they don't even have cars, at least I won't have to worry about drinking and driving.)"
-    c "(Considerando che nemmeno hanno le automobili, almeno non dovrò preoccuparmi di guidare da ubriacə.)"
+    c "(Considerando che nemmeno hanno le automobili, almeno non dovrò preoccuparmi di guidare ubriacə.)"
 
 # game/bryce1.rpy:634
 translate italiantl _call_syscheck_41_f15a69da:
@@ -780,7 +780,7 @@ translate italiantl _call_syscheck_41_24bf3ebf:
 translate italiantl _call_syscheck_41_95920217:
 
     # m "He made a show of looking me in the eyes while he lowered his muzzle into the bowl before he started guzzling his drink noisily. It was gone in seconds. Certainly, this was going to be tough."
-    m "Fece una scena di guardarmi dritto negli occhi mentre abbassava il muso nella tazza prima che iniziasse a tracannare rumorosamente la sua birra. Sparì nel giro di qualche secondo. Certo, la vedevo dura." # "drink" -> "beer"; "in A FEW seconds"
+    m "Fece una scena di guardarmi dritto negli occhi mentre abbassava il muso nella tazza, prima che iniziasse a tracannare rumorosamente la sua birra. Sparì nel giro di qualche secondo. Certo, la vedevo dura." # "drink" -> "beer"; "in A FEW seconds"
 
 # game/bryce1.rpy:665
 translate italiantl _call_syscheck_41_120e03dd:
@@ -1938,7 +1938,7 @@ translate italiantl bryce1skip_70fb6772:
 translate italiantl bryce1skip_c45783e0:
 
     # Br "Heh, I'm sure we'll think of something else that could measure our endurance."
-    Br "Heh, sono sicuro che ci verrà in mente qualcos'altro che possa misurare la nostra resistenza."
+    Br "Heh, sono certo che ci verrà in mente qualcos'altro per misurare la nostra resistenza." # "that could" -> "to"
 
 translate italiantl strings:
 

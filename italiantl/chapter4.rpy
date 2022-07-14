@@ -82,7 +82,7 @@ translate italiantl chapter4_33d9c948:
 translate italiantl chapter4_8578ddea:
 
     # c "(No, it's no use thinking about that now. Maybe the test results will be able to help us.)"
-    c "(No, non serve a nulla ripensarci adesso. Forse i risultati delle analisi saranno in grado di aiutarci.)"
+    c "(No, è inutile ripensarci adesso. Forse i risultati delle analisi saranno in grado di aiutarci.)"
 
 # game/chapter4.rpy:597
 translate italiantl chapter4_952ae6e0:
@@ -1231,7 +1231,7 @@ translate italiantl c4brycegood_c4f7ab31:
 translate italiantl c4brycegood_d897d4e0:
 
     # Br "I think you could pull it off. Maybe, if you're there, he won't act as irrationally as he would if I was suddenly standing in front of him. I'm not going to force you if you don't want to do it, though."
-    Br "Penso che potresti farcela. Magari, se tu sei là, non agirà in modo così irrazionale come farebbe se io gli piombassi di fronte all'improvviso. Non intendo costringerti se non te la senti di farlo, comunque."
+    Br "Penso che potresti farcela. Magari, se tu sei là, non agirà in modo così irrazionale come farebbe se io gli piombassi davanti all'improvviso. Non intendo costringerti se non te la senti di farlo, comunque."
 
 # game/chapter4.rpy:1263
 translate italiantl c4brycegood_de01d55d:
@@ -1549,7 +1549,7 @@ translate italiantl _call_syscheck_76_e61dff85:
 translate italiantl _call_syscheck_76_d82dad95:
 
     # s "In any case, there's no use trying to change this now. You'll just have to deal with it."
-    s "In ogni caso, non serve a nulla tentare di cambiarlo adesso. Dovrai semplicemente fartene una ragione."
+    s "In ogni caso, è inutile tentare di cambiarlo adesso. Dovrai semplicemente fartene una ragione."
 
 # game/chapter4.rpy:1613
 translate italiantl _call_syscheck_76_f5a08d10:
@@ -1561,13 +1561,13 @@ translate italiantl _call_syscheck_76_f5a08d10:
 translate italiantl _call_syscheck_76_41e30641:
 
     # s "I'm sorry, [player_name], but I can't let you do that." # reference to Star Wolf's famous phrase Can't let you do that, Starfox, and also to Hal9000 in 2001 A Space Odyssey
-    s "Mi dispiace, [player_name], purtroppo non posso lasciartelo fare." # adapted the Italian translation of a Space Odyssey, as that to (the 3DS remake of) Star Fox doesn't really fit here
+    s "Mi dispiace, [player_name], purtroppo non posso lasciartelo fare." # adapted the Italian translation of A Space Odyssey, as that to (the 3DS remake of) Star Fox doesn't really fit here
 
 # game/chapter4.rpy:1622
 translate italiantl _call_syscheck_76_0c4a1cda:
 
     # s "You think you can reload and everything will be fine again? A person's death is not so easily undone."
-    s "Pensi di poter ricaricare e andrà tutto bene di nuovo? Alla morte di una persona non si rimedia così facilmente."
+    s "Pensi di poter ricaricare e andrà di nuovo tutto bene? Alla morte di una persona non si rimedia così facilmente."
 
 # game/chapter4.rpy:1628
 translate italiantl _call_syscheck_76_caaf1304:
@@ -1957,7 +1957,7 @@ translate italiantl brycefirst_64782236:
 translate italiantl brycefirst_b2733954:
 
     # Sb drop b flip "I'm sorry, Chief. I just had a feeling that something... terrible would happen if I didn't."
-    Sb drop b flip "Mi dispiace, Capo. È solo che avevo la sensazione che qualcosa di... terribile sarebbe successo se non l'avessi fatto." # "a feeling" -> "the feeling"
+    Sb drop b flip "Mi dispiace, Capo. È che avevo la sensazione che qualcosa di... terribile sarebbe successo se non l'avessi fatto." # "a feeling" -> "the feeling"
 
 # game/chapter4.rpy:1917
 translate italiantl brycefirst_037a1131:
@@ -3175,7 +3175,7 @@ translate italiantl c4library_fe5f3366:
 translate italiantl c4library_4c6914b8:
 
     # Em normal b "By the way, I hope you do not take it personally that I tried to send you away."
-    Em normal b "Ad ogni modo, spero che tu non la prenda sul personale che io abbia tentato di mandarti via."
+    Em normal b "Ad ogni modo, spero tu non la prenda sul personale che io abbia tentato di mandarti via."
 
 # game/chapter4.rpy:2810
 translate italiantl c4library_b23f25ee:
@@ -3385,7 +3385,7 @@ translate italiantl c4library_f76092e2_2:
 translate italiantl c4library_e63a1f9c:
 
     # Ry "Oh, it's you. I don't think it's a good time for you to visit right now, though."
-    Ry "Oh, sei tu. Non credo sia un buon momento perché tu mi faccia visita, però."
+    Ry "Oh, sei tu. Non credo che adesso sia un buon momento per una visita, però."
 
 # game/chapter4.rpy:2942
 translate italiantl c4library_460db703_2:
@@ -4051,7 +4051,7 @@ translate italiantl _call_syscheck_78_4d4a0b95:
 translate italiantl _call_syscheck_78_ce6701aa:
 
     # c "Sorry, I was just busy. I'm helping the police department with the investigation, and I still have my ambassador duties to deal with. I didn't have much free time."
-    c "Scusa, ero solo impegnatə. Sto dando una mano al dipartimento di polizia con l'indagine, e ho ancora i miei doveri da ambasciatorə di cui occuparmi. Non ho molto tempo libero."
+    c "Scusa, ero solo impegnatə. Sto dando una mano al dipartimento di polizia con l'indagine, e ho ancora i miei doveri di ambasciatorə di cui occuparmi. Non ho molto tempo libero."
 
 # game/chapter4.rpy:3343
 translate italiantl _call_syscheck_78_b5ff7563:
@@ -4855,7 +4855,7 @@ translate italiantl _call_skipcheck_21_42f03031:
 translate italiantl _call_skipcheck_21_4f4cd4b2:
 
     # c "Since you're not whispering anymore, I can hear it clearly in your voice. I had a feeling that you couldn't be him since the first time we met, though."
-    c "Dal momento che non stai più sussurrando, posso sentirlo chiaramente nella tua voce. Ho avuto la sensazione che tu non potessi essere lui sin dalla prima volta che ci siamo incontrati, comunque." # "a feeling" -> "the feeling"
+    c "Dal momento che non stai più sussurrando, posso sentirlo chiaramente nella tua voce. Avevo il sentore che tu non potessi essere lui sin dalla prima volta che ci siamo incontrati, comunque." # "a feeling" -> "the feeling"
 
 # game/chapter4.rpy:4236
 translate italiantl _call_skipcheck_21_fac22ca7:
@@ -5209,7 +5209,7 @@ translate italiantl _call_skipcheck_21_ee95b45c:
 translate italiantl _call_skipcheck_21_ad245946:
 
     # n "In my mind, only one possibility remained: Superweapons. Various nations had been using them as bargaining chips for some time. I didn't think the threats had become that serious, but one of them must have launched their weapon and destroyed the majority of Earth."
-    n "Nella mia mente, rimaneva una sola eventualità: super-armi. Diverse nazioni le usavano ormai già da qualche tempo come moneta di scambio. Non credevo che la minaccia fosse divenuta tanto grave, ma una di esse doveva aver lanciato le proprie armi e distrutto la maggior parte della Terra." # corrected lowercase letter; "the threat[s]"; "their weaponS"
+    n "Nella mia mente, rimaneva una sola eventualità: super-armi. Diverse nazioni le usavano da qualche tempo come moneta di scambio. Non credevo che la minaccia fosse divenuta tanto grave, ma una di esse doveva aver lanciato le proprie armi e distrutto la maggior parte della Terra." # corrected lowercase letter; "the threat[s]"; "their weaponS"
 
 # game/chapter4.rpy:4385
 translate italiantl _call_skipcheck_21_76b2fe88_8:
@@ -5665,7 +5665,7 @@ translate italiantl _call_skipcheck_21_e6072e3b:
 translate italiantl _call_skipcheck_21_2dc9e104:
 
     # As "Let me try to rephrase that. The portal you found and my own share a connection. However, while the connection is locked to a certain place, which is wherever the portal is at that very moment, it is not connected to a specific point in time."
-    As "Lascia che provi a spiegarmi meglio."
+    As "Lascia che provi a dirlo meglio."
     As "Il portale che avete trovato e il mio condividono una connessione. Tuttavia, sebbene la connessione sia vincolata a un certo luogo, il quale è dovunque il portale si trovi in quel preciso momento, non è collegata a uno specifico punto nel tempo." # split to fit three lines; "locked" -> "constrained"; "connected" -> "linked" to avoid repetition
 
 # game/chapter4.rpy:4558
@@ -5810,13 +5810,13 @@ translate italiantl _call_skipcheck_21_a9868dd9:
 translate italiantl _call_skipcheck_21_09805296:
 
     # As "Also, they have probably taken measures against having big predators roam their cities and villages."
-    As "Inoltre, probabilmente avranno preso dei provvedimenti affinché i grandi predatori non girovagassero per le loro città e i loro villaggi."
+    As "Inoltre, probabilmente avranno preso provvedimenti affinché i grandi predatori non girovagassero per le loro città e i loro villaggi."
 
 # game/chapter4.rpy:4606
 translate italiantl _call_skipcheck_21_b36e5f58:
 
     # As "Yet while the dragon population has increased tremendously, I have found that by and large, their society as whole has not changed much."
-    As "Eppure, per quanto la popolazione dei draghi sia tremendamente aumentata, ho trovato che in linea di massima, la loro società nel suo insieme non è cambiata poi molto."
+    As "Eppure, per quanto la popolazione dei draghi sia tremendamente aumentata, ho trovato che in linea di massima, la loro società nel suo insieme non è cambiata molto."
 
 # game/chapter4.rpy:4608
 translate italiantl _call_skipcheck_21_3fee8a5c:
@@ -5828,13 +5828,13 @@ translate italiantl _call_skipcheck_21_3fee8a5c:
 translate italiantl _call_skipcheck_21_612913a3:
 
     # As "I suppose so. The learning program I initially used gave them knowledge about things and how to create them, yet of course those were only human inventions and designs."
-    As "Suppongo di sì. Il programma di apprendimento che usai all'inizio gli fornì la conoscenza sulle cose e come crearle, ma naturalmente quelle erano sole invenzioni e concezioni umane." # "yet" -> "but"
+    As "Suppongo di sì. Il programma di apprendimento che usai all'inizio gli fornì la conoscenza sulle cose e come crearle, ma naturalmente quelle erano tutte invenzioni e concezioni umane." # "yet" -> "but"; "only" -> "all"
 
 # game/chapter4.rpy:4612
 translate italiantl _call_skipcheck_21_68f2da09:
 
     # c "Did they never once stop to think that they should adjust how certain things look? A lot of the furniture and objects I've seen look very impractical for a dragon."
-    c "E non si sono mai soffermati a pensare che dovrebbero sistemare l'aspetto di certe cose? Parecchi dei mobili e degli oggetti che ho visto sembrano molto scomodi per un drago."
+    c "E non si sono mai soffermati a pensare che dovrebbero sistemare l'aspetto di certe cose? Molti dei mobili e degli oggetti che ho visto sembrano poco pratici per un drago." # "[very] impractical"
 
 # game/chapter4.rpy:4614
 translate italiantl _call_skipcheck_21_b8904d07:
@@ -5894,7 +5894,7 @@ translate italiantl _call_skipcheck_21_f1e332b1:
 translate italiantl _call_skipcheck_21_278bf3e2:
 
     # As "They don't innovate or change, so technological breakthroughs or new inventions are a rarity. It's quite the opposite, really. They very much value tradition and their ways which have not changed much in all these years."
-    As "Loro non innovano e non cambiano, quindi conquiste tecnologiche o nuove invenzioni sono una rarità. È piuttosto il contrario, davvero. Danno molto valore alla tradizione e ai loro costumi i quali non sono cambiati molto in tutti questi anni." # "or change" -> "and don't change"
+    As "Loro non innovano e non cambiano, quindi conquiste tecnologiche o nuove invenzioni sono una rarità. È piuttosto il contrario, davvero. Danno grande valore alla tradizione e ai loro costumi i quali non sono cambiati molto in tutti questi anni." # "or change" -> "and don't change"
 
 # game/chapter4.rpy:4635
 translate italiantl _call_skipcheck_21_89aefe22_1:
@@ -6500,7 +6500,7 @@ translate italiantl _call_popularcheck_28_be5c2928:
 translate italiantl _call_popularcheck_28_d5d6cf7c:
 
     # m "In the end, I decided to extend invitations to everyone I knew to come by for a visit. I left a lot of messages and waited the whole afternoon, but nobody came." # But nobody came is a reference to undertale.
-    m "Alla fine, decisi di estendere l'invito a passare a farmi visita a tutti coloro che conoscevo. Lasciai molti messaggi e aspettai l'intero pomeriggio, ma non venne nessuno." # no Italian translation for Undertale
+    m "Alla fine, decisi di estendere l'invito a passare per una visita a tutti coloro che conoscevo. Lasciai molti messaggi e aspettai l'intero pomeriggio, ma non venne nessuno." # no Italian translation for Undertale
 
 # game/chapter4.rpy:5850
 translate italiantl _call_popularcheck_28_be5c2928_1:

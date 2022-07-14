@@ -364,7 +364,7 @@ translate italiantl _call_skipcheck_13_52f2b08c:
 translate italiantl _call_skipcheck_13_efb73f9a:
 
     # Lo "Sure, but working with a physical medium makes things easier for me. Instead of working with an interface, there's only my hands and a lump of clay. No technological gadgets required."
-    Lo "Certo, ma lavorare con un mezzo fisico rende le cose più semplici per me. Invece di lavorare con un'interfaccia, ci sono solo le mie mani e un blocco di argilla, senza bisogno di aggeggi tecnologici."
+    Lo "Certo, ma lavorare con un mezzo fisico mi semplifica le cose. Invece di lavorare con un'interfaccia, ci sono solo le mie mani e un blocco di argilla, senza bisogno di aggeggi tecnologici."
 
 # game/lorem3.rpy:279
 translate italiantl _call_skipcheck_13_89aefe22:
@@ -1000,7 +1000,7 @@ translate italiantl lorem3searchmenu_11d2a947:
 translate italiantl lorem3searchmenu_7631eb55:
 
     # c "Maybe you'll be interested in this. In our world, there is a forest that was notorious for the many suicides that took place there. It was said to be haunted by angry spirits." # This story is about Aokigahara, a forest in Japan.
-    c "Forse questa t'interesserà. Nel nostro mondo, c'è una foresta che era tristemente nota per i molti suicidi che vi hanno avuto luogo. Si diceva fosse infestata da spiriti adirati."
+    c "Forse questa ti interesserà. Nel nostro mondo, c'è una foresta che era tristemente nota per i molti suicidi che vi hanno avuto luogo. Si diceva fosse infestata da spiriti adirati."
 
 # game/lorem3.rpy:574
 translate italiantl lorem3searchmenu_91626932:
@@ -1096,7 +1096,7 @@ translate italiantl lorem3searchmenu_29a9a4f8:
 translate italiantl lorem3searchmenu_f3472844:
 
     # c "Ipsum certainly seemed interested in it."
-    c "Di certo [Ip] sembrava averne interesse."
+    c "Di certo [Ip] sembrava interessato." # "Ipsum certainly seemed interested [in it]"
 
 # game/lorem3.rpy:618
 translate italiantl lorem3searchmenu_3ac6dd75:
@@ -1750,7 +1750,7 @@ translate italiantl lorem3searchmenu_467351bb:
 translate italiantl lorem3searchmenu_82ec4f27:
 
     # m "Just as I was about to resurface and get some air, I heard a splash accompanied by a loud thud."
-    m "Come feci per riemergere e prendere un po' d'aria, sentii un tonfo nell'acqua accompagnato da un forte rovinio."
+    m "Come facevo per riemergere e prendere un po' d'aria, sentii un tonfo nell'acqua accompagnato da un forte rovinio."
 
 # game/lorem3.rpy:925
 translate italiantl lorem3searchmenu_e98448d6:

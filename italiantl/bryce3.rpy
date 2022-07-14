@@ -946,7 +946,7 @@ translate italiantl _call_skipcheck_26_f83c1e51:
 translate italiantl _call_skipcheck_26_0391cfcb:
 
     # Br "And then later, she was suddenly like: \"Oh, my back is so stiff! Would you mind giving me a massage? You look like you have the proper strength to give me a good one.\" It's like she's not even trying to hide it."
-    Br "E poi più tardi, all'improvviso mi fa tipo: \"Oh, ho la schiena così rigida! Ti spiacerebbe farmi un massaggio? Sembri avere la giusta forza per farmene uno buono.\" È come se non provasse neanche a nasconderlo."
+    Br "E poi più tardi, all'improvviso mi fa tipo: \"Oh, ho la schiena così rigida! Ti spiacerebbe farmi un massaggio? Sembri avere la giusta forza per farmene uno di quelli buoni.\" È come se non provasse nemmeno a nasconderlo."
 
 # game/bryce3.rpy:577
 translate italiantl _call_skipcheck_26_90b9c1a8:
@@ -1138,7 +1138,7 @@ translate italiantl bryce3pass_46120eea:
 translate italiantl bryce3pass_d0e87529:
 
     # Sb "Sure, but with as much as you drink, your blood is like, at least 10%% beer by now. I bet you can't even get completely sober any more."
-    Sb "Certo, ma con tutto quello che bevi, il tuo sangue ormai sarà tipo, almeno il dieci percento birra. Scommetto che non puoi più nemmeno tornare completamente sobrio." # "10%" -> "ten percent" for elegance
+    Sb "Certo, ma con quello che bevi, il tuo sangue ormai sarà tipo, almeno il dieci percento birra. Scommetto che non puoi più nemmeno tornare completamente sobrio." # "10%" -> "ten percent" for elegance
 
 # game/bryce3.rpy:666
 translate italiantl bryce3pass_ac8b73a7:
@@ -1997,7 +1997,7 @@ translate italiantl bryce3pass_03cedeb1:
 translate italiantl bryce3pass_c075a92c:
 
     # Br brow "Damn, now everyone left without cleaning up. At least you're still here to help me."
-    Br brow "Diamine, adesso se ne sono andati tutti senza ripulire. Almeno tu sei ancora qui a darmi una mano."
+    Br brow "Diamine, adesso se ne sono andati tutti senza pulire. Almeno ci sei ancora tu qui a darmi una mano."
 
 # game/bryce3.rpy:1081
 translate italiantl bryce3pass_4e8c7062:
@@ -2491,7 +2491,7 @@ translate italiantl strings:
 
     # bryce3.rpy:363
     old "I don't suppose you have any matches?"
-    new "Suppongo non abbiate dei fiammiferi?"
+    new "Suppongo non abbiate fiammiferi?"
 
     # bryce3.rpy:363
     old "Is this a joke?"

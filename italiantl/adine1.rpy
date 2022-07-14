@@ -4,7 +4,7 @@
 translate italiantl adine1_b66a50f0:
 
     # m "I remembered that Adine had told me that the café did deliveries as well, and not having anything else better to do, I figured I should try it out. I made my order with a quick phone call, and it wasn't long before the doorbell rang."
-    m "Ricordai che [Ad] mi aveva detto che la caffetteria faceva anche le consegne, e non avendo nient'altro di meglio da fare, pensai fosse il caso di fare una prova. Effettuai il mio ordine con un colpo di telefono, e non ci volle molto prima che il campanello suonasse."
+    m "Ricordai che [Ad] mi aveva detto che la caffetteria faceva anche le consegne, e non avendo nient'altro di meglio da fare, pensai fosse il caso di fare una prova. Feci il mio ordine con un colpo di telefono, e non ci volle molto prima che il campanello suonasse."
 
 # game/adine1.rpy:32
 translate italiantl adine1_d60c0822:
@@ -346,7 +346,7 @@ translate italiantl _call_skipcheck_10_719209ef:
 translate italiantl _call_skipcheck_10_6dae616b:
 
     # Ad "With the amount of time I spend at the restaurant, I don't think the kids would be any better off, so I just help out whenever I can."
-    Ad "Con la quantità di tempo che passo al ristorante, non credo che i piccoli si troverebbero poi tanto meglio, perciò mi limito a dare una mano quando posso."
+    Ad "Con la quantità di tempo che passo al ristorante, non credo che i piccoli si troverebbero poi tanto meglio, perciò do solo una mano ogni volta che posso."
 
 # game/adine1.rpy:311
 translate italiantl _call_skipcheck_10_8a56387f:
@@ -400,7 +400,7 @@ translate italiantl _call_skipcheck_10_75906cf7:
 translate italiantl _call_skipcheck_10_41444a40:
 
     # c "What would you like to know?"
-    c "Che cosa vorresti sapere?"
+    c "Cosa vorresti sapere?"
 
 # game/adine1.rpy:341
 translate italiantl _call_skipcheck_10_0dce8ee6:
@@ -820,7 +820,7 @@ translate italiantl _call_skipcheck_10_089aa707:
 translate italiantl _call_skipcheck_10_98d1aad3:
 
     # Ad "Let me know when you do. I'd be interested in hearing what you have to say about it."
-    Ad "Fammi sapere quando lo fai. Sarei interessata a sentire cos'hai da dire al riguardo."
+    Ad "Fammi sapere quando lo fai. Mi interesserebbe sentire cos'hai da dire al riguardo."
 
 # game/adine1.rpy:578
 translate italiantl _call_skipcheck_10_4b7f20ab_1:
@@ -1396,7 +1396,7 @@ translate italiantl nextsc_e3afd84b:
 translate italiantl nextsc_d022c5bd:
 
     # Ad "Of course I'd love to visit - maybe as some sort of vacation. But if you're talking about permanently, I'm not sure if I could just pack up and leave everything behind just like that."
-    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se dicevi in modo permanente, non sono sicura che potrei prendere e lasciarmi tutto quanto alle spalle a quel modo." # corrected em-dash
+    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se dici in modo permanente, non sono sicura che potrei prendere e lasciarmi tutto quanto alle spalle a quel modo." # corrected em-dash
 
 # game/adine1.rpy:932
 translate italiantl nextsc_b8fb304d:
@@ -1528,7 +1528,7 @@ translate italiantl _call_syscheck_48_58abfc7c:
 translate italiantl _call_syscheck_48_e78a619c:
 
     # Ad "So, should I just take a bite out of this one?"
-    Ad "Quindi, dovrei solo prendere un morso da questo limone?" # "out of this LEMON"
+    Ad "Quindi, dovrei solo dare un morso a questo limone?" # "out of this LEMON"
 
 # game/adine1.rpy:1016
 translate italiantl _call_syscheck_48_d88b5013:

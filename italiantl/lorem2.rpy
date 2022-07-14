@@ -52,7 +52,7 @@ translate italiantl _call_skipcheck_33_3cf7a22b:
 translate italiantl _call_skipcheck_33_afc2b966:
 
     # Lo happy "Now that I’ve had a chance to work through everything from last time, we can do some real work."
-    Lo happy "Ora che ho avuto modo di lavorare su tutto quanto dalla volta scorsa, possiamo fare del vero lavoro."
+    Lo happy "Ora che ho avuto modo di lavorare su tutto quanto dall'altra volta, possiamo fare del vero lavoro."
 
 # game/lorem2.rpy:132
 translate italiantl _call_skipcheck_33_5a47fdba:
@@ -76,7 +76,7 @@ translate italiantl _call_skipcheck_33_c48dc32f_1:
 translate italiantl _call_skipcheck_33_39abd6e8:
 
     # m "We sat down at the coffee table. Lorem opened up a laptop and started to type away."
-    m "Ci sedemmo al tavolino da caffè. [Lo] aprì un portatile e prese a battere."
+    m "Ci sedemmo al tavolino da caffè. [Lo] aprì un portatile e iniziò a battere."
 
 # game/lorem2.rpy:144
 translate italiantl _call_skipcheck_33_bc0478aa:
@@ -124,7 +124,7 @@ translate italiantl _call_skipcheck_33_2025d514:
 translate italiantl _call_skipcheck_33_c0d6d907:
 
     # Lo relieved "I told you about it last time..."
-    Lo relieved "Te ne ho parlato la volta scorsa..."
+    Lo relieved "Te ne ho parlato l'altra volta..."
 
 # game/lorem2.rpy:212
 translate italiantl _call_skipcheck_33_9cd7a0e0:
@@ -370,13 +370,13 @@ translate italiantl _call_skipcheck_33_6fabbf93:
 translate italiantl _call_skipcheck_33_22d25aeb:
 
     # m "I walked up to the spot he indicated. When I took my place, I saw that he had laid out a number of pens, paper and other art supplies on the table."
-    m "Andai al punto che aveva indicato. Quando presi posto, vidi che aveva disposto sul tavolino un certo numero di carte, penne e altri materiali artistici."
+    m "Mi avvicinai al punto che aveva indicato. Quando presi posto, vidi che aveva disposto sul tavolino un certo numero di carte, penne e altri materiali artistici."
 
 # game/lorem2.rpy:391
 translate italiantl _call_skipcheck_33_5571d29f:
 
     # c "Oh. This is going to take a while, isn't it?"
-    c "Oh. La cosa andrà per le lunghe, dico bene?"
+    c "Oh. La cosa andrà per le lunghe, non è vero?"
 
 # game/lorem2.rpy:393
 translate italiantl _call_skipcheck_33_ab37919f:

@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_32_0e9b2fd0:
 translate italiantl _call_skipcheck_32_cac230dc:
 
     # An "Don't worry, I'll put it into words that are easy for you to understand."
-    An "Non preoccuparti, lo dirò in termini che tu possa facilmente comprendere."
+    An "Non preoccuparti, lo dirò in termini che puoi facilmente comprendere."
 
 # game/anna2.rpy:428
 translate italiantl _call_skipcheck_32_f1301db6:
@@ -520,7 +520,7 @@ translate italiantl _call_skipcheck_32_42bfa25e:
 translate italiantl _call_skipcheck_32_87426d48:
 
     # An "Although a match of 90%% sounds like a lot, it's not as much as you might think. Still, for two beings from a different world altogether, that's quite remarkable."
-    An "Sebbene una corrispondenza del novanta percento sembri tanto, non è quanto potresti pensare. Comunque, per degli esseri di un mondo del tutto diverso, è alquanto notevole." # see line 428; "[two] beings"
+    An "Sebbene una corrispondenza del novanta percento sembri tanto, non è quanto potresti pensare. Eppure, per degli esseri di un mondo del tutto diverso, è alquanto notevole." # see line 428; "[two] beings"
 
 # game/anna2.rpy:438
 translate italiantl _call_skipcheck_32_7c45fda0:
@@ -1210,7 +1210,7 @@ translate italiantl _call_skipcheck_32_ff6358d1:
 translate italiantl _call_skipcheck_32_ae2cdc63:
 
     # c "(Waiting game 2.0, start.)"
-    c "(Gioco dell'attesa, secondo tempo.)" # "2.0, start" -> "second half"
+    c "(Gioco dell'attesa, secondo tempo.)" # "2.0, start" -> ", second half"
 
 # game/anna2.rpy:834
 translate italiantl _call_skipcheck_32_c9b73266:
@@ -1648,7 +1648,7 @@ translate italiantl _call_skipcheck_32_125d05ce:
 translate italiantl _call_skipcheck_32_c72afdc0:
 
     # m "Carefully, I grabbed one of the pieces, which by now had indeed cooled down enough to not burn me anymore and took a bite."
-    m "Cautamente, afferrai uno dei pezzetti, il quale in effetti si era ormai freddato abbastanza da non bruciarmi, e ne presi un morso." # "to not burn me [anymore]"; "took a bite FROM IT"
+    m "Cautamente, afferrai uno dei pezzetti, il quale in effetti si era ormai freddato abbastanza da non bruciarmi, e diedi un morso." # "to not burn me [anymore]"
 
 # game/anna2.rpy:1117
 translate italiantl _call_skipcheck_32_4334daf7:

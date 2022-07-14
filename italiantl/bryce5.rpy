@@ -52,7 +52,7 @@ translate italiantl bryce5_c989f8fc:
 translate italiantl bryce5_fb06a60b:
 
     # c "I'm serious. Let's just forget it and focus on today."
-    c "Sono seriə. Lasciamo perdere e concentriamoci sull'oggi." # "let's [just] forget it"
+    c "Sono seriə. Dimentichiamocene e concentriamoci sull'oggi."
 
 # game/bryce5.rpy:38
 translate italiantl bryce5_467820d0:
@@ -94,7 +94,7 @@ translate italiantl bryce5_8fc66374:
 translate italiantl bryce5_b33babad:
 
     # Br normal "The fireworks should start any minute now."
-    Br normal "I fuochi dovrebbero cominciare a momenti."
+    Br normal "I fuochi dovrebbero iniziare a momenti."
 
 # game/bryce5.rpy:64
 translate italiantl bryce5_240b85dd:
@@ -1330,7 +1330,7 @@ translate italiantl _call_no_bc449c3a:
 translate italiantl _call_no_8974bfb9:
 
     # m "Of course, there was no use ignoring the evidence before us. This could only mean one thing."
-    m "Ma certo, non serviva a nulla negare l'evidenza a noi davanti. Poteva significare soltanto una cosa."
+    m "Ma certo, era inutile negare l'evidenza davanti a noi. Poteva significare soltanto una cosa."
 
 # game/bryce5.rpy:1131
 translate italiantl _call_no_a68b0d5e:

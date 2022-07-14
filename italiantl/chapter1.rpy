@@ -2287,7 +2287,7 @@ translate italiantl _call_increasing_3_76b2fe88_1:
 translate italiantl _call_increasing_3_49cddd54:
 
     # m "Lines, of course. Maybe I was supposed to read between them? I didn't have an implement on me with which I would've been able to read fine print, though with this handwritten letter, I doubted Reza could have done anything of the sort."
-    m "Le linee, ma certo. Forse avrei dovuto leggervi in mezzo? Non avevo con me uno strumento con cui sarei statə in grado di intraleggere dei caratteri in piccolo, anche se con questa lettera manoscritta, dubitavo che [Rz] potesse aver fatto niente del genere." # see the Italian translation of the Simpsons, 09x19, 03:28
+    m "Le linee, ma certo. Forse avrei dovuto leggervi in mezzo? Non avevo con me uno strumento con cui sarei statə in grado di intraleggere dei caratteri in piccolo, anche se con questa lettera manoscritta, dubitavo che [Rz] potesse aver fatto niente del genere." # see the Italian translation of The Simpsons, 09x19, 03:28
 
 # game/chapter1.rpy:2233
 translate italiantl increasing_08935d98:
@@ -2335,7 +2335,7 @@ translate italiantl increasing_c1a963af:
 translate italiantl increasing_6e5d4325:
 
     # c "(Okay, this was the last option and it was still wrong. If that's not enough to prompt me to finally start looking elsewhere, I don't know what else will.)"
-    c "(Okay, questa era l'ultima alternativa ed era comunque sbagliata. Se questo non è abbastanza a indurmi finalmente a cercare altrove, non so cos'altro lo farà.)"
+    c "(Okay, questa era l'ultima alternativa ed era comunque sbagliata. Se questo non è abbastanza per indurmi finalmente a cercare altrove, non so cos'altro lo farà.)" # "[start] look[ing] elsewhere"
 
 # game/chapter1.rpy:2288
 translate italiantl elsewhere_b153aad5:
@@ -2499,7 +2499,7 @@ translate italiantl _call_syscheck_7_8bbad953:
 translate italiantl _call_syscheck_7_656baca5:
 
     # n "From the day I was born, I knew I was destined for greatness. As a member of the Avdonian household, nothing less was expected from me."
-    n "Sin dal giorno in cui sono nato, sapevo di essere destinato alla grandezza. Quale membro della casata degli Avdoniani, da me non era preteso niente di meno." # wording
+    n "Sin dal giorno in cui sono nato, sapevo di essere destinato alla grandezza. Quale membro della casata degli Avdoniani, da me niente di meno era preteso." # wording
 
 # game/chapter1.rpy:2391
 translate italiantl _call_syscheck_7_73caa4fd:
@@ -2517,7 +2517,7 @@ translate italiantl _call_syscheck_7_bc88c2a7:
 translate italiantl _call_syscheck_7_9efd40fd:
 
     # n "Not that it mattered much, as I grew to hate them both equally."
-    n "Non che importasse poi molto, siccome imparai a odiarli entrambi in egual misura."
+    n "Non che avesse molta importanza, siccome imparai a odiarli entrambi in egual misura."
 
 # game/chapter1.rpy:2394
 translate italiantl _call_syscheck_7_217fb58f:
@@ -2855,7 +2855,7 @@ translate italiantl _call_syscheck_11_763e13c5:
 translate italiantl _call_syscheck_11_488ed202:
 
     # s "You learned a lot about fruits. Could've added a few more puns, though."
-    s "Hai imparato molto sui frutti. Avresti anche potuto aggiungere qualche gioco di parole in più, comunque."
+    s "Hai imparato molto sui frutti. Potevi anche aggiungerci qualche gioco di parole in più, comunque."
 
 # game/chapter1.rpy:2722
 translate italiantl _call_syscheck_11_7b6290e9:
@@ -3107,19 +3107,19 @@ translate italiantl continuation_e435c04f:
 translate italiantl continuation_f763377c:
 
     # Rz "I hoped you'd see it too, but then it took me a while to understand, and I had a head start on you. In any case..."
-    Rz "Speravo l'avresti visto anche tu, ma del resto mi ci è voluto un po' per capire, e ho avuto un vantaggio su di te. In ogni caso..."
+    Rz "Speravo che l'avresti visto anche tu, ma del resto mi ci è voluto un po' per capire, e ho avuto un vantaggio su di te. In ogni caso..."
 
 # game/chapter1.rpy:2852
 translate italiantl continuation_f763377c_1:
 
     # Rz "I hoped you'd see it too, but then it took me a while to understand, and I had a head start on you. In any case..."
-    Rz "Speravo l'avresti visto anche tu, ma del resto mi ci è voluto un po' per capire, e ho avuto un vantaggio su di te. In ogni caso..."
+    Rz "Speravo che l'avresti visto anche tu, ma del resto mi ci è voluto un po' per capire, e ho avuto un vantaggio su di te. In ogni caso..."
 
 # game/chapter1.rpy:2854
 translate italiantl continuation_fd1f97a7:
 
     # m "While he was speaking, my gaze wandered and fixed on some movement nearby. It was hard to make out anything, but I imagined it might just have been wind blowing through the nearby shrubbery. Except for the fact that there was no wind."
-    m "Mentre parlava, il mio sguardo cadde su un qualche movimento nei dintorni. Era difficile distinguere alcunché, ma immaginai potesse essere stato solo il vento che soffiava fra i vicini cespugli. Eccetto il fatto che non vi era vento."
+    m "Mentre parlava, il mio sguardo cadde su un qualche movimento nei dintorni. Era difficile distinguere niente, ma immaginai potesse essere stato solo il vento che soffiava fra i vicini cespugli. Eccetto il fatto che non vi era alcun vento." # wording
 
 # game/chapter1.rpy:2855
 translate italiantl continuation_d8a637e9:
@@ -3329,7 +3329,7 @@ translate italiantl continuation_da9f7420:
 translate italiantl continuation_356de34c:
 
     # m "I knew it was no use worrying about it for now, so I settled for starting another book."
-    m "Sapevo che non era il caso di preoccuparmene per il momento, così mi accontentai di iniziare un altro libro."
+    m "Sapevo che era inutile preoccuparsene per il momento, così mi accontentai di iniziare un altro libro."
 
 # game/chapter1.rpy:3018
 translate italiantl continuation_45b58ace:
@@ -3389,7 +3389,7 @@ translate italiantl continuation_c48dc32f:
 translate italiantl continuation_8c191191:
 
     # m "This time, I was taken along a different route than yesterday. And I was quite sure there was more to this than just taking a walk."
-    m "Questa volta, fui condottə lungo un percorso diverso dal giorno prima. Ed ero piuttosto sicurə che ci fosse sotto qualcosa di più che una semplice passeggiata." # "than just [taking] a walk"
+    m "Questa volta, fui condottə lungo un percorso diverso dal giorno prima. Ed ero piuttosto sicurə ci fosse sotto qualcosa di più che una semplice passeggiata." # "than just [taking] a walk"
 
 # game/chapter1.rpy:3046
 translate italiantl continuation_b044f66d:
@@ -3479,7 +3479,7 @@ translate italiantl continuation_3e2508cf:
 translate italiantl continuation_7e4b50e4:
 
     # Br "If he wasn't on mandatory sick leave, he would be suspended right now. We'll have to wait until this whole thing is over before we decide what to do with him. I can assure you this won't be taken lightly."
-    Br "Se non fosse in congedo obbligatorio per malattia, sarebbe stato sospeso in questo momento. Dovremo aspettare finché tutta questa storia non sia finita prima di decidere cosa fare con lui. Posso assicurarti che la cosa non sarà presa alla leggera."
+    Br "Se non fosse in congedo obbligatorio per malattia, sarebbe stato sospeso in questo momento. Dovremo aspettare finché tutta questa storia non sarà finita prima di decidere cosa fare con lui. Posso assicurarti che la cosa non sarà presa alla leggera."
 
 # game/chapter1.rpy:3075
 translate italiantl continuation_c4f759c6:
@@ -3587,7 +3587,7 @@ translate italiantl continuation_bd6edf31:
 translate italiantl continuation_72321397:
 
     # Br "We're headed to the crime scene and hoped you'd come with us."
-    Br "Siamo diretti alla scena del crimine e speravamo che venissi con noi."
+    Br "Siamo diretti alla scena del crimine e speravamo venissi con noi."
 
 # game/chapter1.rpy:3117
 translate italiantl continuation_2f8adaed:
@@ -4109,13 +4109,13 @@ translate italiantl quest5_1a76e383:
 translate italiantl quest5_3f970c7c:
 
     # Br "Excuse me?"
-    Br "Scusami?"
+    Br "Perdonami?"
 
 # game/chapter1.rpy:3509
 translate italiantl quest5_18dd0115:
 
     # c "Sorry, I just always wanted to say that."
-    c "Scusa, è solo che ho sempre voluto dirlo."
+    c "Scusa, è che ho sempre voluto dirlo."
 
 # game/chapter1.rpy:3510
 translate italiantl quest5_08965b6a:
@@ -5311,7 +5311,7 @@ translate italiantl strings:
 
     # chapter1.rpy:3768
     old "At least that means someone will find him, right?"
-    new "Almeno ciò significa che qualcuno lo troverà, giusto?"
+    new "Almeno questo significa che qualcuno lo troverà, giusto?"
 
     # chapter1.rpy:4093
     old "Meet with Remy."

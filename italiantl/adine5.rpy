@@ -862,7 +862,7 @@ translate italiantl adinegoodending_ab7edf21:
 translate italiantl adinegoodending_64686105:
 
     # As "Unfortunately, this means that our connection to humanity's portal is lost."
-    As "Sfortunatamente, questo significa che la nostra connessione al portale dell'umanità è perduta."
+    As "Sfortunatamente, ciò significa che la nostra connessione al portale dell'umanità è perduta."
 
 # game/adine5.rpy:822
 translate italiantl adinegoodending_90f66186:

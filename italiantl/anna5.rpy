@@ -358,7 +358,7 @@ translate italiantl _call_endingjustafewminuteslater_1_f7bc135f:
 translate italiantl _call_endingjustafewminuteslater_1_67907376:
 
     # m "He started flailing his arms around wildly, trying to put out the fire."
-    m "Prese a dimenare selvaggiamente le braccia, cercando di spegnere il fuoco."
+    m "Iniziò a dimenare selvaggiamente le braccia, cercando di spegnere il fuoco."
 
 # game/anna5.rpy:321
 translate italiantl _call_endingjustafewminuteslater_1_a1d1330a:
@@ -412,7 +412,7 @@ translate italiantl _call_endingjustafewminuteslater_1_8ac40d51:
 translate italiantl _call_endingjustafewminuteslater_1_3957bdba:
 
     # An "I only had a few months left to live. If I was lucky, that is. Anything past that wouldn't even be a life worth living."
-    An "Mi restava solo qualche mese da vivere. Se ero fortunata, s'intende. Più a lungo di così, non sarebbe nemmeno stata una vita degna di essere vissuta."
+    An "Mi restavano solo pochi mesi di vita. Se ero fortunata, s'intende. Più a lungo di così, non sarebbe nemmeno stata una vita degna di essere vissuta."
 
 # game/anna5.rpy:341
 translate italiantl _call_endingjustafewminuteslater_1_afefa1e4:
@@ -484,7 +484,7 @@ translate italiantl _call_endingjustafewminuteslater_1_b209046b:
 translate italiantl _call_endingjustafewminuteslater_1_9e2dcb1b:
 
     # Iz "So you remember my name. What else do you remember?"
-    Iz "Così ricordi il mio nome. Che altro ricordi?"
+    Iz "Così ricordi il mio nome. Cos'altro ricordi?"
 
 # game/anna5.rpy:403
 translate italiantl _call_endingjustafewminuteslater_1_0a3a4db3:
@@ -898,7 +898,7 @@ translate italiantl annagoodending_76b2fe88_3:
 translate italiantl annagoodending_0c2e4bec:
 
     # n "A few days later, she passed away quietly in her sleep."
-    n "Qualche giorno più tardi, si spense serenamente nel sonno."
+    n "Alcuni giorni più tardi, si spense serenamente nel sonno."
 
 # game/anna5.rpy:855
 translate italiantl annagoodending_bfaaa2f8:

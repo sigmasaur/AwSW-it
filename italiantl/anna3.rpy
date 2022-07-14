@@ -256,7 +256,7 @@ translate italiantl _call_skipcheck_039c4f1d:
 translate italiantl _call_skipcheck_a7dc4424:
 
     # c "Still, somebody died."
-    c "Comunque, qualcuno è morto."
+    c "Eppure, qualcuno è morto."
 
 # game/anna3.rpy:253
 translate italiantl _call_skipcheck_95705667:
@@ -538,7 +538,7 @@ translate italiantl _call_skipcheck_56dcf7cf:
 translate italiantl _call_skipcheck_1d5e1390:
 
     # An "Do they get thicker at least, or what else happens when they grow?"
-    An "Almeno diventano più spesse, o succede qualcos'altro quando crescono?"
+    An "Almeno diventano più spesse, o succede qualcos'altro quando crescono?" # "what else happens" -> "does anything else happen"
 
 # game/anna3.rpy:404
 translate italiantl _call_skipcheck_440bf815:
@@ -622,7 +622,7 @@ translate italiantl _call_skipcheck_225770af:
 translate italiantl _call_skipcheck_b86e3b1f:
 
     # An sad b "I guess we can skip that part, because I certainly don't want to deal with you if you start screaming or crying, or whatever else."
-    An sad b "Immagino che possiamo saltare quella parte, perché non ho certo voglia di occuparmi di te se inizi a gridare o a piangere, o che altro."
+    An sad b "Immagino che possiamo saltare quella parte, perché non ho certo voglia di occuparmi di te se ti metti a gridare o a piangere, o che altro."
 
 # game/anna3.rpy:487
 translate italiantl _call_skipcheck_3b1c406e:
@@ -992,7 +992,7 @@ translate italiantl _call_skipcheck_89aefe22_2:
 translate italiantl _call_skipcheck_36e9dc76:
 
     # An "It's kind of a shame, because in the end a lack of additional subjects for this test means those results might not be very useful to us. We'd probably need a few more humans."
-    An "È un po' un peccato, perché alla fine la mancanza di soggetti aggiuntivi per questo esame significa che quei risultati potrebbero non esserci molto utili. Probabilmente avremmo bisogno di qualche altro umano." # "a lack" -> "the lack"
+    An "È un po' un peccato, perché alla fine la mancanza di soggetti aggiuntivi per questo esame significa che quei risultati potrebbero non esserci molto utili. Probabilmente avremmo bisogno di qualche umano in più." # "a lack" -> "the lack"
 
 # game/anna3.rpy:704
 translate italiantl _call_skipcheck_56c533ec:
@@ -2039,7 +2039,7 @@ translate italiantl _call_skipcheck_8ab84973:
 translate italiantl _call_skipcheck_cfe15ac7:
 
     # An "Add some deteriorating circumstances to that, and you get my life."
-    An "Aggiungici il deteriorarsi di alcune circostanze, e ottieni la mia vita." 
+    An "Aggiungici il deteriorarsi di alcune circostanze, e ottieni la mia vita."
 
 # game/anna3.rpy:1340
 translate italiantl _call_skipcheck_f86a01f7:

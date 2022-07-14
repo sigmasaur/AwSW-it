@@ -41,6 +41,7 @@ Currently working on `Lorem`'s sections. Files done and up for review:
     lorem1.rpy
     lorem2.rpy
     lorem3.rpy
+    lorem4.rpy
 
 ### A few remarks
 
@@ -369,7 +370,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`lorem1.rpy`](italiantl/lorem1.rpy)
 
-* At line 228, 366, 439, 651, 653, 657, 687: Assumed plural of modesty.
+* At line 228, 366, 439, 651, 653, 657, 687: Assumed plural of modesty; see also lines 615-617 of [`lorem4.rpy`](#lorem4rpy).
 * At line 228, 493, 659: Corrected simple dash or en-dash to em-dash.
 * At line 447: Corrected uppercase letter to lowercase after colon.
 * At line 456: Adapted to preserve a pun; reverse translation: *I don't have a spit weapon, unless you count spluttering.*
@@ -396,6 +397,12 @@ The following are mostly to the benefit of the developer and translators.
 * Al line 961: Rendered *leg* as *paw*.
 * At line 1009: Corrected *Pantoli'<b>s</b> Pizza*.
 * At line 1039: Split in multiple parts to fit fewer lines.
+
+### [`lorem4.rpy`](italiantl/lorem4.rpy)
+
+* At line 106: Adapted to preserve a pun; reverse translation: *Wonderful!*
+* At line 490, 741, 751, 799, 841, 906, 920: Corrected simple dash or en-dash to em-dash.
+* At line 510: Corrected *I do* → *she does*.
 
 ## Other remarks
 

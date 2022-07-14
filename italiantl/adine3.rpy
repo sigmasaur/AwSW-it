@@ -448,7 +448,7 @@ translate italiantl _call_skipcheck_9_cc2c6348:
 translate italiantl _call_skipcheck_9_a25091eb:
 
     # m "I got an idea and started looking for something in the sand on the ground. With a bit of digging, I found a flat, smooth stone and showed it to her."
-    m "Mi venne un'idea e iniziai a cercare qualcosa in terra nella sabbia. Dopo aver scavato un po', trovai un ciottolo piatto e liscio, e glielo mostrai."
+    m "Ebbi un'idea e iniziai a cercare qualcosa in terra nella sabbia. Dopo aver scavato un po', trovai un ciottolo piatto e liscio, e glielo mostrai." # "with" -> "after"
 
 # game/adine3.rpy:307
 translate italiantl _call_skipcheck_9_a94fdf1b:
@@ -808,7 +808,7 @@ translate italiantl _call_skipcheck_9_69288d3b:
 translate italiantl _call_skipcheck_9_4b13a8e5:
 
     # Ad "That was a neat trick, though. So, what else can you do at the beach?"
-    Ad "È stato un bel trucchetto, comunque. Quindi, che altro puoi fare in spiaggia?"
+    Ad "È stato un bel trucchetto, comunque. Quindi, cos'altro puoi fare in spiaggia?"
 
 # game/adine3.rpy:466
 translate italiantl _call_skipcheck_9_d0807a02:
@@ -1997,7 +1997,7 @@ translate italiantl adine3skip_da645f34:
 translate italiantl adine3skip_aa15b1ce:
 
     # c "You went to visit Remy in the library the other day, right?"
-    c "Hai fatto visita a [Ry] in biblioteca l'altro giorno, giusto?"
+    c "Sei andata a trovare [Ry] in biblioteca l'altro giorno, giusto?"
 
 # game/adine3.rpy:1133
 translate italiantl adine3skip_5b398893:
@@ -2063,7 +2063,7 @@ translate italiantl adine3skip_9189bfd3:
 translate italiantl adine3skip_1c68a427:
 
     # Ad "If he knew what I know, I'm not sure what he would do."
-    Ad "Non sono sicura di cosa farebbe, se lui sapesse quello che so io."
+    Ad "Non sono sicura di cosa farebbe, se sapesse quello che so io."
 
 # game/adine3.rpy:1155
 translate italiantl adine3skip_df72d121:
@@ -2075,13 +2075,13 @@ translate italiantl adine3skip_df72d121:
 translate italiantl adine3skip_e147d262:
 
     # Ad "When she got sick, I often visited her. I just wanted to check up on her and take a little of the edge off, considering what she was going through at work."
-    Ad "Quando si è ammalata, le facevo spesso visita. Volevo solo controllarla e allentare la tensione un tantino, considerando quello che stava passando al lavoro."
+    Ad "Quando lei si ammalò, andavo spesso a trovarla. Volevo solo controllare come stesse e allentare un poco la tensione, considerando quello che stava passando al lavoro."
 
 # game/adine3.rpy:1159
 translate italiantl adine3skip_46e2fe54:
 
     # Ad "The night she died, I was actually with her. I stayed with her until pretty late, but as I had to work the next day, I eventually left. It was late enough, and I told her to take it easy."
-    Ad "La notte in cui è morta, in effetti ero con lei. Rimasi con lei fino a tarda notte, ma siccome avrei dovuto lavorare il giorno seguente, alla fine me ne andai. Era abbastanza tardi, e le dissi di non stancarsi troppo." # "pretty late" -> "late at night"
+    Ad "La notte in cui è morta, in effetti io ero con lei. Rimasi con lei fino a tarda notte, ma siccome avrei dovuto lavorare il giorno seguente, alla fine me ne andai. Era abbastanza tardi, e le dissi di non stancarsi troppo." # "pretty late" -> "late at night"
 
 # game/adine3.rpy:1161
 translate italiantl adine3skip_7977d2db:
@@ -2153,13 +2153,13 @@ translate italiantl adine3skip_86148265:
 translate italiantl adine3skip_74165a88:
 
     # Ad "I know it must have been much harder for him than it was for me, but that doesn't mean I got out of it unscathed. I lost my best friend."
-    Ad "So che dev'essere stata molto più dura per lui di quanto lo è stata per me, ma questo non significa che ne sia uscita illesa. Ho perso la mia migliore amica."
+    Ad "So che dev'essere stata molto più dura per lui di quanto lo è stata per me, ma questo non significa che io ne sia uscita illesa. Ho perso la mia migliore amica."
 
 # game/adine3.rpy:1185
 translate italiantl adine3skip_ee8545a5:
 
     # Ad "I blamed myself for a long time, too. I guess I still do. How could I face him, knowing that I could've averted this tragedy so easily?"
-    Ad "Ho pure incolpato me stessa per molto tempo. Immagino di non aver mai smesso. Come potevo affrontarlo, sapendo che avrei potuto evitare questa tragedia così facilmente?"
+    Ad "Ho pure incolpato me stessa per molto tempo. Immagino di non avere mai smesso. Come potevo affrontarlo, sapendo che avrei potuto evitare questa tragedia così facilmente?"
 
 # game/adine3.rpy:1187
 translate italiantl adine3skip_e0ffffe7:
@@ -2219,7 +2219,7 @@ translate italiantl adine3skip_0f5c5908:
 translate italiantl adine3skip_6f420b80:
 
     # c "What did you do after it all happened?"
-    c "Cos'hai fatto dopo che tutto è successo?"
+    c "Cos'hai fatto dopo che tutto questo è successo?"
 
 # game/adine3.rpy:1207
 translate italiantl adine3skip_8c30660a:
@@ -2267,13 +2267,13 @@ translate italiantl adine3skip_ae89625a:
 translate italiantl adine3skip_51c64cac:
 
     # Ad normal b "Much better. Maybe with this I can even start practicing again in a day or two."
-    Ad normal b "Molto meglio. Forse con questa potrò persino riprendere ad allenarmi in un giorno o due."
+    Ad normal b "Molto meglio. Forse con questa potrò persino ricominciare ad allenarmi in un giorno o due."
 
 # game/adine3.rpy:1234
 translate italiantl adine3skip_27e4f149:
 
     # c "Just be safe."
-    c "Solo sta' attenta."
+    c "Però sta' attenta."
 
 # game/adine3.rpy:1236
 translate italiantl adine3skip_356b153d:
@@ -2387,13 +2387,13 @@ translate italiantl adine3skip_f5429729:
 translate italiantl adine3skip_bc9f37b6:
 
     # c "Yes, it is. I'd be careful if I were you. Or at least wait until they have taken care of the water pockets, so there is no danger if you decide to pay it a visit."
-    c "Sì, lo è. Starei attentə se fossi in te. O almeno aspetterei finché non si siano occupati delle sacche d'acqua, così non ci sarà alcun pericolo se deciderai di farvi una visita."
+    c "Sì, lo è. Starei attentə se fossi in te. O almeno aspetterei finché non si siano occupati delle sacche d'acqua, così non ci sarà alcun pericolo se deciderai di farci una visita."
 
 # game/adine3.rpy:1284
 translate italiantl adine3skip_0fb5135d:
 
     # Ad "Alright. It'll be a while until I get a chance to visit, anyway. All my free time right now will go towards practicing for the competition."
-    Ad "D'accordo. Ci vorrà un po' prima che abbia occasione di fare visita, in ogni caso. Tutto il mio tempo libero al momento sarà vòlto ad allenarmi per la competizione."
+    Ad "D'accordo. Ci vorrà un po' prima che abbia occasione di visitarlo, in ogni caso. Tutto il mio tempo libero al momento sarà vòlto ad allenarmi per la competizione."
 
 # game/adine3.rpy:1286
 translate italiantl adine3skip_89aefe22_2:

@@ -880,7 +880,7 @@ translate italiantl _call_skipcheck_7_c6a90608:
 translate italiantl _call_skipcheck_7_e658b925:
 
     # c "I know it's not Knizki's {i}Textile Merchant{/i}, but I suppose it's better than nothing." # reference to Game Board from IT Crowd
-    c "So che non è {i}Textile Merchant{/i} di Knizki, ma suppongo sia meglio di niente." # the Italian translation of IT Crowd keeps the English name for that board game
+    c "So che non è {i}Textile Merchant{/i} di Knizki, ma suppongo sia meglio di niente." # the Italian translation of IT Crowd keeps the English name for the board game
 
 # game/anna1.rpy:685
 translate italiantl _call_skipcheck_7_fa19e5d4:
@@ -1270,7 +1270,7 @@ translate italiantl cont2_2fe75ba3:
 translate italiantl cont2_eda2a1fe:
 
     # An "Don't worry, I'll still count it as a right answer for you. No need to get your tail caught in a door about it."
-    An "Non preoccuparti, te la conterò comunque come una risposta giusta. Non c'è bisogno che ti mordi la coda per questo." # "get one's knickers in a twist" => "mordersi le mani"
+    An "Tranquillə, te la conterò comunque come una risposta giusta. Non c'è bisogno che ti mordi la coda per questo." # "get one's knickers in a twist" => "mordersi le mani"
 
 # game/anna1.rpy:989
 translate italiantl wrong3_4100da8d:
