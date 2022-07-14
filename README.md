@@ -394,7 +394,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 233, 350, 428, 490, 532, 584, 644, 658, 1017: Corrected simple dash or en-dash to em-dash.
 * At line 350: *inches* → *centimeters*; see line 2144 of [`chapter4.rpy`](#chapter4rpy).
 * At line 937: Corrected *w<s>h</s>ere coming*.
-* Al line 961: Rendered *leg* as *paw*.
+* At line 961: Rendered *leg* as *paw*.
 * At line 1009: Corrected *Pantoli'<b>s</b> Pizza*.
 * At line 1039: Split in multiple parts to fit fewer lines.
 
