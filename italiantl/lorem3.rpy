@@ -454,7 +454,7 @@ translate italiantl lorem3searchmenu_9f99be3a:
 translate italiantl lorem3searchmenu_8b2fd2ce:
 
     # m "As Lorem flew up to the windowsill with a few flaps of his wings, I turned to the right to look inside the windows of the administrative building."
-    m "Mentre [Lo] volava fino al davanzale con qualche battito delle sue ali, io mi voltai a destra per guardare dentro le finestre dell'edificio amministrativo."
+    m "Mentre [Lo] volava fino al davanzale con qualche battito d'ali, io mi voltai a destra per guardare dentro le finestre dell'edificio amministrativo."
 
 # game/lorem3.rpy:322
 translate italiantl lorem3searchmenu_5f3a2701:
@@ -628,7 +628,7 @@ translate italiantl lorem3searchmenu_e254fc4b:
 translate italiantl lorem3searchmenu_2112f234:
 
     # m "Lorem's face was straining as he tried to pull harder and harder on the object he had found."
-    m "Il viso di [Lo] si tese mentre egli cercava di tirare più e più forte l'oggetto che aveva trovato."
+    m "Il viso di [Lo] si tese mentre cercava di tirare più e più forte l'oggetto che aveva trovato."
 
 # game/lorem3.rpy:406
 translate italiantl lorem3searchmenu_796f9766:
@@ -1414,7 +1414,7 @@ translate italiantl lorem3searchmenu_1e02accf:
 translate italiantl lorem3searchmenu_2d66014d:
 
     # m "Lorem took flight with a few flaps of his wings. After looking at the scenery from above, he returned to me."
-    m "[Lo] spiccò il volo con qualche battito delle sue ali. Dopo aver guardato il paesaggio dall'alto, ritornò da me."
+    m "[Lo] prese il volo con qualche battito d'ali. Dopo aver guardato il paesaggio dall'alto, ritornò da me."
 
 # game/lorem3.rpy:747
 translate italiantl lorem3searchmenu_ecd96299:

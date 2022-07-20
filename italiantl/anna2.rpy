@@ -154,19 +154,19 @@ translate italiantl anna2_b30d5085:
 translate italiantl _call_syscheck_110_89288563:
 
     # s "You looked at Anna's envelope! {image=image/ui/status/heardaboutcancer.png}"
-    s "Hai guardato la busta di [An]!{image=image/ui/status/heardaboutcancer.png}"
+    s "Hai guardato la busta di [An]! {image=image/ui/status/heardaboutcancer.png}"
 
 # game/anna2.rpy:189
 translate italiantl _call_syscheck_110_c2f6a1f2:
 
     # s "You looked at Anna's envelope. Naughty. {image=image/ui/status/heardaboutcancer.png}"
-    s "Hai guardato la busta di [An]. Non si fa!{image=image/ui/status/heardaboutcancer.png}"
+    s "Hai guardato la busta di [An]. Non si fa! {image=image/ui/status/heardaboutcancer.png}"
 
 # game/anna2.rpy:193
 translate italiantl _call_syscheck_110_655131fd:
 
     # s "You looked at Anna's envelope. Better not let her catch you. {image=image/ui/status/heardaboutcancer.png}"
-    s "Hai guardato la busta di [An]. Meglio che non ti fai beccare da lei.{image=image/ui/status/heardaboutcancer.png}"
+    s "Hai guardato la busta di [An]. Meglio che non ti fai beccare da lei. {image=image/ui/status/heardaboutcancer.png}"
 
 # game/anna2.rpy:199
 translate italiantl _call_syscheck_110_a10dae91:
@@ -1762,7 +1762,7 @@ translate italiantl _call_skipcheck_32_e0224be1:
 translate italiantl _call_skipcheck_32_d4e460d0:
 
     # c "There's still plenty left over. What are we going to do with it all?"
-    c "Ne avanza ancora un sacco. Che vogliamo fare di tutto questo?" # "it all" -> "all this"
+    c "Ne avanza ancora un sacco. Cosa ne facciamo di tutto quanto?"
 
 # game/anna2.rpy:1185
 translate italiantl _call_skipcheck_32_a1b1befd:

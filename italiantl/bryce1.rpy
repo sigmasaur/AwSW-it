@@ -948,7 +948,7 @@ translate italiantl _call_syscheck_41_1b059110:
 translate italiantl _call_syscheck_41_1af65026:
 
     # Br "Good to hear. Maybe next time we'll send a dragon over to your world."
-    Br "Mi fa piacere. Magari la prossima volta invieremo noi un drago nel vostro mondo."
+    Br "Mi fa piacere. Magari la prossima volta manderemo noi un drago nel vostro mondo."
 
 # game/bryce1.rpy:778
 translate italiantl _call_syscheck_41_3f8630a1:

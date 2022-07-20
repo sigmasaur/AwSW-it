@@ -94,7 +94,7 @@ translate italiantl adine5_2359c96e:
 translate italiantl adine5_b786e88a:
 
     # m "We waited quietly as the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "Aspettammo in silenzio mentre la quiete della notte ci avvolgeva. Ben presto, udii il suono del primo razzo che si faceva strada nel cielo notturno e quindi esplose in una fantasia di colori." # see line 520 of chapter 5
+    m "Aspettammo in silenzio mentre la quiete della notte ci avvolgeva. Ben presto, udii il suono del primo razzo che si faceva strada nel cielo notturno e quindi esplodeva in una fantasia di colori." # see line 520 of chapter 5
 
 # game/adine5.rpy:62
 translate italiantl adine5_07037632:
@@ -1120,7 +1120,7 @@ translate italiantl adinegoodending_582e80d4:
 translate italiantl adinegoodending_3079022a:
 
     # c "You think so?"
-    c "Lo pensi davvero?"
+    c "Tu credi?"
 
 # game/adine5.rpy:1028
 translate italiantl adinegoodending_9d43b089:

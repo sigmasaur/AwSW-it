@@ -436,7 +436,7 @@ translate italiantl _call_skipcheck_17_d4509248:
 translate italiantl _call_skipcheck_17_6c24cd3e:
 
     # An "Or that when I gave him that first generator I didn’t try to graze his skin just enough so that I could salvage a few skin cells?"
-    An "O che quando gli ho dato quel primo generatore non abbia tentato di graffiargli la pelle appena quel tanto da poterne recuperare qualche cellula?"
+    An "O che quando gli ho dato quel primo generatore non abbia tentato di graffiargli la pelle quel tanto che bastava per poterne recuperare qualche cellula?"
 
 # game/anna4.rpy:293
 translate italiantl _call_skipcheck_17_473c72e2:
@@ -1318,7 +1318,7 @@ translate italiantl _call_skipcheck_18_5f687d6d:
 translate italiantl _call_skipcheck_18_0b3a944c:
 
     # c "At some point, it just gets tiring. People get loud and argumentative, and those are supposed to be our leaders."
-    c "A un certo punto, si fa solo stancante. Alzano la voce e attaccano lite, e quelli dovrebbero essere i nostri capi."
+    c "A un certo punto, è solo stancante. Alzano la voce e attaccano lite, e quelli dovrebbero essere i nostri capi." # "it just gets" -> "it's just"
 
 # game/anna4.rpy:701
 translate italiantl _call_skipcheck_18_b9a6a655:
@@ -1866,7 +1866,7 @@ translate italiantl strings:
 
     # anna4.rpy:335
     old "Tell her you know about her cancer. {image=image/ui/status/heardaboutcancer.png}"
-    new "Dille che sai del suo cancro.{image=image/ui/status/heardaboutcancer.png}"
+    new "Dille che sai del suo cancro. {image=image/ui/status/heardaboutcancer.png}"
 
     # anna4.rpy:729
     old "Truth is what I feel is right."

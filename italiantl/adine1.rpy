@@ -1702,7 +1702,7 @@ translate italiantl _call_syscheck_48_244ffce1:
 translate italiantl _call_syscheck_48_a475c68f:
 
     # Ad "Or maybe I'll get your number instead. Since you ordered from us, I already have it anyway."
-    Ad "O magari potresti darmi il tuo numero invece. Dato che hai ordinato da noi, ce l'ho già comunque." # "I'll get" -> "you could give me"
+    Ad "O magari potresti darmi il tuo numero invece. Dato che hai ordinato da noi, ce l'ho già comunque." # "I'll get" -> "you could give me", see line 1268
 
 # game/adine1.rpy:1277
 translate italiantl _call_syscheck_48_405efdd0:

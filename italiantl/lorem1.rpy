@@ -742,7 +742,7 @@ translate italiantl _call_skipcheck_16_62c174e9:
 translate italiantl _call_skipcheck_16_5be894cd:
 
     # Lo "That might not really matter if we were talking about a non-physical entity or a spiritual being, though."
-    Lo "Il che però potrebbe non contare poi molto se stessimo parlando di un'entità non-fisica o di un essere spirituale."
+    Lo "Il che però potrebbe non contare molto se stessimo parlando di un'entità non-fisica o di un essere spirituale."
 
 # game/lorem1.rpy:553
 translate italiantl _call_skipcheck_16_142a8591:

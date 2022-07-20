@@ -82,7 +82,7 @@ translate italiantl adine2_c48dc32f:
 translate italiantl adine2_5d1a3880:
 
     # s "You met Amely! {image=image/ui/status/c2pictures.png}"
-    s "Hai incontrato [Am]!{image=image/ui/status/c2pictures.png}"
+    s "Hai incontrato [Am]! {image=image/ui/status/c2pictures.png}"
 
 # game/adine2.rpy:136
 translate italiantl _call_skiptut_23_44e0ddc6:

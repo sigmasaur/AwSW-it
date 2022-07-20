@@ -2,11 +2,11 @@
 
 ## Status
 
-Currently working on `Lorem`'s sections. Files done and up for review:
+Currently working on `Remy`'s sections. Files done and up for review:
 
     common.rpy
     dv.rpy
-    
+
     screens.rpy
     status.rpy
     help.rpy
@@ -42,8 +42,9 @@ Currently working on `Lorem`'s sections. Files done and up for review:
     lorem2.rpy
     lorem3.rpy
     lorem4.rpy
+    lorem5.rpy
 
-### A few remarks
+## A few remarks
 
 * Having considered the developer's opinion, and given the precedent of game *Neo Cab*, I decided to use [Inclusive Italian][1] to help address the player character with a neutral gender. I took the liberty of updating the fonts with `ə` and `ɜ`, needed for such neutral gender, as well as with accented vowels, which were needed anyway.<br>
 On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change. Also, `Emera` is addressed by all other characters with formal pronouns, as are `Anna` by `Adine`, `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few cases.
@@ -92,6 +93,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 463: Unfolded *8* → *eight*, for elegance.
 * At line 1084, 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 1358: Corrected two-dots ellipsis to three-dots.
+* At line 1503, 1507, 1511: Added space before image, to match numerous lines throughout the script.
 * At line 1751: Used if-statement to further distinguish between food types by linguistic necessity.
 * At line 1861: *or even* → *such as*, as bacteria are unicellular.
 * At line 2348-2352, 2389-2395, 2410-2415: Assumed the authors' gender by linguistic necessity.
@@ -122,6 +124,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1420-1438: Note that these lines also trigger if `Zhong` was never met at the bar. Affected sequences: play [`bryce1.rpy`](#bryce1rpy) and leave at lines 75, 142.
 * At line 1607: Added brackets to match line 2301 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1623: *melon bread* → *melon-flavored bread*, to preserve the pun by linguistic necessity.
+* At line 2423: Added space before image, to match lines 2419, 2427 and numerous other lines throughout the script.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
   * At line 2423: A playful exclamation of surprise.
   * At line 3824: This had to be changed completely: *You'd be a perfect dragon investigator... short of a tail.* Any improvement is welcome. (Note that in theory, `Zhong`'s name might still be unknown to the user.)
@@ -147,6 +150,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 3751: Adapted to preserve a pun; reverse translation: *I'm stunned.*
 * At line 3862-3866: Note that these lines also trigger if `Zhong` already addressed the player character by name in [`bryce1.rpy`](#bryce1rpy), where they may speak the same dialogue. Affected sequences: play [`bryce1.rpy`](#bryce1rpy) and [`chapter2.rpy`](#chapter2rpy) in either order; ask `Zhong` about him knowing the player character's name in [`bryce1.rpy`](#bryce1rpy) and leave at lines 694, 1176 or play through, don't visit the grocery store in [`chapter2.rpy`](#chapter2rpy).
 * At line 4046-4064: Note that the larger, orange dragon should be a female, as mentioned by `Zhong` at line 3907; the current translation doesn't use this information, nonetheless.
+* At line 4136, 4140, 4144: Added space before image, to match numerous lines throughout the script.
 
 ### [`chapter4.rpy`](italiantl/chapter4.rpy)
 
@@ -158,7 +162,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1708: Slightly pruned to fit fewer lines.
 * At line 1812: Note that in theory, dragons don't know what a car is.
 * At line 2035, 2836, 2873, 2909, 2946: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
-* At line 2411: `Shake` function doesn't seem to trigger.
+* At line 2411: `Shake` transition doesn't seem to trigger.
 * At line 3236, 3315, 3468, 3698: Rendered *leg* as *paw*.
 * At line 3285-3289, 3379-3383, 3438-3442, 3511-3515, 3742-3746: Adapted to preserve a pun; reverse translation: *Exceptional.*
 * At line 3568, 3627, 3798, 3857: Assumed *who* is referred to `Adine`.
@@ -403,6 +407,14 @@ The following are mostly to the benefit of the developer and translators.
 * At line 106: Adapted to preserve a pun; reverse translation: *Wonderful!*
 * At line 490, 741, 751, 799, 841, 906, 920: Corrected simple dash or en-dash to em-dash.
 * At line 510: Corrected *I do* → *she does*.
+
+### [`lorem5.rpy`](italiantl/lorem5.rpy)
+
+* At line 50, 819: Corrected simple dash to em-dash.
+* At line 109: See line 83 of [`adine5.rpy`](#adine5rpy).
+* At line 428: `hpunch` transition doesn't seem to trigger.
+* At line 518: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
+* At line 771: Corrected uppercase letter of *Portal* to lowercase, to match numerous lines throughout the script.
 
 ## Other remarks
 

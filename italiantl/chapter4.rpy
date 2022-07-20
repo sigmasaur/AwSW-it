@@ -880,7 +880,7 @@ translate italiantl c4skip1_47f78dd4:
 translate italiantl c4skip1_9d592bb3:
 
     # c "(I still have that? I don't know how long it's been...)"
-    c "(Ce l'ho ancora? Non so neanche da quanto...)" # "I don't know how long [it's been]" -> "I don't EVEN know how long"
+    c "(Ce l'ho ancora? Non so nemmeno da quanto...)" # "I don't know how long [it's been]" -> "I don't EVEN know how long"
 
 # game/chapter4.rpy:1064
 translate italiantl c4skip1_9a40e229:
@@ -898,7 +898,7 @@ translate italiantl c4skip1_866bf063:
 translate italiantl c4skip1_4f0f468a:
 
     # Mv angry flip "Why do you think I care about that? It wouldn't make a damn difference to me if other dragons came through the portal instead of humans."
-    Mv angry flip "E perché pensi che dovrebbe importarmene? Non farebbe nessuna schifosa differenza per me se altri draghi avessero attraversato il portale invece degli umani."
+    Mv angry flip "E perché pensi che me ne importi? Non farebbe nessuna schifosa differenza per me se altri draghi avessero attraversato il portale invece degli umani."
 
 # game/chapter4.rpy:1070
 translate italiantl c4skip1_f28270cc:
@@ -910,7 +910,7 @@ translate italiantl c4skip1_f28270cc:
 translate italiantl c4skip1_fc47db34:
 
     # Mv "It was never about you being humans. It's about my people not hearing my pleas, and the leniency they were willing to show you, all in the name of fostering this diplomatic relationship."
-    Mv "Non si è mai trattato del fatto che siete umani. Si tratta della mia gente che non presta orecchio alle mie richieste, e dell'indulgenza che è disposta a mostrarvi, tutto in nome di promuovere questa relazione diplomatica."
+    Mv "Non si è mai trattato del fatto che siete umani. Si tratta della mia gente che non presta orecchio alle mie richieste, e dell'indulgenza che era disposta a mostrarvi, tutto in nome di promuovere questa relazione diplomatica."
 
 # game/chapter4.rpy:1074
 translate italiantl c4skip1_f56b0d9c:
@@ -3505,7 +3505,7 @@ translate italiantl c4library_759b976c:
 translate italiantl c4library_82410399:
 
     # Sb "I suppose the reason doesn't really matter at this point. He's already gone."
-    Sb "Suppongo che le ragioni non abbiano poi molta importanza a questo punto. Ormai se n'è andato."
+    Sb "Suppongo che le ragioni non abbiano molta importanza a questo punto. Ormai se n'è andato."
 
 # game/chapter4.rpy:3039
 translate italiantl c4library_32dc6903:
@@ -3535,7 +3535,7 @@ translate italiantl c4library_759b976c_1:
 translate italiantl c4library_82410399_1:
 
     # Sb "I suppose the reason doesn't really matter at this point. He's already gone."
-    Sb "Suppongo che le ragioni non abbiano poi molta importanza a questo punto. Ormai se n'è andato."
+    Sb "Suppongo che le ragioni non abbiano molta importanza a questo punto. Ormai se n'è andato."
 
 # game/chapter4.rpy:3051
 translate italiantl c4library_32dc6903_1:
@@ -6540,7 +6540,7 @@ translate italiantl strings:
 
     # chapter4.rpy:970
     old "Tell Maverick to wait. {image=image/ui/status/havetestresults.png}"
-    new "Di' a [Mv] di aspettare.{image=image/ui/status/havetestresults.png}"
+    new "Di' a [Mv] di aspettare. {image=image/ui/status/havetestresults.png}"
 
     # chapter4.rpy:1259
     old "{#chapter4}I'll do it."

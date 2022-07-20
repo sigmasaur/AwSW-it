@@ -747,7 +747,7 @@ translate italiantl _call_skipcheck_6_e3616acf:
 translate italiantl _call_skipcheck_6_fde84a1b:
 
     # Br brow "You think so?"
-    Br brow "Lo pensi davvero?"
+    Br brow "Tu credi?"
 
 # game/bryce2.rpy:575
 translate italiantl _call_skipcheck_6_af06a84d:
@@ -1803,7 +1803,7 @@ translate italiantl bryce2cont2_48af969d:
 translate italiantl bryce2cont2_0627ddb3:
 
     # c "What do you think will happen once the truth about him gets out?"
-    c "Cosa pensi accadrà una volta che la verità su di lui sarà venuta fuori?"
+    c "Cosa pensi che accadrà una volta che la verità su di lui sarà venuta fuori?"
 
 # game/bryce2.rpy:1205
 translate italiantl bryce2cont2_7a067069:

@@ -136,7 +136,7 @@ translate italiantl bryce5_9ca39f57:
 translate italiantl bryce5_b786e88a:
 
     # m "We waited quietly as the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "Aspettammo in silenzio mentre la quiete della notte ci avvolgeva. Ben presto, udii il suono del primo razzo che si faceva strada nel cielo notturno e quindi esplose in una fantasia di colori." # see line 60 of Adine 5
+    m "Aspettammo in silenzio mentre la quiete della notte ci avvolgeva. Ben presto, udii il suono del primo razzo che si faceva strada nel cielo notturno e quindi esplodeva in una fantasia di colori." # see line 60 of Adine 5
 
 # game/bryce5.rpy:80
 translate italiantl bryce5_07037632:
@@ -580,7 +580,7 @@ translate italiantl _call_sincethelightswerealreadyon_9ad3f88b:
 translate italiantl _call_sincethelightswerealreadyon_7b0d4b70:
 
     # m "I ran as fast as I could. As I was about to reach the outside, I looked back over my shoulder just in time to see Bryce throwing himself on the box before it exploded."
-    m "Corsi più veloce che potevo. Mentre stavo per raggiungere l'esterno, guardai alle mie spalle appena in tempo per vedere [Br] lanciarsi sulla bomba prima che esplodesse." # see line 622 of chapter 5
+    m "Corsi più veloce che potevo. Mentre stavo per raggiungere l'esterno, guardai alle mie spalle appena in tempo per vedere [Br] lanciarsi sullo scatolone prima che esplodesse." # see line 622 of chapter 5
 
 # game/bryce5.rpy:399
 translate italiantl _call_sincethelightswerealreadyon_e37bf552:

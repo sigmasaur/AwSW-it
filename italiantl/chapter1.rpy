@@ -1194,19 +1194,19 @@ translate italiantl _call_skipcheck_2_7e89f10e:
 translate italiantl _call_syscheck_4_90c87390:
 
     # s "You gave Anna your blood!{image=image/ui/status/havetestresults.png}"
-    s "Hai donato ad [An] il tuo sangue!{image=image/ui/status/havetestresults.png}"
+    s "Hai donato ad [An] il tuo sangue! {image=image/ui/status/havetestresults.png}"
 
 # game/chapter1.rpy:1507
 translate italiantl _call_syscheck_4_32106a9e:
 
     # s "You gave Anna your blood?{image=image/ui/status/havetestresults.png}"
-    s "Hai donato ad [An] il tuo sangue?{image=image/ui/status/havetestresults.png}"
+    s "Hai donato ad [An] il tuo sangue? {image=image/ui/status/havetestresults.png}"
 
 # game/chapter1.rpy:1511
 translate italiantl _call_syscheck_4_62f75a4e:
 
     # s "You gave Anna your blood? Oh, well...{image=image/ui/status/havetestresults.png}"
-    s "Hai donato ad [An] il tuo sangue? Oh, be'...{image=image/ui/status/havetestresults.png}"
+    s "Hai donato ad [An] il tuo sangue? Oh, be'... {image=image/ui/status/havetestresults.png}"
 
 # game/chapter1.rpy:1515
 translate italiantl _call_syscheck_4_6ef34d2e:

@@ -1841,7 +1841,7 @@ translate italiantl mpsave_4e88367c:
 translate italiantl mpsave_e51c3ae2:
 
     # m "I saw her feeble attempt to regain control as she barely managed to steady herself enough to get back to the beach. She made a rough landing, rolling on the ground a few times after colliding with the sand."
-    m "Vidi il suo fievole tentativo di riguadagnare il controllo mentre riusciva a malapena a riaversi quel tanto da ritornare alla spiaggia. Compì un atterraggio duro, ruzzolando al suolo alcune volte dopo ch'ebbe sbattuto contro la sabbia." # wording; "steady" -> "collect"
+    m "Vidi il suo fievole tentativo di riguadagnare il controllo mentre riusciva a malapena a riaversi quanto bastava per ritornare alla spiaggia. Compì un violento atterraggio, ruzzolando al suolo alcune volte dopo ch'ebbe sbattuto contro la sabbia." # wording; "steady" -> "collect"
 
 # game/adine3.rpy:1057
 translate italiantl mpsave_b434465c:
@@ -2613,7 +2613,7 @@ translate italiantl strings:
 
     # adine3.rpy:1244
     old "Yes. {image=image/ui/status/havemap.png}"
-    new "Sì.{image=image/ui/status/havemap.png}"
+    new "Sì. {image=image/ui/status/havemap.png}"
 
     # adine3.rpy:1244
     old "{#adine3nomap}No."

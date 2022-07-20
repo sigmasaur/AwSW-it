@@ -112,7 +112,7 @@ translate italiantl anna5_126dd557:
 translate italiantl anna5_b786e88a:
 
     # m "We waited quietly as the stillness of the night enveloped us. Soon, I heard the sound of the first rocket making its way into the night sky after which it exploded in a pattern of colors."
-    m "Aspettammo in silenzio mentre la quiete della notte ci avvolgeva. Ben presto, udii il suono del primo razzo che si faceva strada nel cielo notturno e quindi esplose in una fantasia di colori." # see line 60 of Adine 5
+    m "Aspettammo in silenzio mentre la quiete della notte ci avvolgeva. Ben presto, udii il suono del primo razzo che si faceva strada nel cielo notturno e quindi esplodeva in una fantasia di colori." # see line 60 of Adine 5
 
 # game/anna5.rpy:66
 translate italiantl anna5_07037632:
@@ -478,7 +478,7 @@ translate italiantl _call_endingjustafewminuteslater_1_f31ebaec:
 translate italiantl _call_endingjustafewminuteslater_1_b209046b:
 
     # c "I don't know, Izumi. What do you think we should do? We have to stop the comet, after all."
-    c "Non lo so, [Iz]. Cosa credi che dovremmo fare? Dobbiamo fermare la cometa, dopotutto."
+    c "Non lo so, [Iz]. Cosa pensi che dovremmo fare? Dobbiamo fermare la cometa, dopotutto."
 
 # game/anna5.rpy:401
 translate italiantl _call_endingjustafewminuteslater_1_9e2dcb1b:
@@ -610,7 +610,7 @@ translate italiantl _call_endingjustafewminuteslater_1_054c4fad:
 translate italiantl _call_endingjustafewminuteslater_1_74455348:
 
     # Iz "You want to save those who sent Reza, and his supporters?"
-    Iz "Vorresti forse salvare quelli che hanno mandato [Rz], e i suoi sostenitori?"
+    Iz "Vuoi forse salvare quelli che hanno mandato [Rz], e i suoi sostenitori?"
 
 # game/anna5.rpy:447
 translate italiantl _call_endingjustafewminuteslater_1_0de8ac3f:

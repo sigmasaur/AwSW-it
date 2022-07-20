@@ -823,7 +823,7 @@ translate italiantl _call_skipcheck_11_8ff0be75:
 translate italiantl _call_skipcheck_11_6dadc1bd:
 
     # Br "We've got a long search ahead of us... and with a head start like that, there might be no end to it."
-    Br "Abbiamo una lunga ricerca davanti a noi... e con un vantaggio come quello, potrebbe non avere mai fine."
+    Br "Ci attende una lunga ricerca... e con un vantaggio come quello, potrebbe non avere mai fine."
 
 # game/chapter2.rpy:880
 translate italiantl _call_skipcheck_11_7e1e1ddf:
@@ -1093,7 +1093,7 @@ translate italiantl chap2q1_0056c5b5:
 translate italiantl chap2q1_078f453a:
 
     # Sb "Maybe we should just focus on finding him and point fingers later."
-    Sb "Forse dovremmo solo pensare a trovarlo e rimandare le accuse a più tardi."
+    Sb "Forse dovremmo solo pensare a trovarlo e più tardi punteremo il dito." # "WE'LL point fingers later"
 
 # game/chapter2.rpy:1074
 translate italiantl chap2q1_88df38a7:
@@ -2805,19 +2805,19 @@ translate italiantl _call_syscheck_52_44e8dccf:
 translate italiantl _call_syscheck_53_803f0293:
 
     # s "You acquired an Ixomen Sphere part (Orb)! {image=image/ui/status/orb_taken.png}"
-    s "Hai acquisito una parte di Sfera di Ixomen (Orbe)!{image=image/ui/status/orb_taken.png}"
+    s "Hai acquisito una parte di Sfera di Ixomen (Orbe)! {image=image/ui/status/orb_taken.png}"
 
 # game/chapter2.rpy:2423
 translate italiantl _call_syscheck_53_32642f7c:
 
     # s "You acquired an Ixomen Sphere part (Orb). Orbsome!{image=image/ui/status/orb_taken.png}"
-    s "Hai acquisito una parte di Sfera di Ixomen (Orbe). Orbezzoli!{image=image/ui/status/orb_taken.png}" # adapted to preserve a pun
+    s "Hai acquisito una parte di Sfera di Ixomen (Orbe). Orbezzoli! {image=image/ui/status/orb_taken.png}" # adapted to preserve a pun
 
 # game/chapter2.rpy:2427
 translate italiantl _call_syscheck_53_4c490094:
 
     # s "You acquired an Ixomen Sphere part (Orb). I hope you have big pockets to carry this thing around in. {image=image/ui/status/orb_taken.png}"
-    s "Hai acquisito una parte di Sfera di Ixomen (Orbe). Spero tu abbia tasche abbastanza grandi da portarci dentro quest'affare.{image=image/ui/status/orb_taken.png}" # "big ENOUGH pockets"
+    s "Hai acquisito una parte di Sfera di Ixomen (Orbe). Spero tu abbia tasche abbastanza grandi da portarci dentro quest'affare. {image=image/ui/status/orb_taken.png}" # "big ENOUGH pockets"
 
 # game/chapter2.rpy:2433
 translate italiantl _call_syscheck_53_fd263fbb:
@@ -2829,19 +2829,19 @@ translate italiantl _call_syscheck_53_fd263fbb:
 translate italiantl _call_syscheck_54_49f197d1:
 
     # s "You acquired a mysterious orb! {image=image/ui/status/orb_taken.png}"
-    s "Hai acquisito un orbe misterioso!{image=image/ui/status/orb_taken.png}"
+    s "Hai acquisito un orbe misterioso! {image=image/ui/status/orb_taken.png}"
 
 # game/chapter2.rpy:2451
 translate italiantl _call_syscheck_54_a19bfa2d:
 
     # s "You acquired a mysterious orb. How mysterious. {image=image/ui/status/orb_taken.png}"
-    s "Hai acquisito un orbe misterioso. Com'è misterioso.{image=image/ui/status/orb_taken.png}"
+    s "Hai acquisito un orbe misterioso. Com'è misterioso. {image=image/ui/status/orb_taken.png}"
 
 # game/chapter2.rpy:2455
 translate italiantl _call_syscheck_54_5f8bcb01:
 
     # s "You acquired a mysterious orb. Do you think it can float? {image=image/ui/status/orb_taken.png}" # reference to mysterious floating orb by weird al
-    s "Hai acquisito un orbe misterioso. Pensi che possa fluttuare?{image=image/ui/status/orb_taken.png}"
+    s "Hai acquisito un orbe misterioso. Dici che può fluttuare? {image=image/ui/status/orb_taken.png}" # "[do] you think it can float"
 
 # game/chapter2.rpy:2467
 translate italiantl chap2findnothing_62a5e033:
@@ -3075,7 +3075,7 @@ translate italiantl chap2leverresult_d8a6bb28:
 translate italiantl chap2park3_a4ddaedf:
 
     # m "Just as I entered the southern part of the park, I found myself tumbling to the ground when someone suddenly bumped into me."
-    m "Come fui entratə nella parte meridionale del parco, mi ritrovai ruzzolante al suolo quando qualcuno all'improvviso mi sbattè contro."
+    m "Come fui entratə nella parte meridionale del parco, mi ritrovai ruzzolante al suolo quando qualcuno all'improvviso mi sbatté contro."
 
 # game/chapter2.rpy:3124
 translate italiantl chap2park3_e37926fe:

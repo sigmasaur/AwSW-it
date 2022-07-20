@@ -1426,7 +1426,7 @@ translate italiantl _call_skipcheck_30_68a5a602:
 translate italiantl _call_skipcheck_30_7a395875:
 
     # Ad think b "What do you think?"
-    Ad think b "Cosa ne pensi?"
+    Ad think b "Che ne pensi?"
 
 # game/adine4.rpy:669
 translate italiantl _call_skipcheck_30_95af9435:

@@ -916,7 +916,7 @@ translate italiantl lorem4adinestatusneutral_20a25e92:
 translate italiantl lorem4adinestatusneutral_5286b5cf:
 
     # m "After chewing a few times, his expression suddenly twisted into a scowl."
-    m "Dopo aver masticato un po', la sua espressione all'improvviso si tramutò in un cipiglio."
+    m "Dopo aver masticato un po', la sua espressione all'improvviso si scontorse in un cipiglio."
 
 # game/lorem4.rpy:591
 translate italiantl lorem4adinestatusneutral_5574a6fb:
@@ -928,7 +928,7 @@ translate italiantl lorem4adinestatusneutral_5574a6fb:
 translate italiantl lorem4adinestatusneutral_f3673877:
 
     # Lo "Now I remember why I haven't ordered from Pantoli's in a while. Their pizza sucks."
-    Lo "Ora ricordo perché è da un po' che non ordino da Pantoli. La loro pizza è penosa."
+    Lo "Ora ricordo perché è da un po' che non ordino da Pantoli. La loro pizza fa pena."
 
 # game/lorem4.rpy:595
 translate italiantl lorem4adinestatusneutral_0024a139:
@@ -1162,7 +1162,7 @@ translate italiantl lorem4adinestatusneutral_01e28b23:
 translate italiantl lorem4adinestatusneutral_d1235cc6:
 
     # c "Why do you think their pizza sucks?"
-    c "Perché credi che la loro pizza sia penosa?"
+    c "Secondo te perché la loro pizza fa pena?"
 
 # game/lorem4.rpy:673
 translate italiantl lorem4adinestatusneutral_8a159d08:
@@ -1738,7 +1738,7 @@ translate italiantl lorem4skip_2f6263cf:
 translate italiantl lorem4skip_842983b8:
 
     # Lo "You told me I shouldn't worry about what's going to happen - and after that, I wasn't worried anymore."
-    Lo "Mi hai detto che non dovrei preoccuparmi di quello che succederà—e dopodiché, non ero più preoccupato." # corrected em-dash; he probably refers to this scene, see line 962
+    Lo "Mi hai detto che non dovrei preoccuparmi di quello che succederà—e dopodiché, non ero più preoccupato." # corrected em-dash; he's probably referring to this scene, see line 962
 
 # game/lorem4.rpy:922
 translate italiantl lorem4skip_1617abd5:

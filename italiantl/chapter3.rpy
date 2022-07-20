@@ -1164,7 +1164,7 @@ translate italiantl c3conty_09969fe1:
 translate italiantl c3conty_9d293594:
 
     # Em frown "I'm afraid that's not enough. It certainly doesn't outweigh our reasons for sending you home."
-    Em frown "Temo che non sia sufficiente. Di certo non compensa le nostre ragioni per rimandarti a casa."
+    Em frown "Temo che non sia sufficiente. Di certo non compensa le nostre ragioni per rimandarti a casa." # "sending you BACK home"
 
 # game/chapter3.rpy:1288
 translate italiantl c3conty_485f23e9:
@@ -1452,7 +1452,7 @@ translate italiantl c3conty_ee894df7:
 translate italiantl c3conty_f51e7d87:
 
     # c "When Reza and I were sent here, my peers made it clear that this was our last chance. If anything happens to us, no more people will be sent."
-    c "Quando [Rz] ed io siamo stati inviati qui, i miei colleghi hanno messo bene in chiaro che questa era la nostra ultima possibilità. Se anche ci succede qualcosa, non verrà inviato più nessuno."
+    c "Quando [Rz] ed io siamo stati inviati qui, i miei colleghi hanno messo bene in chiaro che questa era la nostra ultima possibilità. Se anche ci succede qualcosa, non sarà inviato più nessuno."
 
 # game/chapter3.rpy:1458
 translate italiantl c3conty_13c7fe8b:
@@ -2442,7 +2442,7 @@ translate italiantl c3conty_d96fb820:
 translate italiantl c3conty_08040799:
 
     # n "Any second now, the teleportation process would start, disintegrating my body before I would reappear on the other side. Back in my dying world."
-    n "Qualche secondo, e il processo di teletrasporto sarebbe iniziato, disintegrando il mio corpo prima di riapparire dall'altro lato. Di ritorno al mio mondo morente."
+    n "Pochi secondi, e il processo di teletrasporto sarebbe iniziato, disintegrando il mio corpo prima di riapparire dall'altro lato. Di ritorno al mio mondo morente."
 
 # game/chapter3.rpy:1872
 translate italiantl c3conty_90b653b8:
@@ -5024,19 +5024,19 @@ translate italiantl c3arcques_c9172a02:
 translate italiantl _call_syscheck_19_8e7d13e4:
 
     # s "You acquired a map! {image=image/ui/status/havemap.png}"
-    s "Hai acquisito una mappa!{image=image/ui/status/havemap.png}"
+    s "Hai acquisito una mappa! {image=image/ui/status/havemap.png}"
 
 # game/chapter3.rpy:3604
 translate italiantl _call_syscheck_19_a5b9db2d:
 
     # s "You acquired a map. For now. {image=image/ui/status/havemap.png}"
-    s "Hai acquisito una mappa. Per adesso.{image=image/ui/status/havemap.png}"
+    s "Hai acquisito una mappa. Per ora. {image=image/ui/status/havemap.png}"
 
 # game/chapter3.rpy:3608
 translate italiantl _call_syscheck_19_6a9e6526:
 
     # s "You acquired a map. Actually, it's a blueprint. {image=image/ui/status/havemap.png}"
-    s "Hai acquisito una mappa. In effetti, è una planimetria.{image=image/ui/status/havemap.png}"
+    s "Hai acquisito una mappa. In effetti, è una planimetria. {image=image/ui/status/havemap.png}"
 
 # game/chapter3.rpy:3614
 translate italiantl _call_syscheck_19_08afdaf7:
@@ -5144,7 +5144,7 @@ translate italiantl _call_syscheck_20_1bb80a09:
 translate italiantl _call_syscheck_21_444f6d6f:
 
     # s "You acquired an Ixomen Sphere part (Base)! {image=image/ui/status/base_taken.png}"
-    s "Hai acquisito una parte di Sfera di Ixomen (Base)!{image=image/ui/status/base_taken.png}" # see line 2419 of chapter 2
+    s "Hai acquisito una parte di Sfera di Ixomen (Base)! {image=image/ui/status/base_taken.png}" # see line 2419 of chapter 2
 
 # game/chapter3.rpy:3739
 translate italiantl _call_syscheck_21_a3352dcc:
@@ -5156,19 +5156,19 @@ translate italiantl _call_syscheck_21_a3352dcc:
 translate italiantl _call_syscheck_22_0068750f:
 
     # s "You acquired a mysterious base! {image=image/ui/status/base_taken.png}"
-    s "Hai acquisito una base misteriosa!{image=image/ui/status/base_taken.png}" # see line 2447 of chapter 2
+    s "Hai acquisito una base misteriosa! {image=image/ui/status/base_taken.png}" # see line 2447 of chapter 2
 
 # game/chapter3.rpy:3751
 translate italiantl _call_syscheck_22_5c782f01:
 
     # s "You acquired a mysterious base. How basic. {image=image/ui/status/base_taken.png}"
-    s "Hai acquisito una base misteriosa. Sono basito.{image=image/ui/status/base_taken.png}" # adapted to preserve a pun
+    s "Hai acquisito una base misteriosa. Sono basito. {image=image/ui/status/base_taken.png}" # adapted to preserve a pun
 
 # game/chapter3.rpy:3755
 translate italiantl _call_syscheck_22_f79a1de5:
 
     # s "You acquired a mysterious base. Now you only have to find something vaguely spherical to put in it. {image=image/ui/status/base_taken.png}"
-    s "Hai acquisito una base misteriosa. Ora devi solo trovare qualcosa di vagamente sferico da metterci dentro.{image=image/ui/status/base_taken.png}"
+    s "Hai acquisito una base misteriosa. Ora devi solo trovare qualcosa di vagamente sferico da metterci dentro. {image=image/ui/status/base_taken.png}"
 
 # game/chapter3.rpy:3760
 translate italiantl _call_syscheck_22_0a67191b:
@@ -5612,19 +5612,19 @@ translate italiantl follow_59087957:
 translate italiantl _call_syscheck_23_fd5f30ca:
 
     # s "You followed Vara!{image=image/ui/status/varasaved.png}"
-    s "Hai seguito [Vr]!{image=image/ui/status/varasaved.png}"
+    s "Hai seguito [Vr]! {image=image/ui/status/varasaved.png}"
 
 # game/chapter3.rpy:4140
 translate italiantl _call_syscheck_23_0093ddcb:
 
     # s "You followed Vara. Well done, [player_name].{image=image/ui/status/varasaved.png}"
-    s "Hai seguito [Vr]. Ben fatto, [player_name].{image=image/ui/status/varasaved.png}"
+    s "Hai seguito [Vr]. Ben fatto, [player_name]. {image=image/ui/status/varasaved.png}"
 
 # game/chapter3.rpy:4144
 translate italiantl _call_syscheck_23_0093ddcb_1:
 
     # s "You followed Vara. Well done, [player_name].{image=image/ui/status/varasaved.png}"
-    s "Hai seguito [Vr]. Ben fatto, [player_name].{image=image/ui/status/varasaved.png}"
+    s "Hai seguito [Vr]. Ben fatto, [player_name]. {image=image/ui/status/varasaved.png}"
 
 # game/chapter3.rpy:4167
 translate italiantl c3go_158f7686:
