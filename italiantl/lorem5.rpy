@@ -688,7 +688,7 @@ translate italiantl loremgoodending_cfaac05f:
 translate italiantl loremgoodending_10e008a6:
 
     # c "Your plan, Reza. I know all about it."
-    c "Il tuo piano, [Rz]. So tutto a riguardo."
+    c "Il tuo piano, [Rz]. So tutto al riguardo."
 
 # game/lorem5.rpy:685
 translate italiantl loremgoodending_659939ae:

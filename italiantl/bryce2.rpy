@@ -621,7 +621,7 @@ translate italiantl _call_skipcheck_6_a24a14e3:
 translate italiantl _call_skipcheck_6_918495d2:
 
     # Br stern "Speaking of which, this whole case has been completely insane. Us always a step behind Reza, and Maverick running around trying to catch him himself..."
-    Br stern "A questo proposito, tutto questo caso è stato completamente da pazzi. Noi sempre un passo dietro a [Rz], e [Mv] che corre di qua e di là cercando di prenderlo lui stesso..."
+    Br stern "A proposito, tutto questo caso è stato completamente da pazzi. Noi sempre un passo dietro a [Rz], e [Mv] che corre di qua e di là cercando di prenderlo lui stesso..."
 
 # game/bryce2.rpy:513
 translate italiantl _call_skipcheck_6_bb227c86:
@@ -1539,7 +1539,7 @@ translate italiantl bryce2cont2_e69e42b8:
 translate italiantl bryce2cont2_ee1cfc91:
 
     # m "He lunged for it, but I was quick enough to leap away and position the sofa between us, matching his movements as he tried to get around it."
-    m "Si allungò per prenderla, ma io fui abbastanza sveltə da balzare via e mettere il divano fra di noi, eguagliando i suoi movimenti mentre lui cercava di aggirarlo."
+    m "Si allungò per prenderla, ma io fui abbastanza sveltə da balzare via e mettere il divano tra di noi, eguagliando i suoi movimenti mentre lui cercava di aggirarlo."
 
 # game/bryce2.rpy:1075
 translate italiantl bryce2cont2_d2329908:

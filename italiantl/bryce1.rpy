@@ -870,7 +870,7 @@ translate italiantl _call_syscheck_41_f8c413c3:
 translate italiantl _call_syscheck_41_c3643eb7:
 
     # n "There was no point in staying if the only thing he planned to do was taunt me over his victory, even though it didn't look like he enjoyed it much."
-    n "Non aveva senso restare se la sola cosa che progettava di fare era beffarsi di me per la sua vittoria, anche se non sembrava che ne fosse granché entusiasta."
+    n "Non aveva senso restare se la sola cosa che progettava di fare era provocarmi per la sua vittoria, anche se non sembrava esserne granché entusiasta."
 
 # game/bryce1.rpy:708
 translate italiantl _call_syscheck_41_76e9ea22:

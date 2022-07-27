@@ -130,13 +130,13 @@ translate italiantl _call_endingjustafewminuteslater_a3339a21:
 translate italiantl _call_endingjustafewminuteslater_3a7a8c67:
 
     # c "After the police reclaimed the generators you stole, it was easy for me to take one when I was alone in the department, just in case."
-    c "Dopo che la polizia ha rivendicato i generatori che avevi rubato, mi è stato facile prenderne uno quand'ero solə al dipartimento, per ogni evenienza."
+    c "Dopo che la polizia ha rivendicato i generatori che avevi rubato, mi è stato facile prenderne uno quand'ero solə al dipartimento, ad ogni buon conto."
 
 # game/chapter5.rpy:578
 translate italiantl _call_endingjustafewminuteslater_46985aa4:
 
     # m "I set the bomb on the ground between us. With it and me between Reza and the exit, he would have to listen now."
-    m "Posai la bomba a terra fra di noi. Con essa e me a metà strada fra [Rz] e l'uscita, ora avrebbe dovuto ascoltarmi."
+    m "Posai la bomba a terra tra di noi. Con essa e me a metà strada fra [Rz] e l'uscita, ora avrebbe dovuto ascoltarmi."
 
 # game/chapter5.rpy:580
 translate italiantl _call_endingjustafewminuteslater_bf205efc:
@@ -316,7 +316,7 @@ translate italiantl _call_endingjustafewminuteslater_50692fcd:
 translate italiantl _call_endingjustafewminuteslater_405b83a8:
 
     # As "You will probably forget most of what happened. The teleportation tends to do that sometimes, especially when someone is transported several times in quick succession."
-    As "Probabilmente dimenticherai la gran parte di quello che è successo. Il teletrasporto tende ad avere questo effetto, specialmente quando si è trasportati diverse volte in rapida successione." # "tends to do that [sometimes]"
+    As "Probabilmente dimenticherai la gran parte di quello che è successo. Il teletrasporto tende ad avere questo effetto, specie quando si è trasportati diverse volte in rapida successione." # "tends to do that [sometimes]"; "[some]one is transported"
 
 # game/chapter5.rpy:705
 translate italiantl _call_endingjustafewminuteslater_3eda1cdc:

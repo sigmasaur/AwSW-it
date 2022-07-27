@@ -268,7 +268,7 @@ translate italiantl _call_skipcheck_17_e7ef2f0b:
 translate italiantl _call_skipcheck_17_e2558e4a:
 
     # n "The method I was going to use was not necessarily a new one, but it was controversial. It didn't even cross my mind that anyone would object, seeing as I would cure thousands, if not millions of future people."
-    n "Quello che intendevo usare non era necessariamente un metodo nuovo, ma era controverso. Nemmeno mi sfiorò l'idea che qualcuno avrebbe obiettato, visto che avrei curato migliaia, se non milioni di persone in futuro."
+    n "Quello che intendevo usare non era necessariamente un metodo nuovo, ma era controverso. Nemmeno mi sfiorò l'idea che qualcuno si sarebbe opposto, visto che avrei curato migliaia, se non milioni di persone in futuro."
 
 # game/anna4.rpy:215
 translate italiantl _call_skipcheck_17_17a03a2a:
@@ -298,7 +298,7 @@ translate italiantl _call_skipcheck_17_1f1991bf:
 translate italiantl _call_skipcheck_17_8bfd241e:
 
     # n "After the rejection, there was going to be an inspection of my workplace in order to determine the progress I had made on the project, which they assumed had been within legal bounds and didn't include the controversial things outlined in the paperwork."
-    n "Dopo il rifiuto, ci sarebbe stata un'ispezione sul mio posto di lavoro allo scopo di determinare i progressi che avevo fatto sul progetto, il quale assumevano fosse rimasto entro i limiti legali e non includesse quanto di controverso era delineato nei documenti."
+    n "Dopo il loro rifiuto, ci sarebbe stata un'ispezione del mio posto di lavoro al fine di determinare i progressi che avevo fatto sul progetto, il quale presumevano fosse rimasto entro i limiti legali e non includesse quanto di controverso era delineato nei documenti." # "the rejection" -> "their rejection"; "had been" -> "had stayed"
 
 # game/anna4.rpy:229
 translate italiantl _call_skipcheck_17_6563cf83:

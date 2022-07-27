@@ -670,7 +670,7 @@ translate italiantl _call_skipcheck_32_2789f598:
 translate italiantl _call_skipcheck_32_a6ac6dfc:
 
     # An face "It's his job. What do you expect?"
-    An face "È il suo lavoro. Che ti aspettavi?" # "do" -> "did"
+    An face "È il suo lavoro. Che ti aspetti da lui?" # "what do you expect FROM HIM"
 
 # game/anna2.rpy:488
 translate italiantl _call_skipcheck_32_76fde006:
@@ -1360,7 +1360,7 @@ translate italiantl _call_skipcheck_32_66b779fe:
 translate italiantl _call_skipcheck_32_d9c9abdd:
 
     # c "Especially our fingers. They have an incredible amount of articulation."
-    c "Specie le nostre dita. Hanno un incredibile livello di articolazione."
+    c "Specialmente le nostre dita. Hanno un incredibile livello di articolazione."
 
 # game/anna2.rpy:937
 translate italiantl _call_skipcheck_32_3a7b2838:
@@ -1552,7 +1552,7 @@ translate italiantl _call_skipcheck_32_880f45b8:
 translate italiantl _call_skipcheck_32_7735c230:
 
     # m "I grabbed a piece, but dropped it as soon as I felt the heat on my fingertips."
-    m "Afferrai un pezzetto, ma lo lasciai andare non appena ebbi sentito il calore sulla punta delle dita."
+    m "Afferrai un pezzetto, ma lo lasciai andare non appena sentii il calore sulla punta delle dita."
 
 # game/anna2.rpy:1062
 translate italiantl _call_skipcheck_32_726f87f7:
@@ -1870,13 +1870,13 @@ translate italiantl anna2else_b0f72366:
 translate italiantl anna2else_0d6fc47a:
 
     # An smirk "Speaking of which, now that our date is officially over, we should talk about your end of the deal."
-    An smirk "A questo proposito, ora che il nostro appuntamento è ufficialmente finito, dovremmo parlare della tua parte dell'accordo."
+    An smirk "A proposito, ora che il nostro appuntamento è ufficialmente finito, dovremmo parlare della tua parte dell'accordo."
 
 # game/anna2.rpy:1284
 translate italiantl anna2else_4e8c7062:
 
     # c "Of course."
-    c "Ma certo."
+    c "Ovviamente."
 
 # game/anna2.rpy:1286
 translate italiantl anna2else_e1459a92:
@@ -1888,7 +1888,7 @@ translate italiantl anna2else_e1459a92:
 translate italiantl anna2else_2d3c9328:
 
     # c "I shall be looking forward to that."
-    c "Li attenderò con impazienza." # "that" -> "them"
+    c "Li attenderò con ansia." # "that" -> "them"
 
 # game/anna2.rpy:1321
 translate italiantl anna2else_c3ff5da8:
@@ -1930,13 +1930,13 @@ translate italiantl anna2else_f8c1ea5d:
 translate italiantl anna2else_afa94f76:
 
     # An smirk "You know, now that this date is officially over, if I don't work overtime every single day, I could fit you in for your end of the deal."
-    An smirk "Lo sai, ora che questo appuntamento è ufficialmente finito, se non farò gli straordinari ogni singolo giorno, potrò riceverti per la tua parte dell'accordo." # see lines 1282, 1286
+    An smirk "Lo sai, ora che questo appuntamento è ufficialmente finito, se non farò gli straordinari ogni singolo giorno, potrei riceverti per la tua parte dell'accordo." # see lines 1282, 1286
 
 # game/anna2.rpy:1335
 translate italiantl anna2else_83079b08:
 
     # c "Of course you didn't forget about that."
-    c "Ma certo che non te ne sei dimenticata." # see line 1284
+    c "Ovviamente non te ne sei dimenticata." # see line 1284
 
 # game/anna2.rpy:1337
 translate italiantl anna2else_670c9433:

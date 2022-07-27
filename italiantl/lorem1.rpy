@@ -574,7 +574,7 @@ translate italiantl _call_skipcheck_16_0cef7eef:
 translate italiantl _call_skipcheck_16_8054cb2a:
 
     # c "Or maybe we never had it in the first place."
-    c "O forse non l'abbiamo mai avuta." # "Or maybe we never had it [in the first place]"
+    c "O forse non l'abbiamo mai avuta." # "or maybe we never had it [in the first place]"
 
 # game/lorem1.rpy:497
 translate italiantl _call_skipcheck_16_efda574e:
@@ -1306,7 +1306,7 @@ translate italiantl _call_skipcheck_16_c9537556:
 translate italiantl _call_skipcheck_16_1883cb8f:
 
     # Lo happy "Of course, being able to fly is a big plus. My size means I can't deliver any big packages, but I often get assigned to urgent letters that have to be delivered as soon as possible."
-    Lo happy "Ovviamente, essere in grado di volare è un grosso vantaggio. La mia taglia non mi permette di consegnare grossi pacchi, ma spesso mi vengono assegnate lettere urgenti che vanno consegnate il più presto possibile." # "means I can't" -> "doesn't allow me to"
+    Lo happy "Naturalmente, essere in grado di volare è un grosso vantaggio. La mia taglia fa sì che non possa consegnare grossi pacchi, ma spesso mi vengono assegnate lettere urgenti che vanno consegnate il più presto possibile."
 
 # game/lorem1.rpy:813
 translate italiantl _call_skipcheck_16_03042aef:
@@ -1384,7 +1384,7 @@ translate italiantl lorem1skip_0816df93:
 translate italiantl lorem1skip_1847224a:
 
     # Lo normal "Honestly, I'm incredibly grateful for the opportunity, especially after nearly getting denied by Sebastian when I met you."
-    Lo normal "Onestamente, sono incredibilmente grato per l'opportunità, specie dopo che mi è quasi stata negata da [Sb] quando ti ho incontrato."
+    Lo normal "Onestamente, sono incredibilmente grato per l'opportunità, specie dopo che mi è quasi stata negata da [Sb] quando ti ho incontrato." # "after IT nearly getting denied"
 
 # game/lorem1.rpy:874
 translate italiantl lorem1skip_40b41860:
@@ -1514,7 +1514,7 @@ translate italiantl strings:
 
     # lorem1.rpy:170
     old "Sounds good to me."
-    new "A me sta bene."
+    new "Per me va bene."
 
     # lorem1.rpy:170
     old "I already regret coming here."
@@ -1550,7 +1550,7 @@ translate italiantl strings:
 
     # lorem1.rpy:306
     old "I'm sure of it."
-    new "Ne sono certə."
+    new "Ne sono sicurə."
 
     # lorem1.rpy:306
     old "Okay."

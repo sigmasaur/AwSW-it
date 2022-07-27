@@ -562,7 +562,7 @@ translate italiantl _call_skipcheck_11_fe5f3366:
 translate italiantl _call_skipcheck_11_7f079908:
 
     # Br "Gah, I hate stairs. Especially those made for smaller dragons like you."
-    Br "Gah, odio le scale. Specie quelle fatte per i draghi più piccoli come te."
+    Br "Gah, odio le scale. Specie quelle fatte per draghi più piccoli come te."
 
 # game/chapter2.rpy:639
 translate italiantl _call_skipcheck_11_2f293cc0:
@@ -1165,7 +1165,7 @@ translate italiantl chap2q1_d673d2c2:
 translate italiantl chap2q1_c04cc9d5:
 
     # Br normal b "Considering your status, you shouldn't have any trouble in these places, but if anything happens, call me and I'll check up on you later."
-    Br normal b "Considerando la tua posizione, non dovresti avere problemi in questi posti, ma se succede qualcosa, chiamami e verrò a controllare come stai più tardi."
+    Br normal b "Considerando la tua posizione, non dovresti avere problemi in questi posti, ma se succede qualcosa, chiamami e verrò a vedere come stai più tardi."
 
 # game/chapter2.rpy:1116
 translate italiantl chap2q1_2476223c:
@@ -1941,7 +1941,7 @@ translate italiantl chap2storebrowsemenu_bfe550e8:
 translate italiantl chap2storebrowsemenu_d67026af:
 
     # c "(The variance in product sizes is astounding, especially when talking about the birth control.)"
-    c "(La variabilità nelle dimensioni dei prodotti è sbalorditiva, specialmente quando si parla di contraccettivi.)"
+    c "(La variabilità nelle dimensioni dei prodotti è sbalorditiva, specie quando si parla di contraccettivi.)"
 
 # game/chapter2.rpy:1683
 translate italiantl chap2storebrowsemenu_ae706acd:
@@ -1971,7 +1971,7 @@ translate italiantl _call_syscheck_50_6025ee30:
 translate italiantl _call_syscheck_50_7276c06a:
 
     # s "You looked at everything the store has to offer. Of course, you're not planning to buy anything."
-    s "Hai guardato a tutto ciò che il negozio ha da offrire. Certo, non stai pensando di comprare niente."
+    s "Hai guardato a tutto ciò che il negozio ha da offrire. Certo, non stai pensando di comprare nulla."
 
 # game/chapter2.rpy:1729
 translate italiantl _call_syscheck_50_b9ca54b5:
@@ -2523,7 +2523,7 @@ translate italiantl chap2libmenu_51b0c2f0:
 translate italiantl chap2libmenu_1a8b6dfc:
 
     # Ry "Do you remember the box you dropped last time you came here?"
-    Ry "Ricordi lo scatolone che hai fatto cadere l'ultima volta che sei venutə qui?"
+    Ry "Ricordi la scatola che hai fatto cadere l'ultima volta che sei venutə qui?" # see line 1043 of Remy 1
 
 # game/chapter2.rpy:2166
 translate italiantl chap2libmenu_9f85b645:
@@ -2535,7 +2535,7 @@ translate italiantl chap2libmenu_9f85b645:
 translate italiantl chap2libmenu_83f20e4b:
 
     # Ry "It was filled with artifacts. We have them here for safekeeping."
-    Ry "Era colmo di manufatti. Li teniamo qui in custodia."
+    Ry "Era colma di manufatti. Li teniamo qui in custodia."
 
 # game/chapter2.rpy:2174
 translate italiantl chap2libmenu_dca50168:
@@ -2589,7 +2589,7 @@ translate italiantl chap2libmenu_5ab8f405:
 translate italiantl chap2libmenu_c2b99b93:
 
     # Ry sad "I... reject that notion. The last time you came here you acted in a manner that was unacceptable, and unless you need my assistance with something, this conversation is over."
-    Ry sad "Io... mi rifiuto di crederci. L'ultima volta che sei venutə qui ti sei comportatə in una maniera inaccettabile, e a meno che non ti serva il mio aiuto per qualcosa, questa conversazione è conclusa."
+    Ry sad "Io... mi rifiuto di crederci. L'ultima volta che sei venutə qui ti sei comportatə in maniera inaccettabile, e a meno che non ti serva il mio aiuto per qualcosa, questa conversazione è conclusa."
 
 # game/chapter2.rpy:2211
 translate italiantl chap2libmenu_5fbaba76:
@@ -2757,7 +2757,7 @@ translate italiantl _call_syscheck_52_ba8ef797:
 translate italiantl _call_syscheck_52_84316a47:
 
     # s "You found a handful of dirt. That should come in handy somewhere. Or maybe not."
-    s "Hai trovato una manciata di terra. Dovrebbe tornare utile a un certo punto. O forse no."
+    s "Hai trovato una manciata di terra. Dovrebbe tornare utile da qualche parte. O forse no."
 
 # game/chapter2.rpy:2375
 translate italiantl _call_syscheck_52_62a5e033:
@@ -3987,7 +3987,7 @@ translate italiantl chap2skip3_7d98929a:
 translate italiantl chap2skip3_f9b541ac:
 
     # Sb "The bandage you found is something, alright. Of course, it could be anyone's, but why would someone discard theirs in a place like that? It seems suspicious to me, and is certainly worth checking out."
-    Sb "La benda che hai trovato è già qualcosa. Ovviamente, può essere di chiunque, ma perché qualcuno dovrebbe disfarsene in un posto come quello? Mi pare sospetto, e vale certamente la pena di controllare."
+    Sb "La benda che hai trovato è già qualcosa. Certo, potrebbe essere di chiunque, ma perché qualcuno dovrebbe disfarsene in un posto come quello? Mi pare sospetto, e vale certamente la pena di controllare."
 
 # game/chapter2.rpy:3763
 translate italiantl chap2skip3_fd91b852:
@@ -4287,7 +4287,7 @@ translate italiantl _call_popularcheck_14_ad846bd9:
 translate italiantl _call_popularcheck_14_45731809:
 
     # m "I figured I might still be able to go out or do something else, but when I looked at the time, I regretfully had to realize that the day was already over and it was too late."
-    m "Pensai che avrei comunque avuto modo di uscire o fare dell'altro, ma quando guardai l'ora, dovetti constatare a malincuore che il giorno volgeva già al termine ed era ormai troppo tardi."
+    m "Pensai che avrei ancora potuto uscire o fare dell'altro, ma quando guardai l'ora, dovetti constatare a malincuore che il giorno volgeva già al termine ed era ormai troppo tardi."
 
 # game/chapter2.rpy:5046
 translate italiantl chap2altmenub2_85982b7e:
@@ -4305,7 +4305,7 @@ translate italiantl chap2altmenub2_ad846bd9:
 translate italiantl chap2altmenub2_45731809:
 
     # m "I figured I might still be able to go out or do something else, but when I looked at the time, I regretfully had to realize that the day was already over and it was too late."
-    m "Pensai che avrei comunque avuto modo di uscire o fare dell'altro, ma quando guardai l'ora, dovetti constatare a malincuore che il giorno volgeva già al termine ed era ormai troppo tardi." # see line 4797
+    m "Pensai che avrei ancora potuto uscire o fare dell'altro, ma quando guardai l'ora, dovetti constatare a malincuore che il giorno volgeva già al termine ed era ormai troppo tardi." # see line 4797
 
 translate italiantl strings:
 
@@ -4375,7 +4375,7 @@ translate italiantl strings:
 
     # chapter2.rpy:1032
     old "So you think it was Reza."
-    new "Quindi pensi che sia stato [Rz]."
+    new "Quindi pensi sia stato [Rz]."
 
     # chapter2.rpy:1032
     old "You're starting to sound like Maverick."

@@ -214,7 +214,7 @@ translate italiantl _call_skipcheck_9_2931928c:
 translate italiantl _call_skipcheck_9_ed080091:
 
     # c "Sounds good to me. Do you visit the beach often?"
-    c "A me sta bene. Visiti spesso la spiaggia?"
+    c "Per me va bene. Visiti spesso la spiaggia?"
 
 # game/adine3.rpy:206
 translate italiantl _call_skipcheck_9_52cab7a2:
@@ -1642,7 +1642,7 @@ translate italiantl adinestagenameentry_a2b16d91:
 translate italiantl adinestagenameentry_3cc8492a:
 
     # Ad "[adinestagename!t]? Are you sure?"
-    Ad "[adinestagename!t]? Sei sicuro?"
+    Ad "[adinestagename!t]? Sei sicurə?"
 
 # game/adine3.rpy:968
 translate italiantl adinestagenameentry_e37669c6:
@@ -2075,7 +2075,7 @@ translate italiantl adine3skip_df72d121:
 translate italiantl adine3skip_e147d262:
 
     # Ad "When she got sick, I often visited her. I just wanted to check up on her and take a little of the edge off, considering what she was going through at work."
-    Ad "Quando lei si ammalò, andavo spesso a trovarla. Volevo solo controllare come stesse e allentare un poco la tensione, considerando quello che stava passando al lavoro."
+    Ad "Quando lei si ammalò, andavo spesso a trovarla. Volevo solo vedere come stesse e allentare un poco la tensione, considerando quello che stava passando al lavoro."
 
 # game/adine3.rpy:1159
 translate italiantl adine3skip_46e2fe54:

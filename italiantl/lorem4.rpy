@@ -436,7 +436,7 @@ translate italiantl _call_skipcheck_5_79fbac11:
 translate italiantl _call_skipcheck_5_d9659792:
 
     # c "Dinner. I invited you for dinner."
-    c "Cena. Ti ho invitato per cena."
+    c "Cena. Ti ho invitato a cena."
 
 # game/lorem4.rpy:322
 translate italiantl _call_skipcheck_5_1a0e30f3:
@@ -1270,7 +1270,7 @@ translate italiantl lorem4adinestatusneutral_25de2d5c:
 translate italiantl lorem4adinestatusneutral_bcf52315:
 
     # c "Who knows, maybe you're wrong about Pantoli's. Maybe they're actually a big family restaurant with a rich tradition and history, and that's why people like them."
-    c "Chissà, magari ti sbagli riguardo a Pantoli. Magari in realtà sono un grande ristorante di famiglia con una ricca storia e tradizione, ed è per questo che piacciono alla gente."
+    c "Chi lo sa, magari ti sbagli riguardo a Pantoli. Magari in realtà sono un grande ristorante di famiglia con una ricca storia e tradizione, ed è per questo che piacciono alla gente."
 
 # game/lorem4.rpy:709
 translate italiantl lorem4adinestatusneutral_0cd53314:

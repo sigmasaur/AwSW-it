@@ -260,7 +260,7 @@ translate italiantl begingame_4e5d991b:
 translate italiantl begingame_282e06e8:
 
     # n "While we had assumed the portal led to another in a different country, or maybe on a different continent, the reality turned out to be much more... foreign."
-    n "Per quanto avessimo presunto che il portale conducesse a un altro in un diverso paese, o magari un diverso continente, la realtà si rivelò essere molto più... estranea."
+    n "Per quanto avessimo presunto che il portale conducesse a un altro in un diverso paese, o magari un diverso continente, la realtà si rivelò molto più... estranea."
 
 # game/chapter1.rpy:465
 translate italiantl begingame_2a8e54d7:
@@ -2127,7 +2127,7 @@ translate italiantl _call_syscheck_6_f84a7975:
 translate italiantl _call_syscheck_6_130a299e:
 
     # n "When I started reading, however, I saw that his wording was so full of the pleasantries I knew he hated that I assumed every word of it was faked as to conceal its true intent."
-    n "Quando iniziai a leggere, tuttavia, vidi che il suo modo di esprimersi era talmente zeppo dei convenevoli che gli sapevo tanto avversi che assumetti che ogni parola fosse stata inscenata in modo da dissimulare il suo vero intento."
+    n "Quando iniziai a leggere, tuttavia, vidi che il suo modo di esprimersi era talmente zeppo dei convenevoli che gli sapevo tanto avversi che dovetti presumere che ogni parola fosse stata inscenata in modo da dissimulare il suo vero intento."
 
 # game/chapter1.rpy:2103
 translate italiantl _call_syscheck_6_5dc3c29d:
@@ -2189,7 +2189,7 @@ translate italiantl _call_syscheck_6_b6d60ff7:
 translate italiantl _call_syscheck_6_d29ad334:
 
     # n "Anyways, I will be looking forward to your reply soon."
-    n "Ad ogni modo, attenderò con impazienza una tua solerte risposta."
+    n "Ad ogni modo, attenderò con ansia una tua solerte risposta."
 
 # game/chapter1.rpy:2114
 translate italiantl _call_syscheck_6_49f83c7e:
@@ -2227,13 +2227,13 @@ translate italiantl _call_increasing_3_76b2fe88:
 translate italiantl _call_increasing_3_c47bce3b:
 
     # n "Hello, my dear friend."
-    n "Buongiorno, miə carə amicə."
+    n "Buongiorno, miə carə amicə." # see line 2106
 
 # game/chapter1.rpy:2175
 translate italiantl _call_increasing_3_3a473542:
 
     # n "I hope this letter reached you swiftly and in good condition."
-    n "Spero che questa lettera ti sia giunta tempestivamente e in buone condizioni."
+    n "Spero che questa lettera ti sia giunta tempestivamente e in buone condizioni." # see line 2108
 
 # game/chapter1.rpy:2176
 translate italiantl _call_increasing_3_5e27acbf:
@@ -2245,37 +2245,37 @@ translate italiantl _call_increasing_3_5e27acbf:
 translate italiantl _call_increasing_3_3ab950eb:
 
     # n "I feel like there is so much we should talk about, since we have not seen each other much recently. At least we have a chance to do so in this form."
-    n "Ho l'impressione che ci sia così tanto di cui dovremmo parlare, dato che non ci siamo visti granché ultimamente. Se non altro ne abbiamo la possibilità in questa forma."
+    n "Ho l'impressione che ci sia così tanto di cui dovremmo parlare, dato che non ci siamo visti granché ultimamente. Se non altro ne abbiamo la possibilità in questa forma." # see line 2110
 
 # game/chapter1.rpy:2178
 translate italiantl _call_increasing_3_aa5d79bd:
 
     # n "Quite an exciting venture we are on now, right? How have you liked it here so far? Made any dragon friends yet?"
-    n "Un'impresa piuttosto entusiasmante quella in cui ci siamo imbarcati, vero? Come ti sei trovatə qui finora? Ti sei già fattə qualche amico drago?"
+    n "Un'impresa piuttosto entusiasmante quella in cui ci siamo imbarcati, vero? Come ti sei trovatə qui finora? Ti sei già fattə qualche amico drago?" # see line 2111
 
 # game/chapter1.rpy:2179
 translate italiantl _call_increasing_3_b6d60ff7:
 
     # n "Haha."
-    n "Haha."
+    n "Haha." # see line 2112
 
 # game/chapter1.rpy:2180
 translate italiantl _call_increasing_3_d29ad334:
 
     # n "Anyways, I will be looking forward to your reply soon."
-    n "Ad ogni modo, attenderò con impazienza una tua solerte risposta."
+    n "Ad ogni modo, attenderò con ansia una tua solerte risposta." # see line 2113
 
 # game/chapter1.rpy:2181
 translate italiantl _call_increasing_3_49f83c7e:
 
     # n "Best regards,"
-    n "I migliori saluti,"
+    n "I migliori saluti," # see line 2114
 
 # game/chapter1.rpy:2182
 translate italiantl _call_increasing_3_fa43a229:
 
     # n "Reza"
-    n "[Rz]"
+    n "[Rz]" # see line 2115
 
 # game/chapter1.rpy:2185
 translate italiantl _call_increasing_3_76b2fe88_1:
@@ -2565,7 +2565,7 @@ translate italiantl _call_syscheck_7_f856dbde:
 translate italiantl _call_syscheck_7_5c77d342:
 
     # n "I have taken it upon myself to dramatize the events in a manner that is both accurate to history as well as entertaining to any reader who might have an interest in such stories."
-    n "Mi sono preso la libertà di drammatizzare gli eventi in una maniera tale che fosse sia aderente alla storia nonché piacevole a qualsiasi lettore che nutra un interesse verso tali racconti."
+    n "Mi sono preso la libertà di drammatizzare gli eventi in maniera tale che fosse sia aderente alla storia nonché piacevole a qualsiasi lettore che nutra un interesse verso tali racconti."
 
 # game/chapter1.rpy:2414
 translate italiantl _call_syscheck_7_dd0a95c7:
@@ -2933,7 +2933,7 @@ translate italiantl _call_syscheck_11_4c8f346f:
 translate italiantl _call_syscheck_11_9c2c9e41:
 
     # c "(So, daddy grape finds his kid crying and asks \"What's wrong, kid?\", but through all the tears, the kid couldn't get a single word out. Eventually, daddy had enough, so he said: \"Stop wi...\" No, I won't say it. It wasn't a good joke anyway.)"
-    c "(Dunque, papà grappolo trova suo figlio piangere e chiede \"Che succede, figliolo?\", ma fra tutte le lacrime, il bimbo non riesce a cacciare una parola. Finalmente, il papà ne ha abbastanza, e dice: \"Piantala di vignucol...\" Nah, non era granché come battuta.)" # slightly pruned to fit three lines; corrected present tenses
+    c "(Dunque, papà grappolo trova suo figlio piangere e chiede \"Che succede, figliolo?\", ma fra tutte le lacrime, il bimbo non riesce a cacciare una parola. Finalmente, papà ne ha abbastanza, e dice: \"Piantala di vignucol...\" Nah, non era granché come battuta.)" # slightly pruned to fit three lines; corrected present tenses
 
 # game/chapter1.rpy:2760
 translate italiantl _call_syscheck_11_4a56c371:

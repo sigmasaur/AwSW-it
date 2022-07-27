@@ -1570,7 +1570,7 @@ translate italiantl _call_no_116dcd30:
 translate italiantl _call_no_c67f38ba:
 
     # Mv "What an interesting kind of ambassador you turned out to be."
-    Mv "Che tipo interessante di ambasciatorə che ti sei dimostratə."
+    Mv "Che tipo interessante di ambasciatorə che ti sei rivelatə."
 
 # game/bryce5.rpy:1267
 translate italiantl _call_no_ff494054:

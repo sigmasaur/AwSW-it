@@ -1894,7 +1894,7 @@ translate italiantl a4shower_0d4b28e7:
 translate italiantl a4shower_ea5637c7:
 
     # m "When I was nearly done, I noticed a low rumble emanating from her, reminding me of what an oversized cat's purr might sound like."
-    m "Quando ebbi quasi finito, notai un brontolio sommesso emanare da lei, che poteva ricordare il suono che avrebbero fatto le fusa di un gatto fuori misura."
+    m "Avevo quasi finito, quando notai un brontolio sommesso emanare da lei, che poteva ricordare il suono che avrebbero fatto le fusa di un gatto fuori misura." # "when I was nearly done," -> "I was nearly done, when"
 
 # game/adine4.rpy:931
 translate italiantl a4shower_9cc4f7b6:

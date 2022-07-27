@@ -178,7 +178,7 @@ translate italiantl evilending_3bb85959:
 translate italiantl evilending_08c123a0:
 
     # c "I think we both know that it would fall under treason, the only crime heinous enough to our leaders to warrant immediate execution."
-    c "Credo sappiamo entrambi che ciò ricadrebbe nel tradimento, il solo crimine tanto esecrabile per i nostri capi da richiedere l'immediata esecuzione."
+    c "Credo sappiamo entrambi che ciò rientrerebbe nel tradimento, il solo crimine tanto esecrabile per i nostri capi da richiedere l'immediata esecuzione."
 
 # game/chapter5evilending.rpy:77
 translate italiantl evilending_a33aae66:
@@ -1054,7 +1054,7 @@ translate italiantl skiptut_a325d596:
 translate italiantl skiptut_738b6997:
 
     # s "Sometimes, it's just easier to jump over a whole section than speeding it up, y'know?"
-    s "A volte, viene più semplice saltare direttamente un'intera sezione piuttosto che accelerarla, sai."
+    s "A volte, è più semplice saltare direttamente un'intera sezione piuttosto che accelerarla, sai."
 
 # game/chapter5evilending.rpy:853
 translate italiantl skiptut_521da73b:

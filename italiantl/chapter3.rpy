@@ -322,7 +322,7 @@ translate italiantl chapter3_1bc47770:
 translate italiantl chapter3_28556ada:
 
     # Br "A human going around murdering people won't go unnoticed for much longer. Higher authorities, including the ministry in charge of your whole visit will know about this soon. I have no idea what will happen once they do."
-    Br "Un umano che se ne va in giro a uccidere la gente non passerà inosservato ancora a lungo. Le autorità superiori, incluso il ministro responsabile della vostra intera visita, ne verranno presto a conoscenza. Non ho idea di cosa accadrà quando lo sapranno." # added comma to match line 868
+    Br "Un umano che se ne va in giro a uccidere la gente non passerà inosservato ancora a lungo. Le autorità superiori, incluso il ministro responsabile della vostra intera visita, ne verranno presto a conoscenza. Non ho idea di cosa accadrà quando lo sapranno." # added comma to match line 868; "ministry" -> "minister"
 
 # game/chapter3.rpy:835
 translate italiantl chapter3_6ceb347b:
@@ -346,7 +346,7 @@ translate italiantl chapter3_81a13922:
 translate italiantl chapter3_ba37bcc6:
 
     # Br "This way, we can take action before the ministry does, and before this all becomes public. If we wait, we don't know what they'll do or how the public will react. With everything going on, it's too dangerous for you to stay here."
-    Br "In questo modo, possiamo agire prima del ministro, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa farà o come reagirà la gente. Con tutto quello che accade, restare qui è troppo pericoloso per te."
+    Br "In questo modo, possiamo agire prima del ministro, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa farà o come reagirà la gente. Con tutto quello che accade, restare qui è troppo pericoloso per te." # "ministry" -> "minister"
 
 # game/chapter3.rpy:843
 translate italiantl chapter3_e69e42b8:
@@ -552,7 +552,7 @@ translate italiantl _call_skipcheck_4_a4f62bec:
 translate italiantl _call_skipcheck_4_355873cb:
 
     # Br stern b "Even so, it's fair to assume Reza's involvement at this point. No one else has a greater motive to steal the PDAs, especially after what happened between him and Maverick."
-    Br stern b "Se anche fosse, è lecito assumere il coinvolgimento di [Rz] a questo punto. Nessun altro è più motivato a rubare il palmare, specie dopo quello che è successo fra lui e [Mv]." # see line 825
+    Br stern b "Se anche fosse, a questo punto è lecito presumere il coinvolgimento di [Rz]. Nessun altro è più motivato a rubare il palmare, specie dopo quello che è successo fra lui e [Mv]." # see line 825
 
 # game/chapter3.rpy:998
 translate italiantl _call_skipcheck_4_738598da:
@@ -594,7 +594,7 @@ translate italiantl c3conty_da82da9a:
 translate italiantl c3conty_755c9c2a:
 
     # Sb "We just got a message from the higher-ups. You and [player_name] are to report to the Ministry of Culture & Arts immediately."
-    Sb "Abbiamo appena ricevuto un messaggio dai piani alti. Tu e [player_name] dovete fare subito rapporto al Ministro della Cultura e delle Arti."
+    Sb "Abbiamo appena ricevuto un messaggio dai piani alti. Tu e [player_name] dovete fare subito rapporto al Ministro della Cultura e delle Arti." # "Ministry" -> "Minister"; "&" -> "and" for elegance and to match line 3192
 
 # game/chapter3.rpy:1018
 translate italiantl c3conty_5eb0e509:
@@ -642,7 +642,7 @@ translate italiantl c3conty_a22ecafd:
 translate italiantl c3conty_daaf8bf3:
 
     # Br "Sebastian, you can finish up here and go to the Ministry when you're done. We'll probably have to make some arrangements after this meeting."
-    Br "[Sb], tu puoi concludere qui e andare dal Ministro quando hai finito. Probabilmente dovremo sistemare alcune cose dopo questo incontro."
+    Br "[Sb], tu puoi concludere qui e andare al Ministero quando hai finito. Probabilmente dovremo sistemare alcune cose dopo questo incontro."
 
 # game/chapter3.rpy:1052
 translate italiantl c3conty_ba0bb0d4:
@@ -720,7 +720,7 @@ translate italiantl c3conty_4e35c84c:
 translate italiantl c3conty_fe17f0dd:
 
     # Br "Only with the amount of new evidence, namely the DNA and blood we found and these three murders now being linked together and to him did your ministry have to become involved."
-    Br "Solo con la quantità di nuove prove, ossia il DNA e il sangue che abbiamo trovato e questi tre omicidi ora collegati assieme e a lui si è reso necessario che Lei, Ministro, fosse coinvolta."
+    Br "Solo con la quantità di nuove prove, ossia il DNA e il sangue che abbiamo trovato e questi tre omicidi ora collegati assieme e a lui si è reso necessario che Lei, Ministro, fosse coinvolta." # "ministry" -> "you, Minister,"
 
 # game/chapter3.rpy:1123
 translate italiantl c3conty_2d868013_1:
@@ -2590,7 +2590,7 @@ translate italiantl c3conty_929882d8:
 translate italiantl c3conty_8b24b374:
 
     # m "We were back at the Ministry before long. Emera and Bryce were still outside, as Remy approached the two of them."
-    m "Fummo ben presto di ritorno dal Ministro. [Em] e [Br] erano ancora di fuori, quando [Ry] avvicinò i due."
+    m "Fummo ben presto di ritorno al Ministero. [Em] e [Br] erano ancora di fuori, quando [Ry] avvicinò i due."
 
 # game/chapter3.rpy:1963
 translate italiantl c3conty_48f06d44:
@@ -2746,7 +2746,7 @@ translate italiantl c3conty_c48dc32f:
 translate italiantl c3conty_dce95571:
 
     # m "I picked up the sheet and started reading. It was about what had happened when I met Reza at the portal. Of course, it didn't say anything I didn't already know."
-    m "Raccolsi il foglio e iniziai a leggere. Parlava di quello che era successo quando avevo incontrato [Rz] al portale. Ovviamente, non diceva nulla che già non sapessi."
+    m "Raccolsi il foglio e iniziai a leggere. Parlava di quello che era successo quando avevo incontrato [Rz] al portale. Naturalmente, non diceva nulla che già non sapessi."
 
 # game/chapter3.rpy:2046
 translate italiantl c3conty_5017b19f:
@@ -3064,7 +3064,7 @@ translate italiantl c3conty_9426bc7d:
 translate italiantl c3conty_ffa2cf5a:
 
     # Br stern b flip Br "No, he'd be doing something smart. If he has the part needed to get the portal working again, he's in control of who gets to use it. He's cutting off our ability to communicate with mankind."
-    Br stern b flip Br "No, sarebbe stato furbo. Se ha con sé la parte necessaria a far funzionare di nuovo il portale, ha il controllo su chi lo può usare. Sta tagliando la nostra capacità di comunicare con l'umanità." # "be doing something smart" -> "have been smart"
+    Br stern b flip Br "No, sarebbe stato furbo. Se ha con sé la parte necessaria a far funzionare di nuovo il portale, ha il controllo su chi lo può usare. Sta tagliando la nostra capacità di comunicare col genere umano." # "be doing something smart" -> "have been smart"
 
 # game/chapter3.rpy:2184
 translate italiantl c3conty_e82da20b:
@@ -3166,7 +3166,7 @@ translate italiantl c3conty_8229572b:
 translate italiantl c3conty_83d3c04b:
 
     # Br brow b flip "If that's all, I'm going to head back to the Ministry. I shouldn't keep her waiting."
-    Br brow b flip "Se questo è tutto, credo che tornerò dal Ministro. Non dovrei farla aspettare."
+    Br brow b flip "Se questo è tutto, credo che tornerò dal Ministro. Non dovrei farla aspettare." # corrected "Ministry" -> "Minister"
 
 # game/chapter3.rpy:2226
 translate italiantl c3conty_84716d86:
@@ -4654,7 +4654,7 @@ translate italiantl c3arc_f09d6257:
 translate italiantl c3arc_108d1fe9:
 
     # m "I started pulling, but the cart turned out to be much heavier than I expected and didn't move."
-    m "Iniziai a tirare, ma il carretto si rivelò essere molto più pesante di quanto mi aspettassi e non si mosse."
+    m "Iniziai a tirare, ma il carretto si rivelò molto più pesante di quanto mi aspettassi e non si mosse."
 
 # game/chapter3.rpy:3316
 translate italiantl c3arc_eaa23d82:
@@ -5486,7 +5486,7 @@ translate italiantl follow_4e8538c2:
 translate italiantl follow_b36cdb39:
 
     # m "Then she placed her hands on the large dragon's chin. Gently, she lifted its huge muzzle and guided it toward the bowl. But when she released it, the dragon's head slumped and fell into the liquid. The bowl tumbled sideways and spilled its contents across the cave floor."
-    m "Poi poggiò le mani sul mento del grosso drago. Gentilmente, gli sollevò l'enorme muso e lo guidò verso la ciotola. Ma quando ebbe lasciato la presa, la testa del drago si accasciò e cadde nel liquido. La ciotola tombolò di fianco e rovesciò il contenuto sul pavimento della cava."
+    m "Poi poggiò le mani sul mento del grosso drago. Gentilmente, gli sollevò l'enorme muso e lo guidò verso la ciotola. Ma quando lasciò la presa, la testa del drago si accasciò e cadde nel liquido. La ciotola tombolò di lato e riversò il contenuto sul pavimento della cava."
 
 # game/chapter3.rpy:4064
 translate italiantl follow_b788615d:

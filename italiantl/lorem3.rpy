@@ -1210,7 +1210,7 @@ translate italiantl lorem3searchmenu_cc497a2a:
 translate italiantl lorem3searchmenu_721a8ff0:
 
     # Lo "In each timeline, you have a physical body which is driven by its own base desires that it seeks to fulfill. All physical needs like hunger, thirst and even breathing fall under this category."
-    Lo "In ogni linea del tempo, possiedi un corpo fisico che è guidato dai suoi desidèri di base che cerca di appagare. Tutti i bisogni fisici come mangiare, bere e persino respirare ricadono in questa categoria." # "hunger" -> "eating"; "thirst" -> "drinking"
+    Lo "In ogni linea del tempo, possiedi un corpo fisico che è guidato dai suoi desidèri di base che cerca di appagare. Tutti i bisogni fisici come mangiare, bere e persino respirare rientrano in questa categoria." # "hunger" -> "eating"; "thirst" -> "drinking"
 
 # game/lorem3.rpy:656
 translate italiantl lorem3searchmenu_b94a9753:
@@ -1360,7 +1360,7 @@ translate italiantl lorem3searchmenu_59e283b1:
 translate italiantl lorem3searchmenu_86ec0119:
 
     # Lo normal "Of course, some people may be more susceptible to this than others."
-    Lo normal "Ovviamente, alcune persone potrebbero esserne più suscettibili di altre."
+    Lo normal "Naturalmente, alcune persone potrebbero esserne più suscettibili di altre."
 
 # game/lorem3.rpy:706
 translate italiantl lorem3searchmenu_b9716dc1:
@@ -1960,7 +1960,7 @@ translate italiantl lorem3searchmenu_59f4c3db:
 translate italiantl lorem3searchmenu_fa8a1c5a:
 
     # Lo happy "Maybe we could see this experience as another reminder that the journey is its own reward."
-    Lo happy "Forse questa esperienza serve a ricordarci che il viaggio è la sua stessa ricompensa." # "[we could see] this experience SERVES as a[nother] reminder"
+    Lo happy "Forse questa esperienza serve a ricordarci che il viaggio è la vera ricompensa." # "[we could see] this experience SERVES as a[nother] reminder"; "its own" -> "the true"
 
 # game/lorem3.rpy:1033
 translate italiantl lorem3searchmenu_f747a1f2:

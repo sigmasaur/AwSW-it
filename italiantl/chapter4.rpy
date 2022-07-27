@@ -328,7 +328,7 @@ translate italiantl _call_skipcheck_20_5567eac6:
 translate italiantl _call_skipcheck_20_16065d3c:
 
     # c "That's not the only possibility. He may not be the one who broke the portal. Maybe he thinks you've intentionally sabotaged it so he can't leave, and he feels he needs the eggs as bargaining chip to get you to repair it."
-    c "Non è l'unica possibilità. Può non aver danneggiato lui il portale. Forse pensa che lo abbiate sabotato intenzionalmente cosicché non potesse andarsene, e sente di aver bisogno delle uova come moneta di scambio per convincervi a ripararlo."
+    c "Non è l'unica possibilità. Può non aver danneggiato lui il portale. Forse pensa che l'abbiate sabotato intenzionalmente cosicché non potesse andarsene, e sente di aver bisogno delle uova come moneta di scambio per convincervi a ripararlo."
 
 # game/chapter4.rpy:784
 translate italiantl _call_skipcheck_20_7481c22d:
@@ -604,7 +604,7 @@ translate italiantl c4skip1_5c9e8fe2:
 translate italiantl c4skip1_b1e02ef0:
 
     # Br "I've got your back. If there's one thing we could do to make this whole situation even worse, it would be messing up with you."
-    Br "Ti guarderò io le spalle. Se c'è una cosa che potremmo fare per aggravare ancora tutta questa situazione, sarebbe combinare un casino con te." # "make this whole situation even worse" -> "even worsen this whole situation"
+    Br "Ti guarderò io le spalle. Se c'è una cosa che potremmo fare per peggiorare ancora tutta questa situazione, sarebbe combinare un casino con te."
 
 # game/chapter4.rpy:908
 translate italiantl c4skip1_7f92e255:
@@ -2305,7 +2305,7 @@ translate italiantl sebdone_ff0f8867:
 translate italiantl sebdone_18d46eb7:
 
     # c "Just pick a good spot and no one is going to even notice you're gone."
-    c "Scegli solo un buon punto e nessuno si accorgerà nemmeno che te ne sei andato."
+    c "Scegli solo un buon punto e nessuno noterà nemmeno che te ne sei andato."
 
 # game/chapter4.rpy:2119
 translate italiantl sebdone_0c85d775:
@@ -3223,7 +3223,7 @@ translate italiantl c4library_07d1113d:
 translate italiantl c4library_55a08bac:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Ehi, è il vostro palmare. Te lo dicevo che avrebbe trovato il modo di arrivare da me alla fine." # "[one of] your PDA[s]"; "one would find" -> "it would find"
+    Ry smile "Ehi, è uno dei vostri palmari. Te lo dicevo che avrebbe trovato il modo di arrivare da me alla fine." # "one would find" -> "it would find"; see line 1206 of Remy 1
 
 # game/chapter4.rpy:2838
 translate italiantl c4library_e1a48044:
@@ -3283,7 +3283,7 @@ translate italiantl c4library_07d1113d_1:
 translate italiantl c4library_55a08bac_1:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Ehi, è il vostro palmare. Te lo dicevo che avrebbe trovato il modo di arrivare da me alla fine." # see line 2836
+    Ry smile "Ehi, è uno dei vostri palmari. Te lo dicevo che avrebbe trovato il modo di arrivare da me alla fine." # see line 2836
 
 # game/chapter4.rpy:2875
 translate italiantl c4library_e1a48044_1:
@@ -3343,7 +3343,7 @@ translate italiantl c4library_07d1113d_2:
 translate italiantl c4library_55a08bac_2:
 
     # Ry smile "Hey, it's one of your PDAs. I told you one would find its way to me eventually."
-    Ry smile "Ehi, è il vostro palmare. Te lo dicevo che avrebbe trovato il modo di arrivare da me alla fine." # see line 2836
+    Ry smile "Ehi, è uno dei vostri palmari. Te lo dicevo che avrebbe trovato il modo di arrivare da me alla fine." # see line 2836
 
 # game/chapter4.rpy:2911
 translate italiantl c4library_e1a48044_2:
@@ -3403,7 +3403,7 @@ translate italiantl c4library_07d1113d_3:
 translate italiantl c4library_00fbcf15:
 
     # Ry normal "Oh, it's one of your PDAs. I was really looking forward to this."
-    Ry normal "Oh, è il vostro palmare. Lo aspettavo davvero con ansia." # see line 2836
+    Ry normal "Oh, è uno dei vostri palmari. Lo aspettavo davvero con ansia." # see line 2836
 
 # game/chapter4.rpy:2948
 translate italiantl c4library_c96980f9:
@@ -4855,7 +4855,7 @@ translate italiantl _call_skipcheck_21_42f03031:
 translate italiantl _call_skipcheck_21_4f4cd4b2:
 
     # c "Since you're not whispering anymore, I can hear it clearly in your voice. I had a feeling that you couldn't be him since the first time we met, though."
-    c "Dal momento che non stai più sussurrando, posso sentirlo chiaramente nella tua voce. Avevo il sentore che tu non potessi essere lui sin dalla prima volta che ci siamo incontrati, comunque." # "a feeling" -> "the feeling"
+    c "Dal momento che non stai più sussurrando, posso sentirlo chiaramente nella tua voce. Ho avuto il sentore che tu non potessi essere lui sin dalla prima volta che ci siamo incontrati, comunque." # "a feeling" -> "the feeling"
 
 # game/chapter4.rpy:4236
 translate italiantl _call_skipcheck_21_fac22ca7:
@@ -4999,7 +4999,7 @@ translate italiantl _call_skipcheck_21_eccbaa8e:
 translate italiantl _call_skipcheck_21_471d756f:
 
     # n "While we already could teleport individual people, teleporting a whole building was another matter entirely."
-    n "Per quanto già potessimo teletrasportare singoli individui, teletrasportare un intero edificio era tutta un'altra faccenda."
+    n "Per quanto già potessimo teletrasportare singoli individui, teletrasportare un intero edificio era tutt'altra faccenda."
 
 # game/chapter4.rpy:4300
 translate italiantl _call_skipcheck_21_69dbd742:
@@ -5179,7 +5179,7 @@ translate italiantl _call_skipcheck_21_c44eed8f:
 translate italiantl _call_skipcheck_21_63d5ab9a:
 
     # n "But I couldn't find them. Not a single one. Even after checking the portal for its function, I determined that - for all intents and purposes - the portals from the company should have been there to connect with."
-    n "Ma non potei trovarne. Non uno solo. Persino dopo aver verificato il funzionamento del portale, determinai che—a tutti i fini pratici—i portali della compagnia avrebbero dovuto trovarsi là per connettervisi." # corrected em-dash; "couldn't find them" -> "couldn't find any"
+    n "Ma non potei trovarne. Non uno solo. Persino dopo aver verificato il funzionamento del portale, determinai che—a tutti gli effetti—i portali della compagnia avrebbero dovuto trovarsi là per connettervisi." # corrected em-dash; "couldn't find them" -> "couldn't find any"
 
 # game/chapter4.rpy:4372
 translate italiantl _call_skipcheck_21_76b2fe88_7:
@@ -5792,7 +5792,7 @@ translate italiantl _call_skipcheck_21_5a982d08:
 translate italiantl _call_skipcheck_21_22ea504f:
 
     # c "Speaking of which, why haven't I seen a single dinosaur since I arrived?"
-    c "A questo proposito, perché non ho visto un singolo dinosauro da quando sono arrivatə?"
+    c "A proposito, perché non ho visto un singolo dinosauro da quando sono arrivatə?"
 
 # game/chapter4.rpy:4600
 translate italiantl _call_skipcheck_21_39086922:

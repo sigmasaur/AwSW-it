@@ -1492,7 +1492,7 @@ translate italiantl anna1skip_4a4ac067:
 translate italiantl anna1skip_b1004111:
 
     # An "This turned out to be more fun than I expected. Of course, the main reason for that is because I won, but still..."
-    An "Si è rivelato più divertente del previsto. Naturalmente, il motivo principale è che ho vinto, ma comunque..."
+    An "Si è rivelato più divertente del previsto. Naturalmente, il motivo principale è che ho vinto, ma comunque..." # "the main reason [for that]"
 
 # game/anna1.rpy:1127
 translate italiantl anna1skip_f3e7a485:

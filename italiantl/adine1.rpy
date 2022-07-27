@@ -658,7 +658,7 @@ translate italiantl _call_skipcheck_10_c249e3f8:
 translate italiantl _call_skipcheck_10_0eb9375b:
 
     # c "Well, no matter what you might think about humans, I can assure you that I am in no way special or supernatural."
-    c "Be', a prescindere da quello che potreste pensare degli umani, posso assicurarti che io non sono in alcun modo speciale o soprannaturale."
+    c "Be', a prescindere da quello che potreste pensare degli umani, posso assicurarti che io non sono in alcun modo speciale o sovrannaturale."
 
 # game/adine1.rpy:478
 translate italiantl _call_skipcheck_10_a498f8f9:
@@ -706,7 +706,7 @@ translate italiantl _call_skipcheck_10_27b32db1:
 translate italiantl _call_skipcheck_10_aaa0f5f8:
 
     # c "I wasn't sure what to think about it. That is, until I got here and was standing in front of one of you. And after that, I was just rendered speechless."
-    c "Non sapevo bene cosa pensarne. Almeno, finché non sono arrivatə qui e mi sono trovatə davanti uno di voi. E dopodiché, sono solo rimastə senza parole." # see line 664 of chapter 1; "was standing in front of one of you" -> "had one of you stand in front of me"
+    c "Non sapevo bene cosa pensarne. Almeno, finché non sono arrivatə qui e mi sono trovatə davanti uno di voi. E dopodiché, sono solo rimastə senza parole." # see lines 664-666 of chapter 1; "was standing in front of one of you" -> "had one of you stand in front of me"
 
 # game/adine1.rpy:498
 translate italiantl _call_skipcheck_10_c9851cf8:
@@ -1860,7 +1860,7 @@ translate italiantl strings:
 
     # adine1.rpy:274
     old "Maybe there's more to it than that."
-    new "Forse c'è dell'altro sotto."
+    new "Forse c'è dell'altro dietro."
 
     # adine1.rpy:274
     old "Maybe I don't care."

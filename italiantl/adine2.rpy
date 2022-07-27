@@ -526,7 +526,7 @@ translate italiantl _call_skipcheck_23_a4aa9181:
 translate italiantl _call_skipcheck_23_35c9ab45:
 
     # Ad giggle b "It also mentions prophetic dreams, but let's hope that yours don't fall into that category."
-    Ad giggle b "Sono anche menzionati i sogni profetici, ma speriamo che i tuoi non ricadano in quella categoria."
+    Ad giggle b "Sono anche menzionati i sogni profetici, ma speriamo che i tuoi non rientrino in quella categoria."
 
 # game/adine2.rpy:442
 translate italiantl _call_skipcheck_23_3154d577:
@@ -1282,7 +1282,7 @@ translate italiantl adine2menb_631e6cfa:
 translate italiantl adine2menb_85205a4b:
 
     # c "Let's just say I have a hunch. It mentioned resolutions to conflicts that have been brewing, and there's definitely stuff brewing."
-    c "Diciamo solo che ho una teoria. Ha menzionato risoluzioni a conflitti che stanno fermentando, e c'è decisamente qualcosa in fermento." # "stuff" -> "something"
+    c "Diciamo solo che ho una sensazione. Menzionava risoluzioni a conflitti che fermentano, e c'è decisamente qualcosa in fermento." # "stuff" -> "something"
 
 # game/adine2.rpy:1007
 translate italiantl adine2menb_c80ff75f:
@@ -1744,7 +1744,7 @@ translate italiantl adine2skip_5fec0ad0:
 translate italiantl adine2skip_f842cf75:
 
     # Ad think b "I wouldn't care as much if it turned out to just be some old building. The whole thing about it being made by humans is what's really interesting."
-    Ad think b "Non mi starebbe tanto a cuore se si scoprisse essere soltanto un vecchio edificio. È tutta la parte in cui sono stati gli umani a costruirlo che è veramente interessante."
+    Ad think b "Non mi starebbe tanto a cuore se si rivelasse soltanto un vecchio edificio. È tutta la parte in cui sono stati gli umani a costruirlo che è veramente interessante."
 
 # game/adine2.rpy:1230
 translate italiantl adine2skip_309e5307:
