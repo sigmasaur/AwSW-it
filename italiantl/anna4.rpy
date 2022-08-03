@@ -376,7 +376,7 @@ translate italiantl _call_skipcheck_17_c9c53b69:
 translate italiantl _call_skipcheck_17_2466102c:
 
     # An "Using you as a test subject would’ve been a process that the council would have to discuss with humanity. As such, there might have been another trade agreement and who knows what else!"
-    An "Usarti come soggetto di un esame sarebbe stato un procedimento che il consiglio avrebbe dovuto discutere con l'umanità. In quanto tale, avrebbe potuto esserci un secondo accordo commerciale e chissà che altro!" # "another" -> "a second"
+    An "Usarti come soggetto di un esame sarebbe stato un procedimento che il consiglio avrebbe dovuto discutere con l'umanità. Come tale, avrebbe potuto esserci un secondo accordo commerciale e chissà che altro!" # "another" -> "a second"
 
 # game/anna4.rpy:271
 translate italiantl _call_skipcheck_17_e9553d62:
@@ -1054,7 +1054,7 @@ translate italiantl _call_skipcheck_18_d10c9fc3:
 translate italiantl _call_skipcheck_18_23e7ac20:
 
     # c "I can't be that important if your apartment is nicer than this."
-    c "Non posso essere così importante se il tuo appartamento è più carino di questo."
+    c "Non posso essere così importante se il tuo appartamento è più bello di questo."
 
 # game/anna4.rpy:613
 translate italiantl _call_skipcheck_18_5b698ecc:
@@ -1096,7 +1096,7 @@ translate italiantl _call_skipcheck_18_cb2b6e43:
 translate italiantl _call_skipcheck_18_f8ac9388:
 
     # An "Actually, there's one tip that should take care of everything."
-    An "In effetti, ce n'è una che dovrebbe coprire ogni situazione." # "one [tip]"
+    An "In effetti, c'è una dritta che dovrebbe andare bene per tutto." # "take care of" -> "fit"
 
 # game/anna4.rpy:627
 translate italiantl _call_skipcheck_18_fcbd37e9:

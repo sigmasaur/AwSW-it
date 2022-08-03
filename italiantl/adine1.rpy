@@ -118,7 +118,7 @@ translate italiantl adine1choice1_0f173ebb:
 translate italiantl adine1choice1_f8bbc1ff:
 
     # Ad "Do you think I could come in for a few minutes? It's raining pretty heavily outside, and this was my last delivery for the day. I actually live on the other side of town, and I don't really want to fly back in the rain."
-    Ad "Pensi che potrei entrare per qualche minuto? Fuori sta piovendo a dirotto, e questa era la mia ultima consegna del giorno. In effetti io vivo dall'altra parte della città, e non vorrei proprio tornarmene indietro in volo con questa pioggia."
+    Ad "Pensi che potrei entrare per qualche minuto? Fuori sta piovendo a dirotto, e questa era la mia ultima consegna del giorno. In effetti io vivo dall'altra parte della città, e non vorrei proprio tornarmene indietro in volo con questa pioggia." # "I don't really" -> "I really wouldn't"
 
 # game/adine1.rpy:117
 translate italiantl menadine_b2d97902:
@@ -1066,7 +1066,7 @@ translate italiantl nextsc_b0e643f3:
 translate italiantl nextsc_24285aa7:
 
     # c "You asked the last few questions, so it's only fair if I start."
-    c "Hai posto tu le ultime domande, quindi è solo che giusto che sia io a iniziare."
+    c "Hai posto tu le ultime domande, quindi è solo giusto che sia io a iniziare."
 
 # game/adine1.rpy:744
 translate italiantl nextsc_58abfc7c:

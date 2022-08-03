@@ -784,7 +784,7 @@ translate italiantl _call_skipcheck_9_76d8cb7e:
 translate italiantl _call_skipcheck_9_7abac9fe:
 
     # c "Yeah, some monkeys actually can. They basically have hands instead of feet."
-    c "Sì, alcune scimmie in effetti possono. In pratica hanno delle mani al posto dei piedi."
+    c "Sì, alcune scimmie in effetti possono. In pratica hanno mani al posto dei piedi."
 
 # game/adine3.rpy:455
 translate italiantl _call_skipcheck_9_264d55c7:

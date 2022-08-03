@@ -1368,7 +1368,7 @@ translate italiantl _call_syscheck_41_76634173:
 translate italiantl _call_syscheck_41_0eb13f67:
 
     # m "For the first time, I could see something in his eyes other than his always present confidence. Was it disbelief, or insecurity? I guessed my feat caught him off guard, as he seemed genuinely impressed. If nothing else, this showed me that even his own conviction was cracking now. I could totally win this."
-    m "Per la prima volta, potei scorgere qualcosa nei suoi occhi oltre alla sua onnipresente fiducia di sé. Era forse incredulità, o insicurezza? Immaginai che la mia impresa l'avesse colto alla sprovvista, siccome pareva sinceramente colpito. Se non altro, mi dimostrò che il suo stesso convincimento stava ormai scricchiolando. Potevo assolutamente vincerla."
+    m "Per la prima volta, potei intravedere nei suoi occhi qualcosa di diverso dalla sua sempre presente fiducia di sé. Era forse incredulità, o insicurezza? Immaginai che la mia impresa l'avesse colto alla sprovvista, siccome pareva sinceramente colpito. Se non altro, mi dimostrò che anche il suo convincimento si stava ormai incrinando. Potevo assolutamente vincerla."
 
 # game/bryce1.rpy:1078
 translate italiantl _call_syscheck_41_c1731578:

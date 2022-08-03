@@ -1078,7 +1078,7 @@ translate italiantl _call_skipcheck_30_f15958c1:
 translate italiantl _call_skipcheck_30_3c741217:
 
     # c "I don't like talking about that. It's much prettier here."
-    c "Non mi piace parlare di questo. Qui è molto più gradevole."
+    c "Non mi piace parlare di questo. Qui è molto più bello."
 
 # game/adine4.rpy:519
 translate italiantl _call_skipcheck_30_0a5eae12:
@@ -1642,7 +1642,7 @@ translate italiantl a4shower_a366f1a0:
 translate italiantl a4shower_445c3050:
 
     # m "She moved around a bit, stretching this and that way in order to cover her whole body in the water. Soon afterwards, she pressed the button on the wall again, and the water flow stopped."
-    m "Si mosse qua e là, allungandosi da questa e da quella parte al fine di ricoprire il suo intero corpo con l'acqua. Subito dopo, premette di nuovo il pulsante sul muro, e il flusso dell'acqua smise."
+    m "Si mosse qua e là, allungandosi da questa e da quella parte al fine di ricoprire il suo intero corpo con l'acqua. Poco più tardi, premette di nuovo il pulsante sul muro, e il flusso dell'acqua smise."
 
 # game/adine4.rpy:795
 translate italiantl a4shower_8619da62:

@@ -448,7 +448,7 @@ translate italiantl no_7baa11a8:
 translate italiantl no_f6c1a298:
 
     # Rz normal "I mean, how could a supposedly completely different, independent civilization speak the same language as us? What was this supposed to be? An alternate reality? No, it was just a different time."
-    Rz normal "Voglio dire, come potrebbe una civiltà completamente diversa e indipendente parlare la nostra stessa lingua? Cosa avrebbe dovuto essere, una realtà alternativa? No, era solo un diverso tempo."
+    Rz normal "Voglio dire, come potrebbe una civiltà completamente diversa e indipendente parlare la nostra stessa lingua? Cosa avrebbe dovuto essere, una realtà alternativa? No, era solo un diverso tempo." # "a [supposedly] completely different, independent civilization"
 
 # game/chapter5evilending.rpy:465
 translate italiantl no_46ca0c65:

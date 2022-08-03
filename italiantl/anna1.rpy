@@ -10,7 +10,7 @@ translate italiantl anna1_d2dc5415:
 translate italiantl anna1_8d584416:
 
     # m "The production facility had many different wings, covering everything from research to processing, in addition to production. It was easy to get lost if you didn't know where you were going."
-    m "Lo stabilimento di produzione aveva molte ali diverse, coprendo ogni cosa dalla ricerca alla lavorazione, in aggiunta alla produzione. Era facile perdersi se non sapevi dove stavi andando."
+    m "Lo stabilimento di produzione aveva molte ali diverse, a comprendere ogni cosa dalla ricerca alla lavorazione, in aggiunta alla produzione. Era facile perdersi se non sapevi dove stavi andando."
 
 # game/anna1.rpy:36
 translate italiantl anna1_b230ba57:
@@ -256,7 +256,7 @@ translate italiantl _call_skipcheck_7_3501252f:
 translate italiantl _call_skipcheck_7_781a7e53:
 
     # An "It's nothing, really. Just the usual stress that comes with the job. Even right now I'm supposed to be working overtime."
-    An "Non è niente, davvero. Solo il solito stress che accompagna il lavoro. Persino adesso dovrei stare facendo gli straordinari." # see line 235
+    An "Non è niente, davvero. Solo il solito stress che viene dal lavoro. Persino adesso dovrei stare facendo gli straordinari." # see line 235
 
 # game/anna1.rpy:260
 translate italiantl _call_skipcheck_7_afb05e33:
@@ -1018,7 +1018,7 @@ translate italiantl _call_skipcheck_7_95705c40_1:
 translate italiantl _call_skipcheck_7_89cbbcd7:
 
     # An "Since it was your idea, it's only fair that I start. So, how does this work?"
-    An "Dal momento che è stata una tua idea, è solo che giusto che sia io a iniziare. Quindi, com'è che funziona?"
+    An "Dal momento che è stata una tua idea, è solo giusto che sia io a iniziare. Quindi, com'è che funziona?"
 
 # game/anna1.rpy:776
 translate italiantl _call_skipcheck_7_8fb95eeb:
@@ -1066,7 +1066,7 @@ translate italiantl _call_skipcheck_7_3c8056a2:
 translate italiantl _call_skipcheck_7_8dd493bd:
 
     # An "Who is cited as one of our most important historians, his work spanning over 20 books, credited with mapping out our entire history since the beginning of sentience?"
-    An "Chi è citato come uno dei nostri storici più importanti, il suo lavoro che comprende più di venti libri, cui è attribuito il merito di aver tracciato la nostra intera storia sin dal principio della consapevolezza?" # "20" -> "twenty" for elegance
+    An "Chi è citato come uno dei nostri storici più importanti, il suo lavoro che abbraccia più di venti libri, cui è attribuito il merito di aver tracciato la nostra intera storia sin dal principio della consapevolezza?" # "20" -> "twenty" for elegance
 
 # game/anna1.rpy:808
 translate italiantl _call_skipcheck_7_2fa2fb8c:
@@ -1168,7 +1168,7 @@ translate italiantl cont1_d66fe21d:
 translate italiantl cont1_bfc11f19:
 
     # An "Guess you also know your trick questions."
-    An "Immagino anche tu ne sappia qualcosa di domande a trabocchetto."
+    An "Immagino che anche tu ne sappia qualcosa di domande a trabocchetto."
 
 # game/anna1.rpy:899
 translate italiantl cont1_5a04b24f:

@@ -1348,7 +1348,7 @@ translate italiantl _call_skipcheck_32_640a1ac4:
 translate italiantl _call_skipcheck_32_9dd1c0ea:
 
     # An smirk c "That's mostly us, the runners. We've got proper hands, after all."
-    An smirk c "Per lo più noi, i corridori. Abbiamo delle mani vere e proprie, dopotutto."
+    An smirk c "Per lo più noi, i corridori. Abbiamo mani vere e proprie, dopotutto."
 
 # game/anna2.rpy:933
 translate italiantl _call_skipcheck_32_66b779fe:

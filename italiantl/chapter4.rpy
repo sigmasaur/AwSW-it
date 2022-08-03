@@ -4927,7 +4927,7 @@ translate italiantl _call_skipcheck_21_d0ae06d2:
 translate italiantl _call_skipcheck_21_fed00e74:
 
     # As "When I crawled out from the hole in the earth that hid the portal, there were no guards to discover me. My appearance exposed the portal, but the dragons didn't know it was there yet."
-    As "Quando ho strisciato fuori dal buco nel terreno che nascondeva il portale, non vi erano guardie a sorprendermi. La mia comparsa ha esposto il portale, ma i draghi non sapevano ancora si trovasse là." # "discover" -> "surprise"
+    As "Quando ho strisciato fuori dal buco nella terra che nascondeva il portale, non c'erano guardie a sorprendermi. La mia comparsa ha esposto il portale, ma i draghi non sapevano ancora si trovasse là."
 
 # game/chapter4.rpy:4262
 translate italiantl _call_skipcheck_21_a6a5b013:
@@ -6230,7 +6230,7 @@ translate italiantl _call_popularcheck_19_ca9231e1:
 translate italiantl _call_popularcheck_19_26eaf959:
 
     # c "(Considering what happened last time, entering the literal dragon's den could either turn out really well, or not so much.)"
-    c "(Considerando cos'è successo l'ultima volta, entrare letteralmente nella tana del drago può solo che andare a finire molto bene, oppure molto male.)" # see line 4232 of chapter 2
+    c "(Considerando cos'è successo l'ultima volta, entrare letteralmente nella tana del drago può solo andare a finire molto bene, oppure molto male.)" # see line 4232 of chapter 2
 
 # game/chapter4.rpy:5229
 translate italiantl _call_popularcheck_20_b5186df5:

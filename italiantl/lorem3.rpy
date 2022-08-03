@@ -742,7 +742,7 @@ translate italiantl lorem3searchmenu_bc1ff44b:
 translate italiantl lorem3searchmenu_333bbf08:
 
     # Lo "I have no idea what you're talking about. These walls don't really look special to me."
-    Lo "Non ho idea di cosa stai parlando. Non è che questi muri mi sembrino niente di speciale."
+    Lo "Non ho idea di cosa stai parlando. Questi muri non mi sembrano niente di speciale."
 
 # game/lorem3.rpy:458
 translate italiantl lorem3searchmenu_a9857d00:

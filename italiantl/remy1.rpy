@@ -304,7 +304,7 @@ translate italiantl _call_skipcheck_22_5be30e2a:
 translate italiantl _call_skipcheck_22_98dde53e:
 
     # Ry "Either way, now that you're here, you could help me with something. I've got some books that need to be sorted over there."
-    Ry "Comunque sia, già che sei qui, potresti darmi una mano con una cosa. Di là ho alcuni libri che devono essere riordinati." # "now that" -> "while"
+    Ry "Comunque sia, ora che sei qui, potresti darmi una mano con una cosa. Di là ho alcuni libri che devono essere riordinati."
 
 # game/remy1.rpy:242
 translate italiantl _call_skipcheck_22_d214d454:
@@ -1782,7 +1782,7 @@ translate italiantl _call_syscheck_86_1829250c:
 translate italiantl _call_syscheck_86_897d19f8:
 
     # c "I imagine the good guys will beat the bad guys. That's how it usually goes."
-    c "Immagino che i buoni batteranno i cattivi. Di solito è così che funziona."
+    c "Immagino che i buoni batteranno i cattivi. Di solito è così che vanno le cose."
 
 # game/remy1.rpy:1612
 translate italiantl _call_syscheck_86_02249771:

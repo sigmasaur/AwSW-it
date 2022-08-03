@@ -136,7 +136,7 @@ translate italiantl _call_skipcheck_16_a750447a:
 translate italiantl _call_skipcheck_16_c4112abb:
 
     # c "Excuse me, but this still doesn't really tell me anything about why I'm here. You're a postman who wants to interview me for... what, exactly?"
-    c "Perdonami, ma questo non è che mi dica ancora niente sul perché mi trovo qui. Saresti un postino che vuole intervistarmi per... cosa, esattamente?"
+    c "Perdonami, ma non è che questo mi dica ancora niente sul perché mi trovo qui. Saresti un postino che vuole intervistarmi per... cosa, esattamente?"
 
 # game/lorem1.rpy:168
 translate italiantl _call_skipcheck_16_4c2ac08e:
@@ -226,7 +226,7 @@ translate italiantl _call_skipcheck_16_e08aa85e:
 translate italiantl _call_skipcheck_16_8daf20aa:
 
     # Lo "Besides, your job must be really stressful, and you're probably already in the spotlight all the time. And now, to top it all off, you get some postman harassing you for an interview."
-    Lo "E poi, il tuo lavoro dev'essere davvero stressante, e probabilmente sarai già tutto il tempo sotto i riflettori. E adesso, come se non bastasse, arriva un postino a tormentarti per un'intervista."
+    Lo "E poi, il tuo lavoro dev'essere davvero stressante, e probabilmente sarai già tutto il tempo sotto i riflettori. E adesso, come se non bastasse, arriva un postino ad assillarti per un'intervista."
 
 # game/lorem1.rpy:252
 translate italiantl _call_skipcheck_16_2660554d:

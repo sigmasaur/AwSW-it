@@ -292,7 +292,7 @@ translate italiantl _call_skipcheck_26_ccdb4373:
 translate italiantl _call_skipcheck_26_71e47afb:
 
     # Br "He was able to. Why couldn't you? Maybe I wasn't clear enough earlier. If you provoke him, I might not actually be able to protect you. Just putting that out there."
-    Br "Lui ne è stato in grado. Perché tu no? Forse prima non sono stato abbastanza chiaro. Se lo provochi, potrei non essere effettivamente in grado di proteggerti. Io te la butto lì."
+    Br "Lui ci è riuscito. Perché tu no? Forse prima non sono stato abbastanza chiaro. Se lo provochi, potrei non essere effettivamente in grado di proteggerti. Io te la butto lì."
 
 # game/bryce3.rpy:286
 translate italiantl _call_skipcheck_26_432b057c_1:
@@ -1415,13 +1415,13 @@ translate italiantl bryce3pass_eab18ce4:
 translate italiantl bryce3pass_ceddac29:
 
     # Sb "Well, I've seen [player_name] hang out with that librarian a few times."
-    Sb "Be', ho visto [player_name] insieme a quel bibliotecario qualche volta."
+    Sb "Be', ho visto [player_name] stare assieme a quel bibliotecario qualche volta."
 
 # game/bryce3.rpy:795
 translate italiantl bryce3pass_55005532:
 
     # Br brow "Who? The klutzy one?"
-    Br brow "Chi? Quello imbranato?"
+    Br brow "Chi? L'imbranato?"
 
 # game/bryce3.rpy:797
 translate italiantl bryce3pass_53cafda0:
@@ -1505,7 +1505,7 @@ translate italiantl bryce3pass_39ec63f9:
 translate italiantl bryce3pass_92b19e7f:
 
     # Sb "Well, I've seen [player_name] hang out with a certain yellow flyer a few times."
-    Sb "Be', ho visto [player_name] insieme a una certa volatrice gialla qualche volta." # see line 793
+    Sb "Be', ho visto [player_name] stare assieme a una certa volatrice gialla qualche volta." # see line 793
 
 # game/bryce3.rpy:845
 translate italiantl bryce3pass_3e8210bd:
@@ -1949,7 +1949,7 @@ translate italiantl bryce3pass_c6f0a22b:
 translate italiantl bryce3pass_214b7b9a:
 
     # Mv "Thanks for inviting me, Bryce."
-    Mv "Grazie per avermi invitato, [Br]."
+    Mv "Grazie di avermi invitato, [Br]."
 
 # game/bryce3.rpy:1063
 translate italiantl bryce3pass_c90fb6a7:
@@ -2503,7 +2503,7 @@ translate italiantl strings:
 
     # bryce3.rpy:573
     old "Stay silent"
-    new "Resta in silenzio." # corrected dot
+    new "Resta in silenzio." # corrected full stop
 
     # bryce3.rpy:636
     old "I do."

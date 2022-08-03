@@ -82,7 +82,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`status.rpy`](italiantl/status.rpy)
 
-* At line 20-216: *good*/*bad* → *positive*/*negative*, as *bad* \[<i>cattivo</i>\] is more commonly understood as *mean* or *evil*. An alternative would be *friendly*/*hostile*.
+* At line 20-216: *good*/*bad* → *positive*/*negative*, as *bad* [<i>cattivo</i>] is more commonly understood as *mean* or *evil*. An alternative would be *friendly*/*hostile*.
 
 ### [`help.rpy`](italiantl/help.rpy)
 
@@ -122,7 +122,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 523, 1278, 3228, 3312, 3712, 3792, 4226: Corrected simple dash to em-dash.
 * At line 572, 958, 1056, 1816, 1826, 1830, 3510, 3680: Corrected uppercase letter to lowercase after colon.
 * At line 649: Rendered *legs* as *paws*.
-* At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware that the intended gender agreement is syntactic, as semantic agreement of *that* \[<i>quell-</i>\] with the player character would have been rendered with the inclusive gender instead \[<i>-ə</i>\].)
+* At line 791: Used if-statement in place of lines 797/801. Using those lines produces either a bad translation, or a good adaptation but hard to pick up again at line 916, if not with another adaptation. (Note that the user should be aware that the intended gender agreement is syntactic, as semantic agreement of *that* [<i>quell-</i>] with the player character would have been rendered with the inclusive gender instead [<i>-ə</i>].)
 * At line 1036, 1148, 3771: Slightly pruned to fit fewer lines.
 * At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1420-1438: Note that these lines also trigger if `Zhong` was never met in [`bryce1.rpy`](#bryce1rpy). Affected sequences: play [`bryce1.rpy`](#bryce1rpy) and leave at lines 75, 142.
@@ -151,7 +151,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 2216: Corrected *Ministry* → *Minister*.
 * At line 2312: *pocket* → *pockets*, to match numerous lines throughout the script.
 * At line 2467: *list of* → *note with*, to avoid repeating too many same prepositions and to match lines 713, 1149 of [`chapter1.rpy`](#chapter1rpy).
-* At line 2739-2751: Note that these lines also trigger if `Lorem` already mentioned making some pictures of the player character both in [`lorem1.rpy`](#lorem1rpy) and by message. Affected sequences: play [`lorem1.rpy`](#lorem1rpy) after [`chapter2.rpy`](#chapter2rpy) and put `Lorem` in a `good` mood.
+* At line 2739-2751: Note that these lines also trigger if `Lorem` already said he wanted to *get some pictures of* the player character both in [`lorem1.rpy`](#lorem1rpy) and by message. Affected sequences: play [`lorem1.rpy`](#lorem1rpy) after [`chapter2.rpy`](#chapter2rpy) and put `Lorem` in a `good` mood.
 * At line 3054: Consider changing ellipsis with simple dash.
 * At line 3098: Slightly pruned to fit fewer lines.
 * At line 3751: Adapted to preserve a pun; reverse translation: *I'm stunned.*
@@ -170,13 +170,13 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1812: Note that in theory, dragons don't know what a car is.
 * At line 2035: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
 * At line 2411: `Shake` transition doesn't seem to trigger.
-* At line 2836, 2873: Note that this line also triggers if `Remy` never said *it \[was\] just a question of time until one of \[the PDAs\] end\[ed\] up with \[him\]* in [`remy1.rpy`](#remy1rpy). Affected sequences: play [`remy1.rpy`](#remy1rpy) and leave at lines 246, 794, 857, 919, 981, 1081, then visit the library in [`chapter2.rpy`](#chapter2rpy) and ask `Remy` how he's doing, then apologize to him:
+* At line 2836, 2873: Note that this line also triggers if `Remy` never said *it [was] just a question of time until one of [the PDAs] [ended] up with [him]* in [`remy1.rpy`](#remy1rpy). Affected sequences: play [`remy1.rpy`](#remy1rpy) and leave at lines 246, 794, 857, 919, 981, 1081, then visit the library in [`chapter2.rpy`](#chapter2rpy) and ask `Remy` how he's doing, then apologize to him:
   * At line 2873: Put `Remy` in a `neutral` mood.
 * At line 3236, 3315, 3468, 3698: Rendered *leg* as *paw*.
 * At line 3285-3289, 3379-3383, 3438-3442, 3511-3515, 3742-3746: Adapted to preserve a pun; reverse translation: *Exceptional.*
 * At line 3568, 3627, 3798, 3857: Assumed *who* is referred to `Adine`.
 * At line 4345, 4353: Unfolded *65* → *sixty-five*, for elegance.
-* At line 4365: About *aligning \[the portals\] across the time axis*, note that `Izumi` would still have had to bypass the anti-time travel safeguards for her to be able to return, assuming the portals in the present were still operational.
+* At line 4365: About *aligning [the portals] across the time axis*, note that `Izumi` would still have had to bypass the anti-time travel safeguards for her to be able to return, assuming the portals in the present were still operational.
 * At line 4367: *that meant that* → *moreover*, as there's no real logical implication between line 4365 and this line.
 * At line 4432, 4614: Unfolded *AI* → *artificial intelligence*, for elegance.
 * At line 4462: Unfolded *10km* → *ten kilometers*, for elegance.
@@ -184,7 +184,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4468-4472: Slightly adapted to exchange the two units, as Italians prefer the metric system. Does this qualify as improper localization?
 * At line 4500: Corrected *don't think that he would<s>n't</s> hesitate*.
 * At line 4556: Split in multiple parts to fit fewer lines.
-* At line 4556: *connected* → *linked*, to avoid repeating *the connection \[...\] is not connected*.
+* At line 4556: *connected* → *linked*, to avoid repeating *the connection [...] is not connected*.
 * At line 4592: Corrected lowercase letter of *earth* to uppercase.
 
 ### [`chapter5.rpy`](italiantl/chapter5.rpy)
@@ -254,7 +254,7 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 306: *English language* → *our language*.
 * At line 309-311: Adapted to preserve a pun; reverse translation:
-  * At line 309: *I'm pretty good with the tongues \[...\].*
+  * At line 309: *I'm pretty good with the tongues [...].*
   * At line 311: This had to be changed completely: *Especially with mine.* Any improvement is welcome. (Note that *cunning* is often translated as *skilled* when a pun is involved, resulting in a duplicate of line 309.)
 * At line 732, 938: Rendered *children* as *cubs*.
 * At line 801: Unfolded *20* → *twenty*, for elegance.
@@ -275,10 +275,10 @@ The following are mostly to the benefit of the developer and translators.
 * At line 428, 436: Unfolded *90%* → *ninety percent*, for elegance.
 * At line 430: Unfolded *50%* → *fifty percent*, for elegance.
 * At line 432: Unfolded *99.9%* → *(not) one permill*, *95-97%* → *(not) three-five percent*, for elegance.
-* At line 937: Interpreted *you and another of your species'* as *you and \[the members of\] any species other than yours* and then lifted it from member- to species-level.
+* At line 937: Interpreted *you and another of your species'* as *you and [the members of] any species other than yours* and then lifted it from member- to species-level.
 * At line 979: Assumed the first *you* is referred to the player character, the second to the human race.
 * At line 995: Corrected *burst into flame<b>s</b>*.
-* At line 1106: Rendered *man* as *(male) dragon*.
+* At line 1106: Rendered *man* as *dragon*.
 * At line 1172: Corrected simple dash to em-dash.
 * At line 1211: Unfolded *100%* → *one hundred percent*, for elegance.
 
@@ -300,7 +300,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 599: Corrected *dont* → *don't*.
 * At line 617: Removed extra space before question mark.
 * At line 675: Corrected simple dash to em-dash.
-* At line 792: Where did `Anna` say *[she doesn't] really know anyone else*?
+* At line 792: Where did `Anna` say she doesn't *really know anyone else*?
 
 ### [`anna5.rpy`](italiantl/anna5.rpy)
 
@@ -333,7 +333,7 @@ The following are mostly to the benefit of the developer and translators.
   * At line 507, 513-553: The `Administrator` and `Maverick` were already met in [`chapter4.rpy`](#chapter4rpy), where:<ul><li>At line 507: The player character learns that the former is not `Reza`;</li><li>At line 513-553: `Bryce` and the player character learn of *what [the latter]'s been up to*.</li></ul>
   Affected sequences: *A*<sub>1-3</sub>, *B*<sub>1-2</sub>, or *B*<sub>3</sub> after [`chapter3.rpy`](#chapter3rpy), then save `Bryce` in [`chapter4.rpy`](#chapter4rpy).
   * At line 1079-1081: The player character never got drunk in [`bryce1.rpy`](#bryce1rpy). Affected sequences: *A*<sub>1-2</sub>.
-  * At line 1153-1157: `Bryce` never said *there's more to \[him\] than \[getting drunk\]* either in [`bryce1.rpy`](#bryce1rpy) or by message. Affected sequences: *A*<sub>1-3</sub> or *B*<sub>1-2</sub>.
+  * At line 1153-1157: `Bryce` never said *there's more to [him] than [getting drunk]* either in [`bryce1.rpy`](#bryce1rpy) or by message. Affected sequences: *A*<sub>1-3</sub> or *B*<sub>1-2</sub>.
 * At line 357, 395, 592, 1169: Corrected simple dash to em-dash.
 * At line 395: Unfolded *100%* → *one hundred percent*, for elegance.
 * At line 428, 430, 465, 848: Rendered *leg*(*s*) as *paw*(*s*).
@@ -349,14 +349,14 @@ The following are mostly to the benefit of the developer and translators.
 * At line 438: Made `Bryce` use formal pronouns when addressing `Sebastian` as *Master of Ceremony*.
 * At line 463, 467, 1132: Corrected simple dash or en-dash to em-dash.
 * At line 535-537: Adapted to preserve a pun; reverse translation:
-  * At line 535: *\[...\] her personality makes your scales stand on end.*
+  * At line 535: *[...] her personality makes your scales stand on end.*
   * At line 537: *Makes your what stand on end?*
 * At line 543: Note that the player character must be referring to lines 2056-2100 of [`chapter3.rpy`](#chapter3rpy).
 * At line 573: Corrected missing full stop.
 * At line 595, 628, 767, 769: Rendered *child*(*ren*) as *cub*(*s*).
 * At line 664: Unfolded *10%* → *ten percent*, for elegance.
 * At line 682: Corrected *sub<b>t</b>lety*.
-* At line 749: Corrected *encouraged* → *discouraged*, as `Bryce` is supposedly the same species, so if *dating between different species \[was\] encouraged* then it wouldn't explain *why `Emera` is so interested* in him.
+* At line 749: Corrected *encouraged* → *discouraged*, as `Bryce` is supposedly the same species as `Emera`, so if *dating between different species [was] encouraged* then it wouldn't explain *why [she] is so interested* in him.
 * At line 749: Split in multiple parts to fit fewer lines.
 * At line 793-838: Note that these lines also trigger if `Remy` didn't survive and `Sebastian` and the player character learned of it. Affected sequences: don't see `Remy`'s good ending, play [`remy3.rpy`](#remy3rpy) and put `Remy` in a `bad` mood, save `Bryce` and take the PDA to the library in [`chapter4.rpy`](#chapter4rpy).
 * At line 869, 1146: Corrected uppercase letter to lowercase after colon.
@@ -364,7 +364,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`bryce4.rpy`](italiantl/bryce4.rpy)
 
-* At line 117, 652: Note that this line also triggers if `Bryce` never said he *wanted to get out of \[his\] apartment* by message. Affected sequences: put `Bryce` in a `neutral` mood in [`bryce3.rpy`](#bryce3rpy).
+* At line 117, 652: Note that this line also triggers if `Bryce` never said he *wanted to get out of [his] apartment* by message. Affected sequences: put `Bryce` in a `neutral` mood in [`bryce3.rpy`](#bryce3rpy).
 * At line 123, 336, 361, 379: Corrected uppercase letter of *Chief* to lowercase; see line 1946 of [`chapter3.rpy`](#chapter3rpy).
 * At line 123: Corrected uppercase letter of *Police* to lowercase, to match corrected lowercase letter of *chief*.
 * At line 226: Unfolded *5-10* → *five-ten*, for elegance.
@@ -439,6 +439,23 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1461: Corrected *Alliyah* → *Aaliyah*.
 * At line 1183: Assumed *you* is referred to the dragons.
 * At line 1201-1206: Note that these lines also trigger if `Remy` was already given a PDA. Affected sequences: take the PDA to the library in [`chapter4.rpy`](#chapter4rpy).
+
+### [`remy2.rpy`](italiantl/remy2.rpy)
+
+* At line 277, 328, 338, 863, 951: Corrected simple dash to em-dash.
+* At line 277: Corrected lowercase letter to uppercase after full stop.
+* At line 364, 368: Added space before image, to match line 360 and numerous other lines throughout the script.
+* At line 448: Corrected missing full stop.
+* At line 543: Assumed *its* is referred to the *frying meat* at line 537, and corrected *its fragrant odor* → *that fragrant odor* to also match *the frying steaks* at line 541.
+* At line 674: Slightly pruned to fit fewer lines.
+* At line 702: Corrected two-dots ellipsis to three-dots.
+* At line 717, 861: Corrected uppercase letter to lowercase after colon.
+* At line 861: Rendered *woman* as *dragoness*.
+* At line 849-907: Note that these lines may also be triggered if `Anna` didn't survive. Affected sequences: don't see `Anna`'s good ending, play [`anna1.rpy`](#anna1rpy), don't play [`anna2.rpy`](#anna2rpy) or play that scene and put `Anna` in a `bad` mood.
+* At line 857: Corrected present tense *she wants* to simple past, to account for the case where the player character already went through `Anna`'s tests in [`anna3.rpy`](#anna3rpy).
+* At line 962: Assumed *you* is referred to the human race.
+* At line 964, 1065: Assumed *you*(*r*) is referred to the dragons.
+* At line 1319: Assumed *you* is referred to the player character.
 
 ## Other remarks
 

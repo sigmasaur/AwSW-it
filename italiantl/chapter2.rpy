@@ -2493,7 +2493,7 @@ translate italiantl chap2libmenu_78f0f2f1:
 translate italiantl chap2libmenu_56bea75a:
 
     # Ry normal "It's really nothing of great importance. Are you aware of a certain prehistoric underground building we recently discovered?"
-    Ry normal "Davvero, non è niente di così importante. Sei a conoscenza di una certa costruzione sotterranea preistorica che abbiamo scoperto di recente?"
+    Ry normal "Davvero, non è niente di così importante. Sei al corrente di una certa costruzione sotterranea preistorica che abbiamo scoperto di recente?"
 
 # game/chapter2.rpy:2154
 translate italiantl chap2libmenu_fb0b8078:
@@ -2679,7 +2679,7 @@ translate italiantl chap2libmenu_66c23589:
 translate italiantl chap2libmenu_1ec81466:
 
     # Ry "You have a few good points, so I guess it's only fair. Hopefully with less things being broken this time around, though."
-    Ry "Hai portato dei buoni argomenti, quindi immagino sia solo che giusto. Mi auguro stavolta con meno cose infrante, però." # "things being broken" -> "broken things"; "broken" as in "broken heart" => "spezzate", "infrante"
+    Ry "Hai portato dei buoni argomenti, quindi immagino sia solo giusto. Mi auguro stavolta con meno cose infrante, però." # "things being broken" -> "broken things"; "broken" as in "broken heart" => "spezzate", "infrante"
 
 # game/chapter2.rpy:2253
 translate italiantl chap2libmenu_04d95a1f:
@@ -2811,7 +2811,7 @@ translate italiantl _call_syscheck_53_803f0293:
 translate italiantl _call_syscheck_53_32642f7c:
 
     # s "You acquired an Ixomen Sphere part (Orb). Orbsome!{image=image/ui/status/orb_taken.png}"
-    s "Hai acquisito una parte di Sfera di Ixomen (Orbe). Orbezzoli! {image=image/ui/status/orb_taken.png}" # adapted to preserve a pun
+    s "Hai acquisito una parte di Sfera di Ixomen (Orbe). Orbezzoli! {image=image/ui/status/orb_taken.png}" # adapted to preserve a pun; added space
 
 # game/chapter2.rpy:2427
 translate italiantl _call_syscheck_53_4c490094:
@@ -4173,7 +4173,7 @@ translate italiantl _call_popularcheck_10_38062cc6:
 translate italiantl _call_popularcheck_10_26eaf959:
 
     # c "(Considering what happened last time, entering the literal dragon's den could either turn out really well, or not so much.)"
-    c "(Considerando cos'è successo l'ultima volta, entrare letteralmente nella tana del drago può solo che andare a finire molto bene, oppure molto male.)"
+    c "(Considerando cos'è successo l'ultima volta, entrare letteralmente nella tana del drago può solo andare a finire molto bene, oppure molto male.)"
 
 # game/chapter2.rpy:4274
 translate italiantl _call_popularcheck_11_d18e1351:

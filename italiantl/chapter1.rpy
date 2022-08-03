@@ -160,7 +160,7 @@ translate italiantl begingame_c9f110ae:
 translate italiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Avevo già sentito di una simile tecnologia, anche se per lo più a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi l'avesse costruito, né quando—o perché l'avessimo trovato nella desolazione in cui l'avevamo trovato. Ma ciò che per noi fu più entusiasmante era il fatto che... funzionasse." # corrected em-dash; "were under consideration" -> "had been under consideration"; "BUT what was more exciting"
+    n "Avevo già sentito di una simile tecnologia, anche se per lo più a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi l'avesse costruito, né quando—o perché l'avessimo trovato nella desolazione in cui l'avevamo trovato. Ma ciò che per noi fu più entusiasmante era il fatto che... funzionasse." # corrected em-dash; corrected past tense "were under consideration" -> "had been under consideration"; "BUT what was more exciting"
 
 # game/chapter1.rpy:433
 translate italiantl begingame_337d015e:
@@ -602,7 +602,7 @@ translate italiantl holetravel_437d1607:
 translate italiantl holetravel_6e0c5972:
 
     # m "By this point, it had gotten so dark that I could barely make out the building before us. I briefly wondered whether they might have street lights elsewhere, or if they just did not require any due to possible enhanced eyesight or night vision."
-    m "A quel punto, si era fatto talmente buio che riuscivo appena a distinguere l'edificio davanti a noi. Mi domandai brevemente se altrove potessero avere dei lampioni, o se semplicemente non ne avessero bisogno possibilmente grazie a un'aumentata capacità visiva o una visione notturna."
+    m "A quel punto, si era fatto talmente buio che riuscivo appena a distinguere l'edificio davanti a noi. Mi domandai brevemente se altrove potessero avere dei lampioni, o se semplicemente non ne avessero bisogno possibilmente grazie a un'aumentata capacità visiva o una visione notturna." # "due to possible" -> "possibly thanks to"
 
 # game/chapter1.rpy:696
 translate italiantl holetravel_4bcd03cc:
@@ -1134,7 +1134,7 @@ translate italiantl _call_skipcheck_2_115c34c4:
 translate italiantl _call_skipcheck_2_86653501:
 
     # An "I work in biology, so obviously this kind of thing would be very interesting to us. I'd share the results with you, of course."
-    An "Io lavoro in biologia, e quindi ovviamente questo genere di cose sarebbero di grande interesse per noi. Condividerei i risultati con te, è chiaro."
+    An "Io lavoro in biologia, e quindi ovviamente questo genere di cose sarebbero di grande interesse per noi. Condividerei i risultati con te, è chiaro." # "very interesting" -> "of high interest"
 
 # game/chapter1.rpy:1466
 translate italiantl _call_skipcheck_2_747d3bb6:
@@ -1194,19 +1194,19 @@ translate italiantl _call_skipcheck_2_7e89f10e:
 translate italiantl _call_syscheck_4_90c87390:
 
     # s "You gave Anna your blood!{image=image/ui/status/havetestresults.png}"
-    s "Hai donato ad [An] il tuo sangue! {image=image/ui/status/havetestresults.png}"
+    s "Hai donato ad [An] il tuo sangue! {image=image/ui/status/havetestresults.png}" # added space
 
 # game/chapter1.rpy:1507
 translate italiantl _call_syscheck_4_32106a9e:
 
     # s "You gave Anna your blood?{image=image/ui/status/havetestresults.png}"
-    s "Hai donato ad [An] il tuo sangue? {image=image/ui/status/havetestresults.png}"
+    s "Hai donato ad [An] il tuo sangue? {image=image/ui/status/havetestresults.png}" # added space
 
 # game/chapter1.rpy:1511
 translate italiantl _call_syscheck_4_62f75a4e:
 
     # s "You gave Anna your blood? Oh, well...{image=image/ui/status/havetestresults.png}"
-    s "Hai donato ad [An] il tuo sangue? Oh, be'... {image=image/ui/status/havetestresults.png}"
+    s "Hai donato ad [An] il tuo sangue? Oh, be'... {image=image/ui/status/havetestresults.png}" # added space
 
 # game/chapter1.rpy:1515
 translate italiantl _call_syscheck_4_6ef34d2e:
@@ -1440,7 +1440,7 @@ translate italiantl _call_skipcheck_3_d29fed27:
 translate italiantl _call_skipcheck_3_cf34577b:
 
     # Rz "As I was saying, if you look at the big picture, don't you think there's just something... off about this whole place? Where is it, really?"
-    Rz "Come stavo dicendo, se guardi al quadro generale, non credi ci sia semplicemente qualcosa che... non va in quest'intero posto? Dove si trova, veramente?"
+    Rz "Come stavo dicendo, se guardi al quadro generale, non credi ci sia semplicemente qualcosa di... strano in quest'intero posto? Dove si trova, veramente?"
 
 # game/chapter1.rpy:1704
 translate italiantl _call_skipcheck_3_15dfbdc0:

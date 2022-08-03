@@ -351,7 +351,7 @@ translate italiantl _call_skipcheck_6_143bfecc:
 translate italiantl _call_skipcheck_6_1169c260:
 
     # Br brow "We can both tell the model's not very good. I don't really have the patience or the dexterity for it."
-    Br brow "Lo vediamo entrambi che il modellino non è molto buono. Non è che ne abbia la pazienza o l'abilità."
+    Br brow "Lo vediamo entrambi che il modellino non è molto buono. Non è che abbia la pazienza o l'abilità per questo."
 
 # game/bryce2.rpy:349
 translate italiantl _call_skipcheck_6_a9701837:
@@ -807,7 +807,7 @@ translate italiantl _call_skipcheck_6_4f31a8a2:
 translate italiantl _call_skipcheck_6_7eda1fac:
 
     # Br smirk "Now that's the spirit."
-    Br smirk "Questo sì che è lo spirito."
+    Br smirk "Questo è lo spirito."
 
 # game/bryce2.rpy:616
 translate italiantl _call_skipcheck_6_f2b923d4:
@@ -921,7 +921,7 @@ translate italiantl _call_syscheck_32_71566561:
 translate italiantl _call_syscheck_32_04c4eff5:
 
     # m "Curiosity got the best of me and I found myself staring at the first double page, which profiled their {i}Athlete of the Month{/i}. It was accompanied by a range of pictures showing off the athlete's body from different angles in a number of poses."
-    m "La mia curiosità ebbe la meglio e mi ritrovai a fissare il primo paginone, il quale profilava il loro {i}Atleta del Mese{/i}. Era accompagnato da una gamma di immagini che mettevano in mostra il corpo dell'atleta da angoli diversi e in una serie di pose." # "AND in a number of poses"
+    m "La mia curiosità ebbe la meglio e mi ritrovai a fissare il primo paginone, il quale profilava il loro {i}Atleta del Mese{/i}. Era accompagnato da una serie di immagini che mettevano in mostra il corpo dell'atleta da angoli diversi e in una serie di pose." # "AND in a number of poses"
 
 # game/bryce2.rpy:741
 translate italiantl _call_syscheck_33_fc079ab9:
@@ -1095,7 +1095,7 @@ translate italiantl bryce2cont2_c5aed8d5:
 translate italiantl bryce2cont2_7f12ef81:
 
     # Br brow "Maybe that's something I should practice as well. It'd be a good exercise in discipline."
-    Br brow "Forse è qualcos'altro su cui dovrei far pratica. Sarebbe un buon esercizio di disciplina."
+    Br brow "Forse è un'altra cosa su cui dovrei far pratica. Sarebbe un buon esercizio di disciplina."
 
 # game/bryce2.rpy:858
 translate italiantl bryce2cont2_9d65b005:
@@ -1455,7 +1455,7 @@ translate italiantl bryce2cont2_7246fcb6:
 translate italiantl bryce2cont2_503fe0b3:
 
     # Br normal "That was exhausting. Just the right time for a beer."
-    Br normal "È stato estenuante. Proprio il momento giusto per una birra."
+    Br normal "È stato estenuante. Giusto il momento per una birra."
 
 # game/bryce2.rpy:1047
 translate italiantl bryce2cont2_c7f776d5:

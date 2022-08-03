@@ -58,7 +58,7 @@ translate italiantl _call_skipcheck_1_6c47b3ad:
 translate italiantl _call_skipcheck_1_86c97d7a:
 
     # Br laugh "Well, I figured yours couldn't be any worse than mine. And now that I'm seeing it from the inside, I have to say the council didn't do a bad job with it at all."
-    Br laugh "Be', ho pensato che il tuo non potesse essere peggio del mio. E ora che lo vedo dall'interno, devo dire che il consiglio ha fatto un lavoro per niente male." # "didn't do a bad job [with it] at all"
+    Br laugh "Be', ho pensato che il tuo non potesse essere peggio del mio. E adesso che lo vedo dall'interno, devo dire che il consiglio ha fatto un lavoro niente affatto male." # "didn't do a bad job [with it] at all"
 
 # game/bryce4.rpy:121
 translate italiantl _call_skipcheck_1_670439dc:

@@ -466,7 +466,7 @@ translate italiantl _call_endingjustafewminuteslater_1_9210c9b8:
 translate italiantl _call_endingjustafewminuteslater_1_f517466a:
 
     # m "After a bit of rest, she was able to get up and we walked outside."
-    m "Dopo un po' di riposo, fu in grado di alzarsi e uscimmo all'esterno."
+    m "Dopo un po' di riposo, fu in grado di rialzarsi e uscimmo all'esterno."
 
 # game/anna5.rpy:397
 translate italiantl _call_endingjustafewminuteslater_1_f31ebaec:
@@ -898,7 +898,7 @@ translate italiantl annagoodending_76b2fe88_3:
 translate italiantl annagoodending_0c2e4bec:
 
     # n "A few days later, she passed away quietly in her sleep."
-    n "Alcuni giorni più tardi, si spense serenamente nel sonno."
+    n "Pochi giorni più tardi, si spense serenamente nel sonno."
 
 # game/anna5.rpy:855
 translate italiantl annagoodending_bfaaa2f8:
@@ -922,7 +922,7 @@ translate italiantl annagoodending_376dedf9:
 translate italiantl annagoodending_2a6101fd:
 
     # n "This way, I could get the chance to try again."
-    n "In questo modo, avrei avuto l'occasione di tentare ancora."
+    n "In questo modo, avrei avuto la possibilità di tentare ancora."
 
 # game/anna5.rpy:863
 translate italiantl annagoodending_ac80eb02:

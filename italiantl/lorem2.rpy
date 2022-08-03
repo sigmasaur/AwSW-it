@@ -1030,7 +1030,7 @@ translate italiantl _call_skipcheck_33_6fe70916:
 translate italiantl _call_skipcheck_33_99d837a0:
 
     # Lo normal flip "If humans wear clothes like this, it's only appropriate to depict them as such."
-    Lo normal flip "Se gli umani indossano così i vestiti, è solo che appropriato raffigurarli come tali."
+    Lo normal flip "Se gli umani indossano così i vestiti, è solo appropriato raffigurarli come tali."
 
 # game/lorem2.rpy:728
 translate italiantl _call_skipcheck_33_8d211617:
@@ -1324,7 +1324,7 @@ translate italiantl _call_skipcheck_33_0f674586:
 translate italiantl _call_skipcheck_33_e79e88d6:
 
     # Lo happy flip "With varying results. Some I've seen looked really funny, trying to fit in chairs they are too big for, or sitting in odd ways that clearly don't work with their anatomy."
-    Lo happy flip "Con risultati variabili. Certi che ho visto sembravano davvero buffi, cercando di infilarsi in una sedia per la quale sono troppo grandi, o sedendo in modi strani che chiaramente non funzionano con la loro anatomia." # "A chair[s]"
+    Lo happy flip "Con risultati variabili. Certi che ho visto sembravano davvero buffi, cercando di entrare in una sedia per cui sono troppo grandi, o sedendo in modi strani che chiaramente non funzionano con la loro anatomia." # "A chair[s]"
 
 # game/lorem2.rpy:853
 translate italiantl _call_skipcheck_33_89aefe22:

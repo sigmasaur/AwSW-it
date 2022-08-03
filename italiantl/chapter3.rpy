@@ -618,7 +618,7 @@ translate italiantl c3conty_f80627b2:
 translate italiantl c3conty_10a22b96:
 
     # Br brow b "To be frank, I don't know. This is an extraordinary situation, and now that it's getting out of hand, they must want to address it."
-    Br brow b "Francamente, non lo so. Questa è una situazione fuori dall'ordinario, e ora che sta sfuggendo di mano, devono volerla affrontare."
+    Br brow b "Francamente, non lo so. Questa è una situazione fuori dall'ordinario, e adesso che sta sfuggendo di mano, devono volerla affrontare."
 
 # game/chapter3.rpy:1032
 translate italiantl c3conty_b5e2021c:
@@ -1104,13 +1104,13 @@ translate italiantl c3conty_0a0f89f3:
 translate italiantl c3conty_841f91fd:
 
     # Em "You, me and Bryce will have to face the backlash resulting from this information becoming public, and what's more, [player_name], you might be in real danger yourself."
-    Em "Tu, io e [Br] dovremmo far fronte al contraccolpo risultante dalla divulgazione di questa informazione, e per di più, [player_name], tu stessə potresti venire a trovarti in serio pericolo." # "will have to face" -> "would have to face"; "you might COME TO be"
+    Em "Tu, io e [Br] dovremmo far fronte al contraccolpo risultante dalla divulgazione di questa informazione, e per di più, [player_name], tu stessə potresti venire a trovarti in serio pericolo." # corrected conditional tense "will have to face" -> "would have to face"; "you might COME TO be"
 
 # game/chapter3.rpy:1266
 translate italiantl c3conty_6aa58db2:
 
     # Em frown "Reza himself may come to silence you once he learns that you are helping us. Or consider the public uproar from those who would question your involvement."
-    Em frown "[Rz] stesso potrebbe arrivare a farti tacere una volta che avesse appreso che ci stai aiutando. Oppure considera il tumulto popolare da parte di coloro che contesterebbero il tuo coinvolgimento." # "may come" -> "might come"; "learns" -> "learned"
+    Em frown "[Rz] stesso potrebbe arrivare a farti tacere una volta che avesse appreso che ci stai aiutando. Oppure considera il tumulto popolare da parte di coloro che contesterebbero il tuo coinvolgimento." # corrected conditional tense "may come" -> "might come", "learns" -> "learned"
 
 # game/chapter3.rpy:1268
 translate italiantl c3conty_eeff36cd:
@@ -5276,7 +5276,7 @@ translate italiantl c3sto_d534d27e:
 translate italiantl c3sto_e5690abb:
 
     # St "Vara, what are you still doing here? I already told you. You have to come back tomorrow."
-    St "[Vr], che ci fai tu ancora qui? Te l'ho già detto. Devi ritornare domani."
+    St "[Vr], che ci fai tu ancora qui? Te l'ho già detto. Devi tornare domani."
 
 # game/chapter3.rpy:3881
 translate italiantl c3sto_4a9dff6c:
@@ -5366,7 +5366,7 @@ translate italiantl stay_b7b5eaef:
 translate italiantl stay_f0ac37a9:
 
     # St "Unmistakably so. I couldn't make out any details, though. Honestly, if you were the figure, I wouldn't have been able to tell the difference."
-    St "Senza alcun dubbio. Non sono riuscito a distinguere i dettagli, però. Onestamente, se tu fossi statə al posto di quella figura, non sarei stato in grado di notare la differenza." # "the figure" -> "IN PLACE OF that figure"
+    St "Senza alcun dubbio. Non ho potuto distinguere i dettagli, però. Onestamente, se tu fossi statə quella figura, non sarei stato in grado di notare la differenza." # "the figure" -> "that figure"
 
 # game/chapter3.rpy:3965
 translate italiantl stay_7e485505:
@@ -5480,7 +5480,7 @@ translate italiantl follow_338906d7:
 translate italiantl follow_4e8538c2:
 
     # m "When I peered inside, I saw Vara alongside a much larger, orange dragon. The small dragon filled a bowl with a thick fluid and placed it front of the other."
-    m "Quando sbirciai all'interno, vidi [Vr] a fianco di un drago molto più grosso e di un colore arancio. Il piccolo drago riempì una ciotola con del liquido viscoso e la pose di fronte all'altro."
+    m "Quando sbirciai all'interno, vidi [Vr] a fianco di un drago molto più grosso e color arancio. Il piccolo drago riempì una ciotola con del liquido viscoso e la pose di fronte all'altro."
 
 # game/chapter3.rpy:4048
 translate italiantl follow_b36cdb39:
@@ -5492,7 +5492,7 @@ translate italiantl follow_b36cdb39:
 translate italiantl follow_b788615d:
 
     # m "I realized then, that other than what Vara had done, the orange dragon hadn't moved at all since I arrived."
-    m "Realizzai allora, che a parte quello che aveva fatto [Vr], il drago di colore arancio non si era affatto mosso da quando ero arrivatə."
+    m "Realizzai allora, che a parte quello che aveva fatto [Vr], il drago color arancio non si era affatto mosso da quando ero arrivatə."
 
 # game/chapter3.rpy:4074
 translate italiantl follow_25717af4:
@@ -5612,19 +5612,19 @@ translate italiantl follow_59087957:
 translate italiantl _call_syscheck_23_fd5f30ca:
 
     # s "You followed Vara!{image=image/ui/status/varasaved.png}"
-    s "Hai seguito [Vr]! {image=image/ui/status/varasaved.png}"
+    s "Hai seguito [Vr]! {image=image/ui/status/varasaved.png}" # added space
 
 # game/chapter3.rpy:4140
 translate italiantl _call_syscheck_23_0093ddcb:
 
     # s "You followed Vara. Well done, [player_name].{image=image/ui/status/varasaved.png}"
-    s "Hai seguito [Vr]. Ben fatto, [player_name]. {image=image/ui/status/varasaved.png}"
+    s "Hai seguito [Vr]. Ben fatto, [player_name]. {image=image/ui/status/varasaved.png}" # added space
 
 # game/chapter3.rpy:4144
 translate italiantl _call_syscheck_23_0093ddcb_1:
 
     # s "You followed Vara. Well done, [player_name].{image=image/ui/status/varasaved.png}"
-    s "Hai seguito [Vr]. Ben fatto, [player_name]. {image=image/ui/status/varasaved.png}"
+    s "Hai seguito [Vr]. Ben fatto, [player_name]. {image=image/ui/status/varasaved.png}" # added space
 
 # game/chapter3.rpy:4167
 translate italiantl c3go_158f7686:
@@ -6110,7 +6110,7 @@ translate italiantl _call_popularcheck_2_ca9231e1:
 translate italiantl _call_popularcheck_2_26eaf959:
 
     # c "(Considering what happened last time, entering the literal dragon's den could either turn out really well, or not so much.)"
-    c "(Considerando cos'è successo l'ultima volta, entrare letteralmente nella tana del drago può solo che andare a finire molto bene, oppure molto male.)" # see line 4232 of chapter 2
+    c "(Considerando cos'è successo l'ultima volta, entrare letteralmente nella tana del drago può solo andare a finire molto bene, oppure molto male.)" # see line 4232 of chapter 2
 
 # game/chapter3.rpy:4826
 translate italiantl _call_popularcheck_3_f0e796f3:
