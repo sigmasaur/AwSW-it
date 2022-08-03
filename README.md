@@ -45,6 +45,7 @@ Currently working on `Remy`'s sections. Files done and up for review:
     lorem5.rpy
 
     remy1.rpy
+    remy2.rpy
 
 ## Remarks and issues
 
