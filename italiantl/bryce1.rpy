@@ -1896,7 +1896,7 @@ translate italiantl bryce1skip_3275e9ef:
 translate italiantl bryce1skip_c38f9204:
 
     # Br "Guess you should be going as well, kiddo. Maybe I'll see you some other time."
-    Br "Immagino che dovresti andare anche tu, ragazzə. Magari ci rivediamo una qualche altra volta."
+    Br "Immagino che dovresti andare anche tu, ragazzə. Magari ci rivediamo un'altra volta."
 
 # game/bryce1.rpy:1406
 translate italiantl bryce1skip_97c9b7f4_1:
@@ -1926,7 +1926,7 @@ translate italiantl bryce1skip_51e1a649_1:
 translate italiantl bryce1skip_9eb38675:
 
     # Br "Maybe I'll invite you over some other time and show you that there's more to the chief of police than getting drunk and passing out?"
-    Br "Se magari ti invitassi una qualche altra volta e ti mostrassi che il capo di polizia sa fare di più che ubriacarsi e svenire?" # see line 1380
+    Br "Se magari ti invitassi un'altra volta e ti mostrassi che il capo di polizia sa fare di più che ubriacarsi e svenire?" # see line 1380
 
 # game/bryce1.rpy:1413
 translate italiantl bryce1skip_70fb6772:

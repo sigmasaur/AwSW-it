@@ -892,7 +892,7 @@ translate italiantl _call_no_78d4fc30:
 translate italiantl _call_no_ec12e33c:
 
     # c "Come on, Reza. The murders only started happening after you were gone, and the police have gathered plenty of evidence. You're the only one with a motive."
-    c "Avanti, [Rz]. Gli omicidi hanno iniziato ad accadere solo dopo che sei scomparso, e la polizia ha raccolto prove in abbondanza. Tu sei l'unico con un movente."
+    c "Avanti, [Rz]. Gli omicidi sono iniziati solo dopo che sei scomparso, e la polizia ha raccolto prove in abbondanza. Tu sei l'unico con un movente." # "started [happening]"
 
 # game/bryce5.rpy:735
 translate italiantl _call_no_eac8b4a1:

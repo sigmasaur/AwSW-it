@@ -2189,7 +2189,7 @@ translate italiantl bryce3pass_bda2b32f:
 translate italiantl bryce3pass_ba951545:
 
     # Br laugh "Our kind will probably never be able to climb much at all, but I can at least try to better myself. I guess the whole experience also kinda explains why I'm building those stupid wooden models now."
-    Br laugh "La nostra specie probabilmente non sarà mai in grado di arrampicarsi granché, ma almeno posso provarci per migliorare me stesso. Immagino che l'intera esperienza un po' spieghi perché ora costruisco quegli stupidi modellini di legno."
+    Br laugh "La nostra specie probabilmente non sarà mai in grado di arrampicarsi più di tanto, ma almeno posso provarci per migliorarmi. Immagino che l'intera esperienza un po' spieghi anche perché ora costruisco quegli stupidi modellini di legno."
 
 # game/bryce3.rpy:1203
 translate italiantl bryce3pass_7d5ab954:
@@ -2213,7 +2213,7 @@ translate italiantl bryce3pass_5d8fffc2:
 translate italiantl bryce3pass_975dadae:
 
     # Br normal "I suppose I'll have to tell you about the second scar some other time. Let's head back now, shall we?"
-    Br normal "Suppongo che dovrò raccontarti della seconda cicatrice una qualche altra volta. Torniamo indietro adesso, ti va?"
+    Br normal "Suppongo che dovrò raccontarti della seconda cicatrice un'altra volta. Torniamo indietro adesso, ti va?"
 
 # game/bryce3.rpy:1211
 translate italiantl bryce3pass_c48dc32f:
@@ -2273,7 +2273,7 @@ translate italiantl bryce3skip_31c58015:
 translate italiantl bryce3skip_a912d58c:
 
     # Br normal "Maybe you can do so some another time."
-    Br normal "Forse potrai farlo una qualche altra volta."
+    Br normal "Forse potrai farlo un'altra volta."
 
 # game/bryce3.rpy:1251
 translate italiantl bryce3skip_11bd1472:
@@ -2507,11 +2507,11 @@ translate italiantl strings:
 
     # bryce3.rpy:636
     old "I do."
-    new "Ti credo."
+    new "Sì." # must match lines 3186 of chapter 2, 183 of Remy 3, 174 of Emera
 
     # bryce3.rpy:636
     old "Sorry, I don't."
-    new "Scusa, non ti credo."
+    new "Scusa, ma no."
 
     # bryce3.rpy:636
     old "Sorry, I'm not taking sides on this one."

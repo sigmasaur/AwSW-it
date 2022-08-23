@@ -482,7 +482,7 @@ translate italiantl begingame_3ba6854d:
 translate italiantl begingame_0d6baf11:
 
     # n "{cps=80}Both horrifying and beautiful, it was an experience unlike any other, yet over in just a split second.{/cps}"
-    n "{cps=80}Entrambe terrificante e meravigliosa, fu un'esperienza come nessun'altra, eppure esaurita in una frazione di secondo.{/cps}"
+    n "{cps=80}Entrambe terrificante e meravigliosa, fu un'esperienza come nessun'altra, eppure esaurita in una frazione di secondo.{/cps}" # "beautiful" -> "wonderful"
 
 # game/chapter1.rpy:613
 translate italiantl begingame_76b2fe88_5:
@@ -1212,13 +1212,13 @@ translate italiantl _call_syscheck_4_62f75a4e:
 translate italiantl _call_syscheck_4_6ef34d2e:
 
     # An "Looks like your PDA is good, by the way, so we're just about done here."
-    An "Sembra che il tuo palmare sia a posto, comunque, quindi abbiamo praticamente finito qui."
+    An "Sembra che il vostro palmare sia a posto, comunque, quindi abbiamo praticamente finito qui."
 
 # game/chapter1.rpy:1516
 translate italiantl _call_syscheck_4_efd29328:
 
     # An "And since we're both in biology, it could be interesting if you want to meet me some other time as well. Here's my number."
-    An "E dal momento che siamo entrambi in biologia, potrebbe essere interessante se mi volessi incontrare anche una qualche altra volta. Ecco il mio numero."
+    An "E dal momento che siamo entrambɜ in biologia, potrebbe essere interessante se mi volessi incontrare anche un'altra volta. Ecco il mio numero."
 
 # game/chapter1.rpy:1517
 translate italiantl _call_syscheck_4_86148265:
@@ -2529,7 +2529,7 @@ translate italiantl _call_syscheck_7_217fb58f:
 translate italiantl _call_syscheck_7_771a3b0c:
 
     # n "I have no doubt of my father's political achievements, yet only those who had to live with him know that these successes came at the price of his very soul. An empty shell of a dragon driven by nothing but his performance as a politician, not as a father."
-    n "Non ho dubbi sui raggiungimenti politici di mio padre, eppure solo coloro che dovettero vivergli accanto sanno che tali successi vennero a costo della sua anima. Un guscio vuoto di un drago guidato da nient'altro che la sua prestazione come politico, non come padre." # slightly pruned to fit three lines; "these successes" -> "such successes"
+    n "Non ho dubbi sui raggiungimenti politici di mio padre, eppure solo coloro che dovettero vivergli accanto sanno che tali successi vennero a costo della sua anima. Un guscio vuoto di un drago guidato da niente più che la sua prestazione come politico, non come padre." # slightly pruned to fit three lines; "these successes" -> "such successes"
 
 # game/chapter1.rpy:2398
 translate italiantl _call_syscheck_7_e52d75f4:
@@ -3407,7 +3407,7 @@ translate italiantl continuation_9f6c2417:
 translate italiantl continuation_4c1fa005:
 
     # c "No, not really. We didn't get a chance to talk much at all yesterday, before..."
-    c "No, non proprio. Non abbiamo avuto occasione di parlare quasi per niente ieri, prima che..."
+    c "No, non proprio. Non abbiamo avuto occasione di parlare più di tanto ieri, prima che..."
 
 # game/chapter1.rpy:3052
 translate italiantl continuation_75ddc3b5:
@@ -3461,7 +3461,7 @@ translate italiantl continuation_36b1d91b:
 translate italiantl continuation_b1d6e9a7:
 
     # c "You even already have our PDAs and we don't have much to show for it yet. If we had any nefarious plans, this wouldn't have been a very good idea."
-    c "Voi avete anche già il nostro palmare senza che noi abbiamo ancora granché in cambio. Se avessimo avuto cattive intenzioni, questa non sarebbe stata una gran bella idea." # "PDA[s]"
+    c "Voi avete anche già il nostro palmare senza che noi abbiamo ancora granché in cambio. Se avessimo avuto cattive intenzioni, questa non sarebbe stata una gran buona idea." # "PDA[s]"
 
 # game/chapter1.rpy:3069
 translate italiantl continuation_331ab8bc:
@@ -4863,7 +4863,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1653
     old "You were able to correctly identify our species based on what we look like, congratulations!"
-    new "Sei stata capace di identificare correttamente la nostra specie in base al nostro aspetto, congratulazioni!"
+    new "Sei stata capace di identificare correttamente la nostra specie sulla base del nostro aspetto, congratulazioni!"
 
     # chapter1.rpy:1653
     old "Wait, where?"

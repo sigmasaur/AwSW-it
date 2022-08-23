@@ -124,7 +124,7 @@ translate italiantl c4resultscontinue_99f8a50b:
 translate italiantl _call_skiptut_20_44e0ddc6:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip ahead a bit?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare un po' avanti?" # "scene" -> "section" to match previous messages
+    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare un po' avanti?" # corrected "scene" -> "section" to match other messages
 
 # game/chapter4.rpy:660
 translate italiantl _call_skiptut_20_690da0b1:
@@ -460,7 +460,7 @@ translate italiantl _call_skipcheck_20_8a0faf93:
 translate italiantl _call_skipcheck_20_72660e75:
 
     # Mv "When he was at the portal a few days ago, I nearly got him and managed to follow him for a while before I lost him. Based on that, where he's been and where his victims have been found, I could triangulate his whereabouts."
-    Mv "Quando era al portale qualche giorno fa, l'avevo quasi preso e sono riuscito a seguirlo per un po' prima di perderlo. Sulla base di questo, dov'è lui stato e dove le sue vittime sono state rinvenute, ho potuto triangolare la sua posizione."
+    Mv "Quando era al portale qualche giorno fa, l'avevo quasi preso e sono riuscito a seguirlo per un po' prima di perderlo. In base a questo, dove lui è stato e dove le sue vittime sono state rinvenute, ho potuto triangolare la sua posizione."
 
 # game/chapter4.rpy:856
 translate italiantl _call_skipcheck_20_6a6fb80d:
@@ -3571,7 +3571,7 @@ translate italiantl c4library_c44802b0:
 translate italiantl c4library_93602a76:
 
     # Sb "You think she was bullying him? That's a big accusation to make. You know who she is, right?"
-    Sb "Pensi che lo molestasse? È un'accusa pesante da muovere. Lo sai chi è lei, giusto?"
+    Sb "Pensi che gli usasse molestia? È un'accusa pesante da muovere. Lo sai chi è lei, giusto?"
 
 # game/chapter4.rpy:3065
 translate italiantl c4library_4ccb10f0:

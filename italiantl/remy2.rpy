@@ -4,19 +4,19 @@
 translate italiantl _call_skiptut_34_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "I miei registri indicano che hai già sperimentato questa scena in maniera soddisfacente. Desideri saltare alla fine?"
+    s "I miei registri indicano che hai già sperimentato questa scena in maniera soddisfacente. Desideri saltare un po' avanti?" # corrected skip message
 
 # game/remy2.rpy:58
 translate italiantl _call_skiptut_34_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questo prima d'ora. Saltare un po' avanti?" # corrected skip message
 
 # game/remy2.rpy:66
 translate italiantl _call_skiptut_34_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti." # corrected skip message
 
 # game/remy2.rpy:81
 translate italiantl _call_skiptut_34_0054b77b:
@@ -592,7 +592,7 @@ translate italiantl remy2menu2_1223f003:
 translate italiantl remy2menu2_8d7d4662:
 
     # c "I saw as much. You may have heard that I have a degree in biology, which is one of the reasons I was given the honor of coming here in the first place. As such, your anatomy is of high interest to me and one of the things I'm supposed to study."
-    c "Ho visto. Potresti aver sentito che ho una laurea in biologia, che è una delle ragioni per cui sin dall'inizio ho avuto l'onore di venire qui. Pertanto, la tua anatomia è di grande interesse per me, e una delle cose che si suppone io studi." # "as such" -> "therefore"; see line 233 of Lorem 3
+    c "Ho visto. Potresti aver sentito che ho una laurea in biologia, che è una delle ragioni per cui sin dall'inizio ho avuto l'onore di venire qui. E pertanto, la tua anatomia è di grande interesse per me, e una delle cose che si suppone io studi." # "as such" -> "therefore"; see line 233 of Lorem 3
 
 # game/remy2.rpy:596
 translate italiantl remy2menu2_ca8681b9:
@@ -730,7 +730,7 @@ translate italiantl remy2picturesmenu_d1669bb2:
 translate italiantl remy2picturesmenu_9a6d275a:
 
     # c "They can be. Where I come from, incidences like this are unfortunately fairly common."
-    c "Sanno esserlo, sì. Da dove vengo, incidenti come questo sfortunatamente sono piuttosto comuni."
+    c "Sanno esserlo, sì. Da dove vengo, incidenti come questo purtroppo sono piuttosto comuni."
 
 # game/remy2.rpy:702
 translate italiantl remy2picturesmenu_cf8ea549:

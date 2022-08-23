@@ -28,7 +28,7 @@ translate italiantl lorem5_9365f413:
 translate italiantl lorem5_cfddec83:
 
     # c "(It's probably not the best time to take it with me. I'll give it to Ipsum some other time.)"
-    c "(Probabilmente non è il momento migliore per prenderla con me. La darò a [Ip] una qualche altra volta.)"
+    c "(Probabilmente non è il momento migliore per prenderla con me. La darò a [Ip] un'altra volta.)"
 
 # game/lorem5.rpy:30
 translate italiantl lorem5_ed892e4e:
@@ -118,7 +118,7 @@ translate italiantl lorem5_fa30b21e:
 translate italiantl lorem5_e8553cda:
 
     # c "That's alright. Just remind me to give it to you later."
-    c "Nessun problema. Solo ricordami di dartela dopo."
+    c "Va bene. Solo ricordami di dartela dopo."
 
 # game/lorem5.rpy:77
 translate italiantl lorem5_8b3fe1d3:

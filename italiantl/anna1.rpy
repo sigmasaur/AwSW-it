@@ -1072,7 +1072,7 @@ translate italiantl _call_skipcheck_7_8dd493bd:
 translate italiantl _call_skipcheck_7_2fa2fb8c:
 
     # An "How could you even know something like that? You have only been here for what, a few days?"
-    An "Ma come facevi a sapere una cosa del genere? Sei statə qui solo per quanto, qualche giorno?"
+    An "Ma come potevi sapere una cosa del genere? Sei statə qui solo per quanto, qualche giorno?"
 
 # game/anna1.rpy:814
 translate italiantl _call_skipcheck_7_900ba916:

@@ -1862,7 +1862,7 @@ translate italiantl strings:
 
     # lorem4.rpy:755
     old "I don't mind."
-    new "Non mi dà fastidio."
+    new "Non importa." # must match line 218 of Remy 3
 
     # lorem4.rpy:755
     old "I'm not sure what to say."

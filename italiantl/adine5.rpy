@@ -520,7 +520,7 @@ translate italiantl _call_endingjustafewminuteslater_4_e64367db:
 translate italiantl _call_endingjustafewminuteslater_4_c70d6beb:
 
     # c "Unfortunately, no. These coordinates are tied to my biometric data. Only I can use them."
-    c "Sfortunatamente, no. Quelle coordinate sono vincolate ai miei dati biometrici. Soltanto io posso usarle." # see line 4659 of chapter 4; "these coordinates" -> "those coordinates"
+    c "Purtroppo, no. Quelle coordinate sono vincolate ai miei dati biometrici. Soltanto io posso usarle." # see line 4659 of chapter 4; "these coordinates" -> "those coordinates"
 
 # game/adine5.rpy:402
 translate italiantl _call_endingjustafewminuteslater_4_3a48fa0a:
@@ -844,7 +844,7 @@ translate italiantl adinegoodending_f85ecedc:
 translate italiantl adinegoodending_592747cc:
 
     # As "Unfortunately, I'm starting to realize now that this won't be possible."
-    As "Sfortunatamente, inizio adesso a rendermi conto che non sarà possibile portarla a termine." # "this won't be possible" -> "it won't be possible TO EXECUTE IT"
+    As "Purtroppo, inizio adesso a rendermi conto che non sarà possibile portarla a termine." # "this won't be possible" -> "it won't be possible TO EXECUTE IT"
 
 # game/adine5.rpy:816
 translate italiantl adinegoodending_3070bc42:
@@ -862,7 +862,7 @@ translate italiantl adinegoodending_ab7edf21:
 translate italiantl adinegoodending_64686105:
 
     # As "Unfortunately, this means that our connection to humanity's portal is lost."
-    As "Sfortunatamente, ciò significa che la nostra connessione al portale dell'umanità è perduta."
+    As "Purtroppo, ciò significa che la nostra connessione al portale dell'umanità è perduta."
 
 # game/adine5.rpy:822
 translate italiantl adinegoodending_90f66186:

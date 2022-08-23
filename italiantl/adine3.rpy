@@ -826,7 +826,7 @@ translate italiantl _call_skipcheck_9_573a847a:
 translate italiantl _call_skipcheck_9_69d58151:
 
     # m "I tried to imagine what Adine building a sandcastle would look like. Based on what I knew now, she probably wouldn't be using her wings."
-    m "Tentai d'immaginarmi come sarebbe sembrata [Ad] nel costruire un castello di sabbia. Sulla base di quel che sapevo adesso, probabilmente non avrebbe usato le sue ali."
+    m "Tentai di immaginarmi come sarebbe sembrata [Ad] nel costruire un castello di sabbia. In base a quel che sapevo adesso, probabilmente non avrebbe usato le sue ali."
 
 # game/adine3.rpy:472
 translate italiantl _call_skipcheck_9_0d6c126b:
@@ -1750,7 +1750,7 @@ translate italiantl mpsave_d69e3382:
 translate italiantl mpsave_68326fa8:
 
     # Ad "My very own Adine's special. Or rather, [adinestagename!t]'s special. It's a routine I came up with and have been practicing for a while."
-    Ad "La mia personale specialità di [Ad]. O meglio, di [adinestagename!t]. È una coreografia che mi sono inventata e su cui faccio pratica ormai da un po'." # "[adinestagename!t]'s [special]"
+    Ad "La mia personale specialità di [Ad]. O meglio, di [adinestagename!t]. È una coreografia che mi sono inventata e su cui faccio pratica da un po'." # "[adinestagename!t]'s [special]"
 
 # game/adine3.rpy:1025
 translate italiantl mpsave_95b9862e:
@@ -2045,7 +2045,7 @@ translate italiantl adine3skip_1ed8a869:
 translate italiantl adine3skip_e9cf15f8:
 
     # Ad annoyed b "Well, he isn't the only one. I actually wanted to talk with him again, but if he doesn't respond, then I can't do anything, either."
-    Ad annoyed b "Be', non è certo l'unico. In effetti avrei voluto parlargli ancora, ma se non mi risponde, allora non posso farci niente." # "I can't do anything[, either]"
+    Ad annoyed b "Be', non è certo l'unico. In effetti avrei voluto parlare ancora con lui, ma se non mi risponde, allora non posso farci niente." # "I can't do anything[, either]"
 
 # game/adine3.rpy:1149
 translate italiantl adine3skip_89aefe22:

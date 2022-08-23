@@ -2040,7 +2040,7 @@ translate italiantl strings:
 
     # adine2.rpy:540
     old "I'd like to see a close relationship between this magazine and the trash can."
-    new "Mi piacerebbe vedere una relazione intima fra questa rivista e il cestino."
+    new "Mi piacerebbe vedere una relazione stretta fra questa rivista e il cestino."
 
     # adine2.rpy:540
     old "Sure, why not."

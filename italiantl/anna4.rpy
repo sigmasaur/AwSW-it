@@ -1246,7 +1246,7 @@ translate italiantl _call_skipcheck_18_4d3f3918:
 translate italiantl _call_skipcheck_18_74e6fa19:
 
     # An normal "Well, a council's aide - particularly one who works in the archives - is usually a member of a species with more dextrous hands. You can't really expect a four legged species to do that kind of job well."
-    An normal "Be', un assistente del consiglio—particolarmente uno che lavora negli archivi—di solito è membro di una specie con una maggiore manualità. Non puoi pretendere che una specie quadrupede svolga bene quel tipo di lavoro." # corrected em-dash
+    An normal "Be', un assistente del consiglio—particolarmente uno che lavora negli archivi—di solito è membro di una specie con una maggiore manualità. Non puoi pretendere che una specie quadrupede svolga bene quel tipo di lavoro." # corrected em-dash; "you can't [really] expect"
 
 # game/anna4.rpy:677
 translate italiantl _call_skipcheck_18_04f2322a:

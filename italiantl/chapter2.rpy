@@ -2601,7 +2601,7 @@ translate italiantl chap2libmenu_5fbaba76:
 translate italiantl chap2libmenu_53496c69:
 
     # Ry "I'm not sure, to be honest. There are a lot of things on my mind right now."
-    Ry "Non ne sono sicuro, ad essere onesti. Ho un sacco di cose per la testa in questo momento."
+    Ry "Non ne sono sicuro, ad essere onesti. Ho molte cose per la testa in questo momento."
 
 # game/chapter2.rpy:2220
 translate italiantl chap2libmenu_efe0e8c3:

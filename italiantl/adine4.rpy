@@ -616,7 +616,7 @@ translate italiantl _call_skipcheck_30_a09871d5:
 translate italiantl _call_skipcheck_30_dbeb7d2e:
 
     # m "Adine had been right. Some of them really were very good, but based on what I had seen at her practice session, she did have a shot at winning if everything went well for her."
-    m "[Ad] aveva ragione. Alcuni di loro erano davvero molto bravi, ma sulla base di quello che avevo visto alla sua sessione di allenamento, una possibilità di vincere ce l'aveva se le fosse andato tutto bene."
+    m "[Ad] aveva ragione. Alcuni di loro erano davvero molto bravi, ma in base a quello che avevo visto alla sua sessione di allenamento, una possibilità di vincere ce l'aveva se le fosse andato tutto bene."
 
 # game/adine4.rpy:337
 translate italiantl _call_skipcheck_30_93a336df:

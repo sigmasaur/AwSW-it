@@ -1356,7 +1356,7 @@ translate italiantl c3conty_9d9493a7:
 translate italiantl c3conty_ab202eb6:
 
     # n "Some people blamed whoever their belief system would allow, angry at the gods that had forsaken them. Others pointed their fingers at our lifestyle and society. Not that anyone was listening."
-    n "Alcuni incolparono chiunque il loro credo gli permettesse, in collera con gli dèi che li avevano abbandonati. Altri puntarono il dito contro il nostro stile di vita e la nostra società. Non che nessuno prestasse ascolto." # "their belief [system] would allow"
+    n "Alcuni incolparono chiunque il loro credo gli consentisse, in collera con gli dèi che li avevano abbandonati. Altri puntarono il dito contro il nostro stile di vita e la nostra società. Non che nessuno prestasse ascolto." # "their belief [system] would allow"
 
 # game/chapter3.rpy:1398
 translate italiantl c3conty_3ef53b09:
@@ -1452,7 +1452,7 @@ translate italiantl c3conty_ee894df7:
 translate italiantl c3conty_f51e7d87:
 
     # c "When Reza and I were sent here, my peers made it clear that this was our last chance. If anything happens to us, no more people will be sent."
-    c "Quando [Rz] ed io siamo stati inviati qui, i miei colleghi hanno messo bene in chiaro che questa era la nostra ultima possibilità. Se anche ci succede qualcosa, non sarà inviato più nessuno."
+    c "Quando [Rz] ed io siamo stati inviati qui, i miei colleghi hanno messo in chiaro che questa era la nostra ultima possibilità. Se anche ci succede qualcosa, non sarà inviato più nessuno."
 
 # game/chapter3.rpy:1458
 translate italiantl c3conty_13c7fe8b:
@@ -3184,7 +3184,7 @@ translate italiantl c3conty_7606bc46:
 translate italiantl c3conty_d7e65873:
 
     # Sb "By the way, you won't need to stick around while forensics does their job. Thanks for your help."
-    Sb "Ad ogni modo, non ci sarà bisogno che resti qui mentre la scientifica fa il suo lavoro. Grazie per il tuo aiuto."
+    Sb "Ad ogni modo, non ci sarà bisogno che resti nei paraggi mentre la scientifica fa il suo lavoro. Grazie per il tuo aiuto."
 
 # game/chapter3.rpy:2232
 translate italiantl c3conty_8292db44:
@@ -4144,7 +4144,7 @@ translate italiantl c3fac_0d643da0:
 translate italiantl c3fac_a2693ffe:
 
     # m "I wondered if Damion was a suspicious person in general, or if the rumors surrounding Reza were affecting his perception of me. Before this, everyone I had talked to during my investigations had been rather cooperative."
-    m "Mi domandai se [Dm] fosse di regola una persona sospettosa, o se le voci che circondavano [Rz] stessero avendo un effetto sulla sua percezione di me. Prima di questo, tutti coloro a cui avevo parlato durante le mie investigazioni erano stati piuttosto collaborativi."
+    m "Mi domandai se [Dm] fosse una persona sospettosa in generale, o se le voci intorno a [Rz] stessero avendo un effetto sulla sua percezione di me. Prima di questo, tutti coloro con cui avevo parlato durante le mie investigazioni erano stati piuttosto collaborativi."
 
 # game/chapter3.rpy:2905
 translate italiantl c3fac_06016cb2:
@@ -4384,7 +4384,7 @@ translate italiantl c3fac_5b71bf41_3:
 translate italiantl c3fac_3f746473:
 
     # An "Cooperation? What a peculiar word. Do you know what it means? It refers to people working together, and everyone making an effort."
-    An "Collaborazione? Che parola peculiare. Sai che significa? Si riferisce al lavorare con le altre persone, e al dare ognuno il suo contributo."
+    An "Collaborazione? Che parola peculiare. Sai che significa? Si riferisce alle persone che lavorano assieme, e a ognuno che fa uno sforzo."
 
 # game/chapter3.rpy:3052
 translate italiantl c3fac_cf90c207:

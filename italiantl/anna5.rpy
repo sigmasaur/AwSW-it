@@ -454,7 +454,7 @@ translate italiantl _call_endingjustafewminuteslater_1_3ecc4bad:
 translate italiantl _call_endingjustafewminuteslater_1_450b2c02:
 
     # m "While I confirmed that Maverick and Reza were dead, I was glad to discover that the Administrator was still alive."
-    m "Mentre confermai che [Mv] e [Rz] erano morti, fui lieto di scoprire che l'Amministratore era ancora viva."
+    m "Sebbene confermai che [Mv] e [Rz] erano morti, fui lietə di scoprire che l'Amministratore era ancora viva."
 
 # game/anna5.rpy:371
 translate italiantl _call_endingjustafewminuteslater_1_9210c9b8:
@@ -514,7 +514,7 @@ translate italiantl _call_endingjustafewminuteslater_1_bf178f51:
 translate italiantl _call_endingjustafewminuteslater_1_118bb1f7:
 
     # c "Unfortunately, I also know that by the time we've stopped the comet, humanity will have given up on the portal and disconnected its power source, so we won't be able to help them afterwards."
-    c "Sfortunatamente, so anche che per quando fermeremo la cometa, l'umanità avrà rinunciato al portale e disconnesso la sua fonte di energia, quindi non saremo in grado di aiutarli in séguito."
+    c "Purtroppo, so anche che per quando fermeremo la cometa, l'umanità avrà rinunciato al portale e scollegato la sua fonte di energia, quindi non saremo in grado di aiutarli in séguito."
 
 # game/anna5.rpy:413
 translate italiantl _call_endingjustafewminuteslater_1_055f1421:
@@ -562,7 +562,7 @@ translate italiantl _call_endingjustafewminuteslater_1_4cc00571:
 translate italiantl _call_endingjustafewminuteslater_1_a3166690:
 
     # Iz "Unfortunately, looking for other portals through time and space would be a significant energy expenditure that we can't afford right now. Not if we want to stop the comet."
-    Iz "Sfortunatamente, ricercare altri portali attraverso il tempo e lo spazio sarebbe un dispendio energetico significativo, uno che non possiamo permetterci in questo momento. Non se vogliamo fermare la cometa." # "a significant energy expenditure, ONE that we can't afford"
+    Iz "Purtroppo, ricercare altri portali attraverso il tempo e lo spazio sarebbe un dispendio energetico significativo che non possiamo permetterci in questo momento. Non se vogliamo fermare la cometa."
 
 # game/anna5.rpy:429
 translate italiantl _call_endingjustafewminuteslater_1_e4fb0c5c:

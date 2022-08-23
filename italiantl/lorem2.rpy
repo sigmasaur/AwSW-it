@@ -2350,7 +2350,7 @@ translate italiantl lorem2skip_a37a2dc1:
 translate italiantl lorem2skip_54205634:
 
     # c "Don't worry about it. Maybe some other time."
-    c "Non ti preoccupare. Magari una qualche altra volta."
+    c "Non ti preoccupare. Magari un'altra volta."
 
 # game/lorem2.rpy:1349
 translate italiantl lorem2skip_d97d0fc3:

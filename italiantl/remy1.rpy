@@ -1914,7 +1914,7 @@ translate italiantl _call_syscheck_86_76b2fe88:
 translate italiantl _call_syscheck_86_827862ea:
 
     # n "And he was gone. I wasn't sure what I did wrong, but I got the impression he would not want to meet with me again, despite the time I had sacrificed to help him out."
-    n "E se ne fu andato. Non ero sicurə di cos'avessi sbagliato, ma ebbi l'impressione che non avrebbe più voluto incontrarmi, malgrado il tempo che avevo sacrificato per dargli una mano."
+    n "E se ne fu andato. Non ero sicurə di cosa avessi sbagliato, ma ebbi l'impressione che non avrebbe più voluto incontrarmi, malgrado il tempo che avevo sacrificato per dargli una mano."
 
 # game/remy1.rpy:1678
 translate italiantl _call_syscheck_86_6a2784a4:

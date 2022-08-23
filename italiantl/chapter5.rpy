@@ -280,7 +280,7 @@ translate italiantl _call_endingjustafewminuteslater_59ce4100:
 translate italiantl _call_endingjustafewminuteslater_78c0c468:
 
     # As "Unfortunately, it seems like the generators were destroyed as well."
-    As "Sfortunatamente, sembra che anche i generatori siano andati distrutti."
+    As "Purtroppo, sembra che anche i generatori siano andati distrutti."
 
 # game/chapter5.rpy:681
 translate italiantl _call_endingjustafewminuteslater_c5d2623c:

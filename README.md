@@ -46,6 +46,7 @@ Currently working on `Remy`'s sections. Files done and up for review:
 
     remy1.rpy
     remy2.rpy
+    remy3.rpy
 
 ## Remarks and issues
 
@@ -162,6 +163,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`chapter4.rpy`](italiantl/chapter4.rpy)
 
+* At line 652: Corrected *scene* → *section*, to match other skip messages.
 * At line 762, 922, 4375, 4382: Corrected uppercase letter to lowercase after colon.
 * At line 898, 2716, 3560, 3790, 4369, 4436, 4472, 4478, 4592, 4628: Corrected simple dash or en-dash to em-dash.
 * At line 1094: Used if-statement to distinguish whether `Anna` survives or not, and corrected present tenses to simple past in the latter case.
@@ -327,14 +329,14 @@ The following are mostly to the benefit of the developer and translators.
 <i>A</i><sub>1</sub>&ensp;Play <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and leave at lines 421, 484, 568 before <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
 <i>A</i><sub>2</sub>&ensp;Play <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and leave at lines 75, 142, 694, then visit the grocery store in <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
 <i>A</i><sub>3</sub>&ensp;Play <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and leave at line 1176, then visit the grocery store in <a href="#chapter2rpy"><code>chapter2.rpy</code></a> and apologize to <code>Zhong</code>.</br>
-<i>B</i><sub>1</sub>&ensp;Play through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>bad</code> mood, then visit the grocery store in <code>chapter2.rpy</code></a>.</br>
+<i>B</i><sub>1</sub>&ensp;Play through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>bad</code> mood, then visit the grocery store in <a href="#chapter2rpy"><code>chapter2.rpy</code></a>.</br>
 <i>B</i><sub>2</sub>&ensp;Play through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>neutral</code> mood.</br>
 <i>B</i><sub>3</sub>&ensp;Play through <a href="#bryce1rpy"><code>bryce1.rpy</code></a> and put <code>Bryce</code> in a <code>good</code> mood.</details>
   * At line 70-78: The player character never saw `Bryce`'s apartment, or did see his apartment but he never said to *just pretend the whole thing never happened* in [`bryce1.rpy`](#bryce1rpy). Affected sequences: *A*<sub>3</sub> in the former case, *B*<sub>1</sub> in the latter. Used if-statement to correct *A*<sub>3</sub> by `pass`ing.
   * At line 507, 513-553: The `Administrator` and `Maverick` were already met in [`chapter4.rpy`](#chapter4rpy), where:<ul><li>At line 507: The player character learns that the former is not `Reza`;</li><li>At line 513-553: `Bryce` and the player character learn of *what [the latter]'s been up to*.</li></ul>
-  Affected sequences: *A*<sub>1-3</sub>, *B*<sub>1-2</sub>, or *B*<sub>3</sub> after [`chapter3.rpy`](#chapter3rpy), then save `Bryce` in [`chapter4.rpy`](#chapter4rpy).
-  * At line 1079-1081: The player character never got drunk in [`bryce1.rpy`](#bryce1rpy). Affected sequences: *A*<sub>1-2</sub>.
-  * At line 1153-1157: `Bryce` never said *there's more to [him] than [getting drunk]* either in [`bryce1.rpy`](#bryce1rpy) or by message. Affected sequences: *A*<sub>1-3</sub> or *B*<sub>1-2</sub>.
+  Affected sequences: *A*<sub>1–3</sub>, *B*<sub>1–2</sub>, or *B*<sub>3</sub> after [`chapter3.rpy`](#chapter3rpy), then save `Bryce` in [`chapter4.rpy`](#chapter4rpy).
+  * At line 1079-1081: The player character never got drunk in [`bryce1.rpy`](#bryce1rpy). Affected sequences: *A*<sub>1–2</sub>.
+  * <s>At line 1153-1157:</s> `Bryce` <s>never said *there's more to [him] than [getting drunk]* either in</s> [`bryce1.rpy`](#bryce1rpy) <s>or by message. Affected sequences:</s> *A*<sub>1–3</sub> <s>or</s> *B*<sub>1–2</sub>. Possibly said in between scenes.
 * At line 357, 395, 592, 1169: Corrected simple dash to em-dash.
 * At line 395: Unfolded *100%* → *one hundred percent*, for elegance.
 * At line 428, 430, 465, 848: Rendered *leg*(*s*) as *paw*(*s*).
@@ -362,10 +364,11 @@ The following are mostly to the benefit of the developer and translators.
 * At line 793-838: Note that these lines also trigger if `Remy` didn't survive and `Sebastian` and the player character learned of it. Affected sequences: don't see `Remy`'s good ending, play [`remy3.rpy`](#remy3rpy) and put `Remy` in a `bad` mood, save `Bryce` and take the PDA to the library in [`chapter4.rpy`](#chapter4rpy).
 * At line 869, 1146: Corrected uppercase letter to lowercase after colon.
 * At line 1144: Unfolded *5* → *five*, for elegance.
+* At line 1201: Interpreted as *I can at least try [climbing] to better myself*.
 
 ### [`bryce4.rpy`](italiantl/bryce4.rpy)
 
-* At line 117, 652: Note that this line also triggers if `Bryce` never said he *wanted to get out of [his] apartment* by message. Affected sequences: put `Bryce` in a `neutral` mood in [`bryce3.rpy`](#bryce3rpy).
+* <s>At line 117, 652: Note that this line also triggers if</s> `Bryce` <s>never said he *wanted to get out of [his] apartment* by message. Affected sequences: put</s> `Bryce` <s>in a</s> `neutral` <s>mood in</s> [`bryce3.rpy`](#bryce3rpy). Possibly said in between scenes.
 * At line 123, 336, 361, 379: Corrected uppercase letter of *Chief* to lowercase; see line 1946 of [`chapter3.rpy`](#chapter3rpy).
 * At line 123: Corrected uppercase letter of *Police* to lowercase, to match corrected lowercase letter of *chief*.
 * At line 226: Unfolded *5-10* → *five-ten*, for elegance.
@@ -443,6 +446,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`remy2.rpy`](italiantl/remy2.rpy)
 
+* At line 50, 58, 66: Corrected skip-to-end message to skip-ahead, to match other scenes with a second skip-check; see [`anna4.rpy`](#anna4rpy), [`remy3.rpy`](#remy3rpy), [`remy4.rpy`](#remy4rpy); see also [`adine2.rpy`](#adine2rpy).
 * At line 277, 328, 338, 863, 951: Corrected simple dash to em-dash.
 * At line 277: Corrected lowercase letter to uppercase after full stop.
 * At line 364, 368: Added space before image, to match line 360 and numerous other lines throughout the script.
@@ -457,6 +461,23 @@ The following are mostly to the benefit of the developer and translators.
 * At line 962: Assumed *you* is referred to the human race.
 * At line 964, 1065: Assumed *you*(*r*) is referred to the dragons.
 * At line 1319: Assumed *you* is referred to the player character.
+
+### [`remy3.rpy`](italiantl/remy3.rpy)
+
+* At line 181, 274, 302, 350, 688, 742, 788, 792, 828, 840: Corrected simple dash to em-dash.
+* At line 393, 411, 429, 439: Note that these lines also trigger under unexpected conditions. For ease of notation, let:<details><summary></summary>
+<i>A</i><sub>1</sub>&ensp;Eventually play <a href="#adine1rpy"><code>adine1.rpy</code></a>.</br>
+<i>A</i><sub>2</sub>&ensp;Eventually play <a href="#adine2rpy"><code>adine2.rpy</code></a>.</br>
+<i>A</i><sub>3</sub>&ensp;Eventually look at all three pictures and mention them in <a href="#remy2rpy">`remy2.rpy`</a>.</details>
+  * At line 393: `Remy` didn't ever say he *always wanted some children of [his] own* in [`remy2.rpy`](#remy2rpy). Approximate affected sequences: *A*<sub>2</sub> but *A*<sub>3</sub>.
+  * At line 411: The player character didn't ever know `Adine` volunteered. Approximate affected sequences: *A*<sub>3</sub> but *A*<sub>1</sub>.
+  * At line 429: `Remy` already knew the player character saw him with `Adine`. Approximate affected sequences: *A*<sub>2–3</sub>, then visit the library in [`chapter2.rpy`](#chapter2rpy) and ask `Remy` what `Adine` wanted from him. Used if-statement to correct all affected sequences by `pass`ing.
+  * At line 439: The player character didn't ever know `Adine` wanted the map. Approximate affected sequences: *A*<sub>3</sub> but *A*<sub>2</sub>.
+* At line 472, 517: Note that this line also triggers if `Anna` was never mentioned in [`remy2.rpy`](#remy2rpy). Affected sequences: don't mention seeing `Remy` with `Anna` in [`remy2.rpy`](#remy2rpy).
+* At line 706: Corrected *publically* → *publicly*.
+* At line 782: Slightly pruned to fit fewer lines.
+* At line 788: Corrected *expellation* → *expulsion*.
+* At line 828: Split in multiple parts to fit fewer lines.
 
 ## Other remarks
 

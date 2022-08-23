@@ -166,7 +166,7 @@ translate italiantl _call_skipcheck_16_f52dcfe5:
 translate italiantl _call_skipcheck_16_d8bc587f:
 
     # Lo normal "Living in the city can be very expensive. I can always move later when I get a job there. I've got other plans right now, though."
-    Lo normal "Vivere in città può essere molto costoso. Potrò sempre trasferirmici più avanti quando troverò lavoro là. Al momento però ho altri piani."
+    Lo normal "Vivere in città può essere molto costoso. Posso sempre trasferirmi più avanti quando troverò lavoro là. Al momento però ho altri piani."
 
 # game/lorem1.rpy:195
 translate italiantl _call_skipcheck_16_3ad10c5b:
@@ -1330,7 +1330,7 @@ translate italiantl _call_skipcheck_16_260f4bd1:
 translate italiantl _call_skipcheck_16_d4b333ad:
 
     # Lo think "Maybe I could convince you to meet me again some other time?"
-    Lo think "Forse potrei convincerti a incontrarmi di nuovo una qualche altra volta?"
+    Lo think "Forse potrei convincerti a incontrarmi di nuovo un'altra volta?"
 
 # game/lorem1.rpy:824
 translate italiantl _call_skipcheck_16_0fe8ac00:
@@ -1402,7 +1402,7 @@ translate italiantl lorem1skip_937eba87:
 translate italiantl lorem1skip_aca24fe1:
 
     # c "I really have to get going now, so maybe I'll see you some other time."
-    c "Adesso devo proprio andare, quindi magari ci vediamo una qualche altra volta." # see lines 822, 834
+    c "Adesso devo proprio andare, quindi magari ci vediamo un'altra volta." # see lines 822, 834
 
 # game/lorem1.rpy:880
 translate italiantl lorem1skip_edfe1555:

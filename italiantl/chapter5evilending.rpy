@@ -388,7 +388,7 @@ translate italiantl sincethelightswerealreadyon_ace552e3:
 translate italiantl sincethelightswerealreadyon_fb77eac2:
 
     # Rz "[player_name]! You're here? You don't know how glad I am to see you. I've wanted to talk with you for so long. I even tried to contact you, but I couldn't with someone tailing you the whole time."
-    Rz "[player_name]! Sei qui? Non sai quanto sia felice di vederti. È una vita che volevo parlarti. Ho anche cercato di contattarti, ma non potevo con qualcuno alle tue calcagna per tutto il tempo."
+    Rz "[player_name]! Sei qui? Non sai quanto sia felice di vederti. È una vita che volevo parlarti. Ho anche cercato di contattarti, ma non potevo con qualcuno alle tue calcagna per tutto il tempo." # "talk with you" -> "talk to you"
 
 # game/chapter5evilending.rpy:405
 translate italiantl sincethelightswerealreadyon_5a72fb9a:
@@ -430,7 +430,7 @@ translate italiantl no_d1ad703c:
 translate italiantl no_5b2b6059:
 
     # Rz normal "I've known for a while. It's what I wanted to talk with you about when we met at the portal. How about you?"
-    Rz normal "Lo so già da un pezzo. È ciò di cui volevo parlarti quando ci siamo incontrati al portale. E tu, invece?"
+    Rz normal "Lo so già da un pezzo. È di questo che volevo parlarti quando ci siamo incontrati al portale. E tu, invece?" # "talk with you" -> "talk to you"
 
 # game/chapter5evilending.rpy:459
 translate italiantl no_91ed222d:

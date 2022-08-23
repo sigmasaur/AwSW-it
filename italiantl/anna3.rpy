@@ -250,7 +250,7 @@ translate italiantl _call_skipcheck_637b9e7b:
 translate italiantl _call_skipcheck_039c4f1d:
 
     # An "And it's only because you told me not to stay late so often that I wasn't there that night."
-    An "Ed è solo perché mi hai detto di non rimanere fino a tardi così spesso che non ero là quella notte."
+    An "Ed è solo perché mi hai detto di non restare fino a tardi così spesso che non ero là quella notte."
 
 # game/anna3.rpy:251
 translate italiantl _call_skipcheck_a7dc4424:
@@ -2255,7 +2255,7 @@ translate italiantl anna3skip_ca0dca51:
 translate italiantl anna3skip_844b0123:
 
     # An normal b "But, maybe some other time."
-    An normal b "Ma, magari una qualche altra volta."
+    An normal b "Ma, forse un'altra volta."
 
 # game/anna3.rpy:1433
 translate italiantl anna3skip_4e24c2ca:
