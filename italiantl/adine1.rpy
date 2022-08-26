@@ -4,7 +4,7 @@
 translate italiantl adine1_b66a50f0:
 
     # m "I remembered that Adine had told me that the café did deliveries as well, and not having anything else better to do, I figured I should try it out. I made my order with a quick phone call, and it wasn't long before the doorbell rang."
-    m "Ricordai che [Ad] mi aveva detto che la caffetteria faceva anche le consegne, e non avendo nient'altro di meglio da fare, pensai fosse il caso di fare una prova. Feci il mio ordine con un colpo di telefono, e non ci volle molto prima che il campanello suonasse."
+    m "Ricordai che [Ad] mi aveva detto che la caffetteria faceva anche consegne, e non avendo nient'altro di meglio da fare, pensai fosse il caso di fare una prova. Feci il mio ordine con un colpo di telefono, e non ci volle molto prima che il campanello suonasse." # see lines 3695, 3699, 3703 of chapter 1
 
 # game/adine1.rpy:32
 translate italiantl adine1_d60c0822:
@@ -1690,13 +1690,13 @@ translate italiantl _call_syscheck_48_334f9430:
 translate italiantl _call_syscheck_48_3d8af9e3:
 
     # Ad "Anyways, if you want to invite me over again, why don't I give you my personal number and we just skip the part where you order food to make me come by?"
-    Ad "Comunque, se ti va di invitarmi di nuovo, perché non prendi il mio numero personale e saltiamo direttamente la parte in cui ordini del cibo per fare che io passi da queste parti?" # "I give you" -> "you take"
+    Ad "Comunque, se ti va di invitarmi di nuovo, perché non prendi il mio numero personale e saltiamo la parte in cui ordini da noi per far sì che io passi di qui?" # "I give you" -> "you take"; "food" -> "from us", see line 1269
 
 # game/adine1.rpy:1269
 translate italiantl _call_syscheck_48_244ffce1:
 
     # c "But I like the food."
-    c "Ma mi piace il cibo."
+    c "Ma a me piace ordinare da voi." # must match line 1268
 
 # game/adine1.rpy:1276
 translate italiantl _call_syscheck_48_a475c68f:
@@ -1768,7 +1768,7 @@ translate italiantl adine1skip_c0cb69d1:
 translate italiantl adine1skip_a544d69c:
 
     # Ad "Well, you're always welcome to order food if you're hungry."
-    Ad "Be', sei sempre lə benvenutə a ordinare del cibo se hai fame."
+    Ad "Be', sei sempre lə benvenutə a ordinare da mangiare se hai fame."
 
 # game/adine1.rpy:1384
 translate italiantl adine1skip_e0210aa9:

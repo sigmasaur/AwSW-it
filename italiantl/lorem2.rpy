@@ -1666,7 +1666,7 @@ translate italiantl _call_skipcheck_33_f269605f:
 translate italiantl _call_skipcheck_33_ab5f6047:
 
     # Ip "Imagine a piece of paper with a world map printed on it."
-    Ip "Immagina un pezzo di carta con una mappa del mondo stampata sopra."
+    Ip "Immagina un foglio di carta con una mappa del mondo stampata sopra."
 
 # game/lorem2.rpy:1027
 translate italiantl _call_skipcheck_33_f5f7c27d:
@@ -1678,7 +1678,7 @@ translate italiantl _call_skipcheck_33_f5f7c27d:
 translate italiantl _call_skipcheck_33_51f615c1:
 
     # Ip think "While it shows the entirety of the world, it's still just a simple, flat piece of paper rather than a sphere, right?"
-    Ip think "Per quanto mostri il mondo nella sua interezza, è pur sempre un semplice pezzo di carta piatto invece di una sfera, giusto?"
+    Ip think "Per quanto mostri il mondo nella sua interezza, è pur sempre un semplice foglio di carta piatto invece di una sfera, giusto?"
 
 # game/lorem2.rpy:1031
 translate italiantl _call_skipcheck_33_c48dc32f_3:

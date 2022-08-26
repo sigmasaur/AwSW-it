@@ -190,7 +190,7 @@ translate italiantl _call_skipcheck_1_3e022742:
 translate italiantl _call_skipcheck_1_8ce0e56b:
 
     # m "He showed me one of the cheap bottles of wine that had been in the cupboard since I arrived."
-    m "Mi mostrò una delle bottiglie di vino da due soldi che erano nella dispensa sin da quand'ero arrivatə."
+    m "Mi mostrò una delle bottiglie di vino da due soldi che erano nella credenza sin da quando ero arrivatə."
 
 # game/bryce4.rpy:169
 translate italiantl _call_skipcheck_1_5247909f:

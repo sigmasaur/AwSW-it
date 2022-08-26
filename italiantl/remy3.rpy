@@ -1446,7 +1446,7 @@ translate italiantl _call_skipcheck_25_0edb3f5d:
 translate italiantl _call_skipcheck_25_14809802:
 
     # Ry "Only now do I realize that everything I told you earlier must seem so petty compared to the struggles you face."
-    Ry "Solo adesso mi accorgo che tutto ciò che ti ho detto prima deve sembrare così insignificante in confronto alle difficoltà che dovete affrontare."
+    Ry "Solo adesso mi accorgo che tutto ciò che ti ho detto prima deve sembrare così futile in confronto alle difficoltà che dovete affrontare."
 
 # game/remy3.rpy:902
 translate italiantl _call_skipcheck_25_0cdc1fe2:

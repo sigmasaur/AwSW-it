@@ -496,7 +496,7 @@ translate italiantl loremgoodending2_4374cfb0:
 translate italiantl loremgoodending2_bf1a49aa:
 
     # c "I haven't been in contact with them since the day I arrived here."
-    c "Non ho avuto contatti con loro sin dal giorno in cui sono arrivatə qui."
+    c "Non ho più avuto contatti con loro dal giorno in cui sono arrivatə qui."
 
 # game/lorem5.rpy:412
 translate italiantl loremgoodending2_12368f94:

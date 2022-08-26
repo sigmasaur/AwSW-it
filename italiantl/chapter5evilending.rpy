@@ -202,7 +202,7 @@ translate italiantl evilending_a0e44aee:
 translate italiantl evilending_d642e0de:
 
     # Rz "I could've gotten rid of you a long time ago if I wanted."
-    Rz "Avrei potuto farti fuori molto tempo fa se avessi voluto."
+    Rz "Avrei potuto sbarazzarmi di te molto tempo fa se avessi voluto."
 
 # game/chapter5evilending.rpy:85
 translate italiantl evilending_cc81ed0c:

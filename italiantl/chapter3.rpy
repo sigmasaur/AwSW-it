@@ -5402,7 +5402,7 @@ translate italiantl stay_aa9539fb:
 translate italiantl stay_9602ee8d:
 
     # m "He grabbed a piece of paper and drew on it with a thick felt-tip pen."
-    m "Afferrò un pezzo di carta e vi disegnò sopra con un grosso pennarello."
+    m "Afferrò un foglio di carta e vi disegnò sopra con un grosso pennarello."
 
 # game/chapter3.rpy:3979
 translate italiantl stay_e10c25fd:

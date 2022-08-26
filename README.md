@@ -47,6 +47,7 @@ Currently working on `Remy`'s sections. Files done and up for review:
     remy1.rpy
     remy2.rpy
     remy3.rpy
+    remy4.rpy
 
 ## Remarks and issues
 
@@ -479,6 +480,13 @@ The following are mostly to the benefit of the developer and translators.
 * At line 788: Corrected *expellation* → *expulsion*.
 * At line 828: Split in multiple parts to fit fewer lines.
 
+### [`remy4.rpy`](italiantl/remy4.rpy)
+
+* At line 123: Note that the player character may not know that `Remy` has the PDA.
+* At line 127, 141, 596, 602, 610, 614, 663: Corrected simple dash or en-dash to em-dash.
+* At line 648: Corrected *didn't use<s>d</s> to*.
+* At line 764: Corrected uppercase letter to lowercase after colon.
+
 ## Other remarks
 
-* At line 929 of [`adine1.rpy`](#adine1rpy): On *prendere e* V, see F. Masini, S. Mattiola, G. Vecchi; [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf); 2019.
+* At line 929 of [`adine1.rpy`](#adine1rpy), 297 of [`remy4.rpy`](#remy4rpy): On *prendere e* V, see F. Masini, S. Mattiola, G. Vecchi; [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf); 2019.

@@ -1793,7 +1793,7 @@ translate italiantl _call_syscheck_6_09595634:
 translate italiantl _call_syscheck_6_61dd893b:
 
     # Sb "In any case, now that you've given us the PDA and Reza has the generator, you're free for today. So, if you want to go anywhere in particular, let me know, or I could show you around town."
-    Sb "In ogni caso, ora che ci hai consegnato il palmare e [Rz] ha il generatore, sei liberə per oggi. Quindi, se ti va di andare in qualche posto in particolare, fammelo sapere, oppure potrei farti visitare la città."
+    Sb "In ogni caso, ora che ci hai consegnato il palmare e [Rz] ha il generatore, sei liberə per oggi. Quindi, se ti va di andare in qualche posto in particolare, fammelo sapere, oppure potrei farti vedere la città."
 
 # game/chapter1.rpy:1902
 translate italiantl _call_syscheck_6_288fbfbf:

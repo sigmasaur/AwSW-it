@@ -1409,7 +1409,7 @@ translate italiantl bryce3pass_32106b28:
 translate italiantl bryce3pass_eab18ce4:
 
     # Br "If you ask me, you can do whatever you like as long as you're here. Knock yourself out."
-    Br "Se lo chiedi a me, fintantoché sei qui puoi fare quel che ti pare. Vai tranquillə."
+    Br "Se lo chiedi a me, fintantoché sei qui puoi fare quello che ti pare. Vai tranquillə."
 
 # game/bryce3.rpy:793
 translate italiantl bryce3pass_ceddac29:
@@ -2171,7 +2171,7 @@ translate italiantl bryce3pass_cd1d2fae:
 translate italiantl bryce3pass_513d7f30:
 
     # Br smirk "And I got this lovely reminder of the experience on my muzzle."
-    Br smirk "E mi è rimasto questo bel ricordo dell'esperienza sul muso."
+    Br smirk "E mi è rimasto questo adorabile ricordo dell'esperienza sul muso."
 
 # game/bryce3.rpy:1197
 translate italiantl bryce3pass_9a1cca6a:

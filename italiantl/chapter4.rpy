@@ -3895,7 +3895,7 @@ translate italiantl c4hatchery_508bf3e5:
 translate italiantl c4hatchery_119c146a:
 
     # c "(Here we are again.)"
-    c "(Eccoci di nuovo qui.)"
+    c "(Rieccoci qui.)"
 
 # game/chapter4.rpy:3224
 translate italiantl c4hatchery_9dcabf04:
@@ -6074,7 +6074,7 @@ translate italiantl chapter4chars_487a131e:
 translate italiantl chapter4chars_f6e32749:
 
     # Ry "It would be nice to go there with you. I'm not sure how you feel about this, but I usually try to avoid the crowds."
-    Ry "Sarebbe carino andarci con te. Non so bene come la pensi tu, ma solitamente io cerco di evitare la folla." # "crowd[s]"
+    Ry "Sarebbe bello andarci con te. Non so bene come la pensi tu, ma solitamente io cerco di evitare la folla."
 
 # game/chapter4.rpy:5017
 translate italiantl chapter4chars_7ca3c990:

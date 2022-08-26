@@ -1320,7 +1320,7 @@ translate italiantl _call_syscheck_41_4e68104e:
 translate italiantl _call_syscheck_41_5d7755ef:
 
     # m "Blearily, the dragon looked at me, seemingly unable to focus. I could see he was hitting his limit, but so was I. Maybe, if I just held out a little longer..."
-    m "Il drago mi rivolse uno sguardo velato, apparentemente incapace di mettere a fuoco. Potevo vedere che stava raggiungendo il suo limite, ma così anch'io. Forse, se avessi tenuto duro ancora per un po'..."
+    m "Il drago mi rivolse uno sguardo velato, apparentemente incapace di mettere a fuoco. Lo vedevo che stava raggiungendo il suo limite, ma così anch'io. Forse, se avessi tenuto duro ancora per un po'..."
 
 # game/bryce1.rpy:1036
 translate italiantl _call_syscheck_41_9a4d9444:

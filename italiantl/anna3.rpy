@@ -316,7 +316,7 @@ translate italiantl _call_skipcheck_e2e67c34:
 translate italiantl _call_skipcheck_0b7528e6:
 
     # An smirk b "That's a good one! We're just getting started."
-    An smirk b "Questa è buona! Abbiamo appena iniziato."
+    An smirk b "Questa è buona! Siamo appena all'inizio."
 
 # game/anna3.rpy:280
 translate italiantl _call_skipcheck_5bd33aec:
@@ -1352,7 +1352,7 @@ translate italiantl _call_skipcheck_b0fd3e30:
 translate italiantl _call_skipcheck_afce4b58:
 
     # c "Well, I better not hold you up, then."
-    c "Be', farò meglio a non trattenerti, allora."
+    c "Be', sarà meglio che non ti trattenga, allora."
 
 # game/anna3.rpy:926
 translate italiantl _call_skipcheck_3d9e61f3:
@@ -1466,7 +1466,7 @@ translate italiantl _call_skipcheck_b0fd3e30_1:
 translate italiantl _call_skipcheck_afce4b58_1:
 
     # c "Well, I better not hold you up, then."
-    c "Be', farò meglio a non trattenerti, allora." # see line 924
+    c "Be', sarà meglio che non ti trattenga, allora." # see line 924
 
 # game/anna3.rpy:983
 translate italiantl _call_skipcheck_acc659e8_1:
@@ -1628,7 +1628,7 @@ translate italiantl _call_skipcheck_b0fd3e30_2:
 translate italiantl _call_skipcheck_afce4b58_2:
 
     # c "Well, I better not hold you up, then."
-    c "Be', farò meglio a non trattenerti, allora." # see line 924
+    c "Be', sarà meglio che non ti trattenga, allora." # see line 924
 
 # game/anna3.rpy:1066
 translate italiantl _call_skipcheck_44b2fd02:

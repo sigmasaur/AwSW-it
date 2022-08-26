@@ -1420,7 +1420,7 @@ translate italiantl adine2menb_f4e0c922:
 translate italiantl adine2menb_491287e4:
 
     # c "Yeah. I figured I'd come here, do the exchange and leave again, but apparently it's not that easy."
-    c "Già. Pensavo che sarei venutə qui, avrei fatto lo scambio e me ne sarei andatə, ma a quanto pare non è così semplice."
+    c "Già. Pensavo che sarei venutə qui, avrei fatto lo scambio e sarei ripartitə, ma a quanto pare non è così semplice."
 
 # game/adine2.rpy:1085
 translate italiantl adine2menb_e93999f4:

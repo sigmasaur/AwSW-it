@@ -70,7 +70,7 @@ translate italiantl _call_skipcheck_13_69b9b9c2:
 translate italiantl _call_skipcheck_13_d7ff0ef8:
 
     # m "He showed me the map. It was a piece of paper that had obviously been treated to look much older than it really was."
-    m "Mi mostrò la mappa. Era un pezzo di carta che era stato palesemente trattato perché sembrasse molto più vecchio di quel che era davvero."
+    m "Mi mostrò la mappa. Era un foglio di carta che era stato palesemente trattato perché sembrasse molto più vecchio di quel che era davvero."
 
 # game/lorem3.rpy:131
 translate italiantl _call_skipcheck_13_dbcb91b0:
