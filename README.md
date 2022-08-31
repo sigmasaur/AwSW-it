@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on `Remy`'s sections. Files done and up for review:
+Currently working on the true ending. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -48,6 +48,7 @@ Currently working on `Remy`'s sections. Files done and up for review:
     remy2.rpy
     remy3.rpy
     remy4.rpy
+    remy5.rpy
 
 ## Remarks and issues
 
@@ -425,6 +426,7 @@ The following are mostly to the benefit of the developer and translators.
 ### [`lorem5.rpy`](italiantl/lorem5.rpy)
 
 * At line 50, 819: Corrected simple dash to em-dash.
+* At line 105: *considering [...] how <s>I was told multiple times that</s> everyone would be watching the fireworks*, to improve readability and to match line 537 of [`chapter5.rpy`](#chapter5rpy).
 * At line 109: See line 83 of [`adine5.rpy`](#adine5rpy).
 * At line 428: `hpunch` transition doesn't seem to trigger.
 * At line 518: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
@@ -487,6 +489,15 @@ The following are mostly to the benefit of the developer and translators.
 * At line 648: Corrected *didn't use<s>d</s> to*.
 * At line 764: Corrected uppercase letter to lowercase after colon.
 
+### [`remy5.rpy`](italiantl/remy5.rpy)
+
+* At line 73: See line 105 of [`lorem5.rpy`](#lorem5rpy).
+* At line 77: See line 83 of [`adine5.rpy`](#adine5rpy).
+* At line 322, 441, 455, 465, 595, 1062, 1076: Corrected simple dash to em-dash.
+* At line 1064: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
+* At line 1068: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
+* At line 1119: Split in multiple parts to fit fewer lines.
+
 ## Other remarks
 
-* At line 929 of [`adine1.rpy`](#adine1rpy), 297 of [`remy4.rpy`](#remy4rpy): On *prendere e* V, see F. Masini, S. Mattiola, G. Vecchi; [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf); 2019.
+* At line 929 of [`adine1.rpy`](#adine1rpy), 297 of [`remy4.rpy`](#remy4rpy): On *prendere e* V, see F. Masini, S. Mattiola, G. Vecchi; [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf); 2019. See also the Italian translation of *The Simpsons*, 07x18, 07:04.

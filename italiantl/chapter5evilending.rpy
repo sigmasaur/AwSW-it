@@ -298,7 +298,7 @@ translate italiantl endingjustafewminuteslaterx_a5b4389d:
 translate italiantl endingjustafewminuteslaterx_326876be:
 
     # m "I checked Sebastian for any signs of life and found nothing. However, his body was still warm."
-    m "Cercai in [Sb] un segno di vita e non trovai nulla. Tuttavia, il suo corpo era ancora caldo."
+    m "Cercai in [Sb] un segno di vita e non ne trovai. Tuttavia, il suo corpo era ancora caldo."
 
 # game/chapter5evilending.rpy:330
 translate italiantl endingjustafewminuteslaterx_03c1972b:
@@ -364,7 +364,7 @@ translate italiantl endingjustafewminuteslaterx_d51db7e2:
 translate italiantl endingjustafewminuteslaterx_c1029fbb:
 
     # m "When I entered the building, I was met by a long, illuminated hallway that was lined with doors on both sides."
-    m "Quando entrai nell'edificio, fui accoltə da un lungo corridoio illuminato ch'era fiancheggiato di porte su entrambi i lati."
+    m "Quando entrai nell'edificio, fui accoltə da un lungo corridoio illuminato che era fiancheggiato di porte su entrambi i lati."
 
 # game/chapter5evilending.rpy:371
 translate italiantl sincethelightswerealreadyon_48903454:

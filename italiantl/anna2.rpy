@@ -1654,7 +1654,7 @@ translate italiantl _call_skipcheck_32_c72afdc0:
 translate italiantl _call_skipcheck_32_4334daf7:
 
     # m "It was a little bland, I had to admit, but not bad for something that was alive less than an hour ago, and prepared in the wild."
-    m "Era un tantino blando, dovetti ammettere, ma non male per qualcosa ch'era in vita meno di un'ora prima, e preparato in natura."
+    m "Era un tantino blando, dovetti ammettere, ma non male per qualcosa che era in vita meno di un'ora prima, e preparato in natura."
 
 # game/anna2.rpy:1119
 translate italiantl _call_skipcheck_32_1934b70c:

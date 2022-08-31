@@ -826,7 +826,7 @@ translate italiantl adinegoodending_e34c1126:
 translate italiantl adinegoodending_a7671126:
 
     # As "Luckily, she left a lot behind to help me, and I executed her plan just as she would."
-    As "Fortunatamente, si era lasciata dietro parecchio per aiutarmi, e io eseguii il suo piano proprio come lei avrebbe fatto."
+    As "Fortunatamente, si era lasciata indietro parecchio per aiutarmi, e io eseguii il suo piano proprio come lei avrebbe fatto."
 
 # game/adine5.rpy:810
 translate italiantl adinegoodending_2fc1d6c7:

@@ -1672,7 +1672,7 @@ translate italiantl anna1skip_44223133:
 translate italiantl anna1skip_0eabec36:
 
     # c "Maybe you should step down from your high horse for once."
-    c "Forse dovresti scendere dal tuo olimpo per una volta." # must match line 1200
+    c "Forse dovresti scendere dal tuo olimpo per una volta." # must match line 1200; see also the Italian translation of Friends, 02x19, 08:31
 
 # game/anna1.rpy:1200
 translate italiantl anna1skip_b7bca3d1:

@@ -52,7 +52,7 @@ translate italiantl _call_skipcheck_11_e0495caa:
 translate italiantl _call_skipcheck_11_8daf1491:
 
     # n "I looked towards the horizon, my view undisturbed by dividing walls. The light of the morning sun was painting the sky with golden hues, a view that had become a rarity back home. It evoked a feeling of freedom and openness that was almost scary to me."
-    n "Guardai verso l'orizzonte, la mia vista imperturbata da alcuna barriera divisoria. La luce del sole mattutino dipingeva il cielo di tinte dorate, una vista ch'era divenuta una rarità a casa. Evocava un senso di libertà e apertura tali da incutermi quasi timore."
+    n "Guardai verso l'orizzonte, la mia vista imperturbata da barriere divisorie. La luce del sole mattutino dipingeva il cielo di tinte dorate, una vista che era divenuta una rarità a casa. Evocava un senso di libertà e apertura tali da incutermi quasi timore."
 
 # game/chapter2.rpy:292
 translate italiantl _call_skipcheck_11_d527dbc7:
@@ -688,7 +688,7 @@ translate italiantl _call_skipcheck_11_bbb2170d:
 translate italiantl _call_skipcheck_11_e3fa7472:
 
     # m "I looked above toward the source of the noise as it grew louder, and in the next instant I was pushed sideways and fell to the ground — just barely avoiding the giant light fixture that fell from the ceiling and shattered into countless pieces alongside me."
-    m "Alzai gli occhi verso la sorgente del rumore mentre questo si faceva più forte, e nell'istante successivo fui spintə di lato e caddi a terra—a stento evitando il gigantesco impianto luminoso ch'era crollato dal soffitto ed esploso in innumerevoli pezzi al mio fianco."
+    m "Alzai gli occhi verso la sorgente del rumore mentre questo si faceva più forte, e nell'istante successivo fui spintə di lato e caddi a terra—a stento evitando il gigantesco impianto luminoso che era crollato dal soffitto ed esploso in innumerevoli pezzi al mio fianco."
 
 # game/chapter2.rpy:763
 translate italiantl _call_skipcheck_11_d4938ded:
@@ -2301,7 +2301,7 @@ translate italiantl chap2library_a90da408:
 translate italiantl chap2library_5ffcbcd2:
 
     # Ry angry flip "No, you're just here because you want something."
-    Ry angry flip "No, tu sei solo qui perché vuoi qualcosa."
+    Ry angry flip "No, tu sei qui solo perché vuoi qualcosa."
 
 # game/chapter2.rpy:2017
 translate italiantl chap2library_6c79b3ea:
@@ -4185,7 +4185,7 @@ translate italiantl _call_popularcheck_11_d18e1351:
 translate italiantl _call_popularcheck_11_a660fec1:
 
     # Ad "Gotcha! You thought that was your answering machine, but it was me, Adine!" # reference to Jojo "It was me, Dio" line
-    Ad "Ci sei cascatə! Hai pensato che fosse la segreteria, ma in realtà ero io, [Ad]!" # the Italian subtitles to Jojo don't really fit here
+    Ad "Ci sei cascatə! Hai pensato fosse la segreteria, ma in realtà ero io, [Ad]!" # the Italian subtitles to Jojo don't really fit here
 
 # game/chapter2.rpy:4278
 translate italiantl _call_popularcheck_11_0a32300e:

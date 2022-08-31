@@ -910,7 +910,7 @@ translate italiantl _call_skipcheck_28_6f342349:
 translate italiantl _call_skipcheck_28_9d5e9a20:
 
     # m "Booths lined both sides of the way. It reminded me a lot of a typical carnival setup, with the booths being filled with shops, food stands, games and much more."
-    m "I banchi fiancheggiavano entrambi i lati della strada. Mi ricordò molto un tipico allestimento carnevalesco, coi banchi ch'erano riempiti da negozi, gastronomie, giochi e molto altro ancora." # see line 157 of Adine 4
+    m "I banchi fiancheggiavano entrambi i lati della strada. Mi ricordò molto un tipico allestimento carnevalesco, coi banchi che erano riempiti da negozi, gastronomie, giochi e molto altro ancora." # see line 157 of Adine 4
 
 # game/remy4.rpy:570
 translate italiantl _call_skipcheck_28_ddfec17d:

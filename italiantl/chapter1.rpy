@@ -168,7 +168,7 @@ translate italiantl begingame_337d015e:
     # nvl clear
     # n "After our first tests, we found there was someone else on the other side who was in possession of a similar portal, and our attempts at communication through letters were successful. But in the end, the machine's extraordinary demand for power meant we needed to act quickly as we wouldn’t be able to keep the portal open much longer. "
     nvl clear
-    n "Dopo i primi esperimenti, trovammo che vi era qualcun altro dall'altro lato ch'era in possesso di un simile portale, e i nostri tentativi di comunicazione tramite lettere ebbero successo. Ma alla fine, lo straordinario fabbisogno energetico della macchina significava che avremmo dovuto agire in fretta poiché non saremmo stati in grado di mantenere il portale aperto ancora a lungo."
+    n "Dopo i primi esperimenti, trovammo che vi era qualcun altro dall'altro lato che era in possesso di un simile portale, e i nostri tentativi di comunicazione tramite lettere ebbero successo. Ma alla fine, lo straordinario fabbisogno energetico della macchina significava che avremmo dovuto agire in fretta poiché non saremmo stati in grado di mantenere il portale aperto ancora a lungo."
 
 # game/chapter1.rpy:436
 translate italiantl begingame_00947764:
@@ -644,7 +644,7 @@ translate italiantl holetravel_acc659e8:
 translate italiantl holetravel_7ce680cd:
 
     # n "With a nod, Remy left the apartment, mindful enough to close the door behind himself. Surveying the room, I considered the events that had just transpired as my gaze met the window."
-    n "Con un cenno del capo, [Ry] lasciò l'appartamento, abbastanza accorto da chiudere la porta alle sue spalle. Indagando la stanza, consideravo gli eventi ch'erano appena accaduti quando il mio sguardo incontrò la finestra."
+    n "Con un cenno del capo, [Ry] lasciò l'appartamento, abbastanza accorto da chiudere la porta alle sue spalle. Indagando la stanza, consideravo gli eventi che erano appena accaduti quando il mio sguardo incontrò la finestra."
 
 # game/chapter1.rpy:728
 translate italiantl holetravel_0066f440:
@@ -1617,7 +1617,7 @@ translate italiantl _call_skipcheck_3_1ccb67dc_1:
 translate italiantl _call_skipcheck_3_82a88f03:
 
     # m "Eventually, I got up, ready to be on my way for whatever else the day might bring."
-    m "Finalmente, mi alzai, prontə per andare dovunque altro il giorno mi avrebbe portato."
+    m "Finalmente, mi alzai, prontə ad andare dovunque altro il giorno mi avrebbe portato."
 
 # game/chapter1.rpy:1805
 translate italiantl _call_skipcheck_3_0da74151_1:
@@ -1641,7 +1641,7 @@ translate italiantl _call_skipcheck_3_1ccb67dc_2:
 translate italiantl _call_skipcheck_3_82a88f03_1:
 
     # m "Eventually, I got up, ready to be on my way for whatever else the day might bring."
-    m "Finalmente, mi alzai, prontə per andare dovunque altro il giorno mi avrebbe portato."
+    m "Finalmente, mi alzai, prontə ad andare dovunque altro il giorno mi avrebbe portato."
 
 # game/chapter1.rpy:1812
 translate italiantl _call_skipcheck_3_1c70acf7:
@@ -1879,25 +1879,25 @@ translate italiantl _call_syscheck_6_05824446:
     # nvl clear
     # n "I was also glad to find a shelf that was filled to the brim with a variety of books."
     nvl clear
-    n "Fui anche lietə di trovare uno scaffale ch'era riempito fino all'orlo di una varietà di libri."
+    n "Fui anche lietə di trovare uno scaffale che era riempito fino all'orlo di una varietà di libri."
 
 # game/chapter1.rpy:1941
 translate italiantl _call_syscheck_6_27ce47bd:
 
     # n "While I found the subject matter of {i}Man: Myth or Reality?{/i} to be quite intriguing, I had to give up after just a few pages due to its exceptionally dry writing style, which I wasn't inclined to enjoy at the moment." # reference to a fake book called "Is man a myth" from The Lion, the Witch and the Wardrobe
-    n "Benché trovassi la materia di {i}Uomo: Mito o Realtà?{/i} piuttosto intrigante, dovetti cedere dopo solo qualche pagina a causa del suo stile di scrittura eccezionalmente asciutto, il quale non ero incline ad apprezzare al momento."
+    n "Per quanto trovassi la materia di {i}Uomo: Mito o Realtà?{/i} piuttosto intrigante, dovetti cedere dopo solo qualche pagina a causa del suo stile di scrittura eccezionalmente asciutto, il quale al momento non ero incline ad apprezzare."
 
 # game/chapter1.rpy:1942
 translate italiantl _call_syscheck_6_a13f6eb8:
 
     # n "In the end, I settled for an adventure novel about a dragon archaeologist who stumbles upon the remains of a long lost human civilization, after which she is hunted by an evil organization who wants to use the found magical artifacts for its own, nefarious purposes."
-    n "Alla fine, mi accontentai di un romanzo d'avventura su una dragonessa archeologa che si imbatte nei resti di una civiltà umana a lungo perduta, e quindi è braccata da una malvagia organizzazione che intende sfruttare i ritrovati manufatti magici per i propri, nefasti scopi."
+    n "Alla fine, mi accontentai di un romanzo di avventura su una dragonessa archeologa che si imbatte nei resti di una civiltà umana a lungo perduta, e quindi è braccata da una malvagia organizzazione che intende sfruttare i ritrovati manufatti magici per i propri, nefasti scopi."
 
 # game/chapter1.rpy:1943
 translate italiantl _call_syscheck_6_f3eb79d8:
 
     # n "While entertaining, I had to admit that it reminded me a little too much of the trashy novels we had at home. I certainly found it amusing that certain tropes were not really unique to us as a species, though I wondered whether this kind of literature had fallen into disfavor here as it had back where I had come from."
-    n "Per quanto piacevole, dovetti ammettere che mi ricordava un po' troppo quei romanzi-spazzatura che avevamo a casa. Certamente trovavo spassoso come certi tropi non fossero propriamente esclusivi della nostra specie, anche se mi domandai se questo genere di letteratura non fosse caduta in disgrazia qui come da dove ero venutə." # "the trashy novels" -> "those trashy novels"
+    n "Per quanto piacevole, dovetti ammettere che mi ricordava un po' troppo quei romanzi-spazzatura che avevamo a casa. Certamente trovavo spassoso come certi luoghi comuni non fossero propriamente esclusivi della nostra specie, anche se mi domandai se questo genere di letteratura non fosse caduta in disgrazia qui come da dove ero venutə." # "the trashy novels" -> "those trashy novels"
 
 # game/chapter1.rpy:1944
 translate italiantl _call_syscheck_6_1686f415:

@@ -622,7 +622,7 @@ translate italiantl _call_skipcheck_225770af:
 translate italiantl _call_skipcheck_b86e3b1f:
 
     # An sad b "I guess we can skip that part, because I certainly don't want to deal with you if you start screaming or crying, or whatever else."
-    An sad b "Immagino che possiamo saltare quella parte, perché non ho certo voglia di occuparmi di te se ti metti a gridare o a piangere, o che altro."
+    An sad b "Immagino che possiamo saltare quella parte, perché non voglio certo occuparmi di te se ti metti a gridare o a piangere, o che altro."
 
 # game/anna3.rpy:487
 translate italiantl _call_skipcheck_3b1c406e:
@@ -1700,7 +1700,7 @@ translate italiantl _call_skipcheck_c06eab4d:
 translate italiantl _call_skipcheck_6810e294:
 
     # m "Afterwards, I finished my lap around the block, arriving only a few minutes after I had started."
-    m "Dopodiché, terminai il mio giro attorno all'isolato, arrivando solo pochi minuti dopo ch'ero partitə."
+    m "Dopodiché, terminai il mio giro attorno all'isolato, arrivando solo pochi minuti dopo che ero partitə."
 
 # game/anna3.rpy:1114
 translate italiantl _call_skipcheck_b1dfddd7:

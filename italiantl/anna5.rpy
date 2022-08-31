@@ -322,7 +322,7 @@ translate italiantl _call_endingjustafewminuteslater_1_b783d092:
 translate italiantl _call_endingjustafewminuteslater_1_3305fa38:
 
     # m "He was knocked to the ground and Maverick embedded his teeth into the body before him."
-    m "Fu sbattuto a terra e [Mv] immerse i suoi denti nel corpo che gli era davanti."
+    m "Fu sbattuto a terra e [Mv] immerse i denti nel corpo che gli era davanti."
 
 # game/anna5.rpy:246
 translate italiantl _call_endingjustafewminuteslater_1_b5f736a1:
@@ -340,7 +340,7 @@ translate italiantl _call_endingjustafewminuteslater_1_98a8dd49:
 translate italiantl _call_endingjustafewminuteslater_1_69a3b56e:
 
     # m "While I was unharmed, Anna was hit multiple times and fell to the ground. While I watched Reza's hand dive into his pocket for more ammo, Anna's harsh breathing filled my ears."
-    m "Sebbene io fossi illesə, [An] fu colpita più volte e cadde a terra. Mentre guardavo la mano di [Rz] tuffarsi nelle sue tasche in cerca di altre munizioni, il respiro strozzato di [An] mi riempiva le orecchie." # "into his pocketS"
+    m "Sebbene io fossi illesə, [An] fu colpita più volte e cadde a terra. Mentre guardavo [Rz] tuffare una mano in tasca in cerca di altre munizioni, il respiro strozzato di [An] mi riempiva le orecchie." # "Reza's hand dive" -> "Reza dive his hand"
 
 # game/anna5.rpy:313
 translate italiantl _call_endingjustafewminuteslater_1_9abbc5a9:
@@ -526,7 +526,7 @@ translate italiantl _call_endingjustafewminuteslater_1_055f1421:
 translate italiantl _call_endingjustafewminuteslater_1_299ddcee:
 
     # c "The solution to this would be rather simple: We'd just need to let them know to wait a while longer while the dragons recover from expending all their power sources to stop the comet."
-    c "La soluzione a questo sarebbe piuttosto semplice: dovremmo soltanto fargli sapere di aspettare ancora un po' mentre i draghi si riprendono dall'aver prodigato tutte le loro fonti energetiche per fermare la cometa." # corrected lowercase letter
+    c "La soluzione sarebbe piuttosto semplice: dovremmo solo fargli sapere di aspettare ancora un po' mentre i draghi si riprendono dall'aver prodigato ogni loro fonte di energia per fermare la cometa." # corrected lowercase letter; "the solution [to this]"
 
 # game/anna5.rpy:417
 translate italiantl _call_endingjustafewminuteslater_1_0e62af1b:
@@ -586,7 +586,7 @@ translate italiantl _call_endingjustafewminuteslater_1_6f90b9ed:
 translate italiantl _call_endingjustafewminuteslater_1_1c187bae:
 
     # Iz "Look at this world and what they have achieved under my guidance. You want to jeopardize this for a chance – just a chance - to save your city as well?"
-    Iz "Guarda questo mondo e cosa hanno compiuto sotto la mia guida. Vorresti mettere questo a repentaglio per una possibilità—solo una possibilità—di salvare anche la tua città?" # corrected em-dash
+    Iz "Guarda questo mondo e cos'hanno compiuto sotto la mia guida. Vorresti mettere questo a repentaglio per una possibilità—solo una possibilità—di salvare anche la tua città?" # corrected em-dash
 
 # game/anna5.rpy:437
 translate italiantl _call_endingjustafewminuteslater_1_0e63918a:

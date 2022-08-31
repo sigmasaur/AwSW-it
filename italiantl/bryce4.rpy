@@ -844,7 +844,7 @@ translate italiantl _call_skipcheck_1_15fcaaff:
 translate italiantl _call_skipcheck_1_bb8eeb88:
 
     # Br "I never told anyone else about that. As much as I like everyone at the department, it's just not something I can talk about with them. You saw us at the BBQ. I'd never hear the end of it."
-    Br "Non l'ho mai detto a nessun altro. Per quanto mi piacciano tutti quanti al dipartimento, non è proprio una cosa di cui possa parlare con loro. Li hai visti alla grigliata. Non l'avrebbero più finita."
+    Br "Non l'ho mai detto a nessun altro. Per quanto mi piacciano tutti al dipartimento, non è proprio qualcosa di cui possa parlare con loro. Li hai visti alla grigliata. Non l'avrebbero più finita."
 
 # game/bryce4.rpy:427
 translate italiantl _call_skipcheck_1_949e6bbb:
@@ -1096,7 +1096,7 @@ translate italiantl _call_skipcheck_1_66d6ad29:
 translate italiantl _call_skipcheck_1_10ab538f:
 
     # Br "The building has its own security, so it's pretty clear that she's just doing it to get back at me for rejecting her. She's really good at hiding it, though. I'd never be able to prove it."
-    Br "L'edificio ha le sue protezioni, quindi è piuttosto chiaro che lo sta solo facendo per rivalersi del mio rifiuto. È molto brava a nasconderlo, però. Non sarei mai in grado di dimostrarlo."
+    Br "L'edificio ha le sue protezioni, quindi è piuttosto chiaro che lo sta facendo solo per rivalersi del mio rifiuto. È molto brava a nasconderlo, però. Non sarei mai in grado di dimostrarlo."
 
 # game/bryce4.rpy:519
 translate italiantl _call_skipcheck_1_43607757:
@@ -1498,7 +1498,7 @@ translate italiantl bryce4skip_cb86b900:
 translate italiantl bryce4skip_be68808f:
 
     # c "People have been telling me for the last few days how I just have to see them."
-    c "Da qualche giorno la gente non fa che ripetermi che devo proprio vederli." # see line 135 of Adine 4
+    c "Sono giorni che la gente mi ripete che devo proprio vederli." # see line 135 of Adine 4
 
 # game/bryce4.rpy:668
 translate italiantl bryce4skip_8b9d5aee:

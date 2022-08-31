@@ -1230,7 +1230,7 @@ translate italiantl c3conty_76b2fe88_1:
 translate italiantl c3conty_6d34864a:
 
     # n "A solar flare that was headed for Earth was detected by an automated monitoring system. It was determined to be so powerful that it dwarfed all others ever recorded in history."
-    n "Un sistema di monitoraggio automatico rilevò che diretto sulla Terra era un brillamento solare. Fu determinato essere così potente da sovrastare ogni altro che fosse mai stato registrato nella storia." # wording
+    n "Un sistema di monitoraggio automatico rilevò che un brillamento solare era diretto verso la Terra. Fu determinato essere così potente da sovrastare ogni altro mai registrato nella storia."
 
 # game/chapter3.rpy:1332
 translate italiantl c3conty_0d125879:
@@ -1314,7 +1314,7 @@ translate italiantl c3conty_76b2fe88_5:
 translate italiantl c3conty_920f6096:
 
     # n "After the lights in the sky arrived, sparks showered from electrical outlets everywhere, igniting rampant fires in every town and city."
-    n "Dopo ch'erano giunte le luci nel cielo, dovunque una pioggia di scintille si riversò dalle prese elettriche, innescando incendi dilaganti in ogni città."
+    n "Dopo che erano giunte le luci nel cielo, dovunque una pioggia di scintille si riversò dalle prese elettriche, innescando incendi dilaganti in ogni città."
 
 # game/chapter3.rpy:1381
 translate italiantl c3conty_33648959:
@@ -1362,7 +1362,7 @@ translate italiantl c3conty_ab202eb6:
 translate italiantl c3conty_3ef53b09:
 
     # n "Practically, we were back in the middle ages. Governments collapsed and were overthrown, and the ensuing power vacuums filled with groups of people that were sometimes organized and sometimes not."
-    n "Praticamente, eravamo ritornati al medioevo. I governi caddero e furono rovesciati, e i conseguenti vuoti di potere riempiti da gruppi di persone ch'erano talvolta organizzate e talvolta meno."
+    n "Praticamente, eravamo ritornati al medioevo. I governi caddero e furono rovesciati, e i conseguenti vuoti di potere riempiti da gruppi di persone che erano talvolta organizzate e talvolta meno."
 
 # game/chapter3.rpy:1400
 translate italiantl c3conty_f4cf3da8:
@@ -3214,7 +3214,7 @@ translate italiantl c3conty_a4c90328:
 translate italiantl c3conty_6053be8a:
 
     # m "I considered spending my free time roaming the town, but decided that it would be best to keep myself out of the spotlight."
-    m "Considerai di passare il mio tempo libero a fare un giro della città, ma decisi che sarebbe stato meglio tenermi lontanə dai riflettori."
+    m "Considerai di passare il mio tempo libero girando la città, ma decisi che sarebbe stato meglio tenermi lontanə dai riflettori."
 
 # game/chapter3.rpy:2252
 translate italiantl c3conty_d38c46b5:
@@ -3592,7 +3592,7 @@ translate italiantl _call_lazycheck_1_a9d09c8c:
 translate italiantl _call_lazycheck_1_5d175cfe:
 
     # m "I was shoved to the ground, and before I could regain my composure, the figure vanished into the darkness."
-    m "Fui spintə a terra, e prima che potessi riacquistare la mia compostezza, la figura svanì nell'oscurità."
+    m "Fui spintə a terra, e prima che potessi ricompormi, la figura svanì nell'oscurità."
 
 # game/chapter3.rpy:2569
 translate italiantl _call_lazycheck_1_2c78df96:
@@ -4890,7 +4890,7 @@ translate italiantl c3arcques_0a55d19e:
 translate italiantl c3arcques_1eb9ad24:
 
     # n "Most interestingly, I recognized the name of the company that was listed."
-    n "Cosa più interessante, riconobbi il nome della società ch'era indicata."
+    n "Cosa più interessante, riconobbi il nome della società che era indicata."
 
 # game/chapter3.rpy:3500
 translate italiantl c3arcques_29ccc6cf:
@@ -4916,7 +4916,7 @@ translate italiantl c3arcques_7c9f9a1e:
     # nvl clear
     # n "They were only one of the companies involved in championing the teleportation technology that was about to take off on a grand scale before the solar flare changed everything."
     nvl clear
-    n "Loro erano solo una delle società coinvolte nella propugnazione della tecnologia di teletrasporto ch'era in procinto di decollare su larga scala prima che il brillamento solare cambiasse ogni cosa."
+    n "Loro erano solo una delle società coinvolte nella propugnazione della tecnologia di teletrasporto che era in procinto di decollare su larga scala prima che il brillamento solare cambiasse ogni cosa."
 
 # game/chapter3.rpy:3510
 translate italiantl c3arcques_ae4bc12d:
@@ -4942,7 +4942,7 @@ translate italiantl c3arcques_e4c09984:
     # nvl clear
     # n "The nanomachines that became commonplace before the fall were, of course, also their product."
     nvl clear
-    n "Le nanomacchine ch'erano diventate d'uso comune prima della caduta erano, ovviamente, anch'esse un loro prodotto."
+    n "Le nanomacchine che erano diventate d'uso comune prima della caduta erano, ovviamente, anch'esse un loro prodotto."
 
 # game/chapter3.rpy:3520
 translate italiantl c3arcques_87bfce99:
@@ -5924,7 +5924,7 @@ translate italiantl _call_syscheck_26_e2a3b9f7:
 translate italiantl _call_syscheck_26_f8b6ed8e:
 
     # m "He cocked his head to the side. We both peered into the trash can that was next to the table, but it was empty."
-    m "Inclinò la testa da un lato. Sbirciammo entrambi nel cestino dei rifiuti ch'era accanto al tavolo, ma questo era vuoto."
+    m "Inclinò la testa da un lato. Sbirciammo entrambi nel cestino dei rifiuti che era accanto al tavolo, ma questo era vuoto."
 
 # game/chapter3.rpy:4398
 translate italiantl _call_syscheck_26_96448e70:
@@ -6158,7 +6158,7 @@ translate italiantl _call_popularcheck_4_d18e1351:
 translate italiantl _call_popularcheck_4_a660fec1:
 
     # Ad "Gotcha! You thought that was your answering machine, but it was me, Adine!"
-    Ad "Ci sei cascatə! Hai pensato che fosse la segreteria, ma in realtà ero io, [Ad]!" # see line 4276 of chapter 2
+    Ad "Ci sei cascatə! Hai pensato fosse la segreteria, ma in realtà ero io, [Ad]!" # see line 4276 of chapter 2
 
 # game/chapter3.rpy:4861
 translate italiantl _call_popularcheck_4_0a32300e:

@@ -16,7 +16,7 @@ translate italiantl bryce5_5a6b94bb:
 translate italiantl bryce5_c46ab4ca:
 
     # m "In front of him, there was a woven basket that was closed at the top. It reminded me a lot of a typical picnic basket."
-    m "Di fronte a lui, stava una cesta intrecciata ch'era chiusa in cima. Ricordava molto un tipico cestino da picnic."
+    m "Di fronte a lui, stava una cesta intrecciata che era chiusa in cima. Ricordava molto un tipico cestino da picnic."
 
 # game/bryce5.rpy:24
 translate italiantl bryce5_3070bc42:
@@ -400,7 +400,7 @@ translate italiantl bryce5_506e336a:
 translate italiantl bryce5_c18f7e9b:
 
     # m "Inside, I was met with a long, illuminated hallway that was lined with doors on both sides."
-    m "All'interno, fui accoltə da un lungo corridoio illuminato ch'era fiancheggiato di porte su entrambi i lati." # see line 367 of chapter 5 evil
+    m "All'interno, fui accoltə da un lungo corridoio illuminato che era fiancheggiato di porte su entrambi i lati." # see line 367 of chapter 5 evil
 
 # game/bryce5.rpy:234
 translate italiantl _call_sincethelightswerealreadyon_abca1806:
@@ -766,7 +766,7 @@ translate italiantl _call_sincethelightswerealreadyon_76b2fe88_1:
 translate italiantl _call_sincethelightswerealreadyon_df3d5158:
 
     # n "Considering our city's failure, I could only guess that whatever other cities remained had limited time as well. At this rate, humanity was doomed."
-    n "Da un lato, considerato il fallimento della nostra città, potevo solo ipotizzare che qualsiasi altra città rimasta avesse anch'essa i giorni contati. Di questo passo, l'umanità era condannata." # must match line 521
+    n "Da un lato, considerato il declino della nostra città, potevo solo immaginare che qualsiasi altra città fosse rimasta avesse anch'essa i giorni contati. Di questo passo, l'umanità era condannata." # must match line 521; "had limited time" -> ", their days were numbered"
 
 # game/bryce5.rpy:521
 translate italiantl _call_sincethelightswerealreadyon_af5fd3a0:
@@ -1564,7 +1564,7 @@ translate italiantl _call_no_27efcd63:
 translate italiantl _call_no_116dcd30:
 
     # m "He gave a weak chuckle as a trail of blood slowly ran down from the corner of his muzzle."
-    m "Mandò una debole risata mentre un rivolo di sangue lentamente gli correva da un angolo del muso."
+    m "Mandò una debole risata mentre un rivolo di sangue gli correva lentamente da un angolo del muso."
 
 # game/bryce5.rpy:1263
 translate italiantl _call_no_c67f38ba:

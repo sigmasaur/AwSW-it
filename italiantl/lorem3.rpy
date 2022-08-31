@@ -1456,7 +1456,7 @@ translate italiantl lorem3searchmenu_3070bc42:
 translate italiantl lorem3searchmenu_3caafb86:
 
     # m "He went to the center where the lines crossed and picked up an object that was lodged halfway into the ground. He returned to me once more, holding another capsule similar to the one we had found near the school."
-    m "Andò nel centro laddove le linee si incrociavano e raccolse un oggetto ch'era piantato per metà nel terreno. Ritornò da me una volta ancora, tenendo in mano un'altra capsula simile a quella che avevamo trovato vicino alla scuola."
+    m "Andò nel centro laddove le linee si incrociavano e raccolse un oggetto che era piantato per metà nel terreno. Ritornò da me una volta ancora, tenendo in mano un'altra capsula simile a quella che avevamo trovato vicino alla scuola."
 
 # game/lorem3.rpy:770
 translate italiantl lorem3searchmenu_21b066da:
@@ -1876,7 +1876,7 @@ translate italiantl lorem3searchmenu_3ee2d086:
 translate italiantl lorem3searchmenu_93891439:
 
     # m "Lorem held up the box to me. I took one of the sheets of paper that were inside and started reading."
-    m "[Lo] tenne sollevata la scatola verso di me. Presi uno dei foglietti di carta ch'erano all'interno e iniziai a leggere."
+    m "[Lo] tenne sollevata la scatola verso di me. Presi uno dei foglietti di carta che erano all'interno e iniziai a leggere."
 
 # game/lorem3.rpy:1005
 translate italiantl lorem3searchmenu_b02a3c94:
@@ -2027,7 +2027,7 @@ translate italiantl lorem3skip_df64274e:
 translate italiantl lorem3skip_7df220af:
 
     # m "He picked up a large rectangular object from the ground that was hidden in the grass. It was a wooden sign."
-    m "Raccolse da terra un grosso oggetto rettangolare ch'era nascosto nell'erba. Era un cartello di legno."
+    m "Raccolse da terra un grosso oggetto rettangolare che era nascosto nell'erba. Era un cartello di legno."
 
 # game/lorem3.rpy:1061
 translate italiantl lorem3skip_7a071fe0:

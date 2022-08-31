@@ -364,7 +364,7 @@ translate italiantl _call_skipcheck_22_4ceeca04:
 translate italiantl _call_skipcheck_22_96716c1e:
 
     # n "Either way, it seemed like a sign that we wouldn't meet again."
-    n "Comunque fosse, mi parve un segnale che non ci saremmo più incontrati." # "it seemed TO ME"
+    n "Comunque fosse, mi parve un segno che non ci saremmo più incontrati." # "it seemed TO ME"
 
 # game/remy1.rpy:262
 translate italiantl _call_skipcheck_22_76b2fe88_1:
@@ -850,7 +850,7 @@ translate italiantl remycont_e37926fe:
 translate italiantl remycont_c1913be8:
 
     # m "I scrambled to gather the various items as the voice of the dragon called out to me."
-    m "Mi precipitai a raccogliere i vari articoli mentre il drago mi chiamava a gran voce." # "[the voice of] the dragon called out to me"
+    m "Mi precipitavo a raccogliere i vari articoli quando il drago mi chiamò a gran voce." # "as" -> "when"; "[the voice of] the dragon called out to me"
 
 # game/remy1.rpy:1049
 translate italiantl remycont_83b5ca96:
@@ -910,7 +910,7 @@ translate italiantl remycont_d5f5d069:
 translate italiantl remycont_2897079b:
 
     # m "I picked up one of the scrolls that had unraveled during the commotion and taunted him with it. It now had a large hole after falling on one of the other artifacts."
-    m "Raccolsi una delle pergamene che si erano sciolte durante il trambusto e la usai per provocarlo. Ora aveva un grosso buco dopo ch'era caduta su uno degli altri manufatti." # "and taunted him with it" -> "and used it to taunt him"
+    m "Raccolsi una delle pergamene che si erano sciolte durante il trambusto e la usai per provocarlo. Ora aveva un grosso buco dopo che era caduta su uno degli altri manufatti." # "and taunted him with it" -> "and used it to taunt him"
 
 # game/remy1.rpy:1084
 translate italiantl remycont_15e5e930:

@@ -154,7 +154,7 @@ translate italiantl lorem5_3de6ab5e:
 translate italiantl lorem5_8a6266e6:
 
     # m "Considering how public of an event this was and how I was told multiple times that everyone would be watching the fireworks, now would be the best time for Reza to do anything he planned to do."
-    m "Considerato quanto era pubblico questo evento e come mi avessero detto più volte che tutti quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse qualsiasi cosa egli progettasse di fare." # see line 537 of chapter 5
+    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse qualsiasi cosa egli progettasse di fare." # "how [I was told multiple times that] everyone would be watching"; see line 537 of chapter 5
 
 # game/lorem5.rpy:107
 translate italiantl lorem5_cf6444f6:
@@ -214,7 +214,7 @@ translate italiantl lorem5_0efb5710:
 translate italiantl lorem5_6b5b5e19:
 
     # Lo think "Alright."
-    Lo think "D'accordo."
+    Lo think "D'accordo." # see line 99 of Adine 5
 
 # game/lorem5.rpy:129
 translate italiantl lorem5_e3e599e8:

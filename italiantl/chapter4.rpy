@@ -202,7 +202,7 @@ translate italiantl _call_skipcheck_20_3e323fa0:
 translate italiantl _call_skipcheck_20_17ceaf01:
 
     # Br "There is another murder victim, an employee of the hatchery who was on night duty. Her body was found quite a way from here. There's evidence of a struggle, but she covered a lot of distance before it was ultimately over."
-    Br "C'è un'altra vittima di omicidio, un'impiegata dell'incubatoio ch'era in turno di notte. Il suo corpo è stato ritrovato piuttosto lontano da qui. Ci sono segni di una lotta, ma ha coperto una lunga distanza prima che fosse del tutto finita." # "a lot of" -> "long"
+    Br "C'è un'altra vittima di omicidio, un'impiegata dell'incubatoio che era in turno di notte. Il suo corpo è stato ritrovato piuttosto lontano da qui. Ci sono segni di una lotta, ma ha coperto una lunga distanza prima che fosse del tutto finita." # "a lot of" -> "long"
 
 # game/chapter4.rpy:740
 translate italiantl _call_skipcheck_20_d013c437:
@@ -1717,7 +1717,7 @@ translate italiantl c4intuition_70b1faa0:
 translate italiantl c4intuition_682a674b:
 
     # Br brow b "Strange for him to leave everything behind, though. Everything he's stolen, all the generators are still here."
-    Br brow b "Strano da parte sua lasciarsi dietro ogni cosa, però. Tutto ciò che ha rubato, tutti i generatori sono ancora qui."
+    Br brow b "Strano da parte sua lasciarsi indietro ogni cosa, però. Tutto ciò che ha rubato, tutti i generatori sono ancora qui."
 
 # game/chapter4.rpy:1800
 translate italiantl c4intuition_48e7380f:
@@ -5287,7 +5287,7 @@ translate italiantl _call_skipcheck_21_76b2fe88_10:
 translate italiantl _call_skipcheck_21_a06d7c03:
 
     # n "In the end, I still used the lab for what it had been created for: Fusing human and animal DNA to create beings that were mostly animal, but possessed a greater intelligence that allowed them to learn whatever we wanted them to."
-    n "Alla fine, usai comunque il laboratorio per quello che era stato concepito: fondere DNA umano e animale a creare degli esseri ch'erano per lo più animali, ma possedevano un'intelligenza superiore che gli avrebbe permesso di apprendere qualsiasi cosa noi volessimo." # "allowed" -> "would allow"; "whatever we wanted [them to]"
+    n "Alla fine, usai comunque il laboratorio per quello che era stato concepito: fondere DNA umano e animale a creare degli esseri che erano per lo più animali, ma possedevano un'intelligenza superiore che gli avrebbe permesso di apprendere qualsiasi cosa noi volessimo." # "allowed" -> "would allow"; "whatever we wanted [them to]"
 
 # game/chapter4.rpy:4416
 translate italiantl _call_skipcheck_21_3a134373:
@@ -5563,7 +5563,7 @@ translate italiantl _call_skipcheck_21_49dafd96:
 translate italiantl _call_skipcheck_21_58a4f49a:
 
     # As "The entry and end point of the black hole would be the same place and the same portal, with the way travelled being just along the time axis."
-    As "I punti di entrata e di uscita del buco nero sarebbero stati lo stesso luogo e lo stesso portale, con la strada da percorrere ch'era solo lungo l'asse del tempo." # "end" -> "exit"; "with the way TO BE travelled"
+    As "I punti di entrata e di uscita del buco nero sarebbero stati lo stesso luogo e lo stesso portale, con la strada da percorrere che era solo lungo l'asse del tempo." # "end" -> "exit"; "with the way TO BE travelled"
 
 # game/chapter4.rpy:4524
 translate italiantl _call_skipcheck_21_93dc963e:
@@ -5714,7 +5714,7 @@ translate italiantl _call_skipcheck_21_c025c2be:
 translate italiantl _call_skipcheck_21_f2eae827:
 
     # As "However, this is only possible through the connection that has already been forged. If we wanted to, we could also use our portal to send you back to your own time period, but to a moment before Reza even arrived here."
-    As "Comunque, ciò è possibile solo attraverso la connessione ch'era già stata forgiata. Se volessimo, potremmo anche usare il nostro portale per rimandarti nella tua stessa epoca, ma in un momento ancora prima che [Rz] arrivasse qui."
+    As "Comunque, ciò è possibile solo attraverso la connessione che era già stata forgiata. Se volessimo, potremmo anche usare il nostro portale per rimandarti nella tua stessa epoca, ma in un momento ancora prima che [Rz] arrivasse qui."
 
 # game/chapter4.rpy:4574
 translate italiantl _call_skipcheck_21_b6465cfa:
@@ -6296,7 +6296,7 @@ translate italiantl _call_popularcheck_22_d18e1351:
 translate italiantl _call_popularcheck_22_a660fec1:
 
     # Ad "Gotcha! You thought that was your answering machine, but it was me, Adine!"
-    Ad "Ci sei cascatə! Hai pensato che fosse la segreteria, ma in realtà ero io, [Ad]!" # see line 4276 of chapter 2
+    Ad "Ci sei cascatə! Hai pensato fosse la segreteria, ma in realtà ero io, [Ad]!" # see line 4276 of chapter 2
 
 # game/chapter4.rpy:5294
 translate italiantl _call_popularcheck_22_0a32300e:

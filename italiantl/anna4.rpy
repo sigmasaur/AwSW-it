@@ -196,7 +196,7 @@ translate italiantl _call_skipcheck_17_0825a27e:
 translate italiantl _call_skipcheck_17_3a996be4:
 
     # n "Whether someone had not been following health & safety protocols as well as they should have or if I was just unlucky, I'll never know. But the reality was that I now had a disease that was treatable, but not curable."
-    n "Se qualcuno non abbia seguito i protocolli di salute e sicurezza come avrebbe dovuto o io abbia soltanto avuto sfortuna, non lo saprò mai. Ma la realtà era che adesso avevo una malattia ch'era trattabile, ma non curabile."
+    n "Se qualcuno non abbia seguito i protocolli di salute e sicurezza come avrebbe dovuto o io abbia soltanto avuto sfortuna, non lo saprò mai. Ma la realtà era che adesso avevo una malattia che era trattabile, ma non curabile."
 
 # game/anna4.rpy:187
 translate italiantl _call_skipcheck_17_5f5d28f1:

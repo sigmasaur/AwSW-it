@@ -993,7 +993,7 @@ translate italiantl bryce2cont2_230b2278:
 translate italiantl bryce2cont2_4f8449a3:
 
     # m "Bryce's store-bought beer looked very different from what I had seen in the bar. They were presented in large plastic bowls that were sealed at the top, reminding me of yogurt containers."
-    m "La birra da supermercato di [Br] sembrava molto diversa da quella che avevo visto al bar. Era presentata in una larga coppetta di plastica ch'era sigillata in cima, ricordandomi un contenitore di yogurt."
+    m "La birra da supermercato di [Br] sembrava molto diversa da quella che avevo visto al bar. Si presentava in una larga coppetta di plastica che era sigillata in cima, ricordandomi un contenitore di yogurt."
 
 # game/bryce2.rpy:813
 translate italiantl bryce2cont2_1175063f:
@@ -1605,7 +1605,7 @@ translate italiantl bryce2cont2_f698ff9f:
 translate italiantl bryce2cont2_538fa634:
 
     # m "I took the flap of the seal between two fingers and pulled on it just enough so the seal broke and the hissing sound indicated to both of us that the vacuum was gone."
-    m "Presi il lembo del sigillo fra le dita e lo tirai quel tanto che bastava perché il sigillo si rompesse e il sibilo lasciasse intendere a entrambi che il vuoto era sparito." # "between two fingers" -> "between my fingers"
+    m "Presi il lembo del sigillo fra le dita e lo tirai quel tanto che bastava perché il sigillo si rompesse e il sibilo indicasse a entrambi che il vuoto era sparito." # "between two fingers" -> "between my fingers"
 
 # game/bryce2.rpy:1099
 translate italiantl bryce2cont2_c39ea2f3:
@@ -2207,7 +2207,7 @@ translate italiantl strings:
 
     # bryce2.rpy:890
     old "That's just the way we are."
-    new "Semplicemente è così che siamo fatti."
+    new "È così che siamo fatti." # "that's [just] the way we are"
 
     # bryce2.rpy:890
     old "Evolution, I suppose?"

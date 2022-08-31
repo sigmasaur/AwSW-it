@@ -382,7 +382,7 @@ translate italiantl _call_skipcheck_9_8cd93345:
 translate italiantl _call_skipcheck_9_bcb0ae6a:
 
     # Ad "Pretty much. We can do enough to safely hunt and paddle on the surface, but that's about it. If we actually want to go swimming, it's recommended we wear a life vest."
-    Ad "Praticamente. Sappiamo fare quanto basta per cacciare e nuotare al sicuro in superficie, ma più o meno è tutto. Se vogliamo davvero andare a fare il bagno, è consigliabile che indossiamo un giubbotto salvagente." # wording
+    Ad "Praticamente. Sappiamo fare quanto basta per cacciare e nuotare al sicuro in superficie, ma più o meno è tutto. Se vogliamo davvero andare a fare il bagno, è consigliabile che indossiamo un giubbotto salvagente."
 
 # game/adine3.rpy:285
 translate italiantl _call_skipcheck_9_21c714fe:
