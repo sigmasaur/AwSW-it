@@ -432,7 +432,7 @@ translate italiantl begingame_01f41d60:
 translate italiantl begingame_29ac0db6:
 
     # n "When the time came for me to step through the portal, all my mental preparedness vanished. My anxiousness was fueled by all the questions lurking in my head, just as the machine started to do its work."
-    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale svanì. Come la macchina ebbe iniziato a fare il suo lavoro, la mia ansietà fu alimentata da tutte le domande che mi si erano annidate in testa."
+    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale svanì. Come la macchina iniziò a fare il suo lavoro, la mia ansietà fu alimentata da tutte le domande che mi si erano annidate in testa."
 
 # game/chapter1.rpy:506
 translate italiantl begingame_608fb1d8:
@@ -1593,7 +1593,7 @@ translate italiantl _call_skipcheck_3_1ccb67dc:
 translate italiantl _call_skipcheck_3_d54bfe60:
 
     # m "Eventually, I took a bite of my somewhat unusual breakfast. While I already thought the smell was quite peculiar, the taste had been even worse. I imagined it might be the kind of delicacy that had an acquired taste. One that I certainly hadn't acquired yet. I decided to get outside before it was too late."
-    m "Finalmente, detti un morso alla mia alquanto inusuale colazione. Per quanto già pensassi che l'odore fosse alquanto peculiare, il sapore era anche peggio. Immaginai potesse essere il tipo di prelibatezza che si apprezza col tempo. Una che di certo non apprezzavo ancora. Decisi di uscirmene fuori prima che fosse troppo tardi."
+    m "Finalmente, detti un morso alla mia alquanto insolita colazione. Per quanto già pensassi che l'odore fosse alquanto peculiare, il sapore era anche peggio. Immaginai potesse essere il tipo di prelibatezza che si apprezza col tempo. Una che di certo non apprezzavo ancora. Decisi di uscirmene fuori prima che fosse troppo tardi."
 
 # game/chapter1.rpy:1799
 translate italiantl _call_skipcheck_3_0da74151:
@@ -2139,7 +2139,7 @@ translate italiantl _call_syscheck_6_5dc3c29d:
 translate italiantl _call_syscheck_6_1a7f73a9:
 
     # n "I didn't remember ever having a conversation about this topic with him, yet he still relied on me to remember whatever it was that I was missing. Or he thought I would just be able to figure it out on my own."
-    n "Non ricordavo di aver mai avuto con lui una conversazione su questo argomento, eppure contava comunque su di me per ricordare qualunque cosa fosse che mi sfuggiva. Oppure pensava che sarei semplicemente statə in grado di arrivarci da solə."
+    n "Non ricordavo di aver mai avuto con lui una conversazione su questo argomento, eppure contava comunque su di me perché ricordassi qualunque cosa fosse che mi sfuggiva. Oppure pensava che sarei semplicemente statə in grado di arrivarci da solə."
 
 # game/chapter1.rpy:2105
 translate italiantl _call_syscheck_6_d55f237b:
@@ -2323,7 +2323,7 @@ translate italiantl increasing_43f2e8f5:
 translate italiantl increasing_a0b98dc0:
 
     # c "(I have now reached the point where, statistically speaking, I should have gotten the right one. Either I'm just exceptionally bad at guessing or I should start looking elsewhere.)"
-    c "(Adesso ho raggiunto un punto in cui, statisticamente, avrei dovuto azzeccare quella giusta. O sono solo eccezionalmente scarsə a indovinare o dovrei iniziare a cercare altrove.)"
+    c "(Adesso ho raggiunto un punto in cui, statisticamente, avrei dovuto azzeccare quella giusta. O sono solo eccezionalmente scarsə a indovinare, o dovrei iniziare a cercare altrove.)"
 
 # game/chapter1.rpy:2257
 translate italiantl increasing_c1a963af:
@@ -2401,19 +2401,19 @@ translate italiantl _call_syscheck_7_1d124486:
 translate italiantl _call_syscheck_7_133cdd03:
 
     # n "I was lost in a sea of uncertainty, drifting, hoping to be found by the one, one day. And then I did. How fast time flies when you're happy, I can't believe this was just two weeks ago. Two weeks ago I found the one, my truest soulmate there ever could be."
-    n "Ero persa in un mare d'incertezza, alla deriva, sperando di essere trovata da quell'uno, un giorno. E poi è successo. Come vola il tempo quando sei felice, non posso credere che fosse solo due settimane fa. Due settimane fa ho trovato quell'uno, l'anima gemella mia più autentica che ci possa mai essere."
+    n "Ero persa in un mare d'incertezza, alla deriva, sperando di essere trovata da quell'uno, un giorno. E poi è successo. Come vola il tempo quando sei felice, non posso crederci che era solo due settimane fa. Due settimane fa ho trovato quell'uno, l'anima gemella mia più autentica che ci possa mai essere."
 
 # game/chapter1.rpy:2351
 translate italiantl _call_syscheck_7_a455b8f2:
 
     # n "Like a wrecking ball, he came out of nothing, breaking all the barriers and entered my life. Two weeks ago, I was nothing. Today, I am the happiest dragon alive. Who knew that out of all the people alive, it only took the right one to right life itself." # wrecking ball is a reference to the miley cyrus song
-    n "Come una palla demolitrice, è saltato fuori dal nulla, rompendo ogni barriera ed è entrato nella mia vita. Due settimane or sono, non ero nulla. Oggi, sono il drago più felice al mondo. Chi sapeva che di tutte le persone al mondo, sarebbe bastata quella giusta per aggiustare la vita stessa."
+    n "Come una palla demolitrice, è saltato fuori dal nulla, rompendo ogni barriera ed è entrato nella mia vita. Due settimane fa, non ero nulla. Oggi, sono la dragonessa più felice del mondo. Chi sapeva che di tutte le persone al mondo, sarebbe bastata quella giusta per aggiustare la vita stessa."
 
 # game/chapter1.rpy:2352
 translate italiantl _call_syscheck_7_43576349:
 
     # n "Who knew that to meet the perfect one, the only thing you needed was..."
-    n "Chi sapeva che per incontrare quello perfetto, la sola cosa che serviva fosse..."
+    n "Chi sapeva che per incontrare quello perfetto, la sola cosa che serviva era..."
 
 # game/chapter1.rpy:2355
 translate italiantl _call_syscheck_7_d58440a5:
@@ -3143,7 +3143,7 @@ translate italiantl continuation_b61bb95e:
 translate italiantl continuation_97d4eb26:
 
     # m "He turned around to face whatever I was seeing. He squinted hard before he called out."
-    m "Si voltò a guardare qualsiasi cosa io stessi vedendo. Strizzò forte gli occhi prima di chiamare a gran voce."
+    m "Si voltò verso qualsiasi cosa io stessi vedendo. Strizzò forte gli occhi prima di chiamare a gran voce."
 
 # game/chapter1.rpy:2862
 translate italiantl continuation_c550c4fe:
@@ -3683,7 +3683,7 @@ translate italiantl investigation_41043505:
 translate italiantl investigation_431a0aec:
 
     # Br "I know it won't be pretty, and I'm sorry for putting you through this, but you know what's at stake here. Just remember what I told you and you should be fine."
-    Br "So che non sarà piacevole, e mi dispiace averti trascinato in tutto questo, ma lo sai cosa c'è in gioco qui. Ricorda solo ciò che ti ho detto e andrà tutto bene." # "should be fine" -> "will be fine"
+    Br "So che non sarà piacevole, e mi dispiace farti passare tutto questo, ma lo sai cosa c'è in gioco qui. Ricorda solo ciò che ti ho detto e andrà tutto bene." # "should be fine" -> "will be fine"
 
 # game/chapter1.rpy:3204
 translate italiantl investigation_86148265:
@@ -4529,7 +4529,7 @@ translate italiantl _call_syscheck_13_fa395534:
 translate italiantl _call_syscheck_13_f1d1df9e:
 
     # c "Can he even just do his own investigation like that?"
-    c "Può veramente condurre una sua indagine a quel modo?"
+    c "Può davvero condurre una sua indagine a quel modo?" # "even just" -> "really"
 
 # game/chapter1.rpy:3764
 translate italiantl _call_syscheck_13_13ab97f3:
@@ -4855,7 +4855,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1627
     old "It does seem rather strange that they need someone following us everywhere."
-    new "In effetti è piuttosto strano che gli serva che qualcuno ci segua dovunque."
+    new "In effetti è piuttosto strano che gli serva che qualcuno ci segua ovunque."
 
     # chapter1.rpy:1627
     old "Maybe he just likes you a lot."

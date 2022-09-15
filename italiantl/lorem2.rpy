@@ -112,7 +112,7 @@ translate italiantl _call_skipcheck_33_f95659c8:
 translate italiantl _call_skipcheck_33_694805d0:
 
     # c "Ancestors? Well, it does remind me of some of the dragons I've seen here, but I'm not sure what humans have to do with this."
-    c "Antenati? Be', in effetti mi ricorda alcuni dei draghi che ho visto qui, ma non sono sicurə di cos'abbiano a che vederci gli umani."
+    c "Antenati? Be', in effetti mi ricorda alcuni dei draghi che ho visto qui, ma non sono sicurə di cosa abbiano a che vederci gli umani."
 
 # game/lorem2.rpy:202
 translate italiantl _call_skipcheck_33_2025d514:
@@ -130,7 +130,7 @@ translate italiantl _call_skipcheck_33_c0d6d907:
 translate italiantl _call_skipcheck_33_9cd7a0e0:
 
     # Lo happy "The short version is that some believe we were created by a human. What happened to that human after we were made is a mystery, though. Some think they turned into a dragon and lived among us."
-    Lo happy "La versione breve è che alcuni credono che siamo stati creati da un umano. Cosa sia successo a quell'umano dopo che siamo stati creati è un mistero, però. Alcuni pensano che si sia trasformato in un drago e abbia vissuto fra noi."
+    Lo happy "La versione breve è che alcuni credono che siamo stati creati da un umano. Cosa sia successo a quell'umano dopo che siamo stati creati è un mistero, però. Alcuni pensano si sia trasformato in un drago e abbia vissuto fra noi."
 
 # game/lorem2.rpy:220
 translate italiantl _call_skipcheck_33_754a2ea1:
@@ -370,7 +370,7 @@ translate italiantl _call_skipcheck_33_6fabbf93:
 translate italiantl _call_skipcheck_33_22d25aeb:
 
     # m "I walked up to the spot he indicated. When I took my place, I saw that he had laid out a number of pens, paper and other art supplies on the table."
-    m "Mi avvicinai al punto che aveva indicato. Quando presi posto, vidi che aveva disposto sul tavolino un certo numero di carte, penne e altri materiali artistici."
+    m "Andai verso il punto che aveva indicato. Quando presi posto, vidi che aveva disposto sul tavolino un certo numero di carte, penne e altri materiali artistici."
 
 # game/lorem2.rpy:391
 translate italiantl _call_skipcheck_33_5571d29f:
@@ -2314,7 +2314,7 @@ translate italiantl _call_skipcheck_33_2766b30d:
 translate italiantl _call_skipcheck_33_3143fb2b:
 
     # c "Just give me a call sometime and we'll figure out the rest."
-    c "Fammi uno squillo qualche volta e ci organizzeremo sul resto."
+    c "Fammi uno squillo qualche volta e al resto penseremo."
 
 # game/lorem2.rpy:1302
 translate italiantl _call_skipcheck_33_5cf2c7e9:

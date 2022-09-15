@@ -316,7 +316,7 @@ translate italiantl endingjustafewminuteslaterx_dc91ba86:
 translate italiantl endingjustafewminuteslaterx_962f46a5:
 
     # m "There was a suitcase leaning against the portal."
-    m "Una valigetta era appoggiata contro il portale."
+    m "Una valigetta era appoggiata al portale."
 
 # game/chapter5evilending.rpy:340
 translate italiantl endingjustafewminuteslaterx_92c81424:
@@ -598,7 +598,7 @@ translate italiantl no_4ca4f52e:
 translate italiantl no_539a3b14:
 
     # c "I'm not going to just abandon them like that, only for their whole civilization to be wiped out."
-    c "Non ho intenzione di abbandonarli così e basta, solo per vedere la loro intera civiltà spazzata via."
+    c "Non ho intenzione di abbandonarli così e basta, solo perché la loro intera civiltà sia spazzata via."
 
 # game/chapter5evilending.rpy:531
 translate italiantl no_50475dcc:
@@ -892,7 +892,7 @@ translate italiantl no_d8514ee7:
 translate italiantl no_9e2cabfd:
 
     # Rz angry "We are so close now. We can't risk anything by waiting for your crazy plan when back home they are dying by the minute. I will not let you."
-    Rz angry "Siamo così vicini adesso. Non possiamo rischiare ogni cosa nell'aspettare il tuo folle piano quando a casa muoiono di minuto in minuto. Non te lo permetto." # "anything" -> "everything"
+    Rz angry "Ormai siamo così vicini. Non possiamo rischiare ogni cosa e aspettare il tuo folle piano quando a casa muoiono di minuto in minuto. Non te lo permetto." # "anything" -> "everything"
 
 # game/chapter5evilending.rpy:633
 translate italiantl no_4876a4e4:
@@ -1048,7 +1048,7 @@ translate italiantl skiptut_5e30f108:
 translate italiantl skiptut_a325d596:
 
     # s "Well, here's the deal: Using the skip buttons can be tedious, especially when encountering puzzles you've already solved before or when faced with long dialogue trees."
-    s "Be', il fatto è questo: usare i pulsanti di salto può essere tedioso, specie quando incontri enigmi che hai già risolto in passato o ti trovi di fronte a lunghi alberi di conversazione." # corrected lowercase letter
+    s "Be', il fatto è questo: usare i pulsanti di salto può essere tedioso, specie quando incontri enigmi che hai già risolto in passato o sei di fronte a lunghi alberi di conversazione." # corrected lowercase letter
 
 # game/chapter5evilending.rpy:849
 translate italiantl skiptut_738b6997:

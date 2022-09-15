@@ -172,7 +172,7 @@ translate italiantl remy5_184fb767:
 translate italiantl remy5_051ed2da:
 
     # Ry "Where is he? Where should I go?"
-    Ry "Dov'è lui? Dove dovrei andare?" # see line 150 of Lorem 5
+    Ry "Lui dov'è? Dove dovrei andare?" # see line 150 of Lorem 5
 
 # game/remy5.rpy:103
 translate italiantl remy5_0c5f1631:
@@ -208,7 +208,7 @@ translate italiantl _call_endingjustafewminuteslater_2_0599b8cd:
 translate italiantl _call_endingjustafewminuteslater_2_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo ci fosse ancora uno straccio di umanità dentro di te..." # see line 134 of Adine 5
+    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo avessi ancora uno straccio di umanità dentro di te..." # see line 134 of Adine 5
 
 # game/remy5.rpy:145
 translate italiantl _call_endingjustafewminuteslater_2_bdbf243c:
@@ -358,7 +358,7 @@ translate italiantl _call_endingjustafewminuteslater_2_61918c17:
 translate italiantl _call_endingjustafewminuteslater_2_1f200234:
 
     # m "Reza was leaning against the wall, his head slumped forward lifelessly."
-    m "[Rz] era appoggiato contro la parete, la sua testa accasciata in avanti, senza vita."
+    m "[Rz] era appoggiato alla parete, la sua testa accasciata in avanti, senza vita."
 
 # game/remy5.rpy:322
 translate italiantl _call_endingjustafewminuteslater_2_bd6f8931:
@@ -610,7 +610,7 @@ translate italiantl _call_endingjustafewminuteslater_2_66b35bfa:
 translate italiantl _call_endingjustafewminuteslater_2_8d55e061:
 
     # n "I arrived on the other side, only to be met by a team of EMTs who were already expecting me."
-    n "Giunsi dall'altro lato, solo per essere accoltə da una squadra di soccorritori che mi stavano già aspettando."
+    n "Giunsi all'altro lato, solo per essere accoltə da una squadra di soccorritori che mi stavano già aspettando."
 
 # game/remy5.rpy:445
 translate italiantl _call_endingjustafewminuteslater_2_d1f4d311:
@@ -1090,7 +1090,7 @@ translate italiantl remygoodending_3bdde3df:
 translate italiantl remygoodending_4ce516bc:
 
     # m "Reza aimed a kick at her, only to lose his balance and fall when she bit and held onto his shin."
-    m "[Rz] le assestò un calcio, solo per perdere l'equilibrio e cadere quando lei lo morse allo stinco e vi si aggrappò."
+    m "[Rz] le assestò un calcio, salvo poi perdere l'equilibrio e cadere quando lei lo morse allo stinco e vi si aggrappò."
 
 # game/remy5.rpy:856
 translate italiantl remygoodending_fe3eabbd:
@@ -1174,7 +1174,7 @@ translate italiantl remygoodending_e6933e74:
 translate italiantl remygoodending_a2efe0ef:
 
     # n "I warned them about the comet, telling them to check the PDAs I had given them for verification of my claims."
-    n "Misi in guardia i draghi sulla cometa, dicendo loro di controllare il palmare che gli avevo dato per verificare le mie affermazioni."
+    n "Misi in guardia i draghi sulla cometa, dicendo loro di controllare il palmare che gli avevo dato per verificare le mie affermazioni." # "I warned them" -> "I warned the dragons"
 
 # game/remy5.rpy:1048
 translate italiantl remygoodending_fbf00c38:

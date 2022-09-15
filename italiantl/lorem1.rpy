@@ -112,7 +112,7 @@ translate italiantl _call_skipcheck_16_dd38c1dc:
 translate italiantl _call_skipcheck_16_45499fc8:
 
     # c "Before we get to that, you haven't even told me yet what exactly all this is for. Are you sure you're not a reporter?"
-    c "Prima di venire a quello, non mi hai nemmeno ancora detto a cosa serve esattamente tutto questo. Sicuro di non essere un reporter?" # "[are] you sure you're not a reporter"
+    c "Prima di venire a quello, non mi hai ancora nemmeno detto a cosa serve esattamente tutto questo. Sicuro di non essere un reporter?" # "[are] you sure you're not a reporter"
 
 # game/lorem1.rpy:160
 translate italiantl _call_skipcheck_16_260d481d:
@@ -478,13 +478,13 @@ translate italiantl _call_skipcheck_16_fca12b73:
 translate italiantl _call_skipcheck_16_be8b7287:
 
     # c "How so?"
-    c "In che modo?"
+    c "In che senso?"
 
 # game/lorem1.rpy:443
 translate italiantl _call_skipcheck_16_b613766c:
 
     # Lo normal "The question of the mythical human can be tackled in a variety of ways. There are many different interpretations of what humans are like."
-    Lo normal "La questione dell'umano mitologico può essere attaccata in una varietà di modi. Ci sono molte diverse interpretazioni di come siano gli umani."
+    Lo normal "La questione dell'umano mitologico può essere attaccata in una varietà di modi. Ci sono molte, diverse interpretazioni di come siano gli umani."
 
 # game/lorem1.rpy:445
 translate italiantl _call_skipcheck_16_56a7507d:
@@ -1078,7 +1078,7 @@ translate italiantl _call_skipcheck_16_de842598:
 translate italiantl _call_skipcheck_16_be8b7287_1:
 
     # c "How so?"
-    c "In che modo?"
+    c "In che senso?"
 
 # game/lorem1.rpy:695
 translate italiantl _call_skipcheck_16_e26e90cd:

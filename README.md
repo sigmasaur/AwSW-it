@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on the true ending. Files done and up for review:
+Currently working on the secondary characters' sections. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -50,10 +50,16 @@ Currently working on the true ending. Files done and up for review:
     remy4.rpy
     remy5.rpy
 
+    chapter5trueendings.rpy
+
 ## Remarks and issues
 
 * Having considered the developer's opinion, and given the precedent of game *Neo Cab*, I decided to use [Inclusive Italian][1] to help address the player character with a neutral gender. I took the liberty of updating the fonts with `ə` and `ɜ`, needed for such neutral gender, as well as with accented vowels, which were needed anyway.<br>
-On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change. Also, `Emera` is addressed by all other characters with formal pronouns, as are `Anna` by `Adine`, `Sebastian` by `Adine` and `Lorem`, and `Adine` by `Sebastian` in those few cases.
+On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`, are currently addressed with the male form for lack of a better alternative, but this is still subject to change. Also, `Emera` is addressed by all other characters with formal pronouns, as are:
+  * `Anna` by `Adine` in `anna1.rpy`;
+  * `Sebastian` by `Adine` and viceversa in `chapter1.rpy` and `chapter3.rpy`;
+  * `Sebastian` by `Lorem` in `chapter1.rpy`;
+  * `Heinz` by the crew and viceversa in `chapter5trueendings.rpy`.
 
 * I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`, to reduce the risk of typos when translating.
 
@@ -497,6 +503,15 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1064: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1068: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
 * At line 1119: Split in multiple parts to fit fewer lines.
+
+### [`chapter5trueendings.rpy`](italiantl/chapter5trueendings.rpy)
+
+* At line 7, 37, 122, 164, 300, 326, 384, 404, 676, 758, 1028, 1120, 1206, 1375, 1543, 1573, 1603, 1638, 1749, 1751, 1774: Corrected simple dash to em-dash.
+* At line 122, 588: Split in multiple parts to fit fewer lines.
+* At line 314, 404, 788: Corrected uppercase letter to lowercase after colon.
+* At line 588: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
+* At line 1488: Dropped gender information about the person sent instead of the player character, by linguistic necessity.
+* At line 1762, 1764: Note that it would take almost two years to relocate one million dragons (see line 1579) at the indicative rate of one dragon per minute. Also note that the portal needs recharging, see line 141 of [`bryce5.rpy`](#bryce5rpy). 
 
 ## Other remarks
 

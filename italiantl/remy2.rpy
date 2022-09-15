@@ -592,7 +592,7 @@ translate italiantl remy2menu2_1223f003:
 translate italiantl remy2menu2_8d7d4662:
 
     # c "I saw as much. You may have heard that I have a degree in biology, which is one of the reasons I was given the honor of coming here in the first place. As such, your anatomy is of high interest to me and one of the things I'm supposed to study."
-    c "Ho visto. Potresti aver sentito che ho una laurea in biologia, che è una delle ragioni per cui sin dall'inizio ho avuto l'onore di venire qui. E pertanto, la tua anatomia è di grande interesse per me, e una delle cose che si suppone io studi." # "as such" -> "therefore"; see line 233 of Lorem 3
+    c "Ho visto. Potresti aver sentito che ho una laurea in biologia, che è uno dei motivi per cui sin dall'inizio ho avuto l'onore di venire qui. E pertanto, la tua anatomia è di grande interesse per me, e una delle cose che si suppone io studi." # "as such" -> "therefore"; see line 233 of Lorem 3
 
 # game/remy2.rpy:596
 translate italiantl remy2menu2_ca8681b9:
@@ -1708,7 +1708,7 @@ translate italiantl _call_skipcheck_35_059865fe:
 translate italiantl _call_skipcheck_35_191efd00:
 
     # n "It seemed unreal that someone with his personality could still eat his half with a single bite when I took much longer with my tiny fork."
-    n "Sembrò surreale che qualcuno con la sua personalità potesse comunque mangiarsi la sua metà con un singolo morso quando io ci misi molto di più con la mia minuscola forchetta."
+    n "Sembrò surreale che qualcuno con la sua personalità potesse comunque mangiarsi la sua metà in un sol boccone quando io ci misi molto di più con la mia minuscola forchetta."
 
 # game/remy2.rpy:1385
 translate italiantl _call_skipcheck_35_0b0ff756:

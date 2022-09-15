@@ -58,7 +58,7 @@ translate italiantl adine5_4940f35f:
 translate italiantl adine5_d1711577:
 
     # c "So this is your secret spot, then?"
-    c "Così questo è il tuo angolino segreto, allora?"
+    c "Così questo è il tuo angolino segreto?"
 
 # game/adine5.rpy:46
 translate italiantl adine5_5d270bd2:
@@ -208,7 +208,7 @@ translate italiantl _call_endingjustafewminuteslater_4_0599b8cd:
 translate italiantl _call_endingjustafewminuteslater_4_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo ci fosse ancora uno straccio di umanità dentro di te..."
+    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo avessi ancora uno straccio di umanità dentro di te..."
 
 # game/adine5.rpy:142
 translate italiantl _call_endingjustafewminuteslater_4_bdbf243c:
@@ -292,7 +292,7 @@ translate italiantl _call_endingjustafewminuteslater_4_48e40cdb:
 translate italiantl _call_endingjustafewminuteslater_4_81e65529:
 
     # m "Reza was quick with his gun and shot Adine once before Maverick even had a chance to charge."
-    m "[Rz] fu svelto con la pistola e sparò ad [Ad] una volta prima che [Mv] avesse anche solo una possibilità di andare alla carica."
+    m "[Rz] fu svelto con la pistola e sparò ad [Ad] una volta prima ancora che [Mv] avesse la possibilità di andare alla carica."
 
 # game/adine5.rpy:237
 translate italiantl _call_endingjustafewminuteslater_4_33f1ed09:
@@ -628,7 +628,7 @@ translate italiantl adinegoodending_dc9adf37:
 translate italiantl adinegoodending_c262cf28:
 
     # m "It was Maverick, who pounced immediately. Reza fell to the ground, and before he could so much as react, Maverick buried his teeth in Reza's neck and bit down."
-    m "Si trattava di [Mv], il quale gli fu subito addosso. [Rz] cadde a terra, e prima che potesse anche solo reagire, [Mv] gli affondò i denti nel collo e ve li serrò." # "who pounced ON HIM immediately"; "Reza's" -> "his"
+    m "Si trattava di [Mv], il quale gli fu subito addosso. [Rz] cadde a terra, e prima ancora che potesse reagire, [Mv] gli affondò i denti nel collo e ve li serrò." # "who pounced ON HIM immediately"; "Reza's" -> "his"
 
 # game/adine5.rpy:676
 translate italiantl adinegoodending_b338360e:
@@ -676,7 +676,7 @@ translate italiantl adinegoodending_7d0b35bd:
 translate italiantl adinegoodending_56341089:
 
     # m "Adine went into one of the adjoining rooms, only to reappear with a first aid kit shortly afterwards."
-    m "[Ad] andò in una delle stanze adiacenti, solo per riapparire poco più tardi con un kit di primo soccorso."
+    m "[Ad] andò in una delle stanze adiacenti, salvo poi riapparire poco più tardi con un kit di primo soccorso."
 
 # game/adine5.rpy:714
 translate italiantl adinegoodending_46ac73c9:

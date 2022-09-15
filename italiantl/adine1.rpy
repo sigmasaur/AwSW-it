@@ -202,7 +202,7 @@ translate italiantl _call_skipcheck_10_0054b77b:
 translate italiantl _call_skipcheck_10_e53dbbb3:
 
     # c "Feel right at home. I better eat this before it gets cold."
-    c "Fa' pure come a casa. Farò meglio a mangiare questo prima che si raffreddi."
+    c "Fa' pure come a casa. Farò meglio a mangiare prima che si raffreddi." # "I better eat [this]"
 
 # game/adine1.rpy:257
 translate italiantl _call_skipcheck_10_f212dc62:

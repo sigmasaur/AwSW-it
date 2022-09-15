@@ -601,7 +601,7 @@ translate italiantl _call_syscheck_85_76b2fe88_1:
 translate italiantl _call_syscheck_85_f811fa9e:
 
     # Ry "Sorry to disappoint you, but it seems only a single book is in the right place."
-    Ry "Mi spiace deluderti, ma sembra che un singolo libro sia al giusto posto." # see line 776
+    Ry "Mi spiace deluderti, ma sembra che un solo libro sia al giusto posto." # see line 776
 
 # game/remy1.rpy:841
 translate italiantl _call_syscheck_85_b548434c_1:
@@ -667,7 +667,7 @@ translate italiantl _call_syscheck_85_76b2fe88_3:
 translate italiantl _call_syscheck_85_b2060474:
 
     # Ry "Sorry to disappoint you, but it seems not a single book is in the right place."
-    Ry "Mi spiace deluderti, ma sembra che non un singolo libro sia al giusto posto." # see line 835
+    Ry "Mi spiace deluderti, ma sembra che non un solo libro sia al giusto posto." # see line 835
 
 # game/remy1.rpy:903
 translate italiantl _call_syscheck_85_b548434c_2:
@@ -1109,7 +1109,7 @@ translate italiantl remystuff_e172207e:
 translate italiantl remystuff_b4147b08:
 
     # Ry "The machinery of the portal merely stabilizes the wormhole so that we may utilize it. We actually are just taking advantage of a naturally occurring phenomenon."
-    Ry "Il macchinario del portale si limita a stabilizzare il cunicolo cosicché possiamo utilizzarlo. In effetti stiamo solo sfruttando un fenomeno che accade in natura."
+    Ry "Il macchinario del portale si limita a stabilizzare il cunicolo affinché possiamo utilizzarlo. In effetti stiamo solo sfruttando un fenomeno che accade in natura."
 
 # game/remy1.rpy:1167
 translate italiantl remystuff_d5dc3f83:
@@ -1740,7 +1740,7 @@ translate italiantl _call_syscheck_86_c0c33572:
 translate italiantl _call_syscheck_86_7729e86f:
 
     # Ry "I had it saved specifically at that moment to play it later... and now it's all gone."
-    Ry "L'avevo salvato appositamente in quel momento per giocarlo più tardi... e ora è tutto sparito."
+    Ry "L'avevo salvato appositamente in quell'istante per giocarlo più tardi... e ora è tutto sparito."
 
 # game/remy1.rpy:1595
 translate italiantl _call_syscheck_86_00b08768:

@@ -345,7 +345,7 @@ translate italiantl _call_skipcheck_6_ad77cb08:
 translate italiantl _call_skipcheck_6_143bfecc:
 
     # Br normal "And of course, I wanna be fit for duty. As the chief, people look up to me, so I have to be at my best at all times."
-    Br normal "E ovviamente, voglio essere degno del mio compito. In quanto capo, la gente mi guarda con ammirazione, e quindi devo essere al mio meglio in ogni momento."
+    Br normal "E naturalmente, voglio essere idoneo al servizio. In quanto capo, la gente mi guarda con ammirazione, e quindi devo essere al mio meglio in ogni momento."
 
 # game/bryce2.rpy:347
 translate italiantl _call_skipcheck_6_1169c260:

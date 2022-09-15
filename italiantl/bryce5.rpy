@@ -532,13 +532,13 @@ translate italiantl _call_sincethelightswerealreadyon_2c7bf209:
 translate italiantl _call_sincethelightswerealreadyon_5731c0f3:
 
     # m "I quickly dove behind the box with the generator for cover, just as Reza pulled the trigger multiple times."
-    m "Mi tuffai in fretta dietro lo scatolone del generatore in cerca di riparo, proprio mentre [Rz] premeva più volte il grilletto." # see line 313 of Anna 5
+    m "Mi tuffai in fretta dietro la scatola del generatore in cerca di riparo, proprio mentre [Rz] premeva più volte il grilletto." # see line 313 of Anna 5
 
 # game/bryce5.rpy:361
 translate italiantl _call_sincethelightswerealreadyon_e1df514c:
 
     # m "Only a single shot came out and lodged itself in the box. Though I was seemingly unharmed, a loud hiss began to emanate from my cover."
-    m "Un singolo colpo ne uscì e si conficcò nello scatolone. Sebbene io fossi apparentemente illesə, un forte sibilo cominciò a emanare dal mio riparo." # see line 299 of Anna 5
+    m "Un singolo colpo ne uscì e si conficcò nella scatola. Sebbene io fossi apparentemente illesə, un forte sibilo cominciò a emanare dal mio riparo." # see line 299 of Anna 5
 
 # game/bryce5.rpy:363
 translate italiantl _call_sincethelightswerealreadyon_afa26e50:
@@ -580,7 +580,7 @@ translate italiantl _call_sincethelightswerealreadyon_9ad3f88b:
 translate italiantl _call_sincethelightswerealreadyon_7b0d4b70:
 
     # m "I ran as fast as I could. As I was about to reach the outside, I looked back over my shoulder just in time to see Bryce throwing himself on the box before it exploded."
-    m "Corsi più veloce che potevo. Mentre stavo per raggiungere l'esterno, guardai alle mie spalle appena in tempo per vedere [Br] lanciarsi sullo scatolone prima che esplodesse." # see line 622 of chapter 5
+    m "Corsi più veloce che potevo. Mentre stavo per raggiungere l'esterno, guardai alle mie spalle appena in tempo per vedere [Br] lanciarsi sulla scatola prima che esplodesse." # see line 622 of chapter 5
 
 # game/bryce5.rpy:399
 translate italiantl _call_sincethelightswerealreadyon_e37bf552:
@@ -778,7 +778,7 @@ translate italiantl _call_sincethelightswerealreadyon_af5fd3a0:
 translate italiantl _call_sincethelightswerealreadyon_6ec1fd38:
 
     # n "Maybe he would be hailed as a hero for having stopped Reza, only to be proven wrong when a few weeks later, the comet would strike."
-    n "Forse sarebbe stato accolto da eroe per aver fermato [Rz], solo per essere smentito quando qualche settimana più tardi, la cometa avrebbe colpito."
+    n "Forse sarebbe stato accolto da eroe per aver fermato [Rz], salvo poi essere smentito quando qualche settimana più tardi, la cometa avrebbe colpito."
 
 # game/bryce5.rpy:647
 translate italiantl _call_sincethelightswerealreadyon_e9470902:
@@ -802,7 +802,7 @@ translate italiantl _call_sincethelightswerealreadyon_94cbe857:
 translate italiantl _call_sincethelightswerealreadyon_e13817a0:
 
     # As "It's fine if you don't. Actually, this may be better for both of us."
-    As "Non fa niente se non riesci. In effetti, potrebbe essere meglio così per entrambi."
+    As "Non fa niente se non riesci. Anzi, potrebbe essere meglio così per entrambi."
 
 # game/bryce5.rpy:657
 translate italiantl _call_sincethelightswerealreadyon_79f09f4a:
@@ -814,7 +814,7 @@ translate italiantl _call_sincethelightswerealreadyon_79f09f4a:
 translate italiantl _call_sincethelightswerealreadyon_215ceadc:
 
     # As "Either way, it doesn't matter."
-    As "Ad ogni modo, non ha importanza."
+    As "Comunque sia, non ha importanza."
 
 # game/bryce5.rpy:661
 translate italiantl _call_sincethelightswerealreadyon_726151d5:
@@ -1006,7 +1006,7 @@ translate italiantl _call_no_0599b8cd:
 translate italiantl _call_no_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo ci fosse ancora uno straccio di umanità dentro di te..." # see line 134 of Adine 5
+    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo avessi ancora uno straccio di umanità dentro di te..." # see line 134 of Adine 5
 
 # game/bryce5.rpy:791
 translate italiantl _call_no_bdbf243c:
@@ -1102,13 +1102,13 @@ translate italiantl _call_no_7a9437e6:
 translate italiantl _call_no_5731c0f3:
 
     # m "I quickly dove behind the box with the generator for cover, just as Reza pulled the trigger multiple times."
-    m "Mi tuffai in fretta dietro lo scatolone del generatore in cerca di riparo, proprio mentre [Rz] premeva più volte il grilletto." # see line 343
+    m "Mi tuffai in fretta dietro la scatola del generatore in cerca di riparo, proprio mentre [Rz] premeva più volte il grilletto." # see line 343
 
 # game/bryce5.rpy:906
 translate italiantl _call_no_e1df514c:
 
     # m "Only a single shot came out and lodged itself in the box. Though I was seemingly unharmed, a loud hiss began to emanate from my cover."
-    m "Un singolo colpo ne uscì e si conficcò nello scatolone. Sebbene io fossi apparentemente illesə, un forte sibilo cominciò a emanare dal mio riparo." # see line 361
+    m "Un singolo colpo ne uscì e si conficcò nella scatola. Sebbene io fossi apparentemente illesə, un forte sibilo cominciò a emanare dal mio riparo." # see line 361
 
 # game/bryce5.rpy:908
 translate italiantl _call_no_fd0fb3cc:
@@ -1426,13 +1426,13 @@ translate italiantl _call_no_43c148eb:
 translate italiantl _call_no_452b6332:
 
     # Iz "I slipped him a note he thought came from you. It said to meet here and take the generator before you'd leave together. He played his part well enough so you couldn't tell the difference."
-    Iz "Gli ho fatto scivolare una nota che pensava venisse da te. Diceva di incontrarvi qui e prendere il generatore prima di andarvene insieme. Ha recitato la sua parte abbastanza bene perché tu non notassi la differenza." # "you'd leave" -> "leaving"
+    Iz "Gli ho fatto scivolare una nota che pensava venisse da te. Diceva di incontrarvi qui e prendere il generatore prima di andarvene insieme. Ha recitato la sua parte abbastanza bene perché non notassi la differenza." # "you'd leave" -> "leaving"
 
 # game/bryce5.rpy:1173
 translate italiantl _call_no_ef1e35ff:
 
     # c "So, he really did think that I planned all of this, that I lured him here to have him arrested by Bryce and Maverick."
-    c "Quindi, pensava davvero che avessi pianificato tutto questo, che l'avessi attirato qui per farlo arrestare da [Br] e [Mv]."
+    c "Quindi, credeva davvero che avessi pianificato tutto questo, che l'avessi attirato qui per farlo arrestare da [Br] e [Mv]."
 
 # game/bryce5.rpy:1175
 translate italiantl _call_no_4d363e5c:

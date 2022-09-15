@@ -52,7 +52,7 @@ translate italiantl lorem4_7d9b9aaf:
 translate italiantl lorem4_e0913d67:
 
     # c "You actually talked to Reza?"
-    c "Hai effettivamente parlato con [Rz]?"
+    c "Hai davvero parlato con [Rz]?"
 
 # game/lorem4.rpy:56
 translate italiantl lorem4_a1cb3a80:
@@ -958,7 +958,7 @@ translate italiantl lorem4adinestatusneutral_98c6c14c:
 translate italiantl lorem4adinestatusneutral_cd61b479:
 
     # c "By the way, how's your game coming along?"
-    c "Ad ogni modo, come sta venendo il tuo gioco?"
+    c "Ad ogni modo, come procede col tuo gioco?"
 
 # game/lorem4.rpy:605
 translate italiantl lorem4adinestatusneutral_939579fb:
@@ -1024,7 +1024,7 @@ translate italiantl lorem4adinestatusneutral_3134032a:
 translate italiantl lorem4adinestatusneutral_be8b7287:
 
     # c "How so?"
-    c "In che modo?"
+    c "Come mai?"
 
 # game/lorem4.rpy:627
 translate italiantl lorem4adinestatusneutral_017872a4:

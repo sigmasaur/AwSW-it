@@ -454,7 +454,7 @@ translate italiantl _call_skipcheck_9_a25091eb:
 translate italiantl _call_skipcheck_9_a94fdf1b:
 
     # c "Do you have any idea what I'm going to do with this?"
-    c "Hai qualche idea di cos'abbia intenzione di farci?"
+    c "Hai qualche idea di cosa abbia intenzione di farci?"
 
 # game/adine3.rpy:309
 translate italiantl _call_skipcheck_9_78f43406:
@@ -658,7 +658,7 @@ translate italiantl _call_skipcheck_9_279d1196:
 translate italiantl _call_skipcheck_9_feed7478:
 
     # m "I could see her moving her wing awkwardly. She pushed it forward before releasing the stone, which sunk without bouncing a single time."
-    m "Potei vederla muovere goffamente l'ala. La spinse in avanti prima di lasciare la presa sulla pietra, la quale affondò senza rimbalzare una singola volta."
+    m "Potei vederla muovere goffamente l'ala. La spinse in avanti prima di lasciare la presa sulla pietra, la quale affondò senza rimbalzare una sola volta."
 
 # game/adine3.rpy:389
 translate italiantl _call_skipcheck_9_557ef963:
@@ -958,7 +958,7 @@ translate italiantl _call_skipcheck_9_58abfc7c:
 translate italiantl _call_skipcheck_9_52e0caeb:
 
     # Ad giggle b "You can watch me if you like. Maybe you can learn a thing or two from it."
-    Ad giggle b "Puoi guardarmi se ti va. Potresti anche imparare una cosa o due." # "maybe you can" -> "you could"; "a thing or two [from it]"
+    Ad giggle b "Puoi guardarmi se ti va. Potresti anche imparare una cosa o due." # "[maybe] you can" -> "you could"; "a thing or two [from it]"
 
 # game/adine3.rpy:565
 translate italiantl _call_skipcheck_9_040d4940:
@@ -1024,7 +1024,7 @@ translate italiantl _call_skipcheck_9_a816cc82:
 translate italiantl _call_skipcheck_9_10452b14:
 
     # m "I could see her staring at the sea intently, circling a few times before descending towards the water's surface, claws extended. When she got close enough, her claws suddenly sunk into the water, only to reappear with a fish in their grasp."
-    m "Potei vederla fissare intensamente il mare, girando intorno alcune volte prima di scendere verso la superficie dell'acqua, artigli protèsi. Quando fu abbastanza vicina, all'improvviso i suoi artigli affondarono nell'acqua, solo per riaffiorare con un pesce nella loro morsa."
+    m "Potei vederla fissare intensamente il mare, girando intorno alcune volte prima di scendere verso la superficie dell'acqua, artigli protèsi. Quando fu abbastanza vicina, all'improvviso i suoi artigli affondarono nell'acqua, salvo poi riaffiorare con un pesce nella loro morsa."
 
 # game/adine3.rpy:593
 translate italiantl _call_skipcheck_9_c1e084fd:
@@ -2243,7 +2243,7 @@ translate italiantl adine3skip_a041a060:
 translate italiantl adine3skip_f495ba9f:
 
     # Ad "How so?"
-    Ad "In che modo?"
+    Ad "In che senso?"
 
 # game/adine3.rpy:1215
 translate italiantl adine3skip_d239d615:

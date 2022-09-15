@@ -4,7 +4,7 @@
 translate italiantl anna1_d2dc5415:
 
     # c "(She told me to meet her here, so she's got to be around somewhere.)"
-    c "(Mi aveva detto di incontrarci qui, quindi dev'essere qui in giro.)"
+    c "(Mi aveva detto di incontrarci qui, quindi dev'essere qui intorno.)"
 
 # game/anna1.rpy:30
 translate italiantl anna1_8d584416:
@@ -628,7 +628,7 @@ translate italiantl _call_skipcheck_7_6cb0e058:
 translate italiantl _call_skipcheck_7_f05dd5e5:
 
     # An "I started out as a researcher in biology, which is still my main job, but I've been there so long and learned the ins and outs of the building so well that eventually I was asked to take over some managerial duties."
-    An "Ho iniziato come ricercatrice in biologia, che è ancora la mia occupazione principale, ma ci sono stata così a lungo e ho imparato a conoscere talmente bene l'edificio dentro e fuori che alla fine mi è stato chiesto di rilevare alcuni compiti dirigenziali."
+    An "Ho iniziato come ricercatrice in biologia, che è ancora la mia occupazione principale, ma sono là da così tanto e ho imparato a conoscere talmente bene l'edificio e come funziona che alla fine mi è stato chiesto di rilevare alcune mansioni dirigenziali."
 
 # game/anna1.rpy:532
 translate italiantl _call_skipcheck_7_71fb7109:
@@ -700,7 +700,7 @@ translate italiantl _call_skipcheck_7_cbd94a65:
 translate italiantl _call_skipcheck_7_7d8ee730:
 
     # An "Sorry, I'm just stressed from all the work lately. I'm not getting much respite between my regular work, overtime, personal projects and other disturbances like that Remy sticking his nose where it doesn't belong."
-    An "Scusa, sono solo stressata per tutto il lavoro, ultimamente. Non mi danno molta tregua fra lavoro ordinario, straordinari, progetti personali e altre perturbazioni come quel [Ry] che ficca il suo naso dove non gli compete." # "between [my] regular work"
+    An "Scusa, sono solo stressata per tutto il lavoro, ultimamente. Non ho molta tregua fra lavoro ordinario, straordinari, progetti personali e altre perturbazioni come quel [Ry] che ficca il suo naso dove non gli compete." # "between [my] regular work"
 
 # game/anna1.rpy:595
 translate italiantl _call_skipcheck_7_9e671d0d:
@@ -1054,7 +1054,7 @@ translate italiantl _call_skipcheck_7_4137e81a:
 translate italiantl _call_skipcheck_7_3a429c00:
 
     # m "I saw mischief in her eyes, her stare piercing, paired with the hint of an arrogant smirk that exposed her anticipation. She seemed confident that she would win and loved every second of it."
-    m "Intravidi della malizia nei suoi occhi, il suo sguardo penetrante, e nel suo sorrisetto un accenno di arroganza che tradiva la sua trepidazione. Sembrava fiduciosa che avrebbe vinto, e le piaceva anche un sacco." # "paired with" -> "as well as"
+    m "Intravidi della malizia nei suoi occhi, lo sguardo penetrante, e nel suo sorrisetto un accenno di arroganza che tradiva la sua trepidazione. Sembrava fiduciosa che avrebbe vinto, e le piaceva anche un sacco." # "paired with" -> "as well as"
 
 # game/anna1.rpy:785
 translate italiantl _call_skipcheck_7_3c8056a2:
@@ -1474,7 +1474,7 @@ translate italiantl _call_syscheck_36_4e513385:
 translate italiantl _call_syscheck_36_7f2e72b6:
 
     # n "Whether anything good would come of this, I wasn't sure, either."
-    n "Così pure se questo avrebbe portato o meno a niente di buono, non ero sicurə."
+    n "Così pure se questo avrebbe portato a niente di buono, non ero sicurə."
 
 # game/anna1.rpy:1123
 translate italiantl anna1skip_e7d90bc0:

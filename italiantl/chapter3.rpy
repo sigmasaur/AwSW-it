@@ -154,7 +154,7 @@ translate italiantl chapter3_f1930e50:
 translate italiantl chapter3_c72ebea5:
 
     # Br "I bet you're sorry about your diabetes joke now, huh?"
-    Br "Scommetto che ti penti della tua battuta sul diabete adesso, eh?"
+    Br "Scommetto che adesso ti penti della tua battuta sul diabete, eh?"
 
 # game/chapter3.rpy:707
 translate italiantl chapter3_99997eb2:
@@ -184,7 +184,7 @@ translate italiantl chapter3_f5a56af5:
 translate italiantl chapter3_b9def07b:
 
     # c "Yeah, I'm fine. Let's just get this over with."
-    c "Sì, sto bene. Cerchiamo solo di fare in fretta."
+    c "Sì, sto bene. Cerchiamo solo di fare in fretta." # see line 717
 
 # game/chapter3.rpy:729
 translate italiantl chapter3_e7043b09:
@@ -196,13 +196,13 @@ translate italiantl chapter3_e7043b09:
 translate italiantl chapter3_789f2de9_1:
 
     # Br brow b "You know Anna, right?"
-    Br brow b "Conosci [An], giusto?"
+    Br brow b "Conosci [An], giusto?" # see line 662
 
 # game/chapter3.rpy:738
 translate italiantl chapter3_508ec320_1:
 
     # c "I've met her, yes."
-    c "L'ho incontrata, sì."
+    c "L'ho incontrata, sì." # see line 664
 
 # game/chapter3.rpy:740
 translate italiantl chapter3_0411dc2d:
@@ -244,43 +244,43 @@ translate italiantl chapter3_d19f855d:
 translate italiantl chapter3_c72ebea5_1:
 
     # Br "I bet you're sorry about your diabetes joke now, huh?"
-    Br "Scommetto che ti penti della tua battuta sul diabete adesso, eh?"
+    Br "Scommetto che adesso ti penti della tua battuta sul diabete, eh?" # see line 699
 
 # game/chapter3.rpy:792
 translate italiantl chapter3_99997eb2_1:
 
     # Br "Are you okay?"
-    Br "Tutto bene?"
+    Br "Tutto bene?" # see line 707
 
 # game/chapter3.rpy:800
 translate italiantl chapter3_4f1de054:
 
     # Br brow b "Is there anything that I can do?"
-    Br brow b "C'è niente che posso fare?"
+    Br brow b "C'è niente che posso fare?" # see line 715
 
 # game/chapter3.rpy:802
 translate italiantl chapter3_7db4a2dc_1:
 
     # c "Let's just get this over with."
-    c "Cerchiamo solo di fare in fretta."
+    c "Cerchiamo solo di fare in fretta." # see line 717
 
 # game/chapter3.rpy:806
 translate italiantl chapter3_f5a56af5_1:
 
     # m "Bryce gave me a concerned look, but then nodded."
-    m "[Br] mi lanciò uno sguardo preoccupato, ma poi annuì."
+    m "[Br] mi lanciò uno sguardo preoccupato, ma poi annuì." # see line 719
 
 # game/chapter3.rpy:812
 translate italiantl chapter3_b9def07b_1:
 
     # c "Yeah, I'm fine. Let's just get this over with."
-    c "Sì, sto bene. Cerchiamo solo di fare in fretta."
+    c "Sì, sto bene. Cerchiamo solo di fare in fretta." # see line 725
 
 # game/chapter3.rpy:814
 translate italiantl chapter3_e7043b09_1:
 
     # m "Bryce nodded."
-    m "[Br] annuì."
+    m "[Br] annuì." # see line 736
 
 # game/chapter3.rpy:821
 translate italiantl chapter3_05d4c08c:
@@ -1962,7 +1962,7 @@ translate italiantl c3conty_32f3b804:
 translate italiantl c3conty_b6688b02:
 
     # c "Why do you care? I thought you didn't like me, anyway."
-    c "Che t'importa? Pensavo di non piacerti, comunque."
+    c "Che te ne importa? Pensavo di non piacerti, comunque."
 
 # game/chapter3.rpy:1666
 translate italiantl c3conty_b643f4d0:
@@ -2830,7 +2830,7 @@ translate italiantl c3conty_4736d400:
 translate italiantl c3conty_8b880a52:
 
     # Em "You have been working for me for a long time now. I expected you to learn at some point, but you are very resistant to do so."
-    Em "È ormai da molto che lavori per me. Mi aspettavo che prima o poi avresti imparato, invece sei davvero refrattario." # "you are very resistant [to do so]"
+    Em "Ormai è da molto tempo che lavori per me. Mi aspettavo che prima o poi avresti imparato, invece sei davvero refrattario." # "you are very resistant [to do so]"
 
 # game/chapter3.rpy:2076
 translate italiantl c3conty_9331073d:
@@ -2902,7 +2902,7 @@ translate italiantl c3conty_76b8410f:
 translate italiantl c3conty_40330697:
 
     # Br "Just wanted to be sure."
-    Br "Volevo solo esserne sicuro."
+    Br "Volevo solo essere sicuro."
 
 # game/chapter3.rpy:2126
 translate italiantl c3conty_52e710ef:
@@ -4000,7 +4000,7 @@ translate italiantl c3fac_b00d059d:
 translate italiantl c3fac_9bc73867:
 
     # Lo normal "It's no problem, really. Just let me know when you have the time and I'll make it happen."
-    Lo normal "Non c'è problema, davvero. Fammi solo sapere quando hai tempo e farò in modo di organizzarmi." # see line 2649
+    Lo normal "Non c'è problema, davvero. Fammi solo sapere quando hai tempo e mi organizzerò." # see line 2649
 
 # game/chapter3.rpy:2783
 translate italiantl c3fac_57cfd7b3:
@@ -4150,7 +4150,7 @@ translate italiantl c3fac_a2693ffe:
 translate italiantl c3fac_06016cb2:
 
     # An "Hey, [player_name]. I didn't even call you about the tests yet. To what do I owe the honor?"
-    An "Ehi, [player_name]. Non ti ho nemmeno ancora chiamato per gli esami. A cosa devo l'onore?"
+    An "Ehi, [player_name]. Non ti ho ancora nemmeno chiamato per gli esami. A cosa devo l'onore?"
 
 # game/chapter3.rpy:2907
 translate italiantl c3fac_1bbcca06:
@@ -4516,7 +4516,7 @@ translate italiantl _call_syscheck_17_ba6016ea:
 translate italiantl _call_syscheck_17_0928455e:
 
     # An face b "What? You didn't even ask me a single question."
-    An face b "Cosa? Non mi hai neanche fatto una singola domanda."
+    An face b "Cosa? Non mi hai neanche fatto una sola domanda."
 
 # game/chapter3.rpy:3217
 translate italiantl _call_syscheck_17_8f1e6efd:
@@ -4750,7 +4750,7 @@ translate italiantl c3arc_e333c489:
 translate italiantl c3arc_3cbd56aa:
 
     # Ka normal dk "Ah, where are my manners! I haven't even properly thanked you yet."
-    Ka normal dk "Ah, dove sono le mie buone maniere! Non ti ho nemmeno ancora ringraziato come si deve."
+    Ka normal dk "Ah, dove sono le mie buone maniere! Non ti ho ancora nemmeno ringraziato come si deve."
 
 # game/chapter3.rpy:3356
 translate italiantl c3arc_5158491a:

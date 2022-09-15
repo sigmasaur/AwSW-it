@@ -100,7 +100,7 @@ translate italiantl anna5_53482720:
 translate italiantl anna5_0d382a65:
 
     # An normal "No, that's not it. Actually, that could be quite fun. It would only be another reason for people to be jealous of me."
-    An normal "No, non è così. In effetti, potrebbe essere divertente. Sarebbe solo una ragione in più perché fossero invidiosi di me." # "that could be [quite] fun"
+    An normal "No, non è così. Anzi, potrebbe essere divertente. Sarebbe solo una ragione in più perché fossero invidiosi di me." # "that could be [quite] fun"
 
 # game/anna5.rpy:60
 translate italiantl anna5_126dd557:
@@ -226,7 +226,7 @@ translate italiantl _call_endingjustafewminuteslater_1_0599b8cd:
 translate italiantl _call_endingjustafewminuteslater_1_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo ci fosse ancora uno straccio di umanità dentro di te..." # see line 134 of Adine 5
+    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo avessi ancora uno straccio di umanità dentro di te..." # see line 134 of Adine 5
 
 # game/anna5.rpy:142
 translate italiantl _call_endingjustafewminuteslater_1_bdbf243c:
@@ -316,7 +316,7 @@ translate italiantl _call_endingjustafewminuteslater_1_a776138b:
 translate italiantl _call_endingjustafewminuteslater_1_b783d092:
 
     # m "Maverick was fast, pouncing on Reza before he had a chance to aim at any of us."
-    m "[Mv] era veloce e fu addosso a [Rz] prima che egli avesse una possibilità di mirare a nessuno di noi."
+    m "[Mv] fu veloce, e fu addosso a [Rz] prima che egli avesse una possibilità di mirare a nessuno di noi."
 
 # game/anna5.rpy:242
 translate italiantl _call_endingjustafewminuteslater_1_3305fa38:
@@ -346,7 +346,7 @@ translate italiantl _call_endingjustafewminuteslater_1_69a3b56e:
 translate italiantl _call_endingjustafewminuteslater_1_9abbc5a9:
 
     # m "Quickly, I dove behind the generator's box for cover and saw Anna opening her muzzle, spraying some liquid in Reza's direction."
-    m "In fretta, mi tuffai dietro lo scatolone del generatore in cerca di riparo e vidi [An] spalancare il muso, spruzzando un qualche liquido in direzione di [Rz]."
+    m "In fretta, mi tuffai dietro la scatola del generatore in cerca di riparo e vidi [An] spalancare il muso, spruzzando un qualche liquido in direzione di [Rz]."
 
 # game/anna5.rpy:317
 translate italiantl _call_endingjustafewminuteslater_1_f7bc135f:
@@ -430,7 +430,7 @@ translate italiantl _call_endingjustafewminuteslater_1_c48f1b73:
 translate italiantl _call_endingjustafewminuteslater_1_d7961dd8:
 
     # An "I know you have it in you, to achieve and succeed at what you set out to do. Even if I couldn't."
-    An "So che ne hai la forza, di raggiungere e riuscire in quello che ti metti in testa. Anche se io non l'ho avuta." # "couldn't" -> "didn't" as in "didn't have it in me"
+    An "So che ne hai la forza, di raggiungere e riuscire in quello che ti sei prefissatə. Anche se io non l'ho avuta." # "couldn't" -> "didn't" as in "didn't have it in me"
 
 # game/anna5.rpy:347
 translate italiantl _call_endingjustafewminuteslater_1_fc6c4d06:

@@ -1751,7 +1751,7 @@ translate italiantl bryce3pass_2cf44e3b:
 translate italiantl bryce3pass_eb8305a3:
 
     # Mv "No comment."
-    Mv "No comment. "
+    Mv "Niente da dire."
 
 # game/bryce3.rpy:968
 translate italiantl bryce3pass_e8e4daa2:
@@ -2063,7 +2063,7 @@ translate italiantl bryce3pass_76b2fe88:
 translate italiantl bryce3pass_0c64f8b0:
 
     # n "Back when I was a kid, some of my friends and I always used to play outside and go \"adventuring\" together."
-    n "Quando ero ancora piccolo, alcuni dei miei amici ed io eravamo soliti giocare fuori e andare \"all'avventura\" assieme."
+    n "Quando ero ancora piccolo, alcuni miei amici ed io eravamo soliti giocare fuori e andare \"all'avventura\" insieme."
 
 # game/bryce3.rpy:1128
 translate italiantl bryce3pass_edd97bfe:
@@ -2171,13 +2171,13 @@ translate italiantl bryce3pass_cd1d2fae:
 translate italiantl bryce3pass_513d7f30:
 
     # Br smirk "And I got this lovely reminder of the experience on my muzzle."
-    Br smirk "E mi è rimasto questo adorabile ricordo dell'esperienza sul muso."
+    Br smirk "E mi è rimasto questo bel ricordo dell'esperienza sul muso."
 
 # game/bryce3.rpy:1197
 translate italiantl bryce3pass_9a1cca6a:
 
     # Br brow "I had plenty of time to think while I was down there, and later in life I often returned to that experience."
-    Br brow "Ho avuto un sacco di tempo per pensare mentre ero laggiù, e più tardi nella vita sono spesso ritornato a quell'esperienza."
+    Br brow "Ho avuto tutto il tempo di pensare mentre ero laggiù, e più tardi nella vita sono spesso ritornato a quell'esperienza."
 
 # game/bryce3.rpy:1199
 translate italiantl bryce3pass_bda2b32f:
@@ -2225,7 +2225,7 @@ translate italiantl bryce3pass_c48dc32f:
 translate italiantl bryce3skip_8051bfcf:
 
     # Br "Looks like it's already later than I thought. We better head to sleep soon."
-    Br "Sembra sia già più tardi di quel che pensavo. Faremo meglio ad andare a dormire fra poco."
+    Br "Sembra sia già più tardi di quel che pensavo. Sarà meglio andare a dormire fra poco."
 
 # game/bryce3.rpy:1231
 translate italiantl bryce3skip_f3abc5d3:
@@ -2559,7 +2559,7 @@ translate italiantl strings:
 
     # bryce3.rpy:909
     old "I probably won't see her again anyway."
-    new "Probabilmente non la rivedrò più comunque."
+    new "Tanto probabilmente non la rivedrò più."
 
     # bryce3.rpy:1091
     old "What scars? I never even noticed."

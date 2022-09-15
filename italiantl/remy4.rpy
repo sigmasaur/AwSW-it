@@ -436,7 +436,7 @@ translate italiantl _call_skipcheck_28_71fb267a:
 translate italiantl _call_skipcheck_28_ada2cc13:
 
     # Ry normal "Nevertheless, I better get rid of everything that's past its date. We don't really want the mold in the air, either."
-    Ry normal "Ciò nondimeno, farò meglio a disfarmi di tutto ciò che è oltre la scadenza. Non vogliamo poi nemmeno la muffa nell'aria."
+    Ry normal "Ciò nondimeno, sarà meglio disfarsi di tutto ciò che è oltre la scadenza. Non vogliamo poi nemmeno la muffa nell'aria."
 
 # game/remy4.rpy:305
 translate italiantl _call_skipcheck_28_8fc66374:
@@ -958,7 +958,7 @@ translate italiantl _call_skipcheck_28_30318f06:
 translate italiantl _call_skipcheck_28_471cb936:
 
     # Ry shy "I've been alone for such a long time now. I didn't even have a single friend."
-    Ry shy "Sono rimasto solo per così tanto tempo. Non avevo nemmeno un singolo amico."
+    Ry shy "Sono rimasto solo per così tanto tempo. Non avevo neppure un amico." # "I didn't even have a [single] friend"
 
 # game/remy4.rpy:586
 translate italiantl _call_skipcheck_28_027b6343:
@@ -1144,7 +1144,7 @@ translate italiantl remy4skip1_932b01d8:
 translate italiantl remy4skip1_0d5f907c:
 
     # Ry "We even went to the orphanage together some time ago to help with the kids there. It seems one of them has taken quite a liking to me."
-    Ry "Siamo anche andati assieme all'orfanotrofio qualche tempo fa a dare una mano coi piccoli là. Pare che una di loro mi abbia proprio preso in simpatia."
+    Ry "Siamo anche andati insieme all'orfanotrofio qualche tempo fa a dare una mano coi piccoli là. Pare che una di loro mi abbia davvero preso in simpatia." # "has taken quite a liking" -> "has really taken a liking"
 
 # game/remy4.rpy:652
 translate italiantl remy4skip1_eef41f58:
@@ -1330,13 +1330,13 @@ translate italiantl _call_skipcheck_29_059cb0e7:
 translate italiantl _call_skipcheck_29_89f5f2c3:
 
     # c "Let's not forget that even under the worst regimes there are just normal people trying to survive, too."
-    c "Non dimentichiamoci che anche sotto il peggiore dei regimi ci sono anche persone normali che cercano di sopravvivere."
+    c "Non dimentichiamo che anche sotto il peggiore dei regimi ci sono anche persone normali che cercano di sopravvivere."
 
 # game/remy4.rpy:782
 translate italiantl _call_skipcheck_29_88df99b8:
 
     # c "If I have the power to make a difference for them, would it be right for me to just leave them be in order to seek my own happiness? That's exactly the kind of thing you were talking about, right?"
-    c "Se avessi il potere di fare la differenza per loro, sarebbe giusto che li abbandonassi per poter cercare la mia felicità? È esattamente il genere di cose di cui parlavi, giusto?" # "to [just] leave them [be]"
+    c "Se avessi il potere di fare la differenza per loro, sarebbe giusto che li abbandonassi così, per poter cercare la mia felicità? È esattamente il genere di cose di cui parlavi, giusto?"
 
 # game/remy4.rpy:784
 translate italiantl _call_skipcheck_29_a6e08e44:
@@ -1408,7 +1408,7 @@ translate italiantl _call_skipcheck_29_0c3095cb:
 translate italiantl _call_skipcheck_29_cdb198cc:
 
     # c "How could I face you again, knowing that my negligence could cause suffering and loss for others here if I just stopped now?"
-    c "Come potrei affrontarti di nuovo, sapendo che la mia negligenza potrebbe causare ad altri qui sofferenze e perdite se solo mi fermassi adesso?"
+    c "Come potrei guardarti ancora in faccia, sapendo che la mia negligenza potrebbe causare ad altri qui sofferenze e perdite se solo mi fermassi adesso?"
 
 # game/remy4.rpy:808
 translate italiantl _call_skipcheck_29_191ba2d2:

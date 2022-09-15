@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_1_c7e818c4:
 translate italiantl _call_skipcheck_1_7dd44a71:
 
     # c "I know. And I'm doing what I can, but that doesn't mean it's making the situation any easier."
-    c "Lo so. E sto facendo quello che posso, ma questo non vuol dire che stia rendendo la situazione più facile."
+    c "Lo so. E sto facendo quello che posso, ma non vuol dire che stia rendendo la situazione più facile."
 
 # game/bryce4.rpy:294
 translate italiantl _call_skipcheck_1_b9f3001f:
@@ -544,7 +544,7 @@ translate italiantl _call_skipcheck_1_16c29965:
 translate italiantl _call_skipcheck_1_8ec45780:
 
     # Br "I'm sorry for putting you through all of this and having to involve you in our work while trying to fix this whole mess, because in the end, this is all my responsibility."
-    Br "Mi dispiace di averti trascinato in tutto questo e averti dovuto coinvolgere nel nostro lavoro nel cercare di aggiustare tutto questo casino, perché alla fine, è tutta una mia responsabilità."
+    Br "Mi dispiace averti fatto passare tutto questo e averti dovuto coinvolgere nel nostro lavoro nel cercare di aggiustare tutto questo casino, perché alla fine, è tutta una mia responsabilità."
 
 # game/bryce4.rpy:312
 translate italiantl _call_skipcheck_1_8be3730a:
@@ -598,7 +598,7 @@ translate italiantl _call_skipcheck_1_d19f855d_1:
 translate italiantl _call_skipcheck_1_0fe0a495:
 
     # Br "Do you think it's easy for me? Seeing so many people die on my watch?"
-    Br "Credi che sia facile per me? Vedere così tante persone morire sotto il mio comando?"
+    Br "Credi che sia facile per me? Vedere così tante persone morire sotto il mio comando?" # must match line 334
 
 # game/bryce4.rpy:334
 translate italiantl _call_skipcheck_1_87d3969a:
@@ -766,7 +766,7 @@ translate italiantl _call_skipcheck_1_80aa8b51:
 translate italiantl _call_skipcheck_1_ee9ec805:
 
     # c "You think he's at his breaking point?"
-    c "Pensi che sia al suo punto di rottura?"
+    c "Pensi che sia al punto di rottura?"
 
 # game/bryce4.rpy:401
 translate italiantl _call_skipcheck_1_8cd55c43:
@@ -1234,7 +1234,7 @@ translate italiantl _call_skipcheck_1_a5cb4dcb:
 translate italiantl _call_skipcheck_1_e8dd5882:
 
     # Br laugh "You'd still have to show me some proof or else I'd call you out on the joke."
-    Br laugh "Dovresti comunque mostrarmi una qualche prova, altrimenti scoprirei i tuoi altarini."
+    Br laugh "Dovresti comunque mostrarmi una qualche prova, altrimenti scoprirei gli altarini."
 
 # game/bryce4.rpy:571
 translate italiantl _call_skipcheck_1_767dec0e:

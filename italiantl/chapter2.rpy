@@ -502,7 +502,7 @@ translate italiantl _call_skipcheck_11_abdc33a4:
 translate italiantl _call_skipcheck_11_59225e46:
 
     # Br "We better check out that power outage now."
-    Br "Faremmo meglio a dare un'occhiata a quell'interruzione di corrente adesso."
+    Br "Sarà meglio dare un'occhiata a quell'interruzione di corrente adesso."
 
 # game/chapter2.rpy:578
 translate italiantl _call_skipcheck_11_be57875d:
@@ -1177,7 +1177,7 @@ translate italiantl chap2q1_2476223c:
 translate italiantl chap2q1_b7c76e6e:
 
     # Br "All of us are going to be busy with the search, and we can't really afford to spare someone right now. You'll be fine."
-    Br "Noi tutti saremo occupati con la ricerca, e non è che possiamo permetterci di risparmiare qualcuno al momento. Starai bene."
+    Br "Noi tutti saremo occupati con la ricerca, e non è che possiamo permetterci di fare a meno di nessuno al momento. Starai bene."
 
 # game/chapter2.rpy:1120
 translate italiantl chap2q1_4e269bd8:
@@ -2787,7 +2787,7 @@ translate italiantl _call_syscheck_52_3957cd4c:
 translate italiantl _call_syscheck_52_e54fa79d:
 
     # c "(It's a round, smooth orb about the size of a bowling ball.)"
-    c "(È un orbe sferico e liscio all'incirca delle dimensioni di una palla da bowling.)"
+    c "(È un orbe tondo e liscio all'incirca delle dimensioni di una palla da bowling.)"
 
 # game/chapter2.rpy:2403
 translate italiantl _call_syscheck_52_d57a7dc7:
@@ -4275,7 +4275,7 @@ translate italiantl _call_popularcheck_14_9f7585d0:
 translate italiantl _call_popularcheck_14_85982b7e:
 
     # m "In the end, I decided to spend the day reading in my apartment. I wasn't really in the mood for anything complex, so I settled for reading the next entry in the \"Sheridan's Adventures\" series."
-    m "Alla fine, decisi di trascorrere la giornata a leggere nel mio appartamento. Non è che fossi in vena di niente di complicato, così mi accontentai di leggere il capitolo successivo della serie di \"Avventure di Sheridan\"."
+    m "Alla fine, decisi di trascorrere la giornata a leggere nel mio appartamento. Non ero poi in vena di niente di complicato, così mi accontentai di leggere il capitolo successivo della serie di \"Avventure di Sheridan\"."
 
 # game/chapter2.rpy:4796
 translate italiantl _call_popularcheck_14_ad846bd9:
@@ -4293,7 +4293,7 @@ translate italiantl _call_popularcheck_14_45731809:
 translate italiantl chap2altmenub2_85982b7e:
 
     # m "In the end, I decided to spend the day reading in my apartment. I wasn't really in the mood for anything complex, so I settled for reading the next entry in the \"Sheridan's Adventures\" series."
-    m "Alla fine, decisi di trascorrere la giornata a leggere nel mio appartamento. Non è che fossi in vena di niente di complicato, così mi accontentai di leggere il capitolo successivo della serie di \"Avventure di Sheridan\"." # see line 4795
+    m "Alla fine, decisi di trascorrere la giornata a leggere nel mio appartamento. Non ero poi in vena di niente di complicato, così mi accontentai di leggere il capitolo successivo della serie di \"Avventure di Sheridan\"." # see line 4795
 
 # game/chapter2.rpy:5047
 translate italiantl chap2altmenub2_ad846bd9:
@@ -4395,7 +4395,7 @@ translate italiantl strings:
 
     # chapter2.rpy:1084
     old "You must be really understaffed if you need to rely on me."
-    new "Dovete essere proprio a corto di personale per contare su di me." # slightly pruned
+    new "Dovete essere proprio a corto di personale per contare su di me." # "you must be really understaffed [if you need] to rely on me"
 
     # chapter2.rpy:1084
     old "How about no?"

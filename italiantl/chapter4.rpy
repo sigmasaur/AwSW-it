@@ -1159,7 +1159,7 @@ translate italiantl passontestresults_d0c2cf03:
 translate italiantl passontestresults_ae5f8852:
 
     # Sb "Or maybe he's not even in there anymore. He could've seen us and slipped away unnoticed, with plenty of time to destroy the evidence while we've been waiting here."
-    Sb "O forse nemmeno è più là dentro. Potrebbe averci visto ed essersi dileguato senza farsi notare, con tutto il tempo di distruggere le prove mentre noi eravamo qui ad attendere."
+    Sb "O forse non è più là dentro. Potrebbe averci visto ed essersi dileguato senza farsi notare, con tutto il tempo di distruggere le prove mentre noi eravamo qui ad aspettare." # "he's not [even] there anymore"
 
 # game/chapter4.rpy:1213
 translate italiantl passontestresults_c006bc6e:
@@ -1993,7 +1993,7 @@ translate italiantl brycefirst_a93c7636:
 translate italiantl brycefirst_a4688393:
 
     # Sb drop b "I can't believe he's really gone."
-    Sb drop b "Non posso credere che se ne sia andato davvero."
+    Sb drop b "Non riesco a credere che se ne sia andato davvero."
 
 # game/chapter4.rpy:1970
 translate italiantl brycefirst_d19f855d:
@@ -2113,7 +2113,7 @@ translate italiantl c4cont_cf2d6ded:
 translate italiantl c4cont_fcf81e6d:
 
     # Sb "That's what we need to find out. But given all that we know, it probably is."
-    Sb "È quello che dobbiamo scoprire. Ma dato tutto quel che sappiamo, è probabile che lo sia."
+    Sb "È quello che dobbiamo scoprire. Ma dato tutto ciò che sappiamo, è probabile che lo sia."
 
 # game/chapter4.rpy:2019
 translate italiantl c4cont_d8ae483a:
@@ -2287,7 +2287,7 @@ translate italiantl sebdone_29ea912c:
 translate italiantl sebdone_7346d291:
 
     # Sb normal b "I'm not so sure about that. The guard post is pretty important."
-    Sb normal b "Non ne sono così sicuro. Il posto di guardia è piuttosto importante."
+    Sb normal b "Non sono molto convinto. Il posto di guardia è piuttosto importante."
 
 # game/chapter4.rpy:2113
 translate italiantl sebdone_13085352:
@@ -5065,13 +5065,13 @@ translate italiantl _call_skipcheck_21_a34cd47b:
 translate italiantl _call_skipcheck_21_3b6d0ce7:
 
     # n "Regardless, something went wrong, anyway. Despite all their checks and safeguards, they could only minimize the risk so much. Even if the risk is a fraction of a fraction, sometimes you are just that unlucky."
-    n "Malgrado tutto, qualcosa andò comunque storto. Nonostante tutte le loro verifiche e misure di sicurezza, più di tanto il rischio non potevano ridurlo. E se anche il rischio è la frazione di una frazione, alle volte sei solo così sfortunato." # "AND even if"; "a fraction of a fraction" -> "the fraction of a fraction"
+    n "Malgrado tutto, qualcosa andò comunque storto. Nonostante tutti i loro controlli e salvaguardie, non potevano ridurre il rischio più di tanto. E se anche il rischio è una frazione di una frazione, a volte sei solo così sfortunato." # "minimize" -> "reduce"; "AND even if"
 
 # game/chapter4.rpy:4327
 translate italiantl _call_skipcheck_21_5b5f370c:
 
     # n "And sometimes, it turns out that your bad luck is a blessing in disguise."
-    n "E alle volte, viene fuori che la tua sfortuna è una velata benedizione."
+    n "E a volte, viene fuori che la tua sfortuna è una velata benedizione."
 
 # game/chapter4.rpy:4329
 translate italiantl _call_skipcheck_21_6dbd6a73:
@@ -5347,7 +5347,7 @@ translate italiantl _call_skipcheck_21_f72aecfc:
 translate italiantl _call_skipcheck_21_50e37dd2:
 
     # n "I thought we could really pull it off. And once I saw that they could survive without my guidance - and also govern themselves - I knew my plan was a success."
-    n "Credetti che potevamo farcela davvero. E una volta ch'ebbi visto che potevano sopravvivere—e persino governarsi—senza la mia guida, seppi che il mio piano era stato un successo." # corrected em-dash
+    n "Credetti che potevamo farcela davvero. E una volta visto che potevano sopravvivere—e persino governarsi—senza la mia guida, seppi che il mio piano era stato un successo." # corrected em-dash
 
 # game/chapter4.rpy:4442
 translate italiantl _call_skipcheck_21_76b2fe88_12:
@@ -5792,7 +5792,7 @@ translate italiantl _call_skipcheck_21_5a982d08:
 translate italiantl _call_skipcheck_21_22ea504f:
 
     # c "Speaking of which, why haven't I seen a single dinosaur since I arrived?"
-    c "A proposito, perché non ho visto un singolo dinosauro da quando sono arrivatə?"
+    c "A proposito, perché non ho visto un solo dinosauro da quando sono arrivatə?"
 
 # game/chapter4.rpy:4600
 translate italiantl _call_skipcheck_21_39086922:

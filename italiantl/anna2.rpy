@@ -1066,7 +1066,7 @@ translate italiantl _call_skipcheck_32_a9c95355:
 translate italiantl _call_skipcheck_32_e805e10c:
 
     # c "Only the finest governmentally-funded dirt from Tatsu Park. Your filthy back-alley stuff has nothing on this."
-    c "Solo il più raffinato di Tatsu Park, con gli omaggi del governo. La tua robaccia da vicoletto non regge il confronto." # see line 719
+    c "Solo il più fine di Tatsu Park, con gli omaggi del governo. La tua robaccia da vicoletto non regge il confronto." # see line 719
 
 # game/anna2.rpy:725
 translate italiantl _call_skipcheck_32_72dbbc68:
@@ -1366,7 +1366,7 @@ translate italiantl _call_skipcheck_32_d9c9abdd:
 translate italiantl _call_skipcheck_32_3a7b2838:
 
     # c "The difference between you and me is about as big as the difference between you and another of your species'."
-    c "La differenza fra me e te è grande all'incirca come la differenza fra la tua e un'altra delle vostre specie." # "between youRS and another of your species[']"
+    c "La differenza fra me e te è grande all'incirca quanto la differenza fra la tua e un'altra delle vostre specie." # "between youRS and another of your species[']"
 
 # game/anna2.rpy:939
 translate italiantl _call_skipcheck_32_8c7dd009:

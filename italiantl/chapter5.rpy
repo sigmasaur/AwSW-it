@@ -172,7 +172,7 @@ translate italiantl _call_endingjustafewminuteslater_a04a361a:
 translate italiantl _call_endingjustafewminuteslater_861dff8c:
 
     # m "Reza was right. In reality, the bomb provided no real leverage against him. If his goal was truly to save our city back home at any costs, he would not turn himself in. Even if the threat of setting off the bomb was a real one, his best chance would be to at least try to kill me now."
-    m "[Rz] aveva ragione. In realtà, la bomba non avrebbe fatto su di lui alcuna vera pressione. Se il suo obiettivo era veramente di salvare la nostra città ad ogni costo, non si sarebbe mai consegnato. E se anche la minaccia di innescare la bomba fosse stata reale, quantomeno tentare di uccidermi adesso era la sua possibilità migliore." # "our city [back home]"; "not turn" -> "never turn"; "AND even if"
+    m "[Rz] aveva ragione. In realtà, la bomba non avrebbe fatto su di lui alcuna vera pressione. Se il suo obiettivo era veramente di salvare la nostra città ad ogni costo, non si sarebbe mai consegnato. E se anche la minaccia di innescare la bomba fosse stata reale, quantomeno tentare di uccidermi adesso era la sua migliore possibilità." # "our city [back home]"; "not turn" -> "never turn"; "AND even if"
 
 # game/chapter5.rpy:596
 translate italiantl _call_endingjustafewminuteslater_69f65a19:

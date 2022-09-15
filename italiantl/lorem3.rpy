@@ -166,7 +166,7 @@ translate italiantl _call_skipcheck_13_4f3507cf:
 translate italiantl _call_skipcheck_13_55d49669:
 
     # Lo happy "Here we are. The X on the map is right between these two buildings, so it must be around here somewhere."
-    Lo happy "Eccoci qui. La X sulla mappa è proprio fra questi due edifici, quindi dev'essere qui da qualche parte."
+    Lo happy "Eccoci qui. La X sulla mappa è proprio fra questi due edifici, quindi dev'essere qui intorno."
 
 # game/lorem3.rpy:197
 translate italiantl _call_skipcheck_13_82ed911f:
@@ -1186,7 +1186,7 @@ translate italiantl lorem3searchmenu_4bc4bb51:
 translate italiantl lorem3searchmenu_20d96476:
 
     # Lo normal "You might call it a soul or something similar, but the idea is that even though there are many different versions of you, there is an aspect that unites all of you."
-    Lo normal "Potresti chiamarla un'anima o qualcosa di simile, ma l'idea è che anche se ci sono molte diverse versioni di te, c'è un aspetto che vi unisce tuttɜ."
+    Lo normal "Potresti chiamarla un'anima o qualcosa di simile, ma l'idea è che anche se ci sono molte, diverse versioni di te, c'è un aspetto che vi unisce tuttɜ."
 
 # game/lorem3.rpy:648
 translate italiantl lorem3searchmenu_1d55f833:

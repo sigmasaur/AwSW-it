@@ -250,7 +250,7 @@ translate italiantl lorem5_86148265:
 translate italiantl lorem5_5ec02e53:
 
     # Lo "Where is he, anyway?"
-    Lo "Dov'è lui, comunque?"
+    Lo "Lui dov'è, comunque?"
 
 # game/lorem5.rpy:152
 translate italiantl lorem5_9fb08834:
@@ -292,7 +292,7 @@ translate italiantl loremgoodending2_0599b8cd:
 translate italiantl loremgoodending2_dd0403ac:
 
     # Rz "And to think I let you distract me with such a cheap trick! Just because I thought there was still a shred of humanity within you..."
-    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo ci fosse ancora uno straccio di umanità dentro di te..." # see line 134 of Adine 5
+    Rz "Se penso che ti ho lasciato distrarmi con un tale trucchetto da due soldi! E solo perché credevo avessi ancora uno straccio di umanità dentro di te..." # see line 134 of Adine 5
 
 # game/lorem5.rpy:198
 translate italiantl loremgoodending2_bdbf243c:
@@ -394,13 +394,13 @@ translate italiantl loremgoodending2_f663fbea:
 translate italiantl loremgoodending2_1d9f3f9b:
 
     # m "In an instant, Reza was aiming at me. I quickly dove behind the box with the generator for cover - just before he pulled the trigger."
-    m "In un istante, [Rz] mirava verso di me. Mi tuffai in fretta dietro lo scatolone del generatore in cerca di riparo, appena prima che egli premesse il grilletto." # see lines 335, 343 of Bryce 5; corrected comma to match the latter of those lines
+    m "In un istante, [Rz] mirava verso di me. Mi tuffai in fretta dietro la scatola del generatore in cerca di riparo, appena prima che egli premesse il grilletto." # see lines 335, 343 of Bryce 5; corrected comma to match the latter of those lines
 
 # game/lorem5.rpy:348
 translate italiantl loremgoodending2_6b07414f:
 
     # m "While I was unharmed, a loud hiss suddenly started emanating from the box."
-    m "Sebbene io fossi illesə, un forte sibilo all'improvviso iniziò a emanare dallo scatolone." # see line 361 of Bryce 5
+    m "Sebbene io fossi illesə, un forte sibilo all'improvviso iniziò a emanare dalla scatola." # see line 361 of Bryce 5
 
 # game/lorem5.rpy:350
 translate italiantl loremgoodending2_e8479b56:

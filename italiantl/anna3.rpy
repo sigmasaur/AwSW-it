@@ -394,7 +394,7 @@ translate italiantl _call_skipcheck_6aac9cf2:
 translate italiantl _call_skipcheck_98817371:
 
     # An normal b "Don't worry. I only need enough to put it under a microscope."
-    An normal b "Non preoccuparti. Mi serve solo quanto basta a guardarlo al microscopio."
+    An normal b "Non preoccuparti. Mi serve solo quanto basta per guardarlo al microscopio."
 
 # game/anna3.rpy:308
 translate italiantl _call_skipcheck_10b928f9:
@@ -1652,7 +1652,7 @@ translate italiantl _call_skipcheck_5e2c01f1:
 translate italiantl _call_skipcheck_252e6333:
 
     # c "Oh, I've just been very busy. I never even check my messages."
-    c "Oh, ho solo avuto molto da fare. Non controllo mai neanche i miei messaggi." # see line 897
+    c "Oh, ho solo avuto molto da fare. Non controllo nemmeno i miei messaggi." # see line 897; "I never even check" -> "I don't even check"
 
 # game/anna3.rpy:1074
 translate italiantl _call_skipcheck_15ced712:
@@ -2491,7 +2491,7 @@ translate italiantl strings:
 
     # anna3.rpy:679
     old "No comment."
-    new "No comment. "
+    new "Niente da dire."
 
     # anna3.rpy:712
     old "Probably not."

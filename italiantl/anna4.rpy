@@ -172,7 +172,7 @@ translate italiantl _call_skipcheck_17_b7f336c7:
 translate italiantl _call_skipcheck_17_944bcbb5:
 
     # n "Besides, I couldn't care less about what some old people thought about my work. As if I needed their approval. I was already more than any of them could have ever dreamed to be."
-    n "E poi, non m'importava nulla di cosa pensasse qualche vecchietto del mio lavoro. Come se mi fosse servita la loro approvazione. Io ero già più di quanto chiunque di loro avesse mai sognato."
+    n "E poi, non m'importava nulla di cosa pensava qualche vecchietto del mio lavoro. Come se mi fosse servita la loro approvazione. Io ero già più di quanto chiunque di loro avesse mai sognato."
 
 # game/anna4.rpy:178
 translate italiantl _call_skipcheck_17_76b2fe88_1:
@@ -292,7 +292,7 @@ translate italiantl _call_skipcheck_17_87e6ff57:
 translate italiantl _call_skipcheck_17_1f1991bf:
 
     # n "The proposal that I was sure would be approved was ultimately rejected, putting all the work I had already done into jeopardy. I had already made good progress at the time, too."
-    n "La proposta che ero sicura sarebbe stata approvata fu in ultimo rifiutata, mettendo a repentaglio tutto il lavoro che avevo già fatto. All'epoca avevo anche già fatto dei buoni progressi."
+    n "La proposta che ero certa sarebbe stata approvata fu in ultimo rifiutata, mettendo a repentaglio tutto il lavoro che avevo già fatto. All'epoca avevo anche già fatto dei buoni progressi."
 
 # game/anna4.rpy:225
 translate italiantl _call_skipcheck_17_8bfd241e:
@@ -334,7 +334,7 @@ translate italiantl _call_skipcheck_17_32373b89:
 translate italiantl _call_skipcheck_17_b7bf63e4:
 
     # n "I was charged and sentenced harshly, though the sentence was suspended due to their lack of evidence."
-    n "Fui incriminata e condannata duramente, sebbene la sentenza fu sospesa a causa della loro mancanza di prove."
+    n "Fui incriminata e condannata duramente, sebbene la pena fu sospesa a causa della loro mancanza di prove."
 
 # game/anna4.rpy:243
 translate italiantl _call_skipcheck_17_982e2ece:
@@ -352,7 +352,7 @@ translate italiantl _call_skipcheck_17_76b2fe88_6:
 translate italiantl _call_skipcheck_17_6e0dc1c0:
 
     # c "I see. So I assume that those tests on me were against whatever conditions they set for the suspended sentence."
-    c "Capisco. Quindi presumo che quegli esami su di me andassero contro quali che fossero le condizioni da loro imposte per la sospensione della sentenza."
+    c "Capisco. Quindi presumo che quegli esami su di me andassero contro quali che fossero le condizioni da loro imposte per la sospensione della pena."
 
 # game/anna4.rpy:263
 translate italiantl _call_skipcheck_17_0ffc5c99:
@@ -370,7 +370,7 @@ translate italiantl _call_skipcheck_17_3461f980:
 translate italiantl _call_skipcheck_17_c9c53b69:
 
     # An face "Before my paperwork would even get through, you’d be long gone."
-    An face "Per quando gli fossero anche solo arrivati, te ne saresti già andatə da un pezzo." # "my paperwork" -> "they"
+    An face "Prima ancora che li avessero smaltiti, te ne saresti già andatə da un pezzo." # "my paperwork" -> "they"
 
 # game/anna4.rpy:269
 translate italiantl _call_skipcheck_17_2466102c:
@@ -436,7 +436,7 @@ translate italiantl _call_skipcheck_17_d4509248:
 translate italiantl _call_skipcheck_17_6c24cd3e:
 
     # An "Or that when I gave him that first generator I didn’t try to graze his skin just enough so that I could salvage a few skin cells?"
-    An "O che quando gli ho dato quel primo generatore non abbia tentato di graffiargli la pelle quel tanto che bastava per poterne recuperare qualche cellula?"
+    An "O che quando gli ho dato quel primo generatore non abbia tentato di graffiargli la pelle quel tanto che bastava affinché potessi recuperare qualche cellula?"
 
 # game/anna4.rpy:293
 translate italiantl _call_skipcheck_17_473c72e2:
@@ -802,7 +802,7 @@ translate italiantl anna4skip1_09163495_1:
 translate italiantl anna4skip1_c7cd94ef:
 
     # c "Maybe we could work something out. I'm sure humanity would not object, or maybe we could just give you the technology or the necessary method. We have already cured cancer, so there's no need for you to die."
-    c "Forse potremmo escogitare qualcosa. Sono certə che l'umanità non avrebbe da obiettare, o forse potremmo semplicemente darvi la tecnologia o il metodo necessario. Abbiamo già curato il cancro, quindi non c'è ragione che tu muoia."
+    c "Forse potremmo trovare una soluzione. Sono certə che l'umanità non avrebbe di che obiettare, o forse potremmo semplicemente darvi la tecnologia o il metodo necessario. Abbiamo già curato il cancro, quindi non c'è ragione che tu muoia."
 
 # game/anna4.rpy:449
 translate italiantl anna4skip1_0562251b:
@@ -838,7 +838,7 @@ translate italiantl a4otherwise_a95bb18d:
 translate italiantl a4otherwise_6d9b9a7e:
 
     # An "You know, after that whole affair back then and the suspended sentence, the rumors about me never stopped. Did they warn you about me? Tell you to stay away? I'm sure they have."
-    An "Lo sai, dopo tutta quella vicenda di allora e la sospensione della sentenza, le voci su di me non sono mai smesse. Ti hanno messo in guardia su di me? Ti hanno detto di starmi lontano? Sono certa che l'hanno fatto." # "stay away FROM ME"
+    An "Lo sai, dopo tutta quella vicenda di allora e la sospensione della pena, le voci su di me non sono mai smesse. Ti hanno messo in guardia su di me? Ti hanno detto di starmi lontano? Sono certa che l'hanno fatto." # "stay away FROM ME"
 
 # game/anna4.rpy:470
 translate italiantl a4otherwise_6bb3777a:

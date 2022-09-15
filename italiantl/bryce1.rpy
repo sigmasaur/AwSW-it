@@ -372,7 +372,7 @@ translate italiantl waitmenu_e9b001dc:
 translate italiantl waitmenu_496c14eb:
 
     # c "I know he values the use of his own intellect, but when I received the letter later, he apparently fully expected me to remember a random chemistry class we had together years ago in order to see the message."
-    c "Capisco che ci tenga a usare il suo intelletto, ma quando poi ho ricevuto la lettera, a quanto pare dava per scontato che mi sarei ricordatə una lezione di chimica a caso che abbiamo avuto assieme anni fa per poter vedere il messaggio." # see line 2763 of chapter 1
+    c "Capisco che ci tenga a usare il suo intelletto, ma quando poi ho ricevuto la lettera, a quanto pare dava per scontato che mi sarei ricordatə una lezione di chimica a caso che abbiamo seguito assieme anni fa per poter vedere il messaggio." # see line 2763 of chapter 1
 
 # game/bryce1.rpy:358
 translate italiantl waitmenu_68d6d001:

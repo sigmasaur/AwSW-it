@@ -670,7 +670,7 @@ translate italiantl _call_skipcheck_30_370bcf34:
 translate italiantl _call_skipcheck_30_06357b21:
 
     # m "Before I could even ask myself what had happened, I saw Adine walking out of the building and coming towards me."
-    m "Prima che potessi anche solo chiedermi cosa fosse successo, vidi [Ad] abbandonare l'edificio e venire verso di me."
+    m "Prima ancora che potessi chiedermi cosa fosse successo, vidi [Ad] abbandonare l'edificio e venire verso di me."
 
 # game/adine4.rpy:357
 translate italiantl _call_skipcheck_30_fb22a094:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_30_00495487:
 translate italiantl _call_skipcheck_30_e94c70c8:
 
     # Ad "When I was inside and had a bit of time to cool off, I realized I didn't want to do it like this, even if I'd have to wait another year."
-    Ad "Quando ero dentro e ho avuto un po' di tempo per sbollire, mi sono resa conto di non volerlo fare in questo modo, anche se avessi dovuto aspettare un altro anno."
+    Ad "Quando ero dentro e ho avuto un po' di tempo per sbollire, mi sono resa conto di non volerlo fare in questo modo, anche se dovessi aspettare un altro anno."
 
 # game/adine4.rpy:389
 translate italiantl _call_skipcheck_30_cef17680:
@@ -1270,7 +1270,7 @@ translate italiantl _call_skipcheck_30_a7bca2b2:
 translate italiantl _call_skipcheck_30_56409d3e:
 
     # c "I suppose when they give me books, they know what I'm going to read, but on TV they can't really regulate the content I'm going to see. At least if TV works the same way as ours used to."
-    c "Suppongo che nel darmi dei libri, sapevano quello che sarei andatə a leggere, ma con la TV non è che potessero regolamentare i contenuti che avrei visto. Almeno se la TV funziona allo stesso modo di come un tempo funzionava la nostra." # "used to WORK"
+    c "Suppongo che nel darmi dei libri, sapevano quello che avrei letto, ma sulla TV non è che potessero regolamentare i contenuti che avrei visto. Almeno se la TV funziona allo stesso modo di come un tempo funzionava la nostra." # "used to WORK"
 
 # game/adine4.rpy:611
 translate italiantl _call_skipcheck_30_5c20ef0f:
@@ -1918,7 +1918,7 @@ translate italiantl a4shower_2e207f3f:
 translate italiantl a4shower_146047d8:
 
     # m "After I left the shower again, she pressed a button on the wall, and the water resumed once more. She only stood under it briefly and moved around a bit until the water had completely washed off the suds."
-    m "Dopo ch'io ebbi lasciato di nuovo la doccia, lei premette un bottone sul muro, e l'acqua riprese ancora una volta. Vi restò sotto brevemente e si mosse qua e là finché l'acqua non ebbe completamente lavato via la schiuma."
+    m "Dopo che io ebbi lasciato di nuovo la doccia, lei premette un bottone sul muro, e l'acqua riprese ancora una volta. Vi restò sotto brevemente e si mosse qua e là finché l'acqua non ebbe completamente lavato via la schiuma."
 
 # game/adine4.rpy:953
 translate italiantl a4shower_0731b1a6:
