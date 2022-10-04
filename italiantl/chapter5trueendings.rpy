@@ -293,7 +293,7 @@ translate italiantl trueendings_bf434b2d:
 translate italiantl trueendings_14620001:
 
     # An normal flip "Well, I've got a shocker at home. Hit him with that and I doubt he'll be able to hold anything for a while."
-    An normal flip "Be', io ho uno storditore a casa. Colpitelo con quello e dubito che sarà in grado di tenere in mano niente per un po'." # consider "hold" => "trattenere"
+    An normal flip "Be', io ho uno storditore a casa. Colpitelo con quello e dubito che sarà in grado di tenere in mano niente per un po'." # see also "hold" => "trattenere"
 
 # game/chapter5trueendings.rpy:140
 translate italiantl trueendings_d8445a8e:
@@ -893,7 +893,7 @@ translate italiantl trueendings_e5bfa567:
 translate italiantl trueendings_f96e7cfd:
 
     # n "Not so in my case. Once the media got ahold of it, rumors ran amok about what I was going to do. People fixated on small details and exaggerated the procedures outlined in the experiment."
-    n "Non fu così nel mio caso. I media vennero a saperlo e impazzirono le voci su quello che intendevo fare. La gente si fissò sui piccoli dettagli ed esagerò le procedure delineate nell'esperimento." # "[once] the media got ahold of it[,] AND"; "on THE small details"
+    n "Non fu così nel mio caso. I media vennero a saperlo e impazzirono le voci su quello che intendevo fare. La gente si fissò sui piccoli dettagli ed esagerò le procedure delineate nell'esperimento." # "once the media got ahold of it," -> "the media got ahold of it and"; "on THE small details"
 
 # game/chapter5trueendings.rpy:399
 translate italiantl trueendings_76b2fe88_5:
@@ -911,7 +911,7 @@ translate italiantl trueendings_0b694005:
 translate italiantl trueendings_c83c4954:
 
     # n "It was already a shame that an experiment like mine - one that could help countless patients both current and future - could be shut down like this, but there was more: Some people were watching me, and they knew I was doing something in my lab."
-    n "Era già una vergogna che potessero far chiudere così un esperimento come il mio—uno che avrebbe potuto aiutare innumerevoli pazienti sia attuali che futuri—ma c'era dell'altro: c'era chi mi teneva d'occhio, e sapeva che stavo facendo qualcosa nel mio laboratorio." # corrected em-dash; corrected lowercase letter
+    n "Era già una vergogna che potessero far chiudere così un esperimento come il mio—uno che avrebbe potuto aiutare innumerevoli pazienti sia attuali che futuri—ma c'era dell'altro: c'era chi mi teneva d'occhio, e sapeva che stavo facendo qualcosa nel mio laboratorio." # corrected em-dash, lowercase letter
 
 # game/chapter5trueendings.rpy:406
 translate italiantl trueendings_625cc7f3:
@@ -2538,7 +2538,7 @@ translate italiantl trueendings_5e7e079a:
 translate italiantl trueendings_61dcdb69:
 
     # Hz "You know what? You should all be glad that everything is recorded and transcribed automatically now. In my days, we actually had to write these reports ourselves."
-    Hz "Sapete che c'è? Dovreste essere tutti contenti che adesso ogni cosa sia registrata e trascritta automaticamente. Ai miei tempi, questi rapporti dovevamo scriverceli da soli." # "we [actually] had to write"
+    Hz "Sapete cosa? Dovreste essere tutti contenti che adesso ogni cosa sia registrata e trascritta automaticamente. Ai miei tempi, questi rapporti dovevamo scriverceli da soli." # "we [actually] had to write"
 
 # game/chapter5trueendings.rpy:1262
 translate italiantl trueendings_fecac05d:

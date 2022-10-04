@@ -2461,7 +2461,7 @@ translate italiantl c4facility_6a6a1f07:
 translate italiantl c4facility_8e9a23b0:
 
     # An "Don't let me hold you up. I'm sure you have places to be."
-    An "Non lasciare che ti trattenga. Sono certa che avrai altro dove andare."
+    An "Non lasciare che ti trattenga. Sono certa che avrai altro da fare."
 
 # game/chapter4.rpy:2327
 translate italiantl c4facility_08fa48a0:

@@ -238,7 +238,7 @@ translate italiantl remy2menu_2710a92f:
 translate italiantl remy2menu_b7e5f5f2:
 
     # m "From the titles alone, it seemed all genres were more or less represented - fiction and non-fiction alike. the scrolls were neatly sorted in holders, though I couldn't make out the logical consistency behind their arrangement."
-    m "Dai titoli soltanto, sembrava che più o meno tutti i generi fossero rappresentati—sia narrativa che saggistica. Le pergamene erano ordinatamente assortite in contenitori, sebbene non discernessi la consistenza logica dietro alla loro disposizione." # corrected em-dash; corrected uppercase letter
+    m "Dai titoli soltanto, sembrava che più o meno tutti i generi fossero rappresentati—sia narrativa che saggistica. Le pergamene erano ordinatamente assortite in contenitori, sebbene non discernessi la consistenza logica dietro alla loro disposizione." # corrected em-dash, uppercase letter
 
 # game/remy2.rpy:279
 translate italiantl remy2menu_0dbebcf8:
@@ -1216,7 +1216,7 @@ translate italiantl _call_skipcheck_35_99c4fd1f:
 translate italiantl _call_skipcheck_35_8a50e9bd:
 
     # Ry smile "That is good to hear! Cultural differences can make things very difficult sometimes, even within the same species. I'm glad things are working out for you so far."
-    Ry smile "Mi fa piacere sentirlo! Le differenze culturali a volte possono rendere le cose molto difficili, anche all'interno della stessa specie. Sono lieto che finora le cose stiano funzionando per te."
+    Ry smile "Mi fa piacere sentirlo! Le differenze culturali a volte possono rendere le cose molto difficili, anche all'interno della stessa specie. Sono lieto che le cose stiano andando bene per te finora."
 
 # game/remy2.rpy:1035
 translate italiantl _call_skipcheck_35_33d2b075:
@@ -1552,7 +1552,7 @@ translate italiantl _call_skipcheck_35_59bc1ef6:
 translate italiantl _call_skipcheck_35_2fbca092:
 
     # m "Remy reached with his free forepaw in his attempt to save it, but lost balance without its support and fell over."
-    m "[Ry] allungò la zampa libera nel tentativo di salvarla, ma senza il suo supporto perse l'equilibrio e cadde a terra." # "in his attempt" -> "in an attempt"
+    m "[Ry] allungò la zampa libera nel tentativo di salvarla, ma senza il suo supporto perse l'equilibrio e cadde a terra." # "[fore]paws"; "in his attempt" -> "in an attempt"
 
 # game/remy2.rpy:1282
 translate italiantl _call_skipcheck_35_e2efb8b7:

@@ -1528,7 +1528,7 @@ translate italiantl adine2menb_d3f38257:
 translate italiantl adine2menb_c70db99e:
 
     # c "That is unfortunate."
-    c "Questa è sfortuna."
+    c "Questa non ci voleva."
 
 # game/adine2.rpy:1121
 translate italiantl adine2menb_90397797:

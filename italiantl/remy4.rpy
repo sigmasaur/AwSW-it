@@ -1000,7 +1000,7 @@ translate italiantl _call_skipcheck_28_2f856f93:
 translate italiantl _call_skipcheck_28_9a0f8f61:
 
     # Ry "You wouldn't believe how much joy I felt during that moment. Emera, of course, took all the limelight she could. First there was a big speech in front of a huge crowd, then a procession after she had officially welcomed Reza."
-    Ry "Non crederesti a quanta gioia ho provato durante quei momenti. [Em], ovviamente, rubò tutta la scena possibile. Prima ci fu un gran discorso di fronte a un'enorme folla, poi un corteo dopo che ebbe ufficialmente accolto [Rz]." # "that moment" -> "those moments"
+    Ry "Non crederesti a quanta gioia ho provato durante quei momenti. [Em], ovviamente, rubò tutta la scena che poteva. Prima ci fu un gran discorso di fronte a un'enorme folla, poi un corteo dopo aver ufficialmente accolto [Rz]." # "that moment" -> "those moments"
 
 # game/remy4.rpy:600
 translate italiantl _call_skipcheck_28_2beeb5d5:

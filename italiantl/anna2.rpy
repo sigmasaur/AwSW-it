@@ -526,7 +526,7 @@ translate italiantl _call_skipcheck_32_87426d48:
 translate italiantl _call_skipcheck_32_7c45fda0:
 
     # An smirk "Beyond DNA, the biggest similarity between us is within the brain structure, but that's not surprising, considering our high-level cognitive abilities."
-    An smirk "Al di là del DNA, la somiglianza maggiore fra di noi sta nella struttura cerebrale, ma questo non sorprende, considerando le nostre capacità cognitive di alto livello." # see line 597 of chapter 4
+    An smirk "Al di là del DNA, la somiglianza maggiore fra di noi sta nella struttura cerebrale, ma non c'è da sorprendersi, considerando le nostre capacità cognitive di alto livello." # see line 597 of chapter 4
 
 # game/anna2.rpy:440
 translate italiantl _call_skipcheck_32_5359e5f6:

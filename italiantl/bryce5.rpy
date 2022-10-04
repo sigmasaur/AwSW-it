@@ -862,7 +862,7 @@ translate italiantl _call_no_8b1c9ed9:
 translate italiantl _call_no_feb4fd83:
 
     # c "Are you telling me you weren't the one who stole the generators and those other things these past two weeks?"
-    c "Stai dicendo che non sei stato tu a rubare i generatori e le altre cose in queste due settimane passate?"
+    c "Vuoi dirmi che non sei stato tu a rubare i generatori e le altre cose in queste due settimane passate?"
 
 # game/bryce5.rpy:725
 translate italiantl _call_no_116a99b6:

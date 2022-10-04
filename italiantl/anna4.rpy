@@ -1528,7 +1528,7 @@ translate italiantl _call_skipcheck_18_fe13535c:
 translate italiantl _call_skipcheck_18_84797806:
 
     # c "You called me when things went down, and you say you don't really know anyone else."
-    c "Hai chiamato me quando si è messa male, e dici di non conoscere bene nessun altro." # where did she say so?
+    c "Hai chiamato me quando si è messa male, e dici di non conoscere poi nessun altro." # where did she say so?
 
 # game/anna4.rpy:794
 translate italiantl _call_skipcheck_18_97609638:

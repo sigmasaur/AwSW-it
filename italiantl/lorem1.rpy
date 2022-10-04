@@ -118,7 +118,7 @@ translate italiantl _call_skipcheck_16_45499fc8:
 translate italiantl _call_skipcheck_16_260d481d:
 
     # Lo happy "If I was, Sebastian wouldn’t have let me meet you in the first place."
-    Lo happy "Se lo fossi, [Sb] non mi avrebbe mai permesso di incontrarti." # "Sebastian would[n’t] have NEVER let me meet you [in the first place]"
+    Lo happy "Se lo fossi, [Sb] non mi avrebbe mai permesso di incontrarti."
 
 # game/lorem1.rpy:162
 translate italiantl _call_skipcheck_16_57ab5828:
@@ -574,7 +574,7 @@ translate italiantl _call_skipcheck_16_0cef7eef:
 translate italiantl _call_skipcheck_16_8054cb2a:
 
     # c "Or maybe we never had it in the first place."
-    c "O forse non l'abbiamo mai avuta." # "or maybe we never had it [in the first place]"
+    c "O forse non l'abbiamo mai avuta."
 
 # game/lorem1.rpy:497
 translate italiantl _call_skipcheck_16_efda574e:
@@ -1138,7 +1138,7 @@ translate italiantl _call_skipcheck_16_835230ec:
 translate italiantl _call_skipcheck_16_2afa4c62:
 
     # Lo normal "Overall, it seems there are many people who are looking forward to play my game, though."
-    Lo normal "Nel complesso, però, sembra esserci molta gente che aspetta con ansia di giocare al mio gioco."
+    Lo normal "Nel complesso, però, sembrano essere in molti ad aspettare con ansia di giocare al mio gioco."
 
 # game/lorem1.rpy:715
 translate italiantl _call_skipcheck_16_d9d4691f:

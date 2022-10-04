@@ -664,7 +664,7 @@ translate italiantl _call_skipcheck_1_d0adae6d:
 translate italiantl _call_skipcheck_1_c5eab7ff:
 
     # Br "It might come as a surprise, but..."
-    Br "Potrebbe stupirti, ma..."
+    Br "Potrebbe anche stupirti, ma..."
 
 # game/bryce4.rpy:367
 translate italiantl _call_skipcheck_1_a14ba87c:
@@ -1792,13 +1792,13 @@ translate italiantl b4romance_203e5a35:
 translate italiantl b4romance_646100a6:
 
     # c "But not like this. That's just... way too fast, and not what we agreed on."
-    c "Ma non in questo modo. Così è... fin troppo veloce, e non è ciò che avevamo concordato."
+    c "Ma non in questo modo. Così è... fin troppo veloce, e non è come eravamo d'accordo."
 
 # game/bryce4.rpy:887
 translate italiantl b4romance_248708d1:
 
     # Br laugh "Sorry, I guess I messed that up. But you know how I am. I rush into things and don't always think things through. That's the Bryce way."
-    Br laugh "Scusa, immagino di aver fatto un casino. Ma lo sai come sono fatto. Affretto le cose e non sempre ci rifletto sopra. È il modo di [Br]."
+    Br laugh "Scusa, immagino di aver combinato un casino. Ma lo sai come sono fatto. Affretto le cose e non sempre ci rifletto sopra. È il modo di [Br]."
 
 # game/bryce4.rpy:889
 translate italiantl b4romance_f22cc3d9:

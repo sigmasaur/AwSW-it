@@ -798,7 +798,7 @@ translate italiantl c3conty_504af7ad:
 translate italiantl c3conty_4c04f470:
 
     # Em ques "Speak for yourself. You don't think someone of my standing needs protection?"
-    Em ques "Parla per te stesso. Non credi forse che qualcuno della mia levatura abbia bisogno di protezione?"
+    Em ques "Parla per te stesso. Non credi forse che una persona della mia levatura abbia bisogno di protezione?"
 
 # game/chapter3.rpy:1152
 translate italiantl c3conty_25e09095:
@@ -4432,7 +4432,7 @@ translate italiantl c3facques_8912af36:
 translate italiantl c3facques_7fe96996:
 
     # c "I heard that you didn't particularly like him."
-    c "Ho saputo che non ti piaceva particolarmente."
+    c "Ho sentito dire che non ti piaceva particolarmente."
 
 # game/chapter3.rpy:3116
 translate italiantl c3facques_0f45b97e:

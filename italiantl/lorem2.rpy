@@ -370,7 +370,7 @@ translate italiantl _call_skipcheck_33_6fabbf93:
 translate italiantl _call_skipcheck_33_22d25aeb:
 
     # m "I walked up to the spot he indicated. When I took my place, I saw that he had laid out a number of pens, paper and other art supplies on the table."
-    m "Andai verso il punto che aveva indicato. Quando presi posto, vidi che aveva disposto sul tavolino un certo numero di carte, penne e altri materiali artistici."
+    m "Mi avvicinai al punto che aveva indicato. Quando presi posto, vidi che aveva disposto sul tavolino un certo numero di carte, penne e altri materiali artistici."
 
 # game/lorem2.rpy:391
 translate italiantl _call_skipcheck_33_5571d29f:
@@ -754,7 +754,7 @@ translate italiantl _call_skipcheck_33_d0b16eb5:
 translate italiantl _call_skipcheck_33_7680f489:
 
     # c "Sorry. I just found something in the park recently that may or may not be your Ixomen Sphere."
-    c "Scusa. Ho giusto trovato qualcosa nel parco di recente che potrebbe o non potrebbe essere la tua Sfera di Ixomen."
+    c "Scusa. Ho giusto trovato qualcosa nel parco di recente che forse è la tua Sfera di Ixomen e forse no."
 
 # game/lorem2.rpy:609
 translate italiantl _call_skipcheck_33_25762c06:
@@ -2164,7 +2164,7 @@ translate italiantl _call_skipcheck_33_4c2851af:
 translate italiantl _call_skipcheck_33_10784f1b:
 
     # Ip happy "That I am."
-    Ip happy "Sono d'accordo."
+    Ip happy "Credo anch'io."
 
 # game/lorem2.rpy:1211
 translate italiantl _call_skipcheck_33_e773b5d2:

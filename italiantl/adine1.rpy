@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_10_c9851cf8:
 translate italiantl _call_skipcheck_10_9cf84c2e:
 
     # c "I thought making a discovery like this was just awesome. Many people would love to have the opportunity I had by coming here."
-    c "Ho pensato che fare una scoperta del genere fosse semplicemente fantastico. Molta gente vorrebbe tanto avere l'opportunità che ho avuto io di venire qui."
+    c "Ho pensato che fare una scoperta del genere fosse semplicemente fantastico. In molti vorrebbero tanto avere l'opportunità che ho avuto io di venire qui."
 
 # game/adine1.rpy:508
 translate italiantl _call_skipcheck_10_821be8f1:

@@ -52,6 +52,8 @@ Currently working on the secondary characters' sections. Files done and up for r
 
     chapter5trueendings.rpy
 
+    xemera.rpy
+
 ## Remarks and issues
 
 * Having considered the developer's opinion, and given the precedent of game *Neo Cab*, I decided to use [Inclusive Italian][1] to help address the player character with a neutral gender. I took the liberty of updating the fonts with `ə` and `ɜ`, needed for such neutral gender, as well as with accented vowels, which were needed anyway.<br>
@@ -100,7 +102,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`chapter1.rpy`](italiantl/chapter1.rpy)
 
-* At line 385, 408: *to skip seen messages* → *to skip messages*, as it depends on the user's preference.
+* At line 385, 408: *to skip <s>seen</s> messages*, as it depends on the user's preference.
 * At line 431: Corrected simple past tense *were under consideration* to past perfect, as we're supposedly talking of the period before the solar flare; the current translation is nonetheless rather flexible in this sense.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
 * At line 436, 2738, 2837, 2934: Corrected uppercase letter to lowercase after colon.
@@ -137,7 +139,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1191, 1221: Added parentheses to match resp. lines 4093, 4141 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1420-1438: Note that these lines also trigger if `Zhong` was never met in [`bryce1.rpy`](#bryce1rpy). Affected sequences: play [`bryce1.rpy`](#bryce1rpy) and leave at lines 75, 142.
 * At line 1607: Added brackets to match line 2301 of [`chapter1.rpy`](#chapter1rpy).
-* At line 1623: *melon bread* → *melon-flavored bread*, to preserve the pun by linguistic necessity.
+* At line 1623: *melon-<b>flavored</b> bread*, to preserve the pun by linguistic necessity.
 * At line 2164-2168: Note that these lines also trigger if the player character never dropped the box in [`remy1.rpy`](#remy1rpy). Affected sequences: play [`remy1.rpy`](#remy1rpy) and leave at lines 246, 794, 857, 919, 981, visit the library in this chapter and ask `Remy` how he's doing, then apologize to him, then ask him what `Adine` wanted from him.
 * At line 2423: Added space before image, to match lines 2419, 2427 and numerous other lines throughout the script.
 * At line 2423, 3824: Adapted to preserve a pun; reverse translation:
@@ -152,7 +154,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 1016: Unfolded *&* → *and*, for elegance and to match line 3192.
 * At line 1264-1266: Corrected future tenses to conditional, as we're supposedly talking of the yet speculative case where the player character doesn't go through the portal as per `Emera`'s resolve.
 * At line 1346: Unfolded *10* → *ten*, for elegance.
-* At line 1346: *Hiroshima* → *atomic*, for elegance, not to mention we're supposedly addressing `Bryce` and `Emera`, who can't possibly know about it; the resulting expression reads better without loss of meaning.
+* At line 1346: *Hiroshima* → *atomic*, for elegance; we're also supposedly addressing `Bryce` and `Emera`, who can't possibly know about it; lastly, the resulting expression reads better without loss of meaning.
 * At line 1383: Unfolded *15%* → *fifteen percent*, for elegance.
 * At line 1476, 3366, 4338: Corrected simple dash to em-dash.
 * At line 1482: Corrected *under consideration* → *into consideration*.
@@ -509,9 +511,23 @@ The following are mostly to the benefit of the developer and translators.
 * At line 7, 37, 122, 164, 300, 326, 384, 404, 676, 758, 1028, 1120, 1206, 1375, 1543, 1573, 1603, 1638, 1749, 1751, 1774: Corrected simple dash to em-dash.
 * At line 122, 588: Split in multiple parts to fit fewer lines.
 * At line 314, 404, 788: Corrected uppercase letter to lowercase after colon.
+* At line 460: Rendered *children* as *cubs*.
 * At line 588: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1488: Dropped gender information about the person sent instead of the player character, by linguistic necessity.
-* At line 1762, 1764: Note that it would take almost two years to relocate one million dragons (see line 1579) at the indicative rate of one dragon per minute. Also note that the portal needs recharging, see line 141 of [`bryce5.rpy`](#bryce5rpy). 
+* At line 1762, 1764: Note that it would take almost two years to relocate one million dragons (see line 1579) at the indicative rate of one dragon per minute. Also note that the portal needs recharging; see line 141 of [`bryce5.rpy`](#bryce5rpy).
+
+### [`xemera.rpy`](italiantl/xemera.rpy)
+
+* At line 158, 208: Unfolded *&* → *and*, for elegance.
+* At line 172, 206: Corrected uppercase letter to lowercase after colon.
+* At line 208: Slightly pruned to fit fewer lines.
+* At line 220, 276, 368, 398: Corrected simple dash to em-dash.
+* At line 232: `pass`ed.
+* At line 260: Split in multiple parts to fit fewer lines.
+* At line 260: *my father was <b>always</b> a very business-minded individual*, to make it look less like `Emera`'s parents are now dead; see line 308.
+* At line 270: Corrected *it certainly shouldn't have* → *I certainly shouldn't have been*.
+* At line 627, 828: Rendered *lady* as *dragoness*.
+* At line 689: *inches* → *centimeters*; see line 2144 of [`chapter4.rpy`](#chapter4rpy).
 
 ## Other remarks
 

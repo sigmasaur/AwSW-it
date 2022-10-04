@@ -1884,7 +1884,7 @@ translate italiantl bryce1skip_9b9ab1ee:
 translate italiantl bryce1skip_1808e0cc:
 
     # Br "Damn, I should really get going, or I'll be late for work. You know how to get back to your apartment from here, right?"
-    Br "Diamine, dovrei veramente andare, o farò tardi al lavoro. Lo sai come ritornare al tuo appartamento da qui, vero?"
+    Br "Diamine, dovrei proprio darmi una mossa, o farò tardi al lavoro. Lo sai come ritornare al tuo appartamento da qui, vero?"
 
 # game/bryce1.rpy:1378
 translate italiantl bryce1skip_3275e9ef:

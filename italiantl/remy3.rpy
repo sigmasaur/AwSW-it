@@ -226,7 +226,7 @@ translate italiantl _call_skipcheck_24_a55f68f8:
 translate italiantl _call_skipcheck_24_d5604b17:
 
     # n "In this way, we offered a variety of comprehensive opinions on difficult topics. We found the truth, and allowed people and politicians to make up their minds from there. Our work was a key influence in the community, and because the conclusions of each individual member were often very different, it could never be said that we were biased."
-    n "In questo modo, offrivamo una varietà di pareri esaustivi su argomenti difficili. Scoprivamo la verità, e consentivamo alle persone e ai politici di farsi un'idea a partire da lì. Il nostro lavoro aveva un'influenza-chiave sulla comunità, e poiché le conclusioni di ogni singolo membro erano spesso molto diverse, non si poteva mai dire che fossimo di parte." # "make up their minds" -> "get an idea"
+    n "In questo modo, offrivamo una varietà di pareri esaustivi su argomenti difficili. Scoprivamo la verità, e consentivamo alle persone e ai politici di decidere a partire da lì. Il nostro lavoro aveva un'influenza-chiave nella comunità, e poiché le conclusioni di ogni singolo membro erano spesso molto diverse, non si poteva mai dire che fossimo di parte."
 
 # game/remy3.rpy:255
 translate italiantl _call_skipcheck_24_76b2fe88_1:
@@ -454,7 +454,7 @@ translate italiantl _call_skipcheck_24_66fdf28d:
 translate italiantl _call_skipcheck_24_725d4fb3:
 
     # Ry shy "Yet in some way, holding on to Amelia has helped me. When I look back on all the happy memories we made, Emera's bullying hurts a little less, if only because those memories hurt so much more."
-    Ry shy "Eppure in qualche modo, aggrapparmi a lei mi ha aiutato. Quando ripenso a tutti i ricordi felici che abbiamo costruito, le prepotenze di [Em] fanno un po' meno male, anche solo perché quei ricordi ne fanno molto di più."
+    Ry shy "Eppure in qualche modo, aggrapparmi a lei mi ha aiutato. Quando ripenso a tutti i ricordi felici che abbiamo costruito, le prepotenze di [Em] fanno un po' meno male, non fosse altro perché quei ricordi ne fanno molto di più."
 
 # game/remy3.rpy:348
 translate italiantl _call_skipcheck_24_97966788:
@@ -496,7 +496,7 @@ translate italiantl remy2goodendingmenu_d1838618:
 translate italiantl remy2goodendingmenu_c9427543:
 
     # c "You could help take care of those children."
-    c "Potresti aiutarli a prendersi cura di quei cuccioli." # "you could help THEM"
+    c "Potresti aiutarli a prendersi cura di quei piccoli." # "you could help THEM"
 
 # game/remy3.rpy:405
 translate italiantl remy2goodendingmenu_c6821729:
@@ -508,7 +508,7 @@ translate italiantl remy2goodendingmenu_c6821729:
 translate italiantl remy2goodendingmenu_a55627cc:
 
     # c "Yeah. The orphanage is notoriously understaffed. The children don't really have anyone else, so each volunteer is a godsend."
-    c "Sì. L'orfanotrofio è notoriamente a corto di personale. I cuccioli non è che abbiano nessun altro, e quindi ogni volontario è una manna dal cielo." # see line 215 of Adine 2
+    c "Sì. L'orfanotrofio è notoriamente a corto di personale. I piccoli non è che abbiano nessun altro, e quindi ogni volontario è una manna dal cielo." # see line 215 of Adine 2
 
 # game/remy3.rpy:409
 translate italiantl remy2goodendingmenu_622bea1d:
@@ -1025,7 +1025,7 @@ translate italiantl _call_skipcheck_25_9d1c2077:
 translate italiantl _call_skipcheck_25_47537ee7:
 
     # Ry look "That is true. Emera plays the political game a lot. She aligns with the popular opinion so people will like her."
-    Ry look "Questo è vero. [Em] gioca spesso al diplomatico. Si allinea all'opinione popolare cosicché piacerà alla gente."
+    Ry look "Questo è vero. [Em] gioca spesso al diplomatico. Si allinea all'opinione comune cosicché piacerà alla gente." # "popular" -> "common"
 
 # game/remy3.rpy:714
 translate italiantl _call_skipcheck_25_67d6f85c:
@@ -1199,7 +1199,7 @@ translate italiantl _call_skipcheck_25_c665a09c:
 translate italiantl _call_skipcheck_25_ee51ebb9:
 
     # c "No, we don't do that, but murder is a crime so heinous that immediate expellation is the consequence - regardless of prior infractions."
-    c "No, noi non facciamo questo, ma l'omicidio è un crimine tanto esecrabile che la conseguenza è l'espulsione immediata—a prescindere dalle precedenti infrazioni." # corrected "expellation" -> "expulsion"; corrected em-dash
+    c "No, noi non facciamo questo, ma l'omicidio è un crimine tanto esecrabile che la conseguenza è l'espulsione immediata—a prescindere dalle precedenti infrazioni." # corrected "expellation" -> "expulsion", em-dash
 
 # game/remy3.rpy:790
 translate italiantl _call_skipcheck_25_b477a6cb:

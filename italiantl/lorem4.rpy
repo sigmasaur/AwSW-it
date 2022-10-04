@@ -1360,7 +1360,7 @@ translate italiantl lorem4adinestatusneutral_f80ec99e:
 translate italiantl lorem4adinestatusneutral_9397e87f:
 
     # Lo "I can't always just run away, and I'll have to step into the limelight and brave the storm again if I want to finish this game."
-    Lo "Non posso sempre fuggire e basta, e dovrò rimettere piede sotto i riflettori e sfidare di nuovo la tempesta se voglio finire questo gioco."
+    Lo "Non potrò sempre fuggire e basta, e dovrò rimettere piede sotto i riflettori e sfidare di nuovo la tempesta se voglio finire questo gioco."
 
 # game/lorem4.rpy:739
 translate italiantl lorem4adinestatusneutral_37c8b07d:
@@ -1402,7 +1402,7 @@ translate italiantl lorem4skip_685c6320:
 translate italiantl lorem4skip_7c7ca72f:
 
     # Lo "In the eyes of some, that makes me a freak of nature. Something that needs fixing, or shouldn't exist in the first place."
-    Lo "Agli occhi di alcuni, questo fa di me uno scherzo della natura. Qualcosa che dev'essere aggiustato, o che non sarebbe mai dovuto esistere." # "shouldn't exist in the first place" -> "should have never existed"
+    Lo "Agli occhi di alcuni, questo fa di me uno scherzo della natura. Qualcosa che dev'essere aggiustato, o che non sarebbe mai dovuto esistere."
 
 # game/lorem4.rpy:763
 translate italiantl lorem4skip_1f5e134a:

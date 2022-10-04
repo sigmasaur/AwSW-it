@@ -1384,7 +1384,7 @@ translate italiantl _call_skipcheck_30_ce0da94f:
 translate italiantl _call_skipcheck_30_df34c9d2:
 
     # m "It was quite bizarre to see a typical family sitcom where all the characters were in obviously fake costumes - and also happened to be naked."
-    m "Fu alquanto bizzarro vedere una tipica famiglia da sitcom dove tutti i personaggi erano in costumi palesemente finti—e inoltre si dava il caso che fossero nudi." # corrected em-dash
+    m "Fu alquanto bizzarro vedere una tipica famiglia da sitcom dove tutti i personaggi erano in costumi palesemente finti—e inoltre si dà il caso che fossero nudi." # corrected em-dash
 
 # game/adine4.rpy:653
 translate italiantl _call_skipcheck_30_7c5e1867:

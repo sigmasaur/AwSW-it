@@ -2088,7 +2088,7 @@ translate italiantl remy1skip_209102c8:
 translate italiantl remy1skip_30afe82a:
 
     # n "I was going to find out soon enough..."
-    n "Molto presto l'avrei scoperto..."
+    n "L'avrei scoperto molto presto..."
 
 translate italiantl strings:
 

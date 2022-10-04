@@ -2955,13 +2955,13 @@ translate italiantl _call_syscheck_55_17ed66aa:
 translate italiantl _call_syscheck_55_8d8add9d:
 
     # c "(On the metal covering of the hatch, there are two buttons which are situated to the left and the right of a central, circular lever. The arrow on the lever is pointing up.)"
-    c "(Sul rivestimento metallico della botola, vi sono due bottoni situati alla sinistra e alla destra di una maniglia centrale circolare. La freccia sulla maniglia punta verso l'alto.)"
+    c "(Sul rivestimento metallico della botola, ci sono due bottoni situati alla sinistra e alla destra di una maniglia centrale circolare. La freccia sulla maniglia punta verso l'alto.)"
 
 # game/chapter2.rpy:2713
 translate italiantl chap2hatch_801e03ea:
 
     # m "Beneath the hatch, a strange-looking orb of darkness was floating in the shaft that leads down to the maintenance tunnels."
-    m "Al disotto della botola, un orbe di tenebra dallo strano aspetto fluttuava nel condotto che conduceva giù alle gallerie di manutenzione." # corrected past tenses
+    m "Sotto la botola, un orbe di tenebra dallo strano aspetto fluttuava nel condotto che conduceva giù alle gallerie di manutenzione." # corrected past tenses
 
 # game/chapter2.rpy:2715
 translate italiantl chap2hatch_f069ccf1:
@@ -2973,7 +2973,7 @@ translate italiantl chap2hatch_f069ccf1:
 translate italiantl chap2hatch_46abce11:
 
     # m "I looked down to see the maintenance tunnels for the underground drain system. A pale object starkly contrasted against the pitch-black backdrop."
-    m "Guardai in basso e scòrsi le gallerie di manutenzione del sistema di drenaggio sotterraneo. Un pallido oggetto si distingueva nettamente dal fondo nero come la pece."
+    m "Guardai in basso e scòrsi le gallerie di manutenzione del sistema di drenaggio sotterraneo. Un pallido oggetto si stagliava nettamente sullo fondo nero come la pece."
 
 # game/chapter2.rpy:2771
 translate italiantl chap2hatch_0d43d13a:
@@ -3375,7 +3375,7 @@ translate italiantl chap2emselection_208ec4ed:
 translate italiantl chap2emselection_6ab4709a:
 
     # Em "Technically speaking, any person can become a minister, though there are certain standards and requirements that must be met in order to apply for office."
-    Em "Tecnicamente, chiunque può diventare ministro, anche se esistono certi criteri e requisiti che devono essere soddisfatti per poter presentare la propria candidatura."
+    Em "Tecnicamente, chiunque può diventare ministro, anche se esistono certi criteri e requisiti che devono essere soddisfatti per potersi candidare alla carica."
 
 # game/chapter2.rpy:3320
 translate italiantl chap2emselection_7de854e0:
@@ -3663,7 +3663,7 @@ translate italiantl _call_skipcheck_12_76b2fe88_1:
 translate italiantl _call_skipcheck_12_1e47ad15:
 
     # n "And with that, he was gone."
-    n "E con ciò, se ne fu andato."
+    n "E con ciò, se n'era andato."
 
 # game/chapter2.rpy:3599
 translate italiantl _call_skipcheck_12_072a50de:
