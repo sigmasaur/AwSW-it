@@ -1612,7 +1612,7 @@ translate italiantl _call_skipcheck_35_905fd80f:
 translate italiantl _call_skipcheck_35_19056ba7:
 
     # Ry "I guess it is. I just don't see why someone like me got to be librarian when there were others more qualified for the position, or who were at least capable of not dropping the inventory on a daily basis."
-    Ry "Immagino di sì. È che non vedo perché uno come me abbia potuto fare il bibliotecario quando c'erano altri più qualificati per la posizione, o che almeno erano capaci di non far cadere quotidianamente l'inventario."
+    Ry "Immagino di sì. È che non vedo perché uno come me abbia potuto fare il bibliotecario quando c'erano altri più qualificati per la posizione, o che almeno erano capaci di non far cadere ogni giorno qualcosa." # "drop the inventory on a daily basis" -> "drop something every day"
 
 # game/remy2.rpy:1331
 translate italiantl _call_skipcheck_35_05794cc7:

@@ -53,6 +53,7 @@ Currently working on the secondary characters' sections. Files done and up for r
     chapter5trueendings.rpy
 
     xemera.rpy
+    xkatsu.rpy
 
 ## Remarks and issues
 
@@ -61,7 +62,9 @@ On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`
   * `Anna` by `Adine` in `anna1.rpy`;
   * `Sebastian` by `Adine` and viceversa in `chapter1.rpy` and `chapter3.rpy`;
   * `Sebastian` by `Lorem` in `chapter1.rpy`;
-  * `Heinz` by the crew and viceversa in `chapter5trueendings.rpy`.
+  * `Heinz` by the crew and viceversa in `chapter5trueendings.rpy`;
+  * `Katsuharu` by all other characters except `Emera` and the player character in `xkatsu.rpy`.
+  * `Leymas` by `Katsuharu` in `xkatsu.rpy`.
 
 * I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`, to reduce the risk of typos when translating.
 
@@ -528,6 +531,16 @@ The following are mostly to the benefit of the developer and translators.
 * At line 270: Corrected *it certainly shouldn't have* → *I certainly shouldn't have been*.
 * At line 627, 828: Rendered *lady* as *dragoness*.
 * At line 689: *inches* → *centimeters*; see line 2144 of [`chapter4.rpy`](#chapter4rpy).
+
+### [`xkatsu.rpy`](italiantl/xkatsu.rpy)
+
+* At line 116: Removed *gelato* ~ *ice cream*, *mellorine*, *cold taffy*.
+* At line 120: Removed *cake cones* ~ *wafer cones*, *vanilla cones*.
+* At line 174, 347: Unfolded *40* → *forty*, for elegance.
+* At line 208, 234, 238, 240, 278: Corrected simple dash to em-dash.
+* At line 238: Rendered *child* as *cub*.
+* At line 331: Split in multiple parts to fit fewer lines.
+* At line 509: Rendered *businessman* as *business-dragon*.
 
 ## Other remarks
 

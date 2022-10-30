@@ -544,7 +544,7 @@ translate italiantl _call_skipcheck_23_f62f1fb5:
 translate italiantl _call_skipcheck_23_52128d22:
 
     # Ad normal b "Actually, that's not the case. You only think that because you don't remember your dreams."
-    Ad normal b "In effetti, le cose non stanno così. Lo credi soltanto perché non ricordi i tuoi sogni."
+    Ad normal b "In realtà, non è così. Lo credi soltanto perché non ricordi i tuoi sogni."
 
 # game/adine2.rpy:457
 translate italiantl _call_skipcheck_23_584b119a:

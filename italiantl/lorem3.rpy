@@ -1234,7 +1234,7 @@ translate italiantl lorem3searchmenu_8244b24f:
 translate italiantl lorem3searchmenu_37375033:
 
     # Lo "Through this higher self, you may be able to communicate with your alternate selves in some way."
-    Lo "Attraverso questo sé superiore, potresti essere in grado di comunicare con i tuoi sé alternativi in qualche modo."
+    Lo "Attraverso questo sé superiore, potresti essere in grado di comunicare coi tuoi sé alternativi in qualche modo."
 
 # game/lorem3.rpy:664
 translate italiantl lorem3searchmenu_bff86699:
@@ -1408,7 +1408,7 @@ translate italiantl lorem3searchmenu_61b41bd9:
 translate italiantl lorem3searchmenu_1e02accf:
 
     # c "Well, the giant X on the ground kinda gives it away."
-    c "Be', la gigantesca X in terra è piuttosto rivelatrice."
+    c "Be', la gigantesca X in terra lo dà un po' a vedere."
 
 # game/lorem3.rpy:743
 translate italiantl lorem3searchmenu_2d66014d:

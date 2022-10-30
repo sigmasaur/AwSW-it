@@ -1054,7 +1054,7 @@ translate italiantl _call_skipcheck_33_f7f939a7:
 translate italiantl _call_skipcheck_33_2563e28a:
 
     # c "We actually have a pretty big variety of \"vestments\". I could tell you about it."
-    c "In effetti abbiamo una gran varietà di \"vestimenti\". Potrei parlartene."
+    c "In effetti abbiamo una varietà piuttosto ampia di \"vestimenti\". Potrei parlartene."
 
 # game/lorem2.rpy:744
 translate italiantl _call_skipcheck_33_89b3cd8d:
@@ -1072,7 +1072,7 @@ translate italiantl _call_skipcheck_33_86148265_1:
 translate italiantl _call_skipcheck_33_686d2308:
 
     # c "So, Ipsum, I've heard a lot about experiments and science now, but what do you actually do?"
-    c "Così, [Ip], ormai ho sentito parlare molto di scienza ed esperimenti, ma cos'è che fai in effetti?"
+    c "Così, [Ip], ormai ho sentito parlare molto di scienza ed esperimenti, ma cos'è che fai in effetti?" # exchanged "experiments" and "science"
 
 # game/lorem2.rpy:750
 translate italiantl _call_skipcheck_33_993a577b:

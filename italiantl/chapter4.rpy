@@ -1471,7 +1471,7 @@ translate italiantl _call_syscheck_75_817a1cd0:
 translate italiantl _call_syscheck_75_8ee4ce13:
 
     # s "You know the drill. Go back to Chapter 1 and don't try to be cheeky by loading a save to get you here faster again, and we might both be able to get this behind us."
-    s "Conosci la procedura. Torna al Capitolo 1 e non provare a fare lə furbə e caricare di nuovo un salvataggio per farti arrivare qui più in fretta, e forse potremo entrambi lasciarci questo alle spalle." # "we might both" -> "maybe we'll both"
+    s "Conosci la procedura. Torna al Capitolo 1 e non provare a fare lə furbə e caricare di nuovo un salvataggio per farti arrivare qui più in fretta, e forse potremo entrambi gettarci questo alle spalle." # "we might both" -> "maybe we'll both"
 
 # game/chapter4.rpy:1519
 translate italiantl _call_syscheck_75_424d423e:
@@ -1669,7 +1669,7 @@ translate italiantl _call_syscheck_77_84419071:
 translate italiantl _call_syscheck_77_a446639a:
 
     # s "You'll just have to go all the way back to the beginning of Chapter 1 and start over from there."
-    s "Dovrai solamente tornare indietro fino all'inizio del Capitolo 1 e ricominciare da lì."
+    s "Non dovrai far altro che tornare indietro fino all'inizio del Capitolo 1 e ricominciare da lì."
 
 # game/chapter4.rpy:1732
 translate italiantl _call_syscheck_77_76855d50:
@@ -5653,7 +5653,7 @@ translate italiantl _call_skipcheck_21_b4947615:
 translate italiantl _call_skipcheck_21_b03ffc7e:
 
     # As "When using the same connection without changing any of the data, this would mean that despite the time discrepancy between those two portals, time still progressed linearly for them."
-    As "E avendo usato la stessa connessione senza cambiare nessuno dei dati, ciò significa che malgrado la discrepanza temporale fra i due portali, per loro il tempo è comunque progredito linearmente." # "when using" -> "and having used"; "those two portals" -> "the two portals"
+    As "Avendo usato la stessa connessione senza cambiare nessuno dei dati, ciò significa che malgrado la discrepanza temporale fra i due portali, per essi il tempo è comunque progredito linearmente." # "when using" -> "having used"; "those two portals" -> "the two portals"
 
 # game/chapter4.rpy:4554
 translate italiantl _call_skipcheck_21_e6072e3b:
@@ -5672,7 +5672,7 @@ translate italiantl _call_skipcheck_21_2dc9e104:
 translate italiantl _call_skipcheck_21_b5281303:
 
     # As "For us and the physical machines that are the portals, time passes linearly and we can't do anything about that. However, for the black holes this isn't the case."
-    As "Per noi e per le macchine fisiche quali sono i portali, il tempo passa linearmente e non possiamo farci nulla al riguardo. Tuttavia, non è questo il caso per i buchi neri."
+    As "Per noi e per le macchine fisiche quali sono i portali, il tempo passa linearmente e non possiamo farci nulla al riguardo. Tuttavia, non è così per i buchi neri."
 
 # game/chapter4.rpy:4560
 translate italiantl _call_skipcheck_21_98f966e9:

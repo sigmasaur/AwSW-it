@@ -880,7 +880,7 @@ translate italiantl a4otherwise_cac4c825:
 translate italiantl a4otherwise_a07e2e36:
 
     # An cry "One of their oh-so-important founding principles is how every individual is important. That's clearly not the case with me. At least, they never showed it was."
-    An cry "Uno dei loro tanto amati princìpi fondanti è come ogni individuo sia importante. Chiaramente non è questo il mio caso. Almeno, non hanno mai dato a vedere che lo fosse." # "oh-so-important" -> "beloved"
+    An cry "Uno dei loro tanto amati princìpi fondanti è come ogni individuo sia importante. È chiaro che con me non è così. Almeno, non hanno mai dato a vedere che lo fosse." # "oh-so-important" -> "beloved"
 
 # game/anna4.rpy:484
 translate italiantl a4otherwise_c04fd889:

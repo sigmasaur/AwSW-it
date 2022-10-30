@@ -412,7 +412,7 @@ translate italiantl _call_skipcheck_22_6a25340a:
 translate italiantl _call_skipcheck_22_25021eee:
 
     # Ry "The problem is their labels are so old that they've started to fade away, which makes sorting them a little harder. They will get new labels soon, but until then, we'll just have to make do with what we have here."
-    Ry "Il problema è che le loro etichette sono talmente vecchie che hanno cominciato a sbiadire, il che rende un po' più difficile riordinarli. Avranno presto una nuova etichetta, ma fino ad allora, dovremo accontentarci di quel che abbiamo qui."
+    Ry "Il problema è che le loro etichette sono talmente vecchie che hanno cominciato a sbiadire, il che rende un po' più difficile riordinarli. Avranno presto una nuova etichetta, ma fino ad allora, dovremo accontentarci di quel che abbiamo qui." # "we'll [just] have to make do"
 
 # game/remy1.rpy:312
 translate italiantl _call_skipcheck_22_b53b83fe:
@@ -1385,7 +1385,7 @@ translate italiantl remystuff_a1dc5ba8:
 translate italiantl remystuff_1c08a712:
 
     # Ry "Maybe it would be better if you didn't stay out in the open. At the end of the hallway, you can find my office towards the right. Wait for me there."
-    Ry "Forse sarebbe meglio se non te ne stessi allo scoperto. Alla fine del corridoio, puoi trovare il mio ufficio sulla destra. Aspettami là."
+    Ry "Forse sarebbe meglio che non te ne stessi allo scoperto. Alla fine del corridoio, puoi trovare il mio ufficio sulla destra. Aspettami là."
 
 # game/remy1.rpy:1271
 translate italiantl remystuff_86148265:

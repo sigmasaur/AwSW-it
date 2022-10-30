@@ -1576,7 +1576,7 @@ translate italiantl adine4skip_cad25449:
 translate italiantl adine4skip_684be4d0:
 
     # Ad normal b "Yeah, I figured as much. Since you were already here, I thought it was worth a shot. Guess I'll just have to manage on my own. Sorry for asking."
-    Ad normal b "Già, lo immaginavo. Dato che ormai eri qui, ho pensato che valesse la pena tentare. Immagino che dovrò soltanto arrangiarmi da sola. Scusa se ho chiesto."
+    Ad normal b "Già, lo immaginavo. Dato che ormai eri qui, ho pensato che valesse la pena tentare. Immagino che me la caverò da sola. Scusa se ho chiesto." # "I'll [just have to] manage"
 
 # game/adine4.rpy:733
 translate italiantl adine4skip_2cfb4b1f:
@@ -1984,7 +1984,7 @@ translate italiantl a4shower_e7838a34:
 translate italiantl a4shower_39aa074b:
 
     # Ad normal b "I suppose you'll just have to spend the night then."
-    Ad normal b "Suppongo che dovrai solo passare qui la notte allora." # "spend the night HERE"
+    Ad normal b "Allora non ti resta che passare qui la notte, suppongo." # "spend the night HERE"
 
 # game/adine4.rpy:977
 translate italiantl a4shower_c7fe4d0e:

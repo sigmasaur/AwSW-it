@@ -1032,7 +1032,7 @@ translate italiantl _call_skipcheck_2_1e106597:
 translate italiantl _call_skipcheck_2_8c860b7d:
 
     # "???" "They're only coming in later today, so you'll just have to make do with me."
-    "??? " "Loro arriveranno solo più tardi in giornata, quindi dovrete accontentarvi di me."
+    "??? " "Loro arriveranno solo più tardi in giornata, perciò dovrete accontentarvi di me." # "you'll [just] have to make do"
 
 # game/chapter1.rpy:1409
 translate italiantl _call_skipcheck_2_759b976c:
@@ -2079,7 +2079,7 @@ translate italiantl _call_syscheck_6_d047da4e:
 translate italiantl _call_syscheck_6_786007d9:
 
     # Sb disapproval b "Alright, you got what you wanted. Off you go, now."
-    Sb disapproval b "D'accordo, hai avuto quel che volevi. Puoi anche andare, adesso."
+    Sb disapproval b "D'accordo, hai avuto quel che volevi. Ora, via."
 
 # game/chapter1.rpy:2077
 translate italiantl _call_syscheck_6_9e99e262:
@@ -2347,7 +2347,7 @@ translate italiantl elsewhere_b153aad5:
 translate italiantl menu5_a4fe5d75:
 
     # m "The bookshelf was stocked with quite a variety of books on different topics."
-    m "La libreria era rifornita di una gran varietà di libri su diversi argomenti."
+    m "La libreria era rifornita di una discreta varietà di libri su diversi argomenti."
 
 # game/chapter1.rpy:2304
 translate italiantl menu6_4d0a77a3:
@@ -3521,7 +3521,7 @@ translate italiantl continuation_dd21be7f_2:
 translate italiantl continuation_e3c5319a:
 
     # Br "Maybe Reza will still show up soon and we can get all of this behind us."
-    Br "Magari [Rz] si farà presto vivo comunque e potremo lasciarci tutto questo alle spalle."
+    Br "Magari [Rz] si farà comunque vivo presto e potremo gettarci tutto questo alle spalle."
 
 # game/chapter1.rpy:3091
 translate italiantl continuation_63eccaf9:
@@ -3641,7 +3641,7 @@ translate italiantl _call_syscheck_12_bf72188d:
 translate italiantl _call_syscheck_12_f1ed3266:
 
     # Br "I suppose I'll just have to keep asking you until you change your mind."
-    Br "Suppongo che dovrò solo continuare a chiedertelo finché non cambierai idea."
+    Br "Non mi resta che continuare a chiedertelo finché non cambierai idea, suppongo."
 
 # game/chapter1.rpy:3176
 translate italiantl _call_syscheck_12_23b9c64c:
@@ -4879,7 +4879,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1677
     old "How about some scrambled eggs with bacon?"
-    new "E perché non delle uova strapazzate con pancetta?"
+    new "E delle uova strapazzate con pancetta?"
 
     # chapter1.rpy:1677
     old "Today's special."

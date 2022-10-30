@@ -1032,7 +1032,7 @@ translate italiantl _call_syscheck_41_f828523f:
 translate italiantl _call_syscheck_41_4ae87edc:
 
     # c "(Of course he wouldn't have challenged me if he wasn't confident he would win. Guess I'll just have to try my best.)"
-    c "(Ovviamente non mi avrebbe sfidato se non fosse stato sicuro di vincere. Immagino che dovrò solo tentare del mio meglio.)"
+    c "(Ovviamente non mi avrebbe sfidato se non fosse stato sicuro di vincere. Non mi resta che tentare del mio meglio, immagino.)"
 
 # game/bryce1.rpy:843
 translate italiantl _call_syscheck_41_0979cd19:

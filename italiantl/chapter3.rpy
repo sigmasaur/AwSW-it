@@ -4570,7 +4570,7 @@ translate italiantl c3arc_a6b27b25:
 translate italiantl c3arc_408fc55a:
 
     # "???" "I'm Katsuharu, by the way. Local ice cream vendor."
-    "??? " "Sono [Ka], comunque. Produttore locale di gelato."
+    "??? " "Sono [Ka], comunque. Gelataio del luogo."
 
 # game/chapter3.rpy:3276
 translate italiantl c3arc_f7f6269f:
@@ -4922,7 +4922,7 @@ translate italiantl c3arcques_7c9f9a1e:
 translate italiantl c3arcques_ae4bc12d:
 
     # n "Of course, there were public worries regarding the untested, long-term consequences of utilizing black holes in such technology. It was outlawed in certain countries due to these concerns, but lobbies and the private sector drove many of them to accept the tech, in light of the boundless advantages offered."
-    n "Naturalmente, alcuni erano preoccupati delle indimostrate conseguenze a lungo termine dell'utilizzo dei buchi neri in tale tecnologia. La quale era stata messa al bando in certi paesi a causa di questi timori, ma gruppi di pressione e il settore privato avevano spinto molti di essi ad accettarla, alla luce degli sconfinati vantaggi che offriva." # "the tech" -> "it"
+    n "Naturalmente, alcuni erano preoccupati delle indimostrate conseguenze a lungo termine dell'utilizzo dei buchi neri in tale tecnologia. La quale era stata messa al bando in certi paesi a causa di questi timori, ma gruppi di pressione e il settore privato avevano spinto molti di essi ad accettare la tecnologia, alla luce degli sconfinati vantaggi che offriva."
 
 # game/chapter3.rpy:3512
 translate italiantl c3arcques_984e1be8:
@@ -4980,7 +4980,7 @@ translate italiantl c3arcques_fd582abe:
 translate italiantl c3arcques_3623e085:
 
     # n "Ultimately, they had a hand in influencing every area of life on a global scale. It was unknown who was truly calling the shots, as their network of companies and names was vast."
-    n "In definitiva, avevano le mani in pasta in ogni àmbito della vita su scala globale. Non era chiaro chi fosse davvero a condurre il gioco, data la vastità della loro rete di compagnie e prestanomi."
+    n "In definitiva, avevano le mani in pasta in ogni àmbito della vita su scala globale. Non si sapeva chi fosse veramente a condurre il gioco, data la vastità della loro rete di compagnie e prestanomi."
 
 # game/chapter3.rpy:3534
 translate italiantl c3arcques_c4ee8218:

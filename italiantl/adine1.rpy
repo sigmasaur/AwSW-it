@@ -748,7 +748,7 @@ translate italiantl _call_skipcheck_10_5479d226:
 translate italiantl _call_skipcheck_10_ef4c12fa:
 
     # Ad "By the way, interesting selection of books you have there. \"Draconic Desire\", \"Ixomen Sphere\" - are these yours?"
-    Ad "Ad ogni modo, interessante selezione di libri che hai lì. \"Desiderio Draconico\", \"La Sfera di Ixomen\"—sono tuoi?" # corrected em-dash
+    Ad "Interessante selezione di libri che hai lì, comunque. \"Desiderio Draconico\", \"La Sfera di Ixomen\"—sono tuoi?" # corrected em-dash; "THE Ixomen Sphere"
 
 # game/adine1.rpy:521
 translate italiantl _call_skipcheck_10_304794b1:
@@ -1396,7 +1396,7 @@ translate italiantl nextsc_e3afd84b:
 translate italiantl nextsc_d022c5bd:
 
     # Ad "Of course I'd love to visit - maybe as some sort of vacation. But if you're talking about permanently, I'm not sure if I could just pack up and leave everything behind just like that."
-    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se dici in modo permanente, non sono sicura che potrei prendere e lasciarmi tutto quanto alle spalle a quel modo." # corrected em-dash
+    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se dici in modo permanente, non sono sicura che potrei prendere e gettarmi tutto quanto alle spalle a quel modo." # corrected em-dash
 
 # game/adine1.rpy:932
 translate italiantl nextsc_b8fb304d:
@@ -1988,7 +1988,7 @@ translate italiantl strings:
 
     # adine1.rpy:610
     old "There isn't really anyone."
-    new "Non c'è davvero nessuno."
+    new "In realtà non c'è nessuno."
 
     # adine1.rpy:610
     old "Okay, there's someone."

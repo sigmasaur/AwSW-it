@@ -1006,7 +1006,7 @@ translate italiantl _call_skipcheck_28_9a0f8f61:
 translate italiantl _call_skipcheck_28_2beeb5d5:
 
     # Ry "When it was time for you to arrive and it was decided that it wouldn't be a public event this time due to security concerns, I knew that Emera wasn't going to be there if she wasn't able to make it all about herself."
-    Ry "Quando fu il momento che tu arrivassi e fu deciso che stavolta non sarebbe stato un evento pubblico per ragioni di sicurezza, sapevo che [Em] non ci sarebbe stata se non poteva far girare tutto intorno a lei." # "due to security concerns" -> "for security reasons"
+    Ry "Quando fu il momento che tu arrivassi e fu deciso che questa volta non sarebbe stato un evento pubblico per ragioni di sicurezza, sapevo che [Em] non ci sarebbe stata se non poteva far sì che girasse tutto intorno a lei." # "due to security concerns" -> "for security reasons"
 
 # game/remy4.rpy:602
 translate italiantl _call_skipcheck_28_b43eb1ee:

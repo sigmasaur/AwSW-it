@@ -3843,7 +3843,7 @@ translate italiantl _call_skipcheck_12_2a8954e7:
 translate italiantl _call_skipcheck_12_107283ad:
 
     # c "He's escaped twice now. Each time, he managed to get away without any trouble. I just feel like if we haven't found him by now, we won't do so anytime soon, either. Reza knows what he's doing."
-    c "È già fuggito due volte, e ogni volta è riuscito ad allontanarsi senza alcuna difficoltà. Ho solo la sensazione che se a quest'ora non l'abbiamo trovato, non ce la faremo neanche tanto presto. [Rz] sa il fatto suo." # corrected comma
+    c "È già fuggito due volte, e ogni volta è riuscito ad allontanarsi senza problemi. Ho solo la sensazione che se a quest'ora non l'abbiamo trovato, non ce la faremo neanche tanto presto. [Rz] sa il fatto suo." # corrected comma
 
 # game/chapter2.rpy:3694
 translate italiantl _call_skipcheck_12_b601d0a4:
@@ -3867,7 +3867,7 @@ translate italiantl _call_skipcheck_12_567c8e01:
 translate italiantl _call_skipcheck_12_a0830fbb:
 
     # c "I know, but to be honest, I'm not sure if I can be much help to you at all."
-    c "Lo so, ma ad essere onesti, non sono sicurə di potervi essere affatto d'aiuto."
+    c "Lo so, ma ad essere onesti, non sono sicurə di potervi essere affatto d'aiuto." # "can be OF [much] help to you at all"
 
 # game/chapter2.rpy:3702
 translate italiantl _call_skipcheck_12_a9821795:
