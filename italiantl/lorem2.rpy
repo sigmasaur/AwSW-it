@@ -2086,7 +2086,7 @@ translate italiantl _call_skipcheck_33_b939c9c4:
 translate italiantl _call_skipcheck_33_cad97e92:
 
     # c "Everything's still up in the air as far as diplomatic relations go. We have no idea what the situation could be like in just a week."
-    c "È ancora tutto in alto mare, quanto alle relazioni diplomatiche. Non abbiamo idea di come potrebbe essere la situazione in appena una settimana."
+    c "È ancora tutto in alto mare, quanto alle relazioni diplomatiche. Non abbiamo idea di come potrebbe essere la situazione nel giro di una settimana." # "in [just] a week"
 
 # game/lorem2.rpy:1177
 translate italiantl _call_skipcheck_33_ead2c399:

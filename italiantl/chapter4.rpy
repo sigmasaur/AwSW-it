@@ -1855,7 +1855,7 @@ translate italiantl c4intuition_6e6ce20e:
 translate italiantl c4intuition_5da566dc:
 
     # Sb "Yeah, we've requested assistance from one of the cities. We hope they'll send some good investigators our way soon."
-    Sb "Già, abbiamo richiesto assistenza da una delle metropoli. Speriamo che manderanno presto da noi qualche buon investigatore."
+    Sb "Già, abbiamo richiesto assistenza da una delle grandi città. Speriamo che manderanno presto da noi qualche buon investigatore."
 
 # game/chapter4.rpy:1862
 translate italiantl c4intuition_89aefe22:
@@ -2035,7 +2035,7 @@ translate italiantl brycefirst_40d0a46a:
 translate italiantl brycefirst_41ddf17b:
 
     # Sb disapproval b "I've already requested help from one of the cities. I hope they'll send some good investigators our way as soon as possible."
-    Sb disapproval b "Ho già richiesto aiuto da una delle metropoli. Spero che manderanno da noi qualche buon investigatore il prima possibile." # see line 1860
+    Sb disapproval b "Ho già richiesto aiuto da una delle grandi città. Spero che manderanno da noi qualche buon investigatore il prima possibile." # see line 1860
 
 # game/chapter4.rpy:1984
 translate italiantl brycefirst_43d253e6:
@@ -5696,7 +5696,7 @@ translate italiantl _call_skipcheck_21_bc4dde1f:
 translate italiantl _call_skipcheck_21_bb1c2520:
 
     # c "I see, so despite being in different time periods, time still passes linearly on both sides of the portals."
-    c "Capisco, quindi malgrado si trovino in epoche diverse, il tempo passa comunque linearmente da entrambi i lati dei portali." # see line 4552
+    c "Capisco, quindi nonostante si trovino in epoche diverse, il tempo passa comunque linearmente da entrambi i lati dei portali." # see line 4552
 
 # game/chapter4.rpy:4568
 translate italiantl _call_skipcheck_21_17611d67:
@@ -5930,7 +5930,7 @@ translate italiantl _call_skipcheck_21_d6846286:
 translate italiantl _call_skipcheck_21_7f691111:
 
     # c "So it's all about Reza and the generators, isn't it?"
-    c "Perciò gira tutto attorno a [Rz] e i generatori, è così?"
+    c "Perciò gira tutto intorno a [Rz] e i generatori, è così?"
 
 # game/chapter4.rpy:4647
 translate italiantl _call_skipcheck_21_9a98b6f3:

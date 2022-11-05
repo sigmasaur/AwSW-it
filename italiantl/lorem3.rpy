@@ -1702,7 +1702,7 @@ translate italiantl lorem3searchmenu_3079022a:
 translate italiantl lorem3searchmenu_fa228a68:
 
     # Lo "It's certainly not anywhere near the ceiling, I already checked there."
-    Lo "Non è certamente da nessuna parte vicino al soffitto, là ho già controllato."
+    Lo "Non è certamente vicino al soffitto, là ho già controllato."
 
 # game/lorem3.rpy:874
 translate italiantl lorem3searchmenu_4ab069aa:

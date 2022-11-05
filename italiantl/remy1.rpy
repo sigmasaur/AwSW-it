@@ -583,7 +583,7 @@ translate italiantl _call_syscheck_85_cb3d9530:
 translate italiantl _call_syscheck_85_6fabc8b8:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n "Pensava davvero che volessi passare il mio tempo libero a fare il suo lavoro al posto suo?" # see line 796
+    n "Pensava davvero che volessi passare il tempo libero a fare il suo lavoro al posto suo?" # see line 796
 
 # game/remy1.rpy:805
 translate italiantl _call_syscheck_85_c3f8240c:
@@ -649,7 +649,7 @@ translate italiantl _call_syscheck_85_cb3d9530_1:
 translate italiantl _call_syscheck_85_6fabc8b8_1:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n "Pensava davvero che volessi passare il mio tempo libero a fare il suo lavoro al posto suo?" # see line 804
+    n "Pensava davvero che volessi passare il tempo libero a fare il suo lavoro al posto suo?" # see line 804
 
 # game/remy1.rpy:867
 translate italiantl _call_syscheck_85_c3f8240c_1:
@@ -715,7 +715,7 @@ translate italiantl _call_syscheck_85_cb3d9530_2:
 translate italiantl _call_syscheck_85_6fabc8b8_2:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n "Pensava davvero che volessi passare il mio tempo libero a fare il suo lavoro al posto suo?" # see line 804
+    n "Pensava davvero che volessi passare il tempo libero a fare il suo lavoro al posto suo?" # see line 804
 
 # game/remy1.rpy:929
 translate italiantl _call_syscheck_85_c3f8240c_2:
@@ -790,7 +790,7 @@ translate italiantl _call_syscheck_85_cb3d9530_3:
 translate italiantl _call_syscheck_85_6fabc8b8_3:
 
     # n "Did he really think I wanted to spend my free time doing his work for him?"
-    n "Pensava davvero che volessi passare il mio tempo libero a fare il suo lavoro al posto suo?" # see line 804
+    n "Pensava davvero che volessi passare il tempo libero a fare il suo lavoro al posto suo?" # see line 804
 
 # game/remy1.rpy:991
 translate italiantl _call_syscheck_85_c3f8240c_3:
@@ -1830,7 +1830,7 @@ translate italiantl _call_syscheck_86_e57a8d23:
 translate italiantl _call_syscheck_86_c1ad4691:
 
     # Ry "No, we generally don't have this kind of technology in every household, though it's not exactly rare either. We just use it where we need it."
-    Ry "No, in genere non abbiamo questo tipo di tecnologia in ogni abitazione, anche se non è nemmeno esattamente raro. Semplicemente lo usiamo laddove ci serve."
+    Ry "No, in genere non abbiamo questo tipo di tecnologia in ogni abitazione, anche se non è nemmeno esattamente raro. Semplicemente lo usiamo dove ci serve."
 
 # game/remy1.rpy:1631
 translate italiantl _call_syscheck_86_a9e06be0:

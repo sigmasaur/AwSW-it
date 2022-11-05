@@ -632,7 +632,7 @@ translate italiantl holetravel_e590ac89:
 translate italiantl holetravel_a1bc0095:
 
     # c "Thank you, Remy. Have a good night."
-    c "Ti ringrazio, [Ry]. Ti auguro una buonanotte."
+    c "Ti ringrazio, [Ry]. Passa una buona notte."
 
 # game/chapter1.rpy:716
 translate italiantl holetravel_acc659e8:
@@ -4163,7 +4163,7 @@ translate italiantl quest6_6dd6c5dc:
 translate italiantl quest6_ad271f6e:
 
     # Br "That is actually a very real possibility. We probably would be seeing more blood if that were the case, though."
-    Br "Questa è in effetti un'eventualità molto concreta. Probabilmente vedremmo più sangue se questo fosse il caso, però."
+    Br "Questa è in effetti un'eventualità molto concreta. Probabilmente vedremmo più sangue se così fosse, però."
 
 # game/chapter1.rpy:3557
 translate italiantl quest6_e9ff846e:

@@ -226,7 +226,7 @@ translate italiantl _call_skipcheck_96b7dd29:
 translate italiantl _call_skipcheck_98d32ec3:
 
     # c "Your town has seedy parts?"
-    c "La vostra città ha delle zone malfamate?"
+    c "La vostra città ha zone malfamate?"
 
 # game/anna3.rpy:235
 translate italiantl _call_skipcheck_13ce0798:

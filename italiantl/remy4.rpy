@@ -934,7 +934,7 @@ translate italiantl _call_skipcheck_28_7f5fd2f5:
 translate italiantl _call_skipcheck_28_744dc376:
 
     # c "I thought you wanted to show me around, but I suppose we can just stay here if you'd prefer that."
-    c "Pensavo che volessi mostrarmi, ma suppongo che possiamo anche restarcene qui se preferisci." # "to show me [around]"
+    c "Pensavo volessi mostrarmi, ma suppongo che possiamo anche restarcene qui se preferisci." # "to show me [around]"
 
 # game/remy4.rpy:578
 translate italiantl _call_skipcheck_28_5b797ec5:
@@ -1702,7 +1702,7 @@ translate italiantl remy4skip2_a681ed09:
 translate italiantl remy4skip2_0ed2e312:
 
     # Ry "I'm sorry, I just thought..."
-    Ry "Mi dispiace, pensavo solo..."
+    Ry "Mi dispiace, ho pensato..." # "I [just] thought"
 
 # game/remy4.rpy:988
 translate italiantl remy4skip2_0746f984:

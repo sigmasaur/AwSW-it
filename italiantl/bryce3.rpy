@@ -706,7 +706,7 @@ translate italiantl _call_skipcheck_26_426bef2c:
 translate italiantl _call_skipcheck_26_0dedc24f:
 
     # Br "Just help yourself, and throw it on the fire."
-    Br "Prendi pure quello che vuoi, e buttalo sul fuoco."
+    Br "Sèrviti pure, e buttalo sul fuoco."
 
 # game/bryce3.rpy:471
 translate italiantl _call_skipcheck_26_628aae63:
@@ -1361,7 +1361,7 @@ translate italiantl bryce3pass_61881e5f:
 translate italiantl bryce3pass_f06e945d:
 
     # c "Don't you want to be a father?"
-    c "Non vuoi essere padre?"
+    c "Non vorresti essere padre?"
 
 # game/bryce3.rpy:773
 translate italiantl bryce3pass_46878a3b:
@@ -1415,7 +1415,7 @@ translate italiantl bryce3pass_eab18ce4:
 translate italiantl bryce3pass_ceddac29:
 
     # Sb "Well, I've seen [player_name] hang out with that librarian a few times."
-    Sb "Be', ho visto [player_name] stare assieme a quel bibliotecario qualche volta."
+    Sb "Be', ho visto [player_name] assieme a quel bibliotecario qualche volta." # "hang out" -> "together"
 
 # game/bryce3.rpy:795
 translate italiantl bryce3pass_55005532:

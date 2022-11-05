@@ -220,7 +220,7 @@ translate italiantl _call_skipcheck_7_7194792c:
 translate italiantl _call_skipcheck_7_ec71e0ee:
 
     # c "I thought you wanted to show me, since you said we were both in biology and all that."
-    c "Pensavo che volessi mostrarmi, dal momento che dicevi che siamo entrambɜ in biologia e quant'altro."
+    c "Pensavo volessi mostrarmi, dal momento che dicevi che siamo entrambɜ in biologia e tutto il resto."
 
 # game/anna1.rpy:231
 translate italiantl _call_skipcheck_7_4e54941b:
@@ -274,7 +274,7 @@ translate italiantl _call_skipcheck_7_7194792c_1:
 translate italiantl _call_skipcheck_7_ec71e0ee_1:
 
     # c "I thought you wanted to show me, since you said we were both in biology and all that."
-    c "Pensavo che volessi mostrarmi, dal momento che dicevi che siamo entrambɜ in biologia e quant'altro." # see line 229
+    c "Pensavo volessi mostrarmi, dal momento che dicevi che siamo entrambɜ in biologia e tutto il resto." # see line 229
 
 # game/anna1.rpy:270
 translate italiantl _call_skipcheck_7_4e54941b_1:
@@ -706,13 +706,13 @@ translate italiantl _call_skipcheck_7_7d8ee730:
 translate italiantl _call_skipcheck_7_9e671d0d:
 
     # c "What do you usually do during your free time? Having a good work-life balance is very important, you know."
-    c "Cosa fai di solito durante il tuo tempo libero? Avere un buon equilibrio fra lavoro e vita privata è molto importante, sai."
+    c "Cosa fai di solito durante il tempo libero? Avere un buon equilibrio fra lavoro e vita privata è molto importante, sai."
 
 # game/anna1.rpy:596
 translate italiantl _call_skipcheck_7_f3734192:
 
     # An "I love my job, I really do. Actually, I love it so much that even in my free time, I still do things that have to do with biology."
-    An "Amo il mio lavoro, dico davvero. In effetti, lo amo talmente che anche nel mio tempo libero, faccio ancora cose che hanno a che vedere con la biologia."
+    An "Amo il mio lavoro, dico davvero. In effetti, lo amo talmente che anche nel tempo libero, faccio ancora cose che hanno a che vedere con la biologia."
 
 # game/anna1.rpy:597
 translate italiantl _call_skipcheck_7_a9f2c31d:
@@ -1342,7 +1342,7 @@ translate italiantl cont4_a1c6efd2:
 translate italiantl cont4_5879abc9:
 
     # c "Okay, here's the real question: What is the only substance known to be lighter in its solid form compared to its liquid state?"
-    c "Okay, ecco la vera domanda: qual è l'unica sostanza nota per essere meno densa nella sua forma solida rispetto al suo stato liquido?" # corrected "lighter" -> "less dense"
+    c "Okay, ecco la vera domanda: qual è l'unica sostanza nota per essere più leggera nella sua forma solida rispetto al suo stato liquido?"
 
 # game/anna1.rpy:1030
 translate italiantl cont4_f229ea8c:

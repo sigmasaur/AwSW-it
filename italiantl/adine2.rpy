@@ -1630,7 +1630,7 @@ translate italiantl adine2skip_ffece9d6:
 translate italiantl adine2skip_6dfd4551:
 
     # Ad normal b "Oh, that's great! Maybe you can get them to hand it over? It doesn't even have to be the real thing, a copy would be just fine."
-    Ad normal b "Oh, è fantastico! Forse tu puoi convincerli a consegnartela? Non dev'essere nemmeno quella vera, una copia andrebbe più che bene." # "hand it over TO YOU"
+    Ad normal b "Oh, è fantastico! Forse tu puoi convincerli a passarmela? Non dev'essere nemmeno quella vera, una copia andrebbe più che bene." # "hand it over TO ME"
 
 # game/adine2.rpy:1157
 translate italiantl adine2skip_fde92139:
@@ -1756,7 +1756,7 @@ translate italiantl adine2skip_309e5307:
 translate italiantl adine2skip_83335fed:
 
     # Ad normal b "Well, the myths wouldn't be very mythical anymore if that was the case. We'd have proof."
-    Ad normal b "Be', i miti non sarebbero più granché mitologici se questo fosse il caso. Avremmo delle prove."
+    Ad normal b "Be', i miti non sarebbero più granché mitologici se così fosse. Avremmo delle prove."
 
 # game/adine2.rpy:1234
 translate italiantl adine2skip_42be37ee:

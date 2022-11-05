@@ -796,7 +796,7 @@ translate italiantl _call_skipcheck_30_b5b8a169:
 translate italiantl _call_skipcheck_30_a366770f:
 
     # Ad think b "They have an office in one of the cities that watches these kinds of things. I called them about it a while ago."
-    Ad think b "Hanno un ufficio in una delle metropoli che tiene d'occhio questo genere di cose. Li ho chiamati a questo proposito qualche tempo fa." # see line 1860 of chapter 4
+    Ad think b "Hanno un ufficio in una delle grandi città che tiene d'occhio questo genere di cose. Li ho chiamati a questo proposito qualche tempo fa." # see line 1860 of chapter 4
 
 # game/adine4.rpy:425
 translate italiantl _call_skipcheck_30_88afc390:
@@ -922,7 +922,7 @@ translate italiantl _call_skipcheck_30_610a3901:
 translate italiantl _call_skipcheck_30_cb4778c3:
 
     # Ad giggle b "Oh, I believe all of it. I just love reading all the stories, theories, and all that."
-    Ad giggle b "Oh, credo lo siano tutti. Semplicemente adoro leggere tutte le storie, le teorie e quant'altro."
+    Ad giggle b "Oh, credo lo siano tutti. Semplicemente adoro leggere tutte le storie, le teorie e tutto il resto."
 
 # game/adine4.rpy:467
 translate italiantl _call_skipcheck_30_1bc47770:

@@ -761,7 +761,7 @@ translate italiantl _call_skipcheck_19_f3b71eb8:
 translate italiantl _call_skipcheck_19_de52bf86:
 
     # Em frown "This might have been a good thing if he did his job well, but this didn't turn out to be the case."
-    Em frown "Il che poteva anche essere una buona cosa se facesse bene il suo lavoro, ma non si è rivelato questo il caso."
+    Em frown "Il che poteva anche essere una buona cosa se facesse bene il suo lavoro, ma non si è rivelato così." # wording
 
 # game/xemera.rpy:404
 translate italiantl _call_skipcheck_19_ed2143b1:

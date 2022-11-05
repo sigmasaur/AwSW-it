@@ -575,7 +575,7 @@ translate italiantl _call_skipcheck_27_893b4bac:
 
     # Ka smile "I have a grandson who may be my last hope. Unlike others, he was always interested not only in eating my ice cream, but also in learning what it took to make it. In a year or two, he will be old enough to become my apprentice if he so desires."
     Ka smile "Ho un nipote che potrebbe essere la mia ultima speranza. A differenza di altri, a lui è sempre interessato non solo mangiare il mio gelato, ma anche imparare cosa è servito per farlo."
-    Ka smile "In un anno o due, sarà abbastanza grande da diventare mio apprendista se lo desidera." # split to fit three lines
+    Ka smile "Fra un anno o due, sarà abbastanza grande da diventare mio apprendista se lo desidera." # split to fit three lines
 
 # game/xkatsu.rpy:333
 translate italiantl _call_skipcheck_27_c00ea5c3:
@@ -1133,19 +1133,19 @@ translate italiantl katsuskip_b787f42d:
 translate italiantl _call_syscheck_104_b3f0bc14:
 
     # s "You met with Katsuharu!"
-    s "Hai incontrato [Ka]!"
+    s "Ti sei incontratə con [Ka]!"
 
 # game/xkatsu.rpy:615
 translate italiantl _call_syscheck_104_7e36720b:
 
     # s "You met with Katsuharu and saved his business. Good job."
-    s "Hai incontrato [Ka] e salvato la sua attività. Bel lavoro."
+    s "Ti sei incontratə con [Ka] e hai salvato la sua attività. Bel lavoro."
 
 # game/xkatsu.rpy:619
 translate italiantl _call_syscheck_104_764a6018:
 
     # s "You met with Katsuharu and saved his business. But who wouldn't at the prospect of free artisan ice cream?"
-    s "Hai incontrato [Ka] e salvato la sua attività. Ma chi non l'avrebbe fatto alla prospettiva di gelato artigianale gratis?"
+    s "Ti sei incontratə con [Ka] e hai salvato la sua attività. Ma chi non l'avrebbe fatto alla prospettiva di gelato artigianale gratis?"
 
 translate italiantl strings:
 

@@ -1240,7 +1240,7 @@ translate italiantl _call_skipcheck_16_8455dd24:
 translate italiantl _call_skipcheck_16_16ced629:
 
     # Lo normal "While we do have devices tailored to each individual species, I can't deny that my dextrous hands make it a lot easier compared to some of the others."
-    Lo normal "Per quanto abbiamo dispositivi studiati per ogni singola specie, non posso negare che la mia manualità semplifichi molto la cosa a confronto con alcuni degli altri."
+    Lo normal "Per quanto abbiamo dispositivi studiati per ogni singola specie, non posso negare che la mia manualità semplifichi molto la cosa rispetto ad alcuni degli altri."
 
 # game/lorem1.rpy:761
 translate italiantl _call_skipcheck_16_f7462fd2:
@@ -1408,7 +1408,7 @@ translate italiantl lorem1skip_aca24fe1:
 translate italiantl lorem1skip_edfe1555:
 
     # Lo normal "Sure! Have a good night."
-    Lo normal "Sicuro! Ti auguro una buonanotte." # see line 836
+    Lo normal "Sicuro! Passa una buona notte." # see line 836
 
 # game/lorem1.rpy:882
 translate italiantl lorem1skip_77d9b866:
@@ -1534,7 +1534,7 @@ translate italiantl strings:
 
     # lorem1.rpy:234
     old "Why?"
-    new "Perché?"
+    new "Come mai?"
 
     # lorem1.rpy:234
     old "You're right about that. I can't help but feel a little deceived by this."

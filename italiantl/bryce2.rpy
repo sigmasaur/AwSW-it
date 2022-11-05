@@ -1131,7 +1131,7 @@ translate italiantl bryce2cont2_d2a44655:
 translate italiantl bryce2cont2_5cce87e1:
 
     # Br brow "I mean, it's always just about who's the best, and the strongest, and who has the biggest muscles and all that. I'm not into that whole competitive lifestyle."
-    Br brow "Voglio dire, si tratta sempre solo di chi è il migliore, e il più forte, e chi ha i muscoli più grossi e quant'altro. Non mi piace tutto quello stile di vita competitivo."
+    Br brow "Voglio dire, si tratta sempre solo di chi è il migliore, e il più forte, e chi ha i muscoli più grossi e tutto il resto. Non mi piace tutto quello stile di vita competitivo."
 
 # game/bryce2.rpy:870
 translate italiantl bryce2cont2_bc177fb9:

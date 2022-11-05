@@ -3214,7 +3214,7 @@ translate italiantl c3conty_a4c90328:
 translate italiantl c3conty_6053be8a:
 
     # m "I considered spending my free time roaming the town, but decided that it would be best to keep myself out of the spotlight."
-    m "Considerai di passare il mio tempo libero girando la città, ma decisi che sarebbe stato meglio tenermi lontanə dai riflettori."
+    m "Considerai di passare il tempo libero girando la città, ma decisi che sarebbe stato meglio tenermi lontanə dai riflettori."
 
 # game/chapter3.rpy:2252
 translate italiantl c3conty_d38c46b5:

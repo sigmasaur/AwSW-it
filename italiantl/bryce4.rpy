@@ -526,7 +526,7 @@ translate italiantl _call_skipcheck_1_40a73283:
 translate italiantl _call_skipcheck_1_c891211e:
 
     # Br "And despite what you might think about him, he was the one who found Reza's hideout, even after I forced him into sick leave."
-    Br "E malgrado quello che potresti pensare di lui, è stato lui a trovare il nascondiglio di [Rz], anche dopo che l'avevo costretto in malattia."
+    Br "E nonostante quello che potresti pensare di lui, è stato lui a trovare il nascondiglio di [Rz], anche dopo che l'avevo costretto in malattia."
 
 # game/bryce4.rpy:306
 translate italiantl _call_skipcheck_1_36e74905:

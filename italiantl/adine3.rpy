@@ -2267,7 +2267,7 @@ translate italiantl adine3skip_ae89625a:
 translate italiantl adine3skip_51c64cac:
 
     # Ad normal b "Much better. Maybe with this I can even start practicing again in a day or two."
-    Ad normal b "Molto meglio. Forse con questa potrò persino ricominciare ad allenarmi in un giorno o due."
+    Ad normal b "Molto meglio. Forse con questa potrò persino ricominciare ad allenarmi fra un giorno o due."
 
 # game/adine3.rpy:1234
 translate italiantl adine3skip_27e4f149:

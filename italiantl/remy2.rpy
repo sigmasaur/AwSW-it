@@ -76,7 +76,7 @@ translate italiantl _call_skipcheck_34_a53f88a4:
 translate italiantl _call_skipcheck_34_1458dfa1:
 
     # Ry "I think I have a few potatoes, but potatoes alone don't make for a particularly good dinner. Maybe we can find something else to go with them."
-    Ry "Credo di avere qualche patata, ma le patate da sole non fanno una cena particolarmente buona. Forse possiamo trovare qualcos'altro che si accompagni."
+    Ry "Credo di avere delle patate, ma le patate da sole non sono una cena particolarmente buona. Forse possiamo trovare qualcos'altro che si accompagni."
 
 # game/remy2.rpy:157
 translate italiantl _call_skipcheck_34_93a93dd6:

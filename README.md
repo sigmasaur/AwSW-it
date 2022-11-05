@@ -54,6 +54,7 @@ Currently working on the secondary characters' sections. Files done and up for r
 
     xemera.rpy
     xkatsu.rpy
+    xkevin.rpy
 
 ## Remarks and issues
 
@@ -101,7 +102,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`help.rpy`](italiantl/help.rpy)
 
-* At line 13: Used `space` tags in place of plain spaces to obtain a better alignment at a target resolution of 1920 × 1080, hope it's ok. There has to be a better way though.
+* At line 13: Used `space` tags in place of plain spaces to obtain a better alignment at a target resolution of 1920 × 1080, hope it's okay. There has to be a better way though.
 
 ### [`chapter1.rpy`](italiantl/chapter1.rpy)
 
@@ -280,7 +281,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 963, 965: Unfolded *#2* → *two*, for elegance.
 * At line 963, 965, 978, 989: Unfolded *#3* → *three*/*third*, for elegance.
 * At line 1018: Corrected *approximate <s>acceleration</s> speed*.
-* At line 1029: Corrected *lighter* → *less dense*.
+* At line 1029: Consider correcting *lighter* → *less dense*.
 
 ### [`anna2.rpy`](italiantl/anna2.rpy)
 
@@ -542,6 +543,19 @@ The following are mostly to the benefit of the developer and translators.
 * At line 331: Split in multiple parts to fit fewer lines.
 * At line 509: Rendered *businessman* as *business-dragon*.
 
+### [`xkevin.rpy`](italiantl/xkevin.rpy)
+
+* At line 137: Note that the player character has already heard about the cities at lines 1860, 1982 of [`chapter4.rpy`](#chapter4rpy), and possibly at line 423 of [`adine4.rpy`](#adine4rpy).
+* At line 183, 335, 413, 431, 435, 445, 451, 489: Corrected simple dash to em-dash.
+* At line 277: Assumed *your* is referred to `Reza` and the player character.
+* At line 357-359: Removed pun, by linguistic necessity.
+  * At line 359: `pass`ed and joined with line 361.
+* At line 427: Corrected *inbetween* → *in between*.
+* At line 461, 475: Slightly pruned to fit fewer lines.
+* At line 533: Corrected *whats* → *what's*.
+
 ## Other remarks
 
-* At line 929 of [`adine1.rpy`](#adine1rpy), 297 of [`remy4.rpy`](#remy4rpy): On *prendere e* V, see F. Masini, S. Mattiola, G. Vecchi; [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf); 2019. See also the Italian translation of *The Simpsons*, 07x18, 07:04.
+* At line 929 of [`adine1.rpy`](#adine1rpy), 297 of [`remy4.rpy`](#remy4rpy): On *prendere e* + infinito, see F. Masini, S. Mattiola, G. Vecchi; [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf); 2019. See also the Italian translation of:
+  * *The Simpsons*, 07x18, 07:04;
+  * *Interstellar*, 01:44:47.
