@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_28_980f08aa:
 translate italiantl _call_skipcheck_28_71fb267a:
 
     # Ry smile "Well, I'm glad to hear it."
-    Ry smile "Be', sono lieto di sentirlo."
+    Ry smile "Be', sono felice di sentirlo."
 
 # game/remy4.rpy:303
 translate italiantl _call_skipcheck_28_ada2cc13:
@@ -1066,7 +1066,7 @@ translate italiantl _call_skipcheck_28_16ac0834:
 translate italiantl _call_skipcheck_28_5c9f8e07:
 
     # Ry "When you accepted my invitation and came into my home, I was just glad to have you there."
-    Ry "Quando accettasti il mio invito e venisti a casa mia, ero solo lieto di averti là."
+    Ry "Quando accettasti il mio invito e venisti a casa mia, ero solo felice di averti là."
 
 # game/remy4.rpy:622
 translate italiantl _call_skipcheck_28_bec38e42:
@@ -1384,7 +1384,7 @@ translate italiantl _call_skipcheck_29_c732224d:
 translate italiantl _call_skipcheck_29_7935ef31:
 
     # Ry shy "Don't you think that's a matter better left to our police force? It could be very dangerous for you to interfere."
-    Ry shy "Non credi sia meglio lasciare questa faccenda alla nostra forza di polizia? Potrebbe essere molto pericoloso se interferisci."
+    Ry shy "Non credi sia meglio lasciare questa faccenda alla nostre forze di polizia? Potrebbe essere molto pericoloso se interferisci."
 
 # game/remy4.rpy:800
 translate italiantl _call_skipcheck_29_76b58d40:

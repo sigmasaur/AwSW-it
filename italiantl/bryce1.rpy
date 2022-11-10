@@ -300,7 +300,7 @@ translate italiantl waitmenu_118c9439:
 translate italiantl waitmenu_1353b25f:
 
     # Wr "There you go. Just call me if you need anything."
-    Wr "Ecco a voi. Chiamatemi pure se vi serve altro."
+    Wr "Ecco a voi. Chiamatemi pure se avete bisogno di qualcosa."
 
 # game/bryce1.rpy:331
 translate italiantl waitmenu_50600d31:

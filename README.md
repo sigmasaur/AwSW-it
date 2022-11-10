@@ -55,6 +55,7 @@ Currently working on the secondary characters' sections. Files done and up for r
     xemera.rpy
     xkatsu.rpy
     xkevin.rpy
+    xsebastian.rpy
 
 ## Remarks and issues
 
@@ -111,7 +112,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 431, 452, 471, 648, 1640: Corrected simple dash to em-dash.
 * At line 436, 2738, 2837, 2934: Corrected uppercase letter to lowercase after colon.
 * At line 463: Unfolded *8* → *eight*, for elegance.
-* At line 1084, 2109, 2176, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
+* At line 1084, 2753, 3118, 3352: Slightly pruned to fit fewer lines.
 * At line 1358: Corrected two-dots ellipsis to three-dots.
 * At line 1503, 1507, 1511: Added space before image, to match numerous lines throughout the script.
 * At line 1751: Used if-statement to further distinguish between food types by linguistic necessity.
@@ -554,8 +555,21 @@ The following are mostly to the benefit of the developer and translators.
 * At line 461, 475: Slightly pruned to fit fewer lines.
 * At line 533: Corrected *whats* → *what's*.
 
+### [`xsebastian.rpy`](italiantl/xsebastian.rpy)
+
+* At line 396, 1364: Split in multiple parts to fit fewer lines.
+* At line 722, 1086: Corrected uppercase letter to lowercase after colon.
+* At line 736, 749: Corrected simple dash to em-dash.
+* At line 749, 1071: Unfolded *2* → *two*, for elegance.
+* At lines 810-4390: Note that wrong moves seem to be undo-able. Also consider adding a visual cue to stress the carry-over rule in case of a tie; suggestion: change the previous squares to circle-cross couples.
+* At line 843, 845: Unfolded *5* → *five*, for elegance.
+* At line 1107, 2750, 3003, 3274: Note that these lines are never triggered:
+  * At line 2750: Note that `sebpoints` can never be `7` at the seventh round.
+* At line 1364: Unfolded *3* → *three*, for elegance.
+* At line 1364: Corrected *<b>a</b> big advantage*.
+
 ## Other remarks
 
-* At line 929 of [`adine1.rpy`](#adine1rpy), 297 of [`remy4.rpy`](#remy4rpy): On *prendere e* + infinito, see F. Masini, S. Mattiola, G. Vecchi; [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf); 2019. See also the Italian translation of:
+* At line 929 of [`adine1.rpy`](#adine1rpy), 297 of [`remy4.rpy`](#remy4rpy): On *prendere e* V, see F. Masini, S. Mattiola, G. Vecchi; [*La costruzione* "prendere e *V*" *nell'italiano contemporaneo*](https://www.societadilinguisticaitaliana.net/wp-content/uploads/2019/08/007_Masini_Mattiola_Vecchi_Atti_SLI_LII_Berna.pdf); 2019. See also the Italian translation of:
   * *The Simpsons*, 07x18, 07:04;
   * *Interstellar*, 01:44:47.

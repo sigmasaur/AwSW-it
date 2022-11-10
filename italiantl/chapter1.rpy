@@ -400,7 +400,7 @@ translate italiantl begingame_9cb37fb9:
 translate italiantl begingame_062d5b60:
 
     # n "What a way to make a first impression by a display of mutual goodwill. Everyone benefits and everyone goes home happy."
-    n "Quale modo migliore di fare una prima impressione se non con un gesto di reciproca benevolenza? Ci guadagnano tutti e se ne vanno tutti a casa contenti."
+    n "Quale modo migliore di fare una prima impressione se non con un gesto di reciproca buona volontà? Ci guadagnano tutti e se ne vanno tutti a casa contenti."
 
 # game/chapter1.rpy:500
 translate italiantl begingame_b084fb87:
@@ -548,7 +548,7 @@ translate italiantl holetravel_883eb98b:
 translate italiantl holetravel_1b80444e:
 
     # Ry "Well, I'm glad to hear that."
-    Ry "Be', sono lieto di sentirlo."
+    Ry "Be', sono felice di sentirlo."
 
 # game/chapter1.rpy:671
 translate italiantl holetravel_a3fad319:
@@ -620,7 +620,7 @@ translate italiantl holetravel_f97397b2:
 translate italiantl holetravel_7c536461:
 
     # Ry "This is where you will live for the time being. It is fully stocked, but in case you need anything else, I left you a note with a few phone numbers."
-    Ry "Qui è dove ti sistemerai per il tempo a venire. È completamente fornito, ma nel caso tu abbia bisogno di qualsiasi altra cosa, ti ho lasciato una nota con alcuni numeri di telefono."
+    Ry "Qui è dove ti sistemerai per il tempo a venire. È completamente fornito, ma in caso tu abbia bisogno di qualsiasi altra cosa, ti ho lasciato una nota con alcuni numeri di telefono."
 
 # game/chapter1.rpy:714
 translate italiantl holetravel_e590ac89:
@@ -1338,7 +1338,7 @@ translate italiantl _call_skipcheck_3_0054b77b:
 translate italiantl _call_skipcheck_3_98a18a10:
 
     # m "Luckily for us, the café was mostly empty when we arrived, as it was still pretty early in the day. Reza was quick to lead me to a table for two, prompting the dragons to get one of their own at the other side of the restaurant."
-    m "Fortunatamente per noi, la caffetteria era quasi vuota quando arrivammo, siccome erano ancora le prime ore del giorno. [Rz] si affrettò a condurmi a un tavolo per due, costringendo i due draghi a prenderne uno per sé dall'altro lato del ristorante." # "the TWO dragons"
+    m "Fortunatamente per noi, la caffetteria era quasi vuota quando arrivammo, siccome erano ancora le prime ore del giorno. [Rz] si affrettò a condurmi a un tavolo per due, costringendo i due draghi a prenderne uno per sé dall'altro lato del ristorante." # "mostly" -> "almost"; "the TWO dragons"
 
 # game/chapter1.rpy:1625
 translate italiantl _call_skipcheck_3_bac0030c:
@@ -1793,7 +1793,7 @@ translate italiantl _call_syscheck_6_09595634:
 translate italiantl _call_syscheck_6_61dd893b:
 
     # Sb "In any case, now that you've given us the PDA and Reza has the generator, you're free for today. So, if you want to go anywhere in particular, let me know, or I could show you around town."
-    Sb "In ogni caso, ora che ci hai consegnato il palmare e [Rz] ha il generatore, sei liberə per oggi. Quindi, se ti va di andare in qualche posto in particolare, fammelo sapere, oppure potrei farti vedere la città."
+    Sb "In ogni caso, ora che ci hai consegnato il palmare e [Rz] ha il generatore, sei liberə per oggi. Quindi, se ti va di andare in qualche posto in particolare, fammelo sapere, oppure potrei mostrarti la città."
 
 # game/chapter1.rpy:1902
 translate italiantl _call_syscheck_6_288fbfbf:
@@ -2165,7 +2165,7 @@ translate italiantl _call_syscheck_6_3a473542:
 translate italiantl _call_syscheck_6_5e27acbf:
 
     # n "Unfortunately, we were not able to catch up earlier, so I wanted to write you this letter. How have you been these last few years? What have you been doing? How's the family?"
-    n "Purtroppo, non abbiamo potuto rifarci del tempo perduto prima, così ho voluto scriverti questa lettera. Come sei statə in questi ultimi anni? Che cos'hai fatto? Com'è la famiglia?" # slightly pruned to fit two lines
+    n "Purtroppo, non abbiamo potuto rifarci prima, così ho voluto scriverti questa lettera. Come sei statə in questi ultimi anni? Che cos'hai fatto? Com'è la famiglia?"
 
 # game/chapter1.rpy:2110
 translate italiantl _call_syscheck_6_3ab950eb:
@@ -2239,7 +2239,7 @@ translate italiantl _call_increasing_3_3a473542:
 translate italiantl _call_increasing_3_5e27acbf:
 
     # n "Unfortunately, we were not able to catch up earlier, so I wanted to write you this letter. How have you been these last few years? What have you been doing? How's the family?"
-    n "Purtroppo, non abbiamo potuto rifarci del tempo perduto prima, così ho voluto scriverti questa lettera. Come sei statə in questi ultimi anni? Che cos'hai fatto? Com'è la famiglia?" # see line 2109
+    n "Purtroppo, non abbiamo potuto rifarci prima, così ho voluto scriverti questa lettera. Come sei statə in questi ultimi anni? Che cos'hai fatto? Com'è la famiglia?" # see line 2109
 
 # game/chapter1.rpy:2177
 translate italiantl _call_increasing_3_3ab950eb:
@@ -5295,7 +5295,7 @@ translate italiantl strings:
 
     # chapter1.rpy:3666
     old "Looks like it."
-    new "Pare proprio così."
+    new "Sembra proprio di sì."
 
     # chapter1.rpy:3666
     old "No, it's just a hobby."

@@ -2560,7 +2560,7 @@ translate italiantl c3conty_9fff1947:
 translate italiantl c3conty_a9f7a9c1:
 
     # Sb "I don't think so. This doesn't look like a simple act of vandalism. It looks like some parts were torn out."
-    Sb "Non credo. Non sembra un semplice atto di vandalismo. Sembra come se alcune parti siano state strappate via."
+    Sb "Non credo. Non sembra un semplice atto di vandalismo. Sembra come se alcune parti fossero state strappate via."
 
 # game/chapter3.rpy:1940
 translate italiantl c3conty_6555e014:
@@ -2638,7 +2638,7 @@ translate italiantl c3conty_8597379a:
 translate italiantl c3conty_635d2fc3:
 
     # Sb "Yeah. It looks like someone tampered with it and stole parts. I couldn't even get the interface to turn on."
-    Sb "Già. Sembra come se qualcuno l'abbia manomesso e ne abbia rubato delle parti. Non sono nemmeno riuscito ad avviare l'interfaccia."
+    Sb "Già. Sembra come se qualcuno l'avesse manomesso e ne avesse rubato delle parti. Non sono nemmeno riuscito ad avviare l'interfaccia."
 
 # game/chapter3.rpy:1983
 translate italiantl c3conty_ef47d40b:

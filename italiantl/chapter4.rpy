@@ -2209,7 +2209,7 @@ translate italiantl c4cont_89aefe22:
 translate italiantl c4cont2_4bfa8c52:
 
     # Sb "In any case, I'll just leave everything here until I get to it, so feel free to do these tasks as you wish."
-    Sb "In ogni caso, lascerò semplicemente tutto qui finché non mi ci sarò messo, quindi sentiti liberə di svolgere questi incarichi a tua discrezione."
+    Sb "In ogni caso, lascerò tutto qui finché non mi ci sarò messo, quindi sentiti liberə di svolgere questi incarichi a tua discrezione." # "I'll [just] leave everything here"
 
 # game/chapter4.rpy:2067
 translate italiantl c4cont2_827351ae:

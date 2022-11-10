@@ -1778,7 +1778,7 @@ translate italiantl _call_skipcheck_4e8c7062_1:
 translate italiantl _call_skipcheck_9ddea23e:
 
     # An "Looking at your data, it's kinda hard to evaluate it without having any reference points. How much exercise do you usually get?"
-    An "Guardando i tuoi dati, è abbastanza dura valutarli senza avere alcun punto di riferimento. Quanto esercizio fai di solito?"
+    An "Guardando i tuoi dati, è un po' difficile valutarli senza avere alcun punto di riferimento. Quanto esercizio fai di solito?"
 
 # game/anna3.rpy:1188
 translate italiantl _call_skipcheck_80b7fddd_3:

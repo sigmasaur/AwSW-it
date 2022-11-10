@@ -370,7 +370,7 @@ translate italiantl _call_skipcheck_23_fa4cb7ce:
 translate italiantl _call_skipcheck_23_dbdb04e5:
 
     # Ad "It's just not always easy, you know."
-    Ad "È solo che non sempre è facile, sai."
+    Ad "Solo, non è sempre facile, sai."
 
 # game/adine2.rpy:333
 translate italiantl _call_skipcheck_23_f05d13d2:

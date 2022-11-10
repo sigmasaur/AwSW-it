@@ -694,7 +694,7 @@ translate italiantl _call_skipcheck_1_07fe2340:
 translate italiantl _call_skipcheck_1_a8eb7605:
 
     # Br "The research about alcoholism in the police force is out there, but the general populace doesn't know about it. It's all just internal documents."
-    Br "Le ricerche sull'alcolismo nella forza di polizia ci sono, ma il grande pubblico non le conosce. Sono tutti documenti interni."
+    Br "Le ricerche sull'alcolismo nelle forze di polizia ci sono, ma il grande pubblico non le conosce. Sono tutti documenti interni."
 
 # game/bryce4.rpy:377
 translate italiantl _call_skipcheck_1_c98c0196:
@@ -1558,7 +1558,7 @@ translate italiantl bryce4skip_620565e5:
 translate italiantl bryce4skip_5291ce90:
 
     # c "Are you saying you want to go outside and watch?"
-    c "Stai dicendo di voler uscire a guardare?"
+    c "Stai dicendo di voler andare fuori a guardare?"
 
 # game/bryce4.rpy:692
 translate italiantl bryce4skip_657b029a:

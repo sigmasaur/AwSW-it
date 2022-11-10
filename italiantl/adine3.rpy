@@ -1294,7 +1294,7 @@ translate italiantl _call_skipcheck_9_69bcc6a9:
 translate italiantl _call_skipcheck_9_60fa77b7:
 
     # c "I'll just leave them here. No point in doing anything with them."
-    c "Le lascerò solo qui. Non avrebbe senso farci niente."
+    c "Le lascerò qui e basta. Non avrebbe senso farci niente."
 
 # game/adine3.rpy:697
 translate italiantl _call_skipcheck_9_ebb12d36:

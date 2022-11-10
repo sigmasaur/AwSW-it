@@ -202,7 +202,7 @@ translate italiantl _call_endingjustafewminuteslater_fcdea398:
 translate italiantl _call_endingjustafewminuteslater_4ffa6f77:
 
     # m "Just as I reached the outside, the bomb went off. The explosion battered my ears as the shockwave sent me flying."
-    m "Come ebbi raggiunto l'esterno, la bomba s'innescò. L'esplosione mi percosse i timpani mentre l'onda d'urto mi sbalzava in aria."
+    m "Come ebbi raggiunto l'esterno, la bomba si innescò. L'esplosione mi percosse i timpani mentre l'onda d'urto mi sbalzava in aria."
 
 # game/chapter5.rpy:624
 translate italiantl _call_endingjustafewminuteslater_f42fab5d:

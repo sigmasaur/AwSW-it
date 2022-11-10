@@ -117,7 +117,7 @@ translate italiantl _call_skipcheck_6_ba1e39e0:
 translate italiantl _call_skipcheck_6_bf4da10d:
 
     # Br laugh "Ah, some days, all you can do is be glad they're over."
-    Br laugh "Ah, certi giorni, tutto quello che puoi fare è essere lieto che siano finiti."
+    Br laugh "Ah, certi giorni, tutto quello che puoi fare è essere contento che siano finiti."
 
 # game/bryce2.rpy:161
 translate italiantl _call_skipcheck_6_9fd805a8:
@@ -405,7 +405,7 @@ translate italiantl _call_skipcheck_6_ebb85d93:
 translate italiantl _call_skipcheck_6_fa257366:
 
     # c "I just find it interesting, because where I come from, we also have vehicles for land and air travel."
-    c "Lo trovo solo interessante, perché da dove vengo, abbiamo anche veicoli per il trasporto aereo e via terra."
+    c "Lo trovo solo interessante, perché da dove vengo, abbiamo anche veicoli per il trasporto aereo e via terra." # exchanged "land" and "air"
 
 # game/bryce2.rpy:367
 translate italiantl _call_skipcheck_6_20a44318:
@@ -477,7 +477,7 @@ translate italiantl _call_skipcheck_6_433fca34:
 translate italiantl _call_skipcheck_6_3aef6a65:
 
     # Br stern "Seriously? Just because I don't look like a body builder doesn't mean I'm out of shape. Heck, I work out every day, and I train for strength - not to just look the part. Everything you see is 100%% pure muscle."
-    Br stern "Sul serio? Solo perché non assomiglio a un culturista non vuol dire che sia fuori forma. Diamine, mi alleno ogni giorno, e lavoro sulla forza—non solo per l'aspetto giusto. Tutto quello che vedi è al cento percento puro muscolo." # corrected em-dash; "100%" -> "one hundred percent" for elegance
+    Br stern "Sul serio? Solo perché non assomiglio a un culturista non significa che sia fuori forma. Diamine, mi alleno ogni giorno, e lavoro sulla forza—non solo per avere l'aspetto giusto. Tutto quello che vedi è al cento percento puro muscolo." # corrected em-dash; "100%" -> "one hundred percent" for elegance
 
 # game/bryce2.rpy:404
 translate italiantl _call_skipcheck_6_c00cf4e2:
@@ -1431,13 +1431,13 @@ translate italiantl bryce2cont2_dadd5c9c:
 translate italiantl bryce2cont2_92467694:
 
     # Br laugh "Yeah, that was certainly a first."
-    Br laugh "Già, di certo è stato una prima volta."
+    Br laugh "Già, è stata senz'altro una novità."
 
 # game/bryce2.rpy:1020
 translate italiantl bryce2cont2_c4b0be4f:
 
     # Br "Too bad they don't have any flapping competitions for my species."
-    Br "Peccato che non abbiano competizioni di battito per la mia specie."
+    Br "Peccato che non abbiano competizioni del genere per la mia specie." # "flapping competitions" -> "competitions like this"
 
 # game/bryce2.rpy:1029
 translate italiantl bryce2cont2_6d87b0b4:
@@ -1707,7 +1707,7 @@ translate italiantl bryce2cont2_d5a6f787:
 translate italiantl bryce2cont2_0401c90e:
 
     # Br "I guess it's not like you needed ambassadors to represent humanity before, right? That makes this whole process a first, unless you had aliens show up at your place before."
-    Br "Immagino che non è che prima vi servissero ambasciatori per rappresentare l'umanità, giusto? Il che fa di tutto questo processo una prima volta, a meno che degli alieni non si siano già presentati da voi in passato."
+    Br "Immagino che non è che prima vi servissero ambasciatori per rappresentare l'umanità, giusto? Il che fa di tutto questo processo una novità, a meno che degli alieni non si siano già presentati da voi in passato."
 
 # game/bryce2.rpy:1173
 translate italiantl bryce2cont2_23bbf6b1:
@@ -1773,7 +1773,7 @@ translate italiantl bryce2cont2_9587e85e:
 translate italiantl bryce2cont2_92bfe15d:
 
     # Br normal "I know many others have their own ideas of what humans are or what they're supposed to be. I'm not buying into all that, so I'll just take it as it is."
-    Br normal "So che molti altri hanno le loro idee su come sono gli umani o come si suppone che siano. Io tutto quello non me lo bevo, quindi la prendo semplicemente così com'è."
+    Br normal "So che molti altri hanno le loro idee su come sono gli umani o come si suppone che siano. Io tutto quello non me lo bevo, quindi la prenderò semplicemente così com'è." # must match line 1195
 
 # game/bryce2.rpy:1195
 translate italiantl bryce2cont2_4cdb7e4d:
@@ -1785,7 +1785,7 @@ translate italiantl bryce2cont2_4cdb7e4d:
 translate italiantl bryce2cont2_4918d46a:
 
     # Br brow "Well, you've been interesting enough so far, and Reza... I'm reserving judgment on that one."
-    Br brow "Be', finora tu sei statə abbastanza interessante, e [Rz]...su quello là mi riserverò il giudizio."
+    Br brow "Be', finora tu sei statə abbastanza interessante, e [Rz]... su quello là mi riserverò il giudizio."
 
 # game/bryce2.rpy:1199
 translate italiantl bryce2cont2_efb4d3f3:
@@ -1833,7 +1833,7 @@ translate italiantl bryce2cont2_a881910f:
 translate italiantl bryce2cont2_54870d37:
 
     # Br stern "I certainly have. They're usually not the kind of thing I should tell people about, though."
-    Br stern "Ne ho viste di certo. Di solito non sono il tipo di cose che dovrei raccontare alla gente, però."
+    Br stern "Ne ho viste senz'altro. Di solito non sono il tipo di cose che dovrei raccontare alla gente, però."
 
 # game/bryce2.rpy:1215
 translate italiantl bryce2cont2_73c2fcc2:

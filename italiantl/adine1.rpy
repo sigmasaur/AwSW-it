@@ -622,7 +622,7 @@ translate italiantl _call_skipcheck_10_db56dd45:
 translate italiantl _call_skipcheck_10_e5322ba8:
 
     # Ad "Oh, we can be vicious if we want to be. We just usually know better."
-    Ad "Oh, sappiamo essere feroci se vogliamo. È solo che di solito abbiamo più buon senso."
+    Ad "Oh, sappiamo essere feroci se vogliamo. Solo, di solito abbiamo più buon senso."
 
 # game/adine1.rpy:465
 translate italiantl _call_skipcheck_10_377987b8:

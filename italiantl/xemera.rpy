@@ -569,7 +569,7 @@ translate italiantl _call_skipcheck_19_9b41695a:
 translate italiantl _call_skipcheck_19_e1dbab6c:
 
     # Em normal "Oh, you can. It's just not an easy thing to do. Not that dating isn't already complicated enough as is."
-    Em normal "Oh, si può. Solo non è una cosa facile da fare. Non che gli appuntamenti non siano già abbastanza complicati così come sono."
+    Em normal "Oh, si può. Solo, non è una cosa facile da fare. Non che gli appuntamenti non siano già abbastanza complicati così come sono."
 
 # game/xemera.rpy:340
 translate italiantl _call_skipcheck_19_bcc1994b:

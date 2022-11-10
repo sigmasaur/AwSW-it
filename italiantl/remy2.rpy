@@ -1216,7 +1216,7 @@ translate italiantl _call_skipcheck_35_99c4fd1f:
 translate italiantl _call_skipcheck_35_8a50e9bd:
 
     # Ry smile "That is good to hear! Cultural differences can make things very difficult sometimes, even within the same species. I'm glad things are working out for you so far."
-    Ry smile "Mi fa piacere sentirlo! Le differenze culturali a volte possono rendere le cose molto difficili, anche all'interno della stessa specie. Sono lieto che le cose stiano andando bene per te finora."
+    Ry smile "Mi fa piacere sentirlo! Le differenze culturali a volte possono rendere le cose molto difficili, anche all'interno della stessa specie. Sono felice che le cose stiano andando bene per te finora."
 
 # game/remy2.rpy:1035
 translate italiantl _call_skipcheck_35_33d2b075:
@@ -1276,7 +1276,7 @@ translate italiantl _call_skipcheck_35_8866ea5c:
 translate italiantl _call_skipcheck_35_9a8cb4ed:
 
     # Ry "You know, I'm glad you're here. Since you arrived in our world, we haven't really had the chance to just sit down and talk."
-    Ry "Lo sai, sono lieto che tu sia qui. Da quando sei arrivatə nel nostro mondo, non abbiamo veramente avuto l'occasione di sederci e parlare." # "to [just] sit down and talk"
+    Ry "Lo sai, sono felice che tu sia qui. Da quando sei arrivatə nel nostro mondo, non abbiamo veramente avuto l'occasione di sederci e parlare." # "to [just] sit down and talk"
 
 # game/remy2.rpy:1102
 translate italiantl _call_skipcheck_35_7559d264:

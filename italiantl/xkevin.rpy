@@ -166,7 +166,7 @@ translate italiantl _call_skipcheck_15_52903764:
 translate italiantl _call_skipcheck_15_3f0f74b6:
 
     # c "Well, I'm glad they are taking this matter seriously."
-    c "Be', sono lietə che prendano la faccenda sul serio."
+    c "Be', sono contentə che prendano la faccenda sul serio."
 
 # game/xkevin.rpy:157
 translate italiantl _call_skipcheck_15_517617db:
@@ -502,7 +502,7 @@ translate italiantl _call_skipcheck_15_c28c04f1:
 translate italiantl _call_skipcheck_15_fc9c79fb:
 
     # Kv brow "And in the process, reinforce the stereotype of country bumpkins being conspiracy nuts."
-    Kv brow "E nel mentre, rafforzando lo stereotipo che i bifolchi di campagna siano dei complottisti."
+    Kv brow "E nel mentre, rafforzando lo stereotipo che i campagnoli siano dei complottisti."
 
 # game/xkevin.rpy:283
 translate italiantl _call_skipcheck_15_036bd38c:

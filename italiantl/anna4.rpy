@@ -742,7 +742,7 @@ translate italiantl anna4skip1_b21e8396:
 translate italiantl anna4skip1_5c1e0af6:
 
     # An sad "I'm just not sure why I ever expected anything different from you."
-    An sad "Solo non so bene perché mai mi fossi aspettata niente di diverso da te."
+    An sad "Solo, non so bene perché mai mi fossi aspettata niente di diverso da te."
 
 # game/anna4.rpy:420
 translate italiantl anna4skip1_2c34807f:
@@ -1222,7 +1222,7 @@ translate italiantl _call_skipcheck_18_1d3badc2:
 translate italiantl _call_skipcheck_18_a4b9d871:
 
     # c "That much is a given. I was talking more about if there is any sort of discrimination, for example."
-    c "Fin qui ci arrivavo. Dicevo piuttosto se ci fosse una qualche sorta di discriminazione, ad esempio."
+    c "Fin qui ci arrivavo. Dicevo più che altro se ci fosse una qualche sorta di discriminazione, ad esempio."
 
 # game/anna4.rpy:669
 translate italiantl _call_skipcheck_18_a6861586:

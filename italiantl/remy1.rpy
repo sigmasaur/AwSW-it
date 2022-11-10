@@ -190,7 +190,7 @@ translate italiantl _call_skipcheck_22_e9081a43:
 translate italiantl _call_skipcheck_22_a0f3ef29:
 
     # Ry "Well, I'm glad to see you again, at any rate."
-    Ry "Be', mi fa piacere rivederti, in ogni caso."
+    Ry "Be', sono felice di rivederti, in ogni caso."
 
 # game/remy1.rpy:173
 translate italiantl _call_skipcheck_22_c591d661:

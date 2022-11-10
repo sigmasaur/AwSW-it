@@ -2184,7 +2184,7 @@ translate italiantl trueendings_e43778d5:
 translate italiantl trueendings_9913a136:
 
     # Hz "Since we are going to do this ourselves, we have a unique blend of hormones to make them reach this stage fairly quickly."
-    Hz "Dal momento che lo faremo da soli, abbiamo una miscela unica di ormoni per far sì che raggiungano questo stadio abbastanza in fretta."
+    Hz "Dal momento che lo faremo da soli, abbiamo una miscela unica di ormoni per far sì che raggiungano questo stadio piuttosto in fretta."
 
 # game/chapter5trueendings.rpy:1102
 translate italiantl trueendings_f9096b9a:
@@ -3047,7 +3047,7 @@ translate italiantl trueendings_2c2f1959:
 # game/chapter5trueendings.rpy:1599
 translate italiantl trueendings_f7d84a61:
 
-    # Iz "I guess I was so blinded by wanting to preserve my creation that I refused to see anything else. I'm glad I'm glad you saw this through to the end. You never stopped believing."
+    # Iz "I guess I was so blinded by wanting to preserve my creation that I refused to see anything else. I'm glad you saw this through to the end. You never stopped believing."
     Iz "Immagino fossi così accecata dalla volontà di preservare la mia creazione che mi rifiutavo di vedere nient'altro. Sono lieta che tu sia andatə fino in fondo. Non hai mai smesso di credere."
 
 # game/chapter5trueendings.rpy:1601

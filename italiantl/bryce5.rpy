@@ -46,7 +46,7 @@ translate italiantl bryce5_cdbbe70e:
 translate italiantl bryce5_c989f8fc:
 
     # Br laugh "I'm glad you're even willing to see me again after what happened."
-    Br laugh "Sono contento che tu sia ancora dispostə a rivedermi dopo quello che è successo." # "even" -> "still"
+    Br laugh "Sono contento che sei ancora dispostə a rivedermi dopo quello che è successo." # "even" -> "still"
 
 # game/bryce5.rpy:36
 translate italiantl bryce5_fb06a60b:

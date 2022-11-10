@@ -1300,7 +1300,7 @@ translate italiantl _call_skipcheck_16_de586ebf:
 translate italiantl _call_skipcheck_16_c9537556:
 
     # Lo normal "My species is perfectly suited for the job, so they were glad to have me on board."
-    Lo normal "La mia specie si adatta perfettamente al lavoro, così sono stati lieti di avermi a bordo."
+    Lo normal "La mia specie si adatta perfettamente al lavoro, così sono stati contenti di avermi a bordo."
 
 # game/lorem1.rpy:811
 translate italiantl _call_skipcheck_16_1883cb8f:

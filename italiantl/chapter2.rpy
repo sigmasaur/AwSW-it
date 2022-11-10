@@ -3405,7 +3405,7 @@ translate italiantl chap2emselection_3bca9ae4:
 translate italiantl chap2emselection_ccd67b51:
 
     # Em ques "If you read the plaque, you would know that the park was dedicated to our so-called \"creator\". I say \"creator\" like that because I think that word is a bit of a misnomer, but I suppose people still use it regardless."
-    Em ques "Se leggessi la placca, sapresti che il parco è stato dedicato al nostro cosiddetto \"creatore\". Dico \"creatore\" in quel modo perché penso sia una denominazione impropria, ma suppongo che la gente la usi ancora ugualmente." # "that word" -> "it"
+    Em ques "Se leggi la placca, saprai che il parco è stato dedicato al nostro cosiddetto \"creatore\". Dico \"creatore\" in quel modo perché penso sia un po' una denominazione impropria, ma suppongo che la gente la usi ancora ugualmente." # "you would know" -> "you'll know"; "that word" -> "it"
 
 # game/chapter2.rpy:3350
 translate italiantl chap2emselection_4d41bd47:
@@ -4059,7 +4059,7 @@ translate italiantl _call_syscheck_58_efdbf492:
 translate italiantl _call_syscheck_58_67121bb6:
 
     # Sb "There isn't much information to glean from what you told me. The rest of the police force and I will have to check things out ourselves to see if we can find more details."
-    Sb "Non c'è molta informazione da trarre da quello che mi hai detto. Io e il resto della forza di polizia dovremo controllare per conto nostro e vedere se riusciamo scoprire altri dettagli."
+    Sb "Non c'è molta informazione da trarre da quello che mi hai detto. Io e il resto delle forze di polizia dovremo controllare per conto nostro e vedere se riusciamo scoprire altri dettagli."
 
 # game/chapter2.rpy:3858
 translate italiantl _call_syscheck_58_581839d6:

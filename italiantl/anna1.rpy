@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_7_37acbaf0:
 translate italiantl _call_skipcheck_7_1274b54e:
 
     # c "After you, milady."
-    c "Dopo di Lei, signorina."
+    c "Dopo di Lei, Signorina."
 
 # game/anna1.rpy:420
 translate italiantl _call_skipcheck_7_fd94623d:
@@ -1300,7 +1300,7 @@ translate italiantl wrong3_a083c857:
 translate italiantl cont4_cfde30fd:
 
     # c "Looks like this is going to be the last question."
-    c "Pare che questa sarà l'ultima domanda."
+    c "Sembra che questa sarà l'ultima domanda."
 
 # game/anna1.rpy:1013
 translate italiantl cont4_58cb19cf:

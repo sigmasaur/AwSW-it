@@ -190,7 +190,7 @@ translate italiantl _call_skipcheck_30_a8366068:
 translate italiantl _call_skipcheck_30_9bc9068c:
 
     # c "Alright, I'll just stay here, then."
-    c "D'accordo, me ne starò qui e basta, allora."
+    c "D'accordo, me ne starò qui, allora."
 
 # game/adine4.rpy:181
 translate italiantl _call_skipcheck_30_24b1c5b9:
@@ -1558,7 +1558,7 @@ translate italiantl adine4skip_9486e804:
 translate italiantl adine4skip_203027b9:
 
     # c "Don't worry about it. I'm glad to help."
-    c "Non ti preoccupare. Sono lietə di aiutare."
+    c "Non ti preoccupare. Sono felice di aiutare."
 
 # game/adine4.rpy:719
 translate italiantl adine4skip_b6eab6c5:

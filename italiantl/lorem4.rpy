@@ -142,7 +142,7 @@ translate italiantl _call_syscheck_29_2bdd5bd9:
 translate italiantl _call_syscheck_29_6949ea4c:
 
     # Lo happy "Looks like this really is Ipsum's sphere. He'll be relieved to know that it was found."
-    Lo happy "Sembra sia davvero la sfera di [Ip]. Sarà sollevato di sapere che è stata ritrovata."
+    Lo happy "Sembra sia proprio la sfera di [Ip]. Sarà sollevato di sapere che è stata ritrovata."
 
 # game/lorem4.rpy:137
 translate italiantl _call_syscheck_29_b666800c:
