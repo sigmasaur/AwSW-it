@@ -6584,7 +6584,7 @@ translate italiantl strings:
 
     # chapter4.rpy:3031
     old "I think he was dealing with a lot of things."
-    new "Penso che stesse affrontando parecchie cose."
+    new "Penso stesse affrontando parecchie cose."
 
     # chapter4.rpy:3031
     old "He was bullied."

@@ -1324,7 +1324,7 @@ translate italiantl _call_no_0ef43e83:
 translate italiantl _call_no_bc449c3a:
 
     # m "I considered the implications of Bryce's words. Whereas Reza usually didn't hesitate to admit the killings to reach a goal he thought noble, he had denied any such actions this time."
-    m "Considerai le implicazioni delle parole di [Br]. Laddove [Rz] solitamente non esitava ad ammettere i suoi omicidi per raggiungere un obiettivo che egli riteneva nobile, stavolta aveva negato simili azioni."
+    m "Considerai le implicazioni delle parole di [Br]. Laddove [Rz] solitamente non esitava ad ammettere gli omicidi per raggiungere un obiettivo che egli riteneva nobile, questa volta aveva negato simili azioni."
 
 # game/bryce5.rpy:1129
 translate italiantl _call_no_8974bfb9:
@@ -1660,7 +1660,7 @@ translate italiantl _call_no_e5fec89d:
 translate italiantl _call_no_8140362c:
 
     # c "Now that you know everything, that really shouldn't surprise you."
-    c "Ora che sai tutto quanto, la cosa non dovrebbe sorprenderti." # "that [really] shouldn't surprise you"
+    c "Ora che sai tutto quanto, non dovrebbe poi sorprenderti."
 
 # game/bryce5.rpy:1329
 translate italiantl _call_no_28d2fde2:

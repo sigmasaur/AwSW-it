@@ -575,7 +575,7 @@ translate italiantl sebastianquestions_9c35b044:
 translate italiantl sebastianquestions_ef01f277:
 
     # Sb normal b "He kinda took me under his wing when I came here, and I've been working with him ever since. Pun not intended."
-    Sb normal b "Diciamo che mi ha preso sotto la sua ala quando sono venuto qui, e da allora lavoro con lui. Scusa il gioco di parole."
+    Sb normal b "Diciamo che mi ha preso sotto la sua ala quando sono venuto qui, e da allora ho sempre lavorato con lui. Scusa il gioco di parole."
 
 # game/xsebastian.rpy:488
 translate italiantl sebastianquestions_f498636a:

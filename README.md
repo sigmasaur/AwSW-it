@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on the secondary characters' sections. Files done and up for review:
+Currently working on the achievements. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -56,6 +56,7 @@ Currently working on the secondary characters' sections. Files done and up for r
     xkatsu.rpy
     xkevin.rpy
     xsebastian.rpy
+    xzhong.rpy
 
 ## Remarks and issues
 
@@ -65,8 +66,9 @@ On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`
   * `Sebastian` by `Adine` and viceversa in `chapter1.rpy` and `chapter3.rpy`;
   * `Sebastian` by `Lorem` in `chapter1.rpy`;
   * `Heinz` by the crew and viceversa in `chapter5trueendings.rpy`;
-  * `Katsuharu` by all other characters except `Emera` and the player character in `xkatsu.rpy`.
-  * `Leymas` by `Katsuharu` in `xkatsu.rpy`.
+  * `Katsuharu` by all other characters except `Emera` and the player character in `xkatsu.rpy`;
+  * `Leymas` by `Katsuharu` in `xkatsu.rpy`;
+  * `Zhong`'s parents by young `Bryce`, and `Zhong`'s mother by young `Zhong` himself in `xzhong.rpy`.
 
 * I decided to use the characters' variables, which are defined in `images.rpy`, in place of their plain names where possible throughout the script, e.g. `Reza` → `[Rz]`, to reduce the risk of typos when translating.
 
@@ -563,10 +565,20 @@ The following are mostly to the benefit of the developer and translators.
 * At line 749, 1071: Unfolded *2* → *two*, for elegance.
 * At lines 810-4390: Note that wrong moves seem to be undo-able. Also consider adding a visual cue to stress the carry-over rule in case of a tie; suggestion: change the previous squares to circle-cross couples.
 * At line 843, 845: Unfolded *5* → *five*, for elegance.
-* At line 1107, 2750, 3003, 3274: Note that these lines are never triggered:
+* At line 1107, 2750, 3003, 3274: Note that these lines are never triggered.
   * At line 2750: Note that `sebpoints` can never be `7` at the seventh round.
 * At line 1364: Unfolded *3* → *three*, for elegance.
 * At line 1364: Corrected *<b>a</b> big advantage*.
+
+### [`xzhong.rpy`](italiantl/xzhong.rpy)
+
+* At line 158, 946, 970: Corrected simple dash to em-dash.
+* At line 277, 335: Unfolded *20* → *twenty*, for elegance.
+* At line 353: Unfolded *TV* → *television*, for elegance.
+* At line 379: Consider changing ellipsis with simple dash.
+* At line 383: rendered *man* as *dragon*.
+* At line 972: Unfolded *9* → *nine*, for elegance.
+* At line 1176: Corrected *call it <b>a</b> night*.
 
 ## Other remarks
 

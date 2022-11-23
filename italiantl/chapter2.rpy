@@ -1311,7 +1311,7 @@ translate italiantl chap2store_bd0329ac:
 translate italiantl chap2store_01bee951:
 
     # c "(Hey, I think I've seen her before.)"
-    c "(Ehi, credo di averla già vista prima.)"
+    c "(Ehi, credo di averla già vista.)"
 
 # game/chapter2.rpy:1298
 translate italiantl chap2store_ac55e4d6:
@@ -1551,7 +1551,7 @@ translate italiantl chap2store_f3c3db15:
 translate italiantl chap2store_3f210a8a:
 
     # St "I know he can be a little rough around the edges, but if you call him and talk about what happened, it should be fine. If you want to, that is."
-    St "So che può avere dei modi un po' spigolosi, ma se lo chiami e gli parli di quello che è successo, vedrai che andrà tutto bene. Se ne hai voglia, certo."
+    St "So che può essere un po' spigoloso, ma se lo chiami e gli parli di quello che è successo, vedrai che andrà tutto bene. Se ne hai voglia, certo."
 
 # game/chapter2.rpy:1430
 translate italiantl chap2store_1f5067bf_1:
@@ -3405,7 +3405,7 @@ translate italiantl chap2emselection_3bca9ae4:
 translate italiantl chap2emselection_ccd67b51:
 
     # Em ques "If you read the plaque, you would know that the park was dedicated to our so-called \"creator\". I say \"creator\" like that because I think that word is a bit of a misnomer, but I suppose people still use it regardless."
-    Em ques "Se leggi la placca, saprai che il parco è stato dedicato al nostro cosiddetto \"creatore\". Dico \"creatore\" in quel modo perché penso sia un po' una denominazione impropria, ma suppongo che la gente la usi ancora ugualmente." # "you would know" -> "you'll know"; "that word" -> "it"
+    Em ques "Se leggessi la placca, sapresti che il parco è stato dedicato al nostro cosiddetto \"creatore\". Dico \"creatore\" in quel modo perché penso sia un po' una denominazione impropria, ma suppongo che la gente la usi ancora ugualmente." # "that word" -> "it"
 
 # game/chapter2.rpy:3350
 translate italiantl chap2emselection_4d41bd47:

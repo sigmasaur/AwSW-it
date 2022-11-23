@@ -3154,7 +3154,7 @@ translate italiantl c3conty_3388a779:
 translate italiantl c3conty_4bdd59f5:
 
     # c "What's up with that, anyway? Being appointed as Emera's bodyguard as punishment just seems strange to me."
-    c "Che storia è questa, comunque? Essere nominato guardia del corpo di [Em] mi sembra strana come punizione."
+    c "Che storia è questa, comunque? Essere nominato guardia del corpo di [Em] mi pare strana come punizione."
 
 # game/chapter3.rpy:2214
 translate italiantl c3conty_8229572b:
@@ -4420,7 +4420,7 @@ translate italiantl c3facques_ac60fa94:
 translate italiantl c3facques_e49b4d93:
 
     # An sad b "I might've left early yesterday, but I made up for it by coming in early today, before anyone else. That's why I was the one to find him. I was on my way to my office when I saw him lying in the middle of the hallway, in a puddle of his own blood."
-    An sad b "Potrò essermene andata via prima ieri, ma ho recuperato arrivando presto oggi, prima di chiunque altro. È per questo che sono stata io a trovarlo. Andavo nel mio ufficio quando l'ho visto disteso in mezzo al corridoio, in una pozza del suo sangue." # slightly pruned to fit three lines
+    An sad b "Potrò essermene andata via prima ieri, ma ho compensato arrivando presto oggi, prima di chiunque altro. È per questo che sono stata io a trovarlo. Andavo nel mio ufficio quando l'ho visto disteso in mezzo al corridoio, in una pozza del suo sangue." # slightly pruned to fit three lines
 
 # game/chapter3.rpy:3112
 translate italiantl c3facques_8912af36:
@@ -5132,7 +5132,7 @@ translate italiantl _call_syscheck_20_5804c28d:
 translate italiantl _call_syscheck_20_2f574f4b:
 
     # c "(Where have I seen this before?)"
-    c "(Dove l'ho già vista prima?)"
+    c "(Dove l'ho già vista?)"
 
 # game/chapter3.rpy:3727
 translate italiantl _call_syscheck_20_1bb80a09:
@@ -5198,7 +5198,7 @@ translate italiantl c3sto_4dce18a1:
 translate italiantl c3sto_01bee951:
 
     # c "(Hey, I think I've seen her before.)"
-    c "(Ehi, credo di averla già vista prima.)" # see line 1292 of chapter 2
+    c "(Ehi, credo di averla già vista.)" # see line 1292 of chapter 2
 
 # game/chapter3.rpy:3835
 translate italiantl c3sto_8d6362b2:

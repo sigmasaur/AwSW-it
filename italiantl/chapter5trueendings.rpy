@@ -2754,7 +2754,7 @@ translate italiantl trueendings_906bdc14:
 translate italiantl trueendings_168e4e2a:
 
     # Iz "Yes. In some timelines they sent someone else instead of you. She was not a nice person."
-    Iz "Sì. In certe linee del tempo hanno inviato qualcun altro al posto tuo. Non era una persona gentile." # dropped gender information
+    Iz "Sì. In certe linee del tempo hanno inviato qualcun altro al posto tuo. Non era una bella persona." # dropped gender information
 
 # game/chapter5trueendings.rpy:1490
 translate italiantl trueendings_65f60d56:

@@ -1132,7 +1132,7 @@ translate italiantl _call_skipcheck_16_d21af984:
 translate italiantl _call_skipcheck_16_835230ec:
 
     # Lo think "All kinds of things, really. Sometimes it's hard to decide which ones have a good point and which can be disregarded."
-    Lo think "Ogni genere di cose, davvero. A volte è dura decidere quali portano dei buoni argomenti e quali possono essere trascurate."
+    Lo think "Un po' di tutto, davvero. A volte è dura decidere quali portano dei buoni argomenti e quali possono essere trascurate."
 
 # game/lorem1.rpy:713
 translate italiantl _call_skipcheck_16_2afa4c62:
@@ -1240,7 +1240,7 @@ translate italiantl _call_skipcheck_16_8455dd24:
 translate italiantl _call_skipcheck_16_16ced629:
 
     # Lo normal "While we do have devices tailored to each individual species, I can't deny that my dextrous hands make it a lot easier compared to some of the others."
-    Lo normal "Per quanto abbiamo dispositivi studiati per ogni singola specie, non posso negare che la mia manualità semplifichi molto la cosa rispetto ad alcuni degli altri."
+    Lo normal "Per quanto abbiamo dispositivi studiati per ogni singola specie, non posso negare che la mia manualità semplifichi molto la cosa rispetto a certe altre."
 
 # game/lorem1.rpy:761
 translate italiantl _call_skipcheck_16_f7462fd2:

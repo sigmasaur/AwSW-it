@@ -118,7 +118,7 @@ translate italiantl _call_skipcheck_13_b164b3ab:
 translate italiantl _call_skipcheck_13_8bbfa6c9:
 
     # Lo normal "Besides, I've wanted to do this for a while now and Ipsum is always busy, so I figured this would be as good a time as any."
-    Lo normal "E poi, è da un po' che volevo farlo e [Ip] è sempre impegnato, così ho pensato che adesso fosse un momento buono come un altro." # "for a while [now]"; "this would be" -> "now would be"
+    Lo normal "E poi, è già da un po' che volevo farlo e [Ip] è sempre impegnato, così ho pensato che adesso fosse un momento buono come un altro." # "for a while [now]"; "this would be" -> "now would be"
 
 # game/lorem3.rpy:152
 translate italiantl _call_skipcheck_13_8eae7832:

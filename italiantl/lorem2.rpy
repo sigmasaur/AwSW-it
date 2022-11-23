@@ -1990,7 +1990,7 @@ translate italiantl _call_skipcheck_33_6ec5917b:
 translate italiantl _call_skipcheck_33_f8fa6221:
 
     # c "Your researchers seem to know what they are doing."
-    c "I vostri ricercatori sembrano sapere quello che fanno."
+    c "Sembra che i vostri ricercatori sappiano quello che fanno."
 
 # game/lorem2.rpy:1145
 translate italiantl _call_skipcheck_33_d03ca469:
