@@ -68,7 +68,7 @@ translate italiantl strings:
 
     # achievements.rpy:201
     old "{b}You are a winner!{/b}\nBeat Sebastian at his own game."
-    new "{b}Abbiamo Unə Vincitorə!{/b}\nBatti [Sb] al suo stesso gioco." # corrected uppercase letters
+    new "{b}Abbiamo unə Vincitorə!{/b}\nBatti [Sb] al suo stesso gioco." # corrected uppercase letters
 
     # achievements.rpy:226
     old "{b}Interrogator 1{/b}\nInterrogate Damion."
