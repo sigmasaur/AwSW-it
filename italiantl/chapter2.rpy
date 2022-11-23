@@ -1959,19 +1959,19 @@ translate italiantl chap2storebrowsemenu_c179b5b2:
 translate italiantl _call_syscheck_50_6efd03f3:
 
     # s "You looked at everything the store has to offer!"
-    s "Hai guardato a tutto ciò che il negozio ha da offrire!"
+    s "Hai guardato tutto ciò che il negozio ha da offrire!"
 
 # game/chapter2.rpy:1715
 translate italiantl _call_syscheck_50_6025ee30:
 
     # s "You looked at everything the store has to offer. Isn't that great?"
-    s "Hai guardato a tutto ciò che il negozio ha da offrire. Non è fantastico?"
+    s "Hai guardato tutto ciò che il negozio ha da offrire. Non è fantastico?"
 
 # game/chapter2.rpy:1719
 translate italiantl _call_syscheck_50_7276c06a:
 
     # s "You looked at everything the store has to offer. Of course, you're not planning to buy anything."
-    s "Hai guardato a tutto ciò che il negozio ha da offrire. Certo, non stai pensando di comprare nulla."
+    s "Hai guardato tutto ciò che il negozio ha da offrire. Certo, non stai pensando di comprare nulla."
 
 # game/chapter2.rpy:1729
 translate italiantl _call_syscheck_50_b9ca54b5:

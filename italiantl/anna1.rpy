@@ -904,7 +904,7 @@ translate italiantl _call_skipcheck_7_d3f48fd2:
 translate italiantl _call_skipcheck_7_5b3a3cb1:
 
     # c "It seems to be a trivia game. Do you have good general knowledge?"
-    c "Sembra essere un gioco a quiz. Hai delle buone conoscenze di base?"
+    c "Sembra essere un gioco a quiz. Hai delle buone conoscenze generali?"
 
 # game/anna1.rpy:693
 translate italiantl _call_skipcheck_7_91a94269:
@@ -916,7 +916,7 @@ translate italiantl _call_skipcheck_7_91a94269:
 translate italiantl _call_skipcheck_7_9714e430:
 
     # An "You bet I have good general knowledge. Certainly more than enough to beat a foreigner like you."
-    An "Puoi scommetterci che ho delle buone conoscenze di base. Di certo più che abbastanza da battere unə stranierə come te."
+    An "Puoi scommetterci che ho delle buone conoscenze generali. Di certo più che abbastanza da battere unə stranierə come te."
 
 # game/anna1.rpy:698
 translate italiantl _call_skipcheck_7_16cf313c:

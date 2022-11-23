@@ -964,37 +964,37 @@ translate italiantl _call_syscheck_97_42aff287:
 translate italiantl _call_syscheck_98_b9c658b8:
 
     # s "You used the skip function 10 times!"
-    s "Hai usato la funzione di salto per dieci volte!" # "10" -> "ten" for elegance
+    s "Hai usato la funzione di salto per 10 volte!"
 
 # game/chapter5evilending.rpy:737
 translate italiantl _call_syscheck_98_d28ca258:
 
     # s "You used the skip function 10 times. You skipper."
-    s "Hai usato la funzione di salto per dieci volte. Tu, bruttə saltatorə." # see line 733, line 2597 of chapter 3
+    s "Hai usato la funzione di salto per 10 volte. Tu, bruttə saltatorə." # see line 2597 of chapter 3
 
 # game/chapter5evilending.rpy:741
 translate italiantl _call_syscheck_98_b33e9d23:
 
     # s "You used the skip function 10 times. If you could, you'd probably skip this text too, wouldn't you?"
-    s "Hai usato la funzione di salto per dieci volte. Se potessi, probabilmente salteresti anche questo testo, vero?" # see line 733
+    s "Hai usato la funzione di salto per 10 volte. Se potessi, probabilmente salteresti anche questo testo, vero?"
 
 # game/chapter5evilending.rpy:763
 translate italiantl _call_syscheck_99_8ed1e5e6:
 
     # s "You had two messages waiting for you!"
-    s "Hai avuto due messaggi ad attenderti!"
+    s "Hai trovato due messaggi ad attenderti!"
 
 # game/chapter5evilending.rpy:767
 translate italiantl _call_syscheck_99_42e2e280:
 
     # s "You had two messages waiting for you. I wonder why..."
-    s "Hai avuto due messaggi ad attenderti. Mi domando perché..."
+    s "Hai trovato due messaggi ad attenderti. Mi domando perché..."
 
 # game/chapter5evilending.rpy:771
 translate italiantl _call_syscheck_99_044dc97c:
 
     # s "You had two messages waiting for you. You sure are getting around, aren't you?"
-    s "Hai avuto due messaggi ad attenderti. Tu sì che ti dai da fare, dico bene?"
+    s "Hai trovato due messaggi ad attenderti. Tu sì che ti dai da fare, dico bene?"
 
 # game/chapter5evilending.rpy:791
 translate italiantl _call_syscheck_100_dcad8579:

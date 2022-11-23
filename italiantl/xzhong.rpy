@@ -814,19 +814,19 @@ translate italiantl _call_skipcheck_31_168f555e:
 translate italiantl _call_syscheck_109_38384b6d:
 
     # s "You listened to a bunch of music!"
-    s "Hai ascoltato un mucchio di musica!"
+    s "Hai ascoltato un bel po' di musica!" # "a bunch" -> "quite a bit"
 
 # game/xzhong.rpy:506
 translate italiantl _call_syscheck_109_8d68e2f5:
 
     # s "You listened to a bunch of music. Like a true connoisseur."
-    s "Hai ascoltato un mucchio di musica. Come unə verə conoscitorə."
+    s "Hai ascoltato un bel po' di musica. Come unə verə conoscitorə." # see line 502
 
 # game/xzhong.rpy:510
 translate italiantl _call_syscheck_109_393f3015:
 
     # s "You listened to a bunch of music. Just for the achievement. Admit it."
-    s "Hai ascoltato un mucchio di musica. Solo per l'obiettivo. Ammettilo."
+    s "Hai ascoltato un bel po' di musica. Solo per l'obiettivo. Ammettilo." # see line 502
 
 # game/xzhong.rpy:525
 translate italiantl _call_syscheck_109_b0f97ae2:

@@ -963,7 +963,7 @@ translate italiantl _call_syscheck_34_02b46077:
 translate italiantl _call_syscheck_34_a90f12a6:
 
     # s "You stretched your legs for a bit. Really?"
-    s "Hai stiracchiato un po' le gambe. Davvero?"
+    s "Hai stiracchiato un po' le gambe. Sul serio?"
 
 # game/bryce2.rpy:785
 translate italiantl _call_syscheck_34_e3663701:

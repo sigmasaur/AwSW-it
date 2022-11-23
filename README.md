@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on the achievements. Files done and up for review:
+Currently working on the secret ending. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -57,6 +57,8 @@ Currently working on the achievements. Files done and up for review:
     xkevin.rpy
     xsebastian.rpy
     xzhong.rpy
+
+    achievements.rpy
 
 ## Remarks and issues
 
@@ -222,7 +224,6 @@ The following are mostly to the benefit of the developer and translators.
   * Note that *the building still having electricity* despite `Reza` having gotten its generator, which was supposed to be *also powering the portal*, is explained by `Reza` himself at line 449, revealing the presence of a backup. At the same line, however, `Reza` claims he *could even get the backup generator as well*, suggesting that the portal is really powered by other means. Whether this is truly the case is never addressed.
 * At line 565: Assumed *it* is referred to *the solution* at line 563.
 * At line 638: Consider adding parentheses to render the monologue a proper soliloquy.
-* At line 733-741: Unfolded *10* → *ten*, for elegance.
 
 ### [`adine1.rpy`](italiantl/adine1.rpy)
 
@@ -579,6 +580,11 @@ The following are mostly to the benefit of the developer and translators.
 * At line 383: rendered *man* as *dragon*.
 * At line 972: Unfolded *9* → *nine*, for elegance.
 * At line 1176: Corrected *call it <b>a</b> night*.
+
+### [`achievements.rpy`](italiantl/achievements.rpy)
+
+* At line 201: Corrected lowercase letters to uppercase in the title, to match the other achievements.
+* At line 270, 413: Consider changing *find* → *acquire* to match the corresponding dialogue spoken by the `System`.
 
 ## Other remarks
 
