@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on the images. Files done and up for review:
+The game is fully translated but needs to be proof-read. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -84,6 +84,8 @@ On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`
 
 * I decided to not translate the passwords and puzzles from `sec.rpy` for a number of reasons. Some are encoded as a filename and would still be found in the game untranslated; some just don't lend themselves to translation.
 Also, the user might resort to looking up the password for a puzzle, probably expecting it to work as it is.
+
+* There are still images where the text is far too embedded to be translated without the original 3D source files or just a more expert hand.
 
 [1]:https://italianoinclusivo.it/
 
@@ -597,6 +599,12 @@ The following are mostly to the benefit of the developer and translators.
 * At line 966, 1055: Corrected simple dash to em-dash.
 * At line 341: Corrected uppercase letter to lowercase to match the filename, as the database is case-sensitive.
 * At line 834: Note that this line doesn't fit onscreen.
+
+### Images
+
+* In `bg/library.png`: Slightly pruned *at all times* → *always*.
+* In `cg/cover3.png`: Corrected uppercase letter of *From* to lowercase.
+* In `cg/chap5/credits1.png`: Split *Producer, Writing, Design* into three lines to fit onscreen.
 
 ## Other remarks
 
