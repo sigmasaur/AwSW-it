@@ -4555,7 +4555,7 @@ translate italiantl strings:
 
     # chapter2.rpy:2842
     old "Give up."
-    new "Arrenditi."
+    new "Rinuncia."
 
     # chapter2.rpy:3162
     old "Approach the dragon."

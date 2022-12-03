@@ -2270,7 +2270,7 @@ translate italiantl strings:
 
     # remy1.rpy:777
     old "[[Give up and leave.]"
-    new "[[Arrenditi ed esci.]"
+    new "[[Rinuncia ed esci.]"
 
     # remy1.rpy:1019
     old "{#remy1}If I have to."

@@ -2503,7 +2503,7 @@ translate italiantl strings:
 
     # bryce3.rpy:573
     old "Stay silent"
-    new "Resta in silenzio." # corrected full stop
+    new "Resta in silenzio." # added full stop
 
     # bryce3.rpy:636
     old "I do."

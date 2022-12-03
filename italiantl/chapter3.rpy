@@ -1188,13 +1188,13 @@ translate italiantl c3conty_8759d94c:
 translate italiantl c3conty_26772518:
 
     # n "From locomotion to repetitious work and household chores, many processes were automated to such a degree that except for our jobs and hobbies, there was nothing that needed to be done by a person anymore."
-    n "Dalla locomozione al lavoro meccanico, alle faccende di casa, molti processi erano stati automatizzati a tal punto che ad eccezione dei nostri impieghi e passatempi, non vi era più nulla che dovesse essere svolto da una persona."
+    n "Dalla locomozione al lavoro meccanico, alle faccende di casa, molti processi erano stati automatizzati a tal punto che ad eccezione dei nostri lavori e passatempi, non vi era più nulla che dovesse essere svolto da una persona."
 
 # game/chapter3.rpy:1304
 translate italiantl c3conty_40299bbc:
 
     # n "Even the concept of someone wielding a weapon was outdated, as wars were no longer fought by people, but machines."
-    n "Persino l'idea di impugnare un'arma era ormai obsoleta, siccome le guerre non erano più combattute dalle persone, ma dalle macchine."
+    n "Persino l'idea di impugnare un'arma era obsoleta, siccome le guerre non erano più combattute dalle persone, ma dalle macchine."
 
 # game/chapter3.rpy:1308
 translate italiantl c3conty_76b2fe88:

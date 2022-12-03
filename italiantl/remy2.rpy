@@ -1956,7 +1956,7 @@ translate italiantl strings:
 
     # remy2.rpy:448
     old "[[Lift your shirt]"
-    new "[[Sollevati la camicia.]" # corrected full stop
+    new "[[Sollevati la camicia.]" # added full stop
 
     # remy2.rpy:584
     old "I looked at some of your scrolls."

@@ -5251,7 +5251,7 @@ translate italiantl _call_skipcheck_21_76b2fe88_9:
 translate italiantl _call_skipcheck_21_373e02d5:
 
     # n "In the end, I had to realize that whichever present did exist was likely not one that was worth returning to. It made my decision all the easier."
-    n "Alla fine, dovetti constatare che qualsiasi presente esistesse, probabilmente non era uno cui valesse la pena ritornare. Il che rese tanto più facile la mia decisione."
+    n "Alla fine, dovetti constatare che qualsiasi presente esistesse, probabilmente non era uno cui valesse la pena ritornare. Il che rese più facile la mia decisione."
 
 # game/chapter4.rpy:4402
 translate italiantl _call_skipcheck_21_f3298f9d:

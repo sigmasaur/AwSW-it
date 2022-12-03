@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently working on the secret ending. Files done and up for review:
+Currently working on the images. Files done and up for review:
 
     common.rpy
     dv.rpy
@@ -60,6 +60,8 @@ Currently working on the secret ending. Files done and up for review:
 
     achievements.rpy
 
+    sec.rpy
+
 ## Remarks and issues
 
 * Having considered the developer's opinion, and given the precedent of game *Neo Cab*, I decided to use [Inclusive Italian][1] to help address the player character with a neutral gender. I took the liberty of updating the fonts with `ə` and `ɜ`, needed for such neutral gender, as well as with accented vowels, which were needed anyway.<br>
@@ -79,6 +81,9 @@ On the other hand the `System`, as well as the `Administrator` in `chapter4.rpy`
 * There's also an issue when switching languages to Italian, or starting the game in Italian for the first time, where the new symbols don't get rendered. This only seems to affect the `Titillium Web` family of fonts, and restarting or reloading the game seems to resolve the issue. My guess is that the primary fonts are still used instead of the secondary ones provided in `tl/italiantl`. This ought to be further investigated, although it would probably be best to just put the new symbols in the primary fonts and remove the secondary ones altogether.
 
 * As a design choice, the developer eventually decided that no gameplay sequence would ever lead to both `Anna` and `Damion` surviving `Reza`'s break-in between `chapter2.rpy` and `chapter3.rpy`. However, dead branches are still found in the game, and therefore still made available for translation whenever any dialogue is involved. This dialogue is never spoken, but it should probably be taken into account when translating related branches.
+
+* I decided to not translate the passwords and puzzles from `sec.rpy` for a number of reasons. Some are encoded as a filename and would still be found in the game untranslated; some just don't lend themselves to translation.
+Also, the user might resort to looking up the password for a puzzle, probably expecting it to work as it is.
 
 [1]:https://italianoinclusivo.it/
 
@@ -158,7 +163,7 @@ The following are mostly to the benefit of the developer and translators.
 ### [`chapter3.rpy`](italiantl/chapter3.rpy)
 
 * At line 823, 825, 835, 847, 882, 988, 996, 1219, 1278, 1139, 1478: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
-* At line 849, 884: Split in multiple parts to fit fewer lines.
+* At line 849, 884: Split into multiple parts to fit fewer lines.
 * At line 860, 2439: Corrected uppercase letter to lowercase after colon.
 * At line 1016: Unfolded *&* → *and*, for elegance and to match line 3192.
 * At line 1264-1266: Corrected future tenses to conditional, as we're supposedly talking of the yet speculative case where the player character doesn't go through the portal as per `Emera`'s resolve.
@@ -205,7 +210,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 4468: Unfolded *75%* → *seventy-five percent*, for elegance.
 * At line 4468-4472: Slightly adapted to exchange the two units, as Italians prefer the metric system. Does this qualify as improper localization?
 * At line 4500: Corrected *don't think that he would<s>n't</s> hesitate*.
-* At line 4556: Split in multiple parts to fit fewer lines.
+* At line 4556: Split into multiple parts to fit fewer lines.
 * At line 4556: *connected* → *linked*, to avoid repeating *the connection [...] is not connected*.
 * At line 4592: Corrected lowercase letter of *earth* to uppercase.
 
@@ -248,7 +253,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 405, 407, 417, 419: Rendered *leg*(*s*) as *paw*(*s*).
 * At line 771: Kept the English name for *Freefall*, for coherence with the other names.
 * At line 883: Enclosed *hawk* in italics tags.
-* At line 1035: Split in multiple parts to fit fewer lines.
+* At line 1035: Split into multiple parts to fit fewer lines.
 
 ### [`adine4.rpy`](italiantl/adine4.rpy)
 
@@ -373,12 +378,12 @@ The following are mostly to the benefit of the developer and translators.
   * At line 535: *[...] her personality makes your scales stand on end.*
   * At line 537: *Makes your what stand on end?*
 * At line 543: Note that the player character must be referring to lines 2056-2100 of [`chapter3.rpy`](#chapter3rpy).
-* At line 573: Corrected missing full stop.
+* At line 573: Added full stop to match the other prompts.
 * At line 595, 628, 767, 769: Rendered *child*(*ren*) as *cub*(*s*).
 * At line 664: Unfolded *10%* → *ten percent*, for elegance.
 * At line 682: Corrected *sub<b>t</b>lety*.
 * At line 749: Corrected *encouraged* → *discouraged*, as `Bryce` is supposedly the same species as `Emera`, so if *dating between different species [was] encouraged* then it wouldn't explain *why [she] is so interested* in him.
-* At line 749: Split in multiple parts to fit fewer lines.
+* At line 749: Split into multiple parts to fit fewer lines.
 * At line 793-838: Note that these lines also trigger if `Remy` didn't survive and `Sebastian` and the player character learned of it. Affected sequences: don't see `Remy`'s good ending, play [`remy3.rpy`](#remy3rpy) and put `Remy` in a `bad` mood, save `Bryce` and take the PDA to the library in [`chapter4.rpy`](#chapter4rpy).
 * At line 869, 1146: Corrected uppercase letter to lowercase after colon.
 * At line 1144: Unfolded *5* → *five*, for elegance.
@@ -431,7 +436,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 937: Corrected *w<s>h</s>ere coming*.
 * At line 961: Rendered *leg* as *paw*.
 * At line 1009: Corrected *Pantoli'<b>s</b> Pizza*.
-* At line 1039: Split in multiple parts to fit fewer lines.
+* At line 1039: Split into multiple parts to fit fewer lines.
 
 ### [`lorem4.rpy`](italiantl/lorem4.rpy)
 
@@ -456,7 +461,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 776, 959: Used if-statement to unfold variable `remyanswers`, for elegance:
   * At line 776: Unfolded *6* → *two (not)*. Note that `remyanswers` can never be `7`.
   * At line 959: Unfolded *2*, *3*, *4*, *5* → *two*, *three*, *four*, *five*.
-* At line 1091, 1390: Split in multiple parts to fit fewer lines.
+* At line 1091, 1390: Split into multiple parts to fit fewer lines.
 * At line 1140: Slightly pruned to fit fewer lines.
 * At line 1383, 1390: Corrected *I was aware <s>of</s> that*.
 * At line 1461: Corrected *Alliyah* → *Aaliyah*.
@@ -469,7 +474,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 277, 328, 338, 863, 951: Corrected simple dash to em-dash.
 * At line 277: Corrected lowercase letter to uppercase after full stop.
 * At line 364, 368: Added space before image, to match line 360 and numerous other lines throughout the script.
-* At line 448: Corrected missing full stop.
+* At line 448: Added full stop to match the other prompts.
 * At line 543: Assumed *its* is referred to the *frying meat* at line 537, and corrected *its fragrant odor* → *that fragrant odor* to also match *the frying steaks* at line 541.
 * At line 674: Slightly pruned to fit fewer lines.
 * At line 702: Corrected two-dots ellipsis to three-dots.
@@ -496,7 +501,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 706: Corrected *publically* → *publicly*.
 * At line 782: Slightly pruned to fit fewer lines.
 * At line 788: Corrected *expellation* → *expulsion*.
-* At line 828: Split in multiple parts to fit fewer lines.
+* At line 828: Split into multiple parts to fit fewer lines.
 
 ### [`remy4.rpy`](italiantl/remy4.rpy)
 
@@ -512,12 +517,12 @@ The following are mostly to the benefit of the developer and translators.
 * At line 322, 441, 455, 465, 595, 1062, 1076: Corrected simple dash to em-dash.
 * At line 1064: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
 * At line 1068: *generators* → *generator*; see lines 347, 371 of [`chapter5evilending.rpy`](#chapter5evilending.rpy).
-* At line 1119: Split in multiple parts to fit fewer lines.
+* At line 1119: Split into multiple parts to fit fewer lines.
 
 ### [`chapter5trueendings.rpy`](italiantl/chapter5trueendings.rpy)
 
 * At line 7, 37, 122, 164, 300, 326, 384, 404, 676, 758, 1028, 1120, 1206, 1375, 1543, 1573, 1603, 1638, 1749, 1751, 1774: Corrected simple dash to em-dash.
-* At line 122, 588: Split in multiple parts to fit fewer lines.
+* At line 122, 588: Split into multiple parts to fit fewer lines.
 * At line 314, 404, 788: Corrected uppercase letter to lowercase after colon.
 * At line 460: Rendered *children* as *cubs*.
 * At line 588: *PDAs* → *PDA*; see line 3068 of [`chapter1.rpy`](#chapter1rpy).
@@ -531,7 +536,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 208: Slightly pruned to fit fewer lines.
 * At line 220, 276, 368, 398: Corrected simple dash to em-dash.
 * At line 232: `pass`ed.
-* At line 260: Split in multiple parts to fit fewer lines.
+* At line 260: Split into multiple parts to fit fewer lines.
 * At line 260: *my father was <b>always</b> a very business-minded individual*, to make it look less like `Emera`'s parents are now dead; see line 308.
 * At line 270: Corrected *it certainly shouldn't have* → *I certainly shouldn't have been*.
 * At line 627, 828: Rendered *lady* as *dragoness*.
@@ -544,7 +549,7 @@ The following are mostly to the benefit of the developer and translators.
 * At line 174, 347: Unfolded *40* → *forty*, for elegance.
 * At line 208, 234, 238, 240, 278: Corrected simple dash to em-dash.
 * At line 238: Rendered *child* as *cub*.
-* At line 331: Split in multiple parts to fit fewer lines.
+* At line 331: Split into multiple parts to fit fewer lines.
 * At line 509: Rendered *businessman* as *business-dragon*.
 
 ### [`xkevin.rpy`](italiantl/xkevin.rpy)
@@ -560,7 +565,7 @@ The following are mostly to the benefit of the developer and translators.
 
 ### [`xsebastian.rpy`](italiantl/xsebastian.rpy)
 
-* At line 396, 1364: Split in multiple parts to fit fewer lines.
+* At line 396, 1364: Split into multiple parts to fit fewer lines.
 * At line 722, 1086: Corrected uppercase letter to lowercase after colon.
 * At line 736, 749: Corrected simple dash to em-dash.
 * At line 749, 1071: Unfolded *2* → *two*, for elegance.
@@ -585,6 +590,13 @@ The following are mostly to the benefit of the developer and translators.
 
 * At line 201: Corrected lowercase letters to uppercase in the title, to match the other achievements.
 * At line 270, 413: Consider changing *find* → *acquire* to match the corresponding dialogue spoken by the `System`.
+
+### [`sec.rpy`](italiantl/sec.rpy)
+
+* At line 247: Unfolded *AI* → *artificial intelligence*, for elegance.
+* At line 966, 1055: Corrected simple dash to em-dash.
+* At line 341: Corrected uppercase letter to lowercase to match the filename, as the database is case-sensitive.
+* At line 834: Note that this line doesn't fit onscreen.
 
 ## Other remarks
 

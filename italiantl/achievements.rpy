@@ -40,7 +40,7 @@ translate italiantl strings:
 
     # achievements.rpy:120
     old "{b}Nuisance{/b}\nRefuse to help Bryce 99 times."
-    new "{b}Seccatura{/b}\nRifiutati di aiutare [Br] per 99 volte."
+    new "{b}Scocciatura{/b}\nRifiutati di aiutare [Br] per 99 volte."
 
     # achievements.rpy:131
     old "{b}Investigator 1{/b}\nDo well on the first investigation."
@@ -240,7 +240,7 @@ translate italiantl strings:
 
     # achievements.rpy:733
     old "{b}Catastrophy{/b}\nSee Bryce's bad ending."
-    new "{b}Catastrofe{/b}\nVedi il finale cattivo di [Br]."
+    new "{b}Catas-trofeo{/b}\nVedi il finale cattivo di [Br]."
 
     # achievements.rpy:745
     old "{b}Murderer{/b}\nSee Bryce's good ending."
