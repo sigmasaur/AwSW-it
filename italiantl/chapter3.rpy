@@ -1983,10 +1983,15 @@ translate italiantl c3conty_228b8580:
     Ad "Già. Sei statə una gran carogna."
 
 # game/chapter3.rpy:1672
-translate italiantl c3conty_205dffa4:
+translate italiantl c3conty_205dffa4: # LEGACY
 
     # Ad normal b Ad "But even though you were a jerk, it was extraordinary to have a human around."
-    Ad normal b Ad "Ma anche se una carogna, è stato straordinario avere un umano intorno." # "even though [you were] a jerk"
+    Ad normal b "Ma anche se una carogna, è stato straordinario avere un umano intorno." # "even though [you were] a jerk"
+
+translate italiantl c3conty_7092424c:
+
+    # Ad normal b Ad "But even though you were a jerk, it was extraordinary to have a human around."
+    Ad normal b "Ma anche se una carogna, è stato straordinario avere un umano intorno." # see above
 
 # game/chapter3.rpy:1674
 translate italiantl c3conty_60884f44:
