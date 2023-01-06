@@ -94,7 +94,7 @@ translate italiantl _call_skipcheck_15_e69a3c80:
 translate italiantl _call_skipcheck_15_43ec750c:
 
     # Kv brow "For a town like this one, it's typical for the young people to go into an apprenticeship to prepare for their future job rather than go to college, but if there's anyone willing, we want to find them."
-    Kv brow "In città come questa, è tipico che i giovani si diano all'apprendistato per prepararsi al loro futuro lavoro piuttosto che andare al college, ma se c'è qualcuno che è disposto, noi vogliamo trovarlo." # "for a town" -> "in towns"
+    Kv brow "In città come queste, è tipico che i giovani si diano all'apprendistato per prepararsi al loro futuro lavoro piuttosto che andare al college, ma se c'è qualcuno che è disposto, noi vogliamo trovarlo." # "for a town" -> "in towns"
 
 # game/xkevin.rpy:133
 translate italiantl _call_skipcheck_15_e1376890:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_15_34a1ed52:
 translate italiantl _call_skipcheck_15_22754d87:
 
     # Kv normal "Besides, it's not as if I'm some sort of anti-social hermit who only focuses on his studies. I just know when to say no to my friends."
-    Kv normal "Non essere così negativə. E poi, non è come se fossi una specie di eremita antisociale che pensa solo allo studio. Solo, so quando dire di no ai miei amici." # joined with line 359
+    Kv normal "Non essere così negativə. E poi, non è come se fossi una specie di eremita antisociale che pensa solo allo studio. Solo, so quando dire di no agli amici." # joined with line 359
 
 # game/xkevin.rpy:363
 translate italiantl _call_skipcheck_15_f0b69231_1:
@@ -730,7 +730,7 @@ translate italiantl _call_skipcheck_15_f0b69231_1:
 translate italiantl _call_skipcheck_15_9fd3a7ba:
 
     # Kv ramble "Yes, we usually get together on the weekends and do some cooking together. People can only stand so much frozen food before they get sick of it, and eating out in the city can add up pretty quickly if you're not careful."
-    Kv ramble "Sì, di solito ci troviamo nei fine settimana e cuciniamo qualcosa insieme. La gente non può sopportare più di tanti surgelati prima di stufarsene, e mangiare fuori in città può far salire i conti piuttosto in fretta se non stai attento." # "add up THE BILL"
+    Kv ramble "Sì, di solito ci troviamo nei fine settimana e cuciniamo qualcosa assieme. La gente non può sopportare più di tanti surgelati prima di stufarsene, e mangiare fuori in città può far salire i conti piuttosto in fretta se non stai attento." # "add up THE BILL"
 
 # game/xkevin.rpy:367
 translate italiantl _call_skipcheck_15_89aefe22:
@@ -1072,7 +1072,7 @@ translate italiantl _call_skipcheck_15_62eb7645:
 translate italiantl _call_skipcheck_15_5cd3c871:
 
     # Kv "I thought I wanted to help people with issues like that, but sometimes it's pretty hard not to be affected too much by those stories, so I'm not sure if that's the right job for me."
-    Kv "Pensavo di voler aiutare le persone coi loro problemi a quel modo, ma a volte è piuttosto dura non essere troppo condizionati da quelle storie, e quindi non sono sicuro che sia il lavoro giusto per me."
+    Kv "Pensavo di voler aiutare le persone coi loro problemi in quel modo, ma a volte è piuttosto dura non essere troppo condizionati da quelle storie, e quindi non sono sicuro che sia il lavoro giusto per me."
 
 # game/xkevin.rpy:483
 translate italiantl _call_skipcheck_15_125ed73b:
@@ -1108,7 +1108,7 @@ translate italiantl _call_skipcheck_15_ad9e68a7:
 translate italiantl _call_skipcheck_15_0fd91879:
 
     # c "You seem to be doing well enough with that. You're helping to bring your college and people together, and in this way, you're helping both."
-    c "Mi pare che te la stai cavando abbastanza bene con quello. Stai aiutando ad avvicinare il tuo college alle persone, e in questo modo, stai aiutando entrambi."
+    c "Mi pare te la stia cavando abbastanza bene con quello. Stai aiutando ad avvicinare il tuo college alle persone, e in questo modo, stai aiutando entrambi."
 
 # game/xkevin.rpy:495
 translate italiantl _call_skipcheck_15_fa8c463f:
@@ -1228,7 +1228,7 @@ translate italiantl _call_skipcheck_15_fb5f6d40:
 translate italiantl _call_skipcheck_15_28ea8dfb:
 
     # c "I don't know whats going to happen after that. I can only hope my visit here will have started something that will mean change for our world, but I'm not sure if that's going to happen."
-    c "Dopodiché non so cosa succederà. Posso solo sperare che la mia visita qui avrà dato inizio a qualcosa che significherà un cambiamento per il nostro mondo, ma non sono sicurə che accadrà." # corrected "whats" -> "what's"
+    c "Dopodiché non so cosa succederà. Posso solo sperare che la mia visita qui avrà dato inizio a qualcosa che significherà un cambiamento per il nostro mondo, ma non sono certə che accadrà." # corrected "whats" -> "what's"
 
 # game/xkevin.rpy:535
 translate italiantl _call_skipcheck_15_4e7ac8ae:

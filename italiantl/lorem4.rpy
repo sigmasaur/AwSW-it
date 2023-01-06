@@ -874,7 +874,7 @@ translate italiantl lorem4adinestatusneutral_f75f526f:
 translate italiantl lorem4adinestatusneutral_56b71121:
 
     # c "I feel like I haven't had a pizza like this in ages."
-    c "Mi sembra di non aver mangiato una pizza così da secoli."
+    c "Mi sembra di non mangiare una pizza così da secoli."
 
 # game/lorem4.rpy:557
 translate italiantl lorem4adinestatusneutral_521bcbf7:
@@ -988,7 +988,7 @@ translate italiantl lorem4adinestatusneutral_8b5881f5:
 translate italiantl lorem4adinestatusneutral_a0c2f669:
 
     # Lo relieved "The more progress I make, the more it becomes apparent that I'll need a lot more help than I thought."
-    Lo relieved "Più progressi faccio, più diventa evidente che mi servirà molto più aiuto di quel che pensavo."
+    Lo relieved "Più progressi faccio, più diventa evidente che mi servirà molto più aiuto di quanto pensassi."
 
 # game/lorem4.rpy:615
 translate italiantl lorem4adinestatusneutral_138584d3:
@@ -1036,7 +1036,7 @@ translate italiantl lorem4adinestatusneutral_017872a4:
 translate italiantl lorem4adinestatusneutral_42d5809c:
 
     # Lo relieved "I guess I'm just starting to realize what kind of investment this would actually be."
-    Lo relieved "Immagino di stare solo iniziando a rendermi conto di che tipo di investimento sarebbe in realtà."
+    Lo relieved "Immagino solo di iniziare a rendermi conto di che tipo di investimento sarebbe in realtà."
 
 # game/lorem4.rpy:631
 translate italiantl lorem4adinestatusneutral_09c3b87a:
@@ -1336,7 +1336,7 @@ translate italiantl lorem4adinestatusneutral_fb1271d4:
 translate italiantl lorem4adinestatusneutral_60496819:
 
     # Lo sad "It's just odd that for a society that celebrates our differences, there are still things that are too different even for them."
-    Lo sad "È solo strano che per una società che celebra le nostre differenze, esistano ancora delle cose che sono troppo diverse persino per loro."
+    Lo sad "Solo, è strano che per una società che celebra le nostre differenze, esistano ancora delle cose che sono troppo diverse persino per loro."
 
 # game/lorem4.rpy:731
 translate italiantl lorem4adinestatusneutral_e3ce680e:

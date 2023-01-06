@@ -70,7 +70,7 @@ translate italiantl _call_skipcheck_1_670439dc:
 translate italiantl _call_skipcheck_1_43ff890b:
 
     # Br normal "Whereas the Chief of Police has to make do with whatever he can get."
-    Br normal "Mentre invece il capo di polizia deve accontentarsi di quello che trova." # corrected lowercase letter of "Chief", "Police"
+    Br normal "Mentre invece il capo di polizia deve accontentarsi di quello che trova." # corrected lowercase letter of "chief", "police"
 
 # game/bryce4.rpy:125
 translate italiantl _call_skipcheck_1_2c877c0e:
@@ -256,7 +256,7 @@ translate italiantl _call_skipcheck_1_e95ab5c0:
 translate italiantl _call_skipcheck_1_440e89e2:
 
     # Br smirk "Now, are you going to help me with this or not?"
-    Br smirk "Ora, hai intenzione di darmi una mano con questa o no?"
+    Br smirk "Ora, hai intenzione di aiutarmi con questa o no?"
 
 # game/bryce4.rpy:197
 translate italiantl _call_skipcheck_1_fd86e2ca:
@@ -610,7 +610,7 @@ translate italiantl _call_skipcheck_1_87d3969a:
 translate italiantl _call_skipcheck_1_b5b56901:
 
     # Br "You'd think as Chief I'd be used to it by now, but I'm not."
-    Br "Penseresti che come capo ormai ci abbia fatto l'abitudine, ma non è così." # must match line 338; corrected lowercase letter of "Chief"
+    Br "Penseresti che come capo ormai ci abbia fatto l'abitudine, ma non è così." # must match line 338; corrected lowercase letter of "chief"
 
 # game/bryce4.rpy:338
 translate italiantl _call_skipcheck_1_6acd8a3e:
@@ -652,7 +652,7 @@ translate italiantl _call_skipcheck_1_66515c0a:
 translate italiantl _call_skipcheck_1_3cd7e277:
 
     # Br "It's the same for me, really. Sure, they could ask someone else to be Chief, but If I'm the one who's best suited for the job, who am I to reject that? Otherwise, I'd have to blame myself for every mistake the other Chief made."
-    Br "È lo stesso per me, davvero. Certo, potrebbero chiedere a qualcun altro di essere il capo, ma se sono io quello più adatto al lavoro, chi sono io per rifiutarlo? Altrimenti, dovrei incolpare me stesso di tutti gli sbagli che commettesse l'altro capo." # corrected lowercase letter of "Chief"
+    Br "È lo stesso per me, davvero. Certo, potrebbero chiedere a qualcun altro di essere il capo, ma se sono io quello più adatto al lavoro, chi sono io per rifiutarlo? Altrimenti, dovrei incolpare me stesso di tutti gli sbagli che commettesse l'altro capo." # corrected lowercase letter of "chief"
 
 # game/bryce4.rpy:363
 translate italiantl _call_skipcheck_1_d0adae6d:
@@ -706,7 +706,7 @@ translate italiantl _call_skipcheck_1_c98c0196:
 translate italiantl _call_skipcheck_1_ae87ed11:
 
     # Br "They don't want to know about unhappy things like that. Besides, they trust their Chief. If they knew about it, maybe they'd start to have their doubts."
-    Br "Non vogliono saperne di cose infelici come queste. E poi, hanno fiducia nel loro capo. Se lo sapessero, forse inizierebbero ad avere i loro dubbi." # corrected lowercase letter of "Chief"
+    Br "Non vogliono saperne di cose infelici come queste. E poi, hanno fiducia nel loro capo. Se lo sapessero, forse inizierebbero ad avere i loro dubbi." # corrected lowercase letter of "chief"
 
 # game/bryce4.rpy:381
 translate italiantl _call_skipcheck_1_cde529bf:
@@ -760,7 +760,7 @@ translate italiantl _call_skipcheck_1_892be656:
 translate italiantl _call_skipcheck_1_80aa8b51:
 
     # Br "That's why I'm worried about Maverick right now, and why I wish you'd known him as long as I have."
-    Br "Ecco perché in questo momento sono preoccupato per [Mv], e perché avrei voluto che lo conoscessi da quanto lo conosco io."
+    Br "Ecco perché in questo momento sono preoccupato per [Mv], e perché vorrei che lo conoscessi da quanto lo conosco io."
 
 # game/bryce4.rpy:399
 translate italiantl _call_skipcheck_1_ee9ec805:
@@ -1246,7 +1246,7 @@ translate italiantl _call_skipcheck_1_767dec0e:
 translate italiantl _call_skipcheck_1_5a1324ba:
 
     # Br smirk "Well, it's pretty far out. That's the kind of thing someone would make up to scam people for their money, or something like that."
-    Br smirk "Be', è abbastanza stravagante. È il genere di cosa che uno s'inventerebbe per truffare la gente per i suoi soldi, o roba del genere."
+    Br smirk "Be', è abbastanza stravagante. È il genere di cose che uno si inventerebbe per truffare la gente per i loro soldi, o roba del genere."
 
 # game/bryce4.rpy:575
 translate italiantl _call_skipcheck_1_8fe2ba10:
@@ -1384,7 +1384,7 @@ translate italiantl bryce4skip_6a644b5a:
 translate italiantl bryce4skip_f75f655f:
 
     # c "I suppose you could say so."
-    c "Suppongo tu possa dire così." # must match line 625
+    c "Suppongo che potresti dire così." # must match line 625
 
 # game/bryce4.rpy:625
 translate italiantl bryce4skip_ffc758e0:
@@ -1492,7 +1492,7 @@ translate italiantl bryce4skip_8514adf0:
 translate italiantl bryce4skip_cb86b900:
 
     # Br "Well, yeah. But it's a big tradition here, maybe even an ideological one. Y'know, everyone in the whole town united under the stars, watching the beautiful fireworks. It's a thing."
-    Br "Be', sì. Ma qui è una grande tradizione, forse persino ideologica. Sai, tutta quanta la città riunita sotto le stelle, a guardare i bellissimi fuochi d'artificio. È una cosa che facciamo." # "[an] ideological [one]"; "it's a thing WE DO"
+    Br "Be', sì. Ma qui è una grande tradizione, forse persino un'ideologia. Sai, tutta quanta la città riunita sotto le stelle, a guardare i bellissimi fuochi d'artificio. È una cosa che facciamo." # "an ideological one" -> "an ideology"; "it's a thing WE DO"
 
 # game/bryce4.rpy:666
 translate italiantl bryce4skip_be68808f:

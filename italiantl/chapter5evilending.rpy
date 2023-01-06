@@ -454,13 +454,13 @@ translate italiantl no_f6c1a298:
 translate italiantl no_46ca0c65:
 
     # Rz annoyed "When was there ever anything resembling these ... creatures on Earth? It's not hard to make the jump from dragons to dinosaurs when some of them here look pretty damn near identical to dinosaurs we knew about."
-    Rz annoyed "Quand'è mai esistito qualcosa che assomigliasse a queste... creature sulla Terra? Non è difficile colmare il divario fra draghi e dinosauri quando alcuni di loro qui sono così dannatamente simili ai dinosauri che conosciamo." # "near identical" -> "similar"; "knew" -> "know"
+    Rz annoyed "Quando è mai esistito qualcosa che assomigliasse a queste... creature sulla Terra? Non è difficile colmare il divario fra draghi e dinosauri quando alcuni di loro qui sono così dannatamente simili ai dinosauri che conosciamo." # "near identical" -> "similar"; "knew" -> "know"
 
 # game/chapter5evilending.rpy:467
 translate italiantl no_9ae497ad:
 
     # Rz "And then, there are also the prehistoric fruits, the plants and the fact that their technological level is nearly exactly the same as our own past society."
-    Rz "E poi, ci sono anche i frutti preistorici, le piante e il fatto che il loro livello tecnologico sia quasi esattamente lo stesso della nostra andata società."
+    Rz "E poi, ci sono anche i frutti preistorici, le piante e il fatto che il loro livello tecnologico sia quasi esattamente lo stesso della nostra andata società." # "past" -> "gone"
 
 # game/chapter5evilending.rpy:469
 translate italiantl no_7b7df0a0:
@@ -472,7 +472,7 @@ translate italiantl no_7b7df0a0:
 translate italiantl no_2fa3d196:
 
     # Rz annoyed "The sun, the moon, even the stars are the same. Constellations change over time, of course, but you know we could account for that stuff."
-    Rz annoyed "Il sole, la luna, persino le stelle sono le stesse. Le costellazioni cambiano nel tempo, ovviamente, ma sai bene che potevamo tener conto di quella roba."
+    Rz annoyed "Il sole, la luna, persino le stelle sono le stesse. Le costellazioni cambiano nel tempo, ovviamente, ma sai bene che di quella roba potevamo tenerne conto."
 
 # game/chapter5evilending.rpy:473
 translate italiantl no_a0acb6cc:
@@ -586,7 +586,7 @@ translate italiantl no_676e21ed:
 translate italiantl no_f730d570:
 
     # Rz normal "With the right... persuasion, I think we'll have plenty of reasons to keep at least some of them around. Bodyguards, border patrols, weapons. Even as pets or companions, as long as we make the necessary changes."
-    Rz normal "Con la giusta... persuasione, penso che non ci mancheranno le buone ragioni per tenerci intorno almeno alcuni di loro. Guardie del corpo, pattuglie di confine, armi. Persino come animaletti da compagnia, a patto di fare i cambiamenti necessari."
+    Rz normal "Con la giusta... persuasione, penso che non ci mancheranno le buone ragioni per tenerci intorno almeno alcuni di loro. Guardie del corpo, pattuglie di confine, armi. Persino come animali da compagnia, a patto di fare i cambiamenti necessari."
 
 # game/chapter5evilending.rpy:527
 translate italiantl no_4ca4f52e:
@@ -1078,7 +1078,7 @@ translate italiantl skiptut_21aa4b71:
 translate italiantl skiptut_5496eeb1:
 
     # s "Jumping ahead will often skip minor choices that can be made, especially during character sections with lots of dialogue options. This can include parts that would unlock new achievements."
-    s "Saltare avanti comporterà spesso la perdita di scelte minori che potresti compiere, specie durante le sezioni dei personaggi con parecchie opzioni di conversazione. Il che può includere parti che andrebbero a sbloccare nuovi obiettivi." # "skip" -> "lose"; "can be made" -> "you can make"
+    s "Saltare avanti comporterà spesso la perdita di scelte minori che potresti compiere, specie durante le sezioni dei personaggi con parecchie opzioni di conversazione. Il che può includere parti che sbloccherebbero nuovi obiettivi." # "skip" -> "lose"; "can be made" -> "you can make"
 
 # game/chapter5evilending.rpy:869
 translate italiantl skiptut_2acb98f7:

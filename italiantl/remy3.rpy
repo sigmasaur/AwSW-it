@@ -52,7 +52,7 @@ translate italiantl _call_skipcheck_24_79362d3c:
 translate italiantl _call_skipcheck_24_8f7dccd7:
 
     # Ry "I enjoy Tatsu Park is all. Have you been here before?"
-    Ry "Mi piace Tatsu Park, tutto qui. Ci eri mai statə prima?"
+    Ry "Mi piace Tatsu Park, tutto qui. C'eri mai statə prima?"
 
 # game/remy3.rpy:128
 translate italiantl _call_skipcheck_24_07d1113d:
@@ -178,7 +178,7 @@ translate italiantl _call_skipcheck_24_935288d8:
 translate italiantl _call_skipcheck_24_499819e9:
 
     # c "What happened?"
-    c "Cos'è successo?"
+    c "Che cos'è successo?"
 
 # game/remy3.rpy:216
 translate italiantl _call_skipcheck_24_a8eaa93f:
@@ -322,13 +322,13 @@ translate italiantl _call_skipcheck_24_d47bfbfb:
 translate italiantl _call_skipcheck_24_0313b796:
 
     # n "In the end, we decided to wait and made a commitment. Six months after the grant was given to her team, we would return to one another and make our relationship public. That much time would have ensured that it wouldn't be an issue. We even made plans to move in together when that time came."
-    n "Alla fine, decidemmo di aspettare e prendemmo un impegno. Sei mesi dopo che avessero dato la sovvenzione alla sua squadra, saremmo ritornati l'uno dall'altra e avremmo reso pubblica la nostra relazione. Così tanto tempo avrebbe assicurato che non sarebbe stato un problema. Progettavamo persino di andare a vivere insieme quando quel momento fosse giunto."
+    n "Alla fine, decidemmo di aspettare e prendemmo un impegno. Sei mesi dopo che avessero dato la sovvenzione alla sua squadra, saremmo ritornati l'uno dall'altra e avremmo reso pubblica la nostra relazione. Un tale lasso di tempo avrebbe assicurato che non sarebbe stato un problema. Progettavamo persino di andare a vivere insieme quando quel momento fosse giunto." # "that much time" -> "such a time span"
 
 # game/remy3.rpy:292
 translate italiantl _call_skipcheck_24_ffc4c27f:
 
     # n "But we never got that far. I only know the rest of what happened from various reports, but apparently, Amelia got sick. Nothing serious, mind you. She continued working from home as best as she could. The project was already behind schedule, and she didn't want to endanger it."
-    n "Ma non siamo mai andati così lontano. Il resto di ciò che è successo lo seppi solo da resoconti vari, ma a quanto pare, Amelia si era ammalata. Nulla di serio, bada. Continuò a lavorare da casa come meglio poteva. Il progetto era già in ritardo coi tempi, e lei non voleva metterlo a rischio."
+    n "Ma non siamo mai arrivati a tanto. Il resto di quanto è successo lo seppi solo da resoconti vari, ma a quanto pare, Amelia si era ammalata. Nulla di serio, bada. Continuò a lavorare da casa come meglio poteva. Il progetto era già in ritardo coi tempi, e lei non voleva metterlo a rischio."
 
 # game/remy3.rpy:295
 translate italiantl _call_skipcheck_24_76b2fe88_4:
@@ -358,7 +358,7 @@ translate italiantl _call_skipcheck_24_12960b72:
 translate italiantl _call_skipcheck_24_daa29987:
 
     # n "When she was found the next day, she was covered by a blanket of fresh snow."
-    n "Quando fu ritrovata il giorno dopo, era coperta da una coltre di neve fresca."
+    n "Quando fu rinvenuta il giorno dopo, era coperta da una coltre di neve fresca."
 
 # game/remy3.rpy:306
 translate italiantl _call_skipcheck_24_0ede14a9:
@@ -1356,7 +1356,7 @@ translate italiantl _call_skipcheck_25_a0804f06:
 translate italiantl _call_skipcheck_25_b2e4a61b:
 
     # c "I don't think so. You're right, your world is in much better shape than ours, but even if Reza could stay here, he wouldn't. He came here for the same reason I did - to help our people."
-    c "Non credo. Hai ragione, il vostro mondo è in forma di gran lunga migliore del nostro, ma anche se [Rz] potesse restare qui, non lo farebbe. Lui è venuto per la mia stessa ragione—aiutare il nostro popolo." # corrected em-dash
+    c "Non credo. Hai ragione, il vostro mondo è in forma di gran lunga migliore del nostro, ma se anche [Rz] potesse restare qui, non lo farebbe. Lui è venuto per la mia stessa ragione—aiutare il nostro popolo." # corrected em-dash
 
 # game/remy3.rpy:842
 translate italiantl _call_skipcheck_25_45c859af:
@@ -1524,7 +1524,7 @@ translate italiantl _call_skipcheck_25_c451845a:
 translate italiantl _call_skipcheck_25_546b0c03:
 
     # c "What does it matter if you aren't as strong? If people only did what they were the absolute best at, they wouldn't be doing much at all."
-    c "Che importanza ha se non sei così forte? Se la gente facesse solo quello che fa meglio in assoluto, non farebbe poi granché."
+    c "Che importanza ha se non sei così forte? Se le persone facessero solo quello che fanno meglio in assoluto, non farebbero poi granché."
 
 # game/remy3.rpy:957
 translate italiantl _call_skipcheck_25_18afacc7:
@@ -1846,7 +1846,7 @@ translate italiantl strings:
 
     # remy3.rpy:183
     old "I used to."
-    new "Una volta sì."
+    new "Un tempo, sì."
 
     # remy3.rpy:183
     old "Can't say I do."

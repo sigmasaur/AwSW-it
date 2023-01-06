@@ -1066,7 +1066,7 @@ translate italiantl adinegoodending_6a74dade:
 translate italiantl adinegoodending_4f38b038:
 
     # Ad disappoint b "Just losing the connection to humanity's portal... How is that even possible?"
-    Ad disappoint b "Perdere semplicemente la connessione al portale dell'umanità... Ma com'è possibile?"
+    Ad disappoint b "Perdere la connessione al portale dell'umanità... Ma com'è possibile?" # "just" losing
 
 # game/adine5.rpy:1010
 translate italiantl adinegoodending_2b866170:

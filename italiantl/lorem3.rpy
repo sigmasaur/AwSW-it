@@ -70,7 +70,7 @@ translate italiantl _call_skipcheck_13_69b9b9c2:
 translate italiantl _call_skipcheck_13_d7ff0ef8:
 
     # m "He showed me the map. It was a piece of paper that had obviously been treated to look much older than it really was."
-    m "Mi mostrò la mappa. Era un foglio di carta che era stato palesemente trattato perché sembrasse molto più vecchio di quel che era davvero."
+    m "Mi mostrò la mappa. Era un foglio di carta che era stato palesemente trattato perché sembrasse molto più vecchio di quanto non fosse davvero."
 
 # game/lorem3.rpy:131
 translate italiantl _call_skipcheck_13_dbcb91b0:
@@ -262,7 +262,7 @@ translate italiantl _call_skipcheck_13_74f2b90a:
 translate italiantl _call_skipcheck_13_1fbfb5f4:
 
     # c "Practical skills are valued most in our city, and you aren't really given a choice to do anything else. Sure, people can learn other things on their own, but it's not as if school is mandatory anymore."
-    c "Nella nostra città si dà più valore alle abilità pratiche, e non è che ti sia dato scegliere di fare qualcos'altro. Certo, la gente può imparare altre cose per conto suo, ma non è come se la scuola fosse più obbligatoria."
+    c "Nella nostra città si dà più valore alle abilità pratiche, e non è che ti sia dato scegliere di fare qualcos'altro. Certo, le persone possono imparare altre cose per conto loro, ma non è come se la scuola fosse più obbligatoria."
 
 # game/lorem3.rpy:229
 translate italiantl _call_skipcheck_13_6f7763a4:
@@ -1336,7 +1336,7 @@ translate italiantl lorem3searchmenu_e518038f:
 translate italiantl lorem3searchmenu_907d076e:
 
     # Lo normal "Let us assume that this is an average timeline. The portals have been found by both of our people, contact has been made and now you and Reza are both here for a visit."
-    Lo normal "Assumiamo che questa sia una normale linea temporale. I portali sono stati trovati da entrambe le nostre genti, è stato stabilito un contatto e ora tu e [Rz] siete entrambi qui per una visita."
+    Lo normal "Assumiamo che questa sia una normale linea del tempo. I portali sono stati trovati da entrambe le nostre genti, è stato stabilito un contatto e ora tu e [Rz] siete entrambi qui per una visita."
 
 # game/lorem3.rpy:698
 translate italiantl lorem3searchmenu_bd5f8bdc:
@@ -1498,7 +1498,7 @@ translate italiantl lorem3searchmenu_739c1f15:
 translate italiantl lorem3searchmenu_faba07fb:
 
     # Lo "This is the place indicated by the map."
-    Lo "Questo è il luogo indicato dalla mappa."
+    Lo "Questo è il posto indicato dalla mappa."
 
 # game/lorem3.rpy:800
 translate italiantl lorem3searchmenu_27d67004:
@@ -1630,7 +1630,7 @@ translate italiantl lorem3searchmenu_1e3d4df9:
 translate italiantl lorem3searchmenu_538341b2:
 
     # Lo think "Really? Why?"
-    Lo think "Davvero? Perché?"
+    Lo think "Davvero? Come mai?"
 
 # game/lorem3.rpy:850
 translate italiantl lorem3searchmenu_f88c057a:
@@ -1774,7 +1774,7 @@ translate italiantl lorem3searchmenu_07a613fa:
 translate italiantl lorem3searchmenu_bd22f006:
 
     # m "Suddenly, I heard frantic knocks coming from a shelf that was lying on the ground, half submerged in the water. I realized that it was still standing when we came in earlier."
-    m "All'improvviso, sentii un percuotere frenetico provenire da uno scaffale che giaceva al suolo, mezzo sommerso dall'acqua. Realizzai che prima era ancora in piedi quand'eravamo entrati."
+    m "All'improvviso, sentii un percuotere frenetico provenire da uno scaffale che giaceva al suolo, mezzo sommerso dall'acqua. Realizzai che prima era ancora in piedi quando eravamo entrati."
 
 # game/lorem3.rpy:937
 translate italiantl lorem3searchmenu_9d25c6cb:
@@ -1948,7 +1948,7 @@ translate italiantl lorem3searchmenu_6156a1bc:
 translate italiantl lorem3searchmenu_adf75bd0:
 
     # Lo normal "I suppose this concludes our treasure hunt."
-    Lo normal "Suppongo questo concluda la nostra caccia al tesoro."
+    Lo normal "Suppongo che questo concluda la nostra caccia al tesoro."
 
 # game/lorem3.rpy:1029
 translate italiantl lorem3searchmenu_59f4c3db:
@@ -1985,7 +1985,7 @@ translate italiantl lorem3searchmenu_105331b3:
 
     # Lo normal "They must've realized that people may still have these kits at home, even when the contest is over. If people went out looking for a hint in the woods and it wasn't there anymore, they might look for hours until they decided there was nothing to find."
     Lo normal "Devono essersi resi conto che la gente poteva ancora avere queste confezioni a casa, anche quando il concorso fosse finito."
-    Lo normal "Se la gente fosse uscita in cerca di un indizio nei boschi e questo non ci fosse più stato, avrebbe potuto cercare per ore prima di decidere che non c'era nulla da trovare." # split to fit three lines; "until" -> "before"
+    Lo normal "Se la gente fosse uscita in cerca di un indizio nei boschi e questo non ci fosse più stato, avrebbero potuto cercare per ore prima di decidere che non c'era nulla da trovare." # split to fit three lines; "until" -> "before"
 
 # game/lorem3.rpy:1041
 translate italiantl lorem3searchmenu_af77a80c:

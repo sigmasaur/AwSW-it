@@ -28,7 +28,7 @@ translate italiantl adine4_e7995973:
 translate italiantl adine4_abbd9af4:
 
     # c "Sure am! I can't wait to see everything the festival has to offer."
-    c "Sicuro! Sono impaziente di vedere tutto quello che il festival ha da offrire."
+    c "Sicuro! Non vedo l'ora di vedere tutto quello che il festival ha da offrire."
 
 # game/adine4.rpy:62
 translate italiantl _call_skiptut_30_0ff5f677:
@@ -172,7 +172,7 @@ translate italiantl _call_skipcheck_30_063136f1:
 translate italiantl _call_skipcheck_30_4e5a4202:
 
     # c "Why?"
-    c "Perché?"
+    c "Come mai?"
 
 # game/adine4.rpy:175
 translate italiantl _call_skipcheck_30_579bbff4:
@@ -886,7 +886,7 @@ translate italiantl _call_skipcheck_30_89aefe22:
 translate italiantl _call_skipcheck_30_ba019744:
 
     # Ad normal b "It's such a shame, since the whole institution was based on our creation story."
-    Ad normal b "È un tale peccato, dal momento che l'intera istituzione era basata sulla storia della nostra creazione."
+    Ad normal b "È un tale peccato, dato che l'intera istituzione era basata sulla storia della nostra creazione."
 
 # game/adine4.rpy:455
 translate italiantl _call_skipcheck_30_4d3f3918:
@@ -1030,7 +1030,7 @@ translate italiantl _call_skipcheck_30_1c7d5fe8:
 translate italiantl _call_skipcheck_30_44becc07:
 
     # Ad normal b "I don't know. I like reading about all the theories and trying to piece the puzzle together myself. That's why I want to visit that underground building we found. Some of the theories are quite out there."
-    Ad normal b "Non lo so. Mi piace leggere di tutte le teorie e tentare di rimettere insieme i pezzi del puzzle io stessa. È per questo che voglio visitare quell'edificio sotterraneo che abbiamo trovato. Alcune delle teorie sono piuttosto folli."
+    Ad normal b "Non lo so. Mi piace leggere di tutte le teorie e tentare di ricomporre il puzzle io stessa. È per questo che vorrei visitare quell'edificio sotterraneo che abbiamo trovato. Alcune delle teorie sono piuttosto folli."
 
 # game/adine4.rpy:503
 translate italiantl _call_skipcheck_30_efe0e8c3:
@@ -1054,7 +1054,7 @@ translate italiantl _call_skipcheck_30_88913a93:
 translate italiantl _call_skipcheck_30_3c766831:
 
     # Ad "Maybe it's an experiment and they're testing us. Some say they're always watching us from up there somewhere with a giant mothership and that maybe, one day, they'll return when we're ready to join them."
-    Ad "Forse è un esperimento e ci stanno mettendo alla prova. C'è chi dice che ci osservano sempre dall'alto di qualche gigantesca nave madre e che forse, un giorno, ritorneranno quando saremo pronti per unirci a loro."
+    Ad "Forse è un esperimento e ci stanno mettendo alla prova. C'è chi dice che ci osservano sempre dall'alto di una gigantesca nave madre e che forse, un giorno, ritorneranno quando saremo pronti per unirci a loro."
 
 # game/adine4.rpy:511
 translate italiantl _call_skipcheck_30_9b85bb82:
@@ -1312,7 +1312,7 @@ translate italiantl _call_skipcheck_30_5145c461:
 translate italiantl _call_skipcheck_30_476617c6:
 
     # m "Adine turned on the TV and a brief flicker appeared on the screen before it was filled with the image of a house from the outside."
-    m "[Ad] accese il televisore e un breve tremolio apparve sullo schermo prima che esso fosse riempito con l'immagine di una casa dall'esterno." # "TV" -> "television" for elegance
+    m "[Ad] accese il televisore e un breve tremolio apparve sullo schermo prima che fosse riempito con l'immagine di una casa dall'esterno." # "TV" -> "television" for elegance
 
 # game/adine4.rpy:629
 translate italiantl _call_skipcheck_30_144da182:
@@ -1552,7 +1552,7 @@ translate italiantl adine4skip_612cd7a6:
 translate italiantl adine4skip_9486e804:
 
     # Ad giggle b "I guess you could put it that way. Told you it was embarrassing."
-    Ad giggle b "Immagino tu possa metterla in questo modo. Te lo dicevo che era imbarazzante."
+    Ad giggle b "Immagino che potremmo metterla in questo modo. Te lo dicevo che era imbarazzante."
 
 # game/adine4.rpy:717
 translate italiantl adine4skip_203027b9:
@@ -1636,7 +1636,7 @@ translate italiantl a4shower_3872395b:
 translate italiantl a4shower_a366f1a0:
 
     # m "She took off her goggles and stepped into the roomy walk-in shower. After pressing a button on the wall, water started flowing from the shower head mounted on the wall."
-    m "Si tolse gli occhiali protettivi e mise piede nella spaziosa cabina doccia. Dopo ch'ebbe premuto un bottone sul muro, l'acqua iniziò a fluire dal soffione montato a parete."
+    m "Si tolse gli occhiali protettivi e mise piede nella spaziosa cabina doccia. Dopo che ebbe premuto un bottone sul muro, l'acqua iniziò a fluire dal soffione montato a parete."
 
 # game/adine4.rpy:791
 translate italiantl a4shower_445c3050:
@@ -1744,7 +1744,7 @@ translate italiantl a4shower_30d7d6ef:
 translate italiantl a4shower_4e5a4202:
 
     # c "Why?"
-    c "Perché?"
+    c "Come mai?"
 
 # game/adine4.rpy:855
 translate italiantl a4shower_2355e57c_1:
@@ -1792,7 +1792,7 @@ translate italiantl a4shower_b6f9c6cd:
 translate italiantl a4shower_76054168:
 
     # Ad "I guess you noticed."
-    Ad "Immagino tu l'abbia notato."
+    Ad "Immagino che l'hai notato."
 
 # game/adine4.rpy:883
 translate italiantl a4shower_adb54e86:

@@ -568,7 +568,7 @@ translate italiantl _call_skipcheck_26_da9efeb1:
 translate italiantl _call_skipcheck_26_efdf910a:
 
     # Br normal "You really wanna do it. Don't you, Seb?"
-    Br normal "Vuoi proprio farlo tu. Non è così, Seb?"
+    Br normal "Vuoi proprio essere tu a farlo. Non è così, Seb?"
 
 # game/bryce3.rpy:412
 translate italiantl _call_skipcheck_26_f37974db:
@@ -586,7 +586,7 @@ translate italiantl _call_skipcheck_26_fa5e4b78:
 translate italiantl _call_skipcheck_26_a3df16ad:
 
     # Zh normal flip "Hey, I told you I could prove you wrong this time."
-    Zh normal flip "Ehi, vi ho detto che potrei dimostrarvi che vi sbagliate stavolta."
+    Zh normal flip "Ehi, vi ho detto che stavolta potrei dimostrarvi che vi sbagliate."
 
 # game/bryce3.rpy:418
 translate italiantl _call_skipcheck_26_207f7ea0:
@@ -778,7 +778,7 @@ translate italiantl _call_skipcheck_26_1a57efc6:
 translate italiantl _call_skipcheck_26_1e04f53b:
 
     # m "After all of us had made our selection and put it on the fire, we sat down in a circle around it. Of course, Bryce made sure that Maverick and I were not sitting next to each other."
-    m "Dopo che avemmo fatto tutti la nostra scelta e messa sul fuoco, sedemmo in cerchio attorno ad esso. Naturalmente, [Br] si assicurò che io e [Mv] non sedessimo l'unə accanto all'altro."
+    m "Dopo che avemmo fatto tutti la nostra scelta e messo sul fuoco, sedemmo in cerchio attorno ad esso. Naturalmente, [Br] si assicurò che io e [Mv] non sedessimo l'unə accanto all'altro."
 
 # game/bryce3.rpy:509
 translate italiantl _call_skipcheck_26_64e0345e:
@@ -850,7 +850,7 @@ translate italiantl _call_skipcheck_26_5d0ba434:
 translate italiantl _call_skipcheck_26_0b89dc64:
 
     # Zh "Of course, Bryce. When you make up a story, just going out with a high-ranking politician isn't enough. Obviously, she also can't resist your manly allure."
-    Zh "Ma certo, [Br]. Quando t'inventi una storia, soltanto uscire con una politica d'alto rango non è abbastanza. Ovviamente, lei deve anche cedere al tuo fascino maschio." # "can't resist" -> "must give in"
+    Zh "Ma certo, [Br]. Quando ti inventi una storia, soltanto uscire con una politica d'alto rango non è abbastanza. Ovviamente, lei deve anche cedere al tuo fascino maschio." # "can't resist" -> "must give in"
 
 # game/bryce3.rpy:535
 translate italiantl _call_skipcheck_26_d63c67d4:
@@ -922,7 +922,7 @@ translate italiantl _call_skipcheck_26_7772fd0b:
 translate italiantl _call_skipcheck_26_0e626702:
 
     # Br normal "It all started innocently enough, but as I told you, when we were alone she started to get kinda weird after a while."
-    Br normal "È iniziato tutto in modo innocente, ma come vi dicevo, quand'eravamo soli ha iniziato a diventare parecchio strana dopo un po'."
+    Br normal "È iniziato tutto in modo innocente, ma come vi dicevo, quando eravamo soli ha iniziato a diventare parecchio strana dopo un po'."
 
 # game/bryce3.rpy:561
 translate italiantl _call_skipcheck_26_2eb3e553:
@@ -1168,7 +1168,7 @@ translate italiantl bryce3pass_c0ac7d7f:
 translate italiantl bryce3pass_7a66a558:
 
     # Sb "Why don't you just tell her to stop?"
-    Sb "Perché non le dici semplicemente di smettere?"
+    Sb "Perché non le dici semplicemente di smetterla?"
 
 # game/bryce3.rpy:676
 translate italiantl bryce3pass_f167204b:
@@ -1325,7 +1325,7 @@ translate italiantl bryce3pass_70df3bbd:
 translate italiantl bryce3pass_1a14eb81:
 
     # Br laugh "Besides, I thought you were into biology, so shouldn't you already know where hatchlings come from?"
-    Br laugh "E poi, pensavo t'intendessi di biologia, e quindi non dovresti già sapere da dove vengono i cuccioli?"
+    Br laugh "E poi, pensavo ti intendessi di biologia, e quindi non dovresti già sapere da dove vengono i cuccioli?"
 
 # game/bryce3.rpy:761
 translate italiantl bryce3pass_608159f3:
@@ -1403,7 +1403,7 @@ translate italiantl bryce3pass_9e96ef3e:
 translate italiantl bryce3pass_32106b28:
 
     # Sb "Hey, I'm not getting between the beautiful thing Emera and Bryce have going on."
-    Sb "Ehi, io non m'intrometto nella bellissima storia che stanno avendo [Em] e [Br]."
+    Sb "Ehi, io non mi intrometto nella bellissima storia che stanno avendo [Em] e [Br]."
 
 # game/bryce3.rpy:789
 translate italiantl bryce3pass_eab18ce4:
@@ -2225,7 +2225,7 @@ translate italiantl bryce3pass_c48dc32f:
 translate italiantl bryce3skip_8051bfcf:
 
     # Br "Looks like it's already later than I thought. We better head to sleep soon."
-    Br "Sembra sia già più tardi di quel che pensavo. Sarà meglio andare a dormire fra poco."
+    Br "Sembra sia già più tardi di quanto pensassi. Sarà meglio andare a dormire fra poco."
 
 # game/bryce3.rpy:1231
 translate italiantl bryce3skip_f3abc5d3:
@@ -2297,7 +2297,7 @@ translate italiantl bryce3skip_a51acc44:
 translate italiantl bryce3skip_529ddb3d:
 
     # Br "Oh, this is just a temporary arrangement. I wanted to be closer to work and the new apartment wasn't ready yet, so I have to stay here for a while."
-    Br "Oh, questa è solo una sistemazione temporanea. Volevo essere più vicino al lavoro e il nuovo appartamento non era ancora pronto, e quindi mi tocca stare qui per un po'."
+    Br "Oh, questa è solo una sistemazione temporanea. Volevo essere più vicino al lavoro e il nuovo appartamento non era ancora pronto, perciò mi tocca stare qui per un po'."
 
 # game/bryce3.rpy:1263
 translate italiantl bryce3skip_89aefe22:

@@ -88,7 +88,7 @@ translate italiantl _call_skipcheck_31_846f4d22:
 translate italiantl _call_skipcheck_31_ebdf485b:
 
     # Zh "Well, the bar is already closed and everybody's gone home, so it's just us."
-    Zh "Be', ormai il bar è chiuso e sono andati tutti a casa, quindi siamo solo noi."
+    Zh "Be', ormai il bar è chiuso e sono andati tutti a casa, perciò siamo solo noi."
 
 # game/xzhong.rpy:132
 translate italiantl _call_skipcheck_31_89aefe22:
@@ -106,7 +106,7 @@ translate italiantl _call_skipcheck_31_ee0aacf5:
 translate italiantl _call_skipcheck_31_ba6d127d:
 
     # Zh smile b "Oh, you're right. Guess we're not alone, then."
-    Zh smile b "Oh, hai ragione. Immagino che non siamo da soli, allora."
+    Zh smile b "Oh, hai ragione. Immagino che non siamo soli, allora."
 
 # game/xzhong.rpy:138
 translate italiantl _call_skipcheck_31_52471970:
@@ -304,7 +304,7 @@ translate italiantl _call_skipcheck_31_76b2fe88:
 translate italiantl _call_skipcheck_31_b74e5a55:
 
     # n "I was adopted when I was merely a hatchling. It's really not a big deal to me and never really came as a surprise to anyone, considering my parents aren't even the same species as me."
-    n "Sono stato adottato quand'ero soltanto un cucciolo. Per me non era poi niente di che e in realtà non ha mai stupito nessuno, considerando che i miei genitori non sono nemmeno della mia stessa specie."
+    n "Sono stato adottato quando ero soltanto un cucciolo. Per me non era poi niente di che e in realtà non ha mai stupito nessuno, considerando che i miei genitori non sono nemmeno della mia stessa specie."
 
 # game/xzhong.rpy:233
 translate italiantl _call_skipcheck_31_6e347fe4:
@@ -562,7 +562,7 @@ translate italiantl _call_skipcheck_31_850b3dbd:
 translate italiantl _call_skipcheck_31_99d7b3b5:
 
     # Xu "It's a hat we got you when you were little. It's one of the few things we still have from back then."
-    Xu "È un cappello che ti abbiamo preso quand'eri piccolo. È una delle poche cose che abbiamo ancora da allora."
+    Xu "È un cappello che ti abbiamo preso quando eri piccolo. È una delle poche cose che abbiamo ancora da allora."
 
 # game/xzhong.rpy:363
 translate italiantl _call_skipcheck_31_62b1414a:
@@ -766,7 +766,7 @@ translate italiantl _call_skipcheck_31_d516f80b:
 translate italiantl _call_skipcheck_31_c48dc32f:
 
     # c "Sure."
-    c "Certo."
+    c "Sicuro."
 
 # game/xzhong.rpy:453
 translate italiantl _call_skipcheck_31_3f237d6c:
@@ -802,7 +802,7 @@ translate italiantl _call_skipcheck_31_c7e0e48f:
 translate italiantl _call_skipcheck_31_c48dc32f_1:
 
     # c "Sure."
-    c "Sicuro."
+    c "Certo."
 
 # game/xzhong.rpy:467
 translate italiantl _call_skipcheck_31_168f555e:
@@ -1306,7 +1306,7 @@ translate italiantl zhongcont_8af06945:
 translate italiantl zhongcont_b66d6de0:
 
     # Zh "We're more than halfway there already. With the second job, it really shouldn't be a problem. I'd just like to have more of a buffer, because this holiday will have all the bells and whistles you can imagine."
-    Zh "Siamo già a più di metà strada. Col secondo lavoro, non dovrebbe poi essere un problema. Mi piacerebbe solo avere un po' più di gioco, perché questa sarà una vacanza con tutti fiocchi e controfiocchi che puoi immaginare."
+    Zh "Siamo già a più di metà strada. Col secondo lavoro, non dovrebbe poi essere un problema. Mi piacerebbe solo avere un po' più di gioco, perché questa sarà una vacanza con tutti fiocchi e controfiocchi che puoi immaginarti."
 
 # game/xzhong.rpy:982
 translate italiantl zhongcont_89aefe22:
@@ -1336,7 +1336,7 @@ translate italiantl zhongcont_21dd41e5:
 translate italiantl zhongcont_6d072c09:
 
     # Zh "Yes, but..."
-    Zh "Sì, ma..."
+    Zh "Sì, però..."
 
 # game/xzhong.rpy:992
 translate italiantl zhongcont_e5e8a342:
@@ -1414,7 +1414,7 @@ translate italiantl zhongcont_86148265:
 translate italiantl zhongcont_1b7ce016:
 
     # Zh smile b "Besides, these aren't so special that they need to be part of the collection. Otherwise, I wouldn't be selling them."
-    Zh smile b "E poi, non sono tanto speciali che debbano far parte della collezione. Altrimenti, non li starei vendendo."
+    Zh smile b "E poi, non sono tanto speciali che debbano fare parte della collezione. Altrimenti, non li starei vendendo."
 
 # game/xzhong.rpy:1030
 translate italiantl zhongcont_f8455797:
@@ -1534,7 +1534,7 @@ translate italiantl zhongcont_69085676:
 translate italiantl zhongcont_69085676_1:
 
     # Zh serv b "Whatever works for you."
-    Zh serv b "Purché funzioni per te."
+    Zh serv b "Purché funzioni per te." # see line 1084
 
 # game/xzhong.rpy:1100
 translate italiantl zhongcont_8fa1afef:
@@ -1732,7 +1732,7 @@ translate italiantl zhongcont_892a5ba3:
 translate italiantl zhongcont_0ea48d4e:
 
     # c "You seem to be doing pretty well already. You're nice and polite. I don't think you need to do anything different."
-    c "Mi sembra che te la stia cavando già piuttosto bene. Sei gentile e raffinato. Non credo tu abbia bisogno di fare nulla di diverso."
+    c "Mi pare te la stia cavando già piuttosto bene. Sei gentile e raffinato. Non credo tu abbia bisogno di fare nulla di diverso."
 
 # game/xzhong.rpy:1166
 translate italiantl zhongcont_696aee04:

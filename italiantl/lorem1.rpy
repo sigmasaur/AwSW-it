@@ -166,7 +166,7 @@ translate italiantl _call_skipcheck_16_f52dcfe5:
 translate italiantl _call_skipcheck_16_d8bc587f:
 
     # Lo normal "Living in the city can be very expensive. I can always move later when I get a job there. I've got other plans right now, though."
-    Lo normal "Vivere in città può essere molto costoso. Posso sempre trasferirmi più avanti quando troverò lavoro là. Al momento però ho altri piani."
+    Lo normal "Vivere in città può essere molto costoso. Posso sempre trasferirmi più avanti quando troverò lavoro là. Al momento però ho altri progetti."
 
 # game/lorem1.rpy:195
 translate italiantl _call_skipcheck_16_3ad10c5b:
@@ -280,13 +280,13 @@ translate italiantl _call_skipcheck_16_1b74c6ae:
 translate italiantl _call_skipcheck_16_8062b0e2:
 
     # Lo normal "You should still be careful. What you tell me now will influence how your entire species will be represented in my game."
-    Lo normal "Dovresti comunque stare attentə. Quello che mi dici adesso influenzerà come la vostra intera specie sarà rappresentata nel mio gioco."
+    Lo normal "Dovresti comunque stare attentə. Quello che mi dirai adesso influenzerà come la vostra intera specie sarà rappresentata nel mio gioco."
 
 # game/lorem1.rpy:304
 translate italiantl _call_skipcheck_16_5fef0849:
 
     # Lo happy "Don't worry, though. I'll treat this delicate matter with the required finesse."
-    Lo happy "Non preoccuparti, comunque. Tratterò una questione così delicata con la raffinatezza che richiede." # "this delicate matter" -> "a delicate matter like this"; "the required finesse" -> "the finesse it requires"
+    Lo happy "Non preoccuparti, però. Tratterò una questione così delicata con la raffinatezza che richiede." # "this delicate matter" -> "a delicate matter like this"; "the required finesse" -> "the finesse it requires"
 
 # game/lorem1.rpy:323
 translate italiantl _call_skipcheck_16_fc346745:
@@ -406,13 +406,13 @@ translate italiantl _call_skipcheck_16_15f9c1a5:
 translate italiantl _call_skipcheck_16_ef14dde8:
 
     # Lo think "Oh yeah, I guess that would take a lot more time than we have today."
-    Lo think "Oh già, immagino ci prenderebbe molto più tempo di quello che abbiamo oggi."
+    Lo think "Oh già, immagino ci prenderebbe molto più tempo di quanto ne abbiamo oggi."
 
 # game/lorem1.rpy:400
 translate italiantl _call_skipcheck_16_620bc3d3:
 
     # c "Anyway, what's the actual game about? What do you do?"
-    c "Ad ogni modo, di cosa parla il gioco effettivo? Cos'è che fai?"
+    c "Ad ogni modo, di cosa parla il gioco vero e proprio? Cos'è che fai?"
 
 # game/lorem1.rpy:402
 translate italiantl _call_skipcheck_16_579745a7:
@@ -1294,7 +1294,7 @@ translate italiantl _call_skipcheck_16_5a56cb9b:
 translate italiantl _call_skipcheck_16_de586ebf:
 
     # Lo happy "I just got this job a few months ago, but I had a part-time summer job at the post office when I was growing up."
-    Lo happy "Ho avuto questo lavoro solo qualche mese fa, ma avevo un lavoro estivo a mezza giornata all'ufficio postale quand'ero più giovane." # "growing up" -> "younger"
+    Lo happy "Ho avuto questo lavoro solo qualche mese fa, ma avevo un lavoro estivo a mezza giornata all'ufficio postale quando ero più giovane." # "growing up" -> "younger"
 
 # game/lorem1.rpy:792
 translate italiantl _call_skipcheck_16_c9537556:
@@ -1378,7 +1378,7 @@ translate italiantl _call_skipcheck_16_77d9b866:
 translate italiantl lorem1skip_0816df93:
 
     # c "Don't worry about it. I'll just consider it a public service."
-    c "Non ti preoccupare. Lo considererò solo un servizio pubblico." # see line 832
+    c "Non ti preoccupare. Lo considererò un servizio pubblico." # see line 832; "I'll [just] consider it"
 
 # game/lorem1.rpy:872
 translate italiantl lorem1skip_1847224a:

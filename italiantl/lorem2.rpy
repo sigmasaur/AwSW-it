@@ -754,7 +754,7 @@ translate italiantl _call_skipcheck_33_d0b16eb5:
 translate italiantl _call_skipcheck_33_7680f489:
 
     # c "Sorry. I just found something in the park recently that may or may not be your Ixomen Sphere."
-    c "Scusa. Ho giusto trovato qualcosa nel parco di recente che forse è la tua Sfera di Ixomen e forse no."
+    c "Scusa. Ho giusto trovato qualcosa nel parco di recente che forse è la tua Sfera di Ixomen o forse no."
 
 # game/lorem2.rpy:609
 translate italiantl _call_skipcheck_33_25762c06:
@@ -976,7 +976,7 @@ translate italiantl _call_skipcheck_33_d421f50d:
 translate italiantl _call_skipcheck_33_ee1390c8:
 
     # Ip normal "I wouldn't mind getting a portrait of myself. I can already see it, the light shining from above, caressing my luscious mane, highlighting each lock as they interplay..."
-    Ip normal "Non mi dispiacerebbe farmi fare un ritratto. Posso già vederlo, la luce che risplende dall'alto, che carezza la mia sensuale criniera, lumeggiando ciascun ricciolo mentre s'intrecciano..."
+    Ip normal "Non mi dispiacerebbe farmi fare un ritratto. Posso già vederlo, la luce che risplende dall'alto, che carezza la mia sensuale criniera, lumeggiando ciascun ricciolo mentre si intrecciano..."
 
 # game/lorem2.rpy:688
 translate italiantl _call_skipcheck_33_b6a961a7:
@@ -1114,7 +1114,7 @@ translate italiantl _call_skipcheck_33_cde241b5:
 translate italiantl _call_skipcheck_33_3d3b9810:
 
     # Lo think flip "I guess you could say so."
-    Lo think flip "Immagino si possa dire così."
+    Lo think flip "Immagino che potremmo dire così."
 
 # game/lorem2.rpy:781
 translate italiantl _call_skipcheck_33_100f2660:
@@ -1288,7 +1288,7 @@ translate italiantl _call_skipcheck_33_2235bb7c:
 translate italiantl _call_skipcheck_33_cd3187a4:
 
     # c "There's one thing I've been wondering: How do you even sit in one of those chairs? Wouldn't the backrest cause problems with your tails?"
-    c "C'è una cosa che mi stavo chiedendo: si può sapere come fate a sedervi su una di quelle sedie? Lo schienale non vi causa problemi con le vostre code?" # corrected lowercase letter
+    c "C'è una cosa che mi stavo chiedendo: si può sapere come fate a sedervi su di una di quelle sedie? Lo schienale non vi causa problemi con le vostre code?" # corrected lowercase letter
 
 # game/lorem2.rpy:841
 translate italiantl _call_skipcheck_33_f577e640:
@@ -2462,7 +2462,7 @@ translate italiantl strings:
 
     # lorem2.rpy:172
     old "That doesn't look very human to me."
-    new "A me quello non sembra molto umano."
+    new "A me quello non sembra granché umano."
 
     # lorem2.rpy:172
     old "He looks friendly."

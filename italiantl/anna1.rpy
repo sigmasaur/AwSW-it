@@ -88,13 +88,13 @@ translate italiantl anna1_16a8a491:
 translate italiantl anna1_ccbd7537:
 
     # An "Neither are you."
-    An "Non lo sei neanche tu."
+    An "Non lo sei nemmeno tu."
 
 # game/anna1.rpy:77
 translate italiantl anna1_e9fe9500:
 
     # Ry "Well, I've said what I came here to say. Good luck."
-    Ry "Be', ho detto quel che ero venuto qui a dire. Buona fortuna."
+    Ry "Be', quel che ero venuto qui a dire l'ho detto. Buona fortuna."
 
 # game/anna1.rpy:81
 translate italiantl anna1_32b2cfd8:
@@ -106,7 +106,7 @@ translate italiantl anna1_32b2cfd8:
 translate italiantl anna1_28d33d90:
 
     # m "Remy turned to leave and started walking in my direction. I ducked behind a pillar, and when he went past, I wasn't sure if he'd seen me. Either way, he left, and I was safe to approach now."
-    m "[Ry] fece per andarsene e s'incamminò nella mia direzione. Mi riparai dietro una colonna, e quando egli fu passato, non seppi dire se mi avesse visto. Comunque fosse, lui se ne andò, e allora io potei avvicinarmi." # "wasn't sure" -> "couldn't tell"
+    m "[Ry] fece per andarsene e si incamminò nella mia direzione. Mi riparai dietro una colonna, e quando egli fu passato, non seppi dire se mi avesse visto. Comunque fosse, lui se ne andò, e allora io potei avvicinarmi." # "wasn't sure" -> "couldn't tell"
 
 # game/anna1.rpy:111
 translate italiantl _call_skiptut_7_0ff5f677:
@@ -298,7 +298,7 @@ translate italiantl _call_skipcheck_7_88e9b9fb:
 translate italiantl _call_skipcheck_7_809161f6:
 
     # An "Good to know we see eye to eye on this."
-    An "Buono a sapersi che c'intendiamo sulla cosa."
+    An "Buono a sapersi che ci intendiamo sulla cosa."
 
 # game/anna1.rpy:294
 translate italiantl _call_skipcheck_7_dc820742:
@@ -1060,7 +1060,7 @@ translate italiantl _call_skipcheck_7_3a429c00:
 translate italiantl _call_skipcheck_7_3c8056a2:
 
     # m "Slowly, her hand went over to the deck of cards and drew the topmost."
-    m "Lentamente, la sua mano si accostò al mazzo di carte e ne pescò quella in cima."
+    m "Lentamente, la sua mano si accostò al mazzo di carte e pescò quella in cima."
 
 # game/anna1.rpy:801
 translate italiantl _call_skipcheck_7_8dd493bd:

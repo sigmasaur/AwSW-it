@@ -154,7 +154,7 @@ translate italiantl anna5_91355740:
 translate italiantl anna5_fe90c819:
 
     # An face "Really? The fireworks just started."
-    An face "Davvero? I fuochi sono appena iniziati."
+    An face "Sul serio? I fuochi sono appena iniziati."
 
 # game/anna5.rpy:93
 translate italiantl anna5_78b2c8cd:
@@ -676,7 +676,7 @@ translate italiantl _call_endingjustafewminuteslater_1_65e5d3a6:
 translate italiantl _call_endingjustafewminuteslater_1_11108241:
 
     # c "You know what? For all Reza has done, you sure don't seem that different from him when it comes down to it. Goodbye."
-    c "Sai che c'è? Con tutto ciò che ha fatto [Rz], certo non sembri poi così diversa da lui a conti fatti. Ti saluto."
+    c "Sai che c'è? Con tutto quello che ha fatto [Rz], certo non sembri poi così diversa da lui a conti fatti. Ti saluto."
 
 # game/anna5.rpy:512
 translate italiantl _call_endingjustafewminuteslater_1_aaf2dabf:
@@ -778,7 +778,7 @@ translate italiantl annagoodending_01e1c5cc:
 translate italiantl annagoodending_0d4277f6:
 
     # n "Even after they recovered and power was restored to the portal, I knew that I wouldn't be able to return to my own time as the Administrator, Izumi, had deleted the coordinates I needed to return home when she repaired the portal a while ago."
-    n "Anche dopo che si furono ripresi e fu ripristinata l'energia al portale, sapevo che non sarei statə in grado di fare ritorno al mio tempo siccome l'Amministratore, [Iz], aveva cancellato le coordinate che mi servivano per tornare a casa quand'ella aveva riparato il portale qualche tempo addietro."
+    n "Anche dopo che si furono ripresi e fu ripristinata l'energia al portale, sapevo che non sarei statə in grado di fare ritorno al mio tempo siccome l'Amministratore, [Iz], aveva cancellato le coordinate che mi servivano per ritornare a casa quand'ella aveva riparato il portale qualche tempo addietro."
 
 # game/anna5.rpy:793
 translate italiantl annagoodending_92633769:
@@ -796,7 +796,7 @@ translate italiantl annagoodending_76b2fe88_1:
 translate italiantl annagoodending_47822293:
 
     # n "However, I wasn't very concerned about this at the moment, as I spent my time in this world accompanying Anna on her journey."
-    n "Tuttavia, non era di questo che mi preoccupavo al momento, siccome trascorsi il mio tempo in questo mondo accompagnando [An] nel suo viaggio."
+    n "Tuttavia, non era di questo che mi preoccupavo al momento, siccome trascorsi il mio tempo in questo mondo accompagnando [An] lungo il suo viaggio."
 
 # game/anna5.rpy:801
 translate italiantl annagoodending_c4c7db3e:

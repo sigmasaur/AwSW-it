@@ -22,7 +22,7 @@ translate italiantl adine2_ca608868:
 translate italiantl adine2_7ccf0895:
 
     # c "Yeah, I didn't know how long it would take me to get here. Better early than late, right?"
-    c "Sì, non sapevo quanto ci avrei messo ad arrivare qui. Meglio presto che tardi, giusto?"
+    c "Sì, non sapevo quanto ci avrei messo ad arrivare qui. Meglio in anticipo che in ritardo, giusto?"
 
 # game/adine2.rpy:53
 translate italiantl adine2_92e83d0b:
@@ -118,7 +118,7 @@ translate italiantl _call_skipcheck_23_0054b77b:
 translate italiantl _call_skipcheck_23_3f15710f:
 
     # c "(So this is where you live, Adine. Small, but cozy.)"
-    c "(Quindi è qui che vivi, [Ad]. Piccolo, ma accogliente.)"
+    c "(Così è qui che vivi, [Ad]. Piccolo, ma accogliente.)"
 
 # game/adine2.rpy:197
 translate italiantl _call_skipcheck_23_70ef8dbe:
@@ -172,7 +172,7 @@ translate italiantl _call_skipcheck_23_1e03cd34:
 translate italiantl _call_skipcheck_23_a459ddc5:
 
     # Ad "I'm a volunteer. I help them out with whatever they need, and sometimes take care of the kids."
-    Ad "Sono una volontaria. Do una mano con qualsiasi cosa gli serva, e a volte mi prendo cura dei piccoli."
+    Ad "Sono una volontaria. Do una mano con qualsiasi cosa gli occorra, e a volte mi prendo cura dei piccoli."
 
 # game/adine2.rpy:215
 translate italiantl _call_skipcheck_23_48373b94:
@@ -256,7 +256,7 @@ translate italiantl _call_skipcheck_23_8416514a:
 translate italiantl _call_skipcheck_23_5ec1c392:
 
     # Ad "I'd adopt her myself, but I don't think I could care for her properly. Not as a single parent with my packed work schedule."
-    Ad "L'adotterei io stessa, ma non credo che potrei aver cura di lei come si deve. Non come genitore single col mio ritmo di lavoro così serrato."
+    Ad "L'adotterei io stessa, ma non credo che potrei aver cura di lei come si deve. Non come genitore unico col mio ritmo di lavoro così serrato."
 
 # game/adine2.rpy:257
 translate italiantl _call_skipcheck_23_434e0470:
@@ -364,7 +364,7 @@ translate italiantl _call_skipcheck_23_89403437:
 translate italiantl _call_skipcheck_23_fa4cb7ce:
 
     # Ad "Sorry, [player_name]. I guess I should be more positive."
-    Ad "Scusa, [player_name]. Immagino che dovrei essere più ottimistica."
+    Ad "Scusa, [player_name]. Immagino che dovrei essere più ottimista."
 
 # game/adine2.rpy:331
 translate italiantl _call_skipcheck_23_dbdb04e5:
@@ -412,7 +412,7 @@ translate italiantl _call_skipcheck_23_1d8e34de:
 translate italiantl _call_skipcheck_23_782e5967:
 
     # c "{i}LIFESTYLE: The Magazine for Modern People{/i}?"
-    c "{i}LIFESTYLE: La Rivista per Gente Moderna{/i}?"
+    c "{i}STILE DI VITA: La Rivista per Gente Moderna{/i}?"
 
 # game/adine2.rpy:352
 translate italiantl _call_skipcheck_23_661a9853:
@@ -424,7 +424,7 @@ translate italiantl _call_skipcheck_23_661a9853:
 translate italiantl _call_skipcheck_23_13ba6e80:
 
     # Ad "Isn't that the whole fun of it?"
-    Ad "Non è tutto qui il divertimento?"
+    Ad "Non sta tutto qui il divertimento?"
 
 # game/adine2.rpy:369
 translate italiantl _call_skipcheck_23_e2c3a930:
@@ -1456,7 +1456,7 @@ translate italiantl adine2menb_5b9fa8d9:
 translate italiantl adine2menb_59ab7f92:
 
     # c "I'm imagining it very hard right now."
-    c "Lo sto immaginando molto forte al momento."
+    c "Lo sto immaginando molto forte in questo momento."
 
 # game/adine2.rpy:1097
 translate italiantl adine2menb_0ce1db36:
@@ -1510,7 +1510,7 @@ translate italiantl adine2menb_8e38b30a:
 translate italiantl adine2menb_e2a3b9f7:
 
     # c "And the plot thickens."
-    c "E la trama s'infittisce."
+    c "E la trama si infittisce."
 
 # game/adine2.rpy:1115
 translate italiantl adine2menb_c16905a7:
@@ -1738,7 +1738,7 @@ translate italiantl adine2skip_f43faceb:
 translate italiantl adine2skip_5fec0ad0:
 
     # c "I didn't know you were into archaeology."
-    c "Non sapevo t'intendessi di archeologia."
+    c "Non sapevo ti intendessi di archeologia."
 
 # game/adine2.rpy:1228
 translate italiantl adine2skip_f842cf75:
@@ -1774,13 +1774,13 @@ translate italiantl adine2skip_7089d516:
 translate italiantl adine2skip_ac838d28:
 
     # c "So you believe in all of that stuff?"
-    c "Quindi tu credi in tutta quella roba?"
+    c "Perciò tu credi in tutta quella roba?"
 
 # game/adine2.rpy:1240
 translate italiantl adine2skip_bb8abd2b:
 
     # Ad normal b "\"Belief\" isn't the right word when you're standing right in front of me, you know. That alone is a miracle. I get excited all over again just thinking about it."
-    Ad normal b "\"Credere\" non è la parola giusta quando mi stai proprio di fronte, sai. Soltanto questo è un miracolo. Mi entusiasmo di nuovo ogni volta che ci ripenso." # "belief" -> "believe"
+    Ad normal b "\"Credere\" non è la parola giusta quando mi stai proprio davanti, sai. Soltanto questo è un miracolo. Mi entusiasmo di nuovo ogni volta che ci ripenso." # "belief" -> "believe"
 
 # game/adine2.rpy:1242
 translate italiantl adine2skip_b487416b:

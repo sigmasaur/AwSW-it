@@ -286,7 +286,7 @@ translate italiantl _call_skipcheck_32_02b6e68e:
 translate italiantl _call_skipcheck_32_f15b7ea3:
 
     # An face "That was the late screening. The theater's closed now."
-    An face "L'ultima proiezione era quella. Il cinema è chiuso adesso."
+    An face "Quella era l'ultima proiezione. Ormai il cinema sarà chiuso."
 
 # game/anna2.rpy:342
 translate italiantl _call_skipcheck_32_b53f79a6:
@@ -328,7 +328,7 @@ translate italiantl _call_skipcheck_32_0207d90d:
 translate italiantl _call_skipcheck_32_f3988934:
 
     # An "Closed as well."
-    An "Chiusa anche quella."
+    An "Chiusa anche questa."
 
 # game/anna2.rpy:363
 translate italiantl _call_skipcheck_32_7c958f81:
@@ -862,7 +862,7 @@ translate italiantl _call_skipcheck_32_288c6194:
 translate italiantl _call_skipcheck_32_b5b35b5e:
 
     # c "I heard you also wanted Reza's blood."
-    c "Ho sentito che volevi anche il sangue di [Rz]."
+    c "Ho sentito dire che volevi anche il sangue di [Rz]."
 
 # game/anna2.rpy:622
 translate italiantl _call_skipcheck_32_2d3f23b2:
@@ -1012,7 +1012,7 @@ translate italiantl _call_skipcheck_32_fa0c49f6:
 translate italiantl _call_skipcheck_32_f75b8ca3:
 
     # An face "I bet you're one of those people who never ate dirt when they were young. That's how you develop allergies."
-    An face "Scommetto che sei una di quelle persone che non mangiavano mai la terra quand'erano piccole. È così che ti vengono le allergie."
+    An face "Scommetto che sei una di quelle persone che non mangiavano mai la terra quando erano piccole. È così che ti vengono le allergie."
 
 # game/anna2.rpy:700
 translate italiantl _call_skipcheck_32_0a636674:
@@ -1108,7 +1108,7 @@ translate italiantl _call_skipcheck_32_8d3e5f20:
 translate italiantl _call_skipcheck_32_4502501a:
 
     # An smirk "Self-serve."
-    An smirk "Self-service."
+    An smirk "Fai da te."
 
 # game/anna2.rpy:760
 translate italiantl _call_skipcheck_32_deb2a681:
@@ -1120,7 +1120,7 @@ translate italiantl _call_skipcheck_32_deb2a681:
 translate italiantl _call_skipcheck_32_da14a24f:
 
     # An "We get caught, and maybe they'll tell me to compensate them. Or we'll just say it was your idea and that you didn't know it was forbidden or something. You have diplomatic immunity, so there's nothing they could do."
-    An "Ci beccano, e forse mi diranno di risarcirli. O diremo semplicemente che è stata una tua idea e che non sapevi fosse vietato o roba simile. Hai l'immunità diplomatica, quindi non c'è niente che ti possano fare."
+    An "Ci beccano, e forse mi diranno di risarcirli. O diremo solo che è stata una tua idea e che non sapevi fosse vietato o roba simile. Hai l'immunità diplomatica, quindi non c'è niente che ti possano fare."
 
 # game/anna2.rpy:766
 translate italiantl _call_skipcheck_32_7c313631:
@@ -1402,7 +1402,7 @@ translate italiantl _call_skipcheck_32_75098963:
 translate italiantl _call_skipcheck_32_2a537beb:
 
     # An smirk c "I'd love to see it. Though, we've already gathered plenty of information on your tech from the databases contained in the PDA. What will you do when we catch up?"
-    An smirk c "Mi piacerebbe vederla. Anche se, abbiamo già raccolto informazioni in abbondanza sulla vostra tecnologia dalle basi di dati contenute nel palmare. Che cosa farete quando vi avremo raggiunti?"
+    An smirk c "Mi piacerebbe vederla. Anche se, abbiamo già raccolto informazioni in abbondanza sulla vostra tecnologia dalle basi di dati contenute nel palmare. Che cosa farete quando vi avremo raggiunto?"
 
 # game/anna2.rpy:951
 translate italiantl _call_skipcheck_32_14283680:
@@ -1600,7 +1600,7 @@ translate italiantl _call_skipcheck_32_715002fb:
 translate italiantl _call_skipcheck_32_38caf1ef:
 
     # An smirk c "Just wonderful. Stolen goods always taste best. I can already picture the old farmer reduced to tears after he discovers one of his precious Mouflons is gone."
-    An smirk c "Semplicemente fantastico. È sempre più buono quand'è rubato. Posso già figurarmi il vecchio allevatore ridotto in lacrime dopo aver scoperto che uno dei suoi preziosi mufloni è sparito."
+    An smirk c "Semplicemente fantastico. È sempre più buono quando è rubato. Posso già figurarmi il vecchio allevatore ridotto in lacrime dopo aver scoperto che uno dei suoi preziosi mufloni è sparito."
 
 # game/anna2.rpy:1084
 translate italiantl _call_skipcheck_32_954aa2a1:
@@ -1726,7 +1726,7 @@ translate italiantl _call_skipcheck_32_64590a66:
 translate italiantl _call_skipcheck_32_c9819249:
 
     # An "For me, it's all about the experience, and one isn't necessarily better than the other."
-    An "Per me, sta tutto nell'esperienza, e l'una non è necessariamente migliore dell'altra."
+    An "Per me, sta tutto nell'esperienza, e l'una non è necessariamente meglio dell'altra."
 
 # game/anna2.rpy:1163
 translate italiantl _call_skipcheck_32_6aa9b575:

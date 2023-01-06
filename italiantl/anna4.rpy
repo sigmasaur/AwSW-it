@@ -190,13 +190,13 @@ translate italiantl _call_skipcheck_17_532e84af:
 translate italiantl _call_skipcheck_17_0825a27e:
 
     # n "I started my research, but in an ironic twist of fate, I ended up contracting that very same disease myself."
-    n "Iniziai le mie ricerche, ma per ironia della sorte, io stessa finii per contrarre proprio quella malattia."
+    n "Iniziai le mie ricerche, ma per ironia della sorte, io stessa finii per contrarre quella stessa malattia."
 
 # game/anna4.rpy:185
 translate italiantl _call_skipcheck_17_3a996be4:
 
     # n "Whether someone had not been following health & safety protocols as well as they should have or if I was just unlucky, I'll never know. But the reality was that I now had a disease that was treatable, but not curable."
-    n "Se qualcuno non abbia seguito i protocolli di salute e sicurezza come avrebbe dovuto o io abbia soltanto avuto sfortuna, non lo saprò mai. Ma la realtà era che adesso avevo una malattia che era trattabile, ma non curabile."
+    n "Se qualcuno non avesse seguito i protocolli di salute e sicurezza come avrebbe dovuto o io avessi soltanto avuto sfortuna, non lo saprò mai. Ma la realtà era che adesso avevo una malattia che era trattabile, ma non curabile."
 
 # game/anna4.rpy:187
 translate italiantl _call_skipcheck_17_5f5d28f1:
@@ -274,7 +274,7 @@ translate italiantl _call_skipcheck_17_e2558e4a:
 translate italiantl _call_skipcheck_17_17a03a2a:
 
     # n "But I was younger then, and a little more naïve than I am now."
-    n "Ma allora ero giovane, e un po' più ingenua di quanto sia adesso."
+    n "Ma allora ero giovane, e un po' più ingenua di quanto non sia adesso."
 
 # game/anna4.rpy:218
 translate italiantl _call_skipcheck_17_76b2fe88_4:
@@ -910,7 +910,7 @@ translate italiantl a4otherwise_4aba3dda:
 translate italiantl a4otherwise_91881375:
 
     # An face "Just to use you."
-    An face "Solamente per usarti."
+    An face "Soltanto per usarti."
 
 # game/anna4.rpy:494
 translate italiantl a4otherwise_48a02ca7:
@@ -1090,7 +1090,7 @@ translate italiantl _call_skipcheck_18_2413ebbe:
 translate italiantl _call_skipcheck_18_cb2b6e43:
 
     # c "Not sure if I'll ever need them, but I guess they could come in handy."
-    c "Non sono sicurə che ne avrò mai bisogno, ma immagino che potrebbe tornarmi utile."
+    c "Non sono sicurə che ne avrò mai bisogno, ma immagino che potrebbero tornarmi utili."
 
 # game/anna4.rpy:625
 translate italiantl _call_skipcheck_18_f8ac9388:
@@ -1156,7 +1156,7 @@ translate italiantl _call_skipcheck_18_e2eee211:
 translate italiantl _call_skipcheck_18_4e5a4202:
 
     # c "Why?"
-    c "Perché?"
+    c "Come mai?"
 
 # game/anna4.rpy:647
 translate italiantl _call_skipcheck_18_a2333aaa:
@@ -1774,7 +1774,7 @@ translate italiantl a4romance_26eefe0a:
 translate italiantl a4romance_55fffe1d:
 
     # m "She strode forward, reaching out with a claw before she hooked it into the neckline of my shirt."
-    m "Avanzò a gran passo, allungando una grinfia prima di artigliarvi la scollatura della mia camicia."
+    m "Avanzò a grandi passi, allungando una grinfia prima che vi artigliasse la scollatura della mia camicia."
 
 # game/anna4.rpy:940
 translate italiantl a4romance_506c11b1:

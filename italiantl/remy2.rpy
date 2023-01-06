@@ -340,7 +340,7 @@ translate italiantl remy2cont_f3bc5b96:
 translate italiantl remy2cont_97ce035f:
 
     # m "I barely heard the muffled sound, but when I saw Remy's ears perk, I realized he had more sensitive ears than I expected."
-    m "Udii appena quel suono ovattato, ma quando vidi drizzarsi le orecchie a [Ry], realizzai che le aveva più sensibili di quel che mi aspettavo." # "the muffled sound" -> "that muffled sound"
+    m "Udii appena quel suono ovattato, ma quando vidi drizzarsi le orecchie a [Ry], realizzai che le aveva più sensibili di quanto mi aspettassi." # "the muffled sound" -> "that muffled sound"
 
 # game/remy2.rpy:446
 translate italiantl remy2cont_05d1a2fa:
@@ -640,7 +640,7 @@ translate italiantl remy2picturesmenu_3f5cbf77:
 translate italiantl remy2picturesmenu_acf86f87:
 
     # Ry "Oh, no. That's in the past. I'm not even sure why those photos are still there."
-    Ry "Oh, no. Quello è il passato. Non so nemmeno bene perché quelle foto stiano ancora là." # "that's [in] the past"
+    Ry "Oh, no. Quello è il passato. Non so nemmeno perché quelle foto stiano ancora là." # "that's [in] the past"; "I'm not even sure" -> "I don't even know"
 
 # game/remy2.rpy:634
 translate italiantl remy2picturesmenu_91af8be1:
@@ -1168,7 +1168,7 @@ translate italiantl _call_skipcheck_35_54057ca1:
 translate italiantl _call_skipcheck_35_128e18d8:
 
     # c "They also provide warmth and protection, and are used to differentiate us from one another. Sometimes, uniforms are used as identification. Other times, clothes are just ornamental. What a person wears can tell us something about the person itself."
-    c "Forniscono anche calore e protezione, e sono usati per differenziarci gli uni dagli altri. A volte, le uniformi sono usate come identificativi. Altre volte, i vestiti sono solo di ornamento. Quello che indossa una persona può dirci qualcosa della persona stessa."
+    c "Forniscono anche calore e protezione, e sono usati per differenziarci gli uni dagli altri. A volte, le uniformi sono usate come identificativi. Altre volte, i vestiti sono solo di ornamento. Ciò che indossa una persona può dirci qualcosa della persona stessa."
 
 # game/remy2.rpy:1008
 translate italiantl _call_skipcheck_35_19abd388:
@@ -1360,7 +1360,7 @@ translate italiantl _call_skipcheck_35_0eaabbc8:
 translate italiantl _call_skipcheck_35_798a0225:
 
     # Ry "There's also the uncertainty of not knowing how another person will react to something I say. I don't want to embarrass myself."
-    Ry "C'è anche l'incertezza di non sapere come l'altra persona reagirà a qualcosa che dico. Non voglio mettermi in imbarazzo."
+    Ry "C'è anche l'incertezza di non sapere come l'altra persona reagirà a qualcosa che dico. Non vorrei mettermi in imbarazzo."
 
 # game/remy2.rpy:1145
 translate italiantl _call_skipcheck_35_540c9997:
@@ -1462,13 +1462,13 @@ translate italiantl _call_skipcheck_35_e69e42b8:
 translate italiantl _call_skipcheck_35_a36bd07f:
 
     # Ry smile "Oh, I believed you for a moment. Guess you got me there, [player_name]."
-    Ry smile "Oh, per un attimo ti ho creduto. Immagino che mi hai fregato, [player_name]."
+    Ry smile "Oh, per un attimo ti ho creduto. Immagino che me l'hai fatta, [player_name]."
 
 # game/remy2.rpy:1204
 translate italiantl _call_skipcheck_35_53ce849b:
 
     # Ry "Ah, with all the talking, I totally forgot about dessert."
-    Ry "Ah, con tutto il parlare, avevo completamente dimenticato il dessert."
+    Ry "Ah, con tutto il parlare, avevo completamente dimenticato il dolce."
 
 # game/remy2.rpy:1210
 translate italiantl _call_skipcheck_35_524c8ca5:
@@ -1546,7 +1546,7 @@ translate italiantl _call_skipcheck_35_b6cd2d3d:
 translate italiantl _call_skipcheck_35_59bc1ef6:
 
     # m "Once he placed the first cake slice on the table, he went back to fetch the other. When he approached the table a second time, though, one of the tiny dessert forks started to slip off of the plate."
-    m "Una volta ch'ebbe posato la prima fetta di torta sul tavolo, tornò indietro a prendere l'altra. Quando si avvicinò al tavolo una seconda volta, però, una delle minuscole forchette da dessert iniziò a scivolare dal piatto."
+    m "Una volta che ebbe posato la prima fetta di torta sul tavolo, tornò indietro a prendere l'altra. Quando si avvicinò al tavolo una seconda volta, però, una delle minuscole forchette da dessert iniziò a scivolare dal piatto."
 
 # game/remy2.rpy:1278
 translate italiantl _call_skipcheck_35_2fbca092:
@@ -1576,7 +1576,7 @@ translate italiantl _call_skipcheck_35_0cdc1fe2:
 translate italiantl _call_skipcheck_35_f1478745:
 
     # Ry sad "This isn't just about you and your cake. This always happens to me, no matter how hard I try."
-    Ry sad "Non si tratta solo di te e della torta. Questo mi succede sempre, non importa quanto ci provi."
+    Ry sad "Non si tratta solo di te e della torta. Questo mi succede sempre, non importa quanto mi sforzi."
 
 # game/remy2.rpy:1319
 translate italiantl _call_skipcheck_35_6da6d0a5:
@@ -2088,7 +2088,7 @@ translate italiantl strings:
 
     # remy2.rpy:1206
     old "I'm up for some dessert."
-    new "Mi va proprio un dessert."
+    new "Mi va proprio un dolce."
 
     # remy2.rpy:1251
     old "Ask him if he needs help."
@@ -2108,7 +2108,7 @@ translate italiantl strings:
 
     # remy2.rpy:1300
     old "I didn't really want dessert anyway."
-    new "Tanto non è che mi andasse il dessert."
+    new "Tanto non è che mi andasse il dolce."
 
     # remy2.rpy:1345
     old "You should resign, consequences be damned."

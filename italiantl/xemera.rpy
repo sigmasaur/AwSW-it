@@ -118,7 +118,7 @@ translate italiantl _call_skipcheck_19_e0a27428:
 translate italiantl _call_skipcheck_19_59ba786a:
 
     # Em normal "On some days, I have to keep reminding myself that there are actual people and problems behind those numbers, and those are the people I'm responsible for."
-    Em normal "Certi giorni, devo continuare a ricordare a me stessa che ci sono persone e problemi veri dietro a quei numeri, e quelle sono le persone di cui sono responsabile." # "actual" -> "real"
+    Em normal "Certi giorni, devo continuare a ricordare a me stessa che ci sono persone e problemi veri dietro a quei numeri, e quelle sono le persone di cui sono responsabile."
 
 # game/xemera.rpy:162
 translate italiantl _call_skipcheck_19_addf01aa:
@@ -407,7 +407,7 @@ translate italiantl _call_skipcheck_19_4d283eec:
 translate italiantl _call_skipcheck_19_c3000ec8:
 
     # Em mean "I know I am polarizing, but why try to please everyone and accomplish nothing when I know it's impossible to please everyone in the first place?"
-    Em mean "So di estremizzare, ma perché cercare di accontentare tutti e non realizzare niente quando so che accontentare tutti è impossibile?" # "it's impossible to please everyone [in the first place]"
+    Em mean "So di polarizzare l'opinione pubblica, ma perché cercare di accontentare tutti e non realizzare niente quando so già che accontentare tutti è impossibile?" # "it's impossible to please everyone [in the first place]"
 
 # game/xemera.rpy:286
 translate italiantl _call_skipcheck_19_470a4ba3:
@@ -419,7 +419,7 @@ translate italiantl _call_skipcheck_19_470a4ba3:
 translate italiantl _call_skipcheck_19_bf602990:
 
     # Em frown "My strategy is to take risks that may or may not pay off when I know I have nothing to lose rather than playing it safe and just perpetuating the status quo."
-    Em frown "La mia strategia è di correre rischi che forse mi ripagheranno e forse no quando so che non ho nulla da perdere, piuttosto che andare sul sicuro e semplicemente perpetuare lo status quo."
+    Em frown "La mia strategia è di correre rischi che forse mi ripagheranno o forse no quando so che non ho nulla da perdere, piuttosto che andare sul sicuro e semplicemente perpetuare lo status quo."
 
 # game/xemera.rpy:290
 translate italiantl _call_skipcheck_19_d5f5e4ce:
@@ -491,7 +491,7 @@ translate italiantl _call_skipcheck_19_43dfdaf1:
 translate italiantl _call_skipcheck_19_c311af48:
 
     # Em normal "In this case, I'll have to agree with them. Frankly, I am tired of all the work. More so than ever before."
-    Em normal "In questo caso, devo convenire con loro. Francamente, sono stanca di tutto il lavoro. Adesso più che mai." # "NOW more so than ever before"
+    Em normal "In questo caso, devo convenire con loro. Francamente, sono stanca di tutto il lavoro. Ora più che mai." # "NOW more so than ever before"
 
 # game/xemera.rpy:314
 translate italiantl _call_skipcheck_19_ffbe2a30:
@@ -677,7 +677,7 @@ translate italiantl _call_skipcheck_19_0c169b29:
 translate italiantl _call_skipcheck_19_b5cafee7:
 
     # Em normal "With the same biased thinking being present in the applicants, it would have been hard to find anyone among them who was actually suited to the position of working in the archives."
-    Em normal "Con lo stesso pensiero distorto che serpeggiava fra i richiedenti, sarebbe stato difficile trovare nessuno fra loro che fosse davvero idoneo a lavorare negli archivi." # "being present in" -> "meandering among"
+    Em normal "Con lo stesso pensiero distorto che serpeggiava fra i richiedenti, sarebbe stato difficile trovare nessuno fra loro che fosse realmente idoneo a lavorare negli archivi." # "being present in" -> "meandering among"
 
 # game/xemera.rpy:376
 translate italiantl _call_skipcheck_19_5d8b7857:
@@ -689,7 +689,7 @@ translate italiantl _call_skipcheck_19_5d8b7857:
 translate italiantl _call_skipcheck_19_380efd72:
 
     # Em frown "After I sorted out applicants that only seemed to want to be there to advance their career or to have something important to put on their resume, the remaining number was actually fairly small."
-    Em frown "Dopo aver vagliato i richiedenti che sembravano voler solo fare carriera o avere qualcosa di importante da mettere sul loro curriculum, il numero restante era in effetti piuttosto piccolo."
+    Em frown "Dopo aver vagliato i richiedenti che sembravano voler solo fare carriera o avere qualcosa di importante da mettere sul loro curriculum, il numero restante era in effetti piuttosto esiguo."
 
 # game/xemera.rpy:380
 translate italiantl _call_skipcheck_19_c249c31a:

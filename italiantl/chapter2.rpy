@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_11_1685698e:
 translate italiantl _call_skipcheck_11_9540e863:
 
     # m "Bryce's snout wrinkled with distaste as he glanced over Sebastian's shoulder."
-    m "Il muso di [Br] s'increspò di disgusto nel gettare lo sguardo alle spalle di [Sb]."
+    m "Il muso di [Br] si increspò con avversione nel gettare lo sguardo alle spalle di [Sb]."
 
 # game/chapter2.rpy:537
 translate italiantl _call_skipcheck_11_4916c811:
@@ -568,7 +568,7 @@ translate italiantl _call_skipcheck_11_7f079908:
 translate italiantl _call_skipcheck_11_2f293cc0:
 
     # Sb "Trust me, having it the other way around isn't too great, either."
-    Sb "Credimi, trovarsi nella situazione opposta non è tanto più gradevole."
+    Sb "Credimi, trovarsi nella situazione opposta non è tanto più bello."
 
 # game/chapter2.rpy:647
 translate italiantl _call_skipcheck_11_6d4b1fba:
@@ -592,13 +592,13 @@ translate italiantl _call_skipcheck_11_24a49291:
 translate italiantl _call_skipcheck_11_b1e1dd58:
 
     # c "I just dislike all kinds of stairs, period."
-    c "Io semplicemente detesto tutti i tipi di scale, punto."
+    c "Io semplicemente detesto ogni tipo di scale, punto."
 
 # game/chapter2.rpy:657
 translate italiantl _call_skipcheck_11_770cb11d:
 
     # Br "That's what I'm talking about."
-    Br "Ecco di che sto parlando."
+    Br "Ecco di che parlo."
 
 # game/chapter2.rpy:661
 translate italiantl _call_skipcheck_11_6478ffe8:
@@ -961,7 +961,7 @@ translate italiantl _call_skipcheck_11_a94ca74d:
 translate italiantl _call_skipcheck_11_8ae6f97d:
 
     # Br stern b "Technically, yes, but it's unlikely that someone who lives here would resort to stealing a generator when they could easily buy or even just request one. It's not really the kind of thing that would get stolen around here."
-    Br stern b "Tecnicamente, sì, ma è improbabile che qualcuno che vive qui possa arrivare a sottrarre un generatore quando potrebbe facilmente comprarne uno o anche solo richiederlo. Non è proprio il genere di cosa che verrebbe rubata da queste parti."
+    Br stern b "Tecnicamente, sì, ma è improbabile che qualcuno che vive qui possa arrivare a sottrarre un generatore quando potrebbe facilmente comprarne uno o anche solo richiederlo. Non è proprio il genere di cose che verrebbero rubate da queste parti."
 
 # game/chapter2.rpy:967
 translate italiantl _call_skipcheck_11_51f2406c:
@@ -1093,7 +1093,7 @@ translate italiantl chap2q1_0056c5b5:
 translate italiantl chap2q1_078f453a:
 
     # Sb "Maybe we should just focus on finding him and point fingers later."
-    Sb "Forse dovremmo solo pensare a trovarlo e più tardi punteremo il dito." # "WE'LL point fingers later"
+    Sb "Forse dovremmo solo pensare a trovarlo e punteremo il dito più tardi." # "WE'LL point fingers later"
 
 # game/chapter2.rpy:1074
 translate italiantl chap2q1_88df38a7:
@@ -1299,7 +1299,7 @@ translate italiantl chap2store_6edff375:
 translate italiantl chap2store_3e8a1606:
 
     # c "(This must be the store Reza's been shopping at.)"
-    c "(Questo dev'essere il negozio in cui [Rz] si serviva.)"
+    c "(Questo dev'essere il negozio in cui si serviva [Rz].)"
 
 # game/chapter2.rpy:1290
 translate italiantl chap2store_bd0329ac:
@@ -1311,7 +1311,7 @@ translate italiantl chap2store_bd0329ac:
 translate italiantl chap2store_01bee951:
 
     # c "(Hey, I think I've seen her before.)"
-    c "(Ehi, credo di averla già vista.)"
+    c "(Ehi, credo di averla già vista prima.)"
 
 # game/chapter2.rpy:1298
 translate italiantl chap2store_ac55e4d6:
@@ -1851,7 +1851,7 @@ translate italiantl chap2storebrowsemenu_0f7d0fbe:
 translate italiantl chap2storebrowsemenu_845ad9fa:
 
     # c "(I guess at least I'm covered in case I want any melon bread.)"
-    c "(Almeno immagino di essere copertə in caso abbia voglia di melon pan.)"
+    c "(Almeno immagino di essere copertə in caso volessi del melon pan.)"
 
 # game/chapter2.rpy:1617
 translate italiantl chap2storebrowsemenu_ce78e017:
@@ -1875,7 +1875,7 @@ translate italiantl chap2storebrowsemenu_681dd9c0:
 translate italiantl chap2storebrowsemenu_fbab3b6f:
 
     # c "(I don't think that's how it works...)"
-    c "(Non credo che funzioni in questo modo...)"
+    c "(Non credo funzioni in questo modo...)"
 
 # game/chapter2.rpy:1627
 translate italiantl chap2storebrowsemenu_c22a77d8:
@@ -2013,7 +2013,7 @@ translate italiantl chap2facility_923e730c:
 translate italiantl chap2facility_781c3892:
 
     # "???" "Why don't I ever get any recognition? This is my lab as much as it is hers."
-    "??? " "Perché non ottengo mai alcun riconoscimento? Questo laboratorio è mio tanto quanto è suo."
+    "??? " "Perché non ottengo mai nessun riconoscimento? Questo laboratorio è mio tanto quanto è suo."
 
 # game/chapter2.rpy:1786
 translate italiantl chap2facility_909ef36b:
@@ -2133,7 +2133,7 @@ translate italiantl chap2facques_ca8975a0:
 translate italiantl chap2facques_5f0c683d:
 
     # Dm arrogant "I've seen him a few times. He would come by to ask about the progress of the generators."
-    Dm arrogant "L'ho visto un paio di volte. Passava di qui a chiedere se ci fossero progressi coi generatori."
+    Dm arrogant "L'ho visto un paio di volte. Passava di qui a chiedere se ci fossero dei progressi coi generatori."
 
 # game/chapter2.rpy:1851
 translate italiantl chap2facques_42c15fdf:
@@ -2541,7 +2541,7 @@ translate italiantl chap2libmenu_83f20e4b:
 translate italiantl chap2libmenu_dca50168:
 
     # Ry "In any case, a blueprint is the kind of thing that would be placed in our care eventually."
-    Ry "In ogni caso, una planimetria è il genere di cosa che prima o poi verrebbe affidata alle nostre cure."
+    Ry "In ogni caso, una planimetria è il genere di cose che prima o poi verrebbero affidate alle nostre cure."
 
 # game/chapter2.rpy:2176
 translate italiantl chap2libmenu_82f59c77:
@@ -3681,7 +3681,7 @@ translate italiantl _call_skipcheck_12_c67f62de:
 translate italiantl _call_skipcheck_12_9457078a:
 
     # n "However, his actions were growing more calculated, and he seemed very sure of himself. I wondered about what this could amount to..."
-    n "Tuttavia, le sue azioni si facevano più calcolate, e lui sembrava essere molto sicuro di sé. Mi domandai cosa avrebbe potuto significare..."
+    n "Tuttavia, le sue azioni si facevano più calcolate, e lui sembrava molto sicuro di sé. Mi domandai cosa avrebbe potuto significare..."
 
 # game/chapter2.rpy:3605
 translate italiantl _call_skipcheck_12_75b736c5:
@@ -3729,7 +3729,7 @@ translate italiantl _call_skipcheck_12_c26b72f4:
 translate italiantl _call_skipcheck_12_1e7bb350:
 
     # Sb "Let's just say that any information pertaining to this case is important enough to warrant some privacy."
-    Sb "Diciamo solo che qualsiasi informazione riguardante questo caso è abbastanza importante da meritare un po' di privacy."
+    Sb "Diciamo solo che qualsiasi informazione riguardante questo caso è abbastanza importante da meritare un po' di riservatezza."
 
 # game/chapter2.rpy:3635
 translate italiantl _call_skipcheck_12_89aefe22:
@@ -3747,13 +3747,13 @@ translate italiantl _call_skipcheck_12_d2acafc8:
 translate italiantl _call_skipcheck_12_15a1f4d6:
 
     # Sb normal b "I don't think so. He's still outside, looking for Reza. He's not the kind of person who gives up easily."
-    Sb normal b "Non credo. È ancora fuori, in cerca di [Rz]. Lui non è il tipo di persona da darsi per vinta tanto facilmente."
+    Sb normal b "Non credo. È ancora fuori, in cerca di [Rz]. Lui non è il tipo di persona che si dà per vinta tanto facilmente."
 
 # game/chapter2.rpy:3645
 translate italiantl _call_skipcheck_12_9adbe59a:
 
     # Sb "That's Bryce for you. Once he sets his mind on something, he sees it through to the end."
-    Sb "[Br] è fatto così. Una volta che si mette in testa qualcosa, deve andarci fino in fondo."
+    Sb "[Br] è fatto così. Una volta che si mette in testa una cosa, deve andarci fino in fondo."
 
 # game/chapter2.rpy:3647
 translate italiantl _call_skipcheck_12_969a99f1:
@@ -3807,7 +3807,7 @@ translate italiantl _call_skipcheck_12_cc14b6ac:
 translate italiantl _call_skipcheck_12_5138560b:
 
     # c "I don't think he's going anywhere."
-    c "Non penso andrà da nessuna parte."
+    c "Non penso che andrà da nessuna parte."
 
 # game/chapter2.rpy:3678
 translate italiantl _call_skipcheck_12_c9046289:
@@ -4331,7 +4331,7 @@ translate italiantl strings:
 
     # chapter2.rpy:641
     old "I dislike all kinds of stairs."
-    new "Io detesto tutti i tipi di scale."
+    new "Io detesto ogni tipo di scale."
 
     # chapter2.rpy:892
     old "I don't think it was Reza."
@@ -4439,15 +4439,15 @@ translate italiantl strings:
 
     # chapter2.rpy:1607
     old "Look at the bread selection."
-    new "Guarda alla selezione del pane."
+    new "Guarda la selezione del pane."
 
     # chapter2.rpy:1607
     old "Look at the produce."
-    new "Guarda ai prodotti agricoli."
+    new "Guarda i prodotti agricoli."
 
     # chapter2.rpy:1607
     old "Look at the health aisle."
-    new "Guarda al reparto sanitario."
+    new "Guarda il reparto sanitario."
 
     # chapter2.rpy:1607
     old "Go back."
@@ -4627,7 +4627,7 @@ translate italiantl strings:
 
     # chapter2.rpy:3666
     old "I don't think he's going anywhere."
-    new "Non penso andrà da nessuna parte."
+    new "Non penso che andrà da nessuna parte."
 
     # chapter2.rpy:3666
     old "We'll never find him."

@@ -232,7 +232,7 @@ translate italiantl denied_4aff6d4b:
 translate italiantl denied_efd4dfe7:
 
     # Iz "Don't worry about it. It makes my choice all the easier."
-    Iz "Non ti preoccupare. Renderà più facile la mia scelta."
+    Iz "Non ti preoccupare. Renderà solo più facile la mia scelta."
 
 # game/sec.rpy:199
 translate italiantl denied_6d3d48d8:

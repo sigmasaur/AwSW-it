@@ -148,7 +148,7 @@ translate italiantl chapter3_37eb7a13:
 translate italiantl chapter3_f1930e50:
 
     # m "When I turned the corner, there was no mistaking her. Anna was haphazardly covered by a sheet, leaving her tail and bloodstained hand exposed. In the end, she didn't even deserve full discretion."
-    m "Quando voltai l'angolo, non vi fu più alcun dubbio. [An] era coperta alla rinfusa da un lenzuolo, lasciando esposte la sua coda e la sua mano insanguinata. Alla fine, non le era stato nemmeno concesso il pieno riserbo." # "no mistaking her" -> "no longer any doubt"
+    m "Quando voltai l'angolo, non vi fu più alcun dubbio. [An] era coperta alla rinfusa da un lenzuolo, lasciando esposte la coda e una mano insanguinata. Alla fine, non le era stata nemmeno concessa la piena discrezione." # "no mistaking her" -> "no longer any doubt"; "her tail and A bloodstained hand"; "didn't even deserve" -> "wasn't even allowed"
 
 # game/chapter3.rpy:699
 translate italiantl chapter3_c72ebea5:
@@ -322,7 +322,7 @@ translate italiantl chapter3_1bc47770:
 translate italiantl chapter3_28556ada:
 
     # Br "A human going around murdering people won't go unnoticed for much longer. Higher authorities, including the ministry in charge of your whole visit will know about this soon. I have no idea what will happen once they do."
-    Br "Un umano che se ne va in giro a uccidere la gente non passerà inosservato ancora a lungo. Le autorità superiori, incluso il ministro responsabile della vostra intera visita, ne verranno presto a conoscenza. Non ho idea di cosa accadrà quando lo sapranno." # added comma to match line 868; "ministry" -> "minister"
+    Br "Un umano che se ne va in giro a uccidere la gente non passerà inosservato ancora a lungo. Le autorità superiori, incluso il ministero responsabile della vostra intera visita, ne verranno presto a conoscenza. Non ho idea di cosa accadrà quando lo sapranno." # added comma to match line 868
 
 # game/chapter3.rpy:835
 translate italiantl chapter3_6ceb347b:
@@ -346,7 +346,7 @@ translate italiantl chapter3_81a13922:
 translate italiantl chapter3_ba37bcc6:
 
     # Br "This way, we can take action before the ministry does, and before this all becomes public. If we wait, we don't know what they'll do or how the public will react. With everything going on, it's too dangerous for you to stay here."
-    Br "In questo modo, possiamo agire prima del ministro, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa farà o come reagirà la gente. Con tutto quello che accade, restare qui è troppo pericoloso per te." # "ministry" -> "minister"
+    Br "In questo modo, possiamo agire prima del ministero, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa faranno o come reagirà la gente. Con tutto quello che accade, restare qui è troppo pericoloso per te."
 
 # game/chapter3.rpy:843
 translate italiantl chapter3_e69e42b8:
@@ -407,7 +407,7 @@ translate italiantl c3contx_75df14fe:
 translate italiantl c3contx_8445db31:
 
     # Br "Higher authorities, including the ministry in charge of your whole visit, will know about this soon. I have no idea what will happen once they do."
-    Br "Le autorità superiori, incluso il ministro responsabile della vostra intera visita, ne verranno presto a conoscenza. Non ho idea di cosa accadrà quando lo sapranno." # see line 833
+    Br "Le autorità superiori, incluso il ministero responsabile della vostra intera visita, ne verranno presto a conoscenza. Non ho idea di cosa accadrà quando lo sapranno." # see line 833
 
 # game/chapter3.rpy:870
 translate italiantl c3contx_405efdd0:
@@ -425,7 +425,7 @@ translate italiantl c3contx_f5bf1324:
 translate italiantl c3contx_bf7bf6e1:
 
     # Br stern b "This way, we can take action before the ministry does, and before this all becomes public. If we wait, we don't know what they'll do or how the public will react."
-    Br stern b "In questo modo, possiamo agire prima del ministro, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa farà o come reagirà la gente." # see line 841
+    Br stern b "In questo modo, possiamo agire prima del ministero, e prima che tutto questo diventi di dominio pubblico. Se aspettiamo, non sappiamo cosa faranno o come reagirà la gente." # see line 841
 
 # game/chapter3.rpy:876
 translate italiantl c3contx_b6fb7f2e:
@@ -642,7 +642,7 @@ translate italiantl c3conty_a22ecafd:
 translate italiantl c3conty_daaf8bf3:
 
     # Br "Sebastian, you can finish up here and go to the Ministry when you're done. We'll probably have to make some arrangements after this meeting."
-    Br "[Sb], tu puoi concludere qui e andare al Ministero quando hai finito. Probabilmente dovremo sistemare alcune cose dopo questo incontro."
+    Br "[Sb], tu puoi concludere qui e andare dal Ministro quando hai finito. Probabilmente dovremo sistemare alcune cose dopo questo incontro." # "Ministry" -> "Minister"
 
 # game/chapter3.rpy:1052
 translate italiantl c3conty_ba0bb0d4:
@@ -1110,7 +1110,7 @@ translate italiantl c3conty_841f91fd:
 translate italiantl c3conty_6aa58db2:
 
     # Em frown "Reza himself may come to silence you once he learns that you are helping us. Or consider the public uproar from those who would question your involvement."
-    Em frown "[Rz] stesso potrebbe arrivare a farti tacere una volta che avesse appreso che ci stai aiutando. Oppure considera il tumulto popolare da parte di coloro che contesterebbero il tuo coinvolgimento." # corrected conditional tense "may come" -> "might come", "learns" -> "learned"
+    Em frown "[Rz] stesso potrebbe arrivare a farti tacere una volta che avesse appreso che ci stai aiutando. Oppure considera il tumulto popolare da parte di coloro che metterebbero in dubbio il tuo coinvolgimento." # corrected conditional tense "may come" -> "might come", "learns" -> "learned"
 
 # game/chapter3.rpy:1268
 translate italiantl c3conty_eeff36cd:
@@ -1146,7 +1146,7 @@ translate italiantl c3conty_65891781:
 translate italiantl c3conty_e990b073:
 
     # c "If you send me back now, this diplomatic relationship is over. I'd have to admit defeat to humanity. There is no way I can return without your generators, our PDAs, or Reza."
-    c "Se mi rimandate indietro adesso, questa relazione diplomatica è finita. Dovrei ammettere il mio fallimento all'umanità. Non c'è verso che io ritorni senza i vostri generatori, o il nostro palmare, o [Rz]." # "PDA[s]"
+    c "Se mi rimandate indietro adesso, questa relazione diplomatica sarà finita. Dovrei ammettere il mio fallimento all'umanità. Non c'è verso che io ritorni senza i vostri generatori, o il nostro palmare, o [Rz]." # "is over" -> "will be over"; "PDA[s]"
 
 # game/chapter3.rpy:1280
 translate italiantl c3conty_756044b5:
@@ -1158,7 +1158,7 @@ translate italiantl c3conty_756044b5:
 translate italiantl c3conty_09969fe1:
 
     # c "But I was his partner, so in a way, he is my responsibility. I can't just go back like this."
-    c "Ma io ero lə suə partner, quindi in un certo senso, lui è una mia responsabilità. Non posso semplicemente tornarmene indietro a questo modo."
+    c "Ma io ero lə suə partner, quindi in un certo senso, lui è una mia responsabilità. Non posso semplicemente tornarmene indietro in questo modo."
 
 # game/chapter3.rpy:1284
 translate italiantl c3conty_9d293594:
@@ -1212,7 +1212,7 @@ translate italiantl c3conty_42099f2a:
 translate italiantl c3conty_331c6f4f:
 
     # n "Conversely, our technological advancements had drastically increased quality of life. Humans were no longer required for strenuous and repetitive tasks. Education had reached an all-time high, and many new jobs were created. General happiness had reached levels never before seen."
-    n "Al contrario, i nostri avanzamenti tecnologici avevano drasticamente aumentato la qualità della vita. Gli umani non erano più tenuti ad attività strenue e ripetitive. L'istruzione aveva raggiunto i massimi storici, e si vennero a creare molti nuovi lavori. Il benessere generale aveva raggiunto livelli mai visti prima."
+    n "Al contrario, i nostri avanzamenti tecnologici avevano drasticamente aumentato la qualità della vita. Gli umani non erano più tenuti ad attività strenue e ripetitive. L'istruzione aveva raggiunto i massimi storici, e si erano creati molti nuovi lavori. La contentezza generale aveva raggiunto livelli mai visti prima."
 
 # game/chapter3.rpy:1315
 translate italiantl c3conty_522b4b27:
@@ -1320,7 +1320,7 @@ translate italiantl c3conty_920f6096:
 translate italiantl c3conty_33648959:
 
     # n "Facilities that stored weapons, fireworks or other explosives became centers of widespread destruction and loss of life."
-    n "Gli stabilimenti che custodivano armi, fuochi d'artificio o altri esplosivi si trasformarono nei centri di devastazione e perdita di vite umane."
+    n "Gli stabilimenti che custodivano armi, fuochi d'artificio o altri esplosivi si trasformarono in centri di devastazione e perdita di vite umane."
 
 # game/chapter3.rpy:1383
 translate italiantl c3conty_6bdd3699:
@@ -1410,7 +1410,7 @@ translate italiantl c3conty_76b2fe88_8:
 translate italiantl c3conty_88940164:
 
     # n "Our contained community has flourished for years now. We have homes to live in, crops to grow and livestock to raise, and still have our own, automated hospital that runs on salvaged generators. Lately, though, supplies have started to run low, and dangerously so."
-    n "La nostra comunità così contenuta prospera ormai da anni. Abbiamo case in cui vivere, coltivazioni e allevamenti, e abbiamo ancora un nostro ospedale automatizzato, alimentato da generatori di recupero. Di recente, però, le scorte hanno iniziato a scarseggiare, e anche pericolosamente."
+    n "La nostra comunità così contenuta prospera ormai da anni. Abbiamo case in cui vivere, coltivazioni e allevamenti, e abbiamo ancora un nostro ospedale automatizzato, alimentato da generatori di recupero. Di recente, però, le scorte hanno iniziato a scarseggiare, e in modo pericoloso."
 
 # game/chapter3.rpy:1422
 translate italiantl c3conty_2ae8294e:
@@ -1854,7 +1854,7 @@ translate italiantl c3conty_e9081881:
 translate italiantl c3conty_d0e627df:
 
     # c "It was the Minister's decision, not mine. You'll hear all about it soon enough."
-    c "È stata una decisione del ministro, non mia. Sentirai parlare molto presto di tutto quanto."
+    c "È stata una decisione del Ministro, non mia. Sentirai parlare molto presto di tutto quanto."
 
 # game/chapter3.rpy:1627
 translate italiantl c3conty_9e0d1804:
@@ -2423,7 +2423,7 @@ translate italiantl c3conty_76b2fe88_9:
 translate italiantl c3conty_f73eeb9c:
 
     # n "I took my place and stared toward the horizon while I thought about what would happen now, in this world and others."
-    n "Presi posto e fissai all'orizzonte mentre pensavo a quel che sarebbe accaduto adesso, in questo mondo e negli altri."
+    n "Presi posto e fissai all'orizzonte mentre pensavo a quel che sarebbe accaduto adesso, in questo mondo e nell'altro." # "others" -> "the other"
 
 # game/chapter3.rpy:1864
 translate italiantl c3conty_55484b1e:
@@ -2435,7 +2435,7 @@ translate italiantl c3conty_55484b1e:
 translate italiantl c3conty_b70e0a3d:
 
     # n "At the very least, I took comfort in the fact that I did everything I could to help, even if it turned out like this."
-    n "Se non altro, trovai conforto nel sapere che avevo fatto tutto ciò che potevo per aiutare, anche se era andata a finire così."
+    n "Se non altro, trovai conforto nel sapere che avevo fatto tutto il possibile per aiutare, anche se era andata a finire così."
 
 # game/chapter3.rpy:1868
 translate italiantl c3conty_d96fb820:
@@ -2467,7 +2467,7 @@ translate italiantl c3conty_51bd26c2:
 translate italiantl c3conty_9d33b82e:
 
     # n "I still remembered the images I saw when I teleported the first time, the vivid sights and patterns. People and situations I have recognized since then. It only took a moment to arrive at the other side of the portal, yet it felt like I had dreamed a thousand dreams."
-    n "Ricordavo ancora le immagini che avevo visto quand'ero statə teletrasportatə la prima volta, i vividi scenari e motivi. Persone e situazioni che sin da allora ho riconosciuto. Un solo attimo era bastato per giungere all'altro lato del portale, eppure era sembrato come se avessi sognato mille sogni."
+    n "Rammentavo ancora le immagini che avevo visto quando ero statə teletrasportatə la prima volta, i vividi scenari e motivi. Persone e situazioni che da allora avrei riconosciuto. Un solo istante era bastato per giungere all'altro lato del portale, eppure era sembrato come se avessi sognato mille sogni." # "I have recognized" -> "I would recognize"
 
 # game/chapter3.rpy:1882
 translate italiantl c3conty_a70d6f31:
@@ -2589,13 +2589,13 @@ translate italiantl c3conty_26c97bce:
 translate italiantl c3conty_929882d8:
 
     # Sb "Let's head back. The Chief has to know about this right away."
-    Sb "Torniamo indietro. Il capo dev'esserne subito informato." # corrected lowercase letter of "Chief"
+    Sb "Torniamo indietro. Il capo dev'esserne subito informato." # corrected lowercase letter of "chief"
 
 # game/chapter3.rpy:1959
 translate italiantl c3conty_8b24b374:
 
     # m "We were back at the Ministry before long. Emera and Bryce were still outside, as Remy approached the two of them."
-    m "Fummo ben presto di ritorno al Ministero. [Em] e [Br] erano ancora di fuori, quando [Ry] avvicinò i due."
+    m "Fummo ben presto di ritorno al ministero. [Em] e [Br] erano ancora di fuori, quando [Ry] avvicinò i due." # corrected lowercase letter of "ministry"
 
 # game/chapter3.rpy:1963
 translate italiantl c3conty_48f06d44:
@@ -2871,7 +2871,7 @@ translate italiantl c3conty_bc8855dc:
 translate italiantl c3conty_9d135001:
 
     # m "After I closed the door and started to walk away, I heard the voices resume."
-    m "Dopo ch'ebbi chiuso la porta e iniziato ad allontanarmi, sentii riprendere le voci."
+    m "Dopo che ebbi chiuso la porta e iniziato ad allontanarmi, sentii riprendere le voci."
 
 # game/chapter3.rpy:2098
 translate italiantl c3conty_ead9be5c:
@@ -2961,7 +2961,7 @@ translate italiantl c3conty_ef6c3c24:
 translate italiantl c3conty_b7d62b76:
 
     # Sb "I guess she just missed the part about the portal being vandalized."
-    Sb "Immagino soltanto le sia sfuggita la parte in cui il portale è stato vandalizzato."
+    Sb "Immagino le sia solo sfuggita la parte in cui il portale è stato vandalizzato."
 
 # game/chapter3.rpy:2144
 translate italiantl c3conty_d942e538:
@@ -3111,7 +3111,7 @@ translate italiantl c3conty_14c3ff17:
 translate italiantl c3conty_cc8600ac:
 
     # Sb "I'm sure that wouldn't be the only reason they'd benefit, though. There must be something we're not aware of."
-    Sb "Sono sicuro che non sarebbe il solo vantaggio che ne trarrebbero, comunque. Dev'esserci qualcosa di cui siamo all'oscuro."
+    Sb "Sono certo che non sarebbe il solo vantaggio che ne trarrebbero, comunque. Dev'esserci qualcosa di cui siamo all'oscuro."
 
 # game/chapter3.rpy:2198
 translate italiantl c3conty_84e44e93:
@@ -4131,7 +4131,7 @@ translate italiantl c3fac_6696b4fb:
 translate italiantl c3fac_932495f5:
 
     # c "Well, according to my information, you didn't particularly like the victim. Not only were you the last person to see her alive, but you were also the one who found her. As you may imagine, this warrants some questions."
-    c "Be', stando alle mie informazioni, la vittima non ti piaceva particolarmente. Non solo sei stato l'ultimo a vederla viva, ma sei anche colui che l'ha trovata. Come puoi immaginare, questo solleva alcune domande." # "warrants" -> "raises"
+    c "Be', stando alle mie informazioni, la vittima non ti piaceva particolarmente. Non solo sei stato l'ultima persona a vederla viva, ma sei anche colui che l'ha rinvenuta. Come puoi immaginare, questo solleva alcune domande." # "warrants" -> "raises"
 
 # game/chapter3.rpy:2870
 translate italiantl c3fac_e8ad2f88:
@@ -4539,7 +4539,7 @@ translate italiantl _call_syscheck_17_8acf735a:
 translate italiantl c3arc_422f5855:
 
     # m "I was on my way to the police station when a voice called out to me."
-    m "M'incamminavo alla stazione di polizia quando chiamarono a gran voce verso di me."
+    m "Mi incamminavo alla stazione di polizia quando chiamarono a gran voce verso di me."
 
 # game/chapter3.rpy:3254
 translate italiantl c3arc_ca96f7d9:
@@ -4605,7 +4605,7 @@ translate italiantl c3arc_05fbb388:
 translate italiantl c3arc_a18ff829:
 
     # Ka normal dk "Now, I already tried just pulling it out, but I think the axle is going to break if I try to do that again. It wasn't really in the best condition to begin with, honestly, and I heard a crack when I tried to pull it out earlier."
-    Ka normal dk "Ora, ho già provato semplicemente a tirarlo fuori, ma credo che l'asse finirà per cedere se proverò a rifarlo. Non era proprio nelle migliori condizioni sin dal principio, onestamente, e ho sentito un crac quando prima ho provato a tirarlo fuori."
+    Ka normal dk "Ora, ho già provato semplicemente a tirarlo fuori, ma credo che l'asse finirà per cedere se proverò a rifarlo. Non era proprio nelle migliori condizioni sin dall'inizio, onestamente, e ho sentito un crac quando prima ho provato a tirarlo fuori."
 
 # game/chapter3.rpy:3294
 translate italiantl c3arc_7860fa8b:
@@ -5203,7 +5203,7 @@ translate italiantl c3sto_4dce18a1:
 translate italiantl c3sto_01bee951:
 
     # c "(Hey, I think I've seen her before.)"
-    c "(Ehi, credo di averla già vista.)" # see line 1292 of chapter 2
+    c "(Ehi, credo di averla già vista prima.)" # see line 1292 of chapter 2
 
 # game/chapter3.rpy:3835
 translate italiantl c3sto_8d6362b2:
@@ -5269,7 +5269,7 @@ translate italiantl c3sto_1bec09e5:
 translate italiantl c3sto_9d4723cf:
 
     # c "I'm here on behalf of the police, and I was hoping that you could answer a few questions."
-    c "Sono qui per conto della polizia, e speravo potessi rispondere a qualche domanda."
+    c "Sono qui per conto della polizia, e speravo potessi rispondere ad alcune domande."
 
 # game/chapter3.rpy:3873
 translate italiantl c3sto_d534d27e:
@@ -5701,7 +5701,7 @@ translate italiantl c3go_97955863:
 translate italiantl c3go_73925600:
 
     # Sb "It raises more questions than it answers. How could something like a whole building end up in our world? It's a mystery that needs to be answered."
-    Sb "Solleva più domande di quante a cui risponda. Come ha potuto qualcosa come un intero edificio finire nel nostro mondo? È un mistero cui va data risposta."
+    Sb "Solleva più domande che risposte. Come ha potuto qualcosa come un intero edificio finire nel nostro mondo? È un mistero cui va data risposta."
 
 # game/chapter3.rpy:4214
 translate italiantl c3go_33fe9f85:
@@ -5923,13 +5923,13 @@ translate italiantl _call_syscheck_26_bfd65b37:
 translate italiantl _call_syscheck_26_e2a3b9f7:
 
     # c "And the plot thickens."
-    c "E la trama s'infittisce."
+    c "E la trama si infittisce."
 
 # game/chapter3.rpy:4396
 translate italiantl _call_syscheck_26_f8b6ed8e:
 
     # m "He cocked his head to the side. We both peered into the trash can that was next to the table, but it was empty."
-    m "Inclinò la testa da un lato. Sbirciammo entrambi nel cestino dei rifiuti che era accanto al tavolo, ma questo era vuoto."
+    m "Inclinò il capo da un lato. Sbirciammo entrambi nel cestino dei rifiuti che era accanto al tavolo, ma questo era vuoto."
 
 # game/chapter3.rpy:4398
 translate italiantl _call_syscheck_26_96448e70:

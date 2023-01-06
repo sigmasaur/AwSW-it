@@ -88,7 +88,7 @@ translate italiantl _call_skipcheck_22_0054b77b:
 translate italiantl _call_skipcheck_22_6788763a:
 
     # m "It was quite a spacious building, lined with many bookcases on multiple floors. From the looks of it, it seemed to be as much of an archive as it was a library, with immaculate order permeating the chamber. It was the kind of place I could see myself getting lost in for an afternoon or two, thumbing through all the interesting books it could offer me."
-    m "Era un edificio alquanto spazioso, affiancato da molti scaffali su molteplici piani. Dall'aspetto, sembrava essere tanto un archivio quanto era una biblioteca, con un ordine immacolato che permeava la sala. Era il tipo di posto in cui mi ci vedevo a perdermi per un pomeriggio o due, sfogliando tutti i libri interessanti che poteva offrirmi."
+    m "Era un edificio alquanto spazioso, affiancato da molti scaffali su molteplici piani. Dall'aspetto, sembrava essere tanto un archivio quanto era una biblioteca, con un ordine immacolato che permeava la sala. Era il tipo di posto in cui mi ci vedevo bene a perdermici per un pomeriggio o due, sfogliando tutti i libri interessanti che poteva offrirmi."
 
 # game/remy1.rpy:121
 translate italiantl _call_skipcheck_22_97628180:
@@ -142,7 +142,7 @@ translate italiantl _call_skipcheck_22_4000d24e:
 translate italiantl _call_skipcheck_22_3e416787:
 
     # Em "Guess your assumption was wrong, then. Be a good boy and bring me some coffee, will you?"
-    Em "Immagino tu abbia sbagliato a supporre, allora. Sii un bravo ragazzo e portami del caffè, ti spiace?"
+    Em "Immagino tu abbia sbagliato a supporre, allora. Fai il bravo ragazzo e portami del caffè, ti spiace?"
 
 # game/remy1.rpy:144
 translate italiantl _call_skipcheck_22_17c1de41:
@@ -154,7 +154,7 @@ translate italiantl _call_skipcheck_22_17c1de41:
 translate italiantl _call_skipcheck_22_088c5d29:
 
     # m "I heard more movement, though I still could not see either of the two who spoke behind all the bookcases. I assumed the area was off-limits to a visitor like myself and decided to wait."
-    m "Sentii altro movimento, sebbene ancora non potessi vedere nessuno dei due che avevano parlato dietro a tutti gli scaffali. Presumendo che la zona fosse preclusa ai visitatori come me, decisi di aspettare." # "I assumed" -> "assuming", "and decided" -> ", I decided"
+    m "Sentii dell'altro movimento, sebbene ancora non potessi vedere nessuno dei due che avevano parlato dietro a tutti gli scaffali. Presumendo che la zona fosse preclusa ai visitatori come me, decisi di aspettare." # "I assumed" -> "assuming", "and decided" -> ", I decided"
 
 # game/remy1.rpy:146
 translate italiantl _call_skipcheck_22_74d7fe9d:
@@ -418,7 +418,7 @@ translate italiantl _call_skipcheck_22_25021eee:
 translate italiantl _call_skipcheck_22_b53b83fe:
 
     # Ry "All of them are by Haziq Aakil, a writer on the subject of history - and a very prolific one, I might add. You will find the shelf they belong to over there. Now it is just a matter of placing them in the right order, from oldest to newest."
-    Ry "Sono tutti di Haziq Aakil, uno scrittore in materia di storia—e uno anche molto prolifico, aggiungerei. Laggiù troverai lo scaffale a cui appartengono. Ora è solo questione di metterli nel giusto ordine, dal più vecchio al più nuovo." # corrected em-dash
+    Ry "Sono tutti di Haziq Aakil, uno scrittore in materia di storia—uno anche molto prolifico, aggiungerei. Laggiù troverai lo scaffale cui appartengono. Ora è solo questione di metterli nel giusto ordine, dal più vecchio al più nuovo." # corrected em-dash
 
 # game/remy1.rpy:313
 translate italiantl _call_skipcheck_22_8f3517f3:
@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_22_8f3517f3:
 translate italiantl _call_skipcheck_22_77d6d50d:
 
     # Ry "In any case, I'll be working on something else in the meantime, so let me know once you're done."
-    Ry "In ogni caso, nel frattempo sarò a lavorare a qualcos'altro, quindi fammi sapere una volta che hai finito."
+    Ry "In ogni caso, nel frattempo sarò al lavoro su qualcos'altro, quindi fammi sapere una volta che hai finito."
 
 # game/remy1.rpy:323
 translate italiantl reset_76b2fe88:
@@ -832,7 +832,7 @@ translate italiantl remycont_b5d687eb:
 translate italiantl remycont_ec80488f:
 
     # c "(Phew, that is heavier than I thought.)"
-    c "(Phew, è più pesante di quel che pensavo.)"
+    c "(Phew, è più pesante di quanto pensassi.)"
 
 # game/remy1.rpy:1043
 translate italiantl remycont_5d9f39f8:
@@ -1151,7 +1151,7 @@ translate italiantl remystuff_97afbb15:
 translate italiantl remystuff_956d61cb:
 
     # c "What else have you discovered about it?"
-    c "Cos'altro avete scoperto a proposito?"
+    c "Cos'altro avete scoperto al riguardo?"
 
 # game/remy1.rpy:1174
 translate italiantl remystuff_359dd383:
@@ -1259,7 +1259,7 @@ translate italiantl remystuff_93b1ebc8:
 translate italiantl remystuff_f6f7b1a2:
 
     # Ry "I see. It was nice of you to volunteer when you must have known there would be considerable risks in coming here."
-    Ry "Capisco. È stato bello da parte tua offrirti volontariə pur dovendo sapere che ci sarebbero stati rischi considerevoli a venire qui." # "when" -> "even though"
+    Ry "Capisco. È stato bello da parte tua offrirti volontariə pur dovendo sapere che ci sarebbero stati rischi considerevoli nel venire qui." # "when" -> "even though"
 
 # game/remy1.rpy:1214
 translate italiantl remystuff_e3c5e20f:
@@ -1409,7 +1409,7 @@ translate italiantl remyoffmenu_d356bb2f:
 translate italiantl remyoffmenu_31b1650c:
 
     # c "(Nothing happened.)"
-    c "(Non è successo nulla.)"
+    c "(Non è successo niente.)"
 
 # game/remy1.rpy:1305
 translate italiantl remyoffmenu_ace21fc4:
@@ -1421,7 +1421,7 @@ translate italiantl remyoffmenu_ace21fc4:
 translate italiantl remyoffmenu_31b1650c_1:
 
     # c "(Nothing happened.)"
-    c "(Non è successo nulla.)"
+    c "(Non è successo niente.)"
 
 # game/remy1.rpy:1312
 translate italiantl remyoffmenu_c93ecb8d:

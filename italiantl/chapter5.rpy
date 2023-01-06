@@ -130,7 +130,7 @@ translate italiantl _call_endingjustafewminuteslater_a3339a21:
 translate italiantl _call_endingjustafewminuteslater_3a7a8c67:
 
     # c "After the police reclaimed the generators you stole, it was easy for me to take one when I was alone in the department, just in case."
-    c "Dopo che la polizia ha rivendicato i generatori che avevi rubato, mi è stato facile prenderne uno quand'ero solə al dipartimento, ad ogni buon conto."
+    c "Dopo che la polizia ha rivendicato i generatori che avevi rubato, mi è stato facile prenderne uno quando ero solə al dipartimento, ad ogni buon conto."
 
 # game/chapter5.rpy:578
 translate italiantl _call_endingjustafewminuteslater_46985aa4:
@@ -172,7 +172,7 @@ translate italiantl _call_endingjustafewminuteslater_a04a361a:
 translate italiantl _call_endingjustafewminuteslater_861dff8c:
 
     # m "Reza was right. In reality, the bomb provided no real leverage against him. If his goal was truly to save our city back home at any costs, he would not turn himself in. Even if the threat of setting off the bomb was a real one, his best chance would be to at least try to kill me now."
-    m "[Rz] aveva ragione. In realtà, la bomba non avrebbe fatto su di lui alcuna vera pressione. Se il suo obiettivo era veramente di salvare la nostra città ad ogni costo, non si sarebbe mai consegnato. E se anche la minaccia di innescare la bomba fosse stata reale, quantomeno tentare di uccidermi adesso era la sua migliore possibilità." # "our city [back home]"; "not turn" -> "never turn"; "AND even if"
+    m "[Rz] aveva ragione. In realtà, la bomba non forniva alcun reale vantaggio contro di lui. Se il suo obiettivo era veramente salvare la nostra città ad ogni costo, non si sarebbe mai consegnato. E se anche la minaccia di innescare la bomba fosse stata reale, quantomeno tentare di uccidermi adesso era la sua migliore possibilità." # "leverage" -> "advantage"; "our city [back home]"; "not turn" -> "never turn"; "AND even if"
 
 # game/chapter5.rpy:596
 translate italiantl _call_endingjustafewminuteslater_69f65a19:
@@ -190,7 +190,7 @@ translate italiantl _call_endingjustafewminuteslater_7ea9afa3:
 translate italiantl _call_endingjustafewminuteslater_6bb0c534:
 
     # m "I heard gunshots. Immediately I felt the most excruciating pain I’ve ever experienced resonate through my arm. As I kept sprinting as fast as I could, I heard a beeping sound that made me realize I had inadvertently activated the bomb when I was hit."
-    m "Sentii dei colpi di pistola. Immediatamente avvertii il dolore più lancinante che avessi mai provato riverberarmi attraverso il braccio. Mentre continuavo a correre più veloce che potevo, udii un segnale acustico che mi fece realizzare come avessi inavvertitamente attivato la bomba quand'ero statə colpitə."
+    m "Sentii dei colpi di pistola. Immediatamente avvertii il dolore più lancinante che avessi mai provato riverberarmi attraverso il braccio. Mentre continuavo a correre più veloce che potevo, udii un segnale acustico che mi fece realizzare come avessi inavvertitamente attivato la bomba quando ero statə colpitə."
 
 # game/chapter5.rpy:608
 translate italiantl _call_endingjustafewminuteslater_fcdea398:

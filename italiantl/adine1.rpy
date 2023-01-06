@@ -340,7 +340,7 @@ translate italiantl _call_skipcheck_10_4252207b:
 translate italiantl _call_skipcheck_10_719209ef:
 
     # Ad "I can't really take them in and care for them 24/7 like a proper parent would. I'd love to, but I work far too much to be a single parent."
-    Ad "Non è che possa prenderli con me e aver cura di loro ventiquattr'ore al giorno come farebbe un genitore vero e proprio. Vorrei tanto, ma lavoro fin troppo per fare il genitore single."
+    Ad "Non è che possa prenderli con me e aver cura di loro ventiquattr'ore al giorno come farebbe un genitore vero e proprio. Vorrei tanto, ma lavoro fin troppo per fare da genitore unico."
 
 # game/adine1.rpy:310
 translate italiantl _call_skipcheck_10_6dae616b:
@@ -670,7 +670,7 @@ translate italiantl _call_skipcheck_10_a498f8f9:
 translate italiantl _call_skipcheck_10_4e5a4202:
 
     # c "Why?"
-    c "Perché?"
+    c "Come mai?"
 
 # game/adine1.rpy:481
 translate italiantl _call_skipcheck_10_dc481bac:
@@ -748,7 +748,7 @@ translate italiantl _call_skipcheck_10_5479d226:
 translate italiantl _call_skipcheck_10_ef4c12fa:
 
     # Ad "By the way, interesting selection of books you have there. \"Draconic Desire\", \"Ixomen Sphere\" - are these yours?"
-    Ad "Interessante selezione di libri che hai lì, comunque. \"Desiderio Draconico\", \"La Sfera di Ixomen\"—sono tuoi?" # corrected em-dash; "THE Ixomen Sphere"
+    Ad "Ad ogni modo, interessante selezione di libri che hai lì. \"Desiderio Draconico\", \"La Sfera di Ixomen\"—sono tuoi?" # corrected em-dash; "THE Ixomen Sphere"
 
 # game/adine1.rpy:521
 translate italiantl _call_skipcheck_10_304794b1:
@@ -1054,7 +1054,7 @@ translate italiantl nextsc_0532a010:
 translate italiantl nextsc_206795eb:
 
     # c "Well, keep in mind that revenge might be coming quicker than you think, so don't ask someone for anything you wouldn't do yourself."
-    c "Be', tieni a mente che la rivincita potrebbe arrivare prima di quello che pensi, quindi non chiedere a qualcuno di fare niente che non faresti tu stessa." # "quicker" -> "earlier"
+    c "Be', tieni a mente che la rivincita potrebbe arrivare prima di quanto pensi, quindi non chiedere a qualcuno di fare niente che non faresti tu stessa." # "quicker" -> "earlier"
 
 # game/adine1.rpy:739
 translate italiantl nextsc_b0e643f3:
@@ -1144,7 +1144,7 @@ translate italiantl nextsc_8a18e93a:
 translate italiantl nextsc_f0510f43:
 
     # Ad "There was this one time when I was still a teenager. I was messing around and wanted to try out a new flying maneuver: a barrel roll. Needless to say, it ended badly."
-    Ad "C'è stata questa volta quand'ero ancora un'adolescente. Passavo un po' il tempo e volevo provare una nuova manovra di volo: un mulinello. È inutile dire che non è finita bene."
+    Ad "C'è stata questa volta quando ero ancora un'adolescente. Passavo un po' il tempo e volevo provare una nuova manovra di volo: un mulinello. È inutile dire che non è finita bene."
 
 # game/adine1.rpy:776
 translate italiantl nextsc_b917eced:
@@ -1258,7 +1258,7 @@ translate italiantl nextsc_1531db24:
 translate italiantl nextsc_a70918ca:
 
     # Ad "Didn't you hear about that? They found a whole building along with the portal."
-    Ad "Non ne hai sentito parlare? Assieme al portale hanno trovato un intero edificio."
+    Ad "Non ne hai sentito parlare? Hanno trovato un intero edificio assieme al portale."
 
 # game/adine1.rpy:826
 translate italiantl nextsc_e950f342:

@@ -34,7 +34,7 @@ translate italiantl remy5_8aa8fa3e:
 translate italiantl remy5_88f8a48d:
 
     # c "Looks deserted to me. I thought everyone was watching the fireworks."
-    c "Mi sembra deserto. Pensavo che tutti quanti guardassero i fuochi." # see line 54 of Bryce 5
+    c "Mi sembra deserto. Credevo che tutti quanti guardassero i fuochi." # see line 54 of Bryce 5
 
 # game/remy5.rpy:38
 translate italiantl remy5_444d83a8:
@@ -406,7 +406,7 @@ translate italiantl _call_endingjustafewminuteslater_2_c1e88029:
 translate italiantl _call_endingjustafewminuteslater_2_0536cfc8:
 
     # m "I put some pressure on his wound, momentarily halting the blood that was trickling down his body."
-    m "Feci un po' di pressione sulla sua ferita, arrestando momentaneamente il sangue che gli gocciolava dal corpo."
+    m "Feci un po' di pressione sulla sua ferita, arrestando momentaneamente il sangue che gli gocciava dal corpo."
 
 # game/remy5.rpy:349
 translate italiantl _call_endingjustafewminuteslater_2_f81adf84:
@@ -484,7 +484,7 @@ translate italiantl _call_endingjustafewminuteslater_2_e1fe309d:
 translate italiantl _call_endingjustafewminuteslater_2_0349788f:
 
     # Ry shy "You don't know how it is to live every day as I have, always wondering if the pain will ever stop or if things will ever change again."
-    Ry shy "Tu non sai com'è vivere ogni giorno come vivo io, chiedendosi sempre se il dolore smetterà mai o se le cose cambieranno mai di nuovo."
+    Ry shy "Tu non sai com'è vivere ogni giorno come vivo io, chiedendosi sempre se il dolore smetterà mai o se le cose cambieranno mai ancora."
 
 # game/remy5.rpy:377
 translate italiantl _call_endingjustafewminuteslater_2_37baa483:
@@ -700,7 +700,7 @@ translate italiantl _call_endingjustafewminuteslater_2_48575716:
 translate italiantl _call_endingjustafewminuteslater_2_29e38b00:
 
     # n "After a few days of checking building after building and getting to know my new surroundings, I was surprised to see a shadow flying overhead."
-    n "Dopo alcuni giorni passati a controllare edificio dopo edificio e a conoscere il mio nuovo ambiente, fui sorpresə di scorgere un'ombra volare là in alto." # "a few days of" -> "a few days spent"
+    n "Dopo alcuni giorni passati a controllare edificio dopo edificio e a conoscere il mio nuovo ambiente, fui sorpresə di scorgere un'ombra volare lassù in alto." # "a few days of" -> "a few days spent"
 
 # game/remy5.rpy:481
 translate italiantl _call_endingjustafewminuteslater_2_909159db:
@@ -850,7 +850,7 @@ translate italiantl _call_endingjustafewminuteslater_2_955c61cc:
 translate italiantl _call_endingjustafewminuteslater_2_0aef8823:
 
     # m "Either way, I would do what I could to make things right."
-    m "Comunque fosse, avrei fatto quel che potevo per aggiustare le cose."
+    m "Comunque fosse, avrei fatto il possibile per aggiustare le cose."
 
 # game/remy5.rpy:549
 translate italiantl _call_endingjustafewminuteslater_2_4009b000:

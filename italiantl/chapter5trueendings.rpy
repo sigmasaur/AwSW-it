@@ -22,7 +22,7 @@ translate italiantl trueendings_ae02df19:
 translate italiantl trueendings_2666e2a6:
 
     # Ry normal "Well, the science behind the time travelling is actually sound and doesn't contradict anything we know about the portal."
-    Ry normal "Be', la scienza dietro al viaggio nel tempo in effetti è solida e non contraddice nulla di quel che sappiamo sul portale."
+    Ry normal "Be', la scienza dietro al viaggio nel tempo in effetti è solida e non contraddice nulla di ciò che sappiamo sul portale."
 
 # game/chapter5trueendings.rpy:35
 translate italiantl trueendings_96f460cd:
@@ -34,7 +34,7 @@ translate italiantl trueendings_96f460cd:
 translate italiantl trueendings_74a3c2d6:
 
     # Lo relieved "It does confirm what my roommate has been learning - and my own experience. I can't believe this all happened to you, [player_name]."
-    Lo relieved "In effetti conferma quello che ha appreso il mio coinquilino—e la mia stessa esperienza. Non posso credere che ti è successo tutto questo, [player_name]." # corrected em-dash
+    Lo relieved "In effetti conferma quanto appreso dal mio coinquilino—e la mia stessa esperienza. Non posso credere che ti è successo tutto questo, [player_name]." # corrected em-dash
 
 # game/chapter5trueendings.rpy:41
 translate italiantl trueendings_f0fbda48:
@@ -593,7 +593,7 @@ translate italiantl trueendings_5253329b:
 translate italiantl trueendings_284d1aee:
 
     # An "I might as well go through the portal myself if I'd just end up getting arrested here. Just saying."
-    An "Dico solo che potrei anche attraversare io stessa il portale se tanto finirò per essere arrestata qui."
+    An "Dico solo che potrei anche attraversare il portale io stessa se tanto finirò per essere arrestata qui."
 
 # game/chapter5trueendings.rpy:282
 translate italiantl trueendings_9f923c35:
@@ -1770,7 +1770,7 @@ translate italiantl trueendings_06c60fe2:
 translate italiantl trueendings_b32c0313:
 
     # Iz "When I was accidentally sent back in time, I wasn't alone."
-    Iz "Quando fui accidentalmente mandata indietro nel tempo, non ero da sola."
+    Iz "Quando fui accidentalmente mandata indietro nel tempo, non ero sola."
 
 # game/chapter5trueendings.rpy:930
 translate italiantl trueendings_3070bc42_2:
@@ -2136,7 +2136,7 @@ translate italiantl trueendings_e2e696ab:
 translate italiantl trueendings_2eb7337e:
 
     # Hz "Dragons are scary, aren't they? This could even be a psychological component. To be fair, getting all of those into the same species could be complicated."
-    Hz "I draghi fanno paura, dico bene? Potrebbe anche essere una componente psicologica. Ad essere onesti, farle entrare tutte nella stessa specie potrebbe essere complicato."
+    Hz "I draghi fanno paura, dico bene? Potrebbe anche essere una componente psicologica. Ad essere onesti, farcele entrare tutte in una stessa specie potrebbe essere complicato."
 
 # game/chapter5trueendings.rpy:1086
 translate italiantl trueendings_dd2718be:
@@ -2568,7 +2568,7 @@ translate italiantl trueendings_db465650:
 translate italiantl trueendings_df1aabde:
 
     # m "Heinz keeled over, his eyes opening widely into an unfocused stare. He stopped moving before a bit of foam started appearing at his mouth."
-    m "[Hz] si arrovesciò in avanti, gli occhi sbarrati e lo sguardo perso nel vuoto. Smise di muoversi prima che un po' di schiuma iniziasse a comparirgli sulla bocca." # "his eyes opening widely into an unfocused stare" -> "his eyes widely open and his stare unfocused"
+    m "[Hz] si arrovesciò in avanti, gli occhi sbarrati e lo sguardo perso nel vuoto. Smise di muoversi prima che un po' di schiuma iniziasse a comparirgli alla bocca." # "his eyes opening widely into an unfocused stare" -> "his eyes widely open and his stare unfocused"
 
 # game/chapter5trueendings.rpy:1296
 translate italiantl trueendings_2cd55b70:
@@ -2658,7 +2658,7 @@ translate italiantl trueendings_41e4c8d0:
 translate italiantl trueendings_4e98ab61:
 
     # n "By the time I left, they didn't even need me anymore. They had become completely self-sufficient."
-    n "Per quando me ne andai, di me non avevano più bisogno. Erano diventati completamente autosufficienti." # "they didn't [even] need me anymore"
+    n "Per quando me ne andai, di me non avevano più bisogno. Erano divenuti completamente autosufficienti." # "they didn't [even] need me anymore"
 
 # game/chapter5trueendings.rpy:1434
 translate italiantl trueendings_76b2fe88_13:

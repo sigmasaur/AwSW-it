@@ -423,7 +423,7 @@ translate italiantl _call_skipcheck_6_8ac9160f:
 translate italiantl _call_skipcheck_6_6433142c:
 
     # Br brow "Not that I know of. You'd probably have to ask someone who knows more about our world than I do."
-    Br brow "Non che io sappia. Probabilmente dovresti chiedere a qualcuno che ne sa più di me del nostro mondo."
+    Br brow "Non che io sappia. Probabilmente dovresti chiedere a qualcuno che ne sa più di me sul nostro mondo."
 
 # game/bryce2.rpy:373
 translate italiantl _call_skipcheck_6_63a3d11b:
@@ -435,7 +435,7 @@ translate italiantl _call_skipcheck_6_63a3d11b:
 translate italiantl _call_skipcheck_6_023c8305:
 
     # Br laugh "Well, we do get the occasional explorer who ventures out into uncharted seas, but I don't really keep track of that kind of thing."
-    Br laugh "Be', ogni tanto ci capita un esploratore che si avventura in acque sconosciute, ma non è che tenga traccia di quel genere di cose." # "seas" -> "waters"
+    Br laugh "Be', ogni tanto ci capita un esploratore che si avventura in acque sconosciute, ma non è che io tenga traccia di quel genere di cose." # "seas" -> "waters"
 
 # game/bryce2.rpy:377
 translate italiantl _call_skipcheck_6_83b5e915:
@@ -507,7 +507,7 @@ translate italiantl _call_skipcheck_6_c48dc32f:
 translate italiantl _call_skipcheck_6_1eeb503d:
 
     # Br "Alright, put your hand on my forearm."
-    Br "D'accordo, metti la mano sul mio avambraccio."
+    Br "E va bene, metti la mano sul mio avambraccio."
 
 # game/bryce2.rpy:426
 translate italiantl _call_skipcheck_6_7e66a485:
@@ -561,7 +561,7 @@ translate italiantl _call_skipcheck_6_4cb247e4:
 translate italiantl _call_skipcheck_6_5abc3a68:
 
     # m "His forearm shifted, the shape of his muscles changing as they became more defined. In a moment, they were firm and bulging, his scales flaring under the stress and looking as though they might pop off at any moment. It reminded me of a flexing body builder in a skin-tight lycra suit."
-    m "Il suo avambraccio si mosse, la forma dei suoi muscoli che cambiava mentre diventavano più definiti. In un attimo, erano sodi e rigonfi; le sue squame, dilatate sotto la tensione, sembrava come se potessero saltar via da un momento all'altro. Ricordava un culturista che si mostra in una tuta di lycra attillata."
+    m "Il suo avambraccio si mosse, la forma dei suoi muscoli che cambiava mentre diventavano più definiti. In un attimo, erano sodi e rigonfi; le sue squame, dilatate sotto la tensione, sembrava come se potessero saltare via da un momento all'altro. Ricordava un culturista che si mostra in una tuta di lycra attillata."
 
 # game/bryce2.rpy:471
 translate italiantl _call_skipcheck_6_5e4e6a9f:
@@ -771,7 +771,7 @@ translate italiantl _call_skipcheck_6_7aac2c61:
 translate italiantl _call_skipcheck_6_8bf11d0a:
 
     # Br brow "I'm just thinking out loud, but Reza was the first of your kind to come here. He arranged the generator and PDA trade and then you came through the portal to deliver your part of the deal."
-    Br brow "Sto solo pensando ad alta voce, ma [Rz] è stato il primo della tua specie a venire qui. Ha organizzato lo scambio dei generatori coi palmari e poi tu hai attraversato il portale per mantenere la vostra parte dell'accordo."
+    Br brow "Sto solo pensando ad alta voce, ma [Rz] è stato il primo della tua specie a venire qui. Lui ha organizzato lo scambio dei generatori coi palmari e poi tu hai attraversato il portale per mantenere la vostra parte dell'accordo."
 
 # game/bryce2.rpy:586
 translate italiantl _call_skipcheck_6_a2ed9142:
@@ -909,7 +909,7 @@ translate italiantl _call_syscheck_32_51f48989:
 translate italiantl _call_syscheck_32_85b087cd:
 
     # m "Bold letters proclaimed the magazine's title as {i}Universal Fitness{/i}, its models on the cover catching my eye with their confident and athletic poses."
-    m "A caratteri cubitali, il titolo della rivista proclamava {i}Universal Fitness{/i}, i modelli in copertina che catturavano il mio sguardo con le loro pose atletiche e disinvolte."
+    m "A caratteri cubitali, il titolo della rivista proclamava {i}Universo della Forma{/i}, i modelli in copertina che catturavano il mio sguardo con le loro pose atletiche e disinvolte."
 
 # game/bryce2.rpy:720
 translate italiantl _call_syscheck_32_71566561:
@@ -981,7 +981,7 @@ translate italiantl _call_syscheck_34_a89f6ecf:
 translate italiantl bryce2cont2_7a9a4748:
 
     # m "He carefully set the basket on the coffee table and took out the beers one-by-one. Once he was done, he swatted the empty basket into a far corner."
-    m "Posò cautamente la cesta sul tavolino da caffè e tirò fuori le birre una per una. Una volta ch'ebbe finito, spedì la cesta vuota in un angolo, lontano."
+    m "Posò cautamente la cesta sul tavolino da caffè e tirò fuori le birre una per una. Una volta che ebbe finito, spedì la cesta vuota in un angolo, lontano."
 
 # game/bryce2.rpy:809
 translate italiantl bryce2cont2_230b2278:
@@ -1005,7 +1005,7 @@ translate italiantl bryce2cont2_1175063f:
 translate italiantl bryce2cont2_d950189d:
 
     # Br laugh "Sweet, sweet nectar. Always does its job."
-    Br laugh "Dolce, dolce nettare. Fa sempre il suo lavoro."
+    Br laugh "Dolce, dolce nettare. Fa sempre il suo dovere."
 
 # game/bryce2.rpy:823
 translate italiantl bryce2cont2_faad1838:
@@ -1317,7 +1317,7 @@ translate italiantl bryce2cont2_e9d761e3:
 translate italiantl bryce2cont2_2b2f6eb8:
 
     # Br "What's stopping you?"
-    Br "Cosa te lo impedisce?"
+    Br "Cosa ti trattiene?"
 
 # game/bryce2.rpy:975
 translate italiantl bryce2cont2_535b809e:
@@ -1743,7 +1743,7 @@ translate italiantl bryce2cont2_e43da373:
 translate italiantl bryce2cont2_94882170:
 
     # Br "Oh. Why not?"
-    Br "Oh. Perché no?"
+    Br "Oh. Come mai?"
 
 # game/bryce2.rpy:1185
 translate italiantl bryce2cont2_12f798a4:
@@ -1767,7 +1767,7 @@ translate italiantl bryce2cont2_f4adb2d0:
 translate italiantl bryce2cont2_9587e85e:
 
     # c "What do you think about us humans, anyway?"
-    c "Cosa ne pensate di noi umani, comunque?"
+    c "Cosa ne pensate voi di noi umani, comunque?"
 
 # game/bryce2.rpy:1193
 translate italiantl bryce2cont2_92bfe15d:
@@ -1827,19 +1827,19 @@ translate italiantl bryce2cont2_e50d187e:
 translate italiantl bryce2cont2_a881910f:
 
     # c "I imagine you've seen many things as chief."
-    c "Immagino che avrai visto molte cose come capo."
+    c "Immagino che come capo avrai visto molte cose."
 
 # game/bryce2.rpy:1213
 translate italiantl bryce2cont2_54870d37:
 
     # Br stern "I certainly have. They're usually not the kind of thing I should tell people about, though."
-    Br stern "Ne ho viste senz'altro. Di solito non sono il tipo di cose che dovrei raccontare alla gente, però."
+    Br stern "Ne ho viste di certo. Di solito non sono il tipo di cose che dovrei raccontare alla gente, però."
 
 # game/bryce2.rpy:1215
 translate italiantl bryce2cont2_73c2fcc2:
 
     # c "Why not?"
-    c "Perché no?"
+    c "Come mai?"
 
 # game/bryce2.rpy:1217
 translate italiantl bryce2cont2_675e9570:
@@ -1971,7 +1971,7 @@ translate italiantl bryce2skip_bb00a52c:
 translate italiantl bryce2skip_804aae17:
 
     # Br "'twas fun the first time around when we were in the bar. No offense, but you were kind of a jerk this time."
-    Br "È stato anche divertente la prima volta quand'eravamo al bar. Senza offesa, ma stavolta sei statə un po' una carogna."
+    Br "È stato anche divertente la prima volta quando eravamo al bar. Senza offesa, ma stavolta sei statə un po' una carogna."
 
 # game/bryce2.rpy:1349
 translate italiantl bryce2skip_511d0e0d:

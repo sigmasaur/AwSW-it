@@ -106,7 +106,7 @@ translate italiantl _call_skipcheck_27_3f970c7c:
 translate italiantl _call_skipcheck_27_6ce4d008:
 
     # Ka normal "I'm sorry, but we're closed."
-    Ka normal "Mi dispiace, ma siamo chiusi."
+    Ka normal "Mi spiace, ma siamo chiusi."
 
 # game/xkatsu.rpy:134
 translate italiantl _call_skipcheck_27_34c45c80:
@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_27_516d708b:
 translate italiantl _call_skipcheck_27_2e7684c8:
 
     # Ka exhausted "Off you go."
-    Ka exhausted "Via."
+    Ka exhausted "Via, via."
 
 # game/xkatsu.rpy:152
 translate italiantl _call_skipcheck_27_eee7c435:
@@ -346,7 +346,7 @@ translate italiantl _call_skipcheck_27_76b2fe88:
 translate italiantl _call_skipcheck_27_a33bd48c:
 
     # n "I have very fond memories of my childhood. When I was little, we had a confectioner in town who offered all kinds of specialties - from cookies and sweets to cakes and chocolates."
-    n "Ho dei bei ricordi della mia infanzia. Quand'ero piccolo, avevamo una pasticceria in città che offriva ogni genere di specialità—da biscotti e dolciumi a torte e cioccolatini." # corrected em-dash
+    n "Ho dei bei ricordi della mia infanzia. quando ero piccolo, avevamo una pasticceria in città che offriva ogni genere di specialità—da biscotti e dolciumi a torte e cioccolatini." # corrected em-dash
 
 # game/xkatsu.rpy:236
 translate italiantl _call_skipcheck_27_de499e2c:
@@ -677,7 +677,7 @@ translate italiantl _call_skipcheck_27_92bdee13:
 translate italiantl _call_skipcheck_27_9ed3d1dc:
 
     # c "I think the people who will buy some ice cream will spread the word."
-    c "Penso che la gente che comprerà del gelato passerà la voce."
+    c "Penso che chi comprerà del gelato passerà la voce."
 
 # game/xkatsu.rpy:381
 translate italiantl _call_skipcheck_27_d16a8f9c:
@@ -773,7 +773,7 @@ translate italiantl _call_skipcheck_27_37e9af9c:
 translate italiantl _call_skipcheck_27_86b7b13e:
 
     # m "Soon, people were flocking to the cart as word got around of the human selling Katsuharu's legendary ice cream in Tatsu Park."
-    m "Presto, la gente accorreva in massa al carretto mentre si spargeva la voce dell'umanə che vendeva il leggendario gelato di [Ka] a Tatsu Park."
+    m "Ben presto, la gente accorreva in massa al carretto mentre si spargeva la voce dell'umanə che vendeva il leggendario gelato di [Ka] a Tatsu Park."
 
 # game/xkatsu.rpy:423
 translate italiantl _call_skipcheck_27_b602a98e:
@@ -875,7 +875,7 @@ translate italiantl _call_skipcheck_27_a9f58ca8:
 translate italiantl _call_skipcheck_27_3501bff1:
 
     # c "Not a bad guess."
-    c "Direi che hai indovinato."
+    c "Direi che ha indovinato."
 
 # game/xkatsu.rpy:485
 translate italiantl _call_skipcheck_27_53246781:

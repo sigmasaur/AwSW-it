@@ -436,7 +436,7 @@ translate italiantl loremgoodending2_933de12a:
 translate italiantl loremgoodending2_9610c2a8:
 
     # c "What are you talking about? I didn't do anything."
-    c "Ma di che stai parlando? Io non ho fatto nulla."
+    c "Ma di che stai parlando? Io non ho fatto niente."
 
 # game/lorem5.rpy:390
 translate italiantl loremgoodending2_380692ef:
@@ -562,7 +562,7 @@ translate italiantl loremgoodending2_6db30ef5:
 translate italiantl loremgoodending2_11f4d705:
 
     # c "Nothing you can do or say will change what's coming now."
-    c "Niente di quel che puoi dire o fare cambierà quel che verrà adesso."
+    c "Niente di quel che puoi dire o fare cambierà quello che verrà adesso."
 
 # game/lorem5.rpy:434
 translate italiantl loremgoodending2_0b7da9ca:
@@ -742,7 +742,7 @@ translate italiantl loremgoodending3_7306f938:
 translate italiantl loremgoodending3_625c3f0f:
 
     # m "As he got up, I saw that the barrel of his gun was now bent out of shape."
-    m "Nel rialzarsi, vidi che la canna della sua pistola adesso era deformata."
+    m "Mentre si rialzava, vidi che la canna della sua pistola adesso era deformata."
 
 # game/lorem5.rpy:729
 translate italiantl loremgoodending3_db777428:
@@ -784,7 +784,7 @@ translate italiantl loremgoodending3_329ada6c:
 translate italiantl loremgoodending3_e3ed1fee:
 
     # m "Reza walked off the platform, but I quickly ran around the console and threw my weight against him, just in time for the portal to start teleporting us."
-    m "[Rz] scese dalla piattaforma, ma io corsi in fretta attorno alla console e gettai il mio peso contro di lui, appena in tempo perché il portale iniziasse a teletrasportarci."
+    m "[Rz] scese dalla piattaforma, ma io corsi in fretta intorno alla console e mi gettai di peso contro di lui, appena in tempo perché il portale iniziasse a teletrasportarci."
 
 # game/lorem5.rpy:807
 translate italiantl loremgoodending3_76b2fe88:

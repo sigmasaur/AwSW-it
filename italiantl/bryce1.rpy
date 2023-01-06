@@ -360,7 +360,7 @@ translate italiantl waitmenu_162e9e6d:
 translate italiantl waitmenu_1a6531fd:
 
     # c "It wasn't until I was already here that I actually met him again, however brief our interactions were. But then I already told you everything about what happened prior to the eventual scuffle with Maverick."
-    c "È stato solo quand'ero già qui che l'ho effettivamente incontrato di nuovo, per brevi che siano state le nostre interazioni. Ma poi, vi ho già raccontato tutto riguardo a quello che è successo fino a prima del tafferuglio con [Mv]." # "you" as in "the police department"
+    c "È stato solo quando ero già qui che l'ho effettivamente incontrato di nuovo, per brevi che siano state le nostre interazioni. Ma poi, vi ho già raccontato tutto riguardo a quello che è successo fino a prima del tafferuglio con [Mv]." # "you" as in "the police department"
 
 # game/bryce1.rpy:353
 translate italiantl waitmenu_e9b001dc:
@@ -450,13 +450,13 @@ translate italiantl waitmenu_c0898fbd:
 translate italiantl waitmenu_e8f0305c:
 
     # m "I hadn't noticed, but while I was talking, Bryce had been busy sipping on his drink. The empty bowl before him was proof of his proficiency, while I had barely touched my own drink."
-    m "Non l'avevo notato, ma mentre parlavo, [Br] era stato occupato a sorseggiare la sua birra. La tazza vuota davanti a lui era la prova della sua efficienza, mentre io avevo a malapena toccato la mia." # "proficiency" -> "efficiency"; "his drink" -> "his beer"; "my own [drink]" as in "my beer"
+    m "Non l'avevo notato, ma mentre parlavo, [Br] era stato occupato a sorseggiare la sua birra. La tazza vuota davanti a lui era la riprova della sua efficienza, mentre io avevo a malapena toccato la mia." # "proficiency" -> "efficiency"; "his drink" -> "his beer"; "my own [drink]" as in "my beer"
 
 # game/bryce1.rpy:386
 translate italiantl waitmenu_1a077e16:
 
     # m "I hadn't noticed, but while I was talking, Bryce had been busy sipping on his drink. The empty bowl before him was proof of his proficiency."
-    m "Non l'avevo notato, ma mentre parlavo, [Br] era stato occupato a sorseggiare la sua birra. La tazza vuota davanti a lui era la prova della sua efficienza." # see line 383
+    m "Non l'avevo notato, ma mentre parlavo, [Br] era stato occupato a sorseggiare la sua birra. La tazza vuota davanti a lui era la riprova della sua efficienza." # see line 383
 
 # game/bryce1.rpy:392
 translate italiantl waitmenu_c1d00705:
@@ -798,7 +798,7 @@ translate italiantl _call_syscheck_41_8b9c58f0:
 translate italiantl _call_syscheck_41_c866ee43:
 
     # m "I probably wasn't as impressive as Bryce had been just moments earlier, but I couldn't afford to show any weakness. My plan was cut short, though, as I set down the glass and an unusually strong aftertaste hit me, causing me to make a face."
-    m "Probabilmente non avevo fatto colpo come [Br] solo qualche attimo prima, ma non potevo permettermi di mostrare alcuna debolezza. Il mio piano fu stroncato, però, quando posai il bicchiere e un retrogusto insolitamente forte m'investì, facendomi produrre una smorfia."
+    m "Probabilmente non avevo fatto colpo come [Br] solo qualche istante prima, ma non potevo permettermi di mostrare alcuna debolezza. Il mio piano fu stroncato, però, quando posai il bicchiere e un retrogusto insolitamente forte mi investì, facendomi produrre una smorfia."
 
 # game/bryce1.rpy:677
 translate italiantl _call_syscheck_41_e35de9a9:
@@ -1170,7 +1170,7 @@ translate italiantl _call_syscheck_41_1c2ac3fc:
 translate italiantl _call_syscheck_41_1b3273b0:
 
     # c "Just fine, thanks for asking."
-    c "Benone, grazie per averlo chiesto."
+    c "Benone, grazie di aver chiesto."
 
 # game/bryce1.rpy:931
 translate italiantl _call_syscheck_41_a194c007:
@@ -1692,7 +1692,7 @@ translate italiantl _call_syscheck_41_82181d98:
 translate italiantl _call_syscheck_41_da6837de:
 
     # c "(Guess I must have passed out after I got Bryce home.)"
-    c "(Immagino di essere svenutə dopo che ho riportato [Br] a casa.)"
+    c "(Immagino di essere svenutə dopo che ho riportato a casa [Br].)"
 
 # game/bryce1.rpy:1274
 translate italiantl _call_syscheck_41_d710dd54:

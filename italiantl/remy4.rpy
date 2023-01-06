@@ -250,7 +250,7 @@ translate italiantl _call_skipcheck_28_1abd23c9:
 translate italiantl _call_skipcheck_28_2411d834:
 
     # Ry "They're all library books. I wanted to provide you with a good sample of what we have to offer, so there should be something in there for anyone."
-    Ry "Sono tutti libri della biblioteca. Volevo fornirti un buon campione di quel che abbiamo da offrire, così là in mezzo dovrebbe esserci qualcosa per tutti."
+    Ry "Sono tutti libri della biblioteca. Volevo fornirti un buon campione di ciò che abbiamo da offrire, così là in mezzo dovrebbe esserci qualcosa per tutti."
 
 # game/remy4.rpy:225
 translate italiantl _call_skipcheck_28_086bcd3a:
@@ -280,7 +280,7 @@ translate italiantl _call_skipcheck_28_f3665a2c:
 translate italiantl _call_skipcheck_28_ad30e17a:
 
     # c "Usually, I wouldn't read something like this, but sometimes I'm just not in the mood for anything more complex."
-    c "Di solito, non leggerei qualcosa del genere, ma è che a volte non sono in vena di niente di più complesso."
+    c "Di solito, non leggerei qualcosa del genere; è che a volte non sono in vena di niente di più complesso."
 
 # game/remy4.rpy:241
 translate italiantl _call_skipcheck_28_ba351dfe:
@@ -412,7 +412,7 @@ translate italiantl _call_skipcheck_28_07d1113d:
 translate italiantl _call_skipcheck_28_db232029:
 
     # Ry shy "Maybe it wasn't such a good idea to stock up on perishables. I didn't consider all the implications of doing something like this. Had you eaten the wrong thing, you could be in a hospital right now."
-    Ry shy "Forse non è stata una così buona idea fare scorta di prodotti deperibili. Non avevo considerato tutte le implicazioni nel fare una cosa del genere. Se avessi mangiato la cosa sbagliata, adesso avresti anche potuto essere in ospedale."
+    Ry shy "Forse non è stata una così buona idea fare scorta di prodotti deperibili. Non avevo considerato tutte le implicazioni nel fare una cosa del genere. Se avessi mangiato la cosa sbagliata, adesso avresti anche potuto trovarti in ospedale."
 
 # game/remy4.rpy:297
 translate italiantl _call_skipcheck_28_8032ab4e:
@@ -424,13 +424,13 @@ translate italiantl _call_skipcheck_28_8032ab4e:
 translate italiantl _call_skipcheck_28_980f08aa:
 
     # c "If anyone was smart enough to be sent here, they probably wouldn't take a risk like that."
-    c "Se chiunque fosse abbastanza sveglio da essere mandato qui, probabilmente non correrebbe un rischio simile."
+    c "Se chiunque fosse abbastanza sveglio da essere mandato qui, probabilmente non correrebbe un simile rischio."
 
 # game/remy4.rpy:301
 translate italiantl _call_skipcheck_28_71fb267a:
 
     # Ry smile "Well, I'm glad to hear it."
-    Ry smile "Be', sono felice di sentirlo."
+    Ry smile "Be', sono lieto di sentirlo."
 
 # game/remy4.rpy:303
 translate italiantl _call_skipcheck_28_ada2cc13:
@@ -712,7 +712,7 @@ translate italiantl _call_skipcheck_28_51bec4ab:
 translate italiantl _call_skipcheck_28_a6f3bbb5:
 
     # Ry "I don't know what's going on."
-    Ry "Non lo so cosa sta succedendo."
+    Ry "Non lo so cosa stia succedendo."
 
 # game/remy4.rpy:466
 translate italiantl _call_skipcheck_28_14f640c0:
@@ -1000,7 +1000,7 @@ translate italiantl _call_skipcheck_28_2f856f93:
 translate italiantl _call_skipcheck_28_9a0f8f61:
 
     # Ry "You wouldn't believe how much joy I felt during that moment. Emera, of course, took all the limelight she could. First there was a big speech in front of a huge crowd, then a procession after she had officially welcomed Reza."
-    Ry "Non crederesti a quanta gioia ho provato durante quei momenti. [Em], ovviamente, rubò tutta la scena che poteva. Prima ci fu un gran discorso di fronte a un'enorme folla, poi un corteo dopo aver ufficialmente accolto [Rz]." # "that moment" -> "those moments"
+    Ry "Non crederesti a quanta gioia ho provato durante quei momenti. [Em], ovviamente, rubò il più possibile la scena. Prima ci fu un gran discorso di fronte a un'enorme folla, poi un corteo dopo che ebbe ufficialmente accolto [Rz]." # "that moment" -> "those moments"
 
 # game/remy4.rpy:600
 translate italiantl _call_skipcheck_28_2beeb5d5:
@@ -1024,7 +1024,7 @@ translate italiantl _call_skipcheck_28_b24f4e0f:
 translate italiantl _call_skipcheck_28_58369a01:
 
     # Ry sad "I knew that she wasn't going to be there anyway, but if I didn't do what she wanted, she would just send some other lackey instead."
-    Ry sad "Sapevo che lei non ci sarebbe stata in ogni caso, ma se non avessi fatto quel che voleva, avrebbe semplicemente mandato qualche altro tirapiedi al mio posto."
+    Ry sad "Sapevo che lei non ci sarebbe stata in ogni caso, ma se non avessi fatto quello che voleva, avrebbe semplicemente mandato qualche altro tirapiedi al mio posto."
 
 # game/remy4.rpy:608
 translate italiantl _call_skipcheck_28_8b9ae242:
@@ -1114,7 +1114,7 @@ translate italiantl remy4skip1_7d456fef:
 translate italiantl remy4skip1_6be34af2:
 
     # Ry "And thanks to you, I was also able to reconnect with Adine. Now, it just seems so petty to not have spoken with her for such a long time."
-    Ry "E grazie a te, ho anche potuto rimettermi in contatto con [Ad]. Adesso, sembra solo così futile non aver parlato con lei per così tanto tempo."
+    Ry "E grazie a te, ho anche potuto rimettermi in contatto con [Ad]. Adesso, sembra così futile non aver parlato con lei per così tanto tempo."
 
 # game/remy4.rpy:642
 translate italiantl remy4skip1_9159c31e:
@@ -1522,7 +1522,7 @@ translate italiantl _call_skipcheck_29_ed13463b:
 translate italiantl _call_skipcheck_29_19ee7d6c:
 
     # Fv "Be sure not to miss it. You haven’t seen anything until you see the fireworks!"
-    Fv "Mi raccomando di non perdertelo. Non hai visto niente finché non hai visto i fuochi!"
+    Fv "Mi raccomando di non perderteli. Non hai visto niente finché non hai visto i fuochi!"
 
 # game/remy4.rpy:856
 translate italiantl _call_skipcheck_29_2ac35e6e:
@@ -1552,7 +1552,7 @@ translate italiantl _call_skipcheck_29_00d1f219:
 translate italiantl _call_skipcheck_29_b092993f:
 
     # c "You too."
-    c "Anche a te."
+    c "Anche a voi."
 
 # game/remy4.rpy:874
 translate italiantl _call_skipcheck_29_cc3f9358:

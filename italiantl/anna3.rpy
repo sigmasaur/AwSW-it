@@ -376,7 +376,7 @@ translate italiantl _call_skipcheck_774b2dfd:
 translate italiantl _call_skipcheck_41d0fcd3:
 
     # c "Take a piece from the white part. The rest you see is attached to the finger."
-    c "Prendine un pezzo dalla parte bianca. Il resto che vedi è attaccato al dito." # "take a piece OF IT"
+    c "Prendine un pezzetto dalla parte bianca. Il resto che vedi è attaccato al dito." # "take a piece OF IT"
 
 # game/anna3.rpy:300
 translate italiantl _call_skipcheck_947bc3b6:
@@ -406,7 +406,7 @@ translate italiantl _call_skipcheck_10b928f9:
 translate italiantl _call_skipcheck_53aae1eb:
 
     # An smirk b "Oh, I guess with the right training, I can make something out of you after all."
-    An smirk b "Oh, immagino che col giusto addestramento, dopotutto riuscirei a fare qualcosa di te."
+    An smirk b "Oh, immagino che col giusto addestramento, dopotutto riuscirei a fare qualcosa di te." # "I can make" -> "I could make"
 
 # game/anna3.rpy:325
 translate italiantl _call_skipcheck_6a1b8617:
@@ -808,7 +808,7 @@ translate italiantl _call_skipcheck_89aefe22_1:
 translate italiantl _call_skipcheck_d0bcea50:
 
     # An "Now, I'm going to ask you a few questions."
-    An "Ora, andrò a farti alcune domande."
+    An "Ora, ti farò alcune domande."
 
 # game/anna3.rpy:576
 translate italiantl _call_skipcheck_53c42227:
@@ -1148,7 +1148,7 @@ translate italiantl _call_skipcheck_e631bc97:
 translate italiantl _call_skipcheck_c6f4e249:
 
     # c "And now?"
-    c "E adesso?"
+    c "E ora?"
 
 # game/anna3.rpy:812
 translate italiantl _call_skipcheck_0ea2a7df:
@@ -1844,7 +1844,7 @@ translate italiantl _call_skipcheck_9414510f:
 translate italiantl _call_skipcheck_78667331:
 
     # An "Sorry, no such written agreement exists."
-    An "Scusa, non esiste alcun accordo scritto del genere."
+    An "Scusa, ma non esiste alcun accordo scritto del genere."
 
 # game/anna3.rpy:1226
 translate italiantl _call_skipcheck_5c1b860e:
@@ -2563,7 +2563,7 @@ translate italiantl strings:
 
     # anna3.rpy:1164
     old "A little."
-    new "Non molto." # must match line 3009 of chapter 4
+    new "Un po'." # must match lines 1805 of chapter 3, 3009 of chapter 4
 
     # anna3.rpy:1164
     old "None at all."

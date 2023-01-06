@@ -22,7 +22,7 @@ translate italiantl adine3_f4bc3aba:
 translate italiantl adine3_4b0d5435:
 
     # c "You said something about going to the beach."
-    c "Avevi detto qualcosa a proposito di andare in spiaggia."
+    c "Dicevi qualcosa a proposito di andare in spiaggia."
 
 # game/adine3.rpy:45
 translate italiantl adine3_1293430e:
@@ -184,7 +184,7 @@ translate italiantl _call_skipcheck_9_0054b77b:
 translate italiantl _call_skipcheck_9_0f78c647:
 
     # c "So, this is where you usually practice?"
-    c "Quindi, è qui che ti alleni di solito?"
+    c "Perciò, è qui che ti alleni di solito?"
 
 # game/adine3.rpy:196
 translate italiantl _call_skipcheck_9_1f98587f:
@@ -286,7 +286,7 @@ translate italiantl _call_skipcheck_9_9d27fd83:
 translate italiantl _call_skipcheck_9_77d08852:
 
     # c "Tanning is a reaction of the skin when it's exposed to sunlight. If humans stay in the sun for a while, our skin can get darker."
-    c "L'abbronzatura è una reazione della pelle quand'è esposta alla luce solare. Se noi umani restiamo al sole per un po', la nostra pelle può diventare più scura." # "if US humans"
+    c "L'abbronzatura è una reazione della pelle quando è esposta alla luce del sole. Se noi umani restiamo al sole per un po', la nostra pelle può diventare più scura." # "if US humans"
 
 # game/adine3.rpy:230
 translate italiantl _call_skipcheck_9_56b0d2f7:
@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_9_b89cdcdb:
 translate italiantl _call_skipcheck_9_dbef1b5c:
 
     # c "I wouldn't say important. Rather, it's a unique way for people to spend time. It was often done as a leisure activity or a way to spend holiday vacations."
-    c "Non direi importante. Piuttosto, era un modo unico per la gente di passare il tempo. Lo si faceva spesso come attività ricreativa o come modo di trascorrere le vacanze." # "it's" -> "it was"
+    c "Non direi importante. Piuttosto, era un modo unico per le persone di passare il tempo. Lo si faceva spesso come attività ricreativa o come modo di trascorrere le vacanze." # "it's" -> "it was"
 
 # game/adine3.rpy:301
 translate italiantl _call_skipcheck_9_33f9f8ab:
@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_9_252c6e9d:
 translate italiantl _call_skipcheck_9_79fd0520:
 
     # m "Spinning in the air, the stone bounced on the water's surface a few times before it sunk into the sea."
-    m "Vorticando nell'aria, la pietra rimbalzò a fior d'acqua alcune volte prima d'immergersi in mare."
+    m "Vorticando nell'aria, la pietra rimbalzò a fior d'acqua alcune volte prima di immergersi in mare."
 
 # game/adine3.rpy:323
 translate italiantl _call_skipcheck_9_262a4ffb:
@@ -580,7 +580,7 @@ translate italiantl _call_skipcheck_9_cee64df3:
 translate italiantl _call_skipcheck_9_0152815e:
 
     # m "I threw the stone, once again showing her how it subsequently bounced a few times over the water's surface before it sunk into the sea."
-    m "Lanciai la pietra, mostrandole una volta ancora come di conseguenza, essa rimbalzasse alcune volte sulla superficie dell'acqua prima d'immergersi in mare." # see line 321
+    m "Lanciai la pietra, mostrandole una volta ancora come di conseguenza, essa rimbalzasse alcune volte sulla superficie dell'acqua prima di immergersi in mare." # see line 321
 
 # game/adine3.rpy:357
 translate italiantl _call_skipcheck_9_1238a24c:
@@ -742,7 +742,7 @@ translate italiantl _call_skipcheck_9_84d46a72:
 translate italiantl _call_skipcheck_9_b9882471:
 
     # c "I had no idea you could do that with your leg."
-    c "Non avevo idea che potessi fare questo con la zampa."
+    c "Non avevo idea che potessi fare questo con le gambe." # "your legS"
 
 # game/adine3.rpy:419
 translate italiantl _call_skipcheck_9_c74c0366:
@@ -1066,7 +1066,7 @@ translate italiantl _call_skipcheck_9_1706180d:
 translate italiantl _call_skipcheck_9_ac1011eb:
 
     # Ad normal b "Well, there's still the other method."
-    Ad normal b "Be', c'è ancora l'altro metodo."
+    Ad normal b "Be', c'è sempre l'altro metodo."
 
 # game/adine3.rpy:609
 translate italiantl _call_skipcheck_9_c0478c76:
@@ -1114,7 +1114,7 @@ translate italiantl _call_skipcheck_9_4be08f8e:
 translate italiantl _call_skipcheck_9_e9cffff0:
 
     # Ad normal b "The right amount of movement attracts different kinds of fish. That way, we can even choose what we're going to get."
-    Ad normal b "La giusta quantità di movimento attrae diversi tipi di pesce. In quel modo, possiamo anche scegliere cosa andremo a prendere."
+    Ad normal b "La giusta quantità di movimento attrae diversi tipi di pesci. In quel modo, possiamo anche scegliere cosa prenderemo."
 
 # game/adine3.rpy:625
 translate italiantl _call_skipcheck_9_2f416334:
@@ -1378,7 +1378,7 @@ translate italiantl _call_syscheck_45_f1feac00:
 translate italiantl _call_syscheck_45_f06ae021:
 
     # c "Go ahead, I'll watch from here."
-    c "Va' pure, guarderò da qui."
+    c "Va' pure, io guarderò da qui."
 
 # game/adine3.rpy:759
 translate italiantl _call_syscheck_45_d697d8cc:
@@ -1841,7 +1841,7 @@ translate italiantl mpsave_4e88367c:
 translate italiantl mpsave_e51c3ae2:
 
     # m "I saw her feeble attempt to regain control as she barely managed to steady herself enough to get back to the beach. She made a rough landing, rolling on the ground a few times after colliding with the sand."
-    m "Vidi il suo fievole tentativo di riguadagnare il controllo mentre riusciva a malapena a riaversi quanto bastava per ritornare alla spiaggia. Compì un violento atterraggio, ruzzolando al suolo alcune volte dopo ch'ebbe sbattuto contro la sabbia." # wording; "steady" -> "collect"
+    m "Vidi il suo fievole tentativo di riguadagnare il controllo mentre riusciva a malapena a riaversi quanto bastava per ritornare alla spiaggia. Compì un violento atterraggio, ruzzolando al suolo alcune volte dopo che ebbe sbattuto contro la sabbia." # wording; "steady" -> "collect"
 
 # game/adine3.rpy:1057
 translate italiantl mpsave_b434465c:
@@ -2177,7 +2177,7 @@ translate italiantl adine3skip_cadca0e2:
 translate italiantl adine3skip_e6f1691b:
 
     # c "He also blames himself for not being with her when it happened."
-    c "Anche lui incolpa sé stesso per non essere stato con lei quand'è successo."
+    c "Anche lui incolpa sé stesso per non essere stato con lei quando è successo."
 
 # game/adine3.rpy:1193
 translate italiantl adine3skip_20c72de9:

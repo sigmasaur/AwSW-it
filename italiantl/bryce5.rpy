@@ -112,7 +112,7 @@ translate italiantl bryce5_ff994752:
 translate italiantl bryce5_dd4506a6:
 
     # Br laugh "That's what I call it."
-    Br laugh "È così che io lo chiamo."
+    Br laugh "È così che lo chiamo."
 
 # game/bryce5.rpy:70
 translate italiantl bryce5_29025e13:
@@ -124,7 +124,7 @@ translate italiantl bryce5_29025e13:
 translate italiantl bryce5_a7236ed6:
 
     # Br smirk "They certainly can be. Besides, there are other things inside as well."
-    Br smirk "Possono senz'altro esserlo. E poi, dentro ci sono anche altre cose."
+    Br smirk "Possono esserlo senz'altro. E poi, dentro ci sono anche altre cose."
 
 # game/bryce5.rpy:74
 translate italiantl bryce5_9ca39f57:
@@ -316,7 +316,7 @@ translate italiantl bryce5_86ae571a:
 translate italiantl bryce5_1f23c127:
 
     # c "He hasn't used the portal yet, though."
-    c "Non ha ancora usato il portale, comunque." # see line 342 of chapter 5 evil
+    c "Non ha ancora usato il portale, però." # see line 342 of chapter 5 evil
 
 # game/bryce5.rpy:186
 translate italiantl bryce5_291c421d:
@@ -742,7 +742,7 @@ translate italiantl _call_sincethelightswerealreadyon_c6903fe1:
 translate italiantl _call_sincethelightswerealreadyon_d4a3d69f:
 
     # n "I was going to be the one who would have to tell humanity what happened, that Reza was dead and I escaped with nothing but my own life."
-    n "Sarei statə coləi che avrebbe dovuto raccontare all'umanità ciò che era successo, che [Rz] era morto e io ero fuggitə con niente più che la mia stessa vita."
+    n "Sarei statə coləi che avrebbe dovuto raccontare all'umanità quanto era successo, che [Rz] era morto e io ero fuggitə con niente più che la mia stessa vita."
 
 # game/bryce5.rpy:511
 translate italiantl _call_sincethelightswerealreadyon_32838950:
@@ -898,7 +898,7 @@ translate italiantl _call_no_ec12e33c:
 translate italiantl _call_no_eac8b4a1:
 
     # Rz annoyed "All I did this whole time was try to find ways to contact you so you could talk to our people and figure something out for me. Why would I escalate the situation like that?"
-    Rz annoyed "Per tutto questo tempo non ho fatto altro che cercare il modo di contattarti così avresti potuto parlare alla nostra gente e inventarti qualcosa per me. Perché avrei dovuto degenerare la situazione in quel modo?" # "try to find ways" -> "look for a way"
+    Rz annoyed "Per tutto questo tempo non ho fatto altro che cercare il modo di contattarti così avresti potuto parlare alla nostra gente e inventarti qualcosa per me. Perché avrei dovuto degenerare la situazione a quel modo?" # "try to find ways" -> "look for a way"
 
 # game/bryce5.rpy:737
 translate italiantl _call_no_792c110b:
@@ -1354,7 +1354,7 @@ translate italiantl _call_no_11ea3005:
 translate italiantl _call_no_36b8d979:
 
     # Iz "I had to do it in order to put you on the same trail he would have."
-    Iz "Dovevo farlo per poterti mettere sulle stesse tracce su cui lui ti avrebbe messo."
+    Iz "Dovevo farlo per poterti mettere sulle stesse tracce su cui ti avrebbe messo lui."
 
 # game/bryce5.rpy:1149
 translate italiantl _call_no_fcaef4fe:
@@ -1426,7 +1426,7 @@ translate italiantl _call_no_43c148eb:
 translate italiantl _call_no_452b6332:
 
     # Iz "I slipped him a note he thought came from you. It said to meet here and take the generator before you'd leave together. He played his part well enough so you couldn't tell the difference."
-    Iz "Gli ho fatto scivolare una nota che pensava venisse da te. Diceva di incontrarvi qui e prendere il generatore prima di andarvene insieme. Ha recitato la sua parte abbastanza bene perché non notassi la differenza." # "you'd leave" -> "leaving"
+    Iz "Gli ho fatto scivolare una nota che pensava venisse da te. Diceva di incontrarvi qui e prendere il generatore prima di andarvene insieme. Ha recitato la sua parte abbastanza bene perché non tu notassi la differenza." # "you'd leave" -> "leaving"
 
 # game/bryce5.rpy:1173
 translate italiantl _call_no_ef1e35ff:
@@ -1438,7 +1438,7 @@ translate italiantl _call_no_ef1e35ff:
 translate italiantl _call_no_4d363e5c:
 
     # Iz "For all he's done, I think he deserves to know what betrayal feels like."
-    Iz "Con tutto ciò che ha fatto, credo si meritasse di sapere cosa si prova ad essere traditi." # "deserves" -> "deserved"
+    Iz "Con tutto quello che ha fatto, credo si meritasse di sapere cosa si prova ad essere traditi." # "deserves" -> "deserved"
 
 # game/bryce5.rpy:1186
 translate italiantl _call_no_b44a36ee:
@@ -1618,7 +1618,7 @@ translate italiantl _call_no_f026d428:
 translate italiantl _call_no_73c2fcc2:
 
     # c "Why not?"
-    c "Perché no?"
+    c "Come mai?"
 
 # game/bryce5.rpy:1315
 translate italiantl _call_no_9dfb6901:
@@ -1762,7 +1762,7 @@ translate italiantl _call_no_af0a9ea1:
 translate italiantl _call_no_867439ad:
 
     # n "Not only did I take my own written account of what had happened with me, but there were also physical reminders I could bring to remember, such as Izumi's mask and cloak."
-    n "Non solo portai con me un mio resoconto scritto di ciò che era successo, ma vi erano anche ricordi tangibili che avrei potuto portare perché rammentassi, come la maschera e la cappa di [Iz]."
+    n "Non solo portai con me un mio resoconto scritto di quanto era successo, ma vi erano anche ricordi tangibili che avrei potuto portare perché rammentassi, come la maschera e la cappa di [Iz]."
 
 # game/bryce5.rpy:1371
 translate italiantl _call_no_34f86409:
