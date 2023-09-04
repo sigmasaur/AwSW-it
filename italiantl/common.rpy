@@ -212,7 +212,7 @@ translate italiantl strings:
 
     # 00gui.rpy:236
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Vuoi davvero saltare i messaggi non letti fino alla prossima scelta?" # dialogue -> messages, see screens.rpy:777-778
+    new "Vuoi davvero saltare i messaggi non letti fino alla prossima scelta?" # "dialogue" -> "messages", see lines 777-778 of screens.rpy
 
     # 00keymap.rpy:252
     old "Saved screenshot as %s."
@@ -320,7 +320,7 @@ translate italiantl strings:
 
     # _developer\developer.rpym:383
     old "Right-click or escape to quit."
-    new "Tasto Destro o Esc per uscire." # escape -> Esc, see dv.rpy:734
+    new "Tasto Destro o Esc per uscire." # "escape" -> "Esc", see line 734 of dv.rpy
 
     # _developer\developer.rpym:412
     old "Rectangle copied to clipboard."
@@ -364,7 +364,7 @@ translate italiantl strings:
 
     # _developer\inspector.rpym:139
     old "displayable:"
-    new "displayable:" # skip, see _developer\inspector.rpym:142
+    new "displayable:" # skip, see line 142 of _developer\inspector.rpym
 
     # _developer\inspector.rpym:145
     old "        (no properties affect the displayable)"
@@ -584,7 +584,7 @@ translate italiantl strings:
 
     # 00gltest.rpy:174
     old "Continue, Don't show warning again"
-    new "Continua, Non mostrare più questo avviso" # Don't show *this* warning again, see 00gltest.rpy:170
+    new "Continua, Non mostrare più questo avviso" # "don't show THIS warning again", see line 170 of 00gltest.rpy
 
     # 00gltest.rpy:192
     old "Updating DirectX."

@@ -300,7 +300,7 @@ translate italiantl waitmenu_118c9439:
 translate italiantl waitmenu_1353b25f:
 
     # Wr "There you go. Just call me if you need anything."
-    Wr "Ecco a voi. Chiamatemi pure se avete bisogno di qualcosa."
+    Wr "Ecco a voi. Chiamatemi pure se avete bisogno di niente."
 
 # game/bryce1.rpy:331
 translate italiantl waitmenu_50600d31:
@@ -360,7 +360,7 @@ translate italiantl waitmenu_162e9e6d:
 translate italiantl waitmenu_1a6531fd:
 
     # c "It wasn't until I was already here that I actually met him again, however brief our interactions were. But then I already told you everything about what happened prior to the eventual scuffle with Maverick."
-    c "È stato solo quando ero già qui che l'ho effettivamente incontrato di nuovo, per brevi che siano state le nostre interazioni. Ma poi, vi ho già raccontato tutto riguardo a quello che è successo fino a prima del tafferuglio con [Mv]." # "you" as in "the police department"
+    c "È stato solo quando ero già qui che l'ho effettivamente incontrato di nuovo, per brevi che siano state le nostre interazioni. Ma poi, vi ho già raccontato tutto riguardo a quanto è successo fino a prima del tafferuglio con [Mv]." # "you" as in "the police department"
 
 # game/bryce1.rpy:353
 translate italiantl waitmenu_e9b001dc:
@@ -780,7 +780,7 @@ translate italiantl _call_syscheck_41_24bf3ebf:
 translate italiantl _call_syscheck_41_95920217:
 
     # m "He made a show of looking me in the eyes while he lowered his muzzle into the bowl before he started guzzling his drink noisily. It was gone in seconds. Certainly, this was going to be tough."
-    m "Fece una scena di guardarmi dritto negli occhi mentre abbassava il muso nella tazza, prima che iniziasse a tracannare rumorosamente la sua birra. Sparì nel giro di qualche secondo. Certo, la vedevo dura." # "drink" -> "beer"; "in A FEW seconds"
+    m "Fece una scena di guardarmi dritto negli occhi mentre abbassava il muso nella tazza, prima che iniziasse a tracannare rumorosamente la sua birra. La quale sparì nel giro di qualche secondo. Certo, la vedevo dura." # "drink" -> "beer"; "in A FEW seconds"
 
 # game/bryce1.rpy:665
 translate italiantl _call_syscheck_41_120e03dd:
@@ -1368,7 +1368,7 @@ translate italiantl _call_syscheck_41_76634173:
 translate italiantl _call_syscheck_41_0eb13f67:
 
     # m "For the first time, I could see something in his eyes other than his always present confidence. Was it disbelief, or insecurity? I guessed my feat caught him off guard, as he seemed genuinely impressed. If nothing else, this showed me that even his own conviction was cracking now. I could totally win this."
-    m "Per la prima volta, potei intravedere nei suoi occhi qualcosa di diverso dalla sua sempre presente fiducia di sé. Era forse incredulità, o insicurezza? Immaginai che la mia impresa l'avesse colto alla sprovvista, siccome pareva sinceramente colpito. Se non altro, mi dimostrò che anche il suo convincimento si stava ormai incrinando. Potevo assolutamente vincerla."
+    m "Per la prima volta, potei intravedere nei suoi occhi qualcosa di diverso dalla sua onnipresente fiducia di sé. Era forse incredulità, o insicurezza? Immaginai che la mia impresa l'avesse colto alla sprovvista, siccome pareva sinceramente colpito. Se non altro, mi dimostrò che anche il suo convincimento si stava ormai incrinando. Potevo assolutamente vincerla."
 
 # game/bryce1.rpy:1078
 translate italiantl _call_syscheck_41_c1731578:
@@ -1530,7 +1530,7 @@ translate italiantl _call_syscheck_41_76b2fe88_2:
 translate italiantl _call_syscheck_41_76f5806b:
 
     # n "Without looking back, I got up and stumbled back to my apartment on shaky legs."
-    n "Senza voltarmi indietro, mi alzai e me ne tornai barcollante al mio appartamento."
+    n "Senza voltarmi indietro, mi alzai e me ne tornai barcollante in appartamento."
 
 # game/bryce1.rpy:1185
 translate italiantl _call_syscheck_41_c58a4f78:
@@ -1632,7 +1632,7 @@ translate italiantl _call_syscheck_41_d59f28e4:
 translate italiantl _call_syscheck_41_c86418be:
 
     # c "(Huh... that was actually the salt, not the pepper. Let's try that again.)"
-    c "(Huh... quello era davvero il sale, e non il pepe. Proviamo di nuovo.)" # "let's try [that] again"
+    c "(Huh... quello era davvero il sale, e non il pepe. Proviamo ancora.)" # "let's try [that] again"
 
 # game/bryce1.rpy:1251
 translate italiantl _call_syscheck_41_38cdd69e:
@@ -1680,7 +1680,7 @@ translate italiantl _call_syscheck_41_25c5b01b_1:
 translate italiantl _call_syscheck_41_803a507c:
 
     # m "I awoke looking at an unfamiliar ceiling. For a moment, I wondered where I was before the events of last night all came back to me. As I got up and looked around, I realized that I'd apparently slept on the floor."
-    m "Mi risvegliai guardando a un soffitto che non riconoscevo. Per un attimo, mi domandai dove fossi prima che gli eventi della notte passata mi ritornassero tutti alla mente. Mentre mi alzavo e mi guardavo attorno, realizzai di aver dormito su quello che pareva essere il pavimento." # see line 1147 of chapter 1
+    m "Mi risvegliai guardando un soffitto che non riconoscevo. Per un attimo, mi domandai dove fossi prima che gli eventi della notte passata mi ritornassero tutti alla mente. Mentre mi alzavo e mi guardavo attorno, realizzai di aver dormito su quello che pareva essere il pavimento." # see line 1147 of chapter 1
 
 # game/bryce1.rpy:1266
 translate italiantl _call_syscheck_41_82181d98:

@@ -118,7 +118,7 @@ translate italiantl adine1choice1_0f173ebb:
 translate italiantl adine1choice1_f8bbc1ff:
 
     # Ad "Do you think I could come in for a few minutes? It's raining pretty heavily outside, and this was my last delivery for the day. I actually live on the other side of town, and I don't really want to fly back in the rain."
-    Ad "Pensi che potrei entrare per qualche minuto? Fuori sta piovendo a dirotto, e questa era la mia ultima consegna del giorno. In effetti io vivo dall'altra parte della città, e non vorrei proprio tornarmene indietro in volo con questa pioggia." # "I don't really" -> "I really wouldn't"
+    Ad "Pensi che potrei entrare per qualche minuto? Fuori sta piovendo a dirotto, e questa era la mia ultima consegna del giorno. In effetti io vivo dall'altra parte della città, e non vorrei proprio tornarmene indietro in volo con questa pioggia." # see line 100; "I don't really" -> "I really wouldn't"
 
 # game/adine1.rpy:117
 translate italiantl menadine_b2d97902:
@@ -676,7 +676,7 @@ translate italiantl _call_skipcheck_10_4e5a4202:
 translate italiantl _call_skipcheck_10_dc481bac:
 
     # Ad "You say that you aren't special, but just the fact that you're here with us right now is quite special to me and many others. Just try to see it the other way around."
-    Ad "Dici di non essere speciale, ma il solo fatto che tu sia qui con noi in questo momento è piuttosto speciale per me e per molti altri. Prova solo a vederla dal nostro punto di vista." # "the other way around" -> "from our side"
+    Ad "Dici di non essere speciale, ma il solo fatto che tu sia qui con noi in questo momento è piuttosto speciale per me e per molti altri. Prova solo a vederla dal nostro punto di vista." # "the other way around" -> "from our perspective"
 
 # game/adine1.rpy:482
 translate italiantl _call_skipcheck_10_488948a9:
@@ -880,37 +880,37 @@ translate italiantl tellme_98edf115:
 translate italiantl tellme_195fa010:
 
     # Ad "Is there anyone on your radar at least? Someone you think is kinda cute?"
-    Ad "C'è forse nessuno all'orizzonte almeno? Qualcuno che trovi abbastanza carino?"
+    Ad "C'è forse nessuno all'orizzonte almeno? Qualcuno che trovi abbastanza carino?" # see line 595
 
 # game/adine1.rpy:621
 translate italiantl tellme_1e619300:
 
     # Ad "I see. Anyone on your radar, at least? Someone you think is cute?"
-    Ad "Capisco. Nessuno all'orizzonte, almeno? Qualcuno che trovi carino?"
+    Ad "Capisco. Nessuno all'orizzonte, almeno? Qualcuno che trovi carino?" # see lines 595, 617
 
 # game/adine1.rpy:627
 translate italiantl tellme_6b0e1c03:
 
     # Ad "Oh, it's a shame you can't be with them now, then."
-    Ad "Oh, è un peccato che non possiate stare assieme in questo momento, allora."
+    Ad "Oh, è un peccato che non possiate stare assieme in questo momento, allora." # see line 602
 
 # game/adine1.rpy:629
 translate italiantl tellme_d3b70432:
 
     # Ad "Or are you talking about someone you met here?"
-    Ad "O parli forse di qualcuno che hai incontrato qui?"
+    Ad "O parli forse di qualcuno che hai incontrato qui?" # see line 604
 
 # game/adine1.rpy:638
 translate italiantl choiceb_6b0e1c03:
 
     # Ad "Oh, it's a shame you can't be with them now, then."
-    Ad "Oh, è un peccato che non possiate stare assieme in questo momento, allora."
+    Ad "Oh, è un peccato che non possiate stare assieme in questo momento, allora." # see line 602
 
 # game/adine1.rpy:640
 translate italiantl choiceb_d3b70432:
 
     # Ad "Or are you talking about someone you met here?"
-    Ad "O parli forse di qualcuno che hai incontrato qui?"
+    Ad "O parli forse di qualcuno che hai incontrato qui?" # see line 604
 
 # game/adine1.rpy:647
 translate italiantl choiceb_2c403123:
@@ -946,13 +946,13 @@ translate italiantl choicec_9e4b6bcd:
 translate italiantl choicec_9c4bb8e8_1:
 
     # Ad "Oh my."
-    Ad "Caspita."
+    Ad "Caspita." # see line 655
 
 # game/adine1.rpy:671
 translate italiantl choicec_41d17e99_1:
 
     # Ad "Would it happen to be someone I know?"
-    Ad "È per caso qualcuno che conosco?"
+    Ad "È per caso qualcuno che conosco?" # see line 657
 
 # game/adine1.rpy:680
 translate italiantl choicee_e3b23a3c:
@@ -964,7 +964,7 @@ translate italiantl choicee_e3b23a3c:
 translate italiantl choicee_e3b23a3c_1:
 
     # Ad "Well, who is it?"
-    Ad "Be', di chi si tratta?"
+    Ad "Be', di chi si tratta?" # see line 680
 
 # game/adine1.rpy:692
 translate italiantl choicee_43ebd9ef:
@@ -1072,7 +1072,7 @@ translate italiantl nextsc_24285aa7:
 translate italiantl nextsc_58abfc7c:
 
     # Ad "Alright."
-    Ad "D'accordo."
+    Ad "E va bene."
 
 # game/adine1.rpy:752
 translate italiantl nextsc_deda5e50:
@@ -1384,7 +1384,7 @@ translate italiantl nextsc_c11e0ee0:
 translate italiantl nextsc_aa2237bc:
 
     # Ad "I'm not sure if I could do that. I don't like tight, enclosed spaces."
-    Ad "Non sono sicura che potrei farlo. Non mi piacciono gli spazi chiusi e ristretti." # "do that" -> "do it"
+    Ad "Non sono sicura che io potrei farlo. Non mi piacciono gli spazi chiusi e ristretti." # "do that" -> "do it"
 
 # game/adine1.rpy:927
 translate italiantl nextsc_e3afd84b:
@@ -1396,7 +1396,7 @@ translate italiantl nextsc_e3afd84b:
 translate italiantl nextsc_d022c5bd:
 
     # Ad "Of course I'd love to visit - maybe as some sort of vacation. But if you're talking about permanently, I'm not sure if I could just pack up and leave everything behind just like that."
-    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se dici in modo permanente, non sono sicura che potrei prendere e gettarmi tutto quanto alle spalle a quel modo." # corrected em-dash
+    Ad "Naturalmente mi piacerebbe fare visita—magari come una sorta di vacanza. Ma se dici in pianta stabile, non sono sicura che potrei prendere e gettarmi tutto quanto alle spalle a quel modo." # corrected em-dash
 
 # game/adine1.rpy:932
 translate italiantl nextsc_b8fb304d:
@@ -1498,13 +1498,13 @@ translate italiantl _call_syscheck_48_9e2d907e:
 translate italiantl _call_syscheck_48_7b0e0bd9:
 
     # Ad "There, I did it. Satisfied?"
-    Ad "Ecco, l'ho fatto. Soddisfattə?"
+    Ad "Ecco, l'ho fatto. Soddisfattə?" # see line 953
 
 # game/adine1.rpy:1002
 translate italiantl _call_syscheck_48_5ce0ffef:
 
     # c "Definitely."
-    c "Decisamente."
+    c "Decisamente." # see line 955
 
 # game/adine1.rpy:1007
 translate italiantl _call_syscheck_48_989cc9bb:
@@ -1690,13 +1690,13 @@ translate italiantl _call_syscheck_48_334f9430:
 translate italiantl _call_syscheck_48_3d8af9e3:
 
     # Ad "Anyways, if you want to invite me over again, why don't I give you my personal number and we just skip the part where you order food to make me come by?"
-    Ad "Comunque, se ti va di invitarmi di nuovo, perché non prendi il mio numero personale e saltiamo la parte in cui ordini da noi per far sì che io passi di qui?" # "I give you" -> "you take"; "food" -> "from us", see line 1269
+    Ad "Comunque, se ti va di invitarmi di nuovo, perché non prendi il mio numero personale e saltiamo la parte in cui ordini da mangiare per far sì che io passi di qui?" # "I give you" -> "you take"
 
 # game/adine1.rpy:1269
 translate italiantl _call_syscheck_48_244ffce1:
 
     # c "But I like the food."
-    c "Ma a me piace ordinare da voi." # must match line 1268
+    c "Ma a me piace la cucina."
 
 # game/adine1.rpy:1276
 translate italiantl _call_syscheck_48_a475c68f:

@@ -466,7 +466,7 @@ translate italiantl _call_skipcheck_23_27216165:
 translate italiantl _call_skipcheck_23_27216165_1:
 
     # Ad think b "Alright, let's see."
-    Ad think b "D'accordo, vediamo."
+    Ad think b "D'accordo, vediamo." # see line 392
 
 # game/adine2.rpy:408
 translate italiantl _call_skipcheck_23_99b68283:
@@ -622,7 +622,7 @@ translate italiantl _call_skipcheck_23_a3230f03:
 translate italiantl _call_skipcheck_23_573eac2e:
 
     # Ad "Even the article concludes that scientists haven't figured out exactly why we dream. It's a big mystery."
-    Ad "Persino l'articolo conclude che gli scienziati non hanno ancora capito esattamente perché sogniamo. È un gran mistero."
+    Ad "Persino l'articolo conclude che gli scienziati non hanno ancora capito esattamente perché sogniamo. È un gran mistero." # see line 491
 
 # game/adine2.rpy:501
 translate italiantl _call_skipcheck_23_604e3357:
@@ -874,7 +874,7 @@ translate italiantl adine2menb_59cf7678:
 translate italiantl adine2menb_bf587384:
 
     # c "There's no other way. I'll be at a loss for the rest of my life."
-    c "Non c'è altro modo. Sarò perdutə per il resto della mia vita."
+    c "Non c'è altro modo. Sarò perdutə per il resto della vita."
 
 # game/adine2.rpy:753
 translate italiantl adine2menb_efe42388:
@@ -1210,7 +1210,7 @@ translate italiantl adine2menb_c3f43f0d:
 translate italiantl adine2menb_54c946a8:
 
     # c "I feel like this is totally true, especially if you consider what it means for me to be here. I'm aware that whatever I do here could impact a lot of lives."
-    c "Ho l'impressione che sia del tutto vero, specie se consideri cosa vuol dire per me essere qui. Sono consapevole che qualsiasi cosa io faccia qui potrebbe avere un impatto sulle vite di molti." # "a lot of lives" -> "the lives of many"
+    c "Ho l'impressione che sia assolutamente vero, specie se consideri cosa vuol dire per me essere qui. Sono consapevole che qualsiasi cosa io faccia qui potrebbe avere un impatto sulle vite di molti." # "a lot of lives" -> "the lives of many"
 
 # game/adine2.rpy:947
 translate italiantl adine2menb_6f49916d:
@@ -1228,13 +1228,13 @@ translate italiantl adine2menb_5ec8084e_1:
 translate italiantl adine2menb_bb359085:
 
     # Ad annoyed b "Well, you can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta."
+    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta." # see line 894
 
 # game/adine2.rpy:960
 translate italiantl adine2menb_9d0d3f05_1:
 
     # c "Yeah, I'm sure that's the reason."
-    c "Già, sono certə che sia questa la ragione."
+    c "Già, sono certə che sia questa la ragione." # see line 896
 
 # game/adine2.rpy:972
 translate italiantl adine2menb_d2139c34:
@@ -1312,13 +1312,13 @@ translate italiantl adine2menb_5ec8084e_2:
 translate italiantl adine2menb_bb359085_1:
 
     # Ad annoyed b "Well, you can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta."
+    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta." # see line 894
 
 # game/adine2.rpy:1020
 translate italiantl adine2menb_9d0d3f05_2:
 
     # c "Yeah, I'm sure that's the reason."
-    c "Già, sono certə che sia questa la ragione."
+    c "Già, sono certə che sia questa la ragione." # see line 896
 
 # game/adine2.rpy:1026
 translate italiantl adine2menb_e778aec1:
@@ -2140,7 +2140,7 @@ translate italiantl strings:
 
     # adine2.rpy:930
     old "I feel like this is totally true."
-    new "Ho l'impressione che sia del tutto vero."
+    new "Ho l'impressione che sia assolutamente vero."
 
     # adine2.rpy:992
     old "I think I know what this refers to."

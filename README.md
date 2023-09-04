@@ -93,7 +93,7 @@ sec.rpy
 ## How can I contribute?
 
 1. To start, have a look at the pinned threads in the dedicated [Steam sub-forum][2]; there you'll also find the Italian translation thread.
-2. You can contact me either on [Steam][3] or [Discord][4] so that I can add you as a collaborator, but in the meantime feel free to poke around to get an idea or even start working on the translation on your own.
+2. You can contact me either on [Steam][3] or Discord @giofrida so that I can add you as a collaborator, but in the meantime feel free to poke around to get an idea or even start working on the translation on your own.
 3. If you don't feel like working on the actual translation, you can still provide a precious contribution by reviewing the already translated files and report errors/suggest improvements, either by contacting me directly or here on the [discussions][5].
 4. Should you need contextual reference while translating/reviewing, you can find the game's relevant source code in this [Onedrive folder][6], together with other stuff like images containing text that needs to be translated, too.
 
@@ -103,7 +103,6 @@ sec.rpy
 
 [2]:https://steamcommunity.com/groups/awswtranslators/discussions/
 [3]:https://steamcommunity.com/profiles/76561199007249524/
-[4]:https://discord.com/users/638007218670796832/
 [5]:https://github.com/sigmasaur/AwSW-it/discussions/
 [6]:https://1drv.ms/u/s!AizmqTe1iFZrhYt-GIuCq4MLa9Ki2A?e=46qKmV
 
@@ -418,7 +417,6 @@ The following are mostly to the benefit of the developer and translators. <ins>I
 * At line 228, 366, 439, 651, 653, 657, 687: Assumed plural of modesty; see also lines 615-617 of [`lorem4.rpy`](#lorem4rpy).
 * At line 228, 493, 659: Corrected simple dash or en-dash to em-dash.
 * At line 447: Corrected uppercase letter to lowercase after colon.
-* At line 456: Adapted to preserve a pun; reverse translation: *I don't have a spit weapon, unless you count spluttering.*
 * At line 553: Enclosed *human* in italics tags.
 
 ### [`lorem2.rpy`](italiantl/lorem2.rpy)

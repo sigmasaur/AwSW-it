@@ -130,7 +130,7 @@ translate italiantl anna5_3de6ab5e:
 translate italiantl anna5_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # see line 537 of chapter 5
+    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la sua mossa." # see line 537 of chapter 5
 
 # game/anna5.rpy:85
 translate italiantl anna5_ef9cdfc8:
@@ -418,7 +418,7 @@ translate italiantl _call_endingjustafewminuteslater_1_3957bdba:
 translate italiantl _call_endingjustafewminuteslater_1_afefa1e4:
 
     # An "Would you want to spend your last days strapped to a hospital bed, slowly wasting away until nothing is left but a mere shell - a shadow of your former self?"
-    An "Vorresti passare i tuoi ultimi giorni legatə a un letto di ospedale, consumandoti lentamente finché non resta che un mero involucro—un'ombra di quel che sei statə un tempo?" # see line 1378 of Anna 3; corrected em-dash
+    An "Vorresti passare i tuoi ultimi giorni legatə a un letto di ospedale, consumandoti lentamente finché non resta che un mero involucro—un'ombra di quel che sei statə?" # see line 1378 of Anna 3; corrected em-dash
 
 # game/anna5.rpy:343
 translate italiantl _call_endingjustafewminuteslater_1_c48f1b73:
@@ -682,7 +682,7 @@ translate italiantl _call_endingjustafewminuteslater_1_11108241:
 translate italiantl _call_endingjustafewminuteslater_1_aaf2dabf:
 
     # m "As I made my way to the portal to return to the day of my arrival, I thought about what had just happened and what I would do now."
-    m "Mentre mi facevo strada verso il portale per ritornare al giorno del mio arrivo, ripensai a ciò che era appena accaduto e a ciò che avrei fatto adesso."
+    m "Mentre mi facevo strada verso il portale per ritornare al giorno del mio arrivo, ripensai a quel che era appena accaduto e a quel che avrei fatto adesso."
 
 # game/anna5.rpy:514
 translate italiantl _call_endingjustafewminuteslater_1_c5fbb59d:
@@ -838,7 +838,7 @@ translate italiantl annagoodending_c8720a47:
 translate italiantl annagoodending_598ee9f8:
 
     # An "Who cares what the doctor says? I know he sugarcoats everything. It's not going to be long now, or else I wouldn't even be here."
-    An "Chi se ne importa cosa dice il dottore? So bene che indora sempre la pillola. Non ci vorrà ancora molto, oppure non sarei nemmeno qui."
+    An "A chi importa cosa dice il dottore? So bene che indora sempre la pillola. Non ci vorrà ancora molto, oppure non sarei nemmeno qui."
 
 # game/anna5.rpy:823
 translate italiantl annagoodending_37ff030f:

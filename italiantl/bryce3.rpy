@@ -778,7 +778,7 @@ translate italiantl _call_skipcheck_26_1a57efc6:
 translate italiantl _call_skipcheck_26_1e04f53b:
 
     # m "After all of us had made our selection and put it on the fire, we sat down in a circle around it. Of course, Bryce made sure that Maverick and I were not sitting next to each other."
-    m "Dopo che avemmo fatto tutti la nostra scelta e messo sul fuoco, sedemmo in cerchio attorno ad esso. Naturalmente, [Br] si assicurò che io e [Mv] non sedessimo l'unə accanto all'altro."
+    m "Dopo che avemmo fatto tutti la nostra scelta e messa sul fuoco, sedemmo in cerchio attorno ad esso. Naturalmente, [Br] si assicurò che [Mv] ed io non sedessimo l'unə accanto all'altro."
 
 # game/bryce3.rpy:509
 translate italiantl _call_skipcheck_26_64e0345e:
@@ -1174,7 +1174,7 @@ translate italiantl bryce3pass_7a66a558:
 translate italiantl bryce3pass_f167204b:
 
     # Br brow "It's not that easy, considering our positions. Even though I'm the chief, there's nothing I can do to prevent her from pulling me off the case and making me into her personal body guard."
-    Br brow "Non è così semplice, considerando le nostre posizioni. Anche se sono il capo, non c'è niente che possa fare per impedirle di togliermi dal caso e fare di me la sua personale guardia del corpo."
+    Br brow "Non è così semplice, considerando le nostre posizioni. Anche se sono il capo, non c'è niente che io possa fare per impedirle di togliermi dal caso e fare di me la sua personale guardia del corpo."
 
 # game/bryce3.rpy:678
 translate italiantl bryce3pass_fd8a7a11:

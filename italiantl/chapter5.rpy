@@ -64,7 +64,7 @@ translate italiantl aloneendings_37857128:
 translate italiantl aloneendings_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # "everyone" -> "many"
+    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la sua mossa." # "everyone" -> "many"
 
 # game/chapter5.rpy:539
 translate italiantl aloneendings_cf6444f6:
@@ -172,7 +172,7 @@ translate italiantl _call_endingjustafewminuteslater_a04a361a:
 translate italiantl _call_endingjustafewminuteslater_861dff8c:
 
     # m "Reza was right. In reality, the bomb provided no real leverage against him. If his goal was truly to save our city back home at any costs, he would not turn himself in. Even if the threat of setting off the bomb was a real one, his best chance would be to at least try to kill me now."
-    m "[Rz] aveva ragione. In realtà, la bomba non forniva alcun reale vantaggio contro di lui. Se il suo obiettivo era veramente salvare la nostra città ad ogni costo, non si sarebbe mai consegnato. E se anche la minaccia di innescare la bomba fosse stata reale, quantomeno tentare di uccidermi adesso era la sua migliore possibilità." # "leverage" -> "advantage"; "our city [back home]"; "not turn" -> "never turn"; "AND even if"
+    m "[Rz] aveva ragione. In realtà, la bomba non forniva alcuna vera forza di leva contro di lui. Se il suo obiettivo era veramente salvare la nostra città ad ogni costo, non si sarebbe mai consegnato. E se anche la minaccia di innescare la bomba fosse stata reale, quantomeno tentare di uccidermi adesso era la sua migliore possibilità." # "our city [back home]"; "not turn" -> "never turn"; "AND even if"
 
 # game/chapter5.rpy:596
 translate italiantl _call_endingjustafewminuteslater_69f65a19:

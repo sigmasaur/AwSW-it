@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_33_685c0d02:
 translate italiantl _call_skipcheck_33_83eb823b:
 
     # Lo happy "Sure, as long as you don't talk with your arms."
-    Lo happy "Certo, fintantoché non parli con le braccia."
+    Lo happy "Certo, a patto che non parli con le braccia."
 
 # game/lorem2.rpy:434
 translate italiantl _call_skipcheck_33_b3e0b434:
@@ -466,7 +466,7 @@ translate italiantl _call_skipcheck_33_71527314:
 translate italiantl _call_skipcheck_33_3e6b13bd:
 
     # "???" "Like you aren't doing that right now. Besides, this room is mine as much as it is yours. I'll just watch and be quiet."
-    "??? " "Come se tu non lo stessi facendo proprio adesso. E poi, questa stanza è mia tanto quanto è tua. Guarderò solo in silenzio."
+    "??? " "Come se tu non lo stessi facendo in questo momento. E poi, questa stanza è mia tanto quanto è tua. Guarderò solo in silenzio."
 
 # game/lorem2.rpy:472
 translate italiantl _call_skipcheck_33_694dd263:
@@ -526,7 +526,7 @@ translate italiantl _call_skipcheck_33_71527314_1:
 translate italiantl _call_skipcheck_33_9d921148:
 
     # Ip happy "Like you aren't doing that already. Besides, this room is mine as much as it is yours. I'll just watch and be quiet."
-    Ip happy "Come se tu non lo stessi facendo proprio adesso. E poi, questa stanza è mia tanto quanto è tua. Guarderò solo in silenzio." # see line 470
+    Ip happy "Come se tu non lo stessi facendo in questo momento. E poi, questa stanza è mia tanto quanto è tua. Guarderò solo in silenzio." # see line 470
 
 # game/lorem2.rpy:500
 translate italiantl _call_skipcheck_33_694dd263_1:
@@ -1438,7 +1438,7 @@ translate italiantl _call_skipcheck_33_b4066fe0:
 translate italiantl _call_skipcheck_33_9de9073c:
 
     # c "Draw me like one of your..." # french girls. titanic reference
-    c "Disegnami come una delle tue..." # adapted the Italian translation of Titanic, not sure it works though
+    c "Ritraimi come una delle tue..." # adapted the Italian translation of Titanic, not sure it works though
 
 # game/lorem2.rpy:947
 translate italiantl _call_skipcheck_33_96664921:
@@ -1912,7 +1912,7 @@ translate italiantl _call_skipcheck_33_f5f7c27d_1:
 translate italiantl _call_skipcheck_33_eb67535f:
 
     # Ip think "However, what if the wormholes don't actually bring you to the other side by teleporting you, but instead just bend the paper into the torus shape and hold the edges together?"
-    Ip think "Tuttavia, e se in effetti il cunicolo non ti portasse dall'altra parte teletrasportandoti, ma piuttosto semplicemente piegando il foglio a formare un toro e tenendone assieme i bordi?" # "the edges" -> "its edges"
+    Ip think "Tuttavia, e se in effetti il cunicolo non ti portasse dall'altra parte teletrasportandoti, ma piuttosto piegando semplicemente il foglio a formare un toro e tenendone assieme i bordi?" # "the edges" -> "its edges"
 
 # game/lorem2.rpy:1113
 translate italiantl _call_skipcheck_33_ec8a8b64:

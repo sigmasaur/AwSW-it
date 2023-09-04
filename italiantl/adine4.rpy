@@ -556,7 +556,7 @@ translate italiantl _call_skipcheck_30_d7634421:
 translate italiantl _call_skipcheck_30_09924f41:
 
     # Ad disappoint b "I don't want to wonder if I'll ever amount to anything more than a waitress. I want to be able to follow my dream, and I don't want to wait another year to find out."
-    Ad disappoint b "Non voglio chiedermi se sarò mai qualcosa di più che una cameriera. Voglio essere in grado di inseguire i miei sogni, e non voglio aspettare un altro anno per scoprirlo."
+    Ad disappoint b "Non voglio chiedermi se sarò mai qualcosa di più che una cameriera. Voglio essere in grado di inseguire il mio sogno, e non voglio aspettare un altro anno per scoprirlo."
 
 # game/adine4.rpy:315
 translate italiantl _call_skipcheck_30_10b4da99:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_30_00495487:
 translate italiantl _call_skipcheck_30_e94c70c8:
 
     # Ad "When I was inside and had a bit of time to cool off, I realized I didn't want to do it like this, even if I'd have to wait another year."
-    Ad "Quando ero dentro e ho avuto un po' di tempo per sbollire, mi sono resa conto di non volerlo fare in questo modo, anche se dovessi aspettare un altro anno."
+    Ad "Quando ero dentro e ho avuto un po' di tempo per sbollire, mi sono resa conto di non volerlo fare in questo modo, anche se avrei dovuto aspettare un altro anno."
 
 # game/adine4.rpy:389
 translate italiantl _call_skipcheck_30_cef17680:
@@ -1648,7 +1648,7 @@ translate italiantl a4shower_445c3050:
 translate italiantl a4shower_8619da62:
 
     # m "She turned to show me her back, wings splayed."
-    m "Si voltò a mostrarmi la sua schiena, ali spianate."
+    m "Si voltò a mostrarmi la schiena, ali spianate."
 
 # game/adine4.rpy:811
 translate italiantl a4shower_e5f0f915:

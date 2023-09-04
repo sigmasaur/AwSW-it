@@ -874,7 +874,7 @@ translate italiantl _call_skipcheck_7_6f9d05c4:
 translate italiantl _call_skipcheck_7_c6a90608:
 
     # An "A board game? Really?"
-    An "Un gioco da tavolo? Davvero?"
+    An "Un gioco da tavolo? Sul serio?"
 
 # game/anna1.rpy:681
 translate italiantl _call_skipcheck_7_e658b925:
@@ -940,7 +940,7 @@ translate italiantl _call_skipcheck_7_8ecea63c:
 translate italiantl _call_skipcheck_7_b95464b4:
 
     # c "No fitting me in during your break, no complaining about everything, and no acting as if you're doing me a favor, especially because it was you who wanted to meet me in the first place."
-    c "Non m'infili in un ritaglio della tua pausa, non ti lamenti di ogni cosa, e non ti atteggi come se mi facessi un favore, specie dal momento che sei stata tu a volermi incontrare sin dall'inizio." # "because" -> "since"
+    c "Non mi infili in un ritaglio della tua pausa, non ti lamenti di ogni cosa, e non ti atteggi come se mi facessi un favore, specie dal momento che sei stata tu a volermi incontrare sin dall'inizio." # "because" -> "since"
 
 # game/anna1.rpy:708
 translate italiantl _call_skipcheck_7_1be57190:
@@ -1084,7 +1084,7 @@ translate italiantl _call_skipcheck_7_900ba916:
 translate italiantl _call_skipcheck_7_0e088460:
 
     # An "You won't be so lucky again."
-    An "Non ne avrai più così tanta." # must match line 809
+    An "Non sarai più così fortunatə." # "again" -> "anymore"
 
 # game/anna1.rpy:827
 translate italiantl _call_skipcheck_7_4bf8a8dc:
@@ -1468,7 +1468,7 @@ translate italiantl _call_syscheck_36_27a8acdb:
 translate italiantl _call_syscheck_36_4e513385:
 
     # n "Even though my bet of forcing her to go on a proper date with me was more to get back at her for her earlier rudeness, I had not expected this outcome. I was not even sure what I expected from this meeting in the first place, but now I was locked into going on a date with her and being her own, personal guinea pig."
-    n "Anche se la mia scommessa che sarebbe venuta a un vero e proprio appuntamento con me era più che altro per rivalermi della sua scontrosità di prima, quest'esito non me l'aspettavo. Non ero nemmeno sicurə di cosa mi fossi aspettatə da questo incontro, eppure adesso mi ero impegnatə a uscire con lei e fare da sua personale cavia da laboratorio." # "what I HAD expected from this meeting [in the first place]"; "but" -> "yet"
+    n "Anche se la mia scommessa che sarebbe venuta a un vero e proprio appuntamento con me era più che altro per rivalermi della sua scontrosità di prima, quest'esito non me l'ero aspettato. Non ero nemmeno sicurə di cosa mi fossi aspettatə da questo incontro, eppure adesso mi ero impegnatə a uscire con lei e fare da sua personale cavia da laboratorio." # "what I HAD expected from this meeting [in the first place]"; "but" -> "yet"
 
 # game/anna1.rpy:1094
 translate italiantl _call_syscheck_36_7f2e72b6:
@@ -1540,7 +1540,7 @@ translate italiantl anna1skip_4e24c2ca:
 translate italiantl anna1skip_f5f06e56:
 
     # An "Sure. I mean, you didn't win, but I think you earned it nonetheless. Or maybe I'm just that nice."
-    An "Certo. Voglio dire, non hai vinto, ma penso che nondimeno te lo sia guadagnato. O forse sono solo così gentile."
+    An "Certo. Voglio dire, non hai vinto, ma penso che nondimeno te lo sia guadagnato. O magari sono solo così gentile."
 
 # game/anna1.rpy:1138
 translate italiantl anna1skip_fe5f3366:
@@ -1756,7 +1756,7 @@ translate italiantl strings:
 
     # anna1.rpy:274
     old "Guess you can give me the tour some other time, then."
-    new "Immagino che potrai farmi fare il giro turistico un'altra volta, allora."
+    new "Immagino che puoi farmi fare il giro turistico un'altra volta, allora."
 
     # anna1.rpy:274
     old "How disappointing."
@@ -1828,7 +1828,7 @@ translate italiantl strings:
 
     # anna1.rpy:562
     old "I was just asking a question, that's all."
-    new "Facevo solo una domanda, tutto qui."
+    new "Facevo solo una domanda, ecco tutto."
 
     # anna1.rpy:562
     old "Yes, totally. You can call your lawyer if you like."
@@ -1836,7 +1836,7 @@ translate italiantl strings:
 
     # anna1.rpy:562
     old "I think someone's in a bad mood."
-    new "Penso che qualcuno qui sia di malumore." # "someone's" -> "someone here is"
+    new "Mi sa che qualcuno qui è di malumore." # "someone's" -> "someone here is"
 
     # anna1.rpy:578
     old "Alright, I'll finish my drink quietly, then, if that's what you'd prefer."
@@ -1908,7 +1908,7 @@ translate italiantl strings:
 
     # anna1.rpy:888
     old "One."
-    new "Uno."
+    new "Una."
 
     # anna1.rpy:888
     old "Two."

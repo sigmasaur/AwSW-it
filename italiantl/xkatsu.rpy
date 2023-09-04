@@ -346,7 +346,7 @@ translate italiantl _call_skipcheck_27_76b2fe88:
 translate italiantl _call_skipcheck_27_a33bd48c:
 
     # n "I have very fond memories of my childhood. When I was little, we had a confectioner in town who offered all kinds of specialties - from cookies and sweets to cakes and chocolates."
-    n "Ho dei bei ricordi della mia infanzia. quando ero piccolo, avevamo una pasticceria in città che offriva ogni genere di specialità—da biscotti e dolciumi a torte e cioccolatini." # corrected em-dash
+    n "Ho dei bei ricordi della mia infanzia. Quando ero piccolo, avevamo una pasticceria in città che offriva ogni genere di specialità—da biscotti e dolciumi a torte e cioccolatini." # corrected em-dash
 
 # game/xkatsu.rpy:236
 translate italiantl _call_skipcheck_27_de499e2c:
@@ -544,7 +544,7 @@ translate italiantl _call_skipcheck_27_1bc47770_1:
 translate italiantl _call_skipcheck_27_6a7ffc6a:
 
     # Ka normal "I may be very forgiving, but the recipes aren't. Some steps require manual labor, and people don't expect the harsh conditions that come with the job."
-    Ka normal "Io potrò essere molto indulgente, ma le ricette non lo sono. Certi passaggi richiedono del lavoro manuale, e la gente non si aspetta le dure condizioni del mestiere."
+    Ka normal "Io potrò essere molto indulgente, ma le ricette non lo sono. Certi passaggi richiedono del lavoro manuale, e la gente non si aspetta le dure condizioni del mestiere." # "that come with" -> "of"
 
 # game/xkatsu.rpy:323
 translate italiantl _call_skipcheck_27_4a52bd53:
@@ -581,7 +581,7 @@ translate italiantl _call_skipcheck_27_893b4bac:
 translate italiantl _call_skipcheck_27_c00ea5c3:
 
     # Ka normal "I am not sure if his interest will still be present. Even if it is, I don't know if he will be able to brave the hardships that come with it. But I have hope."
-    Ka normal "Non sono certo che il suo interesse sarà ancora presente. E se anche lo sarà, non so se lui sarà in grado di affrontarne le difficoltà. Ma io ci spero." # "AND even if"
+    Ka normal "Non sono certo che il suo interesse sarà ancora presente. E se anche lo sarà, non so se lui sarà in grado di affrontare le difficoltà che ne vengono. Ma io ci spero." # "AND even if"
 
 # game/xkatsu.rpy:335
 translate italiantl _call_skipcheck_27_4d90ee72:
@@ -605,7 +605,7 @@ translate italiantl _call_skipcheck_27_d55e6553:
 translate italiantl _call_skipcheck_27_1ee5434f:
 
     # c "Maybe you shouldn't count on the people seeking you out. You should try coming to the people instead. That's what a cart is usually for, right? Have you tried moving it somewhere else?"
-    c "Forse non dovresti contare sulla gente perché ti cerchino. Dovresti provare a venire tu dalla gente piuttosto. È a questo che serve un carretto, giusto? Hai provato a spostarlo altrove?"
+    c "Forse non dovresti contare sulla gente perché ti cerchino. Dovresti provare a venire tu dalla gente piuttosto. Di solito è a questo che serve un carretto, giusto? Hai provato a spostarlo altrove?"
 
 # game/xkatsu.rpy:343
 translate italiantl _call_skipcheck_27_b707c4e1:
@@ -911,7 +911,7 @@ translate italiantl _call_skipcheck_27_e832f1ef:
 translate italiantl _call_skipcheck_27_44601eba:
 
     # Em "Well, it's not hard to see why when you kept staying at your old spot on the other side of town."
-    Em "Be', non è difficile vedere il perché quando hai continuato a restare al tuo vecchio punto dall'altra parte della città."
+    Em "Be', non è difficile vedere il perché quando hai continuato a restare nel tuo vecchio punto dall'altra parte della città."
 
 # game/xkatsu.rpy:501
 translate italiantl _call_skipcheck_27_279973b9:

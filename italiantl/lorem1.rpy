@@ -514,13 +514,13 @@ translate italiantl _call_skipcheck_16_12a75e24:
 translate italiantl _call_skipcheck_16_c28061a0:
 
     # Lo think "I can see you don't have wings, but most of us are able to create fire in some way, or at least have a breath weapon. How about you?"
-    Lo think "Posso vedere che non hai le ali, ma molti di noi sono in grado di creare il fuoco in qualche modo, o almeno hanno un'arma da sputo. E tu, invece?" # "breath weapon" -> "spit weapon"
+    Lo think "Posso vedere che non hai le ali, ma molti di noi sono in grado di creare il fuoco in qualche modo, o almeno hanno un'arma da soffio. E tu, invece?"
 
 # game/lorem1.rpy:460
 translate italiantl _call_skipcheck_16_d275ced1:
 
     # Lo "I don't think that counts."
-    Lo "Non penso che quelli contino."
+    Lo "Non penso che quello conti."
 
 # game/lorem1.rpy:466
 translate italiantl _call_skipcheck_16_4e5846ff:
@@ -1324,7 +1324,7 @@ translate italiantl _call_skipcheck_16_a2b55cc8:
 translate italiantl _call_skipcheck_16_260f4bd1:
 
     # Lo happy "I got more than enough material to work with. Thanks a lot!"
-    Lo happy "Ho più che abbastanza materiale con cui lavorare. Molte grazie!"
+    Lo happy "Ho più che abbastanza materiale con cui lavorare. Grazie mille!"
 
 # game/lorem1.rpy:822
 translate italiantl _call_skipcheck_16_d4b333ad:
@@ -1594,7 +1594,7 @@ translate italiantl strings:
 
     # lorem1.rpy:456
     old "I don't have a breath weapon, unless you count my morning breath."
-    new "Io non ho un'arma da sputo, a meno che non conti gli sputacchi." # adapted to preserve a pun; must match line 453
+    new "Io non ho un'arma da soffio, a meno che non conti il mio fiato al mattino."
 
     # lorem1.rpy:456
     old "I can rub two sticks together to make fire. Does that count?"

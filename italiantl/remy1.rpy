@@ -88,7 +88,7 @@ translate italiantl _call_skipcheck_22_0054b77b:
 translate italiantl _call_skipcheck_22_6788763a:
 
     # m "It was quite a spacious building, lined with many bookcases on multiple floors. From the looks of it, it seemed to be as much of an archive as it was a library, with immaculate order permeating the chamber. It was the kind of place I could see myself getting lost in for an afternoon or two, thumbing through all the interesting books it could offer me."
-    m "Era un edificio alquanto spazioso, affiancato da molti scaffali su molteplici piani. Dall'aspetto, sembrava essere tanto un archivio quanto era una biblioteca, con un ordine immacolato che permeava la sala. Era il tipo di posto in cui mi ci vedevo bene a perdermici per un pomeriggio o due, sfogliando tutti i libri interessanti che poteva offrirmi."
+    m "Era un edificio alquanto spazioso, affiancato da molti scaffali su molteplici piani. Dall'aspetto, sembrava essere tanto un archivio quanto era una biblioteca, con un ordine immacolato che permeava la sala. Era il tipo di posto in cui mi ci vedevo bene a perdermici per un pomeriggio o due, sfogliando tutti i libri interessanti che poteva offrirmi." # wording
 
 # game/remy1.rpy:121
 translate italiantl _call_skipcheck_22_97628180:
@@ -577,7 +577,7 @@ translate italiantl _call_syscheck_85_76b2fe88:
 translate italiantl _call_syscheck_85_cb3d9530:
 
     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparentemente [Ry] non aveva approvato la mia riluttanza a fargli da schiavə."
+    n "Apparentemente [Ry] non aveva approvato la mia riluttanza a fargli da schiavettə."
 
 # game/remy1.rpy:804
 translate italiantl _call_syscheck_85_6fabc8b8:
@@ -613,7 +613,7 @@ translate italiantl _call_syscheck_85_b548434c_1:
 translate italiantl _call_syscheck_85_1b7297b4:
 
     # Ry "I see. Let me fix that up for you, then."
-    Ry "Capisco. lascia che sistemi io per te." # see line 787
+    Ry "Capisco. Lascia che sistemi io per te." # see line 787
 
 # game/remy1.rpy:854
 translate italiantl _call_syscheck_85_d703d4e0_1:
@@ -643,7 +643,7 @@ translate italiantl _call_syscheck_85_76b2fe88_2:
 translate italiantl _call_syscheck_85_cb3d9530_1:
 
     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparentemente [Ry] non aveva approvato la mia riluttanza a fargli da schiavə." # see line 803
+    n "Apparentemente [Ry] non aveva approvato la mia riluttanza a fargli da schiavettə." # see line 803
 
 # game/remy1.rpy:866
 translate italiantl _call_syscheck_85_6fabc8b8_1:
@@ -679,7 +679,7 @@ translate italiantl _call_syscheck_85_b548434c_2:
 translate italiantl _call_syscheck_85_1b7297b4_1:
 
     # Ry "I see. Let me fix that up for you, then."
-    Ry "Capisco. lascia che sistemi io per te." # see line 850
+    Ry "Capisco. Lascia che sistemi io per te." # see line 850
 
 # game/remy1.rpy:916
 translate italiantl _call_syscheck_85_d703d4e0_2:
@@ -709,7 +709,7 @@ translate italiantl _call_syscheck_85_76b2fe88_4:
 translate italiantl _call_syscheck_85_cb3d9530_2:
 
     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparentemente [Ry] non aveva approvato la mia riluttanza a fargli da schiavə." # see line 803
+    n "Apparentemente [Ry] non aveva approvato la mia riluttanza a fargli da schiavettə." # see line 803
 
 # game/remy1.rpy:928
 translate italiantl _call_syscheck_85_6fabc8b8_2:
@@ -754,7 +754,7 @@ translate italiantl _call_syscheck_85_b548434c_3:
 translate italiantl _call_syscheck_85_1b7297b4_2:
 
     # Ry "I see. Let me fix that up for you, then."
-    Ry "Capisco. lascia che sistemi io per te." # see line 850
+    Ry "Capisco. Lascia che sistemi io per te." # see line 850
 
 # game/remy1.rpy:978
 translate italiantl _call_syscheck_85_d703d4e0_3:
@@ -784,7 +784,7 @@ translate italiantl _call_syscheck_85_76b2fe88_6:
 translate italiantl _call_syscheck_85_cb3d9530_3:
 
     # n "Apparently Remy hadn't approved of my unwillingness to be his slave."
-    n "Apparentemente [Ry] non aveva approvato la mia riluttanza a fargli da schiavə." # see line 803
+    n "Apparentemente [Ry] non aveva approvato la mia riluttanza a fargli da schiavettə." # see line 803
 
 # game/remy1.rpy:990
 translate italiantl _call_syscheck_85_6fabc8b8_3:
@@ -874,7 +874,7 @@ translate italiantl remycont_dfdabe9a:
 translate italiantl remycont_f8b8b643:
 
     # Ry "I was mainly asking about the priceless artifacts you just dropped."
-    Ry "Chiedevo principalmente degli inestimabili manufatti che hai appena fatto cadere."
+    Ry "Chiedevo più che altro degli inestimabili manufatti che hai appena fatto cadere."
 
 # game/remy1.rpy:1065
 translate italiantl remycont_7bdef241:
@@ -910,7 +910,7 @@ translate italiantl remycont_d5f5d069:
 translate italiantl remycont_2897079b:
 
     # m "I picked up one of the scrolls that had unraveled during the commotion and taunted him with it. It now had a large hole after falling on one of the other artifacts."
-    m "Raccolsi una delle pergamene che si erano sciolte durante il trambusto e la usai per provocarlo. Ora aveva un grosso buco dopo che era caduta su uno degli altri manufatti." # "and taunted him with it" -> "and used it to taunt him"
+    m "Raccolsi una delle pergamene che si erano sciolte durante il trambusto e la usai per provocarlo. Ora aveva un grosso buco dopo che era caduta su di uno degli altri manufatti." # "and taunted him with it" -> "and used it to taunt him"
 
 # game/remy1.rpy:1084
 translate italiantl remycont_15e5e930:
@@ -965,7 +965,7 @@ translate italiantl remycont_dc421cc1:
 translate italiantl remycont_f6e14a6d:
 
     # c "I already said I was sorry, so shut up already."
-    c "Ti ho già chiesto scusa, quindi sta' zitto una buona volta."
+    c "Ti ho già chiesto scusa, perciò sta' zitto una buona volta."
 
 # game/remy1.rpy:1093
 translate italiantl remycont_71219a2d:
@@ -1211,7 +1211,7 @@ translate italiantl remystuff_1d8d2308:
 translate italiantl remystuff_3e0e5731:
 
     # Ry "Well, they're free to believe what they want. They'll see soon enough, anyway. Live and let live, as they say."
-    Ry "Be', sono liberi di credere ciò che vogliono. Se ne accorgeranno presto, comunque. Vivi e lascia vivere, come dicono."
+    Ry "Be', sono liberi di credere ciò che vogliono. Se ne accorgeranno presto, in ogni caso. Vivi e lascia vivere, come dicono."
 
 # game/remy1.rpy:1199
 translate italiantl remystuff_123e30ab:
@@ -1457,7 +1457,7 @@ translate italiantl _call_syscheck_86_2bbc9f66:
 translate italiantl _call_syscheck_86_f3225154:
 
     # c "(Let's see, what do we have here...)"
-    c "(Vediamo, cos'abbiamo qui...)"
+    c "(Vediamo, cosa abbiamo qui...)"
 
 # game/remy1.rpy:1350
 translate italiantl _call_syscheck_86_ff32e578:
@@ -1746,7 +1746,7 @@ translate italiantl _call_syscheck_86_7729e86f:
 translate italiantl _call_syscheck_86_00b08768:
 
     # c "What do you mean, it's all gone?"
-    c "Che vuoi dire, è tutto sparito?"
+    c "Come sarebbe, è tutto sparito?"
 
 # game/remy1.rpy:1596
 translate italiantl _call_syscheck_86_0a7f8364:
@@ -1956,7 +1956,7 @@ translate italiantl remy1skip_cfe2aa3c:
 translate italiantl remy1skip_e06d45c0:
 
     # Ry "Well, what do humans typically do in such a situation?"
-    Ry "Be', cosa fanno tipicamente gli umani in una situazione simile?"
+    Ry "Be', che cosa fanno tipicamente gli umani in una situazione simile?"
 
 # game/remy1.rpy:1729
 translate italiantl remy1skip_2496f7b1:
@@ -2318,7 +2318,7 @@ translate italiantl strings:
 
     # remy1.rpy:1157
     old "The longer you keep talking about this, the less I care."
-    new "Più continui a parlare di questo, e meno m'importa." # "longer" -> "more"
+    new "Più continui a parlarne, e meno m'importa." # "longer" -> "more"
 
     # remy1.rpy:1183
     old "Well, I can tell you that there is nothing supernatural about me."

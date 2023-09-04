@@ -520,7 +520,7 @@ translate italiantl _call_skipcheck_32_42bfa25e:
 translate italiantl _call_skipcheck_32_87426d48:
 
     # An "Although a match of 90%% sounds like a lot, it's not as much as you might think. Still, for two beings from a different world altogether, that's quite remarkable."
-    An "Sebbene una corrispondenza del novanta percento sembri tanto, non è quanto potresti pensare. Eppure, per degli esseri di un mondo del tutto diverso, è alquanto notevole." # see line 428; "[two] beings"
+    An "Sebbene una corrispondenza del novanta percento sembri tanto, non è quanto potresti pensare. Eppure, per degli esseri di un mondo completamente diverso, è alquanto notevole." # see line 428; "[two] beings"
 
 # game/anna2.rpy:438
 translate italiantl _call_skipcheck_32_7c45fda0:
@@ -898,7 +898,7 @@ translate italiantl _call_skipcheck_32_3598421d:
 translate italiantl _call_skipcheck_32_18982e40:
 
     # c "I can almost see the sarcasm dripping from your mouth."
-    c "Posso quasi vedere il sarcasmo colarti dalla bocca."
+    c "Posso quasi vedere il sarcasmo colarti di bocca."
 
 # game/anna2.rpy:634
 translate italiantl _call_skipcheck_32_4080f4a4:
@@ -1402,7 +1402,7 @@ translate italiantl _call_skipcheck_32_75098963:
 translate italiantl _call_skipcheck_32_2a537beb:
 
     # An smirk c "I'd love to see it. Though, we've already gathered plenty of information on your tech from the databases contained in the PDA. What will you do when we catch up?"
-    An smirk c "Mi piacerebbe vederla. Anche se, abbiamo già raccolto informazioni in abbondanza sulla vostra tecnologia dalle basi di dati contenute nel palmare. Che cosa farete quando vi avremo raggiunto?"
+    An smirk c "Mi piacerebbe vederla. Anche se, abbiamo già raccolto informazioni in abbondanza sulla vostra tecnologia dalle basi di dati contenute nel palmare. Che farete quando vi avremo raggiunto?"
 
 # game/anna2.rpy:951
 translate italiantl _call_skipcheck_32_14283680:
@@ -1438,7 +1438,7 @@ translate italiantl _call_skipcheck_32_678f9d86:
 translate italiantl _call_skipcheck_32_f2aa4009:
 
     # c "We always held on to the fact that we had our brains and intellect, but now that we found you, that doesn't really make us unique anymore."
-    c "Ci siamo sempre aggrappati al fatto che avevamo i nostri cervelli e il nostro intelletto, ma adesso che vi abbiamo trovato, non è che questi ci rendano più così unici." # "THAT unique"
+    c "Ci siamo sempre aggrappati al fatto che avevamo il nostro cervello e intelletto, ma adesso che vi abbiamo trovato, non è che questo ci renda più così unici." # "our brain[s]" "THAT unique"
 
 # game/anna2.rpy:979
 translate italiantl _call_skipcheck_32_14bbf64a:
@@ -1540,7 +1540,7 @@ translate italiantl _call_skipcheck_32_c5aed8d5:
 translate italiantl _call_skipcheck_32_7ab0071a:
 
     # m "The flames weakened and grew smaller until they went out, revealing steamy, appetizing pieces of meat."
-    m "Le fiamme s'indebolirono e scemarono fino ad estinguersi, rivelando fumanti e appetitosi tagli di carne."
+    m "Le fiamme si indebolirono e scemarono fino ad estinguersi, rivelando fumanti e appetitosi tagli di carne."
 
 # game/anna2.rpy:1056
 translate italiantl _call_skipcheck_32_880f45b8:
@@ -1942,7 +1942,7 @@ translate italiantl anna2else_83079b08:
 translate italiantl anna2else_670c9433:
 
     # An normal "I'll let you know the details. Or just call me, if I forget."
-    An normal "Ti farò sapere i dettagli. Oppure fammi uno squillo, se me ne dimentico." # see line 1286; must match line 1335
+    An normal "Ti farò sapere i dettagli. Oppure fammi tu uno squillo, se me ne dimentico." # see line 1286
 
 # game/anna2.rpy:1339
 translate italiantl anna2else_c48dc32f:

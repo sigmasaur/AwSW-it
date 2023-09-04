@@ -172,7 +172,7 @@ translate italiantl _call_skipcheck_17_b7f336c7:
 translate italiantl _call_skipcheck_17_944bcbb5:
 
     # n "Besides, I couldn't care less about what some old people thought about my work. As if I needed their approval. I was already more than any of them could have ever dreamed to be."
-    n "E poi, non m'importava nulla di cosa pensava qualche vecchietto del mio lavoro. Come se mi fosse servita la loro approvazione. Io ero già più di quanto chiunque di loro avesse mai sognato."
+    n "E poi, non m'importava nulla di cosa pensava qualche vecchiardo del mio lavoro. Come se mi fosse servita la loro approvazione. Io ero già più di quanto chiunque di loro avesse mai sognato."
 
 # game/anna4.rpy:178
 translate italiantl _call_skipcheck_17_76b2fe88_1:
@@ -202,7 +202,7 @@ translate italiantl _call_skipcheck_17_3a996be4:
 translate italiantl _call_skipcheck_17_5f5d28f1:
 
     # n "Despite having helped an incredible amount of people with my work, I was now the one who needed help… Yet there was no one who could help me."
-    n "Malgrado avessi aiutato una quantità incredibile di persone col mio lavoro, adesso ero io ad aver bisogno d'aiuto... Eppure non c'era nessuno che potesse darmelo."
+    n "Malgrado avessi aiutato una quantità incredibile di persone col mio lavoro, adesso ero io ad aver bisogno di aiuto... Eppure non c'era nessuno che potesse darmelo."
 
 # game/anna4.rpy:189
 translate italiantl _call_skipcheck_17_15fef034:
@@ -370,7 +370,7 @@ translate italiantl _call_skipcheck_17_3461f980:
 translate italiantl _call_skipcheck_17_c9c53b69:
 
     # An face "Before my paperwork would even get through, you’d be long gone."
-    An face "Prima ancora che li avessero smaltiti, te ne saresti già andatə da un pezzo." # "my paperwork" -> "they"
+    An face "Prima ancora che li avessero sbrigàti, te ne saresti già andatə da un pezzo." # "my paperwork" -> "they"
 
 # game/anna4.rpy:269
 translate italiantl _call_skipcheck_17_2466102c:
@@ -688,7 +688,7 @@ translate italiantl anna4skip1_41ec2651:
 translate italiantl anna4skip1_57b4cc06:
 
     # An "They keep talking about how they care about everyone, yet that wasn't what happened to me."
-    An "Continuano a dire come gli importi di tutti quanti, eppure non è quello che è successo a me."
+    An "Continuano a dire come gli importi di tutti quanti, eppure non è quello che è successo con me."
 
 # game/anna4.rpy:402
 translate italiantl anna4skip1_e3dd800d:
@@ -1336,7 +1336,7 @@ translate italiantl _call_skipcheck_18_c3009a29:
 translate italiantl _call_skipcheck_18_c09d41a9:
 
     # An face "Not necessarily, since it also leads to reluctant agreements and sweeping issues that should be talked about under the rug. You know what? That doesn't jive with me."
-    An face "Non necessariamente, dato che porta anche ad accordarsi con riluttanza e accantonare questioni di cui si dovrebbe discutere. E sai che c'è? La cosa non mi va a genio." # wording; "AND you know what"
+    An face "Non necessariamente, dato che porta anche ad accordarsi con riluttanza e accantonare questioni di cui si dovrebbe discutere. E sai che c'è? Non mi va a genio." # wording; "AND you know what"
 
 # game/anna4.rpy:707
 translate italiantl _call_skipcheck_18_b56474f2:
@@ -1408,13 +1408,13 @@ translate italiantl _call_skipcheck_18_b073898c:
 translate italiantl _call_skipcheck_18_901a10e9:
 
     # An face "That's something our politicians would say."
-    An face "Questa è una cosa che direbbero i nostri politici."
+    An face "Questo è qualcosa che direbbero i nostri politici."
 
 # game/anna4.rpy:737
 translate italiantl _call_skipcheck_18_998dda8e:
 
     # c "At least they have good intentions if they do what they feel is right."
-    c "Almeno hanno buone intenzioni se fanno ciò che ritengono giusto."
+    c "Almeno hanno buone intenzioni se fanno quel che ritengono giusto."
 
 # game/anna4.rpy:739
 translate italiantl _call_skipcheck_18_d66751e3:

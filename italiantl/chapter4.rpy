@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_20_0054b77b:
 translate italiantl _call_skipcheck_20_22b7f8ca:
 
     # m "We arrived at a place that would look like an ordinary house, had it not been for its extraordinary size. It reminded me more of a hostel than a family home."
-    m "Giungemmo in un posto che sarebbe sembrato una normalissima casa, non fosse stato per le sue straordinarie dimensioni. Ricordava più un ostello che una residenza familiare."
+    m "Giungemmo in un posto che sarebbe sembrato una normalissima casa, non fosse stato per le straordinarie dimensioni. Ricordava più un ostello che una residenza familiare."
 
 # game/chapter4.rpy:724
 translate italiantl _call_skipcheck_20_5c1049c0:
@@ -718,13 +718,13 @@ translate italiantl c4skip1_d848bfa0:
 translate italiantl c4skip1_251d100a:
 
     # Mv "You're really playing that innocent role, aren't you? Now you're offering yourself as a bargaining chip for Reza. At this rate, even I might start to believe you if I didn't have reason not to."
-    Mv "Vuoi proprio giocare a fare l'innocente, vero? Adesso ti offri come moneta di scambio per [Rz]. Di questo passo, persino io potrei iniziare a crederti se non avessi motivo di non farlo."
+    Mv "Vuoi proprio giocare a fare l'innocente, vero? Adesso ti offri come moneta di scambio per [Rz]. Di questo passo, persino io potrei iniziare a crederti se non avessi motivo del contrario."
 
 # game/chapter4.rpy:1008
 translate italiantl c4skip1_7631c61d:
 
     # c "If I were with Reza, it would have been much easier for me to pull a gun on you, too, the day you were shot. But I didn't even bring one when I came through the portal."
-    c "Se stessi con [Rz], sarebbe stato molto più semplice per me puntarti contro una pistola anch'io, il giorno che ti ha sparato. Ma non ne ho nemmeno portata una quando ho attraversato il portale."
+    c "Se stessi con [Rz], sarebbe stato molto più semplice per me puntarti contro una pistola anch'io, il giorno che ti ha sparato. Ma non ne ho nemmeno portata una quando ho attraversato il portale." # "you were shot" -> "he shot you"
 
 # game/chapter4.rpy:1010
 translate italiantl c4skip1_12c7e112:
@@ -1045,7 +1045,7 @@ translate italiantl c4skip1_cfe089ff:
 translate italiantl c4skip1_7d428300:
 
     # Mv "Even if humanity and Reza have cooked up a crazy plan, and even if they are willing to sacrifice either of you for their own gain, maybe you really have nothing to do with it."
-    Mv "Se anche l'umanità e [Rz] hanno architettato un piano assurdo, e se anche sono disposti a sacrificarvi entrambi per il loro tornaconto, forse è vero che non hai niente a che vederci." # "either" -> "both"
+    Mv "Se anche l'umanità e [Rz] hanno architettato un piano assurdo, e se anche sono disposti a sacrificarvi entrambi per il loro tornaconto, forse davvero non hai niente a che vederci." # "either" -> "both"
 
 # game/chapter4.rpy:1120
 translate italiantl c4skip1_419ea041:
@@ -1333,7 +1333,7 @@ translate italiantl _call_syscheck_74_16815d97:
 translate italiantl _call_syscheck_74_14b85755:
 
     # s "Let me check and see if everything's alright now.{cps=2}..{/cps}{w=2.0}{nw}"
-    s "Fammi controllare e vedere se adesso è tutto a posto.{cps=2}..{/cps}{w=2.0}{nw}"
+    s "Fammi controllare se adesso è tutto a posto.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter4.rpy:1388
 translate italiantl _call_syscheck_74_e25f5d23:
@@ -1381,7 +1381,7 @@ translate italiantl _call_syscheck_74_483235ce:
 translate italiantl _call_syscheck_74_24643395:
 
     # s "I'll just hope this was enough to teach you a lesson and leave it at that."
-    s "Spero solo che questo sia stato sufficiente a insegnarti una lezione e a lasciare le cose come stanno."
+    s "Spero solo sia stato sufficiente a insegnarti una lezione e a lasciare le cose come stanno."
 
 # game/chapter4.rpy:1458
 translate italiantl _call_syscheck_75_f9a281a1:
@@ -1399,13 +1399,13 @@ translate italiantl _call_syscheck_75_9926d559:
 translate italiantl _call_syscheck_75_9eef7341:
 
     # s "Do not attempt to change this outcome by reloading, but move on to its natural conclusion or create a new timeline by returning to Chapter 1."
-    s "Non tentare di cambiare quest'esito ricaricando, e invece prosegui verso la sua conclusione naturale oppure crea una nuova linea temporale ritornando al Capitolo 1."
+    s "Non tentare di cambiare quest'esito ricaricando, e invece prosegui verso la sua naturale conclusione oppure crea una nuova linea temporale ritornando al Capitolo 1."
 
 # game/chapter4.rpy:1470
 translate italiantl _call_syscheck_75_bb252af0:
 
     # s "When creating a new timeline, do not interfere with other timelines, but let it reach its natural conclusion until this point has been passed safely."
-    s "Nel creare una nuova linea temporale, non interferire con le altre, e invece lascia che raggiunga la sua conclusione naturale finché questo punto non sia stato superato in sicurezza." # "other timelines" -> "the other ones"
+    s "Nel creare una nuova linea temporale, non interferire con le altre, e invece lascia che raggiunga la sua naturale conclusione finché questo punto non sia stato superato in sicurezza." # "other timelines" -> "the other ones"
 
 # game/chapter4.rpy:1474
 translate italiantl _call_syscheck_75_75e944da:
@@ -1429,7 +1429,7 @@ translate italiantl _call_syscheck_75_82023689:
 translate italiantl _call_syscheck_75_9e6d75bb:
 
     # s "It seems this point in time is prone to corruption, and it happened yet again."
-    s "Sembra che questo istante temporale sia prono alla corruzione, ed è successo ancora una volta."
+    s "Sembra che questo istante temporale sia prono alla corruzione, ed è accaduto ancora una volta."
 
 # game/chapter4.rpy:1491
 translate italiantl _call_syscheck_75_a70b110c:
@@ -1441,7 +1441,7 @@ translate italiantl _call_syscheck_75_a70b110c:
 translate italiantl _call_syscheck_75_a1ecb90e:
 
     # s "You can either just ignore this and move on, or if this is really important to you, return to Chapter 1 and start a new timeline. If you do this, don't interfere with other timelines until you get here, or else this might happen again."
-    s "Puoi anche ignorarlo e proseguire, o se è davvero importante per te, ritornare al Capitolo 1 e iniziare una nuova linea temporale. Se lo fai, non interferire con altre linee temporali finché non arrivi qui, altrimenti questo potrebbe accadere di nuovo."
+    s "Puoi anche ignorarlo e proseguire, o se è davvero importante per te, ritornare al Capitolo 1 e iniziare una nuova linea temporale. Se lo fai, non interferire con altre linee temporali finché non arrivi qui, altrimenti potrebbe accadere di nuovo."
 
 # game/chapter4.rpy:1499
 translate italiantl _call_syscheck_75_4f5f91c6_1:
@@ -1495,7 +1495,7 @@ translate italiantl _call_syscheck_76_232b5694:
 translate italiantl _call_syscheck_76_7a7812fc:
 
     # s "Please do not alter timelines in rapid succession, as this may cause corruptions to occur."
-    s "Non alterare le linee temporali in rapida successione, poiché questo può causare il verificarsi di corruzioni."
+    s "Non alterare le linee temporali in rapida successione, poiché può causare il verificarsi di corruzioni."
 
 # game/chapter4.rpy:1575
 translate italiantl _call_syscheck_76_5b2972d2:
@@ -1537,7 +1537,7 @@ translate italiantl _call_syscheck_76_460f158e:
 translate italiantl _call_syscheck_76_a847ef91:
 
     # s "You know, this could have been avoided if you just stuck with your original choice. Going back and forth like this isn't really in the spirit of this whole thing, anyway."
-    s "Lo sai, questo si sarebbe potuto evitare se solo tu avessi tenuto fede alla tua scelta originale. Andare avanti e indietro a questo modo non è proprio nello spirito di tutto questo, comunque."
+    s "Lo sai, questo si sarebbe potuto evitare se solo tu avessi tenuto fede alla tua scelta originale. Andare avanti e indietro a quel modo non è proprio nello spirito di tutto questo, comunque." # "like this" -> "like that"
 
 # game/chapter4.rpy:1605
 translate italiantl _call_syscheck_76_e61dff85:
@@ -1567,7 +1567,7 @@ translate italiantl _call_syscheck_76_41e30641:
 translate italiantl _call_syscheck_76_0c4a1cda:
 
     # s "You think you can reload and everything will be fine again? A person's death is not so easily undone."
-    s "Pensi di poter ricaricare e andrà di nuovo tutto bene? Alla morte di una persona non si rimedia così facilmente."
+    s "Pensi di poter ricaricare e andrà di nuovo tutto bene? Alla morte di qualcuno non si rimedia così facilmente." # "a person" -> "someone"
 
 # game/chapter4.rpy:1628
 translate italiantl _call_syscheck_76_caaf1304:
@@ -1591,7 +1591,7 @@ translate italiantl _call_syscheck_76_81fccf0f:
 translate italiantl _call_syscheck_77_fe9ef34d:
 
     # s "Error: Corruption found. Changing this timeline not possible after a reload."
-    s "Errore: Corruzione trovata. Impossibile cambiare questa linea temporale dopo aver ricaricato."
+    s "Errore: Corruzione trovata. Impossibile cambiare questa linea temporale dopo aver ricaricato." # see line 1565
 
 # game/chapter4.rpy:1680
 translate italiantl _call_syscheck_77_1f742d9d:
@@ -1639,13 +1639,13 @@ translate italiantl _call_syscheck_77_af7be7fa:
 translate italiantl _call_syscheck_77_dd67cfbf:
 
     # s "However, if you go back to the beginning and load an unrelated save file before you get to this point again, it may cause your progress in this matter to be erased, which means that you will have to start over again if you wish to change this outcome."
-    s "Tuttavia, se torni all'inizio e carichi un salvataggio non correlato prima di arrivare di nuovo a questo punto, può causare la perdita dei tuoi progressi al riguardo, il che significa che dovrai ricominciare di nuovo se desideri cambiare quest'esito." # slightly pruned to fit three lines; "unrelated save [file]"
+    s "Tuttavia, se torni all'inizio e carichi un salvataggio non correlato prima di arrivare di nuovo a questo punto, può causare la perdita dei tuoi progressi al riguardo, il che significa che dovrai ricominciare di nuovo se desideri cambiare quest'esito." # see line 1688; slightly pruned to fit three lines; "unrelated save [file]"
 
 # game/chapter4.rpy:1712
 translate italiantl _call_syscheck_77_6c61da9b_1:
 
     # s "It might be easier to just accept this outcome and move on for now."
-    s "Per il momento potrebbe venire più facile semplicemente accettare quest'esito e proseguire."
+    s "Per il momento potrebbe venire più facile semplicemente accettare quest'esito e proseguire." # see line 1692
 
 # game/chapter4.rpy:1716
 translate italiantl _call_syscheck_77_0a01ae9e:
@@ -1657,7 +1657,7 @@ translate italiantl _call_syscheck_77_0a01ae9e:
 translate italiantl _call_syscheck_77_f97b62db:
 
     # s "If you really want to save Bryce, you'll have to do a bit more than that."
-    s "Se vuoi davvero salvare [Br], dovrai fare un po' più di questo."
+    s "Se vuoi davvero salvare [Br], dovrai fare un po' più di così."
 
 # game/chapter4.rpy:1724
 translate italiantl _call_syscheck_77_84419071:
@@ -1675,7 +1675,7 @@ translate italiantl _call_syscheck_77_a446639a:
 translate italiantl _call_syscheck_77_76855d50:
 
     # s "And don't even think of just going back to Chapter 1 and reloading a save to get here from there, because I'll know if you do that and then I'll just give you this speech again."
-    s "E non ti venga in mente di tornare semplicemente al Capitolo 1 e ricaricare un salvataggio per arrivare qui da lì, perché lo saprò se l'hai fatto e allora ti rifarò solo questo discorso."
+    s "E non ti venga in mente di tornare semplicemente al Capitolo 1 e ricaricare un salvataggio per arrivare da lì a qui, perché lo saprò se l'hai fatto e allora ti rifarò solo questo discorso."
 
 # game/chapter4.rpy:1736
 translate italiantl _call_syscheck_77_7115165d:
@@ -1699,7 +1699,7 @@ translate italiantl didit_91828e14:
 translate italiantl didit_bf9f1e22:
 
     # m "When I looked down to the source of the noise, I saw a taut wire through the gap in the door, hovering over the floor of the entryway."
-    m "Quando guardai in basso alla sorgente del rumore, intravidi un fil di ferro attraverso il varco nella porta, sospeso sopra il pavimento dell'ingresso."
+    m "Quando guardai in basso verso la sorgente del rumore, intravidi un fil di ferro attraverso il varco nella porta, sospeso sopra il pavimento dell'ingresso."
 
 # game/chapter4.rpy:1792
 translate italiantl c4intuition_8a5ca110:
@@ -1915,7 +1915,7 @@ translate italiantl c4intuition_90ea8e25:
 translate italiantl brycefirst_93189ec3:
 
     # Br "Actually, I'm not sure if this is a good idea."
-    Br "Ripensandoci, non sono sicuro che questa sia una buona idea."
+    Br "Ripensandoci, non sono sicuro che sia una buona idea."
 
 # game/chapter4.rpy:1903
 translate italiantl brycefirst_5f1f6096:
@@ -2065,7 +2065,7 @@ translate italiantl brycefirst_a6bce8f5:
 translate italiantl brycefirst_8257f5a5:
 
     # Sb disapproval b "But you know what? We can't stop now. If anything, this has only proven that he's even more dangerous than we thought. If Reza can make bombs out of generators, who's to say where he'll use them next?"
-    Sb disapproval b "Ma sai che c'è? Non possiamo fermarci adesso. Semmai, questo ha solo dimostrato che lui è ancora più pericoloso di quanto pensassimo. Se [Rz] può fabbricare bombe coi generatori, chi può dire dove le userà la prossima volta?"
+    Sb disapproval b "Ma sai che c'è? Non possiamo fermarci adesso. Semmai, questo ha solo dimostrato che lui è ancora più pericoloso di quanto pensassimo. Se [Rz] può fabbricare bombe coi generatori, chi può dire dove le userà la prossima volta?" # see line 1866
 
 # game/chapter4.rpy:1994
 translate italiantl brycefirst_f116eb4c:
@@ -2089,7 +2089,7 @@ translate italiantl brycefirst_67a75b27:
 translate italiantl brycefirst_62399d4f:
 
     # Sb "At least Reza doesn't have any generators, for now. All the stolen ones were accounted for inside the building."
-    Sb "Almeno [Rz] non ha alcun generatore, per adesso. Tutti quelli sottratti sono stati ritrovati all'interno dell'edificio."
+    Sb "Almeno [Rz] non ha alcun generatore, per adesso. Tutti quelli sottratti sono stati ritrovati all'interno dell'edificio." # see line 1868
 
 # game/chapter4.rpy:2002
 translate italiantl brycefirst_0fb2d9e2:
@@ -2263,7 +2263,7 @@ translate italiantl c4cont2_f43be0cf:
 translate italiantl c4cont2_0130ecf1:
 
     # Sb "Yes, it has a great tradition behind it. What peeves me most is that I'll be on guard duty when it happens this year, so I probably won't be able to see a thing."
-    Sb "Sì, ha una grande tradizione alle spalle. Quello che più mi dà sui nervi è che sarò di guardia quando succederà quest'anno, quindi è probabile che non sarò in grado di vedere un bel niente." # "it has" -> "there's"
+    Sb "Sì, ha una grande tradizione alle spalle. Quel che più mi dà sui nervi è che sarò di guardia quando succederà quest'anno, quindi è probabile che non sarò in grado di vedere un bel niente." # "it has" -> "there's"
 
 # game/chapter4.rpy:2089
 translate italiantl c4cont2_4b635033:
@@ -2785,7 +2785,7 @@ translate italiantl c4facility_2ae4c97a:
 translate italiantl c4facility_39defa02:
 
     # c "(I hope this is the right place.)"
-    c "(Spero che questo sia il posto giusto.)"
+    c "(Spero sia il posto giusto.)"
 
 # game/chapter4.rpy:2525
 translate italiantl c4facility_80d0b150:
@@ -2851,13 +2851,13 @@ translate italiantl loremnotmissing_9c960c3e:
 translate italiantl loremnotmissing_d6b0f084:
 
     # Ip think "Can I help you?"
-    Ip think "Posso aiutarti?"
+    Ip think "Posso aiutarti?" # see line 2574
 
 # game/chapter4.rpy:2588
 translate italiantl loremnotmissing_cef17091:
 
     # c "Yeah. I'm working with the police and hoped you could answer a few questions."
-    c "Sì. Lavoro con la polizia e speravo potessi rispondere ad alcune domande."
+    c "Sì. Lavoro con la polizia e speravo potessi rispondere ad alcune domande." # see line 2580
 
 # game/chapter4.rpy:2592
 translate italiantl loremnotmissing_68dad7a1:
@@ -2893,7 +2893,7 @@ translate italiantl loremnotmissing_e4572aa4:
 translate italiantl loremnotmissing_75416a96:
 
     # Ip think "Around 2AM, I suddenly hear a few bangs outside. They reminded me of small explosions."
-    Ip think "Attorno alle due del mattino, all'improvviso ho sentito alcuni tuoni di fuori. Mi hanno ricordato delle piccole esplosioni."
+    Ip think "Intorno alle due del mattino, all'improvviso ho sentito alcuni tuoni di fuori. Mi hanno ricordato delle piccole esplosioni."
 
 # game/chapter4.rpy:2604
 translate italiantl loremnotmissing_c87e8928:
@@ -2971,13 +2971,13 @@ translate italiantl loremnotmissing_fe5f3366:
 translate italiantl loremnotmissing_9d308e3d_1:
 
     # "???" "Can I help you?"
-    "??? " "Posso aiutarti?"
+    "??? " "Posso aiutarti?" # see line 2574
 
 # game/chapter4.rpy:2679
 translate italiantl loremnotmissing_6cb5fcc8_1:
 
     # c "You must be Ipsum. Is that right?"
-    c "Tu devi essere [Ip]. È corretto?"
+    c "Tu devi essere [Ip]. È corretto?" # see line 2576
 
 # game/chapter4.rpy:2681
 translate italiantl loremnotmissing_626c30a3:
@@ -2989,25 +2989,25 @@ translate italiantl loremnotmissing_626c30a3:
 translate italiantl loremnotmissing_a15c71e7_1:
 
     # c "I'm working with the police and hoped you could answer a few questions."
-    c "Lavoro con la polizia e speravo potessi rispondere ad alcune domande."
+    c "Lavoro con la polizia e speravo potessi rispondere ad alcune domande." # see line 2580
 
 # game/chapter4.rpy:2687
 translate italiantl loremnotmissing_dbeaf6c5:
 
     # Ip think "Oh, it's you."
-    Ip think "Oh, sei tu."
+    Ip think "Oh, sei tu." # see line 2584
 
 # game/chapter4.rpy:2689
 translate italiantl loremnotmissing_04aa68db:
 
     # Ip "Can I help you?"
-    Ip "Posso aiutarti?"
+    Ip "Posso aiutarti?" # see line 2574
 
 # game/chapter4.rpy:2691
 translate italiantl loremnotmissing_cef17091_1:
 
     # c "Yeah. I'm working with the police and hoped you could answer a few questions."
-    c "Sì. Lavoro con la polizia e speravo potessi rispondere ad alcune domande."
+    c "Sì. Lavoro con la polizia e speravo potessi rispondere ad alcune domande." # see line 2580
 
 # game/chapter4.rpy:2696
 translate italiantl loremnotmissing_b516b795:
@@ -3019,7 +3019,7 @@ translate italiantl loremnotmissing_b516b795:
 translate italiantl loremnotmissing_9cbff9bd:
 
     # Ip "Do you have any news about Lorem?"
-    Ip "Hai qualche notizia di [Lo]?"
+    Ip "Hai qualche notizia di [Lo]?" # see line 2696
 
 # game/chapter4.rpy:2702
 translate italiantl loremnotmissing_9e19beb8:
@@ -3037,13 +3037,13 @@ translate italiantl loremnotmissing_42258e65:
 translate italiantl loremnotmissing_3752cdda:
 
     # c "What is going on with Lorem?"
-    c "Che succede con [Lo]?"
+    c "Che succede con [Lo]?" # see line 2706
 
 # game/chapter4.rpy:2712
 translate italiantl loremnotmissing_21ff236f:
 
     # Ip sad "He went missing a few days ago. I already talked to someone from the police about this, but I haven't heard back from them since."
-    Ip sad "È scomparso alcuni giorni fa. Ho già parlato di questo con qualcuno della polizia, ma non mi hanno più richiamato da allora."
+    Ip sad "È scomparso alcuni giorni fa. Ne ho già parlato con qualcuno della polizia, ma non mi hanno più richiamato da allora."
 
 # game/chapter4.rpy:2714
 translate italiantl loremnotmissing_c21407a9:
@@ -3067,7 +3067,7 @@ translate italiantl loremnotmissing_0e144e97:
 translate italiantl loremnotmissing_3907e8c4:
 
     # Ip "I'm sorry, but I don't think I want to talk about this right now."
-    Ip "Mi dispiace, ma non credo di voler parlare di questo al momento."
+    Ip "Mi dispiace, ma non credo di volerne parlare in questo momento."
 
 # game/chapter4.rpy:2756
 translate italiantl c4library_a50af3ed:
@@ -3265,7 +3265,7 @@ translate italiantl c4library_f76092e2:
 translate italiantl c4library_7d6298bc_1:
 
     # Ry "Oh, hello [player_name]. What are you doing here?"
-    Ry "Oh, salve [player_name]. Cosa ci fai tu qui?"
+    Ry "Oh, salve [player_name]. Cosa ci fai tu qui?" # see line 2830
 
 # game/chapter4.rpy:2869
 translate italiantl c4library_460db703:
@@ -3277,7 +3277,7 @@ translate italiantl c4library_460db703:
 translate italiantl c4library_07d1113d_1:
 
     # Ry "I see."
-    Ry "Capisco."
+    Ry "Capisco." # see line 2834
 
 # game/chapter4.rpy:2873
 translate italiantl c4library_55a08bac_1:
@@ -3289,43 +3289,43 @@ translate italiantl c4library_55a08bac_1:
 translate italiantl c4library_e1a48044_1:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c "Già, e adesso puoi guardare tutta la conoscenza umana che vuoi."
+    c "Già, e adesso puoi guardare tutta la conoscenza umana che vuoi." # see line 2838
 
 # game/chapter4.rpy:2877
 translate italiantl c4library_3a588917_1:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal "Non hai idea di quanto lo aspettassi con ansia."
+    Ry normal "Non hai idea di quanto lo aspettassi con ansia." # see line 2840
 
 # game/chapter4.rpy:2879
 translate italiantl c4library_91c4e706_1:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry "Potrò anche non lavorare oggi, ma gli darò comunque un'occhiata il prima possibile."
+    Ry "Potrò anche non lavorare oggi, ma gli darò comunque un'occhiata il prima possibile." # see line 2842
 
 # game/chapter4.rpy:2881
 translate italiantl c4library_890850e8_1:
 
     # c "I'm just going to leave you to it, then."
-    c "Credo che adesso ti lascerò fare, allora."
+    c "Credo che adesso ti lascerò fare, allora." # see line 2844
 
 # game/chapter4.rpy:2883
 translate italiantl c4library_b97e7acd_1:
 
     # Ry smile "Thanks."
-    Ry smile "Grazie."
+    Ry smile "Grazie." # see line 2846
 
 # game/chapter4.rpy:2885
 translate italiantl c4library_f76092e2_1:
 
     # c "Enjoy."
-    c "Divèrtiti."
+    c "Divèrtiti." # see line 2848
 
 # game/chapter4.rpy:2903
 translate italiantl c4library_7d6298bc_2:
 
     # Ry "Oh, hello [player_name]. What are you doing here?"
-    Ry "Oh, salve [player_name]. Cosa ci fai tu qui?"
+    Ry "Oh, salve [player_name]. Cosa ci fai tu qui?" # see line 2830
 
 # game/chapter4.rpy:2905
 translate italiantl c4library_460db703_1:
@@ -3337,7 +3337,7 @@ translate italiantl c4library_460db703_1:
 translate italiantl c4library_07d1113d_2:
 
     # Ry "I see."
-    Ry "Capisco."
+    Ry "Capisco." # see line 2834
 
 # game/chapter4.rpy:2909
 translate italiantl c4library_55a08bac_2:
@@ -3349,37 +3349,37 @@ translate italiantl c4library_55a08bac_2:
 translate italiantl c4library_e1a48044_2:
 
     # c "Yep, and now you can look at all the human knowledge you want."
-    c "Già, e adesso puoi guardare tutta la conoscenza umana che vuoi."
+    c "Già, e adesso puoi guardare tutta la conoscenza umana che vuoi." # see line 2838
 
 # game/chapter4.rpy:2913
 translate italiantl c4library_3a588917_2:
 
     # Ry normal "You have no idea how much I'm looking forward to that."
-    Ry normal "Non hai idea di quanto lo aspettassi con ansia."
+    Ry normal "Non hai idea di quanto lo aspettassi con ansia." # see line 2840
 
 # game/chapter4.rpy:2915
 translate italiantl c4library_91c4e706_2:
 
     # Ry "I may not be working today, but I'm still going to check it out as soon as possible."
-    Ry "Potrò anche non lavorare oggi, ma gli darò comunque un'occhiata il prima possibile."
+    Ry "Potrò anche non lavorare oggi, ma gli darò comunque un'occhiata il prima possibile." # see line 2842
 
 # game/chapter4.rpy:2917
 translate italiantl c4library_890850e8_2:
 
     # c "I'm just going to leave you to it, then."
-    c "Credo che adesso ti lascerò fare, allora."
+    c "Credo che adesso ti lascerò fare, allora." # see line 2844
 
 # game/chapter4.rpy:2919
 translate italiantl c4library_b97e7acd_2:
 
     # Ry smile "Thanks."
-    Ry smile "Grazie."
+    Ry smile "Grazie." # see line 2846
 
 # game/chapter4.rpy:2921
 translate italiantl c4library_f76092e2_2:
 
     # c "Enjoy."
-    c "Divèrtiti."
+    c "Divèrtiti." # see line 2848
 
 # game/chapter4.rpy:2940
 translate italiantl c4library_e63a1f9c:
@@ -3397,7 +3397,7 @@ translate italiantl c4library_460db703_2:
 translate italiantl c4library_07d1113d_3:
 
     # Ry "I see."
-    Ry "Capisco."
+    Ry "Capisco." # see line 2834
 
 # game/chapter4.rpy:2946
 translate italiantl c4library_00fbcf15:
@@ -3421,7 +3421,7 @@ translate italiantl c4library_c94450f0:
 translate italiantl c4library_f76092e2_3:
 
     # c "Enjoy."
-    c "Divèrtiti."
+    c "Divèrtiti." # see line 2848
 
 # game/chapter4.rpy:2971
 translate italiantl c4library_759894d0:
@@ -3529,31 +3529,31 @@ translate italiantl c4library_541184d2:
 translate italiantl c4library_759b976c_1:
 
     # Sb "I see."
-    Sb "Capisco."
+    Sb "Capisco." # see line 3035
 
 # game/chapter4.rpy:3049
 translate italiantl c4library_82410399_1:
 
     # Sb "I suppose the reason doesn't really matter at this point. He's already gone."
-    Sb "Suppongo che le ragioni non abbiano molta importanza a questo punto. Ormai se n'è andato."
+    Sb "Suppongo che le ragioni non abbiano molta importanza a questo punto. Ormai se n'è andato." # see line 3037
 
 # game/chapter4.rpy:3051
 translate italiantl c4library_32dc6903_1:
 
     # Sb "It's always a shame when things like this happen, when there are resources to help people who have issues and illnesses."
-    Sb "È sempre triste quando succedono cose del genere, quando ci sono le risorse per aiutare le persone che hanno disturbi o infermità."
+    Sb "È sempre triste quando succedono cose del genere, quando ci sono le risorse per aiutare le persone che hanno disturbi o infermità." # see line 3039
 
 # game/chapter4.rpy:3053
 translate italiantl c4library_b56454d2_1:
 
     # Sb "It's a mark on our society, a reminder that we let it happen. Someone suffered so much that they took their own life."
-    Sb "È una macchia sulla nostra società, un monito che abbiamo permesso che ciò accadesse. Qualcuno ha sofferto così tanto da togliersi la sua stessa vita."
+    Sb "È una macchia sulla nostra società, un monito che abbiamo permesso che ciò accadesse. Qualcuno ha sofferto così tanto da togliersi la sua stessa vita." # see line 3041
 
 # game/chapter4.rpy:3055
 translate italiantl c4library_541184d2_1:
 
     # Sb "But what more can you do?"
-    Sb "Ma che altro si può fare?"
+    Sb "Ma che altro si può fare?" # see line 3043
 
 # game/chapter4.rpy:3059
 translate italiantl c4library_9f36a9ba:
@@ -3961,7 +3961,7 @@ translate italiantl c4hatchery_e2c720d4:
 translate italiantl c4hatchery_8fe434b6:
 
     # Ad "Thanks for bringing them here."
-    Ad "Grazie per averle riportate qui."
+    Ad "Grazie di averle riportate qui."
 
 # game/chapter4.rpy:3258
 translate italiantl c4hatchery_bd805a76:
@@ -3991,55 +3991,55 @@ translate italiantl _call_syscheck_78_d6072573_1:
 translate italiantl _call_syscheck_78_688e156a:
 
     # Ad "Hey, [player_name]! What are you doing here?"
-    Ad "Ehi, [player_name]! Che ci fai tu qui?"
+    Ad "Ehi, [player_name]! Che ci fai tu qui?" # see line 3224
 
 # game/chapter4.rpy:3305
 translate italiantl _call_syscheck_78_7217eb74:
 
     # c "Oh, I just came by to drop these off."
-    c "Oh, sono solo passatə a lasciare queste."
+    c "Oh, sono solo passatə a lasciare queste." # see line 3226
 
 # game/chapter4.rpy:3307
 translate italiantl _call_syscheck_78_31837739:
 
     # Ad think b "Drop what off?"
-    Ad think b "Lasciare cosa?"
+    Ad think b "Lasciare cosa?" # see line 3228
 
 # game/chapter4.rpy:3309
 translate italiantl _call_syscheck_78_3a4b6fd4:
 
     # c "The stolen eggs. I figured the hatchery would want them back."
-    c "Le uova sottratte. Ho pensato che l'incubatoio avrebbe voluto riaverle indietro."
+    c "Le uova sottratte. Ho pensato che l'incubatoio avrebbe voluto riaverle indietro." # see line 3230
 
 # game/chapter4.rpy:3311
 translate italiantl _call_syscheck_78_444de1e5:
 
     # Ad normal b "Oh, I was actually going to get those from the police department later."
-    Ad normal b "Oh, in effetti le avrei recuperate io più tardi al dipartimento di polizia."
+    Ad normal b "Oh, in effetti le avrei recuperate io più tardi al dipartimento di polizia." # see line 3232
 
 # game/chapter4.rpy:3313
 translate italiantl _call_syscheck_78_bce6b00d:
 
     # Ad "I'm so glad that they got back safely."
-    Ad "Sono così contenta che siano ritornate sane e salve."
+    Ad "Sono così contenta che siano ritornate sane e salve." # see line 3234
 
 # game/chapter4.rpy:3315
 translate italiantl _call_syscheck_78_5a4c1572:
 
     # Ad giggle b "Amely, stop chewing my leg!"
-    Ad giggle b "[Am], smettila di mordicchiarmi la zampa!"
+    Ad giggle b "[Am], smettila di mordicchiarmi la zampa!" # see line 3236
 
 # game/chapter4.rpy:3323
 translate italiantl _call_syscheck_78_eef077db:
 
     # Am "It tasty!"
-    Am "È buona!"
+    Am "È buona!" # see line 3244
 
 # game/chapter4.rpy:3331
 translate italiantl _call_syscheck_78_f5e779f8:
 
     # Ad "Oh well..."
-    Ad "Oh be'..."
+    Ad "Oh be'..." # see line 3252
 
 # game/chapter4.rpy:3333
 translate italiantl _call_syscheck_78_4d4a0b95:
@@ -4075,25 +4075,25 @@ translate italiantl _call_syscheck_78_211247d2:
 translate italiantl _call_syscheck_78_61e85271:
 
     # Ad "Anyway, I was about to go inside, so I'll take those eggs off your hands."
-    Ad "Ad ogni modo, stavo per andare dentro, quindi ti toglierò il peso di queste uova dalle mani."
+    Ad "Ad ogni modo, stavo per andare dentro, quindi ti toglierò il peso di queste uova dalle mani." # see line 3254
 
 # game/chapter4.rpy:3351
 translate italiantl _call_syscheck_78_8fe434b6:
 
     # Ad "Thanks for bringing them here."
-    Ad "Grazie per averle riportate qui."
+    Ad "Grazie di averle riportate qui." # see line 3256
 
 # game/chapter4.rpy:3353
 translate italiantl _call_syscheck_78_bd805a76:
 
     # c "No problem."
-    c "Nessun problema."
+    c "Nessun problema." # see line 3258
 
 # game/chapter4.rpy:3375
 translate italiantl _call_syscheck_79_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s "Hai restituito le uova all'incubatoio!"
+    s "Hai restituito le uova all'incubatoio!" # see line 3281
 
 # game/chapter4.rpy:3379
 translate italiantl _call_syscheck_79_d6072573:
@@ -4141,25 +4141,25 @@ translate italiantl _call_syscheck_79_af1ebe74:
 translate italiantl _call_syscheck_79_61e85271:
 
     # Ad "Anyway, I was about to go inside, so I'll take those eggs off your hands."
-    Ad "Ad ogni modo, stavo per andare dentro, quindi ti toglierò il peso di queste uova dalle mani."
+    Ad "Ad ogni modo, stavo per andare dentro, quindi ti toglierò il peso di queste uova dalle mani." # see line 3349
 
 # game/chapter4.rpy:3408
 translate italiantl _call_syscheck_79_8fe434b6:
 
     # Ad "Thanks for bringing them here."
-    Ad "Grazie per averle riportate qui."
+    Ad "Grazie di averle riportate qui." # see line 3256
 
 # game/chapter4.rpy:3410
 translate italiantl _call_syscheck_79_bd805a76:
 
     # c "No problem."
-    c "Nessun problema."
+    c "Nessun problema." # see line 3353
 
 # game/chapter4.rpy:3434
 translate italiantl _call_syscheck_80_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s "Hai restituito le uova all'incubatoio!"
+    s "Hai restituito le uova all'incubatoio!" # see line 3281
 
 # game/chapter4.rpy:3438
 translate italiantl _call_syscheck_80_d6072573:
@@ -4177,79 +4177,79 @@ translate italiantl _call_syscheck_80_d6072573_1:
 translate italiantl _call_syscheck_80_604c7a85:
 
     # Ad "Hey! [player_name], right? What are you doing here?"
-    Ad "Ehi! [player_name], giusto? Che ci fai tu qui?"
+    Ad "Ehi! [player_name], giusto? Che ci fai tu qui?" # see line 3303
 
 # game/chapter4.rpy:3458
 translate italiantl _call_syscheck_80_7217eb74:
 
     # c "Oh, I just came by to drop these off."
-    c "Oh, sono solo passatə a lasciare queste."
+    c "Oh, sono solo passatə a lasciare queste." # see line 3305
 
 # game/chapter4.rpy:3460
 translate italiantl _call_syscheck_80_31837739:
 
     # Ad think b "Drop what off?"
-    Ad think b "Lasciare cosa?"
+    Ad think b "Lasciare cosa?" # see line 3307
 
 # game/chapter4.rpy:3462
 translate italiantl _call_syscheck_80_3a4b6fd4:
 
     # c "The stolen eggs. I figured the hatchery would want them back."
-    c "Le uova sottratte. Ho pensato che l'incubatoio avrebbe voluto riaverle indietro."
+    c "Le uova sottratte. Ho pensato che l'incubatoio avrebbe voluto riaverle indietro." # see line 3230
 
 # game/chapter4.rpy:3464
 translate italiantl _call_syscheck_80_444de1e5:
 
     # Ad normal b "Oh, I was actually going to get those from the police department later."
-    Ad normal b "Oh, in effetti le avrei recuperate io più tardi al dipartimento di polizia."
+    Ad normal b "Oh, in effetti le avrei recuperate io più tardi al dipartimento di polizia." # see line 3232
 
 # game/chapter4.rpy:3466
 translate italiantl _call_syscheck_80_bce6b00d:
 
     # Ad "I'm so glad that they got back safely."
-    Ad "Sono così contenta che siano ritornate sane e salve."
+    Ad "Sono così contenta che siano ritornate sane e salve." # see line 3234
 
 # game/chapter4.rpy:3468
 translate italiantl _call_syscheck_80_5a4c1572:
 
     # Ad giggle b "Amely, stop chewing my leg!"
-    Ad giggle b "[Am], smettila di mordicchiarmi la zampa!"
+    Ad giggle b "[Am], smettila di mordicchiarmi la zampa!" # see line 3236
 
 # game/chapter4.rpy:3476
 translate italiantl _call_syscheck_80_eef077db:
 
     # Am "It tasty!"
-    Am "È buona!"
+    Am "È buona!" # see line 3244
 
 # game/chapter4.rpy:3484
 translate italiantl _call_syscheck_80_f5e779f8:
 
     # Ad "Oh well..."
-    Ad "Oh be'..."
+    Ad "Oh be'..." # see line 3252
 
 # game/chapter4.rpy:3486
 translate italiantl _call_syscheck_80_e2c720d4:
 
     # Ad normal b "Anyway, I was about to go inside, so I'll take those off your hands."
-    Ad normal b "Ad ogni modo, stavo per andare dentro, quindi ti toglierò questo peso dalle mani."
+    Ad normal b "Ad ogni modo, stavo per andare dentro, quindi ti toglierò questo peso dalle mani." # see line 3254
 
 # game/chapter4.rpy:3488
 translate italiantl _call_syscheck_80_8fe434b6:
 
     # Ad "Thanks for bringing them here."
-    Ad "Grazie per averle riportate qui."
+    Ad "Grazie di averle riportate qui." # see line 3256
 
 # game/chapter4.rpy:3490
 translate italiantl _call_syscheck_80_bd805a76:
 
     # c "No problem."
-    c "Nessun problema."
+    c "Nessun problema." # see line 3258
 
 # game/chapter4.rpy:3507
 translate italiantl _call_syscheck_81_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s "Hai restituito le uova all'incubatoio!"
+    s "Hai restituito le uova all'incubatoio!" # see line 3281
 
 # game/chapter4.rpy:3511
 translate italiantl _call_syscheck_81_d6072573:
@@ -4369,19 +4369,19 @@ translate italiantl _call_syscheck_81_a1ae6a4e:
 translate italiantl _call_syscheck_81_93cfd23f_1:
 
     # Ry "Adine! Wait for me."
-    Ry "[Ad]! Aspettami."
+    Ry "[Ad]! Aspettami." # see line 3550
 
 # game/chapter4.rpy:3615
 translate italiantl _call_syscheck_81_9b04341c_1:
 
     # Ry smile flip "Good job, [player_name]."
-    Ry smile flip "Bel lavoro, [player_name]."
+    Ry smile flip "Bel lavoro, [player_name]." # see line 3556
 
 # game/chapter4.rpy:3625
 translate italiantl _call_syscheck_81_14b7f614_3:
 
     # Vr "..."
-    Vr "... "
+    Vr "... " # see line 3566
 
 # game/chapter4.rpy:3627
 translate italiantl _call_syscheck_81_b7530666_1:
@@ -4393,115 +4393,115 @@ translate italiantl _call_syscheck_81_b7530666_1:
 translate italiantl _call_syscheck_81_14b7f614_4:
 
     # Vr "..."
-    Vr "... "
+    Vr "... " # see line 3570
 
 # game/chapter4.rpy:3631
 translate italiantl _call_syscheck_81_daf2fc69_1:
 
     # Ry "She doesn't talk much."
-    Ry "Non è molto loquace."
+    Ry "Non è molto loquace." # see line 3572
 
 # game/chapter4.rpy:3641
 translate italiantl _call_syscheck_81_913a4129_1:
 
     # Ad "I think we should go inside."
-    Ad "Penso che dovremmo andare dentro."
+    Ad "Penso che dovremmo andare dentro." # see line 3582
 
 # game/chapter4.rpy:3643
 translate italiantl _call_syscheck_81_85c543cb_1:
 
     # Ry normal flip "Yeah, probably."
-    Ry normal flip "Già, probabilmente sì."
+    Ry normal flip "Già, probabilmente sì." # see line 3584
 
 # game/chapter4.rpy:3645
 translate italiantl _call_syscheck_81_543b2ee0_1:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]."
+    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]." # see line 3586
 
 # game/chapter4.rpy:3647
 translate italiantl _call_syscheck_81_a1ae6a4e_1:
 
     # Ad "Thanks for coming!"
-    Ad "Grazie di essere venutə!"
+    Ad "Grazie di essere venutə!" # see line 3588
 
 # game/chapter4.rpy:3686
 translate italiantl _call_syscheck_81_688e156a:
 
     # Ad "Hey, [player_name]! What are you doing here?"
-    Ad "Ehi, [player_name]! Che ci fai tu qui?"
+    Ad "Ehi, [player_name]! Che ci fai tu qui?" # see line 3303
 
 # game/chapter4.rpy:3688
 translate italiantl _call_syscheck_81_7217eb74:
 
     # c "Oh, I just came by to drop these off."
-    c "Oh, sono solo passatə a lasciare queste."
+    c "Oh, sono solo passatə a lasciare queste." # see line 3305
 
 # game/chapter4.rpy:3690
 translate italiantl _call_syscheck_81_31837739:
 
     # Ad think b "Drop what off?"
-    Ad think b "Lasciare cosa?"
+    Ad think b "Lasciare cosa?" # see line 3307
 
 # game/chapter4.rpy:3692
 translate italiantl _call_syscheck_81_3a4b6fd4:
 
     # c "The stolen eggs. I figured the hatchery would want them back."
-    c "Le uova sottratte. Ho pensato che l'incubatoio avrebbe voluto riaverle indietro."
+    c "Le uova sottratte. Ho pensato che l'incubatoio avrebbe voluto riaverle indietro." # see line 3230
 
 # game/chapter4.rpy:3694
 translate italiantl _call_syscheck_81_444de1e5:
 
     # Ad normal b "Oh, I was actually going to get those from the police department later."
-    Ad normal b "Oh, in effetti le avrei recuperate io più tardi al dipartimento di polizia."
+    Ad normal b "Oh, in effetti le avrei recuperate io più tardi al dipartimento di polizia." # see line 3232
 
 # game/chapter4.rpy:3696
 translate italiantl _call_syscheck_81_bce6b00d:
 
     # Ad "I'm so glad that they got back safely."
-    Ad "Sono così contenta che siano ritornate sane e salve."
+    Ad "Sono così contenta che siano ritornate sane e salve." # see line 3234
 
 # game/chapter4.rpy:3698
 translate italiantl _call_syscheck_81_5a4c1572:
 
     # Ad giggle b "Amely, stop chewing my leg!"
-    Ad giggle b "[Am], smettila di mordicchiarmi la zampa!"
+    Ad giggle b "[Am], smettila di mordicchiarmi la zampa!" # see line 3236
 
 # game/chapter4.rpy:3706
 translate italiantl _call_syscheck_81_eef077db:
 
     # Am "It tasty!"
-    Am "È buona!"
+    Am "È buona!" # see line 3244
 
 # game/chapter4.rpy:3716
 translate italiantl _call_syscheck_81_f5e779f8:
 
     # Ad "Oh well..."
-    Ad "Oh be'..."
+    Ad "Oh be'..." # see line 3252
 
 # game/chapter4.rpy:3718
 translate italiantl _call_syscheck_81_e2c720d4:
 
     # Ad normal b "Anyway, I was about to go inside, so I'll take those off your hands."
-    Ad normal b "Ad ogni modo, stavo per andare dentro, quindi ti toglierò questo peso dalle mani."
+    Ad normal b "Ad ogni modo, stavo per andare dentro, quindi ti toglierò questo peso dalle mani." # see line 3254
 
 # game/chapter4.rpy:3720
 translate italiantl _call_syscheck_81_8fe434b6:
 
     # Ad "Thanks for bringing them here."
-    Ad "Grazie per averle riportate qui."
+    Ad "Grazie di averle riportate qui." # see line 3256
 
 # game/chapter4.rpy:3722
 translate italiantl _call_syscheck_81_bd805a76:
 
     # c "No problem."
-    c "Nessun problema."
+    c "Nessun problema." # see line 3258
 
 # game/chapter4.rpy:3738
 translate italiantl _call_syscheck_82_62624e2a:
 
     # s "You returned the eggs to the hatchery!"
-    s "Hai restituito le uova all'incubatoio!"
+    s "Hai restituito le uova all'incubatoio!" # see line 3281
 
 # game/chapter4.rpy:3742
 translate italiantl _call_syscheck_82_d6072573:
@@ -4519,19 +4519,19 @@ translate italiantl _call_syscheck_82_d6072573_1:
 translate italiantl _call_syscheck_82_93cfd23f:
 
     # Ry "Adine! Wait for me."
-    Ry "[Ad]! Aspettami."
+    Ry "[Ad]! Aspettami." # see line 3550
 
 # game/chapter4.rpy:3786
 translate italiantl _call_syscheck_82_9b04341c:
 
     # Ry smile flip "Good job, [player_name]."
-    Ry smile flip "Bel lavoro, [player_name]."
+    Ry smile flip "Bel lavoro, [player_name]." # see line 3556
 
 # game/chapter4.rpy:3788
 translate italiantl _call_syscheck_82_e2b6e4af:
 
     # c "Looks like you took my advice."
-    c "Sembra che tu abbia seguito il mio consiglio."
+    c "Sembra che tu abbia seguito il mio consiglio." # see line 3558
 
 # game/chapter4.rpy:3790
 translate italiantl _call_syscheck_82_3e5277ba:
@@ -4549,7 +4549,7 @@ translate italiantl _call_syscheck_82_f4e45657:
 translate italiantl _call_syscheck_82_14b7f614:
 
     # Vr "..."
-    Vr "... "
+    Vr "... " # see line 3566
 
 # game/chapter4.rpy:3798
 translate italiantl _call_syscheck_82_b7530666:
@@ -4561,79 +4561,79 @@ translate italiantl _call_syscheck_82_b7530666:
 translate italiantl _call_syscheck_82_14b7f614_1:
 
     # Vr "..."
-    Vr "... "
+    Vr "... " # see line 3570
 
 # game/chapter4.rpy:3802
 translate italiantl _call_syscheck_82_daf2fc69:
 
     # Ry "She doesn't talk much."
-    Ry "Non è molto loquace."
+    Ry "Non è molto loquace." # see line 3572
 
 # game/chapter4.rpy:3804
 translate italiantl _call_syscheck_82_8750cb21:
 
     # c "Yeah, I noticed."
-    c "Già, ho notato."
+    c "Già, ho notato." # see line 3574
 
 # game/chapter4.rpy:3806
 translate italiantl _call_syscheck_82_a8f53fef:
 
     # Ry "It's not unusual for someone who's had a rough life like her."
-    Ry "Non è insolito per qualcuno che ha avuto una vita difficile come la sua." # "like herS" to match line 3576
+    Ry "Non è insolito per qualcuno che ha avuto una vita difficile come la sua." # "like herS" to match line 3576; see that line
 
 # game/chapter4.rpy:3808
 translate italiantl _call_syscheck_82_da7a5c49:
 
     # Ry smile flip "She's definitely listening, though. Isn't that right?"
-    Ry smile flip "Di sicuro ascolta, comunque. Non è vero?"
+    Ry smile flip "Di sicuro ascolta, comunque. Non è vero?" # see line 3578
 
 # game/chapter4.rpy:3810
 translate italiantl _call_syscheck_82_14b7f614_2:
 
     # Vr "..."
-    Vr "... "
+    Vr "... " # see line 3580
 
 # game/chapter4.rpy:3812
 translate italiantl _call_syscheck_82_913a4129:
 
     # Ad "I think we should go inside."
-    Ad "Penso che dovremmo andare dentro."
+    Ad "Penso che dovremmo andare dentro." # see line 3582
 
 # game/chapter4.rpy:3814
 translate italiantl _call_syscheck_82_85c543cb:
 
     # Ry normal flip "Yeah, probably."
-    Ry normal flip "Già, probabilmente sì."
+    Ry normal flip "Già, probabilmente sì." # see line 3584
 
 # game/chapter4.rpy:3816
 translate italiantl _call_syscheck_82_543b2ee0:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]."
+    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]." # see line 3586
 
 # game/chapter4.rpy:3818
 translate italiantl _call_syscheck_82_a1ae6a4e:
 
     # Ad "Thanks for coming!"
-    Ad "Grazie di essere venutə!"
+    Ad "Grazie di essere venutə!" # see line 3588
 
 # game/chapter4.rpy:3839
 translate italiantl _call_syscheck_82_93cfd23f_1:
 
     # Ry "Adine! Wait for me."
-    Ry "[Ad]! Aspettami."
+    Ry "[Ad]! Aspettami." # see line 3550
 
 # game/chapter4.rpy:3845
 translate italiantl _call_syscheck_82_9b04341c_1:
 
     # Ry smile flip "Good job, [player_name]."
-    Ry smile flip "Bel lavoro, [player_name]."
+    Ry smile flip "Bel lavoro, [player_name]." # see line 3556
 
 # game/chapter4.rpy:3855
 translate italiantl _call_syscheck_82_14b7f614_3:
 
     # Vr "..."
-    Vr "... "
+    Vr "... " # see line 3566
 
 # game/chapter4.rpy:3857
 translate italiantl _call_syscheck_82_b7530666_1:
@@ -4645,37 +4645,37 @@ translate italiantl _call_syscheck_82_b7530666_1:
 translate italiantl _call_syscheck_82_14b7f614_4:
 
     # Vr "..."
-    Vr "... "
+    Vr "... " # see line 3570
 
 # game/chapter4.rpy:3861
 translate italiantl _call_syscheck_82_daf2fc69_1:
 
     # Ry "She doesn't talk much."
-    Ry "Non è molto loquace."
+    Ry "Non è molto loquace." # see line 3572
 
 # game/chapter4.rpy:3871
 translate italiantl _call_syscheck_82_913a4129_1:
 
     # Ad "I think we should go inside."
-    Ad "Penso che dovremmo andare dentro."
+    Ad "Penso che dovremmo andare dentro." # see line 3582
 
 # game/chapter4.rpy:3873
 translate italiantl _call_syscheck_82_85c543cb_1:
 
     # Ry normal flip "Yeah, probably."
-    Ry normal flip "Già, probabilmente sì."
+    Ry normal flip "Già, probabilmente sì." # see line 3584
 
 # game/chapter4.rpy:3875
 translate italiantl _call_syscheck_82_543b2ee0_1:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]."
+    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]." # see line 3586
 
 # game/chapter4.rpy:3877
 translate italiantl _call_syscheck_82_a1ae6a4e_1:
 
     # Ad "Thanks for coming!"
-    Ad "Grazie di essere venutə!"
+    Ad "Grazie di essere venutə!" # see line 3588
 
 # game/chapter4.rpy:3922
 translate italiantl c4rest_5097e44f:
@@ -5107,7 +5107,7 @@ translate italiantl _call_skipcheck_21_d015893f:
 translate italiantl _call_skipcheck_21_c9da6764:
 
     # n "Before long, I discovered the truth about the place I had arrived."
-    n "Ben presto, scoprii la verità sul luogo in cui ero arrivato."
+    n "Ben presto, scoprii la verità sul luogo in cui ero giunto."
 
 # game/chapter4.rpy:4343
 translate italiantl _call_skipcheck_21_feba23c4:
@@ -5287,7 +5287,7 @@ translate italiantl _call_skipcheck_21_76b2fe88_10:
 translate italiantl _call_skipcheck_21_a06d7c03:
 
     # n "In the end, I still used the lab for what it had been created for: Fusing human and animal DNA to create beings that were mostly animal, but possessed a greater intelligence that allowed them to learn whatever we wanted them to."
-    n "Alla fine, usai comunque il laboratorio per quello che era stato concepito: fondere DNA umano e animale a creare degli esseri che erano per lo più animali, ma possedevano un'intelligenza superiore che gli avrebbe permesso di apprendere qualsiasi cosa noi volessimo." # "allowed" -> "would allow"; "whatever we wanted [them to]"
+    n "Alla fine, usai comunque il laboratorio per quel che era stato concepito: fondere DNA umano e animale a creare degli esseri che erano per lo più animali, ma possedevano un'intelligenza superiore che gli avrebbe permesso di apprendere qualsiasi cosa noi volessimo." # "allowed" -> "would allow"; "whatever we wanted [them to]"
 
 # game/chapter4.rpy:4416
 translate italiantl _call_skipcheck_21_3a134373:
@@ -5503,7 +5503,7 @@ translate italiantl _call_skipcheck_21_99dcf20d:
 translate italiantl _call_skipcheck_21_d0c70f78:
 
     # c "Then what shall we do? Do you know where he is?"
-    c "Allora cosa dobbiamo fare? Sai dove lui si trova?"
+    c "Allora cosa dobbiamo fare? Sai dov'è lui?"
 
 # game/chapter4.rpy:4504
 translate italiantl _call_skipcheck_21_882be72d:
@@ -5822,7 +5822,7 @@ translate italiantl _call_skipcheck_21_b36e5f58:
 translate italiantl _call_skipcheck_21_3fee8a5c:
 
     # c "Is that why everything here looks like it was made for humans?"
-    c "È per questo che ogni cosa qui sembra sia stata fatta per gli umani?"
+    c "È per questo che ogni cosa qui sembra fatta apposta per gli umani?"
 
 # game/chapter4.rpy:4610
 translate italiantl _call_skipcheck_21_612913a3:
@@ -5888,7 +5888,7 @@ translate italiantl _call_skipcheck_21_968d3ef8:
 translate italiantl _call_skipcheck_21_f1e332b1:
 
     # As "While I can see subtle changes in behaviors as a result, some traits are still very much present in them. They are content with what they have and don't strive for more."
-    As "Per quanto possa vedere dei sottili cambiamenti comportamentali come risultato, alcuni tratti sono ancora assai ben presenti in loro. Sono contenti di quello che hanno e non cercano di più." # "changes in behaviors" -> "behavioral changes"
+    As "Per quanto possa vedere dei sottili cambiamenti comportamentali come risultato, alcuni tratti sono ancora assai ben presenti in loro. Sono contenti di ciò che hanno e non cercano di più." # "changes in behaviors" -> "behavioral changes"
 
 # game/chapter4.rpy:4632
 translate italiantl _call_skipcheck_21_278bf3e2:
@@ -6050,7 +6050,7 @@ translate italiantl _call_skipcheck_21_438211f9:
 translate italiantl _call_skipcheck_21_284e7709:
 
     # m "Not having anything left to do for the day, I soon fell into a deep slumber."
-    m "Non restandomi niente da fare per il giorno, caddi presto in un profondo torpore." # see line 3002 of chapter 1
+    m "Non restandomi nulla da fare per il giorno, caddi presto in un profondo torpore." # see line 3002 of chapter 1
 
 # game/chapter4.rpy:4727
 translate italiantl c4skip2_92c265e9:

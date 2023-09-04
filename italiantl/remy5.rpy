@@ -478,7 +478,7 @@ translate italiantl _call_endingjustafewminuteslater_2_0edb3f5d:
 translate italiantl _call_endingjustafewminuteslater_2_e1fe309d:
 
     # Ry "Don't you dare tell me you would be doing me any favors by saving me. If it's just going to be one of us, I don't want it to be me." with Shake((0, 0, 0, 0), 3, dist=10)
-    Ry "Non osare dirmi che mi faresti un favore se mi salvassi. Se toccherà solo a uno di noi, non voglio essere io." with Shake((0, 0, 0, 0), 3, dist=10)
+    Ry "Non osare dirmi che mi faresti un favore se mi salvassi. Se dev'essere solo uno di noi, non voglio essere io." with Shake((0, 0, 0, 0), 3, dist=10)
 
 # game/remy5.rpy:375
 translate italiantl _call_endingjustafewminuteslater_2_0349788f:

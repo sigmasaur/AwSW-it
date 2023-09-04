@@ -1054,7 +1054,7 @@ translate italiantl _call_skipcheck_15_b9283861:
 translate italiantl _call_skipcheck_15_bd9132ce:
 
     # Kv face "Me? Honestly, I don't know if I could tackle a big issue like that. It's good for me that psychology is such a diverse field, because I'm not quite sure where I'm going with it yet, or what particular job I'd like to have after I'm done with my studies."
-    Kv face "Io? Sinceramente, non so se saprei affrontare una questione così grande. Per me è un bene che la psicologia sia un campo così vario, perché ancora non sono del tutto sicuro dove voglio arrivare, o che lavoro vorrei fare in particolare finiti gli studi." # slightly pruned to fit three lines
+    Kv face "Io? Sinceramente, non so se saprei affrontare una questione così grande. Per me è un bene che la psicologia sia un campo così vario, perché ancora non sono del tutto sicuro di dove voglio arrivare, o che lavoro vorrei fare in particolare finiti gli studi." # slightly pruned to fit three lines
 
 # game/xkevin.rpy:477
 translate italiantl _call_skipcheck_15_c143c549:
@@ -1084,7 +1084,7 @@ translate italiantl _call_skipcheck_15_125ed73b:
 translate italiantl _call_skipcheck_15_9f2db5cf:
 
     # Kv face "I don't know. Maybe interning there was a little too close to the sun for me."
-    Kv face "Non lo so. Forse con quel tirocinio ho fatto il passo più lungo della gamba." # "interning there" -> "that internship"
+    Kv face "Non lo so. Forse con quel tirocinio ho fatto il passo più lungo della zampa." # "interning there" -> "that internship"
 
 # game/xkevin.rpy:487
 translate italiantl _call_skipcheck_15_ada07065:
@@ -1156,7 +1156,7 @@ translate italiantl _call_skipcheck_15_7da8d073:
 translate italiantl _call_skipcheck_15_bb00a52c_1:
 
     # c "What do you mean?"
-    c "Che intendi dire?"
+    c "Che vuoi dire?"
 
 # game/xkevin.rpy:511
 translate italiantl _call_skipcheck_15_170fea27:

@@ -389,13 +389,13 @@ translate italiantl c3contx_a9c6669a:
 translate italiantl c3contx_739cb691:
 
     # Br stern b "Furthermore, the murder weapon and method appear to be the same across all three victims, and that's going to be a big problem for you."
-    Br stern b "Inoltre, l'arma del delitto e il metodo paiono essere gli stessi per tutte e tre le vittime, e questo sarà un bel problema per te."
+    Br stern b "Inoltre, l'arma del delitto e il metodo paiono essere gli stessi per tutte e tre le vittime, e questo sarà un bel problema per te." # see line 829
 
 # game/chapter3.rpy:864
 translate italiantl c3contx_1bc47770:
 
     # c "Why is that?"
-    c "Perché mai?"
+    c "Perché mai?" # see line 831
 
 # game/chapter3.rpy:866
 translate italiantl c3contx_75df14fe:
@@ -630,7 +630,7 @@ translate italiantl c3conty_b5e2021c:
 translate italiantl c3conty_0932934b:
 
     # Br stern b "Maybe. I suppose we'll see soon enough."
-    Br stern b "Magari. Suppongo che lo sapremo presto."
+    Br stern b "Forse. Suppongo che lo sapremo presto."
 
 # game/chapter3.rpy:1046
 translate italiantl c3conty_a22ecafd:
@@ -978,7 +978,7 @@ translate italiantl c3conty_da4a6b4f:
 translate italiantl c3conty_eee91a30:
 
     # Em "So you accept responsibility for the incident?"
-    Em "Quindi ti assumi la responsabilità dell'incidente?"
+    Em "Perciò ti assumi la responsabilità dell'incidente?"
 
 # game/chapter3.rpy:1211
 translate italiantl c3conty_d8d4bfc8:
@@ -1440,13 +1440,13 @@ translate italiantl c3conty_17ff235a:
 translate italiantl c3conty_235d6a94:
 
     # c "The act of sending Reza and me here has, without a doubt, already cost the lives of some people back home."
-    c "L'atto di inviare [Rz] e me qui avrà, senza alcun dubbio, già costato la vita di alcuni a casa."
+    c "L'atto di inviare [Rz] e me qui sarà, senza alcun dubbio, già costato la vita di alcuni a casa."
 
 # game/chapter3.rpy:1454
 translate italiantl c3conty_ee894df7:
 
     # c "Beyond the city walls is a dead zone. We haven't heard from any other settlements for months now. The state of the rest of our world is unknown."
-    c "Al di là delle mura della città è una zona morta. Sono mesi ormai che non abbiamo notizie di nessun altro insediamento. Lo stato in cui versa il resto del nostro mondo è sconosciuto."
+    c "Al di là delle mura della città è una zona morta. Sono mesi ormai che non abbiamo notizie da nessun altro insediamento. Lo stato in cui versa il resto del nostro mondo è sconosciuto."
 
 # game/chapter3.rpy:1456
 translate italiantl c3conty_f51e7d87:
@@ -1566,7 +1566,7 @@ translate italiantl c3conty_d19f855d:
 translate italiantl c3conty_b75775df:
 
     # Em frown "Chief, please arrange for an escort to take [player_name] to the portal now."
-    Em frown "Capo, per favore organizza una scorta che accompagni [player_name] al portale adesso."
+    Em frown "Capo, ora per favore organizza una scorta che accompagni [player_name] al portale."
 
 # game/chapter3.rpy:1496
 translate italiantl c3conty_8529ca11:
@@ -1656,7 +1656,7 @@ translate italiantl c3conty_7a6d8797:
 translate italiantl c3conty_b38dba4f:
 
     # m "I would fondly think back to the days I spent in their comfortable standard of living, a shadow of how humanity used to be."
-    m "Avrei ripensato con affetto ai giorni che avevo trascorso nel loro confortevole tenore di vita, un'ombra di come l'umanità era stata."
+    m "Avrei ripensato con affetto ai giorni che avevo trascorso nel loro confortevole tenore di vita, un'ombra di come l'umanità era stata un tempo."
 
 # game/chapter3.rpy:1540
 translate italiantl c3conty_2f910b63:
@@ -2583,7 +2583,7 @@ translate italiantl c3conty_6dcb76f4:
 translate italiantl c3conty_26c97bce:
 
     # c "Well, what do we do now?"
-    c "Be', cosa facciamo adesso?"
+    c "Be', e adesso cosa facciamo?"
 
 # game/chapter3.rpy:1946
 translate italiantl c3conty_929882d8:
@@ -3117,7 +3117,7 @@ translate italiantl c3conty_cc8600ac:
 translate italiantl c3conty_84e44e93:
 
     # Br "Maybe we're looking at this from the wrong angle. If no one was here to guard the portal, anyone could have broken it. It doesn't necessarily have to have anything to do with Reza or Maverick."
-    Br "Forse la stiamo guardando dal punto di vista sbagliato. Se nessuno era qui a guardia del portale, chiunque avrebbe potuto danneggiarlo. Non deve necessariamente avere qualcosa a che vedere con [Rz] o [Mv]."
+    Br "Forse la stiamo guardando dal verso sbagliato. Se nessuno era qui a guardia del portale, chiunque avrebbe potuto danneggiarlo. Non deve necessariamente avere qualcosa a che vedere con [Rz] o [Mv]."
 
 # game/chapter3.rpy:2200
 translate italiantl c3conty_4e87c4ae:
@@ -3249,7 +3249,7 @@ translate italiantl c3conty_f57bbd7f:
 translate italiantl c3conty_fb571a12:
 
     # Sb "We're just a small town police department, and with Bryce removed from the case, our resources are thinner than ever."
-    Sb "Siamo solo il dipartimento di polizia di una piccola città, e con [Br] rimosso dal caso, le nostre risorse sono più magre che mai."
+    Sb "Siamo solo il dipartimento di polizia di una piccola città, e con [Br] rimosso dal caso, le nostre risorse sono più sottili che mai."
 
 # game/chapter3.rpy:2276
 translate italiantl c3conty_55fa4d3d:
@@ -3279,13 +3279,13 @@ translate italiantl c3conty_4ce2dfed:
 translate italiantl c3conty_e771bb0e:
 
     # Sb "First up is the primary witness in the latest murder. The victim's colleague, Anna. She was the one who found his body."
-    Sb "Per prima c'è la testimone principale dell'ultimo omicidio. La collega della vittima, [An]. È stata lei a trovare il suo corpo."
+    Sb "Per prima c'è la testimone principale dell'ultimo omicidio. La collega della vittima, [An]. È stata lei a trovare il suo corpo." # see line 2280
 
 # game/chapter3.rpy:2291
 translate italiantl c3conty_02731e4b:
 
     # Sb "A few things have changed since this morning, as we've gotten some additional information from forensics that warrants further questioning. She can be found in the production facility."
-    Sb "Sono cambiate alcune cose da stamattina, siccome abbiamo avuto delle informazioni aggiuntive dalla scientifica che richiedono un ulteriore interrogatorio. Puoi trovarla allo stabilimento di produzione."
+    Sb "Sono cambiate alcune cose da stamattina, siccome abbiamo avuto delle informazioni aggiuntive dalla scientifica che richiedono un ulteriore interrogatorio. Puoi trovarla allo stabilimento di produzione." # see lines 2282-2284
 
 # game/chapter3.rpy:2298
 translate italiantl c3conty_4277fed5:
@@ -3351,13 +3351,13 @@ translate italiantl c3conty_91e05d8b:
 translate italiantl c3conty_91e05d8b_1:
 
     # Sb "We also located another witness for the latest murder. A store clerk reported seeing and hearing something, so it's probably worth it to ask him a few questions."
-    Sb "Abbiamo anche individuato un altro testimone dell'ultimo omicidio. Un commesso di un negozio ha segnalato di aver visto e sentito qualcosa, quindi probabilmente vale la pena di fargli qualche domanda."
+    Sb "Abbiamo anche individuato un altro testimone dell'ultimo omicidio. Un commesso di un negozio ha segnalato di aver visto e sentito qualcosa, quindi probabilmente vale la pena di fargli qualche domanda." # see line 2318
 
 # game/chapter3.rpy:2328
 translate italiantl c3conty_160ad56a:
 
     # Sb "We also located a witness for the break-in at the facility. A store clerk reported seeing and hearing something, so it's probably worth it to ask him a few questions."
-    Sb "Abbiamo anche individuato un testimone dell'intrusione allo stabilimento. Un commesso di un negozio ha segnalato di aver visto e sentito qualcosa, quindi probabilmente vale la pena di fargli qualche domanda."
+    Sb "Abbiamo anche individuato un testimone dell'intrusione allo stabilimento. Un commesso di un negozio ha segnalato di aver visto e sentito qualcosa, quindi probabilmente vale la pena di fargli qualche domanda." # see line 2318
 
 # game/chapter3.rpy:2331
 translate italiantl c3conty_2c17890e:
@@ -3429,13 +3429,13 @@ translate italiantl c3sections_99980877:
 translate italiantl c3sections_f6745d81:
 
     # m "Someone clearly didn't want me to go to the portal, but why would I go there in the first place? As it was out of order right now, such an action would serve no purpose."
-    m "Era chiaro che qualcuno non voleva che io andassi al portale, ma perché mai vi sarei dovutə andare? Poiché al momento era fuori uso, una tale azione non sarebbe servita a niente."
+    m "Era chiaro che qualcuno non voleva che io andassi al portale, ma per quale motivo vi sarei dovutə andare? Poiché al momento era fuori uso, una tale azione non sarebbe servita a niente."
 
 # game/chapter3.rpy:2431
 translate italiantl c3sections_fe0ccee8:
 
     # m "I looked outside the window, at the portal's faint silhouette in the distance. The paper rustled between my fingers as I fidgeted with it, wondering about the message's sender and significance."
-    m "Guardai fuori dalla finestra, alla flebile sagoma del portale in lontananza. Il foglietto frusciava fra le mie dita mentre ci giocherellavo, interrogandomi sul mittente del messaggio e sul suo significato."
+    m "Guardai fuori dalla finestra, la flebile sagoma del portale in lontananza. Il foglietto frusciava fra le mie dita mentre ci giocherellavo, interrogandomi sul mittente del messaggio e sul suo significato."
 
 # game/chapter3.rpy:2435
 translate italiantl c3sections_4bad9402:
@@ -3513,7 +3513,7 @@ translate italiantl c3sections_19ce5166:
 translate italiantl c3sections_b39f8015:
 
     # m "Ultimately, I trusted the mysterious message. Remy's list of phone numbers, given to me when he brought me to this apartment in the first place, proved to be a valuable tool. I dialed the emergency line and was greeted by a calm voice asking me about my emergency."
-    m "In ultimo, confidai nel misterioso messaggio. La nota coi numeri di telefono di [Ry], datami ancora quand'egli mi aveva portato a questo appartamento, si dimostrò uno strumento prezioso. Chiamai la linea di emergenza e fui accoltə da una voce calma che mi chiedeva quale fosse la mia emergenza." # "list of" -> "note with"
+    m "In ultimo, confidai nel misterioso messaggio. La nota coi numeri di telefono di [Ry], datami ancora quand'egli mi aveva portato in questo appartamento, si dimostrò uno strumento prezioso. Chiamai la linea di emergenza e fui accoltə da una voce calma che mi chiedeva quale fosse la mia emergenza." # "list of" -> "note with"
 
 # game/chapter3.rpy:2469
 translate italiantl c3sections_73e9833f:
@@ -4005,7 +4005,7 @@ translate italiantl c3fac_b00d059d:
 translate italiantl c3fac_9bc73867:
 
     # Lo normal "It's no problem, really. Just let me know when you have the time and I'll make it happen."
-    Lo normal "Non c'è problema, davvero. Fammi solo sapere quando hai tempo e mi organizzerò." # see line 2649
+    Lo normal "Non c'è problema, davvero. Fammi solo sapere quando hai tempo e vedrò di organizzarmi." # see line 2649
 
 # game/chapter3.rpy:2783
 translate italiantl c3fac_57cfd7b3:
@@ -4167,7 +4167,7 @@ translate italiantl c3fac_1bbcca06:
 translate italiantl c3fac_b8b1dbad:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?" # see line 2862
 
 # game/chapter3.rpy:2911
 translate italiantl c3fac_f3b5df06:
@@ -4203,73 +4203,73 @@ translate italiantl c3fac_9d16df43:
 translate italiantl c3fac_1bbcca06_1:
 
     # c "I have a few questions about the murder of your colleague."
-    c "Avrei qualche domanda a proposito dell'omicidio del tuo collega."
+    c "Avrei qualche domanda a proposito dell'omicidio del tuo collega." # see line 2907
 
 # game/chapter3.rpy:2930
 translate italiantl c3fac_b8b1dbad_1:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?" # see line 2909
 
 # game/chapter3.rpy:2932
 translate italiantl c3fac_f3b5df06_1:
 
     # c "Actually, yes. You could say so."
-    c "In effetti, sì. Potremmo dire così."
+    c "In effetti, sì. Potremmo dire così." # see line 2911
 
 # game/chapter3.rpy:2934
 translate italiantl c3fac_e702a767_1:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b "Interessante. A me cosa ne viene?"
+    An normal b "Interessante. A me cosa ne viene?" # see line 2913
 
 # game/chapter3.rpy:2936
 translate italiantl c3fac_5b71bf41_1:
 
     # c "Hey, I already agreed to your tests. I'm not sure what else I could offer you. Besides, I'm working with the police, so your cooperation would be greatly appreciated."
-    c "Ehi, ho già acconsentito ai tuoi esami. Non so bene cos'altro potrei offrirti. E poi, sto lavorando con la polizia, quindi la tua collaborazione sarebbe molto apprezzata."
+    c "Ehi, ho già acconsentito ai tuoi esami. Non so bene cos'altro potrei offrirti. E poi, sto lavorando con la polizia, quindi la tua collaborazione sarebbe molto apprezzata." # see line 2915
 
 # game/chapter3.rpy:2938
 translate italiantl c3fac_33a706b6_1:
 
     # An smirk b "Oh, you're working for our police? Now you really have my attention. I want to see where you're going with this, so by all means, go ahead."
-    An smirk b "Oh, lavori per la nostra polizia? Ora sì che hai la mia attenzione. Voglio vedere dove vuoi andare a parare, quindi ti prego, va' avanti."
+    An smirk b "Oh, lavori per la nostra polizia? Ora sì che hai la mia attenzione. Voglio vedere dove vuoi andare a parare, quindi ti prego, va' avanti." # see line 2917
 
 # game/chapter3.rpy:2947
 translate italiantl c3fac_dad3999c:
 
     # An "Oh, it's you. I'm not sure if I can take any visitors at the moment."
-    An "Oh, sei tu. Non sono sicura di poter accettare visitatori al momento."
+    An "Oh, sei tu. Non sono sicura di poter accettare visitatori al momento." # see line 2926
 
 # game/chapter3.rpy:2949
 translate italiantl c3fac_1bbcca06_2:
 
     # c "I have a few questions about the murder of your colleague."
-    c "Avrei qualche domanda a proposito dell'omicidio del tuo collega."
+    c "Avrei qualche domanda a proposito dell'omicidio del tuo collega." # see line 2907
 
 # game/chapter3.rpy:2951
 translate italiantl c3fac_99ccd528:
 
     # An face b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An face b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
+    An face b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?" # see line 2909
 
 # game/chapter3.rpy:2953
 translate italiantl c3fac_f3b5df06_2:
 
     # c "Actually, yes. You could say so."
-    c "In effetti, sì. Potremmo dire così."
+    c "In effetti, sì. Potremmo dire così." # see line 2911
 
 # game/chapter3.rpy:2955
 translate italiantl c3fac_e702a767_2:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b "Interessante. A me cosa ne viene?"
+    An normal b "Interessante. A me cosa ne viene?" # see line 2913
 
 # game/chapter3.rpy:2957
 translate italiantl c3fac_5b71bf41_2:
 
     # c "Hey, I already agreed to your tests. I'm not sure what else I could offer you. Besides, I'm working with the police, so your cooperation would be greatly appreciated."
-    c "Ehi, ho già acconsentito ai tuoi esami. Non so bene cos'altro potrei offrirti. E poi, sto lavorando con la polizia, quindi la tua collaborazione sarebbe molto apprezzata."
+    c "Ehi, ho già acconsentito ai tuoi esami. Non so bene cos'altro potrei offrirti. E poi, sto lavorando con la polizia, quindi la tua collaborazione sarebbe molto apprezzata." # see line 2915
 
 # game/chapter3.rpy:2959
 translate italiantl c3fac_6c76df1a:
@@ -4287,31 +4287,31 @@ translate italiantl c3fac_571ba8de:
 translate italiantl c3fac_84152cd6:
 
     # An "Oh, the human has finally decided to grace me with its presence. I'm a little busy, so I'm not sure if I should take any visitors at the moment."
-    An "Oh, l'umanə ha finalmente deciso di degnarmi della sua presenza. Sono un tantino presa, quindi non sono sicura di poter accettare visitatori al momento."
+    An "Oh, l'umanə ha finalmente deciso di degnarmi della sua presenza. Sono un tantino presa, quindi non sono sicura di poter accettare visitatori al momento." # see line 2926
 
 # game/chapter3.rpy:2986
 translate italiantl c3fac_9b75e60c:
 
     # c "Hello. I have a few questions about the murder of your colleague."
-    c "Salve. Avrei qualche domanda a proposito dell'omicidio del tuo collega."
+    c "Salve. Avrei qualche domanda a proposito dell'omicidio del tuo collega." # see line 2907
 
 # game/chapter3.rpy:2988
 translate italiantl c3fac_b8b1dbad_2:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?" # see line 2909
 
 # game/chapter3.rpy:2990
 translate italiantl c3fac_f3b5df06_3:
 
     # c "Actually, yes. You could say so."
-    c "In effetti, sì. Potremmo dire così."
+    c "In effetti, sì. Potremmo dire così." # see line 2911
 
 # game/chapter3.rpy:2992
 translate italiantl c3fac_e702a767_3:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b "Interessante. A me cosa ne viene?"
+    An normal b "Interessante. A me cosa ne viene?" # see line 2913
 
 # game/chapter3.rpy:2994
 translate italiantl c3fac_ce11ee18:
@@ -4341,7 +4341,7 @@ translate italiantl c3fac_ea4fe7aa:
 translate italiantl c3fac_571ba8de_1:
 
     # c "(Well, that didn't go as planned. Guess I won't have any luck here.)"
-    c "(Be', non è andata come previsto. Immagino che non avrò fortuna qui.)"
+    c "(Be', non è andata come previsto. Immagino che non avrò fortuna qui.)" # see line 2967
 
 # game/chapter3.rpy:3031
 translate italiantl c3fac_60c31fae:
@@ -4353,37 +4353,37 @@ translate italiantl c3fac_60c31fae:
 translate italiantl c3fac_bf2993b6:
 
     # An "Oh, it's you. I can't take any visitors at the moment."
-    An "Oh, sei tu. Non posso accettare visitatori al momento."
+    An "Oh, sei tu. Non posso accettare visitatori al momento." # see line 2926
 
 # game/chapter3.rpy:3040
 translate italiantl c3fac_1bbcca06_3:
 
     # c "I have a few questions about the murder of your colleague."
-    c "Avrei qualche domanda a proposito dell'omicidio del tuo collega."
+    c "Avrei qualche domanda a proposito dell'omicidio del tuo collega." # see line 2907
 
 # game/chapter3.rpy:3042
 translate italiantl c3fac_b8b1dbad_3:
 
     # An sad b "Is that so? Why do you get to go around asking questions like that? Is it a matter of human interest?"
-    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?"
+    An sad b "È così? E com'è che te ne vai in giro a fare domande a quel modo? È una questione d'interesse umano?" # see line 2909
 
 # game/chapter3.rpy:3044
 translate italiantl c3fac_f3b5df06_4:
 
     # c "Actually, yes. You could say so."
-    c "In effetti, sì. Potremmo dire così."
+    c "In effetti, sì. Potremmo dire così." # see line 2911
 
 # game/chapter3.rpy:3046
 translate italiantl c3fac_e702a767_4:
 
     # An normal b "Interesting. What's in it for me?"
-    An normal b "Interessante. A me cosa ne viene?"
+    An normal b "Interessante. A me cosa ne viene?" # see line 2913
 
 # game/chapter3.rpy:3048
 translate italiantl c3fac_5b71bf41_3:
 
     # c "Hey, I already agreed to your tests. I'm not sure what else I could offer you. Besides, I'm working with the police, so your cooperation would be greatly appreciated."
-    c "Ehi, ho già acconsentito ai tuoi esami. Non so bene cos'altro potrei offrirti. E poi, sto lavorando con la polizia, quindi la tua collaborazione sarebbe molto apprezzata."
+    c "Ehi, ho già acconsentito ai tuoi esami. Non so bene cos'altro potrei offrirti. E poi, sto lavorando con la polizia, quindi la tua collaborazione sarebbe molto apprezzata." # see line 2915
 
 # game/chapter3.rpy:3050
 translate italiantl c3fac_3f746473:
@@ -4407,13 +4407,13 @@ translate italiantl c3fac_17401384:
 translate italiantl c3fac_aa32c4f9:
 
     # An "You know, I'd love to help you, but I'm a very busy person, so I don't really have time for this. Excuse me."
-    An "Lo sai, mi piacerebbe tanto aiutarti, ma sono una persona molto impegnata, quindi non ho proprio tempo per questo. Con permesso."
+    An "Lo sai, mi piacerebbe tanto aiutarti, ma sono una persona molto impegnata, quindi non ho proprio tempo per questo. Con permesso." # see line 2959
 
 # game/chapter3.rpy:3064
 translate italiantl c3fac_571ba8de_2:
 
     # c "(Well, that didn't go as planned. Guess I won't have any luck here.)"
-    c "(Be', non è andata come previsto. Immagino che non avrò fortuna qui.)"
+    c "(Be', non è andata come previsto. Immagino che non avrò fortuna qui.)" # see line 2967
 
 # game/chapter3.rpy:3086
 translate italiantl c3facques_ac60fa94:
@@ -4927,7 +4927,7 @@ translate italiantl c3arcques_7c9f9a1e:
 translate italiantl c3arcques_ae4bc12d:
 
     # n "Of course, there were public worries regarding the untested, long-term consequences of utilizing black holes in such technology. It was outlawed in certain countries due to these concerns, but lobbies and the private sector drove many of them to accept the tech, in light of the boundless advantages offered."
-    n "Naturalmente, alcuni erano preoccupati delle indimostrate conseguenze a lungo termine dell'utilizzo dei buchi neri in tale tecnologia. La quale era stata messa al bando in certi paesi a causa di questi timori, ma gruppi di pressione e il settore privato avevano spinto molti di essi ad accettare la tecnologia, alla luce degli sconfinati vantaggi che offriva."
+    n "Naturalmente, vi erano preoccupazioni riguardo alle indimostrate conseguenze a lungo termine dell'utilizzo dei buchi neri in tale tecnologia. La quale era stata messa al bando in certi paesi a causa di questi timori, ma gruppi di pressione e il settore privato avevano spinto molti di essi ad accettare la tecnologia, alla luce degli sconfinati vantaggi offerti." # "there were [public] worries"
 
 # game/chapter3.rpy:3512
 translate italiantl c3arcques_984e1be8:
@@ -5065,7 +5065,7 @@ translate italiantl _call_syscheck_19_ee3bcbd5:
 translate italiantl _call_syscheck_19_acb4214c:
 
     # n "Since the building had unknown historical and technological value, there was a plan in place to drain the water pockets. The legal permissions had not yet gone through, however, and it would take some time for the equipment to arrive."
-    n "Dal momento che la valenza storica e tecnologica dell'edificio era ignota, era in atto un piano per drenare le sacche d'acqua. I permessi legali non erano ancora stati rilasciati, però, e ci sarebbe voluto del tempo perché l'attrezzatura arrivasse."
+    n "Dal momento che la valenza storica e tecnologica dell'edificio era ignota, era in atto un piano per drenare le sacche d'acqua. I permessi legali non erano ancora stati rilasciati, però, e ci sarebbe voluto del tempo perché arrivasse l'attrezzatura."
 
 # game/chapter3.rpy:3641
 translate italiantl _call_syscheck_19_240ed26c:
@@ -5281,7 +5281,7 @@ translate italiantl c3sto_d534d27e:
 translate italiantl c3sto_e5690abb:
 
     # St "Vara, what are you still doing here? I already told you. You have to come back tomorrow."
-    St "[Vr], che ci fai tu ancora qui? Te l'ho già detto. Devi tornare domani."
+    St "[Vr], che ci fai ancora qui? Te l'ho già detto. Devi tornare domani."
 
 # game/chapter3.rpy:3881
 translate italiantl c3sto_4a9dff6c:
@@ -5341,7 +5341,7 @@ translate italiantl stay_0a296b2b:
 translate italiantl stay_68c069ae:
 
     # St "Of course. This was after I came back from my second job, so around two or three in the morning."
-    St "Ma certo. Era dopo essere tornato dal mio secondo lavoro, quindi attorno alle due o tre del mattino."
+    St "Ma certo. Era dopo essere tornato dal mio secondo lavoro, quindi intorno alle due o tre del mattino."
 
 # game/chapter3.rpy:3955
 translate italiantl stay_44e0b6ca:
@@ -5497,7 +5497,7 @@ translate italiantl follow_b36cdb39:
 translate italiantl follow_b788615d:
 
     # m "I realized then, that other than what Vara had done, the orange dragon hadn't moved at all since I arrived."
-    m "Realizzai allora, che a parte quello che aveva fatto [Vr], il drago color arancio non si era affatto mosso da quando ero arrivatə."
+    m "Realizzai allora, che a parte quel che aveva fatto [Vr], il drago color arancio non si era affatto mosso da quando ero arrivatə."
 
 # game/chapter3.rpy:4074
 translate italiantl follow_25717af4:
@@ -5695,7 +5695,7 @@ translate italiantl c3go_f10ed86d:
 translate italiantl c3go_97955863:
 
     # Sb "What you've learned about the map is fascinating, if not a little unsettling. While it's good to have confirmed its origin, to know that it came from your world is something else."
-    Sb "Ciò che hai appreso sulla mappa è affascinante, se non vagamente inquietante. Per quanto sia un bene l'aver confermato la sua origine, sapere che proviene dal vostro mondo è tutta un'altra storia."
+    Sb "Ciò che hai appreso sulla mappa è affascinante, se non vagamente inquietante. Per quanto sia un bene l'aver confermato la sua origine, sapere che proviene dal vostro mondo è tutt'altra storia."
 
 # game/chapter3.rpy:4204
 translate italiantl c3go_73925600:
@@ -6347,11 +6347,11 @@ translate italiantl strings:
 
     # chapter3.rpy:1026
     old "Maybe it's not going to be a big deal."
-    new "Magari non sarà niente di che."
+    new "Forse non sarà niente di che."
 
     # chapter3.rpy:1026
     old "Maybe they're going to throw a surprise party for us."
-    new "Forse intendono farci una festa a sorpresa."
+    new "Magari intendono farci una festa a sorpresa."
 
     # chapter3.rpy:1223
     old "Bryce wouldn't let me say no."

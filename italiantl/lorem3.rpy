@@ -88,7 +88,7 @@ translate italiantl _call_skipcheck_13_467dce4e:
 translate italiantl _call_skipcheck_13_78cd28bc:
 
     # c "I’m not sure if I can be of much assistance though. I don’t exactly know much about the area."
-    c "Non sono sicurə che potrò essere granché di aiuto però. Non sono esattamente praticə di questa zona." # "know much" -> "know my way"; "the area" -> "this area"
+    c "Non sono sicurə che potrò essere granché d'aiuto però. Non sono esattamente praticə di questa zona." # "know much" -> "know my way"; "the area" -> "this area"
 
 # game/lorem3.rpy:142
 translate italiantl _call_skipcheck_13_849ee50c:
@@ -892,7 +892,7 @@ translate italiantl lorem3searchmenu_7c41958c:
 translate italiantl lorem3searchmenu_667ca88a:
 
     # c "Finding our spot might be a bit more difficult from here on out."
-    c "Trovare il nostro punto potrebbe essere un tantino più difficile da qui in avanti."
+    c "Trovare il nostro punto potrebbe essere un tantino più difficile di qui in avanti."
 
 # game/lorem3.rpy:526
 translate italiantl lorem3searchmenu_fe151070:
@@ -1378,7 +1378,7 @@ translate italiantl lorem3searchmenu_8f096eb0:
 translate italiantl lorem3searchmenu_9096469a:
 
     # Lo "I know. It's just... I don't know."
-    Lo "Lo so. È solo... Non lo so."
+    Lo "Lo so. È solo... Non saprei."
 
 # game/lorem3.rpy:720
 translate italiantl lorem3searchmenu_1dc41c00:
@@ -2045,7 +2045,7 @@ translate italiantl lorem3skip_ad6350f3:
 translate italiantl lorem3skip_b94ced76:
 
     # Lo relieved "I'm not sure, exactly."
-    Lo relieved "Non saprei, con esattezza."
+    Lo relieved "Non saprei, esattamente."
 
 # game/lorem3.rpy:1067
 translate italiantl lorem3skip_734a0b44:

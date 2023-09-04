@@ -358,7 +358,7 @@ translate italiantl _call_skipcheck_28_2b8bd8af:
 translate italiantl _call_skipcheck_28_d4bc49fc:
 
     # m "He showed me a juicy-looking, vaguely spherical fruit whose bright red color was unlike any other fruit I had ever seen."
-    m "Mi mostrò un frutto dall'aspetto succoso e vagamente sferico il cui colore rosso acceso era come nessun altro frutto che avevo visto."
+    m "Mi mostrò un frutto dall'aspetto succoso e vagamente sferico il cui colore rosso acceso era come nessun altro frutto che avessi visto."
 
 # game/remy4.rpy:279
 translate italiantl _call_skipcheck_28_c194efe0:
@@ -424,7 +424,7 @@ translate italiantl _call_skipcheck_28_8032ab4e:
 translate italiantl _call_skipcheck_28_980f08aa:
 
     # c "If anyone was smart enough to be sent here, they probably wouldn't take a risk like that."
-    c "Se chiunque fosse abbastanza sveglio da essere mandato qui, probabilmente non correrebbe un simile rischio."
+    c "Se qualcuno fosse abbastanza sveglio da essere mandato qui, probabilmente non correrebbe un simile rischio."
 
 # game/remy4.rpy:301
 translate italiantl _call_skipcheck_28_71fb267a:
@@ -1384,7 +1384,7 @@ translate italiantl _call_skipcheck_29_c732224d:
 translate italiantl _call_skipcheck_29_7935ef31:
 
     # Ry shy "Don't you think that's a matter better left to our police force? It could be very dangerous for you to interfere."
-    Ry shy "Non credi sia meglio lasciare questa faccenda alla nostre forze di polizia? Potrebbe essere molto pericoloso se interferisci."
+    Ry shy "Non credi sia meglio lasciare questa faccenda alle nostre forze di polizia? Potrebbe essere molto pericoloso se interferisci."
 
 # game/remy4.rpy:800
 translate italiantl _call_skipcheck_29_76b58d40:
@@ -1552,7 +1552,7 @@ translate italiantl _call_skipcheck_29_00d1f219:
 translate italiantl _call_skipcheck_29_b092993f:
 
     # c "You too."
-    c "Anche a voi."
+    c "Anche a te."
 
 # game/remy4.rpy:874
 translate italiantl _call_skipcheck_29_cc3f9358:

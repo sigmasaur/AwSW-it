@@ -100,7 +100,7 @@ translate italiantl adine3_15b9421d:
 translate italiantl adine3_323af65e:
 
     # Ad "Well, who cares about the rest? I'm in!"
-    Ad "Be', chi se ne frega del resto? Sono dentro!"
+    Ad "Be', a chi importa del resto? Sono dentro!"
 
 # game/adine3.rpy:96
 translate italiantl adine3_d402ac56:
@@ -784,7 +784,7 @@ translate italiantl _call_skipcheck_9_76d8cb7e:
 translate italiantl _call_skipcheck_9_7abac9fe:
 
     # c "Yeah, some monkeys actually can. They basically have hands instead of feet."
-    c "Sì, alcune scimmie in effetti possono. In pratica hanno mani al posto dei piedi."
+    c "Sì, alcune scimmie in effetti possono. In pratica hanno delle mani al posto dei piedi."
 
 # game/adine3.rpy:455
 translate italiantl _call_skipcheck_9_264d55c7:
@@ -1174,7 +1174,7 @@ translate italiantl _call_skipcheck_9_409cc3dd:
 translate italiantl _call_skipcheck_9_75d38af8:
 
     # Ad giggle b "Yep, and you also don't get the nibble scars on your tail where the fish bite you."
-    Ad giggle b "Già, e inoltre non ti restano i segni dell'abbocco sulla coda là dove i pesci ti hanno morso."
+    Ad giggle b "Già, e inoltre non ti restano i segni dell'abbocco sulla coda laddove i pesci ti hanno morso."
 
 # game/adine3.rpy:649
 translate italiantl _call_skipcheck_9_89aefe22_2:
@@ -2303,7 +2303,7 @@ translate italiantl adine3skip_f59e1e27:
 translate italiantl adine3skip_a63c5af2:
 
     # Ad think b "Really? What would that be?"
-    Ad think b "Davvero? Che cosa sarebbe?"
+    Ad think b "Davvero? E cosa sarebbe?"
 
 # game/adine3.rpy:1256
 translate italiantl adine3skip_58787831:
@@ -2465,7 +2465,7 @@ translate italiantl adine3skip_9b71b613:
 translate italiantl adine3skip_8ce90212:
 
     # Ad normal b "I'll contact you later with all the details, and we can figure it out from there."
-    Ad normal b "Ti contatterò più tardi con tutti i dettagli, e da lì in poi vedremo di organizzarci."
+    Ad normal b "Ti contatterò più tardi con tutti i dettagli, e penseremo poi al da farsi." # "from there" -> "later on"
 
 # game/adine3.rpy:1360
 translate italiantl adine3skip_993ba4d9:

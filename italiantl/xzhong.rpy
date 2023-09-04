@@ -1240,7 +1240,7 @@ translate italiantl zhongcont_5b2d0814:
 translate italiantl zhongcont_6df2f7b3:
 
     # Zh "I never would have thought it was bad enough to warrant doing what she did, though."
-    Zh "Non avrei mai creduto che fosse tanto grave da giustificare quello che ha fatto, però."
+    Zh "Non avrei mai creduto fosse tanto grave da giustificare quello che ha fatto, però."
 
 # game/xzhong.rpy:960
 translate italiantl zhongcont_6a9ebe31:

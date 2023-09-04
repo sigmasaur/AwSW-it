@@ -52,7 +52,7 @@ translate italiantl _call_skipcheck_1_0054b77b:
 translate italiantl _call_skipcheck_1_6c47b3ad:
 
     # c "I know you said you wanted to get out of that small apartment of yours, but I'm not sure if mine is much different."
-    c "So che avevi detto di volertene uscire da quel tuo appartamentino, ma non sono sicurə che il mio sia molto diverso." # see line 5119 of chapter 4
+    c "So che avevi detto di volertene uscire da quel tuo appartamentino, ma non sono sicurə che il mio sia tanto diverso." # see line 5119 of chapter 4
 
 # game/bryce4.rpy:119
 translate italiantl _call_skipcheck_1_86c97d7a:
@@ -370,7 +370,7 @@ translate italiantl _call_skipcheck_1_0f668a32:
 translate italiantl _call_skipcheck_1_5b629e5a:
 
     # Br smirk "Hey, not everyone can drink like me."
-    Br smirk "Ehi, non tutti riescono a bere come me."
+    Br smirk "Ehi, non tutti sanno bere come me."
 
 # game/bryce4.rpy:252
 translate italiantl _call_skipcheck_1_89aefe22:
@@ -526,7 +526,7 @@ translate italiantl _call_skipcheck_1_40a73283:
 translate italiantl _call_skipcheck_1_c891211e:
 
     # Br "And despite what you might think about him, he was the one who found Reza's hideout, even after I forced him into sick leave."
-    Br "E nonostante quello che potresti pensare di lui, è stato lui a trovare il nascondiglio di [Rz], anche dopo che l'avevo costretto in malattia."
+    Br "E nonostante quello che potresti pensare di lui, è stato lui a trovare il nascondiglio di [Rz], anche dopo che l'ho costretto in malattia."
 
 # game/bryce4.rpy:306
 translate italiantl _call_skipcheck_1_36e74905:
@@ -628,7 +628,7 @@ translate italiantl _call_skipcheck_1_f6ce63b6:
 translate italiantl _call_skipcheck_1_6b688197:
 
     # Br "The mother died from some sort of illness, and after that, the daughter never left her side again. As if she had just given up on life."
-    Br "La madre è morta di qualche sorta di malattia, e dopodiché, la figlia non ha mai lasciato il suo fianco. Come se avesse semplicemente rinunciato a vivere."
+    Br "La madre è morta di una qualche sorta di malattia, e dopodiché, la figlia non ha mai lasciato il suo fianco. Come se avesse semplicemente rinunciato a vivere."
 
 # game/bryce4.rpy:350
 translate italiantl _call_skipcheck_1_b2793108:
@@ -646,7 +646,7 @@ translate italiantl _call_skipcheck_1_28870498:
 translate italiantl _call_skipcheck_1_66515c0a:
 
     # Br "I'm sorry for making you look at a corpse on your very first day here, but you know I had to. Your help here has been invaluable, and it's not like I could ask anyone else."
-    Br "Mi dispiace di averti fatto guardare un corpo il tuo primissimo giorno qui, ma sai che ho dovuto. Il tuo aiuto qui è stato inestimabile, e non è che potessi chiedere a chiunque altro."
+    Br "Mi dispiace averti fatto guardare un corpo il tuo primissimo giorno qui, ma sai che ho dovuto. Il tuo aiuto qui è stato inestimabile, e non è che potessi chiedere a chiunque altro."
 
 # game/bryce4.rpy:361
 translate italiantl _call_skipcheck_1_3cd7e277:
@@ -718,7 +718,7 @@ translate italiantl _call_skipcheck_1_cde529bf:
 translate italiantl _call_skipcheck_1_f0bbe695:
 
     # Br "I don't know. Maybe they don't realize how it affects me. They see someone who can drink a lot and does it for fun. They don't realize what it means."
-    Br "Non lo so. Forse non si rendono conto dell'effetto che ha su di me. Loro vedono uno che riesce a bere parecchio e lo fa per divertirsi. Non capiscono cosa significa."
+    Br "Non lo so. Forse non si rendono conto dell'effetto che ha su di me. Loro vedono uno che sa bere parecchio e lo fa per divertirsi. Non capiscono cosa significa."
 
 # game/bryce4.rpy:385
 translate italiantl _call_skipcheck_1_f6e53bce:
@@ -748,7 +748,7 @@ translate italiantl _call_skipcheck_1_a9d9e2fc:
 translate italiantl _call_skipcheck_1_c75c82c5:
 
     # Br "Yeah. If you have to deal with the things we do on a daily basis, it can affect you in pretty bad ways. Everyone has their breaking point."
-    Br "Già. Se devi avere a che fare con le stesse nostre cose quotidianamente, puoi risentirne in modi piuttosto brutti. Tutti quanti hanno il loro punto di rottura." # "the SAME things"
+    Br "Già. Se devi avere a che fare con le cose che facciamo noi quotidianamente, puoi risentirne in modi piuttosto brutti. Tutti quanti hanno il loro punto di rottura."
 
 # game/bryce4.rpy:395
 translate italiantl _call_skipcheck_1_892be656:
@@ -766,13 +766,13 @@ translate italiantl _call_skipcheck_1_80aa8b51:
 translate italiantl _call_skipcheck_1_ee9ec805:
 
     # c "You think he's at his breaking point?"
-    c "Pensi che sia al punto di rottura?"
+    c "Pensi che sia al suo punto di rottura?"
 
 # game/bryce4.rpy:401
 translate italiantl _call_skipcheck_1_8cd55c43:
 
     # Br "He's taking this whole Reza situation very personally. I'm just worried about him, you know. Just like I'm worried about everything else until we can sort out this whole mess."
-    Br "Sta prendendo tutta questa situazione di [Rz] molto sul personale. Sono solo preoccupato per lui, sai. Proprio come sono preoccupato di tutto quanto il resto finché non sistemiamo tutto questo casino."
+    Br "Sta prendendo tutta questa situazione di [Rz] molto sul personale. Sono solo preoccupato per lui, sai. Proprio come sono preoccupato di tutto quanto il resto finché non riusciamo a sistemare tutto questo casino."
 
 # game/bryce4.rpy:403
 translate italiantl _call_skipcheck_1_18a09175:
@@ -784,7 +784,7 @@ translate italiantl _call_skipcheck_1_18a09175:
 translate italiantl _call_skipcheck_1_aa308fb2:
 
     # Br "No matter what you may think about Maverick or what he may think of you, he still found Reza's hideout, which led us to the generators."
-    Br "A prescindere da quello che puoi pensare di [Mv] o quello che lui può pensare di te, ha comunque trovato lui il nascondiglio di [Rz], il quale ci ha condotto ai generatori."
+    Br "A prescindere da quello che puoi pensare di [Mv] o che lui può pensare di te, ha comunque trovato lui il nascondiglio di [Rz], il quale ci ha condotto ai generatori."
 
 # game/bryce4.rpy:407
 translate italiantl _call_skipcheck_1_c4286e39:
@@ -898,7 +898,7 @@ translate italiantl _call_skipcheck_1_dd985ee2:
 translate italiantl _call_skipcheck_1_f299348d:
 
     # Br "Honestly, I have no idea what I did. I don't know how to give a massage, so I just pressed and rubbed her here and there."
-    Br "Onestamente, non ho idea di cosa ho fatto. Non so come si fa un massaggio, così l'ho solo premuta e frizionata qua e là."
+    Br "Onestamente, non ho idea di cosa ho fatto. Non so come si fa un massaggio, così l'ho solo premuta e frizionata qui e là."
 
 # game/bryce4.rpy:448
 translate italiantl _call_skipcheck_1_6a9ebe31:
@@ -910,7 +910,7 @@ translate italiantl _call_skipcheck_1_6a9ebe31:
 translate italiantl _call_skipcheck_1_27cc19c2:
 
     # Br "Well, she seemed to like it a lot. There was a lot of grunting and moaning. Plus, she gave me a lot of compliments."
-    Br "Be', sembrava le piacesse molto. Ci sono stati un sacco di gemiti e sospiri. In più, mi ha fatto un sacco di complimenti." # "moaning" -> "sighing"
+    Br "Be', sembrava le piacesse parecchio. Ci sono stati un sacco di gemiti e sospiri. In più, mi ha fatto un sacco di complimenti." # "moaning" -> "sighing"
 
 # game/bryce4.rpy:452
 translate italiantl _call_skipcheck_1_20d2c6e3:
@@ -1270,7 +1270,7 @@ translate italiantl _call_skipcheck_1_f44da6e0:
 translate italiantl _call_skipcheck_1_0e8d80ad:
 
     # Br "Well, unless you had some sort of proof, I'd call you crazy."
-    Br "Be', a meno che tu non abbia qualche sorta di prova, ti darei dellə mattə."
+    Br "Be', a meno che tu non abbia una qualche sorta di prova, ti darei dellə mattə."
 
 # game/bryce4.rpy:583
 translate italiantl _call_skipcheck_1_41b230d7:
@@ -1384,7 +1384,7 @@ translate italiantl bryce4skip_6a644b5a:
 translate italiantl bryce4skip_f75f655f:
 
     # c "I suppose you could say so."
-    c "Suppongo che potresti dire così." # must match line 625
+    c "Suppongo che puoi dire così." # must match line 625
 
 # game/bryce4.rpy:625
 translate italiantl bryce4skip_ffc758e0:
@@ -1672,7 +1672,7 @@ translate italiantl b4romance_def25f02:
 translate italiantl b4romance_e4cd1f81:
 
     # m "I went into the kitchen to fetch a bottle of wine and two appropriate vessels, wondering how Bryce would manage a wine glass."
-    m "Andai in cucina per prendere una bottiglia di vino e due recipienti appropriati, domandandomi come [Br] avrebbe maneggiato un bicchiere di vino."
+    m "Andai in cucina per prendere una bottiglia di vino e due recipienti appropriati, domandandomi come [Br] avrebbe maneggiato un calice da vino."
 
 # game/bryce4.rpy:793
 translate italiantl b4romance_3b86a8e9:
@@ -1708,7 +1708,7 @@ translate italiantl b4romance_11e89090:
 translate italiantl b4romance_4b02074c:
 
     # Br laugh "Hey, I already had wine earlier, so I figured I'd speed up the process."
-    Br laugh "Ehi, avevamo già bevuto del vino prima, così ho pensato di accelerare il processo." # "I already had" -> "we already had" to match line 875
+    Br laugh "Ehi, avevamo già bevuto del vino prima, così ho pensato di accelerare i tempi." # "I already had" -> "we already had" to match line 875
 
 # game/bryce4.rpy:821
 translate italiantl b4romance_ab8b1734:
@@ -1762,7 +1762,7 @@ translate italiantl b4romance_11e89090_1:
 translate italiantl b4romance_659e95a8:
 
     # Br laugh "Hey, we already had wine earlier, so I figured I'd speed up the process."
-    Br laugh "Ehi, avevamo già bevuto del vino prima, così ho pensato di accelerare il processo." # see line 819
+    Br laugh "Ehi, avevamo già bevuto del vino prima, così ho pensato di accelerare i tempi." # see line 819
 
 # game/bryce4.rpy:877
 translate italiantl b4romance_ab2755cb:
@@ -1780,7 +1780,7 @@ translate italiantl b4romance_5a7fabd8:
 translate italiantl b4romance_0dd6eefb:
 
     # c "Okay, so you do, but that's not what you should've done."
-    c "Okay, quindi tu sì, ma non è quello che avresti dovuto fare."
+    c "Okay, perciò tu sì, ma non è quello che avresti dovuto fare."
 
 # game/bryce4.rpy:883
 translate italiantl b4romance_203e5a35:

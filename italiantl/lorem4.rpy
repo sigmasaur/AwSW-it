@@ -1108,7 +1108,7 @@ translate italiantl lorem4adinestatusneutral_e1c23450:
 translate italiantl lorem4adinestatusneutral_773fafe3:
 
     # Lo "Investing a lot of time and money, only to end up with nothing in the end."
-    Lo "Investire un sacco di tempo e denaro, solo per ritrovarmi alla fine senza niente."
+    Lo "Investire un sacco di tempo e denaro, solo per ritrovarmi senza niente alla fine."
 
 # game/lorem4.rpy:655
 translate italiantl lorem4adinestatusneutral_40f93983:
@@ -1270,7 +1270,7 @@ translate italiantl lorem4adinestatusneutral_25de2d5c:
 translate italiantl lorem4adinestatusneutral_bcf52315:
 
     # c "Who knows, maybe you're wrong about Pantoli's. Maybe they're actually a big family restaurant with a rich tradition and history, and that's why people like them."
-    c "Chi lo sa, magari ti sbagli riguardo a Pantoli. Magari in realtà sono un grande ristorante di famiglia con una ricca storia e tradizione, ed è per questo che piacciono alla gente."
+    c "Chi lo sa, magari ti sbagli riguardo a Pantoli. Magari in realtà sono un gran ristorante di famiglia con una ricca storia e tradizione, ed è per questo che piacciono alla gente."
 
 # game/lorem4.rpy:709
 translate italiantl lorem4adinestatusneutral_0cd53314:
@@ -1486,7 +1486,7 @@ translate italiantl lorem4skip_767269c0:
 translate italiantl lorem4skip_0cfacc55:
 
     # Lo sad "How can I put myself out there when this could happen wherever I go, you know what I mean?"
-    Lo sad "Come posso pensare di espormi quando questo potrebbe succedere ovunque vada, capisci che intendo?" # "put" -> "think about putting"
+    Lo sad "Come posso pensare di espormi quando questo potrebbe succedere ovunque vada, capisci che intendo?" # "put" -> "think of putting"
 
 # game/lorem4.rpy:791
 translate italiantl lorem4skip_03dad8c3:
@@ -1786,7 +1786,7 @@ translate italiantl lorem4skip_24b2a863:
 translate italiantl lorem4skip_dab0b081:
 
     # Lo "Hey, do you still want to see the fireworks show together?"
-    Lo "Ehi, Sei ancora dell'idea di vedere lo spettacolo di fuochi d'artificio insieme?"
+    Lo "Ehi, sei ancora dell'idea di vedere lo spettacolo di fuochi d'artificio insieme?"
 
 # game/lorem4.rpy:970
 translate italiantl lorem4skip_c48dc32f:

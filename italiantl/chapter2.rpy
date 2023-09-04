@@ -280,7 +280,7 @@ translate italiantl _call_skipcheck_11_0a41e213:
 translate italiantl _call_skipcheck_11_104d92ab:
 
     # Br "That's all you have to do."
-    Br "È tutto ciò che ti chiediamo." # "all you have" -> "all we ask you"
+    Br "Non ti chiediamo altro." # "all you have" -> "all we ask you"
 
 # game/chapter2.rpy:455
 translate italiantl _call_skipcheck_11_63454039:
@@ -568,7 +568,7 @@ translate italiantl _call_skipcheck_11_7f079908:
 translate italiantl _call_skipcheck_11_2f293cc0:
 
     # Sb "Trust me, having it the other way around isn't too great, either."
-    Sb "Credimi, trovarsi nella situazione opposta non è tanto più bello."
+    Sb "Credimi, trovarsi nella situazione opposta non è tanto più gradevole." # "too great, either" -> "much nicer"
 
 # game/chapter2.rpy:647
 translate italiantl _call_skipcheck_11_6d4b1fba:
@@ -664,7 +664,7 @@ translate italiantl _call_skipcheck_11_235b6274:
 translate italiantl _call_skipcheck_11_fed0278a:
 
     # Br "Whatever's causing the power outage. If we don't find the cause, we should at least be able to get the backup running."
-    Br "Qualsiasi cosa stia causando l'interruzione di corrente. Se anche non troviamo la causa, dovremmo almeno essere in grado di far partire il sistema ausiliario."
+    Br "Qualunque cosa stia causando l'interruzione di corrente. Se anche non troviamo la causa, dovremmo almeno essere in grado di far partire il sistema ausiliario."
 
 # game/chapter2.rpy:738
 translate italiantl _call_skipcheck_11_7bd6682f:
@@ -943,7 +943,7 @@ translate italiantl _call_skipcheck_11_37b00703:
 translate italiantl _call_skipcheck_11_0bb352b1:
 
     # Br "Let's take a step back and look at the bigger picture."
-    Br "Facciamo un passo indietro e guardiamo al quadro generale."
+    Br "Facciamo un passo indietro e guardiamo il quadro generale."
 
 # game/chapter2.rpy:956
 translate italiantl _call_skipcheck_11_89baa06a:
@@ -1231,7 +1231,7 @@ translate italiantl chap2testx_76b2fe88:
 translate italiantl chapter2sections2_88e7ca36:
 
     # n "It was a relief to leave the crime scene, considering all that had happened. When I reached into my pocket to take a look at the list, however, I found something unexpected."
-    n "Fu un sollievo lasciare la scena del crimine, considerando quello che era successo. Quando misi una mano in tasca per dare uno sguardo all'elenco, però, trovai qualcosa di inatteso." # slightly pruned to fit two lines
+    n "Fu un sollievo lasciare la scena del crimine, considerando quello che era accaduto. Quando misi una mano in tasca per dare uno sguardo all'elenco, però, trovai qualcosa di inatteso." # slightly pruned to fit two lines
 
 # game/chapter2.rpy:1150
 translate italiantl chapter2sections2_864b25a3:
@@ -1269,7 +1269,7 @@ translate italiantl chapter2sections2_a3c147d5:
 translate italiantl chapter2sections2_814ec0e4:
 
     # n "It certainly was going to be a busy day, and I knew I wouldn't have the time to visit all of them."
-    n "Sarebbe certamente stata una giornata intensa, e sapevo che non avrei avuto il tempo di visitarli tutti."
+    n "Sarebbe senz'altro stata una giornata intensa, e sapevo che non avrei avuto il tempo di visitarli tutti."
 
 # game/chapter2.rpy:1191
 translate italiantl chapter2sections_17381aad:
@@ -1287,13 +1287,13 @@ translate italiantl chapter2sections_d507e048:
 translate italiantl chapter2sections_008d9b72:
 
     # m "I decided I had done enough for today and went to my apartment to relax for a few hours until the afternoon sun hung low in the sky and I decided it was time to report my findings to the police. A brief call to the department, and I was on my way to an appointment with Sebastian."
-    m "Decisi che avevo fatto abbastanza per il giorno e me ne andai al mio appartamento a rilassarmi per qualche ora finché il sole pomeridiano non fu basso nel cielo e decisi che era tempo di riferire le mie scoperte alla polizia. Una breve chiamata al dipartimento, ed ero in cammino per un appuntamento con [Sb]."
+    m "Decisi che avevo fatto abbastanza per il giorno e me ne andai in appartamento a rilassarmi per qualche ora, finché il sole pomeridiano non fu basso nel cielo e decisi che era tempo di riferire le mie scoperte alla polizia. Una breve chiamata al dipartimento, ed ero in cammino per un appuntamento con [Sb]."
 
 # game/chapter2.rpy:1278
 translate italiantl chap2store_6edff375:
 
     # m "I entered the store, the sound of a bell alerting the staff to my arrival. Seeing the patrons browsing the shelves - neatly stocked with wares of all kinds - evoked some feelings of nostalgia and normalcy in me."
-    m "Entrai nel negozio, il suono di una campanella che avvisava il personale del mio arrivo. Vedere i clienti passare in rassegna gli scaffali—ordinatamente riforniti di prodotti di ogni tipo—suscitò in me un senso di nostalgia e normalità." # corrected em-dash
+    m "Entrai nel negozio, il suono di una campanella che avvisò il personale del mio arrivo. Vedere i clienti passare in rassegna gli scaffali—ordinatamente riforniti di prodotti di ogni tipo—suscitò in me un senso di nostalgia e normalità." # corrected em-dash
 
 # game/chapter2.rpy:1280
 translate italiantl chap2store_3e8a1606:
@@ -1827,7 +1827,7 @@ translate italiantl chap2storeques_258c4f41:
 translate italiantl chap2storeques_fd5d0715:
 
     # St "Let me know if you need anything."
-    St "Fammi sapere se hai bisogno di qualcosa."
+    St "Fammi sapere se hai bisogno di niente."
 
 # game/chapter2.rpy:1603
 translate italiantl chap2storeques_3069e29e:
@@ -2259,7 +2259,7 @@ translate italiantl _call_syscheck_51_0bd78e3c:
 translate italiantl chap2library_364b3f89:
 
     # c "(Alright, Reza. What did you want here?)"
-    c "(D'accordo, [Rz]. Cos'eri venuto a fare qui?)"
+    c "(E va bene, [Rz]. Cos'eri venuto a fare qui?)"
 
 # game/chapter2.rpy:1999
 translate italiantl chap2library_297e63ab:
@@ -2637,7 +2637,7 @@ translate italiantl chap2libmenu_2f325c45:
 translate italiantl chap2libmenu_f67b7765:
 
     # c "I guess it's not easy coming to another world with a different society and different standards."
-    c "Immagino che non sia facile arrivare in un altro mondo con una diversa società e diverse norme."
+    c "Immagino non sia facile arrivare in un altro mondo con una diversa società e diverse norme."
 
 # game/chapter2.rpy:2239
 translate italiantl chap2libmenu_3b0452c6:
@@ -2715,7 +2715,7 @@ translate italiantl chap2libmenu_0c4764f2:
 translate italiantl chap2park_63c3de98:
 
     # c "(Tatsu Park, here I am. I don't know what I'm even looking for, though.)"
-    c "(Tatsu Park, eccomi qui. Non so neanche cosa sto cercando, comunque.)"
+    c "(Tatsu Park, eccomi qui. Non so nemmeno cosa sto cercando, comunque.)"
 
 # game/chapter2.rpy:2305
 translate italiantl chap2park1choice_891ef6d9:
@@ -2769,7 +2769,7 @@ translate italiantl _call_syscheck_52_62a5e033:
 translate italiantl _call_syscheck_52_194016d7:
 
     # c "(No, it seems there's still just dirt to be found here, and I don't think I'll need more than what I already have.)"
-    c "(No, pare che troverò ancora solo del terriccio qui, e non credo che me ne servirà più di quanto già ne abbia.)"
+    c "(No, pare che troverò ancora solo del terriccio qui, e non credo me ne servirà più di quanto già ne abbia.)"
 
 # game/chapter2.rpy:2391
 translate italiantl _call_syscheck_52_5b5b19eb:
@@ -2961,7 +2961,7 @@ translate italiantl _call_syscheck_55_8d8add9d:
 translate italiantl chap2hatch_801e03ea:
 
     # m "Beneath the hatch, a strange-looking orb of darkness was floating in the shaft that leads down to the maintenance tunnels."
-    m "Sotto la botola, un orbe di tenebra dallo strano aspetto fluttuava nel condotto che conduceva giù alle gallerie di manutenzione." # corrected past tenses
+    m "Sotto la botola, un orbe di tenebra dallo strano aspetto fluttuava nel condotto che conduceva alle gallerie di manutenzione." # corrected past tenses, "leads [down]"
 
 # game/chapter2.rpy:2715
 translate italiantl chap2hatch_f069ccf1:
@@ -2973,7 +2973,7 @@ translate italiantl chap2hatch_f069ccf1:
 translate italiantl chap2hatch_46abce11:
 
     # m "I looked down to see the maintenance tunnels for the underground drain system. A pale object starkly contrasted against the pitch-black backdrop."
-    m "Guardai in basso e scòrsi le gallerie di manutenzione del sistema di drenaggio sotterraneo. Un pallido oggetto si stagliava nettamente sullo fondo nero come la pece."
+    m "Guardai in basso e scòrsi le gallerie di manutenzione del sistema di drenaggio sotterraneo. Un pallido oggetto si stagliava nettamente sullo sfondo nero come la pece."
 
 # game/chapter2.rpy:2771
 translate italiantl chap2hatch_0d43d13a:
@@ -3765,7 +3765,7 @@ translate italiantl _call_skipcheck_12_969a99f1:
 translate italiantl _call_skipcheck_12_7a88835c:
 
     # Sb "That's just how he is. Once he sets his mind on something, he sees it through to the end."
-    Sb "Semplicemente è fatto così. Una volta che si mette in testa qualcosa, deve andarci fino in fondo."
+    Sb "Semplicemente è fatto così. Una volta che si mette in testa una cosa, deve andarci fino in fondo."
 
 # game/chapter2.rpy:3653
 translate italiantl _call_skipcheck_12_969a99f1_1:
@@ -3807,7 +3807,7 @@ translate italiantl _call_skipcheck_12_cc14b6ac:
 translate italiantl _call_skipcheck_12_5138560b:
 
     # c "I don't think he's going anywhere."
-    c "Non penso che andrà da nessuna parte."
+    c "Non penso andrà da nessuna parte."
 
 # game/chapter2.rpy:3678
 translate italiantl _call_skipcheck_12_c9046289:
@@ -4627,7 +4627,7 @@ translate italiantl strings:
 
     # chapter2.rpy:3666
     old "I don't think he's going anywhere."
-    new "Non penso che andrà da nessuna parte."
+    new "Non penso andrà da nessuna parte."
 
     # chapter2.rpy:3666
     old "We'll never find him."

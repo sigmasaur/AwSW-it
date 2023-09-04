@@ -353,7 +353,7 @@ translate italiantl _call_skipcheck_19_374465ec:
 translate italiantl _call_skipcheck_19_e7d1f7ca:
 
     # Em ques "My parents wanted me to continue my studies, but I decided against doing that. Studying and working hard so that I may study and work hard ad infinitum wasn't something that was particularly appealing to me."
-    Em ques "I miei genitori volevano che continuassi gli studi, ma io decisi di non farlo. Studiare e lavorare sodo così da poter studiare e lavorare sodo all'infinito non era qualcosa che mi attraesse particolarmente."
+    Em ques "I miei genitori volevano che continuassi gli studi, ma io decisi di non farlo. Studiare e lavorare sodo affinché potessi studiare e lavorare sodo all'infinito non era qualcosa che mi attraesse particolarmente."
 
 # game/xemera.rpy:268
 translate italiantl _call_skipcheck_19_80687a79:
@@ -665,7 +665,7 @@ translate italiantl _call_skipcheck_19_73dfe9ab:
 translate italiantl _call_skipcheck_19_a5807f95:
 
     # Em frown "It certainly would have been very unusual to hire an earth dragon to take care of the archives, but I was sure it would have been looked at from a certain angle, with a certain bias."
-    Em frown "Di certo sarebbe stato molto insolito assumere un drago di terra per occuparsi degli archivi, ed ero sicura che avrebbero guardato la cosa da una certa angolazione, con una certa parzialità." # "but" -> "and"
+    Em frown "Di certo sarebbe stato molto insolito assumere un drago di terra per occuparsi degli archivi, ed ero sicura che avrebbero guardato la cosa in un certo verso, con una certa parzialità." # "but" -> "and"
 
 # game/xemera.rpy:372
 translate italiantl _call_skipcheck_19_0c169b29:
@@ -785,7 +785,7 @@ translate italiantl _call_skipcheck_19_db541a82:
 translate italiantl _call_skipcheck_19_af70ea33:
 
     # Em frown "He might have to work twice as hard, but if he can't do the job, maybe he isn't cut out to do it. But if he can, he'll have proven his worth to the whole town."
-    Em frown "Potrebbe anche lavorare il doppio, ma se non riesce a fare il lavoro, forse non è tagliato per farlo. Ma se ci riesce, avrà dimostrato quanto lui valga a tutta la città." # "he might [have to] work twice as hard"
+    Em frown "Potrebbe anche dover lavorare il doppio, ma se non riesce a fare il lavoro, forse non è tagliato per farlo. Ma se ci riesce, avrà dimostrato quanto lui valga a tutta la città."
 
 # game/xemera.rpy:412
 translate italiantl _call_skipcheck_19_412c6d37:

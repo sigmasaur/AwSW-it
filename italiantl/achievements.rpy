@@ -184,7 +184,7 @@ translate italiantl strings:
 
     # achievements.rpy:564
     old "{b}Lazy{/b}\nDecide not to meet anyone or investigate 10 times."
-    new "{b}Pigrə{/b}\nDecidi di non incontrare nessuno o investigare per 10 volte."
+    new "{b}Pigronə{/b}\nDecidi di non incontrare nessuno o investigare per 10 volte."
 
     # achievements.rpy:575
     old "{b}Fast Forward{/b}\nSkip ahead 10 times."

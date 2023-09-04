@@ -202,7 +202,7 @@ translate italiantl _call_skipcheck_14_4fbf7315:
 translate italiantl _call_skipcheck_14_cbe3a6b8:
 
     # Sb "I'm at the front door if you need anything."
-    Sb "Sarò alla porta principale se hai bisogno di qualcosa."
+    Sb "Sarò alla porta principale se hai bisogno di niente."
 
 # game/xsebastian.rpy:252
 translate italiantl _call_skipcheck_14_77d024b6:
@@ -1206,7 +1206,7 @@ translate italiantl sebgamestart_ccf23f17:
 translate italiantl sebgamestart_621658d2:
 
     # Sb "I mean, even if you just picked your cards randomly, you should at least have gotten one or two right just by chance, but this is something else entirely. Maybe I'm just that good."
-    Sb "Voglio dire, anche scegliendo le carte in modo casuale, avresti dovuto azzeccarne almeno una o due per puro caso, ma questa è tutta un'altra storia. Sarà che sono troppo bravo."
+    Sb "Voglio dire, anche scegliendo le carte in modo casuale, avresti dovuto azzeccarne almeno una o due per puro caso, ma questa è tutt'altra storia. Sarà che sono troppo bravo."
 
 # game/xsebastian.rpy:4438
 translate italiantl sebgamestart_27d54f6a:

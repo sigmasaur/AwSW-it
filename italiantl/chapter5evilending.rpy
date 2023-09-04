@@ -136,7 +136,7 @@ translate italiantl evilending_1c64755a:
 translate italiantl evilending_dab815b3:
 
     # c "Just look at all their technology. You were willing to waste it all, and for what? Just so you and I could profit most from this and be hailed as heroes when at large our world wouldn't change."
-    c "Guarda solo la loro tecnologia. Eri disposto a sprecarla tutta, e per cosa? Solo perché tu ed io potessimo trarne il maggior profitto ed essere accolti da eroi quando il mondo nel suo insieme non sarebbe cambiato."
+    c "Guarda solo tutta la loro tecnologia. Eri disposto a sprecarla tutta, e per cosa? Solo perché tu ed io potessimo trarne il maggior profitto ed essere accolti da eroi quando il mondo nel suo insieme non sarebbe cambiato."
 
 # game/chapter5evilending.rpy:63
 translate italiantl evilending_c60afc0e:
@@ -238,7 +238,7 @@ translate italiantl evilending_e15c9673:
 translate italiantl evilending_a44b467e:
 
     # m "I pulled the trigger, firing the remaining bullets into him until no more were left."
-    m "Premetti il grilletto, scaricando in lui i rimanenti proiettili finché non ne rimase più nessuno."
+    m "Premetti il grilletto, scaricando in lui i rimanenti proiettili finché non ne restò più nessuno."
 
 # game/chapter5evilending.rpy:123
 translate italiantl evilending_76b81bf0:
@@ -334,7 +334,7 @@ translate italiantl endingjustafewminuteslaterx_dc3daea9:
 translate italiantl endingjustafewminuteslaterx_b34b2d28:
 
     # m "Given that he hadn't left yet, he clearly still had unfinished business in the area."
-    m "Dato che non se n'era ancora andato, chiaramente aveva ancora delle questioni in sospeso nei paraggi."
+    m "Dato che non se n'era ancora andato, chiaramente aveva ancora delle questioni in sospeso nei paraggi." # see line 332
 
 # game/chapter5evilending.rpy:347
 translate italiantl endingjustafewminuteslaterx_e864a6f7:
@@ -364,7 +364,7 @@ translate italiantl endingjustafewminuteslaterx_d51db7e2:
 translate italiantl endingjustafewminuteslaterx_c1029fbb:
 
     # m "When I entered the building, I was met by a long, illuminated hallway that was lined with doors on both sides."
-    m "Quando entrai nell'edificio, fui accoltə da un lungo corridoio illuminato che era fiancheggiato di porte su entrambi i lati."
+    m "Quando entrai nell'edificio, fui accoltə da un lungo corridoio illuminato che era fiancheggiato da porte su entrambi i lati."
 
 # game/chapter5evilending.rpy:371
 translate italiantl sincethelightswerealreadyon_48903454:
@@ -664,7 +664,7 @@ translate italiantl no_aa71d2f1:
 translate italiantl no_ed42ee26:
 
     # Rz "They live in perfect harmony, with their perfect green energy source and no reason for wars or conflicts, yadda yadda yadda. We had that too, and you know what happened then? Of course you do."
-    Rz "Loro vivono in perfetta armonia, con la loro perfetta fonte d'energia verde e nessun motivo per combattersi, e bla bla bla. Ce l'avevamo anche noi, e sai cos'è successo allora? Ma certo che lo sai." # "wars or conflicts" -> "fighting each other"
+    Rz "Loro vivono in perfetta armonia, con la loro perfetta fonte di energia verde e nessun motivo per combattersi, e bla bla bla. Ce l'avevamo anche noi, e sai cos'è successo allora? Ma certo che lo sai." # "wars or conflicts" -> "fighting each other"
 
 # game/chapter5evilending.rpy:553
 translate italiantl no_cf0625b1:

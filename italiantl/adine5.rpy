@@ -112,7 +112,7 @@ translate italiantl adine5_3de6ab5e:
 translate italiantl adine5_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # see line 537 of chapter 5
+    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la sua mossa." # see line 537 of chapter 5
 
 # game/adine5.rpy:81
 translate italiantl adine5_cf6444f6:
@@ -520,7 +520,7 @@ translate italiantl _call_endingjustafewminuteslater_4_e64367db:
 translate italiantl _call_endingjustafewminuteslater_4_c70d6beb:
 
     # c "Unfortunately, no. These coordinates are tied to my biometric data. Only I can use them."
-    c "Purtroppo, no. Quelle coordinate sono vincolate ai miei dati biometrici. Soltanto io posso usarle." # see line 4659 of chapter 4; "these coordinates" -> "those coordinates"
+    c "Purtroppo, no. Quelle coordinate sono vincolate ai miei dati biometrici. Solamente io posso usarle." # see line 4659 of chapter 4; "these coordinates" -> "those coordinates"
 
 # game/adine5.rpy:402
 translate italiantl _call_endingjustafewminuteslater_4_3a48fa0a:
@@ -826,7 +826,7 @@ translate italiantl adinegoodending_e34c1126:
 translate italiantl adinegoodending_a7671126:
 
     # As "Luckily, she left a lot behind to help me, and I executed her plan just as she would."
-    As "Fortunatamente, si era lasciata indietro parecchio per aiutarmi, e io eseguii il suo piano proprio come lei avrebbe fatto."
+    As "Fortunatamente, si era lasciata indietro parecchio per aiutarmi, e io ho eseguito il suo piano proprio come lei avrebbe fatto."
 
 # game/adine5.rpy:810
 translate italiantl adinegoodending_2fc1d6c7:

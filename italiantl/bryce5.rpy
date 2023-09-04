@@ -190,7 +190,7 @@ translate italiantl bryce5_3de6ab5e:
 translate italiantl bryce5_ba74c7f9:
 
     # m "Considering how public of an event this was and how everyone would be watching the fireworks, now would be the best time for Reza to make his move."
-    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la propria mossa." # see line 537 of chapter 5
+    m "Considerato quanto era pubblico questo evento e in quanti avrebbero guardato i fuochi d'artificio, adesso sarebbe stato il momento migliore perché [Rz] facesse la sua mossa." # see line 537 of chapter 5
 
 # game/bryce5.rpy:119
 translate italiantl bryce5_cf6444f6:
@@ -214,7 +214,7 @@ translate italiantl bryce5_ef75e771:
 translate italiantl bryce5_95794fb8:
 
     # Br smirk "What? Do you want to take this somewhere else?"
-    Br smirk "Cosa? Ti va di andare da qualche altra parte?"
+    Br smirk "Come? Ti va di andare da qualche altra parte?"
 
 # game/bryce5.rpy:127
 translate italiantl bryce5_7051290d:
@@ -580,7 +580,7 @@ translate italiantl _call_sincethelightswerealreadyon_9ad3f88b:
 translate italiantl _call_sincethelightswerealreadyon_7b0d4b70:
 
     # m "I ran as fast as I could. As I was about to reach the outside, I looked back over my shoulder just in time to see Bryce throwing himself on the box before it exploded."
-    m "Corsi più veloce che potevo. Mentre stavo per raggiungere l'esterno, guardai alle mie spalle appena in tempo per vedere [Br] lanciarsi sulla scatola prima che esplodesse." # see line 622 of chapter 5
+    m "Corsi più veloce che potevo. Mentre stavo per raggiungere l'esterno, guardai alle mie spalle appena in tempo per vedere [Br] gettarsi sulla scatola prima che esplodesse." # see line 622 of chapter 5
 
 # game/bryce5.rpy:399
 translate italiantl _call_sincethelightswerealreadyon_e37bf552:
@@ -592,7 +592,7 @@ translate italiantl _call_sincethelightswerealreadyon_e37bf552:
 translate italiantl _call_sincethelightswerealreadyon_74d6d021:
 
     # m "As I made my way to the portal, I saw Reza fumbling with his gun as Maverick pounced on him."
-    m "Nel farmi strada verso il portale, vidi [Rz] annaspare con la sua pistola mentre [Mv] gli era addosso."
+    m "Nel farmi strada verso il portale, vidi [Rz] annaspare con la sua pistola quando [Mv] gli fu addosso."
 
 # game/bryce5.rpy:431
 translate italiantl _call_sincethelightswerealreadyon_55770386:
@@ -616,7 +616,7 @@ translate italiantl _call_sincethelightswerealreadyon_7b7bd513:
 translate italiantl _call_sincethelightswerealreadyon_05db71f4:
 
     # c "He was inside. Threw himself on the generator before it exploded."
-    c "Era dentro. Si è lanciato sul generatore prima che esplodesse."
+    c "Era dentro. Si è gettato sul generatore prima che esplodesse."
 
 # game/bryce5.rpy:442
 translate italiantl _call_sincethelightswerealreadyon_3f687944:
@@ -1138,7 +1138,7 @@ translate italiantl _call_no_8006acf3:
 translate italiantl _call_no_7b92c071:
 
     # m "As I looked up, I saw Reza fumbling with his gun as Maverick pounced on him."
-    m "Nell'alzare lo sguardo, vidi [Rz] annaspare con la sua pistola mentre [Mv] gli era addosso." # see line 407
+    m "Nell'alzare lo sguardo, vidi [Rz] annaspare con la sua pistola quando [Mv] gli fu addosso." # see line 407
 
 # game/bryce5.rpy:969
 translate italiantl _call_no_55770386:
@@ -1330,7 +1330,7 @@ translate italiantl _call_no_bc449c3a:
 translate italiantl _call_no_8974bfb9:
 
     # m "Of course, there was no use ignoring the evidence before us. This could only mean one thing."
-    m "Ma certo, era inutile negare l'evidenza davanti a noi. Poteva significare soltanto una cosa."
+    m "Ma certo, era inutile ignorare le prove davanti a noi. Poteva significare soltanto una cosa."
 
 # game/bryce5.rpy:1131
 translate italiantl _call_no_a68b0d5e:
@@ -1444,7 +1444,7 @@ translate italiantl _call_no_4d363e5c:
 translate italiantl _call_no_b44a36ee:
 
     # Mv "I've listened to this long enough now. It was you, and that's all that matters to me."
-    Mv "Sono stato a sentire abbastanza a lungo. Sei stata tu, ed è tutto ciò che conta per me."
+    Mv "Ora ho sentito abbastanza. Sei stata tu, ed è tutto ciò che conta per me." # "I've listened [to this long] enough"
 
 # game/bryce5.rpy:1190
 translate italiantl _call_no_3da5e603:
@@ -1648,7 +1648,7 @@ translate italiantl _call_no_51ec4d90:
 translate italiantl _call_no_be1db577:
 
     # c "I know, only I can. They are for travelling back in time to the day of my arrival."
-    c "Lo so, soltanto io posso. Sono per viaggiare indietro nel tempo al giorno del mio arrivo." # see line 4659 of chapter 4
+    c "Lo so, solamente io posso. Sono per viaggiare indietro nel tempo al giorno del mio arrivo." # see line 4659 of chapter 4
 
 # game/bryce5.rpy:1325
 translate italiantl _call_no_e5fec89d:

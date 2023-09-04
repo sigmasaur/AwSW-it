@@ -147,7 +147,7 @@ translate italiantl _call_skipcheck_6_e218c569:
 translate italiantl _call_skipcheck_6_697df9e4:
 
     # c "Hey, it's not a contest. We can commiserate."
-    c "Ehi, non è una gara. Possiamo anche commiserarci." # "we can commiserate, TOO"
+    c "Ehi, non è una gara. Possiamo sempre commiserarci." # wording; "we can ALWAYS commiserate"
 
 # game/bryce2.rpy:189
 translate italiantl _call_skipcheck_6_de8c3cfa:
@@ -525,7 +525,7 @@ translate italiantl _call_skipcheck_6_273284ea:
 translate italiantl _call_skipcheck_6_7b09857a:
 
     # Br laugh "Besides, using the word \"leg\" might get misinterpreted. That might make you think of my thigh, and that would be something else entirely."
-    Br laugh "E poi, usare la parola \"zampa\" potrebbe essere male interpretato. Potrebbe farti pensare alla mia coscia, e quella sarebbe tutta un'altra cosa."
+    Br laugh "E poi, usare la parola \"zampa\" potrebbe essere male interpretato. Potrebbe farti pensare alla mia coscia, e quella sarebbe tutt'altra cosa."
 
 # game/bryce2.rpy:438
 translate italiantl _call_skipcheck_6_e9d761e3:
@@ -2019,7 +2019,7 @@ translate italiantl bryce2skip_d819a5c6:
 translate italiantl bryce2skip_64e78033:
 
     # c "Maybe you should just stick to your chief of police thing."
-    c "Forse dovresti solo limitarti a quella tua cosa del capo di polizia."
+    c "Forse dovresti solo attenerti a quella tua cosa del capo di polizia."
 
 # game/bryce2.rpy:1365
 translate italiantl bryce2skip_7bce1b65:
@@ -2059,7 +2059,7 @@ translate italiantl strings:
 
     # bryce2.rpy:36
     old "Thanks for the invitation."
-    new "Grazie per l'invito."
+    new "Grazie dell'invito."
 
     # bryce2.rpy:36
     old "You too."

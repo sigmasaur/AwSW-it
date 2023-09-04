@@ -34,7 +34,7 @@ translate italiantl _call_skipcheck_34_0054b77b:
 translate italiantl _call_skipcheck_34_f21aba3f:
 
     # Ry "Thank you again for helping me the other day. Without you, I would have been trapped sorting books for a few more hours. Inviting you over for dinner is the least I can do."
-    Ry "Grazie ancora di avermi aiutato l'altro giorno. Senza di te, sarei rimasto intrappolato a riordinare libri per qualche altra ora. Invitarti a cena è il minimo che possa fare." # "thankS [you]"
+    Ry "Grazie ancora di avermi aiutato l'altro giorno. Senza di te, sarei rimasto intrappolato a riordinare libri per qualche altra ora. Invitarti a cena è il minimo che io possa fare." # "thankS [you]"
 
 # game/remy2.rpy:124
 translate italiantl _call_skipcheck_34_1dee48fd:
@@ -676,7 +676,7 @@ translate italiantl remy2picturesmenu_f8e1a321:
 translate italiantl remy2picturesmenu_76d73ff0:
 
     # Ry "Just being able to teach them about the world and watch them grow up... Having a little family would be nice. I'd like that a lot."
-    Ry "Solo essere in grado di insegnare loro com'è il mondo e guardarli crescere... Sarebbe bello avere una piccola famiglia. Mi piacerebbe tanto."
+    Ry "Solo poter insegnare loro com'è il mondo e guardarli crescere... Sarebbe bello avere una piccola famiglia. Mi piacerebbe tanto."
 
 # game/remy2.rpy:658
 translate italiantl remy2picturesmenu_caf7f73a:
@@ -706,7 +706,7 @@ translate italiantl remy2picturesmenu_f619ee3e:
 translate italiantl remy2picturesmenu_4d969e64:
 
     # c "I just don't know if it's good time to bring a child into the world. I guess I'm not sure if I could be a good parent."
-    c "È che non so se sia un buon momento per mettere al mondo un altro bambino. Immagino di non essere sicurə che saprei essere un buon genitore."
+    c "È che non so se sia un buon momento per mettere al mondo un bambino. Immagino di non essere sicurə che saprei essere un buon genitore."
 
 # game/remy2.rpy:674
 translate italiantl remy2picturesmenu_0970ecb3:
@@ -856,7 +856,7 @@ translate italiantl _call_skipcheck_35_12774df9:
 translate italiantl _call_skipcheck_35_7a957299:
 
     # Ry look "How do you know about that?"
-    Ry look "Come fai a saperlo?"
+    Ry look "E tu come fai a saperlo?"
 
 # game/remy2.rpy:853
 translate italiantl _call_skipcheck_35_63c8b6b5:
@@ -904,7 +904,7 @@ translate italiantl _call_skipcheck_35_f07ef459:
 translate italiantl _call_skipcheck_35_134ad774:
 
     # Ry "Anna's defense was that she did it for the \"greater good\" and that she was confident that her experiments would be approved eventually."
-    Ry "La difesa di [An] volle che l'avesse fatto per il \"bene superiore\" e che fosse fiduciosa che alla fine i suoi esperimenti sarebbero stati approvati."
+    Ry "La difesa di [An] voleva che l'avesse fatto per il \"bene superiore\" e che fosse fiduciosa che alla fine i suoi esperimenti sarebbero stati approvati."
 
 # game/remy2.rpy:869
 translate italiantl _call_skipcheck_35_9547853c:
@@ -1948,7 +1948,7 @@ translate italiantl strings:
 
     # remy2.rpy:448
     old "I'll starve if you keep standing around."
-    new "Morirò di fame se continui a startene impalato."
+    new "Morirò di fame se continui a restartene impalato."
 
     # remy2.rpy:448
     old "I'm so empty."

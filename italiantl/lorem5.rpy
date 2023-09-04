@@ -16,7 +16,7 @@ translate italiantl lorem5_453e49d0:
 translate italiantl lorem5_bbb7baf9:
 
     # c "(The sooner Ipsum gets it, the better.)"
-    c "(Prima [Ip] l'avrà, meglio sarà.)"
+    c "(Prima [Ip] l'avrà, meglio è.)"
 
 # game/lorem5.rpy:22
 translate italiantl lorem5_9365f413:
@@ -58,7 +58,7 @@ translate italiantl lorem5_18d0dd63:
 translate italiantl lorem5_3f0150c8:
 
     # c "You were right. This will be much better than mingling with the crowds. I can do without all the extra noise and screaming."
-    c "Avevi ragione. Così sarà molto meglio che mescolarsi alla folla. Posso anche fare a meno di tutto il vociare e il rumore extra."
+    c "Avevi ragione. Così sarà molto meglio che mescolarsi alla folla. Posso ben fare a meno di tutto il vociare e il rumore extra."
 
 # game/lorem5.rpy:52
 translate italiantl lorem5_2899058b:
@@ -748,7 +748,7 @@ translate italiantl loremgoodending3_625c3f0f:
 translate italiantl loremgoodending3_db777428:
 
     # m "When he realized this, he bolted towards the exit."
-    m "Quando se ne accorse, saettò verso l'uscita."
+    m "Quando lui se ne accorse, saettò verso l'uscita."
 
 # game/lorem5.rpy:740
 translate italiantl loremgoodending3_0e56364b:

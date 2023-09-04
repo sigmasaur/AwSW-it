@@ -190,7 +190,7 @@ translate italiantl trueendings_07e0f499:
 translate italiantl trueendings_55f91d0b:
 
     # Ad annoyed b "Of course you'd only help for your own good."
-    Ad annoyed b "Ovviamente non ci aiuteresti se non per il tuo bene." # "you'd only help for your own good" -> "you wouldn't help US if not for your own good"
+    Ad annoyed b "Ovviamente non ci aiuteresti se non per il tuo stesso bene." # "you'd only help for your own good" -> "you wouldn't help US if not for your own good"
 
 # game/chapter5trueendings.rpy:103
 translate italiantl trueendings_ab701e8e:
@@ -377,7 +377,7 @@ translate italiantl trueendings_b2357b9d:
 translate italiantl trueendings_5e5c17ad:
 
     # Ry "Because your approach with him was wrong. You tried to talk him down or distract him while help arrived."
-    Ry "Perché il tuo approccio con lui era sbagliato. Hai cercato di dissuaderlo o di distrarlo mentre arrivavano gli aiuti."
+    Ry "Perché il tuo approccio con lui era sbagliato. Hai cercato di dissuaderlo o distrarlo mentre arrivavano gli aiuti."
 
 # game/chapter5trueendings.rpy:172
 translate italiantl trueendings_52f68341:
@@ -677,7 +677,7 @@ translate italiantl trueendings_93e61dde:
 translate italiantl trueendings_475a892d:
 
     # Br stern flip "Anna, if you lied under oath then that's something I can't just forget."
-    Br stern flip "[An], se hai giurato il falso allora non è qualcosa di cui mi posso semplicemente dimenticare."
+    Br stern flip "[An], se hai giurato il falso allora non è qualcosa di cui posso semplicemente dimenticarmi."
 
 # game/chapter5trueendings.rpy:312
 translate italiantl trueendings_df79b9b9:
@@ -881,7 +881,7 @@ translate italiantl trueendings_b54256a2:
 translate italiantl trueendings_b0344659:
 
     # n "For some reason or another, however, my proposal became a public matter."
-    n "Per una ragione o per un'altra, però, la mia proposta divenne una questione di pubblico interesse."
+    n "Per una ragione o per l'altra, però, la mia proposta divenne una questione di interesse pubblico."
 
 # game/chapter5trueendings.rpy:394
 translate italiantl trueendings_e5bfa567:
@@ -1782,7 +1782,7 @@ translate italiantl trueendings_3070bc42_2:
 translate italiantl trueendings_8f6e587b:
 
     # Iz "Did you really think a single person could have accomplished everything I told you about, and singlehandedly figure out time travel along the way?"
-    Iz "Pensavi davvero che una singola persona potesse compiere tutto ciò che ti ho detto, e nel frattempo capisse da sola il viaggio nel tempo?"
+    Iz "Pensavi davvero che una singola persona potesse compiere tutto ciò che ti ho detto, e nel frattempo capire da sola il viaggio nel tempo?"
 
 # game/chapter5trueendings.rpy:934
 translate italiantl trueendings_7105dc10:
@@ -2136,7 +2136,7 @@ translate italiantl trueendings_e2e696ab:
 translate italiantl trueendings_2eb7337e:
 
     # Hz "Dragons are scary, aren't they? This could even be a psychological component. To be fair, getting all of those into the same species could be complicated."
-    Hz "I draghi fanno paura, dico bene? Potrebbe anche essere una componente psicologica. Ad essere onesti, farcele entrare tutte in una stessa specie potrebbe essere complicato."
+    Hz "I draghi fanno paura, dico bene? Potrebbe anche essere una componente psicologica. Ad essere onesti, farcele entrare tutte nella stessa specie potrebbe essere complicato."
 
 # game/chapter5trueendings.rpy:1086
 translate italiantl trueendings_dd2718be:
@@ -2298,7 +2298,7 @@ translate italiantl trueendings_93ae67d3:
 translate italiantl trueendings_d076d7c3:
 
     # Hz "Our product is the creature, the chip and the training. All in one complete package. Take away just one of these three components and the product won't work as intended."
-    Hz "Il nostro prodotto è la creatura, il chip e l'addestramento. Tutto in un pacchetto completo. Togliete una sola di queste tre componenti e il prodotto non funziona come previsto."
+    Hz "Il nostro prodotto sono la creatura, il chip e l'addestramento. Tutto in un pacchetto completo. Togliete una sola di queste tre componenti e il prodotto non funziona come previsto."
 
 # game/chapter5trueendings.rpy:1140
 translate italiantl trueendings_362cc40b:
@@ -2394,7 +2394,7 @@ translate italiantl trueendings_76b2fe88_10:
 translate italiantl trueendings_5514d533:
 
     # n "As I had worked my way up the ranks within the company, I had become increasingly disillusioned by the many despicable acts and projects I witnessed. But now I was at a breaking point, ready to blow the whistle on everything I knew about them."
-    n "Nel farmi strada fra i ranghi della compagnia, ero divenuta sempre più disillusa dalle molte azioni spregevoli di cui ero stata testimone. Ma adesso ero al mio limite di sopportazione, pronta a vuotare il sacco su tutto ciò che sapevo su di loro." # "the many despicable acts [and projects] I witnessed"
+    n "Nel farmi strada fra i ranghi della compagnia, ero divenuta sempre più disillusa dalle molte azioni spregevoli di cui ero stata testimone. Ma adesso ero al limite di sopportazione, pronta a vuotare il sacco su tutto ciò che sapevo su di loro." # "the many despicable acts [and projects] I witnessed"
 
 # game/chapter5trueendings.rpy:1184
 translate italiantl trueendings_6ee5a5ce:
@@ -2832,7 +2832,7 @@ translate italiantl trueendings_aaaea5a3:
 translate italiantl trueendings_8e0a67e7:
 
     # c "You mean when Anna jumped in front of me and sacrificed herself so that I could survive and do what I set out to?"
-    c "Vuoi dire quando [An] mi si è gettata davanti e si è sacrificata cosicché io potessi sopravvivere e fare quello che mi ero prefissatə?" # see line 1510
+    c "Vuoi dire quando [An] mi si è gettata davanti e si è sacrificata affinché io potessi sopravvivere e fare quello che mi ero prefissatə?" # see line 1510
 
 # game/chapter5trueendings.rpy:1526
 translate italiantl trueendings_f392b02d:
@@ -3162,7 +3162,7 @@ translate italiantl trueendings_0ac6c96f:
 translate italiantl trueendings_344fba1b:
 
     # Iz "Maybe we will be lucky and this won't be necessary, but you will have to be careful and watch them. See how things develop from here on out."
-    Iz "Forse avremo fortuna e non sarà necessario, ma dovrai fare attenzione e osservarli. Vedere come si sviluppano le cose da qui in avanti."
+    Iz "Forse avremo fortuna e non sarà necessario, ma dovrai fare attenzione e osservarli. Vedere come si sviluppano le cose di qui in avanti."
 
 # game/chapter5trueendings.rpy:1656
 translate italiantl trueendings_529ca38d:
@@ -3231,7 +3231,7 @@ translate italiantl trueendings_76b2fe88_14:
 translate italiantl trueendings_8f4ab4de:
 
     # a "After being told of the comet and realizing that any of their attempts to stop or redirect it would fail without the lab's generator, the dragons' council agreed with my course of action, as did humanity.{p=3.3}{nw}\nWhile the repopulation of our city turned out very differently than humanity had initially hoped, all concerns were naught against the possibility of the vast amounts of technology and generators the dragons would bring to revive it.{p=3.3}{nw}\nSoon, the initiative to relocate the dragons through the portal was in full force, and I - still acting as an ambassador - helped as much as I could to make it go as smoothly as possible.{p=4.0}{nw}"
-    a "Dopo essere stati informati sulla cometa e aver capito che qualunque loro tentativo di fermarla o dirottarla avrebbe fallito senza il generatore del laboratorio, il consiglio dei draghi convenne con la mia linea di condotta, così come l'umanità.{p=3.3}{nw}\nSebbene il ripopolamento della nostra città si rivelò molto diverso da quanto l'umanità avesse inizialmente sperato, ogni preoccupazione era nulla di fronte alla possibilità delle vaste quantità di tecnologia e di generatori che i draghi avrebbero portato per ravvivarla.{p=3.3}{nw}\nBen presto, l'iniziativa di trasferire i draghi attraverso il portale era in pieno vigore, ed io—sempre in qualità di ambasciatorə—aiutai quanto più potevo per far sì che andasse il più liscia possibile.{p=4.0}{nw}" # corrected em-dash; "being told" -> "being informed"
+    a "Dopo essere stati informati sulla cometa e aver capito che qualunque loro tentativo di fermarla o dirottarla sarebbe fallito senza il generatore del laboratorio, il consiglio dei draghi convenne con la mia linea di condotta, così come l'umanità.{p=3.3}{nw}\nSebbene il ripopolamento della nostra città si rivelò molto diverso da quanto l'umanità avesse inizialmente sperato, ogni preoccupazione era nulla di fronte alla possibilità delle vaste quantità di tecnologia e di generatori che i draghi avrebbero portato per ravvivarla.{p=3.3}{nw}\nBen presto, l'iniziativa di trasferire i draghi attraverso il portale era in pieno vigore, ed io—sempre in qualità di ambasciatorə—aiutai quanto più potevo per far sì che andasse il più liscia possibile.{p=4.0}{nw}" # corrected em-dash; "being told" -> "being informed"
 
 # game/chapter5trueendings.rpy:1751
 translate italiantl trueendings_d0541220:
@@ -3239,7 +3239,7 @@ translate italiantl trueendings_d0541220:
     # nvl clear
     # n "After being told of the comet and realizing that any of their attempts to stop or redirect it would fail without the lab's generator, the dragons' council agreed with my course of action, as did humanity.{p=3.3}{nw}\nWhile the repopulation of our city turned out very differently than humanity had initially hoped, all concerns were naught against the possibility of the vast amounts of technology and generators the dragons would bring to revive it.{p=3.3}{nw}\nSoon, the initiative to relocate the dragons through the portal was in full force, and I - still acting as an ambassador - helped as much as I could to make it go as smoothly as possible.{fast}{p=0.0}{nw}"
     nvl clear
-    n "Dopo essere stati informati sulla cometa e aver capito che qualunque loro tentativo di fermarla o dirottarla avrebbe fallito senza il generatore del laboratorio, il consiglio dei draghi convenne con la mia linea di condotta, così come l'umanità.{p=3.3}{nw}\nSebbene il ripopolamento della nostra città si rivelò molto diverso da quanto l'umanità avesse inizialmente sperato, ogni preoccupazione era nulla di fronte alla possibilità delle vaste quantità di tecnologia e di generatori che i draghi avrebbero portato per ravvivarla.{p=3.3}{nw}\nBen presto, l'iniziativa di trasferire i draghi attraverso il portale era in pieno vigore, ed io—sempre in qualità di ambasciatorə—aiutai quanto più potevo per far sì che andasse il più liscia possibile.{fast}{p=0.0}{nw}" # see line 1749
+    n "Dopo essere stati informati sulla cometa e aver capito che qualunque loro tentativo di fermarla o dirottarla sarebbe fallito senza il generatore del laboratorio, il consiglio dei draghi convenne con la mia linea di condotta, così come l'umanità.{p=3.3}{nw}\nSebbene il ripopolamento della nostra città si rivelò molto diverso da quanto l'umanità avesse inizialmente sperato, ogni preoccupazione era nulla di fronte alla possibilità delle vaste quantità di tecnologia e di generatori che i draghi avrebbero portato per ravvivarla.{p=3.3}{nw}\nBen presto, l'iniziativa di trasferire i draghi attraverso il portale era in pieno vigore, ed io—sempre in qualità di ambasciatorə—aiutai quanto più potevo per far sì che andasse il più liscia possibile.{fast}{p=0.0}{nw}" # see line 1749
 
 # game/chapter5trueendings.rpy:1758
 translate italiantl trueendings_76b2fe88_15:

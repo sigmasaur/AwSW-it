@@ -208,7 +208,7 @@ translate italiantl _call_skipcheck_dc15bd8a:
 translate italiantl _call_skipcheck_282a6965:
 
     # An smirk b "Is that your scientific curiosity shining through? I can approve of that."
-    An smirk b "È forse curiosità scientifica quella che intravedo? Potrei anche approvare." # "is that [your] scientific curiosity"; "can approve" -> "could approve"
+    An smirk b "È forse curiosità scientifica che intravedo? Potrei anche approvare." # "is that [your] scientific curiosity"; "can approve" -> "could approve"
 
 # game/anna3.rpy:229
 translate italiantl _call_skipcheck_7416e511:
@@ -484,7 +484,7 @@ translate italiantl _call_skipcheck_156e0e0d:
 translate italiantl _call_skipcheck_df812565:
 
     # An sad b "Only to someone who knows what they're talking about."
-    An sad b "Solo a qualcuno che sa di cosa parla."
+    An sad b "Solo per qualcuno che sa di cosa parla."
 
 # game/anna3.rpy:383
 translate italiantl _call_skipcheck_c9371a49:
@@ -598,7 +598,7 @@ translate italiantl _call_skipcheck_e58c52f5:
 translate italiantl _call_skipcheck_2eb6e66b:
 
     # An "By the way, how do you feel about needles?"
-    An "Ad ogni modo, come la pensi riguardo agli aghi?"
+    An "A proposito, come la pensi riguardo agli aghi?"
 
 # game/anna3.rpy:452
 translate italiantl _call_skipcheck_bbdd05a9:
@@ -676,7 +676,7 @@ translate italiantl _call_skipcheck_08b702f9:
 translate italiantl _call_skipcheck_bed71d59:
 
     # c "Well, we usually don't take off this much in front of others."
-    c "Be', noi non siamo abituati a levarci tanto di dosso davanti agli altri."
+    c "Be', noi non siamo soliti levarci tanto di dosso davanti agli altri."
 
 # game/anna3.rpy:513
 translate italiantl _call_skipcheck_acc5effa:
@@ -712,7 +712,7 @@ translate italiantl _call_skipcheck_c003e3c4:
 translate italiantl _call_skipcheck_f201ef26:
 
     # An normal b "Is it? I suppose it might be for you, considering your lack of fur."
-    An normal b "È così? Suppongo che per te possa farne, considerando che ti manca una pelliccia."
+    An normal b "È così? Suppongo che per te possa farlo, considerando che ti manca una pelliccia."
 
 # game/anna3.rpy:530
 translate italiantl _call_skipcheck_60777bb5:
@@ -1028,7 +1028,7 @@ translate italiantl _call_skipcheck_5018d5a5:
 translate italiantl _call_skipcheck_1e9c5323:
 
     # An face b "Is that what you're into? Good to know."
-    An face b "È questo che ti piace fare? Buono a sapersi."
+    An face b "È questo che ti piace? Buono a sapersi."
 
 # game/anna3.rpy:736
 translate italiantl _call_skipcheck_d5782ea3:
@@ -1538,7 +1538,7 @@ translate italiantl _call_skipcheck_e0993848_1:
 translate italiantl _call_skipcheck_a7399f02_1:
 
     # Ry normal "What are you doing here?"
-    Ry normal "Cosa ci fai tu qui?" # see line 867
+    Ry normal "Cosa ci fai qui?" # see line 867
 
 # game/anna3.rpy:1027
 translate italiantl _call_skipcheck_a7b22381:
@@ -1826,7 +1826,7 @@ translate italiantl _call_skipcheck_26759579:
 translate italiantl _call_skipcheck_2e55bb9c:
 
     # An smirk b "Or better still, sell the prints. I could make bank doing that."
-    An smirk b "O meglio ancora, vendo le stampe. Potrei farci dei bei soldi."
+    An smirk b "O meglio ancora, vendere le stampe. Potrei farci dei bei soldi."
 
 # game/anna3.rpy:1213
 translate italiantl _call_skipcheck_225b1d83:
@@ -2135,7 +2135,7 @@ translate italiantl _call_skipcheck_36c2c51e:
 translate italiantl _call_skipcheck_2d82bd10:
 
     # n "When I entered her room, I couldn't even pretend to be her friend. Lying in the bed was just a crude image of her former self. It was as if she was already dead."
-    n "Quando entrai nella stanza, non riuscii nemmeno a fingermi sua amica. Distesa sul letto era solo una cruda immagine di quel che era stata un tempo. Era come se fosse già morta."
+    n "Quando entrai nella stanza, non riuscii nemmeno a fingermi sua amica. Distesa sul letto era solo una cruda immagine di quel che era stata. Era come se fosse già morta."
 
 # game/anna3.rpy:1380
 translate italiantl _call_skipcheck_9958b0bc:

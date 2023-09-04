@@ -424,7 +424,7 @@ translate italiantl _call_skipcheck_24_bdc479fd:
 translate italiantl _call_skipcheck_24_ee27ef00:
 
     # Ry shy "Maybe you saw those pictures in my apartment."
-    Ry shy "Forse hai visto quelle immagini nel mio appartamento."
+    Ry shy "Forse avrai visto quelle immagini nel mio appartamento."
 
 # game/remy3.rpy:338
 translate italiantl _call_skipcheck_24_cf9bdce1:
@@ -1043,7 +1043,7 @@ translate italiantl _call_skipcheck_25_798a1d0a:
 translate italiantl _call_skipcheck_25_6b6a1636:
 
     # c "I can't really blame her for that. After all, she's supposed to be a representative of the people, right?"
-    c "Non posso biasimarla per questo. Dopotutto, si suppone che sia una rappresentante del popolo, giusto?" # "I can't [really] blame her"
+    c "Non posso biasimarla per questo. Dopotutto, si suppone che lei sia una rappresentante del popolo, giusto?" # "I can't [really] blame her"
 
 # game/remy3.rpy:737
 translate italiantl _call_skipcheck_25_8ae75e26:
@@ -1362,7 +1362,7 @@ translate italiantl _call_skipcheck_25_b2e4a61b:
 translate italiantl _call_skipcheck_25_45c859af:
 
     # c "He has a very pronounced sense of duty to humanity, and I believed in him when he stepped through the portal. He proclaimed that he would do everything he could."
-    c "Ha uno spiccato senso del dovere verso l'umanità, e io ho creduto in lui quando ha varcato il portale. Proclamava che avrebbe fatto tutto il possibile." # "a [very] pronounced sense of duty"
+    c "Ha uno spiccato senso del dovere verso l'umanità, e io credetti in lui quando varcò il portale. Proclamava che avrebbe fatto tutto il possibile." # "a [very] pronounced sense of duty"
 
 # game/remy3.rpy:844
 translate italiantl _call_skipcheck_25_b33f9c5c:
@@ -1500,7 +1500,7 @@ translate italiantl _call_skipcheck_25_e862099e:
 translate italiantl _call_skipcheck_25_c7ad976e:
 
     # c "Yet even if I didn't have to go back, I would. I can't just let them down like that, you know? I have to try and do what I can. That's why I came here."
-    c "Eppure anche se non fossi costrettə a ritornare, lo farei. Non posso proprio deluderli così, sai? Devo tentare e fare quello che posso. È per questo che sono venutə qui."
+    c "Eppure se anche non fossi costrettə a ritornare, lo farei. Non posso proprio deluderli così, sai? Devo tentare e fare quello che posso. È per questo che sono venutə qui."
 
 # game/remy3.rpy:935
 translate italiantl _call_skipcheck_25_81b085c1:
