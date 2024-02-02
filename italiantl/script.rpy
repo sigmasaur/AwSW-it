@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2024-02-02
 
 translate italiantl strings:
 
@@ -12,5 +12,5 @@ translate italiantl strings:
 
     # script.rpy:36
     old "Click to Begin"
-    new "Clic per Iniziare"
+    new "Clicca per Iniziare"
 

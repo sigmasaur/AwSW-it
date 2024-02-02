@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2024-02-02
 
 translate italiantl strings:
 
@@ -92,7 +92,7 @@ translate italiantl strings:
 
     # achievements.rpy:285
     old "{b}Window Shopper{/b}\nLook at everything the store has to offer."
-    new "{b}Guardare, Ma Non Comprare{/b}\nGuarda tutto ciò che il negozio ha da offrire."
+    new "{b}Compratore da Vetrina{/b}\nGuarda tutto ciò che il negozio ha da offrire."
 
     # achievements.rpy:296
     old "{b}Investigator 2{/b}\nDo well on the second investigation."
@@ -100,7 +100,7 @@ translate italiantl strings:
 
     # achievements.rpy:307
     old "{b}Memories{/b}\nLook at Remy's pictures."
-    new "{b}Ricordi{/b}\nGuarda le immagini di [Ry]."
+    new "{b}Ricordi{/b}\nGuarda le foto di [Ry]."
 
     # achievements.rpy:318
     old "{b}Snoop{/b}\nLook at Anna's envelope."

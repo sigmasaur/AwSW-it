@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2024-02-02
 
 translate italiantl strings:
 
@@ -72,7 +72,7 @@ translate italiantl strings:
 
     # screens.rpy:684
     old "Sound"
-    new "Suoni"
+    new "Suono"
 
     # screens.rpy:695
     old "Test"
