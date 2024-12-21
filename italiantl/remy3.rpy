@@ -10,13 +10,13 @@ translate italiantl _call_skiptut_24_44e0ddc6:
 translate italiantl _call_skiptut_24_690da0b1:
 
     # s "It looks like you've seen this before. Skip ahead a bit?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare un po' avanti?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare un po' avanti?"
 
 # game/remy3.rpy:62
 translate italiantl _call_skiptut_24_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
 
 # game/remy3.rpy:76
 translate italiantl _call_skiptut_24_0054b77b:
@@ -64,7 +64,7 @@ translate italiantl _call_skipcheck_24_07d1113d:
 translate italiantl _call_skipcheck_24_ac05d355:
 
     # Ry "Well, what do you think of it?"
-    Ry "Be', cosa ne pensi?"
+    Ry "Beh, cosa ne pensi?"
 
 # game/remy3.rpy:139
 translate italiantl _call_skipcheck_24_3724466d:
@@ -106,7 +106,7 @@ translate italiantl _call_skipcheck_24_f2b0a502:
 translate italiantl _call_skipcheck_24_1075c3f6:
 
     # Ry shy "Yes, well... about that..."
-    Ry shy "Sì, be'... riguardo a quello..."
+    Ry shy "Sì, beh... riguardo a quello..."
 
 # game/remy3.rpy:168
 translate italiantl _call_skipcheck_24_b04cd875:
@@ -166,7 +166,7 @@ translate italiantl _call_skipcheck_24_95179a95:
 translate italiantl _call_skipcheck_24_54970630:
 
     # Ry "Well, it's not just about her, but working with her doesn't make things any easier."
-    Ry "Be', non solo di lei, ma lavorare con lei non rende le cose più facili."
+    Ry "Beh, non solo di lei, ma lavorare con lei non rende le cose più facili."
 
 # game/remy3.rpy:212
 translate italiantl _call_skipcheck_24_935288d8:
@@ -196,7 +196,7 @@ translate italiantl _call_skipcheck_24_314cabfb:
 translate italiantl _call_skipcheck_24_d2d6c360:
 
     # Ry "Okay, well..."
-    Ry "Okay, be'..."
+    Ry "Okay, beh..."
 
 # game/remy3.rpy:241
 translate italiantl _call_skipcheck_24_76b2fe88:
@@ -424,7 +424,7 @@ translate italiantl _call_skipcheck_24_bdc479fd:
 translate italiantl _call_skipcheck_24_ee27ef00:
 
     # Ry shy "Maybe you saw those pictures in my apartment."
-    Ry shy "Forse avrai visto quelle immagini nel mio appartamento."
+    Ry shy "Forse avrai visto quelle foto nel mio appartamento."
 
 # game/remy3.rpy:338
 translate italiantl _call_skipcheck_24_cf9bdce1:
@@ -508,7 +508,7 @@ translate italiantl remy2goodendingmenu_c6821729:
 translate italiantl remy2goodendingmenu_a55627cc:
 
     # c "Yeah. The orphanage is notoriously understaffed. The children don't really have anyone else, so each volunteer is a godsend."
-    c "Sì. L'orfanotrofio è notoriamente a corto di personale. I piccoli non è che abbiano nessun altro, e quindi ogni volontario è una manna dal cielo." # see line 215 of Adine 2
+    c "Sì. L'orfanotrofio è notoriamente a corto di personale. Non è che i piccoli abbiano nessun altro, quindi ogni volontario è una manna dal cielo." # see line 215 of Adine 2
 
 # game/remy3.rpy:409
 translate italiantl remy2goodendingmenu_622bea1d:
@@ -544,7 +544,7 @@ translate italiantl remy2goodendingmenu_73c2fcc2:
 translate italiantl remy2goodendingmenu_e9f36413:
 
     # Ry "She used to be my friend. Well, she was more Amelia's friend than mine."
-    Ry "Una volta era mia amica. Be', era più amica di Amelia che mia."
+    Ry "Una volta era mia amica. Beh, era più amica di Amelia che mia."
 
 # game/remy3.rpy:421
 translate italiantl remy2goodendingmenu_7db96020:
@@ -653,7 +653,7 @@ translate italiantl c3remotherwise_dccb233b:
 translate italiantl c3remotherwise_f541a6d8:
 
     # Ry look "Well, there's the whole thing about Anna."
-    Ry look "Be', c'è tutta quella storia a proposito di [An]."
+    Ry look "Beh, c'è tutta quella storia a proposito di [An]."
 
 # game/remy3.rpy:472
 translate italiantl c3remotherwise_95eb24a9:
@@ -731,7 +731,7 @@ translate italiantl c3remotherwise_dccb233b_1:
 translate italiantl c3remotherwise_dec40930:
 
     # Ry look "Well, there was the whole thing about Anna."
-    Ry look "Be', c'è tutta quella storia a proposito di [An]." # see line 470
+    Ry look "Beh, c'è tutta quella storia a proposito di [An]." # see line 470
 
 # game/remy3.rpy:517
 translate italiantl c3remotherwise_78ff6c33:
@@ -749,7 +749,7 @@ translate italiantl c3remotherwise_3a9ffa05:
 translate italiantl c3remotherwise_6f10ef78:
 
     # c "I guess there's not much use thinking about it, especially now that she's out of the picture."
-    c "Immagino che non serva a molto ripensarci, specialmente adesso che lei è uscita di scena."
+    c "Immagino che non serva a molto ripensarci, specialmente adesso che lei è fuori dai giochi."
 
 # game/remy3.rpy:523
 translate italiantl c3remotherwise_8288d73f:
@@ -821,13 +821,13 @@ translate italiantl _call_skiptut_25_0ff5f677:
 translate italiantl _call_skiptut_25_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/remy3.rpy:598
 translate italiantl _call_skiptut_25_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/remy3.rpy:612
 translate italiantl _call_skiptut_25_0054b77b:
@@ -929,7 +929,7 @@ translate italiantl _call_skipcheck_25_b61f825f:
 translate italiantl _call_skipcheck_25_eb905f86:
 
     # c "I have my own principles."
-    c "Io ho i miei princìpi."
+    c "Io ho i miei principi."
 
 # game/remy3.rpy:678
 translate italiantl _call_skipcheck_25_07d1113d:
@@ -1013,7 +1013,7 @@ translate italiantl _call_skipcheck_25_9a385c93:
 translate italiantl _call_skipcheck_25_7c854124:
 
     # Ry normal "Well, you do have the council's support. If Emera voiced that you were on our side, it wouldn't be so bad if the public found out."
-    Ry normal "Be', hai il supporto del consiglio. Se [Em] vociferasse che eri dalla nostra parte, non sarebbe così male se il pubblico lo scoprisse."
+    Ry normal "Beh, hai il supporto del consiglio. Se [Em] vociferasse che eri dalla nostra parte, non sarebbe così male se il pubblico lo scoprisse."
 
 # game/remy3.rpy:706
 translate italiantl _call_skipcheck_25_9d1c2077:
@@ -1115,7 +1115,7 @@ translate italiantl _call_skipcheck_25_45713213:
 translate italiantl _call_skipcheck_25_02ad0c6e:
 
     # Ry "Well, if a crime has been committed and proven without a doubt, a jail sentence can be the consequence."
-    Ry "Be', se un crimine è stato commesso e dimostrato oltre ogni dubbio, una pena detentiva può essere la conseguenza."
+    Ry "Beh, se un crimine è stato commesso e dimostrato oltre ogni dubbio, una pena detentiva può essere la conseguenza."
 
 # game/remy3.rpy:762
 translate italiantl _call_skipcheck_25_1952102b:
@@ -1187,7 +1187,7 @@ translate italiantl _call_skipcheck_25_a9e762ed:
 translate italiantl _call_skipcheck_25_46192a75:
 
     # c "It is a privilege. Anyone or anything that threatens the inside society or the lives of its people is removed very quickly."
-    c "È un privilegio. Chiunque o qualunque cosa minacci la società all'interno o la vita delle sue persone è rimosso molto in fretta."
+    c "È un privilegio. Chiunque o qualunque cosa minacci la società all'interno o la vita delle sue persone è allontanato molto in fretta."
 
 # game/remy3.rpy:786
 translate italiantl _call_skipcheck_25_c665a09c:
@@ -1410,7 +1410,7 @@ translate italiantl _call_skipcheck_25_07d1113d_1:
 translate italiantl _call_skipcheck_25_c19dccef:
 
     # c "I'd love living here. Everything I've heard about this place is so wonderful compared to back home."
-    c "Mi piacerebbe molto vivere qui. Tutto quello che ho sentito di questo posto è così meraviglioso rispetto a casa."
+    c "Mi piacerebbe molto vivere qui. Tutto quello che ho sentito dire di questo posto è così meraviglioso rispetto a casa."
 
 # game/remy3.rpy:871
 translate italiantl _call_skipcheck_25_3171a443:
@@ -1698,7 +1698,7 @@ translate italiantl remy3skip2_5cdba81c:
 translate italiantl remy3skip2_3a095576:
 
     # Ry "In that case... Well..."
-    Ry "In tal caso... Be'..."
+    Ry "In tal caso... Beh..."
 
 # game/remy3.rpy:1088
 translate italiantl remy3skip2_edc24fe3:
@@ -1740,7 +1740,7 @@ translate italiantl remy3skip2_07d1113d:
 translate italiantl remy3skip2_6237c784:
 
     # Ry "Well, I'll call you and we'll see if we can work it out around our schedules."
-    Ry "Be', ti chiamerò e vedremo se possiamo organizzarci coi nostri orari."
+    Ry "Beh, ti chiamerò e vedremo se possiamo organizzarci coi nostri orari."
 
 # game/remy3.rpy:1102
 translate italiantl remy3skip2_e631bc97:
@@ -1758,7 +1758,7 @@ translate italiantl remy3skip2_303497e7:
 translate italiantl remy3skip2_f6c413bd:
 
     # Ry smile "I probably should get going now, though. Thanks for hearing me out, [player_name]."
-    Ry smile "Probabilmente dovrei andare adesso, però. Grazie di avermi ascoltato, [player_name]." # see line 1049
+    Ry smile "Probabilmente dovrei andare adesso. Grazie di avermi ascoltato, [player_name]." # see line 1049; "I probably should get going now[, though]"
 
 # game/remy3.rpy:1108
 translate italiantl remy3skip2_e085fae4_1:

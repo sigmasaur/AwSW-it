@@ -87,13 +87,13 @@ translate italiantl _call_skiptut_6_0ff5f677:
 translate italiantl _call_skiptut_6_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/bryce2.rpy:116
 translate italiantl _call_skiptut_6_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/bryce2.rpy:131
 translate italiantl _call_skiptut_6_0054b77b:
@@ -219,7 +219,7 @@ translate italiantl _call_skipcheck_6_4963e213:
 translate italiantl _call_skipcheck_6_d2db338a:
 
     # c "Well, you don't really have a good frame of reference."
-    c "Be', non è che tu abbia un buon termine di paragone."
+    c "Beh, non è che tu abbia un buon termine di paragone."
 
 # game/bryce2.rpy:249
 translate italiantl _call_skipcheck_6_aac5d3f8:
@@ -273,7 +273,7 @@ translate italiantl _call_skipcheck_6_7bd0dea6:
 translate italiantl _call_skipcheck_6_7e45cf95:
 
     # m "He went to a shelf on the far side of the room and picked up a long object, carrying it in his maw as he returned to the table before me and gently set it down."
-    m "Andò a uno scaffale sul lato opposto della stanza e raccolse un lungo oggetto, portandolo nelle fauci mentre ritornava al tavolino davanti a me e lo posò gentilmente."
+    m "Andò a uno scaffale sul lato opposto della stanza e raccolse un lungo oggetto, portandolo nelle fauci mentre ritornava al tavolino davanti a me, e lo posò delicatamente."
 
 # game/bryce2.rpy:300
 translate italiantl _call_skipcheck_6_5a1ba1ae:
@@ -315,7 +315,7 @@ translate italiantl _call_skipcheck_6_af34da50:
 translate italiantl _call_skipcheck_6_b47cf679:
 
     # Br laugh "Well, you asked about my hobbies. I guess this is the latest one."
-    Br laugh "Be', mi hai chiesto dei miei passatempi. Immagino che questo sia il più recente."
+    Br laugh "Beh, mi hai chiesto dei miei passatempi. Immagino che questo sia il più recente."
 
 # game/bryce2.rpy:336
 translate italiantl _call_skipcheck_6_e823a17b:
@@ -345,7 +345,7 @@ translate italiantl _call_skipcheck_6_ad77cb08:
 translate italiantl _call_skipcheck_6_143bfecc:
 
     # Br normal "And of course, I wanna be fit for duty. As the chief, people look up to me, so I have to be at my best at all times."
-    Br normal "E naturalmente, voglio essere idoneo al servizio. In quanto capo, la gente mi guarda con ammirazione, e quindi devo essere al mio meglio in ogni momento."
+    Br normal "E naturalmente, voglio essere idoneo al servizio. In quanto capo, la gente mi guarda con ammirazione, quindi devo essere al mio meglio in ogni momento."
 
 # game/bryce2.rpy:347
 translate italiantl _call_skipcheck_6_1169c260:
@@ -411,7 +411,7 @@ translate italiantl _call_skipcheck_6_fa257366:
 translate italiantl _call_skipcheck_6_20a44318:
 
     # Br normal "Well, some of us can fly, and some of us can run well, but none of us can swim beyond the seas."
-    Br normal "Be', alcuni di noi sanno volare, e alcuni sanno correre bene, ma nessuno sa nuotare oltreoceano." # "some [of us] can run"; "none [of us] can swim"
+    Br normal "Beh, alcuni di noi sanno volare, e alcuni sanno correre bene, ma nessuno sa nuotare oltreoceano." # "some [of us] can run"; "none [of us] can swim"
 
 # game/bryce2.rpy:369
 translate italiantl _call_skipcheck_6_8ac9160f:
@@ -435,7 +435,7 @@ translate italiantl _call_skipcheck_6_63a3d11b:
 translate italiantl _call_skipcheck_6_023c8305:
 
     # Br laugh "Well, we do get the occasional explorer who ventures out into uncharted seas, but I don't really keep track of that kind of thing."
-    Br laugh "Be', ogni tanto ci capita un esploratore che si avventura in acque sconosciute, ma non è che io tenga traccia di quel genere di cose." # "seas" -> "waters"
+    Br laugh "Beh, ogni tanto ci capita un esploratore che si avventura in acque sconosciute, ma non è che io tenga traccia di quel genere di cose." # "seas" -> "waters"
 
 # game/bryce2.rpy:377
 translate italiantl _call_skipcheck_6_83b5e915:
@@ -537,7 +537,7 @@ translate italiantl _call_skipcheck_6_e9d761e3:
 translate italiantl _call_skipcheck_6_e70e21a0:
 
     # Br laugh "Well, let's just keep it on the arm for now."
-    Br laugh "Be', per adesso teniamoci sull'avambraccio."
+    Br laugh "Beh, per adesso teniamoci sull'avambraccio."
 
 # game/bryce2.rpy:458
 translate italiantl _call_skipcheck_6_4b2ae396:
@@ -561,7 +561,7 @@ translate italiantl _call_skipcheck_6_4cb247e4:
 translate italiantl _call_skipcheck_6_5abc3a68:
 
     # m "His forearm shifted, the shape of his muscles changing as they became more defined. In a moment, they were firm and bulging, his scales flaring under the stress and looking as though they might pop off at any moment. It reminded me of a flexing body builder in a skin-tight lycra suit."
-    m "Il suo avambraccio si mosse, la forma dei suoi muscoli che cambiava mentre diventavano più definiti. In un attimo, erano sodi e rigonfi; le sue squame, dilatate sotto la tensione, sembrava come se potessero saltare via da un momento all'altro. Ricordava un culturista che si mostra in una tuta di lycra attillata."
+    m "Il suo avambraccio si mosse—la forma dei suoi muscoli cambiò mentre diventavano più definiti. In un attimo, erano sodi e rigonfi—le sue squame, dilatate sotto la tensione, sembrava come se potessero saltare via da un momento all'altro. Ricordava un culturista che si mostra in una tuta di lycra attillata."
 
 # game/bryce2.rpy:471
 translate italiantl _call_skipcheck_6_5e4e6a9f:
@@ -867,7 +867,7 @@ translate italiantl _call_skipcheck_6_89ce4d2f:
 translate italiantl _call_skipcheck_6_e90dbfcf:
 
     # c "(Well, he's taking his time.)"
-    c "(Be', se la prende comoda.)"
+    c "(Beh, se la prende comoda.)"
 
 # game/bryce2.rpy:682
 translate italiantl _call_skipcheck_6_198d2b51:
@@ -909,7 +909,7 @@ translate italiantl _call_syscheck_32_51f48989:
 translate italiantl _call_syscheck_32_85b087cd:
 
     # m "Bold letters proclaimed the magazine's title as {i}Universal Fitness{/i}, its models on the cover catching my eye with their confident and athletic poses."
-    m "A caratteri cubitali, il titolo della rivista proclamava {i}Universo della Forma{/i}, i modelli in copertina che catturavano il mio sguardo con le loro pose atletiche e disinvolte."
+    m "A caratteri cubitali, il titolo della rivista proclamava {i}Universal Fitness{/i}—i modelli in copertina catturarono il mio sguardo con le loro pose atletiche e disinvolte."
 
 # game/bryce2.rpy:720
 translate italiantl _call_syscheck_32_71566561:
@@ -987,7 +987,7 @@ translate italiantl bryce2cont2_7a9a4748:
 translate italiantl bryce2cont2_230b2278:
 
     # Br smirk "Help yourself if you like."
-    Br smirk "Sèrviti pure se ti va."
+    Br smirk "Serviti pure se ti va."
 
 # game/bryce2.rpy:811
 translate italiantl bryce2cont2_4f8449a3:
@@ -1449,7 +1449,7 @@ translate italiantl bryce2cont2_6d87b0b4:
 translate italiantl bryce2cont2_7246fcb6:
 
     # Br brow "Well, let's see you do better."
-    Br brow "Be', vorrei vederti fare di meglio."
+    Br brow "Beh, vorrei vederti fare di meglio."
 
 # game/bryce2.rpy:1041
 translate italiantl bryce2cont2_503fe0b3:
@@ -1683,7 +1683,7 @@ translate italiantl bryce2cont2_fe5f3366:
 translate italiantl bryce2cont2_7efed046:
 
     # Br "So, I've been wondering, what does it take for someone to become humanity's ambassador?"
-    Br "Quindi, mi stavo chiedendo, cosa ci vuole perché qualcuno diventi ambasciatore dell'umanità?"
+    Br "Quindi, mi stavo chiedendo, cosa ci vuole perché qualcuno diventi un rappresentante dell'umanità?"
 
 # game/bryce2.rpy:1165
 translate italiantl bryce2cont2_a83267c5:
@@ -1719,7 +1719,7 @@ translate italiantl bryce2cont2_23bbf6b1:
 translate italiantl bryce2cont2_2e42d7f3:
 
     # Br laugh "Well, it's not like we fly around in spaceships or anything."
-    Br laugh "Be', non è che ce ne andiamo in giro nelle navicelle o altro."
+    Br laugh "Beh, non è che ce ne andiamo in giro nelle navicelle o altro."
 
 # game/bryce2.rpy:1177
 translate italiantl bryce2cont2_fdf53542:
@@ -1737,7 +1737,7 @@ translate italiantl bryce2cont2_ad5dd2fb:
 translate italiantl bryce2cont2_e43da373:
 
     # c "Well, I'm not sure if that would be a good descriptor for your kind."
-    c "Be', non sono sicurə che sarebbe un buon modo di descrivere la vostra specie." # "descriptor" -> "way to describe"
+    c "Beh, non sono sicurə che sarebbe un buon modo di descrivere la vostra specie." # "descriptor" -> "way to describe"
 
 # game/bryce2.rpy:1183
 translate italiantl bryce2cont2_94882170:
@@ -1785,7 +1785,7 @@ translate italiantl bryce2cont2_4cdb7e4d:
 translate italiantl bryce2cont2_4918d46a:
 
     # Br brow "Well, you've been interesting enough so far, and Reza... I'm reserving judgment on that one."
-    Br brow "Be', finora tu sei statə abbastanza interessante, e [Rz]... su quello là mi riserverò il giudizio."
+    Br brow "Beh, finora tu sei statə abbastanza interessante, e [Rz]... su quello là mi riserverò il giudizio."
 
 # game/bryce2.rpy:1199
 translate italiantl bryce2cont2_efb4d3f3:
@@ -1971,7 +1971,7 @@ translate italiantl bryce2skip_bb00a52c:
 translate italiantl bryce2skip_804aae17:
 
     # Br "'twas fun the first time around when we were in the bar. No offense, but you were kind of a jerk this time."
-    Br "È stato anche divertente la prima volta quando eravamo al bar. Senza offesa, ma stavolta sei statə un po' una carogna."
+    Br "È stato anche divertente la prima volta quando eravamo al bar. Senza offesa, ma stavolta hai fatto un po' l'idiota."
 
 # game/bryce2.rpy:1349
 translate italiantl bryce2skip_511d0e0d:
@@ -2013,7 +2013,7 @@ translate italiantl bryce2skip_72c88b3c:
 translate italiantl bryce2skip_d819a5c6:
 
     # Br brow "After saying something like that, you still don't think you're a jerk?"
-    Br brow "Dopo aver detto una cosa del genere, pensi ancora di non essere una carogna?"
+    Br brow "Dopo aver detto una cosa del genere, pensi ancora di non fare l'idiota?"
 
 # game/bryce2.rpy:1363
 translate italiantl bryce2skip_64e78033:

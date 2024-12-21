@@ -94,7 +94,7 @@ translate italiantl anna1_ccbd7537:
 translate italiantl anna1_e9fe9500:
 
     # Ry "Well, I've said what I came here to say. Good luck."
-    Ry "Be', quel che ero venuto qui a dire l'ho detto. Buona fortuna."
+    Ry "Beh, quel che ero venuto qui a dire l'ho detto. Buona fortuna."
 
 # game/anna1.rpy:81
 translate italiantl anna1_32b2cfd8:
@@ -118,13 +118,13 @@ translate italiantl _call_skiptut_7_0ff5f677:
 translate italiantl _call_skiptut_7_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/anna1.rpy:127
 translate italiantl _call_skiptut_7_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/anna1.rpy:142
 translate italiantl _call_skiptut_7_0054b77b:
@@ -484,13 +484,13 @@ translate italiantl _call_skipcheck_7_5057e9fb:
 translate italiantl _call_skipcheck_7_37acbaf0:
 
     # An "Well, let's go then."
-    An "Be', andiamo allora."
+    An "Beh, andiamo allora."
 
 # game/anna1.rpy:408
 translate italiantl _call_skipcheck_7_1274b54e:
 
     # c "After you, milady."
-    c "Dopo di Lei, Signorina."
+    c "Dopo di lei, Signorina."
 
 # game/anna1.rpy:420
 translate italiantl _call_skipcheck_7_fd94623d:
@@ -538,7 +538,7 @@ translate italiantl _call_skipcheck_7_c97a6805:
 translate italiantl _call_skipcheck_7_beab5379:
 
     # Ad "Welcome to our establishment. My name's Adine, and I'll be your waitress today. What can I bring you two?"
-    Ad "Benvenutɜ al nostro stabilimento. Il mio nome è [Ad], e sarò la vostra cameriera per oggi. Che cosa posso portarvi?" # see line 1673 of chapter 1
+    Ad "Benvenutɜ nel nostro stabilimento. Il mio nome è [Ad], e oggi sarò la vostra cameriera. Cosa posso portarvi?" # see line 1673 of chapter 1
 
 # game/anna1.rpy:449
 translate italiantl _call_skipcheck_7_24bf5684:
@@ -652,7 +652,7 @@ translate italiantl _call_skipcheck_7_0b08fe43:
 translate italiantl _call_skipcheck_7_ee139601:
 
     # An "Well, that's a shame."
-    An "Be', è un peccato."
+    An "Beh, è un peccato."
 
 # game/anna1.rpy:553
 translate italiantl _call_skipcheck_7_72418553:
@@ -676,7 +676,7 @@ translate italiantl _call_skipcheck_7_01a15273:
 translate italiantl _call_skipcheck_7_4cad5cfe:
 
     # An "Well, it's not the first."
-    An "Be', non è la prima."
+    An "Beh, non è la prima."
 
 # game/anna1.rpy:571
 translate italiantl _call_skipcheck_7_7318a035:
@@ -730,7 +730,7 @@ translate italiantl _call_skipcheck_7_5a3ffb68:
 translate italiantl _call_skipcheck_7_aacef7dd:
 
     # c "Maybe you should do something else for a change."
-    c "Forse dovresti fare qualcos'altro, per cambiare."
+    c "Forse dovresti fare qualcos'altro, tanto per cambiare."
 
 # game/anna1.rpy:603
 translate italiantl _call_skipcheck_7_0c61b9b0:
@@ -898,7 +898,7 @@ translate italiantl _call_skipcheck_7_2e2553b3:
 translate italiantl _call_skipcheck_7_d3f48fd2:
 
     # An "Well, I'm not convinced that this will accomplish anything, unless your goal is to make me regret this day."
-    An "Be', non sono convinta che questo servirà a qualcosa, a meno che il tuo obiettivo non sia di farmi rimpiangere questa giornata."
+    An "Beh, non sono convinta che questo servirà a qualcosa, a meno che il tuo obiettivo non sia di farmi rimpiangere questa giornata."
 
 # game/anna1.rpy:692
 translate italiantl _call_skipcheck_7_5b3a3cb1:
@@ -952,7 +952,7 @@ translate italiantl _call_skipcheck_7_1be57190:
 translate italiantl _call_skipcheck_7_73ed9de4:
 
     # An "And if I win, I'll have you come in sometime so I can run a few tests on you. I won't even need your blood anymore."
-    An "E se vinco io, ti farò ricevere qualche volta così potrò farti alcuni esami. Nemmeno mi servirà più il tuo sangue." # see line 708
+    An "E se vinco io, ti farò ricevere qualche volta così potrò farti alcuni esami. Non mi servirà più nemmeno il tuo sangue." # see line 708
 
 # game/anna1.rpy:717
 translate italiantl _call_skipcheck_7_95705c40:
@@ -1042,7 +1042,7 @@ translate italiantl _call_skipcheck_7_a41d7d3e:
 translate italiantl _call_skipcheck_7_0b40c3cf:
 
     # An "Let's make it three. Not sure how long this will take, and my break won't be for too long, either."
-    An "Facciamo tre. Non so bene quanto ci vorrà, e inoltre non sarò in pausa ancora per molto."
+    An "Facciamo tre. Non so bene quanto ci vorrà, e non sarò in pausa ancora per molto." # "my break won't be for too long[, either]"
 
 # game/anna1.rpy:780
 translate italiantl _call_skipcheck_7_4137e81a:
@@ -1066,7 +1066,7 @@ translate italiantl _call_skipcheck_7_3c8056a2:
 translate italiantl _call_skipcheck_7_8dd493bd:
 
     # An "Who is cited as one of our most important historians, his work spanning over 20 books, credited with mapping out our entire history since the beginning of sentience?"
-    An "Chi è citato come uno dei nostri storici più importanti, il suo lavoro che abbraccia più di venti libri, cui è attribuito il merito di aver tracciato la nostra intera storia sin dal principio della consapevolezza?" # "20" -> "twenty" for elegance
+    An "Chi è citato come uno dei nostri storici più importanti, il cui lavoro abbraccia più di venti libri, cui è attribuito il merito di aver tracciato la nostra intera storia sin dal principio della consapevolezza?" # "20" -> "twenty" for elegance
 
 # game/anna1.rpy:808
 translate italiantl _call_skipcheck_7_2fa2fb8c:
@@ -1192,7 +1192,7 @@ translate italiantl wrong2_f1b4da89:
 translate italiantl wrong2_6abca927:
 
     # c "Oh well."
-    c "Oh be'."
+    c "Oh beh."
 
 # game/anna1.rpy:917
 translate italiantl wrong2_10d76594:
@@ -1384,7 +1384,7 @@ translate italiantl _call_syscheck_36_69150ed7:
 translate italiantl _call_syscheck_36_24197b9f:
 
     # An "Well, it appears to me that our game has ended in a tie."
-    An "Be', mi pare che il nostro gioco sia finito in pareggio."
+    An "Beh, mi pare che il nostro gioco sia finito in pareggio."
 
 # game/anna1.rpy:1068
 translate italiantl _call_syscheck_36_a41b1b4e:
@@ -1552,7 +1552,7 @@ translate italiantl anna1skip_fe5f3366:
 translate italiantl anna1skip_2318ff16:
 
     # An "Well, it's up to you. Call me if you're interested."
-    An "Be', dipende da te. Chiamami se sei interessatə."
+    An "Beh, dipende da te. Chiamami se sei interessatə."
 
 # game/anna1.rpy:1140
 translate italiantl anna1skip_79abe5b9:
@@ -1600,7 +1600,7 @@ translate italiantl anna1skip_6329633b:
 translate italiantl anna1skip_1935d8cf:
 
     # n "Even though I lost the bet, she didn't seem to mind going on a date with me, as long as she got what she wanted. Whether I would follow up on it was up to me, though."
-    n "Anche se avevo perso la scommessa, non mi era parso che le dispiacesse uscire con me, a patto che lei avesse quel che voleva. Se dar séguito o meno alla cosa spettava a me, però."
+    n "Anche se avevo perso la scommessa, non mi era parso che le dispiacesse uscire con me, a patto che lei avesse quel che voleva. Se dar seguito o meno alla cosa spettava a me, però."
 
 # game/anna1.rpy:1182
 translate italiantl anna1skip_5a69d41d:

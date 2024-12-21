@@ -22,7 +22,7 @@ translate italiantl trueendings_ae02df19:
 translate italiantl trueendings_2666e2a6:
 
     # Ry normal "Well, the science behind the time travelling is actually sound and doesn't contradict anything we know about the portal."
-    Ry normal "Be', la scienza dietro al viaggio nel tempo in effetti è solida e non contraddice nulla di ciò che sappiamo sul portale."
+    Ry normal "Beh, la scienza dietro al viaggio nel tempo in effetti è solida e non contraddice nulla di ciò che sappiamo sul portale."
 
 # game/chapter5trueendings.rpy:35
 translate italiantl trueendings_96f460cd:
@@ -263,7 +263,7 @@ translate italiantl trueendings_b1fa1715:
 translate italiantl trueendings_ee83cfd0:
 
     # An sad flip "Well, all of us together should have no trouble taking him down."
-    An sad flip "Be', tutti noi assieme non dovremmo avere difficoltà ad abbatterlo."
+    An sad flip "Beh, tutti noi assieme non dovremmo avere difficoltà ad abbatterlo."
 
 # game/chapter5trueendings.rpy:130
 translate italiantl trueendings_9e5096d6:
@@ -293,7 +293,7 @@ translate italiantl trueendings_bf434b2d:
 translate italiantl trueendings_14620001:
 
     # An normal flip "Well, I've got a shocker at home. Hit him with that and I doubt he'll be able to hold anything for a while."
-    An normal flip "Be', io ho uno storditore a casa. Colpitelo con quello e dubito che sarà in grado di tenere in mano niente per un po'." # see also "hold" => "trattenere"
+    An normal flip "Beh, io ho uno storditore a casa. Colpitelo con quello e dubito che sarà in grado di tenere in mano niente per un po'." # see also "hold" => "trattenere"
 
 # game/chapter5trueendings.rpy:140
 translate italiantl trueendings_d8445a8e:
@@ -317,7 +317,7 @@ translate italiantl trueendings_52df1032:
 translate italiantl trueendings_e024b866:
 
     # Ad normal b "Well, if you say so."
-    Ad normal b "Be', se lo dici tu."
+    Ad normal b "Beh, se lo dici tu."
 
 # game/chapter5trueendings.rpy:148
 translate italiantl trueendings_db96edcd:
@@ -347,7 +347,7 @@ translate italiantl trueendings_3070bc42:
 translate italiantl trueendings_330b3242:
 
     # Ry "Well, if you want to get him with the shocker, your best chance is to surprise him after you've gained his trust."
-    Ry "Be', se vuoi prenderlo con lo storditore, la tua migliore possibilità è sorprenderlo dopo che hai guadagnato la sua fiducia."
+    Ry "Beh, se vuoi prenderlo con lo storditore, la tua migliore possibilità è sorprenderlo dopo che hai guadagnato la sua fiducia."
 
 # game/chapter5trueendings.rpy:160
 translate italiantl trueendings_526b9e2b:
@@ -653,7 +653,7 @@ translate italiantl trueendings_b2194495:
 translate italiantl trueendings_3e94ddc6:
 
     # Ad "I volunteer at the orphanage - and what's more, I do that just to help them, not for my own gain."
-    Ad "Io faccio da volontaria all'orfanotrofio—e per di più, lo faccio solo per aiutarli, non per il mio tornaconto." # corrected em-dash
+    Ad "Io faccio volontariato all'orfanotrofio—e per di più, lo faccio solo per aiutarli, non per il mio tornaconto." # corrected em-dash
 
 # game/chapter5trueendings.rpy:302
 translate italiantl trueendings_1ac28f0b:
@@ -665,7 +665,7 @@ translate italiantl trueendings_1ac28f0b:
 translate italiantl trueendings_3ba53b64:
 
     # Br brow flip "Well, all of us will probably get a medal."
-    Br brow flip "Be', probabilmente avremo tutti una medaglia."
+    Br brow flip "Beh, probabilmente avremo tutti una medaglia."
 
 # game/chapter5trueendings.rpy:306
 translate italiantl trueendings_93e61dde:
@@ -1031,7 +1031,7 @@ translate italiantl trueendings_d03e8836:
 translate italiantl trueendings_7bd839c6:
 
     # An "Well, she did have a name. I even scribbled it on her egg shell before I left it."
-    An "Be', le avevo dato un nome. L'ho anche scribacchiato sul suo guscio prima di lasciarla." # "she did have a name" -> "I did give her a name"; "her [egg] shell"; "I left it" -> "I left her"
+    An "Beh, le avevo dato un nome. L'ho anche scribacchiato sul suo guscio prima di lasciarla." # "she did have a name" -> "I did give her a name"; "her [egg] shell"; "I left it" -> "I left her"
 
 # game/chapter5trueendings.rpy:472
 translate italiantl trueendings_62f55f5c:
@@ -1073,7 +1073,7 @@ translate italiantl trueendings_20e93173:
 translate italiantl trueendings_9cfee11c:
 
     # An sad flip "Well, if you really want to know, it was Amely."
-    An sad flip "Be', se proprio vuoi saperlo, era [Am]."
+    An sad flip "Beh, se proprio vuoi saperlo, era [Am]."
 
 # game/chapter5trueendings.rpy:488
 translate italiantl trueendings_8e153942:
@@ -1596,7 +1596,7 @@ translate italiantl trueendings_c18ff59e:
 translate italiantl trueendings_11754359:
 
     # Mv "I knew it was Reza who was stealing the generators, so the least I could do was prevent him from sending them to humanity and escaping through the portal. As long as it didn't run, he could never completely get away from us."
-    Mv "Sapevo che era [Rz] a rubare i generatori, e quindi il minimo che potevo fare era impedirgli di inviarli all'umanità e fuggire attraverso il portale. Fintantoché non avesse funzionato, non avrebbe mai potuto allontanarsi completamente da noi."
+    Mv "Sapevo che era [Rz] a rubare i generatori, quindi il minimo che potevo fare era impedirgli di inviarli all'umanità e fuggire attraverso il portale. Fintantoché non avesse funzionato, non avrebbe mai potuto allontanarsi completamente da noi."
 
 # game/chapter5trueendings.rpy:794
 translate italiantl trueendings_c76a533e:
@@ -1656,7 +1656,7 @@ translate italiantl trueendings_222a9a78:
 translate italiantl trueendings_fc506294:
 
     # m "Izumi was leaning against Remy while they walked up to us together, her overalls bearing a large, red stain in the center."
-    m "[Iz] era appoggiata a [Ry] mentre venivano assieme verso di noi, la sua tuta che recava una grande macchia rossa nel centro."
+    m "[Iz] era appoggiata a [Ry] mentre venivano assieme verso di noi—la sua tuta recava una grande macchia rossa nel centro."
 
 # game/chapter5trueendings.rpy:855
 translate italiantl trueendings_0c220706:
@@ -1842,7 +1842,7 @@ translate italiantl trueendings_fda1e5df:
 translate italiantl trueendings_5c55bff3:
 
     # Hz "I am sure all of you are well qualified to perform as expected, but let's get to what this project is really about."
-    Hz "Sono certo che voi tutti siete ben qualificati a svolgerle come ci si aspetta, ma veniamo allo scopo di questo progetto." # "to perform THEM"
+    Hz "Sono certo che voi tutti siete ben qualificati per svolgerle come ci si aspetta, ma veniamo allo scopo di questo progetto." # "to perform THEM"
 
 # game/chapter5trueendings.rpy:988
 translate italiantl trueendings_e159bbab:
@@ -1872,7 +1872,7 @@ translate italiantl trueendings_43884d9b:
 translate italiantl trueendings_b73d5d99:
 
     # Hz "Not quite. How about you, Ms. Otomo?"
-    Hz "Non proprio. E Lei, invece, Signorina Otomo?"
+    Hz "Non proprio. E lei, invece, Signorina Otomo?"
 
 # game/chapter5trueendings.rpy:998
 translate italiantl trueendings_cd5f0fe1:
@@ -2010,7 +2010,7 @@ translate italiantl trueendings_836e31cf:
 translate italiantl trueendings_11e82f95:
 
     # Sy "As long as you take responsibility if there are any troubles..."
-    Sy "A patto che Lei si prenda la responsabilità se ci saranno problemi..."
+    Sy "A patto che lei si prenda la responsabilità se ci saranno problemi..."
 
 # game/chapter5trueendings.rpy:1044
 translate italiantl trueendings_83199026:
@@ -2022,7 +2022,7 @@ translate italiantl trueendings_83199026:
 translate italiantl trueendings_adb2105a:
 
     # Iz "If you say so."
-    Iz "Se lo dice Lei."
+    Iz "Se lo dice lei."
 
 # game/chapter5trueendings.rpy:1048
 translate italiantl trueendings_4f28f891:
@@ -2040,7 +2040,7 @@ translate italiantl trueendings_6348a552:
 translate italiantl trueendings_e608d24e:
 
     # Iz "And you want to give them human intelligence?"
-    Iz "E Lei vorrebbe dargli un'intelligenza umana?"
+    Iz "E lei vorrebbe dargli un'intelligenza umana?"
 
 # game/chapter5trueendings.rpy:1054
 translate italiantl trueendings_dbe94dd3:
@@ -2280,7 +2280,7 @@ translate italiantl trueendings_a140fa39:
 translate italiantl trueendings_f7bc0817:
 
     # Fr "Sounds like you have it all figured out already."
-    Fr "Si direbbe che Lei abbia già pensato a tutto."
+    Fr "Si direbbe che lei abbia già pensato a tutto."
 
 # game/chapter5trueendings.rpy:1134
 translate italiantl trueendings_01774504:
@@ -2316,7 +2316,7 @@ translate italiantl trueendings_479fde13:
 translate italiantl trueendings_3ecd48ea:
 
     # Hz "Your opinion has been noted, Ms. Otomo, but it won't carry much weight."
-    Hz "Prendo nota della Sua opinione, Signorina Otomo, ma non avrà molto peso."
+    Hz "Prendo nota della sua opinione, Signorina Otomo, ma non avrà molto peso."
 
 # game/chapter5trueendings.rpy:1152
 translate italiantl trueendings_76b2fe88_8:
@@ -2622,7 +2622,7 @@ translate italiantl trueendings_90a3c1d4:
 translate italiantl trueendings_480390a0:
 
     # m "I made peace with the idea that I was going to die. I didn't know what would happen afterwards - to the dragons, to Earth, to everyone - but at least I could say that I tried."
-    m "Venni a patti con l'idea che stavo per morire. Non sapevo quel che sarebbe accaduto in séguito—ai draghi, alla Terra, a tutti quanti—ma almeno potevo dire di averci provato." # corrected em-dash
+    m "Venni a patti con l'idea che stavo per morire. Non sapevo quel che sarebbe accaduto in seguito—ai draghi, alla Terra, a tutti quanti—ma almeno potevo dire di averci provato." # corrected em-dash
 
 # game/chapter5trueendings.rpy:1391
 translate italiantl trueendings_fe0f7e9d:
@@ -3297,7 +3297,7 @@ translate italiantl _call_syscheck_46_b415d88f:
 translate italiantl _call_syscheck_46_5d350a64:
 
     # s "Well, who knows?"
-    s "Be', chi lo sa?"
+    s "Beh, chi lo sa?"
 
 # game/chapter5trueendings.rpy:2205
 translate italiantl _call_syscheck_46_ef4d56cb:

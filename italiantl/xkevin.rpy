@@ -40,13 +40,13 @@ translate italiantl _call_skiptut_15_0ff5f677:
 translate italiantl _call_skiptut_15_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/xkevin.rpy:82
 translate italiantl _call_skiptut_15_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/xkevin.rpy:96
 translate italiantl _call_skiptut_15_0054b77b:
@@ -88,7 +88,7 @@ translate italiantl _call_skipcheck_15_db84b8c4:
 translate italiantl _call_skipcheck_15_e69a3c80:
 
     # Kv ramble "Well, I haven't actually met that many candidates out here so far."
-    Kv ramble "Be', in effetti finora non ho incontrato poi così tanti candidati quaggiù."
+    Kv ramble "Beh, in effetti finora non ho incontrato poi così tanti candidati quaggiù."
 
 # game/xkevin.rpy:131
 translate italiantl _call_skipcheck_15_43ec750c:
@@ -166,7 +166,7 @@ translate italiantl _call_skipcheck_15_52903764:
 translate italiantl _call_skipcheck_15_3f0f74b6:
 
     # c "Well, I'm glad they are taking this matter seriously."
-    c "Be', sono contentə che prendano la faccenda sul serio."
+    c "Beh, sono contentə che prendano la faccenda sul serio."
 
 # game/xkevin.rpy:157
 translate italiantl _call_skipcheck_15_517617db:
@@ -178,13 +178,13 @@ translate italiantl _call_skipcheck_15_517617db:
 translate italiantl _call_skipcheck_15_97369f3c:
 
     # c "I'd like to know more about these cities you talked about, though."
-    c "Mi piacerebbe saperne di più su queste grandi città di cui parlavi, però."
+    c "Però mi piacerebbe saperne di più su queste grandi città di cui parlavi."
 
 # game/xkevin.rpy:161
 translate italiantl _call_skipcheck_15_13bf66ae:
 
     # Kv normal "Well, I can only speak about the one I live in, but what do you want to know?"
-    Kv normal "Be', posso parlare solo per quella in cui vivo, ma cosa vorresti sapere?"
+    Kv normal "Beh, posso parlare solo per quella in cui vivo, ma cosa vorresti sapere?"
 
 # game/xkevin.rpy:163
 translate italiantl _call_skipcheck_15_563164b8:
@@ -334,7 +334,7 @@ translate italiantl _call_skipcheck_15_0f601bb6:
 translate italiantl _call_skipcheck_15_843bac5b:
 
     # Kv face "Not like that. Well, I mean, there are cartoons like that, but that wasn't what I was talking about."
-    Kv face "Non così. Be', voglio dire, ci sono anche cartoni così, ma non era di quelli che parlavo."
+    Kv face "Non così. Beh, voglio dire, ci sono anche cartoni così, ma non era di quelli che parlavo."
 
 # game/xkevin.rpy:213
 translate italiantl _call_skipcheck_15_f70d89f7:
@@ -424,7 +424,7 @@ translate italiantl _call_skipcheck_15_b4adf69d:
 translate italiantl _call_skipcheck_15_3cf617e5:
 
     # Sb disapproval b flip "Well, \"Friend\", you can look, but don't touch anything. And no photos, either."
-    Sb disapproval b flip "Be', \"Amico\", puoi guardare, ma non toccare nulla. E niente foto." # "and no photos[, either]"
+    Sb disapproval b flip "Beh, \"Amico\", puoi guardare, ma non toccare nulla. E niente foto." # "and no photos[, either]"
 
 # game/xkevin.rpy:257
 translate italiantl _call_skipcheck_15_a530c667:
@@ -436,7 +436,7 @@ translate italiantl _call_skipcheck_15_a530c667:
 translate italiantl _call_skipcheck_15_eff3d0d8:
 
     # Sb normal b flip "Well, you could be hiding something in your fur."
-    Sb normal b flip "Be', potresti nascondere qualcosa nel pelo."
+    Sb normal b flip "Beh, potresti nascondere qualcosa nel pelo."
 
 # game/xkevin.rpy:261
 translate italiantl _call_skipcheck_15_2a4af5c1:
@@ -526,7 +526,7 @@ translate italiantl _call_skipcheck_15_e7b78d54:
 translate italiantl _call_skipcheck_15_8198bef6:
 
     # Kv normal "Well, I think I've seen enough here, anyway. Let's head back, [player_name]."
-    Kv normal "Be', penso di aver visto abbastanza qui, comunque. Torniamo indietro, [player_name]."
+    Kv normal "Beh, penso di aver visto abbastanza qui, comunque. Torniamo indietro, [player_name]."
 
 # game/xkevin.rpy:291
 translate italiantl _call_skipcheck_15_c48dc32f:
@@ -550,7 +550,7 @@ translate italiantl _call_skipcheck_15_17cb51ab:
 translate italiantl _call_skipcheck_15_39d47dd3:
 
     # Kv brow "Now that I think about it, I totally could, though."
-    Kv brow "Ora che ci penso, potrei benissimo farlo, però." # "I totally could" -> "I could totally DO IT"
+    Kv brow "Ora che ci penso, però, potrei benissimo farlo." # "I totally could" -> "I could totally DO IT"
 
 # game/xkevin.rpy:307
 translate italiantl _call_skipcheck_15_f0b69231:
@@ -676,7 +676,7 @@ translate italiantl _call_skipcheck_15_db32c0e5:
 translate italiantl _call_skipcheck_15_fb896d36:
 
     # Kv ramble "Well, with ours I was even allowed the privilege of giving a guest lecture for my own class once."
-    Kv ramble "Be', coi nostri, una volta mi hanno persino concesso il privilegio di tenere una lezione straordinaria per il mio corso."
+    Kv ramble "Beh, coi nostri, una volta mi hanno persino concesso il privilegio di tenere una lezione straordinaria per il mio corso."
 
 # game/xkevin.rpy:349
 translate italiantl _call_skipcheck_15_c918c451:
@@ -826,7 +826,7 @@ translate italiantl _call_skipcheck_15_a446abcd:
 translate italiantl _call_skipcheck_15_163dccef:
 
     # c "Be my guest."
-    c "Accòmodati."
+    c "Accomodati."
 
 # game/xkevin.rpy:399
 translate italiantl _call_skipcheck_15_6301a05f:
@@ -856,7 +856,7 @@ translate italiantl _call_skipcheck_15_0f6f27f2:
 translate italiantl _call_skipcheck_15_3bbb47d6:
 
     # Kv ramble "Well, I could tell you about an old and very simplified model of our psyche that we got taught in introductory classes."
-    Kv ramble "Be', potrei raccontarti di un vecchio modello molto semplificato della nostra psiche che ci hanno insegnato nei corsi introduttivi."
+    Kv ramble "Beh, potrei raccontarti di un vecchio modello molto semplificato della nostra psiche che ci hanno insegnato nei corsi introduttivi."
 
 # game/xkevin.rpy:409
 translate italiantl _call_skipcheck_15_993ba4d9:
@@ -874,7 +874,7 @@ translate italiantl _call_skipcheck_15_732f8aba:
 translate italiantl _call_skipcheck_15_382da9f2:
 
     # Kv ramble "The {i}id{/i} represents our most basic desires and instinctual drives. That is, our physical needs and wants - like hunger and thirst - as well as desires and impulses."
-    Kv ramble "L'{i}es{/i} rappresenta i nostri desidèri più basilari e le nostre spinte istintuali. Vale a dire, le nostre necessità ed esigenze fisiche—come fame e sete—nonché i nostri desidèri e impulsi." # corrected em-dash"; "OUR desires and impulses"
+    Kv ramble "L'{i}es{/i} rappresenta i nostri desideri più basilari e le nostre spinte istintuali. Vale a dire, le nostre necessità ed esigenze fisiche—come fame e sete—nonché i nostri desideri e impulsi." # corrected em-dash"; "OUR desires and impulses"
 
 # game/xkevin.rpy:415
 translate italiantl _call_skipcheck_15_7f1295b3:
@@ -946,7 +946,7 @@ translate italiantl _call_skipcheck_15_861465e2:
 translate italiantl _call_skipcheck_15_41566286:
 
     # c "Thank you. Actually, I think I may have heard about something like this before..."
-    c "Ti ringrazio. In effetti, penso che potrei aver già sentito qualcosa del genere in passato..."
+    c "Ti ringrazio. In effetti, penso che potrei aver già sentito parlare di qualcosa del genere in passato..."
 
 # game/xkevin.rpy:441
 translate italiantl _call_skipcheck_15_206a0670:
@@ -970,7 +970,7 @@ translate italiantl _call_skipcheck_15_7baf32b1:
 translate italiantl _call_skipcheck_15_828f388a:
 
     # Kv ramble "Just being able to understand people is such a huge factor in many fields, and the skills you learn can come in handy in all areas of life, really."
-    Kv ramble "Soltanto essere in grado di capire le persone è un fattore talmente enorme in molti campi, e le abilità che apprendi possono tornarti utili in tutti gli àmbiti della vita, davvero."
+    Kv ramble "Soltanto essere in grado di capire le persone è un fattore talmente enorme in molti campi, e le abilità che apprendi possono tornarti utili in tutti gli ambiti della vita, davvero."
 
 # game/xkevin.rpy:449
 translate italiantl _call_skipcheck_15_bb42e64c:
@@ -1072,7 +1072,7 @@ translate italiantl _call_skipcheck_15_62eb7645:
 translate italiantl _call_skipcheck_15_5cd3c871:
 
     # Kv "I thought I wanted to help people with issues like that, but sometimes it's pretty hard not to be affected too much by those stories, so I'm not sure if that's the right job for me."
-    Kv "Pensavo di voler aiutare le persone coi loro problemi in quel modo, ma a volte è piuttosto dura non essere troppo condizionati da quelle storie, e quindi non sono sicuro che sia il lavoro giusto per me."
+    Kv "Pensavo di voler aiutare le persone coi loro problemi in quel modo, ma a volte è piuttosto dura non essere troppo condizionati da quelle storie, quindi non sono sicuro che sia il lavoro giusto per me."
 
 # game/xkevin.rpy:483
 translate italiantl _call_skipcheck_15_125ed73b:
@@ -1162,7 +1162,7 @@ translate italiantl _call_skipcheck_15_bb00a52c_1:
 translate italiantl _call_skipcheck_15_170fea27:
 
     # Kv normal "Well, I don't want to pry, but we've been talking all this time and you know a lot more about me now than I do about you."
-    Kv normal "Be', non voglio impicciarmi, ma abbiamo parlato tutto questo tempo e tu sai molto di più su di me di quanto io non sappia su di te."
+    Kv normal "Beh, non voglio impicciarmi, ma abbiamo parlato tutto questo tempo e tu sai molto di più su di me di quanto io non sappia su di te."
 
 # game/xkevin.rpy:513
 translate italiantl _call_skipcheck_15_ca753718:
@@ -1174,7 +1174,7 @@ translate italiantl _call_skipcheck_15_ca753718:
 translate italiantl _call_skipcheck_15_5a192223:
 
     # c "Well, I don't like talking about myself all that much, and I think there are some things that are better left unsaid."
-    c "Be', non mi piace poi così tanto parlare di me stessə, e penso ci siano certe cose che è meglio non vengano dette."
+    c "Beh, non mi piace poi così tanto parlare di me stessə, e penso ci siano certe cose che è meglio non vengano dette."
 
 # game/xkevin.rpy:517
 translate italiantl _call_skipcheck_15_0f6f27f2_1:
@@ -1204,7 +1204,7 @@ translate italiantl _call_skipcheck_15_3dbcfe00:
 translate italiantl _call_skipcheck_15_b38ad95a:
 
     # c "But before I got anywhere, our world underwent a few changes that made a lot of jobs obsolete."
-    c "Ma prima che arrivassi da qualche parte, il nostro mondo ha subìto dei cambiamenti che hanno reso obsoleti molti lavori."
+    c "Ma prima che arrivassi da qualche parte, il nostro mondo ha subito dei cambiamenti che hanno reso obsoleti molti lavori."
 
 # game/xkevin.rpy:527
 translate italiantl _call_skipcheck_15_8e3af007:
@@ -1246,7 +1246,7 @@ translate italiantl _call_skipcheck_15_c5d74a16:
 translate italiantl _call_skipcheck_15_67feab3c:
 
     # Kv "Well, in my professional opinion as a flier distributor, I'd recommend a generous application of hugs, but that's just me. You look like you could need them."
-    Kv "Be', secondo il mio parere professionale come distributore di volantini, raccomanderei una generosa applicazione di abbracci, ma è solo il mio parere. Sembra che potresti averne bisogno."
+    Kv "Beh, secondo il mio parere professionale come distributore di volantini, raccomanderei una generosa applicazione di abbracci, ma è solo il mio parere. Sembra che potresti averne bisogno."
 
 # game/xkevin.rpy:555
 translate italiantl _call_skipcheck_15_5bbafae3:
@@ -1288,7 +1288,7 @@ translate italiantl kevinskip_3070bc42:
 translate italiantl kevinskip_52908f6a:
 
     # Kv normal "Well, it seems like all the hostels are already full. Despite the vetting process for visitors, enough people got in to take all available short-term lodging spots in this town."
-    Kv normal "Be', pare che tutti gli ostelli siano già pieni. Nonostante il processo di selezione dei visitatori, sono entrate abbastanza persone da prendere tutti i posti disponibili dove alloggiare nel breve termine in questa città."
+    Kv normal "Beh, pare che tutti gli ostelli siano già pieni. Nonostante il processo di selezione dei visitatori, sono entrate abbastanza persone da prendere tutti i posti disponibili dove alloggiare nel breve termine in questa città."
 
 # game/xkevin.rpy:581
 translate italiantl kevinskip_f0b69231:
@@ -1454,5 +1454,5 @@ translate italiantl strings:
 
     # xkevin.rpy:589
     old "Well, you better get going, then."
-    new "Be', farai meglio ad andare, allora."
+    new "Beh, farai meglio ad andare, allora."
 

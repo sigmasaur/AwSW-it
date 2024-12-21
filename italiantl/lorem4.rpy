@@ -40,7 +40,7 @@ translate italiantl lorem4_fdd46e3d:
 translate italiantl lorem4_adbe5a02:
 
     # Lo "Well, there was the fact that I was going to speak to a human. Plus, I didn’t know if you’d actually listen to what I had to say."
-    Lo "Be', c'era il fatto che avrei parlato con un umano. In più, non sapevo se avresti effettivamente ascoltato quello che avevo da dire."
+    Lo "Beh, c'era il fatto che avrei parlato con un umano. In più, non sapevo se avresti effettivamente ascoltato quello che avevo da dire."
 
 # game/lorem4.rpy:52
 translate italiantl lorem4_7d9b9aaf:
@@ -58,7 +58,7 @@ translate italiantl lorem4_e0913d67:
 translate italiantl lorem4_a1cb3a80:
 
     # Lo think "Well, not really. He just took the letter I had for him and closed the door. But that was before you arrived here."
-    Lo think "Be', non proprio. Ha solo preso la lettera che avevo per lui e ha richiuso la porta. Ma quello è stato prima che tu arrivassi qui."
+    Lo think "Beh, non proprio. Ha solo preso la lettera che avevo per lui e ha richiuso la porta. Ma quello è stato prima che tu arrivassi qui."
 
 # game/lorem4.rpy:58
 translate italiantl lorem4_d73246ba:
@@ -160,7 +160,7 @@ translate italiantl _call_syscheck_29_2da780bb:
 translate italiantl _call_syscheck_29_69ad2eb0:
 
     # c "Well, that's a shame."
-    c "Be', è un peccato."
+    c "Beh, è un peccato."
 
 # game/lorem4.rpy:143
 translate italiantl _call_syscheck_29_8c22bd94:
@@ -190,13 +190,13 @@ translate italiantl _call_skiptut_5_0ff5f677:
 translate italiantl _call_skiptut_5_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/lorem4.rpy:199
 translate italiantl _call_skiptut_5_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/lorem4.rpy:213
 translate italiantl _call_skiptut_5_0054b77b:
@@ -340,7 +340,7 @@ translate italiantl _call_skipcheck_5_0a2a428d:
 translate italiantl _call_skipcheck_5_942ccb3f:
 
     # Lo happy "Right. Just focus on the things you can. That's my philosophy."
-    Lo happy "Giusto. Concéntrati sulle cose che puoi. Questa è la mia filosofia."
+    Lo happy "Giusto. Concentrati sulle cose che puoi. Questa è la mia filosofia."
 
 # game/lorem4.rpy:290
 translate italiantl _call_skipcheck_5_4c885e3c:
@@ -364,7 +364,7 @@ translate italiantl _call_skipcheck_5_cdae783a:
 translate italiantl _call_skipcheck_5_5e5efff7:
 
     # Lo "We could still watch the big fireworks show together, though. We wouldn't even need to go to the festival grounds to do that."
-    Lo "Potremmo comunque guardare il grande spettacolo di fuochi d'artificio insieme, però. Non dovremmo nemmeno andare nell'area del festival per quello." # "to do that" -> "for that"
+    Lo "Però potremmo comunque guardare il grande spettacolo di fuochi d'artificio insieme. Non dovremmo nemmeno andare nell'area del festival per quello." # "to do that" -> "for that"
 
 # game/lorem4.rpy:298
 translate italiantl _call_skipcheck_5_3f5d2730:
@@ -1030,7 +1030,7 @@ translate italiantl lorem4adinestatusneutral_be8b7287:
 translate italiantl lorem4adinestatusneutral_017872a4:
 
     # Lo think "I've always been the odd one out, so I'm not sure how well I could work with a team. You have to find people, work out how to pay them and how to divide the work."
-    Lo think "Sono sempre stato quello fuori posto, e quindi non sono sicuro che potrei lavorare bene in squadra. Devi trovare le persone, pensare a come pagarle e a come dividere il lavoro." # "how well I could work with" -> "that I could work well in"
+    Lo think "Sono sempre stato quello fuori posto, quindi non sono sicuro che saprei lavorare bene in squadra. Devi trovare le persone, pensare a come pagarle e a come dividere il lavoro." # "how well I could work with" -> "that I could work well in"
 
 # game/lorem4.rpy:629
 translate italiantl lorem4adinestatusneutral_42d5809c:
@@ -1078,7 +1078,7 @@ translate italiantl lorem4adinestatusneutral_cedc62a4:
 translate italiantl lorem4adinestatusneutral_a71cc696:
 
     # Lo think "Well, maybe I was wrong about that. I do have something to lose."
-    Lo think "Be', forse mi sbagliavo su questo. Qualcosa da perdere ce l'ho."
+    Lo think "Beh, forse mi sbagliavo su questo. Qualcosa da perdere ce l'ho."
 
 # game/lorem4.rpy:645
 translate italiantl lorem4adinestatusneutral_df72d121:

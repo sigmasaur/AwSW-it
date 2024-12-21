@@ -16,7 +16,7 @@ translate italiantl emera_907caeaa:
 translate italiantl emera_7df80a4a:
 
     # c "(Well, here goes nothing.)"
-    c "(Be', o la va o la spacca.)"
+    c "(Beh, o la va o la spacca.)"
 
 # game/xemera.rpy:63
 translate italiantl _call_skiptut_19_0ff5f677:
@@ -28,13 +28,13 @@ translate italiantl _call_skiptut_19_0ff5f677:
 translate italiantl _call_skiptut_19_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/xemera.rpy:79
 translate italiantl _call_skiptut_19_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/xemera.rpy:93
 translate italiantl _call_skiptut_19_0054b77b:
@@ -64,7 +64,7 @@ translate italiantl _call_skipcheck_19_cf5584d8:
 translate italiantl _call_skipcheck_19_2e655479:
 
     # c "I'm sure someone of your standing is always busy. Thank you for taking the time to meet me."
-    c "Sono certə che una persona della Sua levatura sia sempre impegnata. La ringrazio di aver trovato il tempo di incontrarmi."
+    c "Sono certə che una persona della sua levatura sia sempre impegnata. La ringrazio di aver trovato il tempo di incontrarmi."
 
 # game/xemera.rpy:144
 translate italiantl _call_skipcheck_19_555b16c8:
@@ -106,7 +106,7 @@ translate italiantl _call_skipcheck_19_f25b2a3a:
 translate italiantl _call_skipcheck_19_d67911c9:
 
     # Em normal "Well, sometimes."
-    Em normal "Be', a volte."
+    Em normal "Beh, a volte."
 
 # game/xemera.rpy:158
 translate italiantl _call_skipcheck_19_e0a27428:
@@ -130,7 +130,7 @@ translate italiantl _call_skipcheck_19_addf01aa:
 translate italiantl _call_skipcheck_19_887a31b9:
 
     # c "Is that what this is for you? A game, or a popularity contest?"
-    c "È questo che è per Lei? Un gioco, o una gara di popolarità?"
+    c "È questo che è per lei? Un gioco, o una gara di popolarità?"
 
 # game/xemera.rpy:166
 translate italiantl _call_skipcheck_19_3996a589:
@@ -184,13 +184,13 @@ translate italiantl _call_skipcheck_19_2836fb46:
 translate italiantl _call_skipcheck_19_6138ecef:
 
     # c "That doesn't sound like you enjoy your job very much, though."
-    c "Non si direbbe però che a Lei piaccia molto il Suo lavoro."
+    c "Non si direbbe però che a lei piaccia molto il suo lavoro."
 
 # game/xemera.rpy:206
 translate italiantl _call_skipcheck_19_64f5f24a:
 
     # Em frown "Well, I look at it this way: Just one term of having been on the council and I'll have left my mark."
-    Em frown "Be', vedila in questo modo: un solo mandato in cui sono stata nel consiglio e avrò lasciato il segno." # corrected lowercase letter
+    Em frown "Beh, vedila in questo modo: un solo mandato in cui sono stata nel consiglio e avrò lasciato il segno." # corrected lowercase letter
 
 # game/xemera.rpy:208
 translate italiantl _call_skipcheck_19_6bd9d3ac:
@@ -389,7 +389,7 @@ translate italiantl _call_skipcheck_19_18e312ec:
 translate italiantl _call_skipcheck_19_ebf26242:
 
     # c "How has that worked out for you?"
-    c "E come sono andate le cose per Lei?" # "how has that worked out" -> "AND how have things worked out"
+    c "E come sono andate le cose per lei?" # "how has that worked out" -> "AND how have things worked out"
 
 # game/xemera.rpy:280
 translate italiantl _call_skipcheck_19_2bd43806:
@@ -485,7 +485,7 @@ translate italiantl _call_skipcheck_19_117ae2d0:
 translate italiantl _call_skipcheck_19_43dfdaf1:
 
     # c "Is that what you would like to do as well?"
-    c "Ed è quello che vorrebbe fare anche Lei?" # "AND is that"
+    c "Ed è quello che vorrebbe fare anche lei?" # "AND is that"
 
 # game/xemera.rpy:312
 translate italiantl _call_skipcheck_19_c311af48:
@@ -575,7 +575,7 @@ translate italiantl _call_skipcheck_19_e1dbab6c:
 translate italiantl _call_skipcheck_19_bcc1994b:
 
     # c "Maybe it'll be easier once your term is over. People may not recognize you as much."
-    c "Forse sarà più facile una volta che il Suo mandato sarà scaduto. La gente potrebbe non riconoscerLa così spesso." # "so much" -> "so often"
+    c "Forse sarà più facile una volta che il suo mandato sarà scaduto. La gente potrebbe non riconoscerla così spesso." # "so much" -> "so often"
 
 # game/xemera.rpy:342
 translate italiantl _call_skipcheck_19_77f0a3c9:
@@ -599,7 +599,7 @@ translate italiantl _call_skipcheck_19_a3f26634:
 translate italiantl _call_skipcheck_19_9653146f:
 
     # c "Can I ask you something?"
-    c "Posso chiederLe una cosa?"
+    c "Posso chiederle una cosa?"
 
 # game/xemera.rpy:350
 translate italiantl _call_skipcheck_19_90909290:
@@ -629,7 +629,7 @@ translate italiantl _call_skipcheck_19_c2d069db:
 translate italiantl _call_skipcheck_19_bbbea091:
 
     # Em normal "However, the council members themselves are responsible for the workers they employ to help with their office's duties, and that is an area where certain standards and prejudices already start to seep in."
-    Em normal "Tuttavia, gli stessi membri del consiglio sono responsabili dei lavoratori che assumono per aiutare con le mansioni d'ufficio, e quello è un àmbito in cui iniziano già a filtrare certi standard e pregiudizi."
+    Em normal "Tuttavia, gli stessi membri del consiglio sono responsabili dei lavoratori che assumono per aiutare con le mansioni d'ufficio, e quello è un ambito in cui iniziano già a filtrare certi standard e pregiudizi."
 
 # game/xemera.rpy:360
 translate italiantl _call_skipcheck_19_d0b691e6:
@@ -863,7 +863,7 @@ translate italiantl _call_skipcheck_19_d1bf56c0:
 translate italiantl _call_skipcheck_19_a02c2794:
 
     # Em normal "I see. Well, the brush is over there, so get it and get going."
-    Em normal "Capisco. Be', il pennello è laggiù, quindi prendilo e datti una mossa."
+    Em normal "Capisco. Beh, il pennello è laggiù, quindi prendilo e datti una mossa."
 
 # game/xemera.rpy:440
 translate italiantl _call_skipcheck_19_86148265:
@@ -875,7 +875,7 @@ translate italiantl _call_skipcheck_19_86148265:
 translate italiantl _call_skipcheck_19_d103cdb4:
 
     # m "I walked over to her table where I saw the brush among a number of other tools I couldn't quite place and a few stacks of papers. She really hadn't been exaggerating when she had mentioned her workload."
-    m "Mi avvicinai al suo tavolo dove scòrsi il pennello fra un certo numero di altri strumenti che non riuscii bene a inquadrare e alcune pile di carte. Davvero non esagerava nel menzionare il suo carico di lavoro."
+    m "Mi avvicinai al suo tavolo dove scorsi il pennello fra un certo numero di altri strumenti che non riuscii bene a inquadrare e alcune pile di carte. Davvero non esagerava nel menzionare il suo carico di lavoro."
 
 # game/xemera.rpy:444
 translate italiantl _call_skipcheck_19_d0743dbd:
@@ -1115,7 +1115,7 @@ translate italiantl _call_syscheck_69_3f211e10:
 translate italiantl _call_syscheck_69_bd8676bf:
 
     # c "Well, I don't know much about massaging an earth dragon. What kind of... movements are we talking about here?"
-    c "Be', non so granché sul massaggiare un drago di terra. Di che tipo di... movimenti stiamo parlando qui?"
+    c "Beh, non so granché sul massaggiare un drago di terra. Di che tipo di... movimenti stiamo parlando qui?"
 
 # game/xemera.rpy:667
 translate italiantl _call_syscheck_69_dcdc0807:
@@ -1459,7 +1459,7 @@ translate italiantl strings:
 
     # xemera.rpy:123
     old "I have no doubt the same is true for you."
-    new "Non ho dubbi che lo stesso valga per Lei."
+    new "Non ho dubbi che lo stesso valga per lei."
 
     # xemera.rpy:123
     old "Not too busy for a visit like this one."
@@ -1483,7 +1483,7 @@ translate italiantl strings:
 
     # xemera.rpy:493
     old "For you? Anytime."
-    new "Per Lei? Quando vuole."
+    new "Per lei? Quando vuole."
 
     # xemera.rpy:493
     old "Maybe not."
@@ -1495,7 +1495,7 @@ translate italiantl strings:
 
     # xemera.rpy:523
     old "It contrasts nicely with your natural color."
-    new "Fa un piacevole contrasto col Suo colorito naturale."
+    new "Fa un piacevole contrasto col suo colorito naturale."
 
     # xemera.rpy:523
     old "I thought they already looked nice before."
@@ -1519,5 +1519,5 @@ translate italiantl strings:
 
     # xemera.rpy:721
     old "If you say so..."
-    new "Se lo dice Lei..."
+    new "Se lo dice lei..."
 

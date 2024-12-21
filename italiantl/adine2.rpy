@@ -94,7 +94,7 @@ translate italiantl _call_skiptut_23_44e0ddc6:
 translate italiantl _call_skiptut_23_690da0b1:
 
     # s "It looks like you've seen this before. Skip ahead a bit?"
-    s "Sembra che tu abbia già visto questa parte prima d'ora. Saltare un po' avanti?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare un po' avanti?"
 
 # game/adine2.rpy:152
 translate italiantl _call_skiptut_23_889f24a0:
@@ -148,7 +148,7 @@ translate italiantl _call_skipcheck_23_8c00b781:
 translate italiantl _call_skipcheck_23_f3e453e6:
 
     # Ad normal b "Well, I am a delivery flyer."
-    Ad normal b "Be', sono una volatrice delle consegne."
+    Ad normal b "Beh, sono una volatrice delle consegne."
 
 # game/adine2.rpy:207
 translate italiantl _call_skipcheck_23_1caf3f1f:
@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_23_1caf3f1f:
 translate italiantl _call_skipcheck_23_4d017343:
 
     # Ad "Not at all. She's such a brave little girl."
-    Ad "Per nulla. È una ragazzina davvero coraggiosa."
+    Ad "Per nulla. È una signorina tanto coraggiosa."
 
 # game/adine2.rpy:211
 translate italiantl _call_skipcheck_23_1e03cd34:
@@ -172,13 +172,13 @@ translate italiantl _call_skipcheck_23_1e03cd34:
 translate italiantl _call_skipcheck_23_a459ddc5:
 
     # Ad "I'm a volunteer. I help them out with whatever they need, and sometimes take care of the kids."
-    Ad "Sono una volontaria. Do una mano con qualsiasi cosa gli occorra e a volte mi prendo cura dei piccoli."
+    Ad "Sono una volontaria. Do una mano con qualsiasi cosa gli occorra, e a volte mi prendo cura dei piccoli."
 
 # game/adine2.rpy:215
 translate italiantl _call_skipcheck_23_48373b94:
 
     # Ad "They only have so many social workers. The ratio is about one social worker for every ten children, so it's good for the kids to spend some time one-on-one with someone they know."
-    Ad "Hanno solo un numero limitato di assistenti sociali. Il rapporto è all'incirca di un assistente per ogni dieci cuccioli, quindi per i piccoli è un bene passare del tempo a tu per tu con qualcuno che conoscono." # "one [social] worker"
+    Ad "Non hanno più di tanti assistenti sociali. Il rapporto è all'incirca di un assistente per ogni dieci cuccioli, quindi per i piccoli è un bene passare del tempo a tu per tu con qualcuno che conoscono." # "one [social] worker"
 
 # game/adine2.rpy:217
 translate italiantl _call_skipcheck_23_fccb16e7:
@@ -238,7 +238,7 @@ translate italiantl _call_skipcheck_23_a1107f7d:
 translate italiantl _call_skipcheck_23_a41c499d:
 
     # Ad "I'm afraid it's just not that easy, and the actual numbers of adoptions aren't very promising, either."
-    Ad "Temo che non sia così semplice, nemmeno il numero effettivo delle adozioni non è molto promettente."
+    Ad "Temo che non sia così semplice, e nemmeno il numero effettivo delle adozioni è molto promettente."
 
 # game/adine2.rpy:251
 translate italiantl _call_skipcheck_23_5743cfb2:
@@ -262,7 +262,7 @@ translate italiantl _call_skipcheck_23_5ec1c392:
 translate italiantl _call_skipcheck_23_434e0470:
 
     # Ad "I still volunteer as often as I can, because if I don't, who will? Someone needs to be there for those kids."
-    Ad "Faccio ancora volontariato ogni volta che posso, perché se non lo faccio io, chi lo farà? Qualcuno deve essere presente per quei  piccoli."
+    Ad "Faccio comunque volontariato ogni volta che posso, perché se non lo faccio io, chi lo farà? Qualcuno deve essere presente per quei piccoli."
 
 # game/adine2.rpy:265
 translate italiantl _call_skipcheck_23_8793cbdb:
@@ -340,7 +340,7 @@ translate italiantl _call_skipcheck_23_deaa0d16:
 translate italiantl _call_skipcheck_23_8b977e7b:
 
     # Ad "Finding the first victim was already bad enough for me, and now I have to hear there was another murder in town... I wish I could get some good news for once."
-    Ad "Sapere della prima vittima era già stato abbastanza brutto per me, adesso vengo a sapere che c'è stato un altro omicidio in città... Vorrei poter avere qualche buona notizia per una volta."
+    Ad "Trovare la prima vittima era già stato abbastanza brutto per me, e adesso vengo a sapere che c'è stato un altro omicidio in città... Vorrei poter avere qualche buona notizia per una volta." # see line 3197 of chapter 1; "have to hear" -> "come to know"
 
 # game/adine2.rpy:311
 translate italiantl _call_skipcheck_23_0b322fb0:
@@ -388,7 +388,7 @@ translate italiantl _call_skipcheck_23_baf080e5:
 translate italiantl _call_skipcheck_23_6caae3ba:
 
     # Ad "That reminds me, I've got something I wanted to try on you."
-    Ad "Questo mi ricorda, che ho qui una cosa che volevo provare su di te."
+    Ad "Il che mi ricorda che ho qui una cosa che volevo provare su di te."
 
 # game/adine2.rpy:344
 translate italiantl _call_skipcheck_23_b86d6667:
@@ -418,7 +418,7 @@ translate italiantl _call_skipcheck_23_782e5967:
 translate italiantl _call_skipcheck_23_661a9853:
 
     # Ad giggle b "This issue even came with a set of fortune cards!"
-    Ad giggle b "Questo numero veniva persino con un mazzo di tarocchi!" # fortune [telling] card -> tarot
+    Ad giggle b "Questo numero veniva persino con un mazzo di tarocchi!" # "fortune [telling] cards" -> "tarots"
 
 # game/adine2.rpy:358
 translate italiantl _call_skipcheck_23_13ba6e80:
@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_23_19f1eadc:
 translate italiantl _call_skipcheck_23_c029577a:
 
     # Ad normal b "Well, according to this article, that means you're a really creative person."
-    Ad normal b "Be', secondo l'articolo, questo vuol dire che sei una persona davvero creativa." # "this article" -> "the article"
+    Ad normal b "Beh, secondo l'articolo, questo vuol dire che sei una persona davvero creativa." # "this article" -> "the article"
 
 # game/adine2.rpy:427
 translate italiantl _call_skipcheck_23_4e50fccb:
@@ -580,7 +580,7 @@ translate italiantl _call_skipcheck_23_68b135b3:
 translate italiantl _call_skipcheck_23_5ed4401f:
 
     # Ad normal b "But a recurring dream involving the same people is a different story. That could represent strong emotions for or unresolved issues with that person."
-    Ad normal b "Ma un sogno ricorrente che riguardi la stessa persona è un'altra storia. Quello potrebbe rappresentare forti emozioni per quella persona, o problemi irrisolti con essa." # "people" -> "person"
+    Ad normal b "Ma un sogno ricorrente che riguardi la stessa persona è un'altra storia. Quello potrebbe rappresentare forti emozioni per quella persona, o questioni irrisolte con essa." # "people" -> "person"
 
 # game/adine2.rpy:475
 translate italiantl _call_skipcheck_23_3761077d:
@@ -880,7 +880,7 @@ translate italiantl adine2menb_bf587384:
 translate italiantl adine2menb_efe42388:
 
     # Ad giggle b "But now we get to the best part: The fortune cards!"
-    Ad giggle b "Ma adesso veniamo alla parte migliore: i tarocchi!" # corrected lowercase letter, must match line 352
+    Ad giggle b "Ma adesso veniamo alla parte migliore: i tarocchi!" # must match line 352; corrected lowercase letter
 
 # game/adine2.rpy:761
 translate italiantl adine2menb_bbcd79f2:
@@ -904,7 +904,7 @@ translate italiantl adine2menb_fe3290e5:
 translate italiantl adine2menb_8bd50539:
 
     # Ad annoyed b "I just want to try it out for fun. You need to be more open-minded."
-    Ad annoyed b "Voglio solo farci una prova per divertimento. Dovresti essere più aperto di mentalità." # "need to be more open-minded" -> "should be more open-minded"
+    Ad annoyed b "Voglio solo farci una prova per divertimento. Dovresti essere di mentalità più aperta." # "need to be more open-minded" -> "should be more open-minded"
 
 # game/adine2.rpy:781
 translate italiantl adine2menb_f74971f2:
@@ -916,7 +916,7 @@ translate italiantl adine2menb_f74971f2:
 translate italiantl adine2menb_c6638b47:
 
     # c "How is that supposed to work, anyway? I mean, they're just cards. How can they predict the future?"
-    c "In ogni caso, come dovrebbe funzionare? Voglio dire, sono solo carte. Come possono predire il futuro?"
+    c "Come dovrebbe funzionare, comunque? Voglio dire, sono solo carte. Come possono predire il futuro?"
 
 # game/adine2.rpy:788
 translate italiantl adine2menb_7a3a5cff:
@@ -946,7 +946,7 @@ translate italiantl adine2menb_de46ac95:
 translate italiantl adine2menb_d9442b37:
 
     # Ad think b "Well, one interpretation is that it's our subconscious who gives us the answers that we seek."
-    Ad think b "Be', un'interpretazione vuole che sia il nostro subconscio a darci le risposte di cui siamo in cerca."
+    Ad think b "Beh, un'interpretazione vuole che sia il nostro subconscio a darci le risposte di cui siamo in cerca."
 
 # game/adine2.rpy:798
 translate italiantl adine2menb_a05d560e:
@@ -958,13 +958,13 @@ translate italiantl adine2menb_a05d560e:
 translate italiantl adine2menb_e39569d8:
 
     # Ad "We recognize images that are relevant to our lives, and that gives us an idea about ourselves and our current problems."
-    Ad "Noi riconosciamo immagini che sono rilevanti per le nostre vite, questo ci dà un'idea di noi stessi e dei nostri attuali problemi."
+    Ad "Noi riconosciamo immagini che sono rilevanti per le nostre vite, il che ci dà un'idea di noi stessi e dei nostri attuali problemi."
 
 # game/adine2.rpy:802
 translate italiantl adine2menb_9281ee4a:
 
     # Ad think b "However, that is just the most grounded interpretation out there. People usually associate something more paranormal with fortune cards."
-    Ad think b "Tuttavia, questa è solo l'interpretazione più fondata in circolazione. Di solito la gente associa qualcosa di più paranormale ai tarocchi." # must match line 352
+    Ad think b "Tuttavia, questa è solo l'interpretazione meglio fondata in circolazione. Di solito la gente associa qualcosa di più paranormale ai tarocchi." # must match line 352
 
 # game/adine2.rpy:804
 translate italiantl adine2menb_8cb2b508:
@@ -1072,7 +1072,7 @@ translate italiantl adine2menb_6b90aa54:
 translate italiantl adine2menb_b4fdb6ce:
 
     # Ad "Reading the past sounds a little strange, since you already know it, but it might help you see things in a new light or give you a new perspective."
-    Ad "Leggere il passato sembrerà un po' strano perchè lo conosci già, ma potrebbe aiutarti a vedere le cose in una nuova luce o darti una nuova prospettiva."
+    Ad "Leggere il passato sembrerà un po' strano, dato che lo conosci già, ma potrebbe aiutarti a vedere le cose in una nuova luce o darti una nuova prospettiva."
 
 # game/adine2.rpy:853
 translate italiantl adine2menb_06b47c2f:
@@ -1084,7 +1084,7 @@ translate italiantl adine2menb_06b47c2f:
 translate italiantl adine2menb_136ed5fb:
 
     # Ad think b "Your past is filled with fire, strife and conflict. Yet like steel, you adopted it and were tempered by it. What didn't kill you only made you stronger." # half a reference to quotes from the dark knight & the dark knight rises
-    Ad think b "Il tuo passato è ricolmo di fuoco, discordia e conflitti. Eppure come l'acciaio, l'hai adottato e ne sei statə tempratə. Quello che non ti ha ucciso ti ha solo reso più forte." # half used the Italian translation of The Dark Knight, The Dark Knight Rises
+    Ad think b "Il tuo passato è ricolmo di fuoco, discordia e conflitto. Eppure come l'acciaio, l'hai adottato e ne sei statə tempratə. Quello che non ti ha ucciso ti ha solo reso più forte." # half used the Italian translation of The Dark Knight, The Dark Knight Rises
 
 # game/adine2.rpy:859
 translate italiantl adine2menb_db719df0:
@@ -1198,7 +1198,7 @@ translate italiantl adine2menb_414990f6:
 translate italiantl adine2menb_bda1ddb5:
 
     # Ad "Well, we make decisions every single day of our lives. I think it's just telling you to be careful."
-    Ad "Be', noi prendiamo decisioni ogni singolo giorno delle nostre vite. Penso ti stia solo dicendo di fare attenzione."
+    Ad "Beh, noi prendiamo decisioni ogni singolo giorno delle nostre vite. Penso ti stia solo dicendo di fare attenzione."
 
 # game/adine2.rpy:938
 translate italiantl adine2menb_c3f43f0d:
@@ -1228,7 +1228,7 @@ translate italiantl adine2menb_5ec8084e_1:
 translate italiantl adine2menb_bb359085:
 
     # Ad annoyed b "Well, you can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta." # see line 894
+    Ad annoyed b "Beh, non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta." # see line 894
 
 # game/adine2.rpy:960
 translate italiantl adine2menb_9d0d3f05_1:
@@ -1282,7 +1282,7 @@ translate italiantl adine2menb_631e6cfa:
 translate italiantl adine2menb_85205a4b:
 
     # c "Let's just say I have a hunch. It mentioned resolutions to conflicts that have been brewing, and there's definitely stuff brewing."
-    c "Diciamo solo che ho una sensazione. Menzionava risoluzioni a conflitti che si sono formati e c'è decisamente qualcosa in fermento." # "stuff" -> "something"
+    c "Diciamo solo che ho una sensazione. Menzionava risoluzioni a conflitti che fermentano, e c'è decisamente qualcosa in fermento." # see line 988; "stuff" -> "something"
 
 # game/adine2.rpy:1007
 translate italiantl adine2menb_c80ff75f:
@@ -1312,7 +1312,7 @@ translate italiantl adine2menb_5ec8084e_2:
 translate italiantl adine2menb_bb359085_1:
 
     # Ad annoyed b "Well, you can't really expect a great amount of detail from a one card reading."
-    Ad annoyed b "Be', non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta." # see line 894
+    Ad annoyed b "Beh, non è che puoi aspettarti una gran quantità di dettagli dalla lettura di una sola carta." # see line 894
 
 # game/adine2.rpy:1020
 translate italiantl adine2menb_9d0d3f05_2:
@@ -1360,7 +1360,7 @@ translate italiantl adine2menb_9cefa3aa:
 translate italiantl adine2menb_72213e9e:
 
     # Ad disappoint b "It's got to be so much work to create a magazine like this. From selecting the topics, writing the articles, doing all the photos and the layouts... And then to get it to shops and into the hands of customers. All that work just for it to end up in the trash."
-    Ad disappoint b "Deve volerci così tanto lavoro per creare una rivista come questa. Dal selezionare gli argomenti, scrivere gli articoli, fare le foto e le impaginazioni... Fino a far sì che arrivi ai negozi e nelle mani dei clienti. Tutto quel lavoro solo perché finisse nella spazzatura." # slightly pruned to fit three lines
+    Ad disappoint b "Deve volerci così tanto lavoro per creare una rivista come questa. Dal selezionare gli argomenti, scrivere gli articoli, fare le foto e le impaginazioni... Fino a far sì che arrivi ai negozi e nelle mani dei clienti. Tutto quel lavoro solo perché finisse nel cestino." # slightly pruned to fit three lines; "trash CAN"
 
 # game/adine2.rpy:1055
 translate italiantl adine2menb_c9e7ff04:
@@ -1402,13 +1402,13 @@ translate italiantl adine2menb_14467b12:
 translate italiantl adine2menb_93e0bca7:
 
     # Ad "So, do you have anything interesting going on at the moment? I can't imagine what ambassador life is like."
-    Ad "Allora, stai facendo niente di interessante al momento? Non riesco a immaginare come sia la vita di un messə."
+    Ad "Allora, stai facendo niente di interessante al momento? Non riesco a immaginare come sia la vita di un ambasciatorə."
 
 # game/adine2.rpy:1079
 translate italiantl adine2menb_c4073417:
 
     # c "It's been busy. I thought this whole thing would go by quickly and without any mishaps, but now it seems like there's always something happening."
-    c "È stato intenso. Pensavo che tutta questa storia sarebbe andava avanti velocemente e senza intoppi, ma adesso sembra che accada sempre qualcosa."
+    c "È stato intenso. Pensavo che tutta questa storia sarebbe andata avanti in fretta e senza intoppi, ma adesso sembra che accada sempre qualcosa."
 
 # game/adine2.rpy:1081
 translate italiantl adine2menb_f4e0c922:
@@ -1432,13 +1432,13 @@ translate italiantl adine2menb_e93999f4:
 translate italiantl adine2menb_150fc667:
 
     # c "You speak like you've had experience as an ambassador."
-    c "Parli come se avessi esperienza come ambasciatrice." # possibile cambiare "ambasciatrice" -> "messa", per coerenza
+    c "Parli come se avessi esperienza come ambasciatrice."
 
 # game/adine2.rpy:1089
 translate italiantl adine2menb_fbdb7bb4:
 
     # Ad normal b "Well, no, but doing deliveries is similar. People order something, I fly to them, we exchange the product for payment and then I go back. It's basically the same thing."
-    Ad normal b "Be', no, ma fare consegne è simile. Le persone ordinano qualcosa, io volo da loro, ci scambiamo il prodotto per il pagamento e quindi me ne torno indietro. In pratica è la stessa cosa."
+    Ad normal b "Beh, no, ma fare consegne è simile. Le persone ordinano qualcosa, io volo da loro, ci scambiamo il prodotto per il pagamento e quindi me ne torno indietro. In pratica è la stessa cosa."
 
 # game/adine2.rpy:1091
 translate italiantl adine2menb_9633229f:
@@ -1462,7 +1462,7 @@ translate italiantl adine2menb_59ab7f92:
 translate italiantl adine2menb_0ce1db36:
 
     # Ad normal b "Alright, so you get to the destination of the second delivery, and they actually check what you're handing them. It turns out that you mixed up the orders, but you already delivered the first one."
-    Ad normal b "D'accordo, così arrivi alla destinazione della seconda consegna, questi controllano effettivamente ciò che gli stai portando. E viene fuori che hai confuso gli ordini, però hai già consegnato il primo." # "they" -> "these"; "AND it turns out"
+    Ad normal b "D'accordo, così arrivi alla destinazione della seconda consegna, e questi controllano effettivamente ciò che gli stai portando. E viene fuori che hai confuso gli ordini, però hai già consegnato il primo." # "handing" -> "bringing", "AND it turns out"
 
 # game/adine2.rpy:1099
 translate italiantl adine2menb_f7af450f:
@@ -1474,7 +1474,7 @@ translate italiantl adine2menb_f7af450f:
 translate italiantl adine2menb_e16edad8:
 
     # Ad "Now you have to go back to the first family you delivered to, who by now have probably noticed that they got the wrong delivery, and exchange what you gave them for what they actually ordered."
-    Ad "Adesso devi tornare dalla prima famiglia cui hai consegnato, che probabilmente a quest'ora avrà notato di aver ricevuto la consegna sbagliata, scambiare ciò che gli hai dato per quello che hanno effettivamente ordinato."
+    Ad "Adesso devi tornare dalla prima famiglia cui hai consegnato, che probabilmente a quest'ora avrà notato di aver ricevuto la consegna sbagliata, e scambiare ciò che gli hai dato per quello che hanno effettivamente ordinato."
 
 # game/adine2.rpy:1103
 translate italiantl adine2menb_f5f7c27d:
@@ -1522,7 +1522,7 @@ translate italiantl adine2menb_c16905a7:
 translate italiantl adine2menb_d3f38257:
 
     # Ad disappoint b "The restaurant can no longer sell that first order you still have, so the orders for both families are deducted from your paycheck and you end up eating nothing but ramen all week again, just so you can make rent this month."
-    Ad disappoint b "Il ristorante non può più vendere quel primo ordine che hai ancora, così gli ordini di entrambe le famiglie ti sono dedotti dalla paga e finisci per mangiare di nuovo solo ramen per tutta la settimana, solo per poter pagare l'affitto di questo mese."
+    Ad disappoint b "Il ristorante non può più vendere quel primo ordine che hai ancora, così gli ordini di entrambe le famiglie ti sono dedotti dalla paga e finisci di nuovo per non mangiare altro che ramen per tutta la settimana, solo per poter pagare l'affitto di questo mese."
 
 # game/adine2.rpy:1119
 translate italiantl adine2menb_c70db99e:
@@ -1654,7 +1654,7 @@ translate italiantl adine2skip_cf1a4a1a:
 translate italiantl adine2skip_3d7a1cf2:
 
     # Ad normal b "It's supposed to be a remnant of an earlier civilization, or maybe even something created by humans. Who wouldn't be interested in that?"
-    Ad normal b "Si suppone essere i resti di un'antica civiltà, o magari anche qualcosa di creato dagli umani. Chi non sarebbe interessato?" # "who wouldn't be interested [in that]"
+    Ad normal b "Si suppone siano i resti di un'antica civiltà, o magari anche qualcosa di creato dagli umani. Chi non sarebbe interessato?" # "who wouldn't be interested [in that]"
 
 # game/adine2.rpy:1171
 translate italiantl adine2skip_46a68dc8:
@@ -1732,13 +1732,13 @@ translate italiantl adine2skip_cb1f1990:
 translate italiantl adine2skip_f43faceb:
 
     # Ad disappoint b "Well, it was worth a shot."
-    Ad disappoint b "Be', valeva la pena tentare."
+    Ad disappoint b "Beh, valeva la pena tentare."
 
 # game/adine2.rpy:1226
 translate italiantl adine2skip_5fec0ad0:
 
     # c "I didn't know you were into archaeology."
-    c "Non sapevo ti interessasse l'archeologia."
+    c "Non sapevo ti interessassi di archeologia."
 
 # game/adine2.rpy:1228
 translate italiantl adine2skip_f842cf75:
@@ -1756,7 +1756,7 @@ translate italiantl adine2skip_309e5307:
 translate italiantl adine2skip_83335fed:
 
     # Ad normal b "Well, the myths wouldn't be very mythical anymore if that was the case. We'd have proof."
-    Ad normal b "Be', i miti non sarebbero più granché mitologici se così fosse. Avremmo delle prove."
+    Ad normal b "Beh, i miti non sarebbero più granché mitologici se così fosse. Avremmo delle prove."
 
 # game/adine2.rpy:1234
 translate italiantl adine2skip_42be37ee:
@@ -2080,7 +2080,7 @@ translate italiantl strings:
 
     # adine2.rpy:670
     old "Farmer."
-    new "Contadinə." # Agricoltore ha il femminile in -trice non si può usare la ə
+    new "Agricoltorə."
 
     # adine2.rpy:670
     old "Businessperson."
@@ -2088,7 +2088,7 @@ translate italiantl strings:
 
     # adine2.rpy:670
     old "Stay-at-home parent."
-    new "Genitore a tempo pieno." # possibile anche -> "Genitore casalingo"
+    new "Genitore a tempo pieno." # possibile anche "genitore casalingo"
 
     # adine2.rpy:721
     old "Why'd you do that? You clearly needed it."
@@ -2156,7 +2156,7 @@ translate italiantl strings:
 
     # adine2.rpy:1028
     old "Now you can finally put it in the trash where it belongs."
-    new "Ora puoi finalmente gettarlo nella spazzatura, al suo posto."
+    new "Ora puoi finalmente gettarla nel cestino, dove dovrebbe stare."
 
     # adine2.rpy:1165
     old "What, an actual human in front of you is not enough?"

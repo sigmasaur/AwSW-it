@@ -4,13 +4,13 @@
 translate italiantl adine1_b66a50f0:
 
     # m "I remembered that Adine had told me that the café did deliveries as well, and not having anything else better to do, I figured I should try it out. I made my order with a quick phone call, and it wasn't long before the doorbell rang."
-    m "Ricordai che [Ad] mi aveva detto che la caffetteria faceva anche consegne e non avendo nient'altro di meglio da fare, pensai fosse il caso di fare una prova. Feci il mio ordine con un colpo di telefono, non ci volle molto prima che il campanello suonasse." # see lines 3695, 3699, 3703 of chapter 1
+    m "Ricordai che [Ad] mi aveva detto che la caffetteria faceva anche consegne, e non avendo nient'altro di meglio da fare, pensai fosse il caso di fare una prova. Feci il mio ordine con un colpo di telefono, e non ci volle molto prima che il campanello suonasse." # see lines 3695, 3699, 3703 of chapter 1
 
 # game/adine1.rpy:32
 translate italiantl adine1_d60c0822:
 
     # c "(Well, that was quick.)"
-    c "(Be', hanno fatto in fretta.)"
+    c "(Beh, hanno fatto in fretta.)"
 
 # game/adine1.rpy:39
 translate italiantl adine1_245dbdc1:
@@ -88,7 +88,7 @@ translate italiantl adine1choice1_e6f972e8:
 translate italiantl adine1choice1_9a5ca63d:
 
     # Ad "Thanks, I was just about to ask you if I could stay for a little while. This was actually my last delivery for the day, and I live on the other side of town."
-    Ad "Grazie, stavo giusto per chiederti se potevo restare per un pochino. In effetti questa era la mia ultima consegna del giorno e io vivo dall'altra parte della città."
+    Ad "Grazie, stavo giusto per chiederti se potevo restare per un pochino. In effetti questa era la mia ultima consegna del giorno, e io vivo dall'altra parte della città."
 
 # game/adine1.rpy:101
 translate italiantl adine1choice1_be0b9602:
@@ -100,7 +100,7 @@ translate italiantl adine1choice1_be0b9602:
 translate italiantl adine1choice1_8c2647a6:
 
     # m "I was just about to close the door in her face again when she suddenly spoke up."
-    m "stavo per richiuderle la porta in faccia quand'ella parlò all'improvviso."
+    m "Stavo per richiuderle la porta in faccia quand'ella parlò all'improvviso."
 
 # game/adine1.rpy:107
 translate italiantl adine1choice1_db4b5fa0:
@@ -118,7 +118,7 @@ translate italiantl adine1choice1_0f173ebb:
 translate italiantl adine1choice1_f8bbc1ff:
 
     # Ad "Do you think I could come in for a few minutes? It's raining pretty heavily outside, and this was my last delivery for the day. I actually live on the other side of town, and I don't really want to fly back in the rain."
-    Ad "Pensi che potrei entrare per qualche minuto? Fuori sta piovendo a dirotto e questa era la mia ultima consegna del giorno. In effetti io vivo dall'altra parte della città e non vorrei proprio tornarmene indietro volando con questa pioggia." # see line 100; "I don't really" -> "I really wouldn't"
+    Ad "Pensi che potrei entrare per qualche minuto? Fuori sta piovendo a dirotto, e questa era la mia ultima consegna del giorno. In effetti io vivo dall'altra parte della città, e non vorrei proprio tornarmene indietro volando con questa pioggia." # see line 100; "I don't really" -> "I really wouldn't"
 
 # game/adine1.rpy:117
 translate italiantl menadine_b2d97902:
@@ -142,7 +142,7 @@ translate italiantl menadine_544afc3c:
 translate italiantl menadine_a00b0992:
 
     # n "I opened my container in anticipation, but what I found inside wasn't at all what I was expecting. It was noodles, with chicken and some sort of sauce."
-    n "Aprii il mio contenitore con trepidazione, ma ciò che vi trovai all'interno non era affatto quello che mi aspettavo. Erano noodles, con pollo e una qualche sorta di salsa."
+    n "Aprii il mio contenitore con trepidazione, ma ciò che trovai all'interno non era affatto quello che mi aspettavo. Erano noodles, con pollo e una qualche sorta di salsa."
 
 # game/adine1.rpy:130
 translate italiantl menadine_07803e25:
@@ -178,7 +178,7 @@ translate italiantl _call_skiptut_10_0ff5f677:
 translate italiantl _call_skiptut_10_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questa parte prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/adine1.rpy:204
 translate italiantl _call_skiptut_10_e7709aa0:
@@ -262,7 +262,7 @@ translate italiantl _call_skipcheck_10_5727fe5d:
 translate italiantl _call_skipcheck_10_e241a15e:
 
     # c "Well, don't you trace your origins back to humans in some way? I know what kind of reputation we have in your culture."
-    c "Be', non fate forse risalire le vostre origini agli umani in qualche modo? So bene che genere di reputazione abbiamo nella vostra cultura."
+    c "Beh, non fate forse risalire le vostre origini agli umani in qualche modo? So bene che genere di reputazione abbiamo nella vostra cultura."
 
 # game/adine1.rpy:285
 translate italiantl _call_skipcheck_10_629d7ddb:
@@ -310,7 +310,7 @@ translate italiantl _call_skipcheck_10_a0052a82:
 translate italiantl _call_skipcheck_10_558a112a:
 
     # Ad "Well, most of the time I take care of my kids."
-    Ad "Be', la maggior parte del tempo mi prendo cura dei miei piccoli."
+    Ad "Beh, la maggior parte del tempo mi prendo cura dei miei piccoli."
 
 # game/adine1.rpy:304
 translate italiantl _call_skipcheck_10_77d64a46:
@@ -394,7 +394,7 @@ translate italiantl _call_skipcheck_10_cdd3e6f5:
 translate italiantl _call_skipcheck_10_75906cf7:
 
     # Ad "Well, I don't really know much about you. Actually, I'm not sure if there is anyone here who does."
-    Ad "Be', non so poi molto di te. In effetti, non sono sicura che ci sia nessuno qui che ti conosce." # "who does KNOW YOU"
+    Ad "Beh, non so poi molto di te. In effetti, non sono sicura che ci sia nessuno qui che ti conosce." # "who does KNOW YOU"
 
 # game/adine1.rpy:339
 translate italiantl _call_skipcheck_10_41444a40:
@@ -472,7 +472,7 @@ translate italiantl _call_skipcheck_10_37f5b9ba:
 translate italiantl _call_skipcheck_10_4b4db401:
 
     # Ad "Well, not {i}just{/i} flying."
-    Ad "Be', non volare {i}e basta{/i}."
+    Ad "Beh, non volare {i}e basta{/i}."
 
 # game/adine1.rpy:372
 translate italiantl _call_skipcheck_10_43ec0d7d:
@@ -526,7 +526,7 @@ translate italiantl _call_skipcheck_10_3a15203a:
 translate italiantl _call_skipcheck_10_410ee6b4:
 
     # Ad "Okay, since it is my turn again, well..."
-    Ad "Okay, dato che è di nuovo il mio turno, be'..."
+    Ad "Okay, dato che è di nuovo il mio turno, beh..."
 
 # game/adine1.rpy:411
 translate italiantl _call_skipcheck_10_02d2db07:
@@ -598,13 +598,13 @@ translate italiantl _call_skipcheck_10_8abc6d5e:
 translate italiantl _call_skipcheck_10_54e6a0c5:
 
     # c "Well, according to some, you are greedy, man-eating monsters, and also sometimes associated with evil and the apocalypse."
-    c "Be', secondo alcuni, siete mostri avidi e divora-uomini, inoltre talvolta associati al male e all'apocalisse."
+    c "Beh, secondo alcuni, siete mostri avidi e divora-uomini, inoltre talvolta associati al male e all'apocalisse."
 
 # game/adine1.rpy:454
 translate italiantl _call_skipcheck_10_b7bc313e:
 
     # Ad "Well, that's not very nice."
-    Ad "Be', non è molto carino."
+    Ad "Beh, non è molto carino."
 
 # game/adine1.rpy:456
 translate italiantl _call_skipcheck_10_fbe98f30:
@@ -628,7 +628,7 @@ translate italiantl _call_skipcheck_10_e5322ba8:
 translate italiantl _call_skipcheck_10_377987b8:
 
     # c "They are often cited as a symbol of power and strength, but also one of wisdom, possessing an intellect that has no equal. They are noble creatures, and their depictions enjoy an almost universal appeal."
-    c "Sono spesso citati come un simbolo di potere e di forza, ma anche uno di saggezza, possedendo un intelletto che non ha eguali. Sono nobili creature e le loro effigi godono di un fascino quasi universale."
+    c "Sono spesso citati come un simbolo di potere e di forza, ma anche uno di saggezza, possedendo un intelletto che non ha eguali. Sono nobili creature, e le loro effigi godono di un fascino quasi universale."
 
 # game/adine1.rpy:466
 translate italiantl _call_skipcheck_10_d7e7b442:
@@ -640,7 +640,7 @@ translate italiantl _call_skipcheck_10_d7e7b442:
 translate italiantl _call_skipcheck_10_9fd77ad2:
 
     # Ad "To be honest, I don't know if it's such a good idea to generalize like that - even if it's good things you're saying about us. We're all different, you know, and not all of us are nice."
-    Ad "Ad essere onesti, non so se generalizzare a quel modo sia una così buona idea—anche se quelle che hai detto di noi sono belle cose. Siamo tutti diversi, sai, non tutti noi siamo gentili." # corrected em-dash
+    Ad "Ad essere onesti, non so se generalizzare a quel modo sia una così buona idea—anche se quelle che hai detto di noi sono belle cose. Siamo tutti diversi, sai, e non tutti noi siamo gentili." # corrected em-dash
 
 # game/adine1.rpy:470
 translate italiantl _call_skipcheck_10_89aefe22:
@@ -658,7 +658,7 @@ translate italiantl _call_skipcheck_10_c249e3f8:
 translate italiantl _call_skipcheck_10_0eb9375b:
 
     # c "Well, no matter what you might think about humans, I can assure you that I am in no way special or supernatural."
-    c "Be', a prescindere da quello che potreste pensare degli umani, posso assicurarti che io non sono in alcun modo speciale o sovrannaturale."
+    c "Beh, a prescindere da quello che potreste pensare degli umani, posso assicurarti che io non sono in alcun modo speciale o sovrannaturale."
 
 # game/adine1.rpy:478
 translate italiantl _call_skipcheck_10_a498f8f9:
@@ -700,13 +700,13 @@ translate italiantl _call_skipcheck_10_22fb7d86:
 translate italiantl _call_skipcheck_10_27b32db1:
 
     # Ad "See, having something you've only heard about in stories turn out to be real is quite special."
-    Ad "Vedi, scoprire che qualcosa di cui hai sentito solo nei racconti sia vero è piuttosto speciale."
+    Ad "Vedi, scoprire che qualcosa di cui hai sentito parlare solo nei racconti sia vero è piuttosto speciale."
 
 # game/adine1.rpy:496
 translate italiantl _call_skipcheck_10_aaa0f5f8:
 
     # c "I wasn't sure what to think about it. That is, until I got here and was standing in front of one of you. And after that, I was just rendered speechless."
-    c "Non sapevo cosa pensarne. Almeno, finché non sono arrivatə qui e mi sono trovatə davanti uno di voi. E dopodiché, sono solo rimastə senza parole." # see lines 664-666 of chapter 1; "was standing in front of one of you" -> "had one of you stand in front of me"
+    c "Non sapevo cosa pensarne. Almeno, finché non sono arrivatə qui e mi sono trovatə davanti uno di voi. E dopodiché, sono solo rimastə senza parole." # see lines 664-666 of chapter 1; "I wasn't sure" -> "I didn't know", "was standing in front of one of you" -> "had one of you stand in front of me"
 
 # game/adine1.rpy:498
 translate italiantl _call_skipcheck_10_c9851cf8:
@@ -922,7 +922,7 @@ translate italiantl choiceb_2c403123:
 translate italiantl choicec_9c4bb8e8:
 
     # Ad "Oh my."
-    Ad "Oddio."
+    Ad "Caspita."
 
 # game/adine1.rpy:657
 translate italiantl choicec_41d17e99:
@@ -934,7 +934,7 @@ translate italiantl choicec_41d17e99:
 translate italiantl choicec_8d8ef32c:
 
     # Ad "Oh. Well, that's a shame."
-    Ad "Oh. Be', è un peccato."
+    Ad "Oh. Beh, è un peccato."
 
 # game/adine1.rpy:663
 translate italiantl choicec_9e4b6bcd:
@@ -946,7 +946,7 @@ translate italiantl choicec_9e4b6bcd:
 translate italiantl choicec_9c4bb8e8_1:
 
     # Ad "Oh my."
-    Ad "Oddio." # see line 655
+    Ad "Caspita." # see line 655
 
 # game/adine1.rpy:671
 translate italiantl choicec_41d17e99_1:
@@ -958,13 +958,13 @@ translate italiantl choicec_41d17e99_1:
 translate italiantl choicee_e3b23a3c:
 
     # Ad "Well, who is it?"
-    Ad "Be', di chi si tratta?"
+    Ad "Beh, di chi si tratta?"
 
 # game/adine1.rpy:688
 translate italiantl choicee_e3b23a3c_1:
 
     # Ad "Well, who is it?"
-    Ad "Be', di chi si tratta?" # see line 680
+    Ad "Beh, di chi si tratta?" # see line 680
 
 # game/adine1.rpy:692
 translate italiantl choicee_43ebd9ef:
@@ -1000,7 +1000,7 @@ translate italiantl nextsc_9603eefb:
 translate italiantl nextsc_45100626:
 
     # Ad "Well, go ahead, then."
-    Ad "Be', va' avanti, allora."
+    Ad "Beh, va' avanti, allora."
 
 # game/adine1.rpy:721
 translate italiantl nextsc_e5da73be:
@@ -1054,7 +1054,7 @@ translate italiantl nextsc_0532a010:
 translate italiantl nextsc_206795eb:
 
     # c "Well, keep in mind that revenge might be coming quicker than you think, so don't ask someone for anything you wouldn't do yourself."
-    c "Be', tieni a mente che la rivincita potrebbe arrivare prima di quanto pensi, quindi non chiedere a qualcuno di fare niente che non faresti tu stessa." # "quicker" -> "earlier"
+    c "Beh, tieni a mente che la rivincita potrebbe arrivare prima di quanto pensi, quindi non chiedere a qualcuno di fare niente che non faresti tu stessa." # "quicker" -> "earlier"
 
 # game/adine1.rpy:739
 translate italiantl nextsc_b0e643f3:
@@ -1168,7 +1168,7 @@ translate italiantl nextsc_b2517d74:
 translate italiantl nextsc_54608f68:
 
     # Ad "No, luckily I wasn't too high when I did it, and there was a great puddle of mud on the ground right where I landed. Of course all my friends were there to see it."
-    Ad "No, per fortuna non ero troppo in alto quando l'ho fatto, c'era anche questa grande pozza di fango al suolo proprio dove sono atterrata. Ovviamente c'erano tutti i miei amici a vedere la scena."
+    Ad "No, per fortuna non ero troppo in alto quando l'ho fatto, e c'era anche questa grande pozza di fango al suolo proprio dove sono atterrata. Ovviamente c'erano tutti i miei amici a vedere la scena." # "there was ALSO a great puddle"
 
 # game/adine1.rpy:781
 translate italiantl nextsc_57d8dcd9:
@@ -1240,13 +1240,13 @@ translate italiantl nextsc_bc0926e9:
 translate italiantl nextsc_5b659cad:
 
     # c "Well, with this question it's more about what you would do if you had the opportunity to do something without getting caught, like something mischievous or criminal."
-    c "Be', questa domanda era più che altro su ciò che faresti se avessi l'opportunità di fare qualcosa senza essere colta sul fatto, come qualcosa di malizioso o di illegale." # "[with] this question"; "criminal" -> "illegal"
+    c "Beh, questa domanda era più che altro su cosa faresti se avessi l'opportunità di fare qualcosa senza essere colta sul fatto, come qualcosa di malizioso o di non proprio legale." # "[with] this question"; "criminal" -> "not quite legal"
 
 # game/adine1.rpy:823
 translate italiantl nextsc_d89cde73:
 
     # Ad "Oh, I know what I would do. I'd check out the building they found along with the portal."
-    Ad "Oh, so che cosa farei. Darei un'occhiata all'edificio che hanno trovato assieme al portale."
+    Ad "Oh, so cosa farei. Darei un'occhiata all'edificio che hanno trovato assieme al portale."
 
 # game/adine1.rpy:824
 translate italiantl nextsc_1531db24:
@@ -1264,7 +1264,7 @@ translate italiantl nextsc_a70918ca:
 translate italiantl nextsc_e950f342:
 
     # Ad "It's actually underground, and they have it heavily guarded while a team of archaeologists works on it. I think it might contain many secrets and answers about the portal and where it came from."
-    Ad "In effetti è interrato, lo tengono sotto stretta sorveglianza mentre una squadra di archeologi ci lavora. Penso che potrebbe contenere molti segreti e risposte riguardo al portale e da dove è venuto."
+    Ad "In effetti è interrato, e lo tengono sotto stretta sorveglianza mentre una squadra di archeologi ci lavora. Penso che potrebbe contenere molti segreti e risposte riguardo al portale e da dove è venuto."
 
 # game/adine1.rpy:827
 translate italiantl nextsc_81939529:
@@ -1276,7 +1276,7 @@ translate italiantl nextsc_81939529:
 translate italiantl nextsc_e306f303:
 
     # Ad "No, absolutely not."
-    Ad "No, Assolutamente no."
+    Ad "Assolutamente no."
 
 # game/adine1.rpy:831
 translate italiantl nextsc_73c2fcc2:
@@ -1288,7 +1288,7 @@ translate italiantl nextsc_73c2fcc2:
 translate italiantl nextsc_6507f194:
 
     # Ad "Well, I do have some ideas of what might happen afterwards, but even if what I think isn't true, I'm not afraid of the unknown."
-    Ad "Be', qualche idea ce l'ho su quel che potrebbe accadere in seguito, ma anche se quello che penso non è vero, non ho paura dell'ignoto."
+    Ad "Beh, qualche idea ce l'ho su quel che potrebbe accadere in seguito, ma anche se quello che penso non è vero, non ho paura dell'ignoto."
 
 # game/adine1.rpy:834
 translate italiantl nextsc_c1901d4d:
@@ -1330,7 +1330,7 @@ translate italiantl nextsc_da6029a2:
 translate italiantl nextsc_ff57023e:
 
     # Ad "Well, I wouldn't really call it a flaw, but if I could change one thing, it would probably be these stripes on my muzzle."
-    Ad "Be', non lo chiamerei realmente un difetto, ma se potessi cambiare una cosa, probabilmente sarebbero queste strisce sul mio muso."
+    Ad "Beh, non lo chiamerei realmente un difetto, ma se potessi cambiare una cosa, probabilmente sarebbero queste strisce sul mio muso."
 
 # game/adine1.rpy:862
 translate italiantl nextsc_7bbf2eae:
@@ -1396,7 +1396,7 @@ translate italiantl nextsc_e3afd84b:
 translate italiantl nextsc_d022c5bd:
 
     # Ad "Of course I'd love to visit - maybe as some sort of vacation. But if you're talking about permanently, I'm not sure if I could just pack up and leave everything behind just like that."
-    Ad "Naturalmente mi piacerebbe visitarlo—magari come una sorta di vacanza. Ma se intendi permanentemente, non sono sicura che potrei prendere e gettarmi tutto quanto alle spalle a quel modo." # corrected em-dash
+    Ad "Naturalmente mi piacerebbe visitarlo—magari come una sorta di vacanza. Ma se intendi in modo permanente, non sono sicura che potrei prendere e gettarmi tutto quanto alle spalle a quel modo." # corrected em-dash
 
 # game/adine1.rpy:932
 translate italiantl nextsc_b8fb304d:
@@ -1408,7 +1408,7 @@ translate italiantl nextsc_b8fb304d:
 translate italiantl nextsc_2355e57c:
 
     # Ad "..."
-    Ad "..."
+    Ad "... "
 
 # game/adine1.rpy:935
 translate italiantl nextsc_a77509ab:
@@ -1486,7 +1486,7 @@ translate italiantl _call_syscheck_48_c0334108:
 translate italiantl _call_syscheck_48_2355e57c:
 
     # Ad "..."
-    Ad "..."
+    Ad "... "
 
 # game/adine1.rpy:991
 translate italiantl _call_syscheck_48_9e2d907e:
@@ -1570,7 +1570,7 @@ translate italiantl _call_syscheck_48_9270e653:
 translate italiantl _call_syscheck_48_d19f855d:
 
     # c "..."
-    c "..."
+    c "... "
 
 # game/adine1.rpy:1033
 translate italiantl _call_syscheck_48_89aefe22:
@@ -1594,7 +1594,7 @@ translate italiantl _call_syscheck_48_8bc84341:
 translate italiantl _call_syscheck_48_30f9f005:
 
     # Ad "Well, then my answer would be no. I don't kiss just anyone, you know."
-    Ad "Be', allora la mia risposta è no. Non è che io baci chiunque, sai."
+    Ad "Beh, allora la mia risposta è no. Non è che io baci chiunque, sai."
 
 # game/adine1.rpy:1043
 translate italiantl _call_syscheck_48_5eb2273d:
@@ -1756,7 +1756,7 @@ translate italiantl adine1skip_1f5067bf:
 translate italiantl adine1skip_a27ee51f:
 
     # Ad "Bye!"
-    Ad "Arrivederci!"
+    Ad "Ciao!"
 
 # game/adine1.rpy:1382
 translate italiantl adine1skip_c0cb69d1:
@@ -1768,7 +1768,7 @@ translate italiantl adine1skip_c0cb69d1:
 translate italiantl adine1skip_a544d69c:
 
     # Ad "Well, you're always welcome to order food if you're hungry."
-    Ad "Be', sei sempre benvenutə a ordinare da mangiare se hai fame."
+    Ad "Beh, sei sempre benvenutə a ordinare da mangiare se hai fame."
 
 # game/adine1.rpy:1384
 translate italiantl adine1skip_e0210aa9:
@@ -1828,7 +1828,7 @@ translate italiantl strings:
 
     # adine1.rpy:92
     old "Well, thanks for the food."
-    new "Be', grazie per il cibo."
+    new "Beh, grazie per il cibo."
 
     # adine1.rpy:113
     old "I suppose it won't hurt if you come in for a few minutes."
@@ -1872,7 +1872,7 @@ translate italiantl strings:
 
     # adine1.rpy:320
     old "No."
-    new "No."
+    new "No. "
 
     # adine1.rpy:320
     old "Well, {i}can{/i} you?"
@@ -1920,7 +1920,7 @@ translate italiantl strings:
 
     # adine1.rpy:413
     old "Well, what did you expect?"
-    new "Be', cosa ti aspettavi?"
+    new "Beh, cosa ti aspettavi?"
 
     # adine1.rpy:413
     old "I know."
@@ -1996,7 +1996,7 @@ translate italiantl strings:
 
     # adine1.rpy:634
     old "Well, there's someone."
-    new "Be', qualcuno c'è."
+    new "Beh, qualcuno c'è."
 
     # adine1.rpy:651
     old "{#adine1z}No."
@@ -2008,7 +2008,7 @@ translate italiantl strings:
 
     # adine1.rpy:703
     old "Well, you started it."
-    new "Be', sei tu che hai cominciato."
+    new "Beh, sei tu che hai cominciato."
 
     # adine1.rpy:703
     old "Just having fun."

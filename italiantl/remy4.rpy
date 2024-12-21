@@ -16,13 +16,13 @@ translate italiantl _call_skiptut_28_44e0ddc6:
 translate italiantl _call_skiptut_28_690da0b1:
 
     # s "It looks like you've seen this before. Skip ahead a bit?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare un po' avanti?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare un po' avanti?"
 
 # game/remy4.rpy:73
 translate italiantl _call_skiptut_28_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
 
 # game/remy4.rpy:87
 translate italiantl _call_skiptut_28_0054b77b:
@@ -52,7 +52,7 @@ translate italiantl _call_skipcheck_28_314084ce:
 translate italiantl _call_skipcheck_28_d293e1c0:
 
     # c "Well, it looks like lipstick, but I didn't know that was a thing here."
-    c "Be', sembrerebbe rossetto, ma non sapevo si usasse qui."
+    c "Beh, sembrerebbe rossetto, ma non sapevo si usasse qui."
 
 # game/remy4.rpy:119
 translate italiantl _call_skipcheck_28_a574db8c:
@@ -106,7 +106,7 @@ translate italiantl _call_skipcheck_28_10ca1927:
 translate italiantl _call_skipcheck_28_8ef1e24d:
 
     # c "Well, I guess social norms dictated that certain traits are only desirable in one gender, thus highlighting them like this would increase the attractiveness."
-    c "Be', immagino che le norme sociali dettassero che certi tratti sono desiderabili solo in un genere, perciò risaltarli in questo modo aumenterebbe l'avvenenza."
+    c "Beh, immagino che le norme sociali dettassero che certi tratti sono desiderabili solo in un genere, perciò risaltarli in questo modo aumenterebbe l'avvenenza."
 
 # game/remy4.rpy:137
 translate italiantl _call_skipcheck_28_0f897892:
@@ -178,7 +178,7 @@ translate italiantl _call_skipcheck_28_d3e23c96:
 translate italiantl _call_skipcheck_28_d61af9a6:
 
     # Ry smile c "Well, if you say so."
-    Ry smile c "Be', se lo dici tu."
+    Ry smile c "Beh, se lo dici tu."
 
 # game/remy4.rpy:181
 translate italiantl _call_skipcheck_28_e8458844:
@@ -220,7 +220,7 @@ translate italiantl _call_skipcheck_28_7a9d2314:
 translate italiantl _call_skipcheck_28_9e8264c2:
 
     # c "I see. Well, we could just stay here in the meantime."
-    c "Capisco. Be', potremmo anche starcene qui nel frattempo."
+    c "Capisco. Beh, potremmo anche starcene qui nel frattempo."
 
 # game/remy4.rpy:209
 translate italiantl _call_skipcheck_28_f4be9341:
@@ -304,7 +304,7 @@ translate italiantl _call_skipcheck_28_abed64d8:
 translate italiantl _call_skipcheck_28_39036c48:
 
     # c "I didn't want to touch anything that didn't at least resemble something I know. After all, I have no idea how to prepare them right or even know if they are safe for me to eat."
-    c "Non volevo toccare nulla che non assomigliasse almeno a qualcosa che conosco. Dopotutto, non ho idea di come prepararli nel modo giusto o anche solo se per me sia sicuro mangiarli." # "them" as in "all those perishables" from line 251; "or even [know] if they are safe"
+    c "Non volevo toccare nulla che non assomigliasse almeno a qualcosa che conosco. Dopotutto, non ho idea di come prepararli nel modo giusto o anche solo se siano sicuri da mangiare per me." # "them" as in "all those perishables" from line 251; "or even [know] if they are safe"
 
 # game/remy4.rpy:251
 translate italiantl _call_skipcheck_28_e3950e4a:
@@ -334,7 +334,7 @@ translate italiantl _call_skipcheck_28_b967ca81:
 translate italiantl _call_skipcheck_28_3ef81fa4:
 
     # Ry "You've been here for nearly two weeks now, so even if some of them were safe for you to eat, they probably aren't anymore."
-    Ry "Sei qui ormai da quasi due settimane, e quindi se anche alcuni per te era sicuro mangiarli, probabilmente non lo è più." # "some [of them] were safe"
+    Ry "Sei qui ormai da quasi due settimane, quindi se anche alcuni erano sicuri da mangiare per te, probabilmente non lo sono più." # "some [of them] were safe"
 
 # game/remy4.rpy:261
 translate italiantl _call_skipcheck_28_4e8c221f:
@@ -346,7 +346,7 @@ translate italiantl _call_skipcheck_28_4e8c221f:
 translate italiantl _call_skipcheck_28_17a1e7a8:
 
     # c "Well, feel free."
-    c "Be', fa' pure."
+    c "Beh, fa' pure."
 
 # game/remy4.rpy:273
 translate italiantl _call_skipcheck_28_2b8bd8af:
@@ -370,13 +370,13 @@ translate italiantl _call_skipcheck_28_c194efe0:
 translate italiantl _call_skipcheck_28_ad116aa1:
 
     # Ry "Well, they're usually blue. Red means you're supposed to throw them away, as they have expired by then and toxins might have already set in."
-    Ry "Be', di solito sono blu. Rosso significa che dovresti buttarli via, siccome per allora sono scaduti e potrebbero essersi già insediate le tossine."
+    Ry "Beh, di solito sono blu. Rosso significa che dovresti buttarli via, siccome per allora sono scaduti e potrebbero essersi già insediate le tossine."
 
 # game/remy4.rpy:283
 translate italiantl _call_skipcheck_28_dd6a4d1f:
 
     # c "Oh. Well, I wasn't planning on eating it anyway."
-    c "Oh. Be', tanto non progettavo di mangiarlo."
+    c "Oh. Beh, tanto non progettavo di mangiarlo."
 
 # game/remy4.rpy:285
 translate italiantl _call_skipcheck_28_e6083d51:
@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_28_980f08aa:
 translate italiantl _call_skipcheck_28_71fb267a:
 
     # Ry smile "Well, I'm glad to hear it."
-    Ry smile "Be', sono lieto di sentirlo."
+    Ry smile "Beh, sono lieto di sentirlo."
 
 # game/remy4.rpy:303
 translate italiantl _call_skipcheck_28_ada2cc13:
@@ -484,7 +484,7 @@ translate italiantl _call_skipcheck_28_dab698e2:
 translate italiantl _call_skipcheck_28_d13d39f4:
 
     # Ry "I just can't enjoy it as some others do, I suppose. I'm willing to try anything at least once, though."
-    Ry "Suppongo solo di non saperlo apprezzare come certi altri. Sono disposto a provare qualsiasi cosa almeno una volta, comunque."
+    Ry "Suppongo solo di non saperlo apprezzare come certi altri. Comunque, sono disposto a provare qualsiasi cosa almeno una volta."
 
 # game/remy4.rpy:329
 translate italiantl _call_skipcheck_28_402de06e:
@@ -496,13 +496,13 @@ translate italiantl _call_skipcheck_28_402de06e:
 translate italiantl _call_skipcheck_28_dc2b5efc:
 
     # Ry "Well, at least as far as food and drinks are concerned."
-    Ry "Be', almeno per quanto riguarda cibo e bevande."
+    Ry "Beh, almeno per quanto riguarda cibo e bevande."
 
 # game/remy4.rpy:342
 translate italiantl _call_skipcheck_28_3ae0a6cf:
 
     # Ry smile "Well, if you want to."
-    Ry smile "Be', se ti va."
+    Ry smile "Beh, se ti va."
 
 # game/remy4.rpy:344
 translate italiantl _call_skipcheck_28_c48dc32f:
@@ -538,7 +538,7 @@ translate italiantl _call_skipcheck_28_99b4bbb5:
 translate italiantl _call_skipcheck_28_f047fad9:
 
     # c "Oh, well."
-    c "Oh, be'."
+    c "Oh, beh."
 
 # game/remy4.rpy:356
 translate italiantl _call_skipcheck_28_7f5b0a66:
@@ -670,7 +670,7 @@ translate italiantl _call_skipcheck_28_7b26bb2e:
 translate italiantl _call_skipcheck_28_f047fad9_1:
 
     # c "Oh, well."
-    c "Oh, be'." # see line 354
+    c "Oh, beh." # see line 354
 
 # game/remy4.rpy:442
 translate italiantl _call_skipcheck_28_86b88713:
@@ -706,7 +706,7 @@ translate italiantl _call_skipcheck_28_035ae435:
 translate italiantl _call_skipcheck_28_51bec4ab:
 
     # c "It doesn't really look like a festival is going on right now, though."
-    c "Non sembrerebbe che sia in corso un festival al momento, però." # "it doesn't [really] look like"
+    c "Però non sembrerebbe che sia in corso un festival al momento." # "it doesn't [really] look like"
 
 # game/remy4.rpy:464
 translate italiantl _call_skipcheck_28_a6f3bbb5:
@@ -754,7 +754,7 @@ translate italiantl _call_skipcheck_28_ff11f82d:
 translate italiantl _call_skipcheck_28_61255d84:
 
     # Ry "Well, that's a shame."
-    Ry "Be', è un peccato."
+    Ry "Beh, è un peccato."
 
 # game/remy4.rpy:484
 translate italiantl _call_skipcheck_28_0d67c413:
@@ -784,7 +784,7 @@ translate italiantl _call_skipcheck_28_4991f593:
 translate italiantl _call_skipcheck_28_a5dec48f:
 
     # Ry smile "Well, I could go for some meat balls. How about you?"
-    Ry smile "Be', a me andrebbero delle polpettine. E tu, invece?"
+    Ry smile "Beh, a me andrebbero delle polpettine. E tu, invece?"
 
 # game/remy4.rpy:514
 translate italiantl _call_skipcheck_28_833eb8a5:
@@ -832,7 +832,7 @@ translate italiantl _call_skipcheck_28_252423fc:
 translate italiantl _call_skipcheck_28_17352176:
 
     # Ry "Well, we're already here and got all this stuff. Let's just sit down somewhere."
-    Ry "Be', siamo già qui e abbiamo tutta questa roba. Sediamoci solo da qualche parte."
+    Ry "Beh, siamo già qui e abbiamo tutta questa roba. Sediamoci solo da qualche parte."
 
 # game/remy4.rpy:540
 translate italiantl _call_skipcheck_28_c48dc32f_1:
@@ -1222,13 +1222,13 @@ translate italiantl _call_skiptut_29_0ff5f677:
 translate italiantl _call_skiptut_29_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/remy4.rpy:712
 translate italiantl _call_skiptut_29_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/remy4.rpy:726
 translate italiantl _call_skiptut_29_0054b77b:
@@ -1450,7 +1450,7 @@ translate italiantl _call_skipcheck_29_f408cad6:
 translate italiantl _call_skipcheck_29_3183c817:
 
     # Ry "Well, if you still want to go, we could watch the big fireworks show together in a few days."
-    Ry "Be', se vuoi ancora andarci, potremmo guardare il grande spettacolo di fuochi d'artificio insieme fra qualche giorno."
+    Ry "Beh, se vuoi ancora andarci, potremmo guardare il grande spettacolo di fuochi d'artificio insieme fra qualche giorno."
 
 # game/remy4.rpy:822
 translate italiantl _call_skipcheck_29_e94b288a:
@@ -1660,7 +1660,7 @@ translate italiantl remy4skip2_e7d82850:
 translate italiantl remy4skip2_aae91d30:
 
     # Ry "Well, actually..."
-    Ry "Be', in effetti..."
+    Ry "Beh, in effetti..."
 
 # game/remy4.rpy:954
 translate italiantl remy4skip2_363a934a:
@@ -1714,7 +1714,7 @@ translate italiantl remy4skip2_0746f984:
 translate italiantl remy4skip2_8305e336:
 
     # Ry normal b "Well, it's getting late, so I should probably go now."
-    Ry normal b "Be', si sta facendo tardi, quindi probabilmente dovrei andare adesso."
+    Ry normal b "Beh, si sta facendo tardi, quindi probabilmente dovrei andare adesso."
 
 # game/remy4.rpy:992
 translate italiantl remy4skip2_d42de145:
@@ -1798,7 +1798,7 @@ translate italiantl remy4skip2_107876f3:
 translate italiantl remy4skip2_c47053e6:
 
     # Ry smile b "Well, if you say so."
-    Ry smile b "Be', se lo dici tu."
+    Ry smile b "Beh, se lo dici tu."
 
 # game/remy4.rpy:1061
 translate italiantl remy4skip2_592f9944:

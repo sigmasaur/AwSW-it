@@ -10,13 +10,13 @@ translate italiantl _call_skiptut_13_0ff5f677:
 translate italiantl _call_skiptut_13_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/lorem3.rpy:68
 translate italiantl _call_skiptut_13_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/lorem3.rpy:82
 translate italiantl _call_skiptut_13_0054b77b:
@@ -64,7 +64,7 @@ translate italiantl _call_skipcheck_13_c841a82d:
 translate italiantl _call_skipcheck_13_69b9b9c2:
 
     # Lo normal "I'm not sure who came up with it, but someone gave this kit to me as a present a few months ago."
-    Lo normal "Non so bene chi se lo sia inventato, ma qualcuno mi ha dato questa confezione in regalo qualche mese fa."
+    Lo normal "Non so bene chi se la sia inventata, ma qualcuno mi ha dato questa confezione in regalo qualche mese fa."
 
 # game/lorem3.rpy:123
 translate italiantl _call_skipcheck_13_d7ff0ef8:
@@ -76,7 +76,7 @@ translate italiantl _call_skipcheck_13_d7ff0ef8:
 translate italiantl _call_skipcheck_13_dbcb91b0:
 
     # Lo think "Well, it's a map and instructions. What more do you need?"
-    Lo think "Be', sono una mappa e delle istruzioni. Di che altro hai bisogno?"
+    Lo think "Beh, sono una mappa e delle istruzioni. Di che altro hai bisogno?"
 
 # game/lorem3.rpy:137
 translate italiantl _call_skipcheck_13_467dce4e:
@@ -130,7 +130,7 @@ translate italiantl _call_skipcheck_13_8eae7832:
 translate italiantl _call_skipcheck_13_c4b75d05:
 
     # Lo think "Well, the instructions say we only need this map and a pen."
-    Lo think "Be', le istruzioni dicono che ci serviranno solo questa mappa e una penna."
+    Lo think "Beh, le istruzioni dicono che ci serviranno solo questa mappa e una penna."
 
 # game/lorem3.rpy:167
 translate italiantl _call_skipcheck_13_ca14c86c:
@@ -250,7 +250,7 @@ translate italiantl _call_skipcheck_13_66509b3b:
 translate italiantl _call_skipcheck_13_ab7c2dfc:
 
     # Lo happy "Choice is an important factor here. We recognize that there isn't one system that works best for everyone, so there are many options depending on what path you want to take."
-    Lo happy "La scelta qui è un fattore importante. Noi riconosciamo che non esiste un sistema che funziona meglio per tutti, e quindi ci sono molte opzioni a seconda di quale percorso vuoi prendere."
+    Lo happy "La scelta qui è un fattore importante. Noi riconosciamo che non esiste un sistema che funziona meglio per tutti, quindi ci sono molte opzioni a seconda di quale percorso vuoi prendere."
 
 # game/lorem3.rpy:225
 translate italiantl _call_skipcheck_13_74f2b90a:
@@ -1018,7 +1018,7 @@ translate italiantl lorem3searchmenu_e40d7c38:
 translate italiantl lorem3searchmenu_61a52057:
 
     # c "Well, in Japanese folklore, people have a soul or spirit that is called {i}reikon{/i}."
-    c "Be', nella tradizione popolare giapponese, le persone hanno un'anima o uno spirito chiamato {i}reikon{/i}." # "a soul or spirit [that is] called reikon"
+    c "Beh, nella tradizione popolare giapponese, le persone hanno un'anima o uno spirito chiamato {i}reikon{/i}." # "a soul or spirit [that is] called reikon"
 
 # game/lorem3.rpy:580
 translate italiantl lorem3searchmenu_4a523ac2:
@@ -1054,7 +1054,7 @@ translate italiantl lorem3searchmenu_a8b250df:
 translate italiantl lorem3searchmenu_98d46353:
 
     # Lo relieved "Well, I know where not to go for my next vacation now."
-    Lo relieved "Be', ora so dove non andare in vacanza la prossima volta."
+    Lo relieved "Beh, ora so dove non andare in vacanza la prossima volta."
 
 # game/lorem3.rpy:598
 translate italiantl lorem3searchmenu_ee83d434_1:
@@ -1210,7 +1210,7 @@ translate italiantl lorem3searchmenu_cc497a2a:
 translate italiantl lorem3searchmenu_721a8ff0:
 
     # Lo "In each timeline, you have a physical body which is driven by its own base desires that it seeks to fulfill. All physical needs like hunger, thirst and even breathing fall under this category."
-    Lo "In ogni linea del tempo, possiedi un corpo fisico che è guidato dai suoi desidèri di base che cerca di appagare. Tutti i bisogni fisici come mangiare, bere e persino respirare rientrano in questa categoria." # "hunger" -> "eating"; "thirst" -> "drinking"
+    Lo "In ogni linea del tempo, possiedi un corpo fisico che è guidato dai suoi desideri di base che cerca di appagare. Tutti i bisogni fisici come mangiare, bere e persino respirare rientrano in questa categoria." # "hunger" -> "eating"; "thirst" -> "drinking"
 
 # game/lorem3.rpy:656
 translate italiantl lorem3searchmenu_b94a9753:
@@ -1408,7 +1408,7 @@ translate italiantl lorem3searchmenu_61b41bd9:
 translate italiantl lorem3searchmenu_1e02accf:
 
     # c "Well, the giant X on the ground kinda gives it away."
-    c "Be', la gigantesca X in terra lo dà un po' a vedere."
+    c "Beh, la gigantesca X in terra lo dà un po' a vedere."
 
 # game/lorem3.rpy:743
 translate italiantl lorem3searchmenu_2d66014d:
@@ -1750,7 +1750,7 @@ translate italiantl lorem3searchmenu_467351bb:
 translate italiantl lorem3searchmenu_82ec4f27:
 
     # m "Just as I was about to resurface and get some air, I heard a splash accompanied by a loud thud."
-    m "Come facevo per riemergere e prendere un po' d'aria, sentii un tonfo nell'acqua accompagnato da un forte rovinio."
+    m "Mentre stavo per riemergere e prendere un po' d'aria, sentii un tonfo nell'acqua accompagnato da un forte rovinio."
 
 # game/lorem3.rpy:925
 translate italiantl lorem3searchmenu_e98448d6:
@@ -1870,7 +1870,7 @@ translate italiantl lorem3searchmenu_c48dc32f:
 translate italiantl lorem3searchmenu_3ee2d086:
 
     # c "Well, what's inside?"
-    c "Be', cosa c'è dentro?"
+    c "Beh, cosa c'è dentro?"
 
 # game/lorem3.rpy:1001
 translate italiantl lorem3searchmenu_93891439:
@@ -1936,7 +1936,7 @@ translate italiantl lorem3searchmenu_59ba78bc:
 translate italiantl lorem3searchmenu_5091495b:
 
     # Lo think "Well, I don't think that offer is still valid."
-    Lo think "Be', non credo che quell'offerta sia ancora valida."
+    Lo think "Beh, non credo che quell'offerta sia ancora valida."
 
 # game/lorem3.rpy:1025
 translate italiantl lorem3searchmenu_6156a1bc:
@@ -1978,7 +1978,7 @@ translate italiantl lorem3searchmenu_46a95002:
 translate italiantl lorem3searchmenu_2acd1bef:
 
     # c "That makes me wonder, though. Why didn't they get rid of the hints and this box when the contest expired?"
-    c "Il che mi fa pensare, però. Perché non si sono sbarazzati degli indizi e di questa scatola quando il concorso è scaduto?"
+    c "Il che però mi fa pensare. Perché non si sono sbarazzati degli indizi e di questa scatola quando il concorso è scaduto?"
 
 # game/lorem3.rpy:1039
 translate italiantl lorem3searchmenu_105331b3:
@@ -2051,7 +2051,7 @@ translate italiantl lorem3skip_b94ced76:
 translate italiantl lorem3skip_734a0b44:
 
     # Lo think "We should probably head back before it gets too dark, though. We still have to go through the woods again."
-    Lo think "Probabilmente dovremmo tornare indietro prima che faccia troppo buio, comunque. Dobbiamo ancora riattraversare i boschi."
+    Lo think "Comunque, probabilmente dovremmo tornare indietro prima che faccia troppo buio. Dobbiamo ancora riattraversare i boschi."
 
 # game/lorem3.rpy:1069
 translate italiantl lorem3skip_67e32370:

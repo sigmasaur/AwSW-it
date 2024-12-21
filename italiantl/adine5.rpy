@@ -70,7 +70,7 @@ translate italiantl adine5_5d270bd2:
 translate italiantl adine5_b68a0f71:
 
     # c "Well, now that I know of it, I suppose it's not so secret anymore."
-    c "Be', adesso che lo conosco, suppongo non sia più così segreto."
+    c "Beh, adesso che lo conosco, suppongo non sia più così segreto."
 
 # game/adine5.rpy:50
 translate italiantl adine5_041059dc:
@@ -100,7 +100,7 @@ translate italiantl adine5_b786e88a:
 translate italiantl adine5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "Molti razzi seguirono, il loro tonante fragore che echeggiava in tutto quanto il territorio." # see lines 520, 522 of chapter 5
+    m "Molti razzi seguirono, il cui tonante fragore echeggiò in tutto quanto il territorio." # see lines 520, 522 of chapter 5
 
 # game/adine5.rpy:75
 translate italiantl adine5_3de6ab5e:
@@ -298,7 +298,7 @@ translate italiantl _call_endingjustafewminuteslater_4_81e65529:
 translate italiantl _call_endingjustafewminuteslater_4_33f1ed09:
 
     # m "As Maverick ran towards him, Reza adjusted his aim before shooting at Maverick multiple times."
-    m "Al correre di [Mv] verso di lui, [Rz] corrèsse la mira prima di sparargli contro più volte." # "shooting at Maverick" -> "shooting at him"
+    m "Al correre di [Mv] verso di lui, [Rz] corresse la mira prima di sparargli contro più volte." # "shooting at Maverick" -> "shooting at him"
 
 # game/adine5.rpy:244
 translate italiantl _call_endingjustafewminuteslater_4_3aa60d2f:
@@ -526,7 +526,7 @@ translate italiantl _call_endingjustafewminuteslater_4_c70d6beb:
 translate italiantl _call_endingjustafewminuteslater_4_3a48fa0a:
 
     # Ad disappoint b "Oh, well."
-    Ad disappoint b "Oh, be'."
+    Ad disappoint b "Oh, beh."
 
 # game/adine5.rpy:404
 translate italiantl _call_endingjustafewminuteslater_4_35472d36:
@@ -694,7 +694,7 @@ translate italiantl adinegoodending_aa5d2b2e:
 translate italiantl adinegoodending_c15dbd2d:
 
     # Ad normal b "Well, at first, Maverick wanted to storm the place head-on, but then I remembered the map you gave me and the other entrance. We heard you two talking and figured we could surprise him if we went in the other way."
-    Ad normal b "Be', all'inizio, [Mv] voleva assaltare il posto a testa bassa, ma poi mi sono ricordata della mappa che mi avevi dato e dell'altra entrata. Vi abbiamo sentiti parlare e abbiamo pensato di poterlo sorprendere se fossimo entrati dall'altra parte." # "we heard you [two] talking"
+    Ad normal b "Beh, all'inizio, [Mv] voleva assaltare il posto a testa bassa, ma poi mi sono ricordata della mappa che mi avevi dato e dell'altra entrata. Vi abbiamo sentiti parlare e abbiamo pensato di poterlo sorprendere se fossimo entrati dall'altra parte." # "we heard you [two] talking"
 
 # game/adine5.rpy:720
 translate italiantl adinegoodending_feb7e810:
@@ -838,7 +838,7 @@ translate italiantl adinegoodending_2fc1d6c7:
 translate italiantl adinegoodending_f85ecedc:
 
     # As "Well, with the generators still intact, we will have no trouble diverting the comet and saving this world, but I also know that you feel very strongly about executing the mission you were sent here for."
-    As "Be', col generatore ancora intatto, non avremo difficoltà a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # see the Italian translation of Charlotte Gray, 00:08:32; "generator[s]"; "about [executing] the mission", see line 814
+    As "Beh, col generatore ancora intatto, non avremo difficoltà a deviare la cometa e salvare questo mondo, ma so anche quanto siano forti i sentimenti che nutri sulla missione per cui eri statə inviatə qui." # see the Italian translation of Charlotte Gray, 00:08:32; "generator[s]"; "about [executing] the mission", see line 814
 
 # game/adine5.rpy:814
 translate italiantl adinegoodending_592747cc:
@@ -1108,7 +1108,7 @@ translate italiantl adinegoodending_0ca1d4b3:
 translate italiantl adinegoodending_4f54ffa2:
 
     # Ad disappoint b "Oh, well..."
-    Ad disappoint b "Oh, be'..."
+    Ad disappoint b "Oh, beh..."
 
 # game/adine5.rpy:1024
 translate italiantl adinegoodending_582e80d4:

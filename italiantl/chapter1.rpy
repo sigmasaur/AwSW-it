@@ -64,19 +64,19 @@ translate italiantl detected_bd29307b:
 translate italiantl detected_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    "Controlli\nUsa [[Left Click] o [[Enter] per avanzare il testo e selezionare le opzioni di menu.\nPremi [[Space] per avanzare solo il testo. Torna utile a evitare di fare una selezione per errore."
+    "Controlli\nUsa [[Tasto Sinistro] o [[Invio] per avanzare il testo e selezionare le opzioni di menu.\nPremi [[Spazio] per avanzare solo il testo. Torna utile per evitare di fare una selezione per errore."
 
 # game/chapter1.rpy:384
 translate italiantl detected_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[ESC] o [[Right Click] fa apparire il menu.\n[[F] alterna lo schermo intero.\nUsa [[Mousewheel], o [[Page Up] e [[Page Down] per rileggere i messaggi passati e riavvolgere."
+    "[[ESC] e [[Tasto Destro] fanno apparire il menu.\n[[F] alterna lo schermo intero.\nUsa [[Rotellina], o [[Pag Su] e [[Pag Giù] per rileggere i messaggi passati e riavvolgere."
 
 # game/chapter1.rpy:385
 translate italiantl detected_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Middle Click] o [[H] nasconde la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # "to skip [seen] messages" as it depends on the user's preference
+    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Tasto Centrale] e [[H] nascondono la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # "to skip [seen] messages" as it depends on the user's preference
 
 # game/chapter1.rpy:386
 translate italiantl detected_4f5f91c6:
@@ -106,19 +106,19 @@ translate italiantl colorend_bd29307b:
 translate italiantl colorend_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    "Controlli\nUsa [[Click Sinistro] o [[Invio] per avanzare il testo e selezionare le opzioni di menu.\nPremi [[Spazio] per avanzare solo il testo. Torna utile per evitare di fare una selezione per errore."
+    "Controlli\nUsa [[Tasto Sinistro] o [[Invio] per avanzare il testo e selezionare le opzioni di menu.\nPremi [[Spazio] per avanzare solo il testo. Torna utile per evitare di fare una selezione per errore." # see line 383
 
 # game/chapter1.rpy:407
 translate italiantl colorend_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[ESC] o [[Click Destro] fanno apparire il menu.\n[[F] alterna lo schermo intero.\nUsa [[Rotellina del mouse], o [[Pag Su] e [[Pag Giù] per rileggere i messaggi passati e riavvolgere."
+    "[[ESC] e [[Tasto Destro] fanno apparire il menu.\n[[F] alterna lo schermo intero.\nUsa [[Rotellina], o [[Pag Su] e [[Pag Giù] per rileggere i messaggi passati e riavvolgere." # see line 384
 
 # game/chapter1.rpy:408
 translate italiantl colorend_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Click Rotellina] o [[H] nasconde la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # see line 385
+    "Mantieni [[Ctrl] o premi [[Tab] per saltare i messaggi.\n[[S] cattura una schermata.\n[[Tasto Centrale] e [[H] nascondono la finestra del testo.\nSe desideri vedere di nuovo queste informazioni, puoi farlo dal menu principale." # see line 385
 
 # game/chapter1.rpy:409
 translate italiantl colorend_7c214f52:
@@ -160,7 +160,7 @@ translate italiantl begingame_c9f110ae:
 translate italiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Avevo già sentito parlare di una simile tecnologia, anche se per lo più a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi l'avesse costruito, né quando—o perché l'avessimo trovato nella desolazione in cui eravamo. Ma ciò che per noi fu più entusiasmante era il fatto che... funzionasse." # corrected em-dash, past tense "were under consideration" -> "had been under consideration"; "BUT what was more exciting"
+    n "Avevo già sentito parlare di una simile tecnologia, anche se per lo più a livello sperimentale. Da quel che sapevo, altri portali erano stati creati in passato e considerati per l'applicazione di massa. Di questo in particolare, tuttavia, ignoravamo chi l'avesse costruito, né quando—o perché l'avessimo trovato nella desolazione in cui eravamo. Ma ciò che per noi fu più entusiasmante era il fatto che... funzionasse." # corrected em-dash, past tense "were under consideration" -> "had been under consideration"; "where we did" -> "where we were", "BUT what was more exciting"
 
 # game/chapter1.rpy:433
 translate italiantl begingame_337d015e:
@@ -168,7 +168,7 @@ translate italiantl begingame_337d015e:
     # nvl clear
     # n "After our first tests, we found there was someone else on the other side who was in possession of a similar portal, and our attempts at communication through letters were successful. But in the end, the machine's extraordinary demand for power meant we needed to act quickly as we wouldn’t be able to keep the portal open much longer. "
     nvl clear
-    n "Dopo i primi esperimenti, scoprimmo che vi era qualcun altro dall'altro lato che era in possesso di un simile portale, e i nostri tentativi di comunicazione tramite lettere ebbero successo. Ma alla fine, lo straordinario fabbisogno energetico della macchina ci ha costretti ad agire in fretta poiché non saremmo stati in grado di mantenere il portale aperto ancora a lungo."
+    n "Dopo i primi esperimenti, scoprimmo che vi era qualcun altro dall'altro lato che era in possesso di un simile portale, e i nostri tentativi di comunicazione tramite lettere ebbero successo. Ma alla fine, lo straordinario fabbisogno energetico della macchina ci costrinse ad agire in fretta poiché non saremmo stati in grado di mantenere il portale aperto ancora a lungo." # "meant we needed" -> "compelled us"
 
 # game/chapter1.rpy:436
 translate italiantl begingame_00947764:
@@ -198,13 +198,13 @@ translate italiantl begingame_f40eb8ae:
 translate italiantl begingame_f4966cae:
 
     # n "I knew him. Or rather, had known him. We attended the same school back then, and even had a few classes together. We never really were very close friends, but we talked to each other occasionally and hung around with the same crowd sometimes. However, we still went our separate ways in the end."
-    n "Lo conoscevo. O piuttosto, l'avevo conosciuto. Avevamo frequentato la stessa scuola, e persino seguito alcune lezioni assieme. Non eravamo mai stati molto legati, ma avevamo conversato occasionalmente e talvolta frequentato le stesse compagnie. Tuttavia, avevamo comunque finito col prendere strade diverse."
+    n "Lo conoscevo. O piuttosto, l'avevo conosciuto. Avevamo frequentato la stessa scuola, e persino seguito alcune lezioni assieme. Non eravamo mai stati molto legati, ma avevamo conversato occasionalmente e talvolta frequentato le stesse compagnie. Tuttavia, avevamo comunque finito col prendere strade diverse." # "we attended the same school [back then]"
 
 # game/chapter1.rpy:448
 translate italiantl begingame_d966c5be:
 
     # n "I wasn't sure what to think about the whole thing, but he had to have known what he was doing. He certainly was brave."
-    n "Non sapevo bene cosa pensare dell'intera faccenda, ma lui doveva sapere quel che faceva. Certamente era coraggioso." # "was brave" -> "had guts". il cambio crea problemi con la frase sucessiva
+    n "Non sapevo bene cosa pensare dell'intera faccenda, ma lui doveva sapere quel che faceva. Certamente era coraggioso."
 
 # game/chapter1.rpy:449
 translate italiantl begingame_0be71cd9:
@@ -344,19 +344,19 @@ translate italiantl begingame_fe72b4b9:
 translate italiantl begingame_dc6c4ac0:
 
     # n "They hadn't known about any other intelligent life-form beyond their own, their portal had only recently been discovered and was a technology previously unknown to them, and just as we had myths about dragons, they had myths about us."
-    n "Anche loro non sapevano di altre forme di vita intelligenti al di là della loro stessa, il loro portale era stato solo recentemente scoperto ed era una tecnologia precedentemente sconosciuta, e proprio come noi avevamo dei miti sui draghi, loro ne avevano su di noi." # "they TOO hadn't known"
+    n "Anche loro non sapevano di altre forme di vita intelligenti al di là della loro stessa, il loro portale era stato solo recentemente scoperto ed era una tecnologia precedentemente sconosciuta, e proprio come noi avevamo dei miti sui draghi, loro ne avevano su di noi." # "they TOO hadn't known", "previously unknown [to them]"
 
 # game/chapter1.rpy:484
 translate italiantl begingame_32508c0c:
 
     # n "That was what we knew about them so far, and as interesting as learning those things and debating their cultural significance was, we didn't really know what we should make of it all."
-    n "Questo era ciò che sapevamo di loro fino a quel momento, e per interessante che fosse apprendere quelle cose e dibattere il loro significato culturale, non sapevamo realmente cosa farne di tutto questo." # "we should" -> "to"; "it all" -> "all this"
+    n "Questo era ciò che sapevamo di loro fino a quel momento, e per interessante che fosse apprendere quelle cose e dibattere il loro significato culturale, di tutto questo non sapevamo realmente cosa farne." # "we should" -> "to"; "it all" -> "all this"
 
 # game/chapter1.rpy:485
 translate italiantl begingame_26e2ea6a:
 
     # n "Reza apparently was sure of what he was doing, though, as he eventually let us know that they had agreed on a trade."
-    n "Apparentemente [Rz] era sicuro di quel che faceva, tanto che infine ci fece sapere di aver concordato uno scambio."
+    n "Apparentemente però [Rz] era sicuro di quel che faceva, tanto che infine ci fece sapere di aver concordato uno scambio."
 
 # game/chapter1.rpy:486
 translate italiantl begingame_32345ff9:
@@ -370,7 +370,7 @@ translate italiantl begingame_32345ff9:
 translate italiantl begingame_23bd1b9f:
 
     # n "Overall, they didn't seem as technologically advanced as we had been, but they did surpass us in that one aspect. Their means of generating energy seemed... sustainable."
-    n "Nel complesso, non sembravano tecnologicamente evoluti quanto lo eravamo stati noi, ma ci superavano in quell'aspetto. Il loro modo di produrre energia pareva essere... sostenibile."
+    n "Nel complesso, non sembravano tecnologicamente evoluti quanto lo eravamo stati noi, ma in quell'aspetto ci avevano superato. Il loro modo di produrre energia pareva essere... sostenibile."
 
 # game/chapter1.rpy:489
 translate italiantl begingame_9422efc0:
@@ -394,7 +394,7 @@ translate italiantl begingame_c8829c2c:
 translate italiantl begingame_9cb37fb9:
 
     # n "My prior experience in both biology and sociology made me a good fit to deliver our PDA devices for the trade. And while in the dragons' world, waiting for the prototypes of our generators to be manufactured by them, I would act as an ambassador on humanity's behalf."
-    n "Le mie precedenti esperienze in entrambe biologia e sociologia mi avevano reso un buon candidato per consegnare i nostri dispositivi palmari per lo scambio. E fintantoché mi trovavo nel mondo dei draghi, aspettando che avessero fabbricato i prototipi dei nostri generatori, avrei rappresentato l'umanità in qualità di messə."
+    n "Le mie precedenti esperienze in entrambe biologia e sociologia mi avevano reso un buon candidato per consegnare i nostri dispositivi palmari per lo scambio. E fintantoché mi fossi trovatə nel mondo dei draghi, aspettando che avessero fabbricato i prototipi dei nostri generatori, avrei rappresentato l'umanità in qualità di ambasciatorə."
 
 # game/chapter1.rpy:499
 translate italiantl begingame_062d5b60:
@@ -420,7 +420,7 @@ translate italiantl begingame_a1d738a9:
     # nvl clear
     # n "Despite the images that living, talking dragons might conjure up in some people's minds, I didn't even think of bringing a weapon myself, considering that they were reportedly friendly and peaceful enough."
     nvl clear
-    n "Malgrado le immagini che draghi viventi e parlanti potrebbero evocare nella mente di alcuni, non pensai nemmeno di portare un'arma io stessə, considerando che stando a quanto riferito erano abbastanza amichevoli e pacifici."
+    n "Malgrado le immagini che draghi viventi e parlanti potrebbero evocare nella mente di alcuni, non pensai nemmeno di portare un'arma io stessə, considerando che stando a quanto riferito erano amichevoli e pacifici quanto basta."
 
 # game/chapter1.rpy:504
 translate italiantl begingame_01f41d60:
@@ -432,7 +432,7 @@ translate italiantl begingame_01f41d60:
 translate italiantl begingame_29ac0db6:
 
     # n "When the time came for me to step through the portal, all my mental preparedness vanished. My anxiousness was fueled by all the questions lurking in my head, just as the machine started to do its work."
-    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale svanì. Mentre la macchina iniziò ad operare, la mia ansietà fu alimentata da tutte le domande che mi si erano annidate in testa."
+    n "Quando giunse il momento che varcassi il portale, tutta la mia preparazione mentale svanì. Mentre la macchina iniziava a operare, la mia ansietà fu alimentata da tutte le domande che mi si erano annidate in testa."
 
 # game/chapter1.rpy:506
 translate italiantl begingame_608fb1d8:
@@ -482,7 +482,7 @@ translate italiantl begingame_3ba6854d:
 translate italiantl begingame_0d6baf11:
 
     # n "{cps=80}Both horrifying and beautiful, it was an experience unlike any other, yet over in just a split second.{/cps}"
-    n "{cps=80}In equal modo terrificante e meravigliosa, fu un'esperienza come nessun'altra, eppure conclusa in una frazione di secondo.{/cps}" # "beautiful" -> "wonderful"
+    n "{cps=80}Terrificante e meravigliosa allo stesso tempo, fu un'esperienza come nessun'altra, eppure conclusa in una frazione di secondo.{/cps}" # "beautiful" -> "wonderful"
 
 # game/chapter1.rpy:613
 translate italiantl begingame_76b2fe88_5:
@@ -500,7 +500,7 @@ translate italiantl begingame_d079f0e6:
 translate italiantl begingame_9ea6cf05:
 
     # n "I could only see a patch of lighter color contrasting with its dark surroundings as my vision started to clear. Its edges got sharper as the patch of light slowly took shape, giving me the distinguished outline of a reptilian head, and an array of horns spouting from it."
-    n "Riuscivo a scorgere solo una macchia di colore più chiaro, distinguersi nell'oscurità circostante, quando la mia vista iniziò a schiarirsi. I suoi bordi divennero più nitidi mentre la macchia di luce assumeva lentamente la forma di una testa dai lineamenti distintamente rettiliani, e di una serie di corna che spuntavano da essa."
+    n "Riuscivo a scorgere solo una macchia di colore più chiaro distinguersi nell'oscurità circostante quando la mia vista iniziò a schiarirsi. I suoi bordi divennero più nitidi mentre la macchia di luce assumeva lentamente la forma di una testa dai lineamenti distintamente rettiliani, e di una serie di corna che spuntavano da essa."
 
 # game/chapter1.rpy:639
 translate italiantl holetravel_6a175cfd:
@@ -560,7 +560,7 @@ translate italiantl holetravel_a3fad319:
 translate italiantl holetravel_91c5ac30:
 
     # m "So I followed the dragon, not straying too far from him, as the sun had already departed for the day and the remaining light diminished by the minute."
-    m "E così seguii il drago, cercando di non allontanarmi troppo da lui, siccome il sole era ormai già tramontato e la luce residua diminuiva di minuto in minuto."
+    m "E così seguii il drago, cercando di non allontanarmi troppo da lui, siccome il sole era ormai tramontato e la luce residua diminuiva di minuto in minuto." # "departed for the day" -> "set"
 
 # game/chapter1.rpy:678
 translate italiantl holetravel_98cf1cad:
@@ -584,7 +584,7 @@ translate italiantl holetravel_b1ea774c:
 translate italiantl holetravel_a75b3c45:
 
     # Ry "That's quite an understatement. Some people here are rather superstitious. They might regard you or any of your kind as... divine, I suppose."
-    Ry "È un eufemismo. Alcuni qui sono piuttosto superstiziosi. Potrebbero considerare te o uno qualsiasi della tua specie come... divino, suppongo."
+    Ry "È un eufemismo. Alcuni qui sono piuttosto superstiziosi. Potrebbero considerare te o uno qualsiasi della tua specie come... divino, suppongo." # "that's [quite] an understatement"
 
 # game/chapter1.rpy:687
 translate italiantl holetravel_73aa25c3:
@@ -614,13 +614,13 @@ translate italiantl holetravel_4bcd03cc:
 translate italiantl holetravel_f97397b2:
 
     # m "Hinges creaking, the door opened, and with the flick of a switch, the apartment was flooded with light, blinding me after all the time we had just spent without it."
-    m "Con cardini cigolanti, la porta si aprì, premendo un interruttore l'appartamento fu inondato di luce, accecandomi dopo tutto il tempo che avevamo appena trascorso in sua assenza."
+    m "Coi cardini cigolanti, la porta si aprì, e premendo un interruttore, l'appartamento fu inondato di luce, accecandomi dopo tutto il tempo che avevamo appena trascorso in sua assenza."
 
 # game/chapter1.rpy:713
 translate italiantl holetravel_7c536461:
 
     # Ry "This is where you will live for the time being. It is fully stocked, but in case you need anything else, I left you a note with a few phone numbers."
-    Ry "Qui è dove ti sistemerai per il tempo a venire. È completamente fornito, ma in caso tu abbia bisogno di qualsiasi altra cosa, ti ho lasciato un messaggio con alcuni numeri di telefono."
+    Ry "Qui è dove ti sistemerai per il tempo a venire. È completamente fornito, ma in caso avessi bisogno di qualsiasi altra cosa, ti ho lasciato un biglietto con alcuni numeri di telefono."
 
 # game/chapter1.rpy:714
 translate italiantl holetravel_e590ac89:
@@ -644,19 +644,19 @@ translate italiantl holetravel_acc659e8:
 translate italiantl holetravel_7ce680cd:
 
     # n "With a nod, Remy left the apartment, mindful enough to close the door behind himself. Surveying the room, I considered the events that had just transpired as my gaze met the window."
-    n "Con un cenno del capo, [Ry] lasciò l'appartamento, abbastanza accorto da chiudere la porta dietro di sé. Ispezionando la stanza, consideravo gli eventi che erano appena accaduti quando il mio sguardo incontrò la finestra."
+    n "Con un cenno del capo, [Ry] lasciò l'appartamento, abbastanza accorto da chiudere la porta dietro di sé. Osservando la stanza, consideravo gli eventi che erano appena accaduti quando il mio sguardo incontrò la finestra."
 
 # game/chapter1.rpy:728
 translate italiantl holetravel_0066f440:
 
     # n "I could see movement outside, and as I drew nearer, startled, I could hear footsteps in the grass, moving away quickly. Assuming it must have been the dragon I just met, I thought nothing of it as I went to bed and slowly succumbed to the sweet allure of sleep overdue."
-    n "Potevo scorgere del movimento all'esterno, e nell'avvicinarmi, allarmatə, potevo avvertire dei passi nell'erba allontanarsi rapidamente. Presumendo fossero del drago che avevo appena incontrato, non vi diedi peso mentre andavo a dormire e lentamente soccombevo al dolce richiamo del sonno arretrato." # "it must have been" -> "they had been from" where "they" as in "the footsteps"
+    n "Potei scorgere del movimento all'esterno, e nell'avvicinarmi, allarmatə, potei avvertire dei passi nell'erba allontanarsi rapidamente. Presumendo fossero del drago che avevo appena incontrato, non vi diedi peso mentre andavo a dormire e lentamente soccombevo al dolce richiamo del sonno arretrato." # "it must have been" -> "they had been from" where "they" as in "the footsteps"
 
 # game/chapter1.rpy:733
 translate italiantl holetravel_344cc935:
 
     # n "I spent a few moments thinking about my role, my mission and what it meant to be here now."
-    n "Dedicai qualche istante a riflettere sul mio ruolo, la mia missione e cosa volesse dire trovarsi qui ed ora."
+    n "Dedicai qualche istante a riflettere sul mio ruolo, la mia missione e cosa volesse dire trovarsi qui e ora."
 
 # game/chapter1.rpy:740
 translate italiantl holetravel_76b2fe88_1:
@@ -668,7 +668,7 @@ translate italiantl holetravel_76b2fe88_1:
 translate italiantl holetravel_49a3a932:
 
     # n "Now here I was, a stranger in a strange land, as I only began to feel the weight of the burden that lay upon me, the pressure of my task and the expectations I would have to meet in representing a species, culture and civilization."
-    n "E ora eccomi qui, unə stranierə in una strana terra, mentre cominciavo appena a sentire il peso dell'onere che grava su di me, la pressione del mio compito e le aspettative che avrei dovuto soddisfare nel rappresentare una specie, una cultura e una civiltà." # "only began" -> "was just beginning"
+    n "E ora eccomi qui, unə stranierə in una strana terra, mentre cominciavo appena a sentire il peso dell'onere che gravava su di me, la pressione del mio compito e le aspettative che avrei dovuto soddisfare nel rappresentare una specie, una cultura e una civiltà." # "only began" -> "was just beginning"
 
 # game/chapter1.rpy:744
 translate italiantl holetravel_d92940c8:
@@ -694,7 +694,7 @@ translate italiantl holetravel_76b2fe88_2:
 translate italiantl holetravel_2b565a45:
 
     # n "So many possibilities and prospects raced through my mind. Truth be told, the thought of being able to meet an entirely new species and civilization excited me. As I was going to be one of the first to truly experience their society with its own little quirks, differences and similarities, I couldn't help but feel like some sort of modern Vasco da Gama or Marco Polo."
-    n "Così tante possibilità e prospettive mi attraversano la mente. A dire il vero, il pensiero di poter incontrare una specie e una civiltà del tutto nuove mi entusiasmava. Poiché sarei statə unə dei primi a sperimentare veramente la loro società con le sue piccole stranezze, differenze e somiglianze, non potevo fare a meno di sentirmi come una sorta di moderno Vasco da Gama o Marco Polo."
+    n "Così tante possibilità e prospettive mi attraversavano la mente. A dire il vero, il pensiero di poter incontrare una specie e una civiltà del tutto nuove mi entusiasmava. Poiché sarei statə unə dei primi a sperimentare veramente la loro società con le sue piccole stranezze, differenze e somiglianze, non potevo fare a meno di sentirmi come una sorta di moderno Vasco da Gama o Marco Polo."
 
 # game/chapter1.rpy:756
 translate italiantl holetravel_8355d8c5:
@@ -708,7 +708,7 @@ translate italiantl holetravel_ed81ce8a:
     # nvl clear
     # n "At any rate, this was going to be fun."
     nvl clear
-    n "In ogni caso, questo sarà divertente."
+    n "In ogni caso, ci sarebbe stato da divertirsi."
 
 # game/chapter1.rpy:809
 translate italiantl skipintro_4ceaddf2:
@@ -768,7 +768,7 @@ translate italiantl _call_skiptut_2_4d25d249:
 translate italiantl _call_skiptut_2_11989f6d:
 
     # s "It looks like you've seen this before. Skip to the character selection?"
-    s "Sembra che tu abbia già visto questa parte prima d'ora. Saltare alla selezione del personaggio?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla selezione del personaggio?"
 
 # game/chapter1.rpy:1204
 translate italiantl _call_skiptut_2_e25f7eb3:
@@ -798,7 +798,7 @@ translate italiantl _call_skipcheck_2_8b54a3a5:
 translate italiantl _call_skipcheck_2_dd8ee6c6:
 
     # m "He seemed a lot smaller than Remy, and when he somewhat nervously extended his arm towards me, I noticed he apparently only walked on his hind legs, the two forelimbs instead having distinct arms, hands and fingers."
-    m "Sembrava molto più piccolo di [Ry], e quando piuttosto nervosamente allungò il braccio verso di me, notai che apparentemente camminava solo sui suoi arti posteriori, i due anteriori avevano invece braccia, mani e dita ben distinte."
+    m "Sembrava molto più piccolo di [Ry], e quando piuttosto nervosamente allungò il braccio verso di me, notai che apparentemente camminava solo sugli arti posteriori—i due anteriori avevano invece braccia, mani e dita ben distinte."
 
 # game/chapter1.rpy:1264
 translate italiantl _call_skipcheck_2_369fcd63:
@@ -876,7 +876,7 @@ translate italiantl _call_skipcheck_2_04ea8b49:
 translate italiantl _call_skipcheck_2_a313ff65:
 
     # n "After just a couple of minutes, we arrived at our destination where we were met by Reza, as well as yet another dragon, a vicious looking beast that didn't stay too close to him."
-    n "Dopo solo un paio di minuti, giungemmo alla nostra destinazione dove fummo accolti da [Rz], insieme ad un altro drago, una bestia dall'aspetto feroce che non gli stava troppo vicino."
+    n "Dopo solo un paio di minuti, giungemmo alla nostra destinazione dove fummo accolti da [Rz], insieme a un altro drago, una bestia dall'aspetto feroce che non gli stava troppo vicino." # "[yet] another dragon"
 
 # game/chapter1.rpy:1319
 translate italiantl _call_skipcheck_2_ed3bc404:
@@ -924,7 +924,7 @@ translate italiantl _call_skipcheck_2_bf84f7f4:
 translate italiantl _call_skipcheck_2_8eee5c09:
 
     # Rz "Hah."
-    Rz "Hah."
+    Rz "Hah. "
 
 # game/chapter1.rpy:1336
 translate italiantl _call_skipcheck_2_4c394714:
@@ -984,19 +984,19 @@ translate italiantl _call_skipcheck_2_529aeda4:
 translate italiantl _call_skipcheck_2_4f894d15:
 
     # Rz "We're not the ones making a big deal out of this, you are. We're just here to get what we agreed on and then we'll be gone. If anything, I'd actually prefer if you left us alone, but you're the one who insists on following me around wherever I go."
-    Rz "Non siamo noi a farne un affare di stato, ma tu. Noi siamo qui solo per avere ciò che abbiamo pattuito e poi ce ne andremmo. Semmai, in effetti preferirei che ci lasciassi in pace, ma sei tu quello che insiste a seguirmi ovunque vada."
+    Rz "Non siamo noi a farne un affare di stato, ma tu. Noi siamo qui solo per avere ciò che abbiamo pattuito e poi ce ne andremo. Semmai, in effetti preferirei che ci lasciassi in pace, ma sei tu quello che insiste a seguirmi ovunque vada."
 
 # game/chapter1.rpy:1369
 translate italiantl _call_skipcheck_2_bf0efca8:
 
     # m "A growl escaped the darker dragon's trembling lips as he bared his teeth at Reza."
-    m "Un ringhio sfuggì dalle labbra fremanti del drago più scuro mentre digrignava i denti a [Rz]."
+    m "Un ringhio sfuggì dalle labbra frementi del drago più scuro mentre digrignava i denti a [Rz]."
 
 # game/chapter1.rpy:1373
 translate italiantl _call_skipcheck_2_9cffa3e3:
 
     # Sb "Alright, alright, that's quite enough. Let's just all go inside already, shall we?"
-    Sb "Va bene, va bene, direi che può bastare. Andiamocene tutti dentro e basta, che ne dite?"
+    Sb "E va bene, va bene, direi che può bastare. Andiamocene tutti dentro e basta, che ne dite?"
 
 # game/chapter1.rpy:1374
 translate italiantl _call_skipcheck_2_6044a25e:
@@ -1020,7 +1020,7 @@ translate italiantl _call_skipcheck_2_0c52476d:
 translate italiantl _call_skipcheck_2_aed26b36:
 
     # "???" "There you are. I was waiting for you."
-    "???" "Eccovi qui. Vi stavo aspettando."
+    "??? " "Eccovi qui. Vi stavo aspettando."
 
 # game/chapter1.rpy:1401
 translate italiantl _call_skipcheck_2_1e106597:
@@ -1032,7 +1032,7 @@ translate italiantl _call_skipcheck_2_1e106597:
 translate italiantl _call_skipcheck_2_8c860b7d:
 
     # "???" "They're only coming in later today, so you'll just have to make do with me."
-    "???" "Loro arriveranno solo più tardi in giornata, perciò dovrete accontentarvi di me." # "you'll [just] have to make do"
+    "??? " "Loro arriveranno solo più tardi in giornata, perciò dovrete accontentarvi di me." # "you'll [just] have to make do"
 
 # game/chapter1.rpy:1409
 translate italiantl _call_skipcheck_2_759b976c:
@@ -1044,7 +1044,7 @@ translate italiantl _call_skipcheck_2_759b976c:
 translate italiantl _call_skipcheck_2_46975328:
 
     # Sb "Well, [player_name], this is Anna. She kinda manages this building, though actually she's more involved with the research wing rather than production and engineering."
-    Sb "Be', [player_name], questa è [An]. In un certo senso gestisce questo edificio, sebbene in effetti sia più coinvolta nell'area di ricerca che in quelle di produzione e ingegneria."
+    Sb "Beh, [player_name], questa è [An]. In un certo senso gestisce questo edificio, sebbene in effetti sia più coinvolta nell'area di ricerca che in quelle di produzione e ingegneria."
 
 # game/chapter1.rpy:1411
 translate italiantl _call_skipcheck_2_ec602286_1:
@@ -1068,7 +1068,7 @@ translate italiantl _call_skipcheck_2_494a6341:
 translate italiantl _call_skipcheck_2_83471fa0:
 
     # c "Looks a little small, if you ask me."
-    c "Sembra un po' piccolo, se me lo chiedi." # "if you ask me" si potrebbe anche tradurre in "secondo me"
+    c "Sembra un po' piccolo, se lo chiedi a me." # "if you ask me" si potrebbe anche tradurre in "secondo me"
 
 # game/chapter1.rpy:1425
 translate italiantl _call_skipcheck_2_71aa7402:
@@ -1116,7 +1116,7 @@ translate italiantl _call_skipcheck_2_e93cdc3b:
 translate italiantl _call_skipcheck_2_677e591a:
 
     # m "The PDA lit up as her hands swiftly moved around its interface in calculated motions."
-    m "Il palmare si illuminò mentre le sue mani si muovevano rapidamente sulla sua interfaccia in movimenti calcolati."
+    m "Il palmare si illuminò mentre le mani di lei si muovevano rapide sulla sua interfaccia in movimenti calcolati."
 
 # game/chapter1.rpy:1454
 translate italiantl _call_skipcheck_2_63d2793a:
@@ -1146,7 +1146,7 @@ translate italiantl _call_skipcheck_2_747d3bb6:
 translate italiantl _call_skipcheck_2_4f8dfa7a:
 
     # An "Well, maybe next time."
-    An "Be', magari la prossima volta."
+    An "Beh, magari la prossima volta."
 
 # game/chapter1.rpy:1475
 translate italiantl _call_skipcheck_2_a0d5dc78:
@@ -1164,7 +1164,7 @@ translate italiantl _call_skipcheck_2_35e7a623:
 translate italiantl _call_skipcheck_2_ff60882c:
 
     # m "She was quick to produce a small device from a drawer, which from a glance reminded me a lot of a test tube."
-    m "Si affrettò a produrre da un cassetto un piccolo dispositivo, che a prima vista mi ricordò una provetta."
+    m "Si affrettò a produrre da un cassetto un piccolo dispositivo, che a prima vista mi ricordò una provetta." # "reminded me [a lot] of a test tube"
 
 # game/chapter1.rpy:1482
 translate italiantl _call_skipcheck_2_4cb93198:
@@ -1206,19 +1206,19 @@ translate italiantl _call_syscheck_4_32106a9e:
 translate italiantl _call_syscheck_4_62f75a4e:
 
     # s "You gave Anna your blood? Oh, well...{image=image/ui/status/havetestresults.png}"
-    s "Hai donato ad [An] il tuo sangue? Oh, be'... {image=image/ui/status/havetestresults.png}" # added space
+    s "Hai donato ad [An] il tuo sangue? Oh, beh... {image=image/ui/status/havetestresults.png}" # added space
 
 # game/chapter1.rpy:1515
 translate italiantl _call_syscheck_4_6ef34d2e:
 
     # An "Looks like your PDA is good, by the way, so we're just about done here."
-    An "Sembra che il vostro palmare sia a posto, quindi abbiamo quasi finito qui."
+    An "Ad ogni modo, sembra che il vostro palmare sia a posto, quindi abbiamo praticamente finito qui."
 
 # game/chapter1.rpy:1516
 translate italiantl _call_syscheck_4_efd29328:
 
     # An "And since we're both in biology, it could be interesting if you want to meet me some other time as well. Here's my number."
-    An "E dal momento che studiamo entrambɜ biologia, potrebbe essere interessante se mi volessi incontrare anche un'altra volta. Ecco il mio numero."
+    An "E dal momento che ci occupiamo entrambɜ di biologia, potrebbe essere interessante se mi volessi incontrare anche un'altra volta. Ecco il mio numero."
 
 # game/chapter1.rpy:1517
 translate italiantl _call_syscheck_4_86148265:
@@ -1236,7 +1236,7 @@ translate italiantl _call_syscheck_4_46986bde:
 translate italiantl _call_syscheck_4_ee80c080:
 
     # c "Well, that was interesting."
-    c "Be', è stato interessante."
+    c "Beh, è stato interessante."
 
 # game/chapter1.rpy:1529
 translate italiantl _call_syscheck_4_aa6687bb:
@@ -1272,7 +1272,7 @@ translate italiantl _call_syscheck_4_c48dc32f:
 translate italiantl _call_syscheck_4_f0387be4:
 
     # Rz "Oh... Well, it's your choice. We've got no idea what they might do with it, though."
-    Rz "Oh... Be', è una tua scelta. Anche se non abbiamo idea di cosa possano farsene."
+    Rz "Oh... Beh, è una tua scelta. Anche se non abbiamo idea di cosa possano farsene."
 
 # game/chapter1.rpy:1542
 translate italiantl _call_syscheck_4_9bb48a13:
@@ -1296,7 +1296,7 @@ translate italiantl _call_syscheck_4_f6fea122:
 translate italiantl _call_syscheck_4_0facad65:
 
     # Mv "I wouldn't mind to grab a bite myself."
-    Mv "Non mi dispiacerebbe mangiare un boccone."
+    Mv "Non mi dispiacerebbe mangiare un boccone." # "to grab a bite [myself]"
 
 # game/chapter1.rpy:1553
 translate italiantl _call_syscheck_4_714176d2:
@@ -1368,13 +1368,13 @@ translate italiantl _call_skipcheck_3_3bf4c97d:
 translate italiantl _call_skipcheck_3_600f3c23:
 
     # m "We were approached by an individual who appeared to be the waitress of the café. She was an interesting-looking dragon, who - unlike the others I had seen so far - was more akin to a wyvern, possessing two rather large wings as her forelimbs, which resembled those of an oversized bat."
-    m "Fummo avvicinati da un individuo che pareva essere la cameriera della caffetteria. Era una dragonessa dall'aspetto interessante, la quale—a differenza degli altri che avevo visto finora—era più simile a una viverna, possedendo due ali piuttosto grandi come arti anteriori, che somigliavano a quelle di un pipistrello fuori misura." # corrected em-dash
+    m "Fummo avvicinati da un individuo che pareva essere la cameriera della caffetteria. Era una dragonessa dall'aspetto interessante, la quale—a differenza degli altri draghi che avevo visto finora—era più simile a una viverna, possedendo come arti anteriori due ali piuttosto grandi, che somigliavano a quelle di un pipistrello fuori misura." # corrected em-dash; "a interesting-looking dragonESS", "unlike the other[s] DRAGONS"
 
 # game/chapter1.rpy:1651
 translate italiantl _call_skipcheck_3_68833c8b:
 
     # "???" "Oh, it's the humans!"
-    "???" "Oh, sono gli umani!"
+    "??? " "Oh, sono gli umani!"
 
 # game/chapter1.rpy:1662
 translate italiantl _call_skipcheck_3_3bf4c97d_1:
@@ -1464,7 +1464,7 @@ translate italiantl _call_skipcheck_3_0fd8eb86:
 translate italiantl _call_skipcheck_3_ad30f800:
 
     # m "When I let my gaze wander, I saw that Maverick was looking in my direction. Our eyes met briefly, his expression not showing any discernible emotion, while I wondered whether it had just been a coincidence or if he really was able to hear us from the distance."
-    m "Quando lasciai vagare lo sguardo, vidi che [Mv] guardava nella mia direzione. I nostri occhi si incontrarono brevemente, la sua espressione non mostrava alcuna emozione discernibile, mentre mi domandavo se fosse stata solo una coincidenza o se fosse davvero in grado di sentirci dalla distanza."
+    m "Quando lasciai vagare lo sguardo, vidi che [Mv] guardava nella mia direzione. I nostri occhi si incontrarono brevemente—la sua espressione non mostrava alcuna emozione discernibile—mentre mi domandavo se fosse stata solo una coincidenza o se fosse davvero in grado di sentirci dalla distanza."
 
 # game/chapter1.rpy:1732
 translate italiantl _call_skipcheck_3_eb44c2be:
@@ -1506,7 +1506,7 @@ translate italiantl _call_skipcheck_3_761a7bf3:
 translate italiantl _call_skipcheck_3_bfc7dc06:
 
     # m "The female returned, astounding me with her ability to balance the dishes on the edges of her wings. She placed her forelimb on the table and proceeded to move the dishes from her wing to us with a gentle push of her snout."
-    m "La dragonessa ritornò, sorprendendomi con la sua capacità di bilanciare i piatti sui bordi delle sue ali. Poggiò il suo arto anteriore sul tavolo e procedette a spostare i piatti dalla sua ala verso di noi con una leggera spinta del muso." # femmina (sembra sessista) -> dragonessa/cameriera a scelta
+    m "La dragonessa ritornò, sorprendendomi con la sua capacità di bilanciare i piatti sui bordi delle sue ali. Poggiò il suo arto anteriore sul tavolo e procedette a spostare i piatti dalla sua ala verso di noi con una leggera spinta del muso." # "femmina" (sembra sessista) -> "dragonessa/cameriera" a scelta
 
 # game/chapter1.rpy:1748
 translate italiantl _call_skipcheck_3_67f50da2:
@@ -1539,19 +1539,19 @@ translate italiantl _call_skipcheck_3_2355e57c:
 translate italiantl _call_skipcheck_3_f73d296c:
 
     # m "To be honest, I was a little skeptical of the kind of coffee they might come up with in a place like this, but after a mouthful I had to admit it wasn't so bad. I've certainly had much worse before."
-    m "Ad essere onesti, ero un tantino scetticə del genere di caffè che avrebbero potuto fare in un posto come questo, ma dopo un sorso dovetti ammettere che non era poi così male. Ne avevo certamente bevuto di peggio prima." # "I've certainly had [much] worse"
+    m "Ad essere onesti, ero un tantino scetticə del genere di caffè che avrebbero potuto fare in un posto come questo, ma dopo un sorso dovetti ammettere che non era poi così male. Ne avevo certamente bevuto di peggio in passato." # "come up with" -> "make", "I've certainly had [much] worse"
 
 # game/chapter1.rpy:1777
 translate italiantl _call_skipcheck_3_cb9d0dd9:
 
     # m "I was wondering what kind of breakfast could be had in a place like this, but I was pleasantly surprised to find it quite as I was used to. The only real difference was that they apparently didn't use cutlery."
-    m "Mi domandai che genere di colazione potessero servire in un posto come questo, ma restai piacevolmente sorpresə nel scoprirla piuttosto simile a quant'ero abituatə. L'unica vera differenza era che apparentemente loro non usavano posate."
+    m "Mi domandai che genere di colazione potessero servire in un posto come questo, ma restai piacevolmente sorpresə nello scoprirla piuttosto simile a quant'ero abituatə. L'unica vera differenza era che apparentemente loro non usavano posate."
 
 # game/chapter1.rpy:1780
 translate italiantl _call_skipcheck_3_141c5d6a:
 
     # m "Apparently today's special consisted of an odd-looking fish of some sort. I was a little hesitant to try it, but considering the steam coming from it, it was probably better to wait a few minutes anyway."
-    m "Apparentemente il piatto del giorno consisteva in un qualche tipo di pesce dallo strano aspetto. Ero un tantino tituttante a provarlo, ma considerando il vapore che emanava, probabilmente sarebbe stato meglio aspettare qualche minuto in ogni caso."
+    m "Apparentemente il piatto del giorno consisteva in un qualche tipo di pesce dallo strano aspetto. Ero un tantino riluttante a provarlo, ma considerando il vapore che emanava, probabilmente sarebbe stato meglio aspettare qualche minuto in ogni caso." # "coming from it" -> "emanating from it"
 
 # game/chapter1.rpy:1782
 translate italiantl _call_skipcheck_3_668be73b:
@@ -1569,25 +1569,25 @@ translate italiantl _call_skipcheck_3_55feee46:
 translate italiantl _call_skipcheck_3_cac943c3:
 
     # m "Reza rose from his seat before he made it known to me that he still had a few things to do and left the restaurant, followed shortly after by the larger of the two dragons."
-    m "[Rz] si alzò dal suo posto prima di farmi sapere che aveva ancora alcune cose da fare e lasciò la caffetteria, seguito di lì a poco dal più grosso dei due draghi." # restaurant -> café for continuity
+    m "[Rz] si alzò dal suo posto prima di farmi sapere che aveva ancora alcune cose da fare e lasciò il ristorante, seguito di lì a poco dal più grande dei due draghi."
 
 # game/chapter1.rpy:1791
 translate italiantl _call_skipcheck_3_a4e9199d:
 
     # c "But you haven't even touched your... fish."
-    c "Ma non hai nemmeno toccato il tuo... cibo." # fish -> food for avoid double meaning
+    c "Ma non hai nemmeno toccato il tuo... cibo." # "fish" -> "food" to avoid double meaning
 
 # game/chapter1.rpy:1792
 translate italiantl _call_skipcheck_3_8d2721c9:
 
     # m "I wasn't in a hurry, so I spent a few more minutes in contemplation while I looked out the window."
-    m "Non andavo di fretta, perciò trascorsi ancora qualche altro minuto in contemplazione mentre guardavo fuori dalla finestra."
+    m "Non andavo di fretta, perciò trascorsi ancora qualche minuto in contemplazione mentre guardavo fuori dalla finestra."
 
 # game/chapter1.rpy:1793
 translate italiantl _call_skipcheck_3_1ccb67dc:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m "Come se tutta questa situazione non fosse stata già abbastanza bizzarra, adesso si presentiva anche il vago senso di pericolo trasmesso dalle parole di [Rz].\n Non avevo nemmeno idea di che tipo di minaccia potesse annidarsi là fuori."
+    m "Come se tutta questa situazione non fosse stata già abbastanza bizzarra, adesso si presentiva anche il vago senso di pericolo trasmesso dalle parole di [Rz]. Non avevo nemmeno idea di che tipo di minaccia potesse annidarsi là fuori." # "Reza's [earlier] words"
 
 # game/chapter1.rpy:1794
 translate italiantl _call_skipcheck_3_d54bfe60:
@@ -1605,19 +1605,19 @@ translate italiantl _call_skipcheck_3_0da74151:
 translate italiantl _call_skipcheck_3_abca11aa:
 
     # m "I wasn't in a hurry, so I spent a few more minutes in contemplation while I looked out the window and finished my coffee."
-    m "Non andavo di fretta, perciò trascorsi ancora qualche altro minuto in contemplazione mentre guardavo fuori dalla finestra e finivo il mio caffè."
+    m "Non andavo di fretta, perciò trascorsi ancora qualche minuto in contemplazione mentre guardavo fuori dalla finestra e finivo il mio caffè." # see line 1792
 
 # game/chapter1.rpy:1801
 translate italiantl _call_skipcheck_3_1ccb67dc_1:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m "Come se tutta questa situazione non fosse stata già abbastanza bizzarra, adesso si presentiva anche il vago senso di pericolo trasmesso dalle parole di [Rz].\n Non avevo nemmeno idea di che tipo di minaccia potesse annidarsi là fuori."
+    m "Come se tutta questa situazione non fosse stata già abbastanza bizzarra, adesso si presentiva anche il vago senso di pericolo trasmesso dalle parole di [Rz]. Non avevo nemmeno idea di che tipo di minaccia potesse annidarsi là fuori." # see line 1793
 
 # game/chapter1.rpy:1802
 translate italiantl _call_skipcheck_3_82a88f03:
 
     # m "Eventually, I got up, ready to be on my way for whatever else the day might bring."
-    m "Finalmente, mi alzai, prontə ad andare dovunque il giorno mi avrebbe portato."
+    m "Finalmente, mi alzai, prontə ad andare dovunque il giorno mi avrebbe portato." # see line 1794; "for whatever [else] the day might bring" -> "for wherever the day might take ME"
 
 # game/chapter1.rpy:1805
 translate italiantl _call_skipcheck_3_0da74151_1:
@@ -1629,19 +1629,19 @@ translate italiantl _call_skipcheck_3_0da74151_1:
 translate italiantl _call_skipcheck_3_c71f2cb3:
 
     # m "I wasn't in a hurry, so I spent a few more minutes in contemplation while I looked out the window and finished my breakfast."
-    m "Non andavo di fretta, perciò trascorsi ancora qualche altro minuto in contemplazione mentre guardavo fuori dalla finestra e finivo la mia colazione."
+    m "Non andavo di fretta, perciò trascorsi ancora qualche minuto in contemplazione mentre guardavo fuori dalla finestra e finivo la mia colazione." # see line 1800
 
 # game/chapter1.rpy:1807
 translate italiantl _call_skipcheck_3_1ccb67dc_2:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m "Come se tutta questa situazione non fosse stata già abbastanza bizzarra, adesso si presentiva anche il vago senso di pericolo trasmesso dalle parole di [Rz].\n Non avevo nemmeno idea di che tipo di minaccia potesse annidarsi là fuori."
+    m "Come se tutta questa situazione non fosse stata già abbastanza bizzarra, adesso si presentiva anche il vago senso di pericolo trasmesso dalle parole di [Rz]. Non avevo nemmeno idea di che tipo di minaccia potesse annidarsi là fuori." # see line 1793
 
 # game/chapter1.rpy:1808
 translate italiantl _call_skipcheck_3_82a88f03_1:
 
     # m "Eventually, I got up, ready to be on my way for whatever else the day might bring."
-    m "Finalmente, mi alzai, prontə ad andare dovunque il giorno mi avrebbe portato."
+    m "Finalmente, mi alzai, prontə ad andare dovunque il giorno mi avrebbe portato." # see line 1802
 
 # game/chapter1.rpy:1812
 translate italiantl _call_skipcheck_3_1c70acf7:
@@ -1751,7 +1751,7 @@ translate italiantl _call_syscheck_6_88cd86e7:
     # nvl clear
     # m "My thoughts were interrupted as something suddenly zipped past me just a little too close, causing me to stumble back. It was a rather small dragon with a bag clamped in its maw who apparently had somewhere to be."
     nvl clear
-    m "I miei pensieri furono interrotti quando qualcosa all'improvviso mi sfrecciò a fianco, un po' troppo vicino, facendomi incespicare all'indietro. Era un drago piuttosto minuto con una borsa serrata nelle fauci che apparentemente andava di fretta." # busta in borsa per corrispondere alle immagini
+    m "I miei pensieri furono interrotti quando qualcosa all'improvviso mi sfrecciò a fianco un po' troppo vicino, facendomi incespicare all'indietro. Era un drago piuttosto minuto con una borsa serrata nelle fauci che apparentemente andava di fretta." # "[just] a little too close", "busta" -> "borsa" per corrispondere alle immagini
 
 # game/chapter1.rpy:1879
 translate italiantl _call_syscheck_6_394829b3:
@@ -1787,7 +1787,7 @@ translate italiantl _call_syscheck_6_e9146df2:
 translate italiantl _call_syscheck_6_09595634:
 
     # Sb "Well, too late for that now."
-    Sb "Be', troppo tardi per quello ormai."
+    Sb "Beh, troppo tardi per quello ormai."
 
 # game/chapter1.rpy:1901
 translate italiantl _call_syscheck_6_61dd893b:
@@ -1829,7 +1829,7 @@ translate italiantl _call_syscheck_6_936e0f77:
 translate italiantl _call_syscheck_6_2dd88010:
 
     # Sb "Well, if you need anything, I'll be outside until my shift ends. Otherwise, I'll see you tomorrow."
-    Sb "Be', se hai bisogno di qualcosa, sarò qui fuori fino alla fine del mio turno. Altrimenti, ci vediamo domani."
+    Sb "Beh, se hai bisogno di qualcosa, sarò qui fuori fino alla fine del mio turno. Altrimenti, ci vediamo domani."
 
 # game/chapter1.rpy:1918
 translate italiantl _call_syscheck_6_f37e170c:
@@ -1853,19 +1853,19 @@ translate italiantl _call_syscheck_6_76b2fe88:
 translate italiantl _call_syscheck_6_221afd4f:
 
     # n "I hadn't really looked at the apartment much, so I spent the rest of the day investigating it and relaxing. I considered checking out some of the phone numbers Remy had left me, but I thought it was better to keep a low profile for now."
-    n "Non avevo visto poi granché dell'appartamento, perciò trascorsi il resto della giornata a esplorarlo e a rilassarmi. Considerai di consultare alcuni dei numeri di telefono che [Ry] mi aveva lasciato, ma pensai fosse meglio mantenere un basso profilo per il momento."
+    n "Non avevo visto poi granché dell'appartamento, perciò trascorsi il resto della giornata a esplorarlo e a rilassarmi. Considerai di consultare alcuni dei numeri di telefono che [Ry] mi aveva lasciato, ma pensai fosse meglio mantenere un basso profilo per il momento." # "investigating it" -> "exploring it"
 
 # game/chapter1.rpy:1936
 translate italiantl _call_syscheck_6_bb967794:
 
     # n "I found the kitchen fully stocked with plenty of groceries, though the variety was wasted on me. I hadn't been a particularly great cook in the first place, but what was more, I didn't even recognize some of the things I found there."
-    n "Trovai la cucina completamente fornita di cibarie in abbondanza, sebbene una tale varietà fosse sprecata con me. Tanto per cominciare non sapevo cucinare particolarmente bene, ma il peggio era che non riconoscevo nemmeno alcune delle cose che erano presenti." # "the variety" -> "such variety"
+    n "Trovai la cucina completamente fornita di cibarie in abbondanza, sebbene una tale varietà fosse sprecata con me. Tanto per cominciare non cucinavo particolarmente bene, ma il peggio era che non riconoscevo nemmeno alcune delle cose che trovai." # "the variety" -> "such variety", "I found [there]"
 
 # game/chapter1.rpy:1937
 translate italiantl _call_syscheck_6_f529b0b1:
 
     # n "Whether they were edibles that we had back home that I just didn't know about, or something completely alien I wasn't sure, but I didn't want to take the risk of eating anything I didn't know."
-    n "Non sapevo se fossero alimenti presenti anche a casa, che semplicemente non conoscevo, o qualcosa di completamente alieno, non ero sicurə, ma non volli correre il rischio di mangiare qualcosa che non conoscevo." # edibles -> food, frase ristrutturata per migliorare la lettura
+    n "Non sapevo se fossero alimenti che avevamo anche a casa, a me sconosciuti, o qualcosa di completamente alieno, ma non volli correre il rischio di mangiare qualcosa che non conoscevo." # "edibles" -> "food", "that we ALSO had back home", "that I [just] didn't know about"; frase ristrutturata per migliorare la lettura
 
 # game/chapter1.rpy:1938
 translate italiantl _call_syscheck_6_afd5bd6d:
@@ -1885,13 +1885,13 @@ translate italiantl _call_syscheck_6_05824446:
 translate italiantl _call_syscheck_6_27ce47bd:
 
     # n "While I found the subject matter of {i}Man: Myth or Reality?{/i} to be quite intriguing, I had to give up after just a few pages due to its exceptionally dry writing style, which I wasn't inclined to enjoy at the moment." # reference to a fake book called "Is man a myth" from The Lion, the Witch and the Wardrobe
-    n "Per quanto trovassi l'argomento di {i}Umani: Mito o Realtà?{/i} piuttosto intrigante, dovetti cedere dopo solo qualche pagina a causa del suo stile di scrittura eccezionalmente asciutto, il quale al momento non ero incline ad apprezzare." # man -> human
+    n "Per quanto trovassi l'argomento di {i}Uomo: Mito o Realtà?{/i} piuttosto intrigante, dovetti cedere dopo solo qualche pagina a causa del suo stile di scrittura eccezionalmente asciutto, il quale al momento non ero incline ad apprezzare."
 
 # game/chapter1.rpy:1942
 translate italiantl _call_syscheck_6_a13f6eb8:
 
     # n "In the end, I settled for an adventure novel about a dragon archaeologist who stumbles upon the remains of a long lost human civilization, after which she is hunted by an evil organization who wants to use the found magical artifacts for its own, nefarious purposes."
-    n "Alla fine, mi accontentai di un romanzo di avventura su una dragonessa archeologa che si imbatte nei resti di una civiltà umana a lungo perduta, susseguentemente braccata da un organizzazione malvagia che intende sfruttare i ritrovati manufatti magici per i propri scopi nefasti."
+    n "Alla fine, mi accontentai di un romanzo di avventura su una dragonessa archeologa che si imbatte nei resti di una civiltà umana a lungo perduta, dopodiché è braccata da un'organizzazione malvagia che intende sfruttare i ritrovati manufatti magici per i propri scopi nefasti."
 
 # game/chapter1.rpy:1943
 translate italiantl _call_syscheck_6_f3eb79d8:
@@ -1917,7 +1917,7 @@ translate italiantl _call_syscheck_6_76b2fe88_1:
 translate italiantl _call_syscheck_6_b5f20e45:
 
     # "???" "Hello there! Would you please sign here?"
-    "???" "Ehilà! Firmeresti qui gentilmente?"
+    "??? " "Ehilà! Firmeresti qui gentilmente?"
 
 # game/chapter1.rpy:1997
 translate italiantl _call_syscheck_6_46eba8f0:
@@ -1929,7 +1929,7 @@ translate italiantl _call_syscheck_6_46eba8f0:
 translate italiantl _call_syscheck_6_c83245e4:
 
     # "???" "I've got a letter for you that requires signature confirmation."
-    "???" "Ho qui una lettera per te che richiede una firma di riscontro."
+    "??? " "Ho qui una lettera per te che richiede una firma di riscontro."
 
 # game/chapter1.rpy:2001
 translate italiantl _call_syscheck_6_89aefe22:
@@ -1989,13 +1989,13 @@ translate italiantl _call_syscheck_6_3b272ad6:
 translate italiantl _call_syscheck_6_a1a7cf43:
 
     # Lo relieved b flip "Help me out here, [player_name]. As an ambassador, you care about the accurate portrayal of humans in the media, don't you?"
-    Lo relieved b flip "Dammi una mano, [player_name]. Come messə, ti preoccuperà una rappresentazione accurata degli umani nei media, non è così?" # "the accurate portrayal" -> "an accurate portrayal"
+    Lo relieved b flip "Dammi una mano, [player_name]. Come ambasciatorə, ti preoccuperà una rappresentazione accurata degli umani nei media, non è così?" # "the accurate portrayal" -> "an accurate portrayal"
 
 # game/chapter1.rpy:2029
 translate italiantl _call_syscheck_6_27ab87a8:
 
     # Lo happy b flip "Then you should talk to me. Otherwise, someone else will fill in the blanks and who knows what they will come up with."
-    Lo happy b flip "Allora dovresti parlare con me. Altrimenti, qualcun altro riempirà i buchi e chissà cosa potrebbe inventarsi."
+    Lo happy b flip "Allora dovresti parlare con me. Altrimenti, qualcun altro riempirà le lacune e chissà cosa potrebbe inventarsi."
 
 # game/chapter1.rpy:2031
 translate italiantl _call_syscheck_6_d1179078:
@@ -2055,7 +2055,7 @@ translate italiantl _call_syscheck_6_9d8dad31:
 translate italiantl _call_syscheck_6_ffdd2402:
 
     # c "I see. That sounds pretty interesting, though."
-    c "Capisco. In ogni caso, sembra piuttosto interessante."
+    c "Capisco. Comunque, sembra piuttosto interessante."
 
 # game/chapter1.rpy:2053
 translate italiantl _call_syscheck_6_fbc14d2f:
@@ -2079,13 +2079,13 @@ translate italiantl _call_syscheck_6_d047da4e:
 translate italiantl _call_syscheck_6_786007d9:
 
     # Sb disapproval b "Alright, you got what you wanted. Off you go, now."
-    Sb disapproval b "D'accordo, hai avuto quel che volevi. Adesso va via."
+    Sb disapproval b "D'accordo, hai avuto quel che volevi. Ora va' via."
 
 # game/chapter1.rpy:2077
 translate italiantl _call_syscheck_6_9e99e262:
 
     # Lo "Eeeeeeeeeeeee~!"
-    Lo "Eeeeeeeeeeeee~!"
+    Lo "Eeeeeeeeeeeee~! "
 
 # game/chapter1.rpy:2079
 translate italiantl _call_syscheck_6_2997ffea:
@@ -2127,7 +2127,7 @@ translate italiantl _call_syscheck_6_f84a7975:
 translate italiantl _call_syscheck_6_130a299e:
 
     # n "When I started reading, however, I saw that his wording was so full of the pleasantries I knew he hated that I assumed every word of it was faked as to conceal its true intent."
-    n "Quando iniziai a leggere, tuttavia, vidi che il suo modo di esprimersi era zeppo di convenevoli che sapevo odiava, presunsi che ogni parola fosse stata inscenata in modo da dissimulare il suo vero intento."
+    n "Quando iniziai a leggere, tuttavia, vidi che il suo modo di esprimersi era così zeppo di convenevoli che sapevo odiava, che ebbi a presumere che ogni parola fosse stata inscenata in modo da dissimulare il suo vero intento."
 
 # game/chapter1.rpy:2103
 translate italiantl _call_syscheck_6_5dc3c29d:
@@ -2317,7 +2317,7 @@ translate italiantl increasing_a25ed8f3:
 translate italiantl increasing_43f2e8f5:
 
     # c "(Why am I even still doing this?)"
-    c "(Perché lo sto ancora facendo?)"
+    c "(Ma perché lo sto ancora facendo?)"
 
 # game/chapter1.rpy:2253
 translate italiantl increasing_a0b98dc0:
@@ -2341,7 +2341,7 @@ translate italiantl increasing_6e5d4325:
 translate italiantl elsewhere_b153aad5:
 
     # m "Or maybe he referred to the fact that we were both given an apartment. Considering the things they provided for us, maybe I just had to find the right object to decode the message. There were many everyday items here, though, and of course I still had no idea what in particular I was looking for."
-    m "Oppure forse si riferiva al fatto che avevano dato a entrambi un appartamento. Considerando le cose di cui ci avevano provvisto, forse avrei solo dovuto trovare l'oggetto giusto per decifrare il messaggio. Qui però c'erano molti articoli d'uso comune e ovviamente non avevo ancora idea di cosa stessi cercando in particolare."
+    m "Oppure forse si riferiva al fatto che avevano dato a entrambi un appartamento. Considerando le cose di cui ci avevano provvisto, forse avrei solo dovuto trovare l'oggetto giusto per decifrare il messaggio. Qui però vi erano molti articoli d'uso comune, e ovviamente non avevo ancora idea di cosa stessi cercando in particolare."
 
 # game/chapter1.rpy:2296
 translate italiantl menu5_a4fe5d75:
@@ -2407,13 +2407,13 @@ translate italiantl _call_syscheck_7_133cdd03:
 translate italiantl _call_syscheck_7_a455b8f2:
 
     # n "Like a wrecking ball, he came out of nothing, breaking all the barriers and entered my life. Two weeks ago, I was nothing. Today, I am the happiest dragon alive. Who knew that out of all the people alive, it only took the right one to right life itself." # wrecking ball is a reference to the miley cyrus song
-    n "Come una palla demolitrice, è saltato fuori dal nulla, rompendo ogni barriera ed è entrato nella mia vita. Due settimane fa, non ero nulla. Oggi, sono la dragonessa più felice del mondo. Chi immaginava che di tutte le persone al mondo, sarebbe bastato trovare quella giusta per aggiustare la vita stessa."
+    n "Come una palla demolitrice, è saltato fuori dal nulla, rompendo ogni barriera ed è entrato nella mia vita. Due settimane fa, non ero nulla. Oggi, sono la dragonessa più felice del mondo. Chi immaginava che di tutte le persone al mondo, bastava trovare quella giusta per aggiustare la vita stessa."
 
 # game/chapter1.rpy:2352
 translate italiantl _call_syscheck_7_43576349:
 
     # n "Who knew that to meet the perfect one, the only thing you needed was..."
-    n "Chi l'avrebbe mai detto che per incontrare quello perfetto, la sola cosa che serviva era..."
+    n "Chi immaginava che per incontrare quello perfetto, la sola cosa che serviva era..."
 
 # game/chapter1.rpy:2355
 translate italiantl _call_syscheck_7_d58440a5:
@@ -2443,7 +2443,7 @@ translate italiantl _call_syscheck_7_c955ae7b:
 translate italiantl _call_syscheck_7_5bf94afa:
 
     # n "It was a dark and stormy night. Relentlessly pouring was the rain outside, periodically interrupted by the loud echo of thunder, again and again. So quick had its roaring staccato become that it almost seemed like someone was pounding against the door. No, someone really was pounding on the door right now. The door swiftly opened and the moment for which the house's owner had waited decades finally was here."
-    n "Era una notte buia e tempestosa. Fuori cadeva incessantemente la pioggia, periodicamente interrotta dal forte eco dei tuoni, ancora e ancora. Così rapido era divenuto il loro ruggente staccato che era quasi come se qualcuno bussasse contro la porta. No, qualcuno bussava veramente alla porta in quel momento. La porta si aprì di scatto e la situazione che il proprietario della casa aveva atteso da decenni finalmente giunse."
+    n "Era una notte buia e tempestosa. Fuori cadeva incessantemente la pioggia, periodicamente interrotta dal forte eco dei tuoni, ancora e ancora. Così rapido era divenuto il loro ruggente staccato che era quasi come se qualcuno picchiasse contro la porta. No, qualcuno picchiava veramente alla porta in quel momento. La porta si aprì di scatto e il momento che il proprietario della casa aveva atteso da decenni finalmente giunse."
 
 # game/chapter1.rpy:2369
 translate italiantl _call_syscheck_7_821d6d0f:
@@ -2463,7 +2463,7 @@ translate italiantl _call_syscheck_7_cb0d94b1:
     # nvl clear
     # n "Hiro quickly stabbed him with his Magi-pen, a lethal hit which caused the human invader to slump to the ground instantly, his last words being \"D...Damn y-you... Hiro.. this... i-is... not... over... y-y... yet.\" while he melded into a red blotch, blotching up Hiro's carpet."
     nvl clear
-    n "Hiro lo accoltellò rapidamente con la sua Magi-penna, un colpo letale che indusse l'invasore umano a stramazzare al suolo all'istante, le sue ultime parole furono \"T...Tu sia dannato... Hiro... n-non... è... ancora... f-f...finita.\" mentre si fondeva in una chiazza rossa, chiazzando la tappezzeria di Hiro." # corrected ellipsis
+    n "Hiro lo accoltellò rapidamente con la sua Magi-penna, un colpo letale che indusse l'invasore umano a stramazzare al suolo all'istante—le sue ultime parole furono \"T...Tu sia dannato... Hiro... n-non... è... ancora... f-f...finita.\" mentre si fondeva in una chiazza rossa, chiazzando la tappezzeria di Hiro." # corrected ellipsis
 
 # game/chapter1.rpy:2373
 translate italiantl _call_syscheck_7_8232aab7:
@@ -2553,7 +2553,7 @@ translate italiantl _call_syscheck_7_cee76091:
 translate italiantl _call_syscheck_7_307485c8:
 
     # n "In the 1422nd year since our ascent to sentience, a most extraordinary chain of events led to the most extraordinary of circumstances in our politics and society."
-    n "Nel 1422º anno dalla nostra ascesa alla consapevolezza, la più straordinaria catena di eventi condusse alla più straordinaria delle circostanze nelle nostre politica e società."
+    n "Nell'anno 1422º dalla nostra ascesa alla consapevolezza, la più straordinaria catena di eventi condusse alla più straordinaria delle circostanze nelle nostre politica e società."
 
 # game/chapter1.rpy:2412
 translate italiantl _call_syscheck_7_f856dbde:
@@ -2571,7 +2571,7 @@ translate italiantl _call_syscheck_7_5c77d342:
 translate italiantl _call_syscheck_7_dd0a95c7:
 
     # n "This is not just for my own personal gain, as I hope to make this story available to a larger audience than just a few who have permission to visit the archives."
-    n "Ciò non è solo a mio tornaconto personale, siccome spero di rendere questo racconto accessibile ad un pubblico più ampio che non solo ai pochi che detengono il permesso di visitare gli archivi." # "a few" -> "the few"
+    n "Ciò non è solo a mio tornaconto personale, siccome spero di rendere questo racconto accessibile a un pubblico più ampio che non solo ai pochi che detengono il permesso di visitare gli archivi." # "a few" -> "the few"
 
 # game/chapter1.rpy:2415
 translate italiantl _call_syscheck_7_7b767495:
@@ -2663,7 +2663,7 @@ translate italiantl _call_syscheck_7_f33190c8:
 translate italiantl _call_syscheck_7_4f1f0b5f:
 
     # c "(Maybe Reza left me another message here at some point. He could've known that I was going to live here, so I suppose it is possible that he helped with the preparations and hid something for me to find.)"
-    c "(Forse [Rz] mi ha lasciato un altro messaggio qui a un certo punto. Potrebbe aver saputo che avrei vissuto qui, quindi suppongo sia possibile che abbia dato una mano coi preparativi e nascosto qualcosa perché io la trovassi.)"
+    c "(Forse [Rz] mi ha lasciato un altro messaggio qui a un certo punto. Potrebbe aver saputo che avrei vissuto qui, quindi suppongo sia possibile che abbia dato una mano coi preparativi e nascosto qualcosa perché io lo trovassi.)"
 
 # game/chapter1.rpy:2466
 translate italiantl _call_syscheck_7_d0a1ba27:
@@ -2717,7 +2717,7 @@ translate italiantl medmenu_1833821b:
 translate italiantl medmenu_784f0a27:
 
     # c "(How long was I gone? And why did I think eating a whole bottle of pain medication would somehow help with my search?)"
-    c "(Per quanto sono svenutə? E perché ho pensato che prendere un intero flacone di antidolorifici mi avrebbe in qualche modo aiutato con la ricerca?)"
+    c "(Per quanto sono svenutə? E perché ho pensato che inghiottire un intero flacone di antidolorifici mi avrebbe in qualche modo aiutato con la ricerca?)"
 
 # game/chapter1.rpy:2542
 translate italiantl _call_syscheck_8_639a756b:
@@ -2807,7 +2807,7 @@ translate italiantl _call_syscheck_9_5ffd7263:
 translate italiantl _call_syscheck_9_4e61119b:
 
     # c "(It's an unlabeled container with some sort of white liquid inside. Well, here goes nothing.)"
-    c "(È un contenitore senza etichetta con una qualche sorta di liquido bianco al suo interno. Be', o la va o la spacca.)"
+    c "(È un contenitore senza etichetta con una qualche sorta di liquido bianco al suo interno. Beh, o la va o la spacca.)"
 
 # game/chapter1.rpy:2642
 translate italiantl _call_syscheck_9_fe477319:
@@ -2855,7 +2855,7 @@ translate italiantl _call_syscheck_11_763e13c5:
 translate italiantl _call_syscheck_11_488ed202:
 
     # s "You learned a lot about fruits. Could've added a few more puns, though."
-    s "Hai imparato molto sui frutti. Tuttavia potevi anche aggiungerci qualche gioco di parole in più."
+    s "Hai imparato molto sui frutti. Comunque, potevi anche aggiungerci qualche gioco di parole in più."
 
 # game/chapter1.rpy:2722
 translate italiantl _call_syscheck_11_7b6290e9:
@@ -2951,19 +2951,19 @@ translate italiantl _call_syscheck_11_18b2fbb7:
 translate italiantl _call_syscheck_11_a1bbec6a:
 
     # m "I was sitting next to him in class when we learned that. He made a joke about using the method to cheat on the next test, and I replied by saying he'd have to bring an iron. Had he really expected me to remember a random chemistry class that happened years ago? But then, I did remember it after all."
-    m "Sedevo accanto a lui a lezione quando lo avevamo imparato. Lui aveva scherzato sul fatto di usare il metodo per imbrogliare al successivo esame, mentre io avevo risposto dicendo che avrebbe dovuto portarsi un ferro da stiro. Si era veramente aspettato che mi ricordassi una lezione di chimica a caso avvenuta anni prima? D'altra parte, dopotutto in effetti me n'ero ricordatə."
+    m "Sedevo accanto a lui a lezione quando lo avevamo imparato. Lui aveva scherzato sul fatto di usare il metodo per imbrogliare al successivo esame, al che io avevo risposto dicendo che avrebbe dovuto portarsi un ferro da stiro. Si era veramente aspettato che mi ricordassi una lezione di chimica a caso avvenuta anni prima? D'altra parte, dopotutto in effetti me n'ero ricordatə."
 
 # game/chapter1.rpy:2766
 translate italiantl _call_syscheck_11_8edd6174:
 
     # m "\"Meet me at the portal, tonight, 10pm\" was all the message said. I wasted a good amount of time, but I still had some left before I'd have to go out to meet Reza, so I decided to make some lunch."
-    m "\"Incontrami al portale, stanotte, 22:00\" era tutto ciò che il messaggio diceva. Avevo perso una buona quantità di tempo, ma me ne restava ancora un po' prima di dover uscire a incontrare [Rz], così decisi di fare qualcosa di cena." # "lunch" -> "dinner"
+    m "\"Incontrami al portale, stanotte, 22:00\" era tutto ciò che diceva il messaggio. Avevo perso una buona quantità di tempo, ma me ne restava ancora un po' prima di dover uscire per incontrare [Rz], così decisi di fare qualcosa per cena." # "lunch" -> "dinner"
 
 # game/chapter1.rpy:2769
 translate italiantl _call_syscheck_11_627767c7:
 
     # m "\"Meet me at the portal, tonight, 10pm\" was all the message said. I wasted a good amount of time, but I still had some left before I'd have to go out to meet Reza, so I decided to make some lunch. I could've made some scrambled eggs if I hadn't broken them all earlier."
-    m "\"Incontrami al portale, stanotte, alle 22:00\" era tutto ciò che il messaggio diceva. Avevo perso una buona quantità di tempo, ma me ne restava ancora un po' prima di dover uscire per incontrare [Rz], così decisi di fare qualcosa per cena. Avrei anche potuto fare delle uova strapazzate se non le avessi rotte tutte prima." # "lunch" -> "dinner"
+    m "\"Incontrami al portale, stanotte, 22:00\" era tutto ciò che diceva il messaggio. Avevo perso una buona quantità di tempo, ma me ne restava ancora un po' prima di dover uscire per incontrare [Rz], così decisi di fare qualcosa per cena. Avrei anche potuto fare delle uova strapazzate se non le avessi rotte tutte prima." # see line 2766
 
 # game/chapter1.rpy:2771
 translate italiantl _call_syscheck_11_6d1e2555:
@@ -2987,7 +2987,7 @@ translate italiantl continuation_cfb5aca4:
 translate italiantl continuation_832fbb36:
 
     # m "When I got outside, it didn't seem quite as dark as it was when I arrived yesterday. I might have had difficulties finding my way, otherwise, but I could still see the portal in the distance."
-    m "Quando uscii fuori, non sembrava poi così buio come lo era stato quando ero arrivatə ieri. In caso contrario avrei potuto avere difficoltà a trovare la strada, ma invece potevo ancora scorgere il portale in lontananza."
+    m "Quando uscii fuori, non sembrava poi così buio come lo era stato quando ero arrivatə, ieri. In caso contrario avrei potuto avere difficoltà a trovare la strada, invece potevo ancora scorgere il portale in lontananza."
 
 # game/chapter1.rpy:2797
 translate italiantl continuation_0b0eb11f:
@@ -2999,7 +2999,7 @@ translate italiantl continuation_0b0eb11f:
 translate italiantl continuation_4bbd5c06:
 
     # m "Eventually, I arrived at my destination. Reza was already standing idly by the portal, his fidgeting making it obvious that he had waited just for me."
-    m "Finalmente, giunsi alla mia destinazione. [Rz] se ne stava già presso il portale, il suo fare irrequieto rendeva evidente come avesse aspettato soltanto me."
+    m "Finalmente, giunsi alla mia destinazione. [Rz] se ne stava già presso il portale—il suo fare irrequieto rendeva evidente come avesse aspettato soltanto me."
 
 # game/chapter1.rpy:2809
 translate italiantl continuation_3df38fec:
@@ -3011,19 +3011,19 @@ translate italiantl continuation_3df38fec:
 translate italiantl continuation_3bf4c97d:
 
     # Rz "..."
-    Rz "..."
+    Rz "... "
 
 # game/chapter1.rpy:2816
 translate italiantl continuation_3bf4c97d_1:
 
     # Rz "..."
-    Rz "..."
+    Rz "... "
 
 # game/chapter1.rpy:2819
 translate italiantl continuation_3bf4c97d_2:
 
     # Rz "..."
-    Rz "..."
+    Rz "... "
 
 # game/chapter1.rpy:2822
 translate italiantl continuation_5fa1e9f6:
@@ -3053,7 +3053,7 @@ translate italiantl continuation_49c2732d:
 translate italiantl continuation_edfb3488:
 
     # Rz "For one, because we're sending the generator home."
-    Rz "Per prima cosa, perchè stiamo per inviare il generatore a casa." # must match line 2837
+    Rz "Per prima cosa, perché stiamo per inviare il generatore a casa." # must match line 2837; "we're sending" -> "we're about to send"
 
 # game/chapter1.rpy:2835
 translate italiantl continuation_40fad199:
@@ -3083,13 +3083,13 @@ translate italiantl continuation_bde4f6a4:
 translate italiantl continuation_7d4645bd:
 
     # Rz "More than enough. I'm afraid this whole place will be gone soon. And we better not be here when it happens."
-    Rz "Quanto basta. Temo che quest'intero posto scomparirà presto. E faremmo meglio a non essere qui quando succederà."
+    Rz "Quanto basta. Temo che quest'intero posto scomparirà presto. E faremo meglio a non essere qui quando succederà."
 
 # game/chapter1.rpy:2843
 translate italiantl continuation_cc4c03c2:
 
     # Rz "You do? Well, then you know what we've got to do, right?"
-    Rz "Lo sai? Be', allora sai quello che dobbiamo fare, giusto?"
+    Rz "Lo sai? Beh, allora sai quello che dobbiamo fare, giusto?"
 
 # game/chapter1.rpy:2844
 translate italiantl continuation_9f85b645:
@@ -3119,7 +3119,7 @@ translate italiantl continuation_f763377c_1:
 translate italiantl continuation_fd1f97a7:
 
     # m "While he was speaking, my gaze wandered and fixed on some movement nearby. It was hard to make out anything, but I imagined it might just have been wind blowing through the nearby shrubbery. Except for the fact that there was no wind."
-    m "Mentre parlava, il mio sguardo cadde su un qualche movimento nei paraggi. Era difficile distinguere qualcosa, ma immaginai potesse essere stato solo il vento che soffiava fra i vicini cespugli. Eccetto per il fatto che non vi era alcun vento." # wording
+    m "Mentre parlava, il mio sguardo cadde su un qualche movimento nei paraggi. Era difficile distinguere qualcosa, ma immaginai potesse essere stato solo il vento che soffiava fra i vicini cespugli. Eccetto il fatto che non vi era alcun vento." # wording
 
 # game/chapter1.rpy:2855
 translate italiantl continuation_d8a637e9:
@@ -3173,7 +3173,7 @@ translate italiantl continuation_f23a06d3:
 translate italiantl continuation_ccc18971:
 
     # Mv "Don't try to deny it. I heard you both talking about it in the café, and I saw the letter. You think I couldn't smell the lemon on it? Pathetic. You'll have to come with me to the police station now, both of you."
-    Mv "Non provare a negarlo. Vi ho sentito entrambi parlarne in caffetteria e ho visto la lettera. Pensavate che non potessi fiutarvi sopra il limone? Patetico. Dovrete venire con me alla stazione di polizia adesso, entrambi." # "think" -> "thought"
+    Mv "Non provare a negarlo. Vi ho sentito entrambi parlarne in caffetteria, e ho visto la lettera. Pensavate che non potessi fiutarvi sopra il limone? Patetico. Dovrete venire con me alla stazione di polizia adesso, tutt'e due." # "think" -> "thought"
 
 # game/chapter1.rpy:2877
 translate italiantl continuation_4d0a51fa:
@@ -3209,7 +3209,7 @@ translate italiantl continuation_b002be4f:
 translate italiantl continuation_a868f086:
 
     # m "Suddenly, the dragon whipped around, hitting me in the guts with his thick tail. I was lifted off the ground briefly before I felt the impact of my body hitting the ground hard enough that my vision blurred almost immediately."
-    m "All'improvviso, il drago si voltò di scatto, colpendomi allo stomaco con la sua spessa coda. Fui sollevatə da terra brevemente prima di avvertire l'impatto del mio corpo che urtava il suolo abbastanza forte da offuscarmi la vista quasi immediatamente." # "that my vision blurred" -> "to blur my vision"
+    m "All'improvviso, il drago si voltò di scatto, colpendomi allo stomaco con la sua spessa coda. Fui sollevatə da terra brevemente prima di avvertire l'impatto del mio corpo che urtava il suolo abbastanza forte da offuscarmi la vista quasi sul colpo." # "that my vision blurred" -> "to blur my vision"
 
 # game/chapter1.rpy:2922
 translate italiantl continuation_c3aa840b:
@@ -3245,7 +3245,7 @@ translate italiantl continuation_f5a82162:
 translate italiantl continuation_7eb852c7:
 
     # "???" "Hey, kid. You alright?"
-    "???" "Ehi, ragazzə. Tutto bene?"
+    "??? " "Ehi, ragazzə. Tutto bene?"
 
 # game/chapter1.rpy:2956
 translate italiantl continuation_a8f3d766:
@@ -3335,7 +3335,7 @@ translate italiantl continuation_356de34c:
 translate italiantl continuation_45b58ace:
 
     # m "It didn't take very long, though, before the doorbell rang."
-    m "Non ci volle poi molto, prima che il campanello suonasse."
+    m "Non ci volle poi molto, però, prima che il campanello suonasse."
 
 # game/chapter1.rpy:3026
 translate italiantl continuation_e6336435:
@@ -3443,7 +3443,7 @@ translate italiantl continuation_ebde17ff:
 translate italiantl continuation_9362d609:
 
     # Br "He's suspecting you too, by the way. That you both planned this all from the beginning."
-    Br "Comunque sospetta anche di te. Che abbiate entrambi pianificato tutto questo sin dal principio."
+    Br "Comunque, sospetta anche di te. Che abbiate entrambi pianificato tutto questo sin dal principio."
 
 # game/chapter1.rpy:3066
 translate italiantl continuation_b759422a:
@@ -3491,7 +3491,7 @@ translate italiantl continuation_c4f759c6:
 translate italiantl continuation_dd21be7f:
 
     # c "We still got quite a lot on our hands now, though. We have a wounded dragon and a missing human. This could lead to a diplomatic crisis."
-    c "Adesso però abbiamo ancora parecchio per le mani. Abbiamo un drago ferito e un umano scomparso. Il che potrebbe portare a una crisi diplomatica." # "FOR now"
+    c "Adesso però abbiamo ancora parecchio per le mani. Abbiamo un drago ferito e un umano scomparso. Il che potrebbe portare a una crisi diplomatica."
 
 # game/chapter1.rpy:3081
 translate italiantl continuation_0195f9bc_1:
@@ -3521,7 +3521,7 @@ translate italiantl continuation_dd21be7f_2:
 translate italiantl continuation_e3c5319a:
 
     # Br "Maybe Reza will still show up soon and we can get all of this behind us."
-    Br "Magari [Rz] si farà vivo presto e potremo gettarci tutto questo alle spalle."
+    Br "Magari [Rz] si farà vivo presto e potremo gettarci tutto questo alle spalle." # "Reza will [still] show up soon"
 
 # game/chapter1.rpy:3091
 translate italiantl continuation_63eccaf9:
@@ -3605,7 +3605,7 @@ translate italiantl continuation_6e5c7142:
 translate italiantl continuation_e8f43124:
 
     # Br "Your cooperation would certainly be appreciated, and it would be a nice gesture to show us that you're trustworthy in the eyes of those who might think otherwise after what happened yesterday."
-    Br "La tua collaborazione sarebbe certamente apprezzata e sarebbe un bel gesto per dimostrarci che sei degnə di fiducia agli occhi di coloro che potrebbero pensarla diversamente dopo quanto è successo ieri."
+    Br "La tua collaborazione sarebbe certamente apprezzata, e sarebbe un bel gesto per dimostrarci che sei degnə di fiducia agli occhi di coloro che potrebbero pensarla diversamente dopo quanto è successo ieri."
 
 # game/chapter1.rpy:3144
 translate italiantl _call_syscheck_12_9f70b105:
@@ -3683,7 +3683,7 @@ translate italiantl investigation_41043505:
 translate italiantl investigation_431a0aec:
 
     # Br "I know it won't be pretty, and I'm sorry for putting you through this, but you know what's at stake here. Just remember what I told you and you should be fine."
-    Br "So che non sarà piacevole e mi dispiace farti passare tutto questo, ma lo sai cosa c'è in gioco qui. Ricorda solo ciò che ti ho detto e andrà tutto bene." # "should be fine" -> "will be fine"
+    Br "So che non sarà piacevole, e mi dispiace farti passare tutto questo, ma lo sai cosa c'è in gioco qui. Ricorda solo ciò che ti ho detto e andrà tutto bene." # "should be fine" -> "will be fine"
 
 # game/chapter1.rpy:3204
 translate italiantl investigation_86148265:
@@ -3701,7 +3701,7 @@ translate italiantl investigation_4e50b6d1:
 translate italiantl investigation_d8d4bfc8:
 
     # Br "..."
-    Br "..."
+    Br "... "
 
 # game/chapter1.rpy:3224
 translate italiantl investigation_3866bd40:
@@ -3797,7 +3797,7 @@ translate italiantl quest2_afc197f7:
 translate italiantl quest2_cc15fd9a:
 
     # Br "Actually, we do. Mostly by those who have the proper hands to use them, but still..."
-    Br "Veramente, li usiamo. Principalmente quelli di noi che hanno le mani adatte, ma comunque..." # "mostly [by] those OF US"; "the proper hands [to use them]"
+    Br "In realtà, li usiamo. Principalmente quelli di noi che hanno le mani adatte, ma comunque..." # "mostly [by] those OF US"; "the proper hands [to use them]"
 
 # game/chapter1.rpy:3340
 translate italiantl quest2_65ee4be1:
@@ -3827,7 +3827,7 @@ translate italiantl quest2_e2599129:
 translate italiantl quest2_5df50500:
 
     # Br "Well, he could have had a reason to use a knife over his \"gun\" if it was him. Can you think of any?"
-    Br "Be', potrebbe aver avuto un motivo per usare un coltello invece della sua \"pistola\" se è stato lui. Te ne viene in mente qualcuno?"
+    Br "Beh, potrebbe aver avuto un motivo per usare un coltello invece della sua \"pistola\" se è stato lui. Te ne viene in mente qualcuno?"
 
 # game/chapter1.rpy:3347
 translate italiantl quest2_7d1411e6:
@@ -3983,7 +3983,7 @@ translate italiantl quest4_264bf143:
 translate italiantl quest4_00bcf583:
 
     # Br "That's right. If all the blood from it wasn't a giveaway, this is a stab wound. Characterized by a rather small footprint, you can tell it's also the deepest one."
-    Br "Corretto. Se tutto il sangue che ne fuoriesce non fosse un chiaro indizio, questa è una ferita da accoltellamento. Caratterizzata da un'impronta piuttosto piccola, si capisce che è anche quella più profonda."
+    Br "Corretto. Se tutto il sangue che ne proviene non fosse un chiaro indizio, questa è una ferita da accoltellamento. Caratterizzata da un'impronta piuttosto piccola, si capisce che è anche quella più profonda."
 
 # game/chapter1.rpy:3431
 translate italiantl quest4_b628c4fd:
@@ -4025,7 +4025,7 @@ translate italiantl quest5_bf9677c8:
 translate italiantl quest5_d19f855d:
 
     # c "..."
-    c "..."
+    c "... "
 
 # game/chapter1.rpy:3465
 translate italiantl quest5_2e8a7b46:
@@ -4049,7 +4049,7 @@ translate italiantl quest5_f913b41f:
 translate italiantl quest5_ac0be0ab:
 
     # Br "Well, there is no blood anywhere else in the vicinity that would suggest that. Unless the perpetrator had the time to clean up some of it."
-    Br "Be', non c'è sangue da nessun'altra parte nelle vicinanze che lo indicherebbe. A meno che l'aggressore non abbia avuto il tempo di ripulirne una parte."
+    Br "Beh, non c'è sangue da nessun'altra parte nelle vicinanze che lo indicherebbe. A meno che l'aggressore non abbia avuto il tempo di ripulirne una parte."
 
 # game/chapter1.rpy:3486
 translate italiantl quest5_9e24a4c4:
@@ -4163,7 +4163,7 @@ translate italiantl quest6_6dd6c5dc:
 translate italiantl quest6_ad271f6e:
 
     # Br "That is actually a very real possibility. We probably would be seeing more blood if that were the case, though."
-    Br "Questa è in effetti un'eventualità molto concreta. Probabilmente però vedremmo più sangue se fosse così."
+    Br "Questa è in effetti un'eventualità molto concreta. Probabilmente però vedremmo più sangue se così fosse."
 
 # game/chapter1.rpy:3557
 translate italiantl quest6_e9ff846e:
@@ -4235,7 +4235,7 @@ translate italiantl _call_syscheck_13_b31a64f0:
 translate italiantl _call_syscheck_13_a62ea80e:
 
     # m "Sebastian approached with the dragon who had discovered the body earlier. I recognized her as Adine, the waitress from the café. She seemed distraught, which given the situation, wasn't very surprising."
-    m "[Sb] si avvicinò assieme alla dragonessa che per prima aveva scoperto il corpo. La riconobbi come [Ad], la cameriera della caffetteria. Sembrava sconvolta, il che data la situazione, non sorprendeva poi molto."
+    m "[Sb] si avvicinò assieme alla dragonessa che prima aveva scoperto il corpo. La riconobbi come [Ad], la cameriera della caffetteria. Sembrava sconvolta, il che data la situazione, non sorprendeva poi molto."
 
 # game/chapter1.rpy:3630
 translate italiantl _call_syscheck_13_da883f60:
@@ -4277,7 +4277,7 @@ translate italiantl _call_syscheck_13_706f1fa0:
 translate italiantl _call_syscheck_13_56659e1f:
 
     # Ad "Well, I'd call you by your name, but you never actually told me it."
-    Ad "Be', ti chiamerei col tuo nome, ma in effetti non me l'hai mai detto."
+    Ad "Beh, ti chiamerei col tuo nome, ma in effetti non me l'hai mai detto."
 
 # game/chapter1.rpy:3652
 translate italiantl _call_syscheck_13_d2c48d95:
@@ -4343,7 +4343,7 @@ translate italiantl _call_syscheck_13_b3ae45a6:
 translate italiantl _call_syscheck_13_8d9339b1:
 
     # Ad "I do a little bit of everything, really."
-    Ad "Veramente faccio un po' di tutto."
+    Ad "In realtà faccio un po' di tutto."
 
 # game/chapter1.rpy:3689
 translate italiantl _call_syscheck_13_d037c931:
@@ -4403,7 +4403,7 @@ translate italiantl _call_syscheck_13_dd20ffbf:
 translate italiantl _call_syscheck_13_903f6637:
 
     # Sb "..."
-    Sb "..."
+    Sb "... "
 
 # game/chapter1.rpy:3712
 translate italiantl _call_syscheck_13_ac0c64de:
@@ -4445,7 +4445,7 @@ translate italiantl _call_syscheck_13_df144435:
 translate italiantl _call_syscheck_13_a8193667:
 
     # Mv "I'm not here in any official capacity, you see. I am merely enjoying a curative walk in the fresh air and happened to come across you by accident."
-    Mv "Non sono qui in alcuna veste ufficiale, se vedi. Mi sto semplicemente godendo una passeggiata terapeutica all'aria aperta e mi è capitato di incontrarvi per puro caso."
+    Mv "Non sono qui in alcuna veste ufficiale, vedi. Mi sto semplicemente godendo una passeggiata terapeutica all'aria aperta e mi è capitato di incontrarvi per puro caso."
 
 # game/chapter1.rpy:3738
 translate italiantl _call_syscheck_13_beb3f735:
@@ -4463,7 +4463,7 @@ translate italiantl _call_syscheck_13_6e94227f:
 translate italiantl _call_syscheck_13_770d320f:
 
     # Br "I know what you are thinking, but don't jump to conclusions here."
-    Br "So a cosa stai pensando, ma non saltare a conclusioni adesso."
+    Br "So a cosa stai pensando, ma non saltiamo alle conclusioni adesso."
 
 # game/chapter1.rpy:3741
 translate italiantl _call_syscheck_13_c1c6fd1f:
@@ -4541,7 +4541,7 @@ translate italiantl _call_syscheck_13_13ab97f3:
 translate italiantl _call_syscheck_13_ff7d6620:
 
     # c "I see. I suspect he won't adhere to the standards of performing an unbiased investigation, though."
-    c "Capisco. Malgrado ciò, ho il sospetto che non aderirà agli standard di un'investigazione imparziale" # "standards of [performing] an unbiased investigation"
+    c "Capisco. Comunque, ho il sospetto che non aderirà agli standard di un'investigazione imparziale." # "standards of [performing] an unbiased investigation"
 
 # game/chapter1.rpy:3766
 translate italiantl _call_syscheck_13_e7fb449d:
@@ -4831,7 +4831,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1328
     old "I bet he'd win in a fight with mine, though."
-    new "Scommetto però che vincerebbe in una zuffa con il mio."
+    new "Scommetto però che vincerebbe in una zuffa con la mia."
 
     # chapter1.rpy:1328
     old "He looks grumpy."
@@ -4855,7 +4855,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1627
     old "It does seem rather strange that they need someone following us everywhere."
-    new "Sembra piuttosto strano che abbiano bisogno che qualcuno ci segua ovunque."
+    new "Sembra piuttosto strano che abbiano bisogno di qualcuno che ci segua ovunque."
 
     # chapter1.rpy:1627
     old "Maybe he just likes you a lot."
@@ -4879,7 +4879,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1677
     old "How about some scrambled eggs with bacon?"
-    new "Che ne dici di uova strapazzate con pancetta?"
+    new "E perché non delle uova strapazzate con pancetta?"
 
     # chapter1.rpy:1677
     old "Today's special."
@@ -4895,7 +4895,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1706
     old "Let me just grab my tinfoil hat real quick."
-    new "Fammi solo prendere al volo il mio cappellino di carta stagnola."
+    new "Fammi solo prendere al volo il mio cappellino di stagnola."
 
     # chapter1.rpy:1721
     old "Yeah, he's a charming fellow."
@@ -4915,7 +4915,7 @@ translate italiantl strings:
 
     # chapter1.rpy:1753
     old "Now shoo, scaly-face."
-    new "Ora sciò, faccia-squamosa."
+    new "Ora sciò, faccia-di-squame."
 
     # chapter1.rpy:1888
     old "Of course not, as long as I don't have to pay the bill."
@@ -5095,7 +5095,7 @@ translate italiantl strings:
 
     # chapter1.rpy:2811
     old "Well, you didn't make it easy."
-    new "Be', non me l'hai resa facile."
+    new "Beh, non me l'hai resa facile."
 
     # chapter1.rpy:2841
     old "Yeah, I know."
@@ -5279,7 +5279,7 @@ translate italiantl strings:
 
     # chapter1.rpy:3644
     old "Well, I'm {i}a{/i} human."
-    new "Be', sono {i}un{/i} umanə."
+    new "Beh, sono {i}un{/i} umanə."
 
     # chapter1.rpy:3644
     old "I have a name, you know."

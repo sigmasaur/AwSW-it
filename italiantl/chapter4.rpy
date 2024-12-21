@@ -124,19 +124,19 @@ translate italiantl c4resultscontinue_99f8a50b:
 translate italiantl _call_skiptut_20_44e0ddc6:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip ahead a bit?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare un po' avanti?" # corrected "scene" -> "section" to match other messages
+    s "I miei registri indicano che hai già sperimentato questa parte in maniera soddisfacente. Desideri saltare un po' avanti?" # corrected "scene" -> "section" to match other messages
 
 # game/chapter4.rpy:660
 translate italiantl _call_skiptut_20_690da0b1:
 
     # s "It looks like you've seen this before. Skip ahead a bit?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare un po' avanti?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare un po' avanti?"
 
 # game/chapter4.rpy:668
 translate italiantl _call_skiptut_20_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
 
 # game/chapter4.rpy:683
 translate italiantl _call_skiptut_20_0054b77b:
@@ -226,7 +226,7 @@ translate italiantl _call_skipcheck_20_9cc34b87:
 translate italiantl _call_skipcheck_20_abed7598:
 
     # Sb "Well, not only. It's a council-owned building, and they like keeping everything related to their sector under the same roof."
-    Sb "Be', non solo. È un edificio di proprietà del consiglio, e a loro piace tenere tutto ciò che riguarda il loro settore sotto lo stesso tetto."
+    Sb "Beh, non solo. È un edificio di proprietà del consiglio, e a loro piace tenere tutto ciò che riguarda il loro settore sotto lo stesso tetto."
 
 # game/chapter4.rpy:748
 translate italiantl _call_skipcheck_20_3725bcf9:
@@ -418,7 +418,7 @@ translate italiantl _call_skipcheck_20_c479adbe:
 translate italiantl _call_skipcheck_20_049a33c3:
 
     # Br "Well, you're looking at the Reza task force, so if you have anything to say, you can say it in front of all of us."
-    Br "Be', hai davanti la squadra sul caso [Rz], quindi se hai qualcosa da dire, puoi dirla di fronte a tutti noi."
+    Br "Beh, hai davanti la squadra sul caso [Rz], quindi se hai qualcosa da dire, puoi dirla di fronte a tutti noi."
 
 # game/chapter4.rpy:842
 translate italiantl _call_skipcheck_20_908e3ef4:
@@ -616,7 +616,7 @@ translate italiantl c4skip1_7f92e255:
 translate italiantl c4skip1_412f364a:
 
     # Br brow b "I guess we won't need [player_name] there for that, though."
-    Br brow b "Immagino che non avremo bisogno di [player_name] là per quello, comunque."
+    Br brow b "Comunque, immagino che non avremo bisogno di [player_name] là per quello."
 
 # game/chapter4.rpy:912
 translate italiantl c4skip1_38fc57d0:
@@ -724,7 +724,7 @@ translate italiantl c4skip1_251d100a:
 translate italiantl c4skip1_7631c61d:
 
     # c "If I were with Reza, it would have been much easier for me to pull a gun on you, too, the day you were shot. But I didn't even bring one when I came through the portal."
-    c "Se stessi con [Rz], sarebbe stato molto più semplice per me puntarti contro una pistola anch'io, il giorno che ti ha sparato. Ma non ne ho nemmeno portata una quando ho attraversato il portale." # "you were shot" -> "he shot you"
+    c "Se stessi con [Rz], sarebbe stato molto più semplice per me se ti avessi puntato contro una pistola anch'io, il giorno che ti ha sparato. Ma non ne ho nemmeno portata una quando ho attraversato il portale." # "you were shot" -> "he shot you"
 
 # game/chapter4.rpy:1010
 translate italiantl c4skip1_12c7e112:
@@ -1339,7 +1339,7 @@ translate italiantl _call_syscheck_74_14b85755:
 translate italiantl _call_syscheck_74_e25f5d23:
 
     # s "Well, I can confirm the earlier problem is gone. Seems like what you did worked well enough."
-    s "Be', posso confermare che il problema di prima è scomparso. Sembra che ciò che hai fatto abbia funzionato quanto basta."
+    s "Beh, posso confermare che il problema di prima è scomparso. Sembra che ciò che hai fatto abbia funzionato quanto basta."
 
 # game/chapter4.rpy:1392
 translate italiantl _call_syscheck_74_09785573:
@@ -1369,7 +1369,7 @@ translate italiantl _call_syscheck_74_dc71aba9:
 translate italiantl _call_syscheck_74_2383b357:
 
     # s "Well, it looks like you did. Congratulations."
-    s "Be', sembra che tu l'abbia fatto. Congratulazioni."
+    s "Beh, sembra che tu l'abbia fatto. Congratulazioni."
 
 # game/chapter4.rpy:1412
 translate italiantl _call_syscheck_74_483235ce:
@@ -1759,7 +1759,7 @@ translate italiantl c4intuition_d49ba770:
 translate italiantl c4intuition_12813d79:
 
     # c "Well, he's worked on cars before and fixes a lot of things back home. I guess that would qualify?"
-    c "Be', ha lavorato sulle automobili in passato e riparava un sacco di cose a casa. Immagino che contino come competenze?" # "fixes" -> "fixed"; "that would qualify AS SKILLS"
+    c "Beh, ha lavorato sulle automobili in passato e riparava un sacco di cose a casa. Immagino che contino come competenze?" # "fixes" -> "fixed"; "that would qualify AS SKILLS"
 
 # game/chapter4.rpy:1814
 translate italiantl c4intuition_2d80da67:
@@ -1831,7 +1831,7 @@ translate italiantl c4intuition_9e8e1589:
 translate italiantl c4intuition_fe534285:
 
     # Sb "Oh, the investigation is going swimmingly, but as you can expect, we need all the help we can get."
-    Sb "Oh, l'indagine procede a meraviglia, ma come puoi aspettarti, ci serve tutto l'aiuto che possiamo avere."
+    Sb "Oh, l'indagine procede a meraviglia, ma come puoi aspettarti, ci serve tutto l'aiuto possibile."
 
 # game/chapter4.rpy:1854
 translate italiantl c4intuition_dd9aed82:
@@ -1909,7 +1909,7 @@ translate italiantl c4intuition_9eaea2ac:
 translate italiantl c4intuition_90ea8e25:
 
     # c "Well, what do you have for me?"
-    c "Be', che cosa avete per me?"
+    c "Beh, che cosa avete per me?"
 
 # game/chapter4.rpy:1897
 translate italiantl brycefirst_93189ec3:
@@ -2047,7 +2047,7 @@ translate italiantl brycefirst_43d253e6:
 translate italiantl brycefirst_a20a12de:
 
     # Sb drop b "Well, except for the eggs. I don't want to have to explain to the parents how their children were killed in the explosion."
-    Sb drop b "Be', ad eccezione delle uova. Non voglio dover spiegare ai genitori come i loro figli siano rimasti uccisi nell'esplosione."
+    Sb drop b "Beh, ad eccezione delle uova. Non voglio dover spiegare ai genitori come i loro figli siano rimasti uccisi nell'esplosione."
 
 # game/chapter4.rpy:1988
 translate italiantl brycefirst_6165962f:
@@ -2149,7 +2149,7 @@ translate italiantl c4cont_55d65168:
 translate italiantl c4cont_320a075d:
 
     # Sb "We’d like to send someone to make a follow-up visit. You’ll need to confirm the witness statement, then see if he has anything new to share."
-    Sb "Vorremmo inviare qualcuno per fare una visita di controllo. Dovrai confermare la dichiarazione del testimone, e quindi vedere se ha qualcosa di nuovo da raccontare."
+    Sb "Vorremmo inviare qualcuno per fare una visita di controllo. Dovrai confermare la dichiarazione del testimone e quindi vedere se ha qualcosa di nuovo da raccontare."
 
 # game/chapter4.rpy:2035
 translate italiantl c4cont_e2d559af:
@@ -2311,7 +2311,7 @@ translate italiantl sebdone_18d46eb7:
 translate italiantl sebdone_0c85d775:
 
     # Sb smile b "Well, if you say so."
-    Sb smile b "Be', se lo dici tu."
+    Sb smile b "Beh, se lo dici tu."
 
 # game/chapter4.rpy:2132
 translate italiantl sebelse_76b37f1b:
@@ -2467,7 +2467,7 @@ translate italiantl c4facility_8e9a23b0:
 translate italiantl c4facility_08fa48a0:
 
     # c "Well, see you, then."
-    c "Be', ci vediamo, allora."
+    c "Beh, ci vediamo, allora."
 
 # game/chapter4.rpy:2329
 translate italiantl c4facility_a445059e:
@@ -2569,7 +2569,7 @@ translate italiantl c4facility_8e9a23b0_1:
 translate italiantl c4facility_08fa48a0_1:
 
     # c "Well, see you, then."
-    c "Be', ci vediamo, allora."
+    c "Beh, ci vediamo, allora."
 
 # game/chapter4.rpy:2377
 translate italiantl c4facility_a445059e_1:
@@ -2809,7 +2809,7 @@ translate italiantl c4facility_f35e1721:
 translate italiantl c4facility_deb8c449:
 
     # c "Yep. Well, here you go."
-    c "Già. Be', ecco qua."
+    c "Già. Beh, ecco qua."
 
 # game/chapter4.rpy:2533
 translate italiantl c4facility_91eafbdd:
@@ -3145,7 +3145,7 @@ translate italiantl c4library_176a6864:
 translate italiantl c4library_95c88821:
 
     # Em mean b "Well, he is not working today. Apparently he has other engagements."
-    Em mean b "Be', oggi non lavora. A quanto pare ha altri impegni."
+    Em mean b "Beh, oggi non lavora. A quanto pare ha altri impegni."
 
 # game/chapter4.rpy:2800
 translate italiantl c4library_b1c0823f:
@@ -3259,7 +3259,7 @@ translate italiantl c4library_b97e7acd:
 translate italiantl c4library_f76092e2:
 
     # c "Enjoy."
-    c "Divèrtiti."
+    c "Divertiti."
 
 # game/chapter4.rpy:2867
 translate italiantl c4library_7d6298bc_1:
@@ -3319,7 +3319,7 @@ translate italiantl c4library_b97e7acd_1:
 translate italiantl c4library_f76092e2_1:
 
     # c "Enjoy."
-    c "Divèrtiti." # see line 2848
+    c "Divertiti." # see line 2848
 
 # game/chapter4.rpy:2903
 translate italiantl c4library_7d6298bc_2:
@@ -3379,7 +3379,7 @@ translate italiantl c4library_b97e7acd_2:
 translate italiantl c4library_f76092e2_2:
 
     # c "Enjoy."
-    c "Divèrtiti." # see line 2848
+    c "Divertiti." # see line 2848
 
 # game/chapter4.rpy:2940
 translate italiantl c4library_e63a1f9c:
@@ -3409,7 +3409,7 @@ translate italiantl c4library_00fbcf15:
 translate italiantl c4library_c96980f9:
 
     # c "Well, here you go."
-    c "Be', ecco a te."
+    c "Beh, ecco a te."
 
 # game/chapter4.rpy:2950
 translate italiantl c4library_c94450f0:
@@ -3421,7 +3421,7 @@ translate italiantl c4library_c94450f0:
 translate italiantl c4library_f76092e2_3:
 
     # c "Enjoy."
-    c "Divèrtiti." # see line 2848
+    c "Divertiti." # see line 2848
 
 # game/chapter4.rpy:2971
 translate italiantl c4library_759894d0:
@@ -3439,7 +3439,7 @@ translate italiantl c4library_aa1ad311:
 translate italiantl c4library_6f34a4d5:
 
     # c "(Well, if he isn't here and left the door open, that's no good.)"
-    c "(Be', se non è qui e ha lasciato la porta aperta, non è un buon segno.)"
+    c "(Beh, se non è qui e ha lasciato la porta aperta, non è un buon segno.)"
 
 # game/chapter4.rpy:2981
 translate italiantl c4library_03fc7431:
@@ -3475,7 +3475,7 @@ translate italiantl c4library_17a7ece9:
 translate italiantl c4library_f51e808a:
 
     # Sb "I see. Well, I know he met you when you initially arrived here, at the very least."
-    Sb "Capisco. Be', so che vi eravate incontrati al tuo primo arrivo qui, se non altro." # "he met you" -> "you met"
+    Sb "Capisco. Beh, so che vi eravate incontrati al tuo primo arrivo qui, se non altro." # "he met you" -> "you met"
 
 # game/chapter4.rpy:3025
 translate italiantl c4library_ff12b77a:
@@ -3595,7 +3595,7 @@ translate italiantl c4library_5eb39e2c:
 translate italiantl c4library_de251424:
 
     # Sb "Well, do you have any proof of this bullying you speak of? Do you know how long it was going on or how extensive it was?"
-    Sb "Be', hai qualche prova di questi maltrattamenti di cui parli? Sai da quanto la cosa andasse avanti o quanto frequente fosse?" # "extensive" -> "frequent"
+    Sb "Beh, hai qualche prova di questi maltrattamenti di cui parli? Sai da quanto la cosa andasse avanti o quanto frequente fosse?" # "extensive" -> "frequent"
 
 # game/chapter4.rpy:3073
 translate italiantl c4library_89c2bed2:
@@ -3793,7 +3793,7 @@ translate italiantl c4hatchery_847da168:
 translate italiantl c4hatchery_067ed3f6:
 
     # Kv ramble "Well, you do now."
-    Kv ramble "Be', ora lo sai."
+    Kv ramble "Beh, ora lo sai."
 
 # game/chapter4.rpy:3169
 translate italiantl c4hatchery_bafd0444:
@@ -3811,7 +3811,7 @@ translate italiantl c4hatchery_442d4abf:
 translate italiantl c4hatchery_634fc8ec:
 
     # c "Oh. Well, thanks for not making things awkward."
-    c "Oh. Be', grazie di non aver reso le cose imbarazzanti."
+    c "Oh. Beh, grazie di non aver reso le cose imbarazzanti."
 
 # game/chapter4.rpy:3175
 translate italiantl c4hatchery_69e349c9:
@@ -3949,7 +3949,7 @@ translate italiantl c4hatchery_eef077db:
 translate italiantl c4hatchery_f5e779f8:
 
     # Ad "Oh well..."
-    Ad "Oh be'..."
+    Ad "Oh beh..."
 
 # game/chapter4.rpy:3254
 translate italiantl c4hatchery_e2c720d4:
@@ -4039,13 +4039,13 @@ translate italiantl _call_syscheck_78_eef077db:
 translate italiantl _call_syscheck_78_f5e779f8:
 
     # Ad "Oh well..."
-    Ad "Oh be'..." # see line 3252
+    Ad "Oh beh..." # see line 3252
 
 # game/chapter4.rpy:3333
 translate italiantl _call_syscheck_78_4d4a0b95:
 
     # Ad think b "By the way, I haven't seen you for a while, and you didn't call me back, either..."
-    Ad think b "Ad ogni modo, è da un po' che non ti vedo, e nemmeno mi hai richiamato..."
+    Ad think b "Ad ogni modo, è da un po' che non ti vedo, e non mi hai nemmeno richiamato..."
 
 # game/chapter4.rpy:3341
 translate italiantl _call_syscheck_78_ce6701aa:
@@ -4123,7 +4123,7 @@ translate italiantl _call_syscheck_79_144fdc4c:
 translate italiantl _call_syscheck_79_4a1dbf32:
 
     # Ad "Well, you could've at least told me instead of ignoring me."
-    Ad "Be', avresti anche potuto dirmelo invece di ignorarmi."
+    Ad "Beh, avresti anche potuto dirmelo invece di ignorarmi."
 
 # game/chapter4.rpy:3402
 translate italiantl _call_syscheck_79_527c5b7e:
@@ -4135,7 +4135,7 @@ translate italiantl _call_syscheck_79_527c5b7e:
 translate italiantl _call_syscheck_79_af1ebe74:
 
     # Ad "Oh, well. I won't bother you anymore, then."
-    Ad "Oh, be'. Non ti darò più noia, allora."
+    Ad "Oh, beh. Non ti darò più noia, allora."
 
 # game/chapter4.rpy:3406
 translate italiantl _call_syscheck_79_61e85271:
@@ -4225,7 +4225,7 @@ translate italiantl _call_syscheck_80_eef077db:
 translate italiantl _call_syscheck_80_f5e779f8:
 
     # Ad "Oh well..."
-    Ad "Oh be'..." # see line 3252
+    Ad "Oh beh..." # see line 3252
 
 # game/chapter4.rpy:3486
 translate italiantl _call_syscheck_80_e2c720d4:
@@ -4357,7 +4357,7 @@ translate italiantl _call_syscheck_81_85c543cb:
 translate italiantl _call_syscheck_81_543b2ee0:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]."
+    Ry smile flip "Beh, ci rivediamo un'altra volta, [player_name]."
 
 # game/chapter4.rpy:3588
 translate italiantl _call_syscheck_81_a1ae6a4e:
@@ -4417,7 +4417,7 @@ translate italiantl _call_syscheck_81_85c543cb_1:
 translate italiantl _call_syscheck_81_543b2ee0_1:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]." # see line 3586
+    Ry smile flip "Beh, ci rivediamo un'altra volta, [player_name]." # see line 3586
 
 # game/chapter4.rpy:3647
 translate italiantl _call_syscheck_81_a1ae6a4e_1:
@@ -4477,7 +4477,7 @@ translate italiantl _call_syscheck_81_eef077db:
 translate italiantl _call_syscheck_81_f5e779f8:
 
     # Ad "Oh well..."
-    Ad "Oh be'..." # see line 3252
+    Ad "Oh beh..." # see line 3252
 
 # game/chapter4.rpy:3718
 translate italiantl _call_syscheck_81_e2c720d4:
@@ -4609,7 +4609,7 @@ translate italiantl _call_syscheck_82_85c543cb:
 translate italiantl _call_syscheck_82_543b2ee0:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]." # see line 3586
+    Ry smile flip "Beh, ci rivediamo un'altra volta, [player_name]." # see line 3586
 
 # game/chapter4.rpy:3818
 translate italiantl _call_syscheck_82_a1ae6a4e:
@@ -4669,7 +4669,7 @@ translate italiantl _call_syscheck_82_85c543cb_1:
 translate italiantl _call_syscheck_82_543b2ee0_1:
 
     # Ry smile flip "Well, see you some other time, [player_name]."
-    Ry smile flip "Be', ci rivediamo un'altra volta, [player_name]." # see line 3586
+    Ry smile flip "Beh, ci rivediamo un'altra volta, [player_name]." # see line 3586
 
 # game/chapter4.rpy:3877
 translate italiantl _call_syscheck_82_a1ae6a4e_1:
@@ -4717,7 +4717,7 @@ translate italiantl c4postsections_50dedf19:
 translate italiantl c4postsections_823c8b7c:
 
     # c "I'm not sure what's going on, but apparently the police raided Anna's lab, so she wasn't in a condition to accept it."
-    c "Non so bene cosa stia succedendo, ma a quanto pare la polizia ha fatto irruzione nel laboratorio di [An], e quindi non era in condizioni di accettarla."
+    c "Non so bene cosa stia succedendo, ma a quanto pare la polizia ha fatto irruzione nel laboratorio di [An], quindi non era in condizioni di accettarla."
 
 # game/chapter4.rpy:4098
 translate italiantl c4postsections_38490d1f:
@@ -4771,7 +4771,7 @@ translate italiantl c4postsections_8231078b:
 translate italiantl c4postsections_e9d2f438:
 
     # m "The next thing I saw was a blurry stone ceiling."
-    m "La prima cosa che vidi in séguito fu un indistinto soffitto di pietra."
+    m "La prima cosa che vidi in seguito fu un indistinto soffitto di pietra."
 
 # game/chapter4.rpy:4148
 translate italiantl c4postsections_f6901c56:
@@ -4789,19 +4789,19 @@ translate italiantl c4postsections_36b79c39:
 translate italiantl _call_skiptut_21_4d25d249:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the character selection?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare alla selezione del personaggio?"
+    s "I miei registri indicano che hai già sperimentato questa parte in maniera soddisfacente. Desideri saltare alla selezione del personaggio?"
 
 # game/chapter4.rpy:4180
 translate italiantl _call_skiptut_21_11989f6d:
 
     # s "It looks like you've seen this before. Skip to the character selection?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla selezione del personaggio?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla selezione del personaggio?"
 
 # game/chapter4.rpy:4188
 translate italiantl _call_skiptut_21_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
 
 # game/chapter4.rpy:4202
 translate italiantl _call_skiptut_21_0054b77b:
@@ -4843,7 +4843,7 @@ translate italiantl _call_skipcheck_21_9b22fb40:
 translate italiantl _call_skipcheck_21_4fac5fd9:
 
     # c "Well, you're not Reza."
-    c "Be', non sei [Rz]."
+    c "Beh, non sei [Rz]."
 
 # game/chapter4.rpy:4232
 translate italiantl _call_skipcheck_21_42f03031:
@@ -4987,7 +4987,7 @@ translate italiantl _call_skipcheck_21_76b2fe88_1:
 translate italiantl _call_skipcheck_21_eb0248f1:
 
     # n "Everything was to be teleported right into the middle of nowhere, with no traces or paper trail to follow, so international communities and law enforcement would have no idea of our operations."
-    n "Il tutto doveva essere teletrasportato direttamente nel mezzo del nulla, senza alcuna traccia o documentazione al séguito, cosicché le comunità internazionali e le forze dell'ordine non avrebbero avuto idea delle nostre operazioni."
+    n "Il tutto doveva essere teletrasportato direttamente nel mezzo del nulla, senza alcuna traccia o documentazione al seguito, cosicché le comunità internazionali e le forze dell'ordine non avrebbero avuto idea delle nostre operazioni."
 
 # game/chapter4.rpy:4296
 translate italiantl _call_skipcheck_21_eccbaa8e:
@@ -5233,7 +5233,7 @@ translate italiantl _call_skipcheck_21_0be41dab:
 translate italiantl _call_skipcheck_21_4301388e:
 
     # n "I could have sent myself back into the present with the right coordinates, but this was a risky endeavor, and I also had to ask myself if it was a present I wanted to return to."
-    n "Con le giuste coordinate avrei potuto rimandare me stesso nel presente, ma era un'impresa rischiosa, e inoltre dovetti chiedermi se era un presente a cui volevo ritornare."
+    n "Con le giuste coordinate avrei potuto rimandare me stesso nel presente, ma era un'impresa rischiosa, inoltre dovetti chiedermi se era un presente a cui volevo ritornare."
 
 # game/chapter4.rpy:4394
 translate italiantl _call_skipcheck_21_bd76b207:
@@ -5257,7 +5257,7 @@ translate italiantl _call_skipcheck_21_373e02d5:
 translate italiantl _call_skipcheck_21_f3298f9d:
 
     # n "Instead of returning to a destroyed civilization, I saw an opportunity."
-    n "Invece di ritornare a una civiltà distrutta, scòrsi un'opportunità."
+    n "Invece di ritornare a una civiltà distrutta, scorsi un'opportunità."
 
 # game/chapter4.rpy:4404
 translate italiantl _call_skipcheck_21_bb844621:
@@ -5521,7 +5521,7 @@ translate italiantl _call_skipcheck_21_89aefe22:
 translate italiantl _call_skipcheck_21_e486c3e2:
 
     # c "There is one thing that still doesn't make sense to me, though."
-    c "C'è una cosa che per me non ha ancora senso, però."
+    c "Però c'è una cosa che per me non ha ancora senso."
 
 # game/chapter4.rpy:4510
 translate italiantl _call_skipcheck_21_749bf135:
@@ -6320,7 +6320,7 @@ translate italiantl _call_popularcheck_22_1becd696:
 translate italiantl _call_popularcheck_22_315a50c9:
 
     # Ad "Well, I don't think you're that kind of person."
-    Ad "Be', non penso tu sia quel tipo di persona." # see line 4284 of chapter 2
+    Ad "Beh, non penso tu sia quel tipo di persona." # see line 4284 of chapter 2
 
 # game/chapter4.rpy:5302
 translate italiantl _call_popularcheck_22_abfdff27:
@@ -6332,7 +6332,7 @@ translate italiantl _call_popularcheck_22_abfdff27:
 translate italiantl _call_popularcheck_22_c988d1f1:
 
     # c "(Well, she did get the right number and I'm still confused.)"
-    c "(Be', ha fatto il numero giusto e sono comunque confusə.)" # see line 4292 of chapter 2
+    c "(Beh, ha fatto il numero giusto e sono comunque confusə.)" # see line 4292 of chapter 2
 
 # game/chapter4.rpy:5353
 translate italiantl _call_popularcheck_23_e3672fe4:
@@ -6362,7 +6362,7 @@ translate italiantl _call_popularcheck_23_b564292d:
 translate italiantl _call_popularcheck_23_57ae5c94:
 
     # An "If you don't want to, then... Well, whatever."
-    An "Se non ti va, allora... Be', come ti pare."
+    An "Se non ti va, allora... Beh, come ti pare."
 
 # game/chapter4.rpy:5371
 translate italiantl _call_popularcheck_23_e393db22:
@@ -6596,7 +6596,7 @@ translate italiantl strings:
 
     # chapter4.rpy:3181
     old "Excuse yourself."
-    new "Congèdati."
+    new "Congedati."
 
     # chapter4.rpy:3337
     old "Sorry, I was just busy."

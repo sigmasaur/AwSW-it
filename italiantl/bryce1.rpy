@@ -40,7 +40,7 @@ translate italiantl bryce1_df11dec0:
 translate italiantl bryce1_586e9ee6:
 
     # Br "Mhm, I see. Well, that's actually more helpful than you might think. Mannerisms, habits - all kinds of things would be useful to add to his profile and to get a better idea of him."
-    Br "Hm, capisco. Be', in effetti questo è più d'aiuto di quanto potresti credere. Modi di fare, abitudini—ogni sorta di cose sono utili ad aumentare il suo profilo e farci un'idea migliore di lui." # corrected em-dash
+    Br "Hm, capisco. Beh, in effetti questo è più d'aiuto di quanto potresti credere. Modi di fare, abitudini—ogni sorta di cose sono utili per aumentare il suo profilo e farci un'idea migliore di lui." # corrected em-dash
 
 # game/bryce1.rpy:48
 translate italiantl bryce1_d22825cb:
@@ -76,7 +76,7 @@ translate italiantl bryce1_fe1efab4:
 translate italiantl bryce1_2f0ba0b7:
 
     # Br "Well, are you coming or not?"
-    Br "Be', vieni o no?"
+    Br "Beh, vieni o no?"
 
 # game/bryce1.rpy:79
 translate italiantl bryce1_db7471f7:
@@ -142,7 +142,7 @@ translate italiantl _call_syscheck_37_0f40089b:
 translate italiantl _call_syscheck_37_d456a7a0:
 
     # s "You rejected Bryce's invitation. Whatever."
-    s "Hai rifiutato l'invito di [Br]. E va be'."
+    s "Hai rifiutato l'invito di [Br]. E va beh."
 
 # game/bryce1.rpy:124
 translate italiantl _call_syscheck_37_8b86f8ee:
@@ -210,13 +210,13 @@ translate italiantl _call_skiptut_8_0ff5f677:
 translate italiantl _call_skiptut_8_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/bryce1.rpy:242
 translate italiantl _call_skiptut_8_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/bryce1.rpy:257
 translate italiantl _call_skiptut_8_0054b77b:
@@ -330,7 +330,7 @@ translate italiantl waitmenu_4e3d5c77:
 translate italiantl waitmenu_80237363:
 
     # c "Well, the earliest memory I have of him was when we both went to the same school. We only shared a few classes, though, and a couple of friends."
-    c "Be', il primo ricordo che ho di lui è di quando andavamo entrambi alla stessa scuola. Avevamo in comune solo alcune lezioni, però, e un paio di amicizie."
+    c "Beh, il primo ricordo che ho di lui è di quando andavamo entrambi alla stessa scuola. Avevamo in comune solo alcune lezioni, però, e un paio di amicizie."
 
 # game/bryce1.rpy:348
 translate italiantl waitmenu_d0e93113:
@@ -438,7 +438,7 @@ translate italiantl waitmenu_bd805a76:
 translate italiantl waitmenu_e4f09413:
 
     # m "Just when I thought an awkward silence might set in, Bryce spotted the waiter and didn't hesitate to speak up."
-    m "Proprio quando pensai che potesse calare un silenzio imbarazzato, [Br] scòrse il cameriere e non esitò a chiamare a gran voce."
+    m "Proprio quando pensai che potesse calare un silenzio imbarazzato, [Br] scorse il cameriere e non esitò a chiamare a gran voce."
 
 # game/bryce1.rpy:378
 translate italiantl waitmenu_c0898fbd:
@@ -564,7 +564,7 @@ translate italiantl _call_syscheck_39_0f40089b:
 translate italiantl _call_syscheck_39_d456a7a0:
 
     # s "You rejected Bryce's invitation. Whatever."
-    s "Hai rifiutato l'invito di [Br]. E va be'." # see line 120
+    s "Hai rifiutato l'invito di [Br]. E va beh." # see line 120
 
 # game/bryce1.rpy:466
 translate italiantl _call_syscheck_39_8b86f8ee:
@@ -618,7 +618,7 @@ translate italiantl _call_syscheck_40_0f40089b:
 translate italiantl _call_syscheck_40_d456a7a0:
 
     # s "You rejected Bryce's invitation. Whatever."
-    s "Hai rifiutato l'invito di [Br]. E va be'." # see line 120
+    s "Hai rifiutato l'invito di [Br]. E va beh." # see line 120
 
 # game/bryce1.rpy:524
 translate italiantl _call_syscheck_40_8b86f8ee:
@@ -630,7 +630,7 @@ translate italiantl _call_syscheck_40_8b86f8ee:
 translate italiantl _call_syscheck_40_b8efe23b:
 
     # m "Bryce was just about to start on his second when he suddenly spoke up."
-    m "[Br] faceva per intaccare la sua seconda birra quando parlò all'improvviso." # "his second BEER"
+    m "[Br] stava per intaccare la sua seconda birra quando parlò all'improvviso." # "his second BEER"
 
 # game/bryce1.rpy:549
 translate italiantl _call_syscheck_40_e589dbf6:
@@ -732,7 +732,7 @@ translate italiantl _call_syscheck_41_0f40089b:
 translate italiantl _call_syscheck_41_d456a7a0:
 
     # s "You rejected Bryce's invitation. Whatever."
-    s "Hai rifiutato l'invito di [Br]. E va be'." # see line 120
+    s "Hai rifiutato l'invito di [Br]. E va beh." # see line 120
 
 # game/bryce1.rpy:610
 translate italiantl _call_syscheck_41_8b86f8ee:
@@ -1236,7 +1236,7 @@ translate italiantl _call_syscheck_41_bdf1a500:
 translate italiantl _call_syscheck_41_6293f0c2:
 
     # Br "Well, duh... Of course it doesn't count if you spit out your drink halfway through."
-    Br "Be', andiamo... È ovvio che non conta se risputi fuori la birra a metà strada." # "drink" -> "beer"
+    Br "Beh, andiamo... È ovvio che non conta se risputi fuori la birra a metà strada." # "drink" -> "beer"
 
 # game/bryce1.rpy:979
 translate italiantl _call_syscheck_41_d748282a:
@@ -1362,7 +1362,7 @@ translate italiantl _call_syscheck_41_570aa8e7_1:
 translate italiantl _call_syscheck_41_76634173:
 
     # m "At this point, I had difficulties picking up my glass. I was about to give up, but I was sure if I held on just one more round it'd be over. I could still win this. I had to wait a few moments after each sip in order to continue, but I did not give up until, eventually, the glass was empty."
-    m "A quel punto, avevo difficoltà a sollevare il mio bicchiere. Stavo quasi per rinunciare, ma ero sicurə che se avessi tenuto duro solo per un altro turno sarebbe finita. Potevo ancora vincerla. Dovetti aspettare qualche istante dopo ogni sorso per poter continuare, ma non cedetti finché, alla fine, il bicchiere non fu svuotato." # "at this point" -> "at that point"
+    m "A questo punto, avevo difficoltà a sollevare il mio bicchiere. Stavo quasi per rinunciare, ma ero sicurə che se avessi tenuto duro solo per un altro turno sarebbe finita. Potevo ancora vincerla. Dovetti aspettare qualche istante dopo ogni sorso per poter continuare, ma non cedetti finché, alla fine, il bicchiere non fu svuotato." # "at this point" -> "at that point"
 
 # game/bryce1.rpy:1077
 translate italiantl _call_syscheck_41_0eb13f67:
@@ -1446,7 +1446,7 @@ translate italiantl _call_syscheck_41_d96fe527:
 translate italiantl _call_syscheck_41_6f3f2bac:
 
     # Br "Guess I'll just have another to secure my victory, then."
-    Br "Immagino che ne berrò un'altra per assicurarmi la vittoria, allora."
+    Br "Allora immagino che ne berrò un'altra per assicurarmi la vittoria."
 
 # game/bryce1.rpy:1151
 translate italiantl _call_syscheck_41_fdd3ae60:
@@ -1614,7 +1614,7 @@ translate italiantl _call_syscheck_41_46f9c800:
 translate italiantl _call_syscheck_41_e3d2aa39:
 
     # Br "Ugh..."
-    Br "Ugh..."
+    Br "Ugh... "
 
 # game/bryce1.rpy:1240
 translate italiantl _call_syscheck_41_25c5b01b:
@@ -1788,7 +1788,7 @@ translate italiantl _call_syscheck_41_9a1e394a:
 translate italiantl _call_syscheck_41_d9e78669:
 
     # c "Well, it was your idea."
-    c "Be', è stata un'idea tua."
+    c "Beh, è stata un'idea tua."
 
 # game/bryce1.rpy:1330
 translate italiantl _call_syscheck_41_51787622:
@@ -1854,7 +1854,7 @@ translate italiantl bryce1skip_97c9b7f4:
 translate italiantl bryce1skip_b97488ce:
 
     # c "Well, it's not like you forced me to participate, so I suppose I share some of the blame..."
-    c "Be', non è che tu mi abbia costretto a partecipare, quindi suppongo di avere anch'io le mie colpe..."
+    c "Beh, non è che tu mi abbia costretto a partecipare, quindi suppongo di avere anch'io le mie colpe..."
 
 # game/bryce1.rpy:1372
 translate italiantl bryce1skip_3ffd6748:
@@ -1908,7 +1908,7 @@ translate italiantl bryce1skip_97c9b7f4_1:
 translate italiantl bryce1skip_b97488ce_1:
 
     # c "Well, it's not like you forced me to participate, so I suppose I share some of the blame..."
-    c "Be', non è che tu mi abbia costretto a partecipare, quindi suppongo di avere anch'io le mie colpe..." # see line 1370
+    c "Beh, non è che tu mi abbia costretto a partecipare, quindi suppongo di avere anch'io le mie colpe..." # see line 1370
 
 # game/bryce1.rpy:1409
 translate italiantl bryce1skip_3ffd6748_1:
@@ -2104,7 +2104,7 @@ translate italiantl strings:
 
     # bryce1.rpy:896
     old "Well, it doesn't hurt to have friends in high places."
-    new "Be', non guasta avere amicizie altolocate."
+    new "Beh, non guasta avere amicizie altolocate."
 
     # bryce1.rpy:896
     old "Maybe. Having a lil' fun doesn't hurt, right?"

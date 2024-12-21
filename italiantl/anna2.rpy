@@ -76,7 +76,7 @@ translate italiantl anna2_e02cf647_1:
 translate italiantl anna2_d0f7d9df:
 
     # c "(Well, if she doesn't show up soon, I'm done.)"
-    c "(Be', se non si fa viva presto, io ho chiuso.)"
+    c "(Beh, se non si fa viva presto, io ho chiuso.)"
 
 # game/anna2.rpy:128
 translate italiantl anna2_dc9748a4:
@@ -130,7 +130,7 @@ translate italiantl anna2_bf450302:
 translate italiantl anna2_4f7c8937:
 
     # c "(Well, I gotta pass the time somehow, right?)"
-    c "(Be', dovrò pur passare il tempo in qualche modo, giusto?)"
+    c "(Beh, dovrò pur passare il tempo in qualche modo, giusto?)"
 
 # game/anna2.rpy:161
 translate italiantl anna2_b78be368:
@@ -226,13 +226,13 @@ translate italiantl _call_skiptut_32_0ff5f677:
 translate italiantl _call_skiptut_32_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/anna2.rpy:261
 translate italiantl _call_skiptut_32_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/anna2.rpy:276
 translate italiantl _call_skiptut_32_0054b77b:
@@ -766,7 +766,7 @@ translate italiantl _call_skipcheck_32_640b5fdf:
 translate italiantl _call_skipcheck_32_f4349131:
 
     # m "Miles raised his head from his kill, blood dripping from his maw. The officers' breaths were smothered by the deathly stillness of the night. Fangs bared, the feral dragon snarled and stood strong in front of his meal, prepared to protect it from the two who intruded upon his territory."
-    m "Miles sollevò la bocca dal suo fiero pasto, il sangue che colava dalle fauci. La mortale quiete della notte mozzava il respiro agli agenti. Digrignando le zanne, il drago ferino ringhiò e si erse possente davanti alla sua preda, pronto a proteggerla dai due che avevano invaso il suo territorio." # half quoted the Divine Comedy, Inferno, canto XXXIII, line 1 and exchanged "kill" and "meal" as a result; "fangs bared" -> "baring his fangs"
+    m "Miles sollevò la bocca dal suo fiero pasto—il sangue gli grondava dalle fauci. La mortale quiete della notte mozzava il respiro agli agenti. Digrignando le zanne, il drago ferino ringhiò e si erse possente davanti alla sua preda, pronto a proteggerla dai due che avevano invaso il suo territorio." # half quoted the Divine Comedy, Inferno, canto XXXIII, line 1 and exchanged "kill" and "meal" as a result; "fangs bared" -> "baring his fangs"
 
 # game/anna2.rpy:542
 translate italiantl _call_skipcheck_32_9919657a:
@@ -1024,7 +1024,7 @@ translate italiantl _call_skipcheck_32_0a636674:
 translate italiantl _call_skipcheck_32_ceac25c9:
 
     # An normal "Well, there's this one place that never closes. Let's just go there."
-    An normal "Be', c'è questo posto che non chiude mai. Andiamocene là."
+    An normal "Beh, c'è questo posto che non chiude mai. Andiamocene là."
 
 # game/anna2.rpy:704
 translate italiantl _call_skipcheck_32_c48dc32f:
@@ -1042,7 +1042,7 @@ translate italiantl _call_skipcheck_32_ddb3415f:
 translate italiantl _call_skipcheck_32_1e1e9b04:
 
     # An "Unless... Well, I know one place that never closes. Let's go there."
-    An "A meno che... Be', so di un posto che non chiude mai. Andiamo là." # see line 702
+    An "A meno che... Beh, so di un posto che non chiude mai. Andiamo là." # see line 702
 
 # game/anna2.rpy:715
 translate italiantl _call_skipcheck_32_c48dc32f_1:
@@ -1546,7 +1546,7 @@ translate italiantl _call_skipcheck_32_7ab0071a:
 translate italiantl _call_skipcheck_32_880f45b8:
 
     # An "Help yourself."
-    An "Sèrviti pure."
+    An "Serviti pure."
 
 # game/anna2.rpy:1060
 translate italiantl _call_skipcheck_32_7735c230:
@@ -1804,7 +1804,7 @@ translate italiantl _call_skipcheck_32_281e042b:
 translate italiantl anna2skip_ee80c080:
 
     # c "Well, that was interesting."
-    c "Be', è stato interessante."
+    c "Beh, è stato interessante."
 
 # game/anna2.rpy:1236
 translate italiantl anna2skip_4115a8bc:

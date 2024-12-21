@@ -28,13 +28,13 @@ translate italiantl _call_skiptut_31_0ff5f677:
 translate italiantl _call_skiptut_31_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/xzhong.rpy:69
 translate italiantl _call_skiptut_31_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/xzhong.rpy:83
 translate italiantl _call_skiptut_31_0054b77b:
@@ -88,7 +88,7 @@ translate italiantl _call_skipcheck_31_846f4d22:
 translate italiantl _call_skipcheck_31_ebdf485b:
 
     # Zh "Well, the bar is already closed and everybody's gone home, so it's just us."
-    Zh "Be', ormai il bar è chiuso e sono andati tutti a casa, perciò siamo solo noi."
+    Zh "Beh, ormai il bar è chiuso e sono andati tutti a casa, perciò siamo solo noi."
 
 # game/xzhong.rpy:132
 translate italiantl _call_skipcheck_31_89aefe22:
@@ -184,7 +184,7 @@ translate italiantl _call_skipcheck_31_62bb089e:
 translate italiantl _call_skipcheck_31_2a7bd759:
 
     # Zh smile b "Well, that's a new one."
-    Zh smile b "Be', questa è nuova."
+    Zh smile b "Beh, questa è nuova."
 
 # game/xzhong.rpy:174
 translate italiantl _call_skipcheck_31_86c9ae80:
@@ -292,7 +292,7 @@ translate italiantl _call_skipcheck_31_e1926fe6:
 translate italiantl _call_skipcheck_31_d4196c2e:
 
     # Zh serv b "Well, if you say so."
-    Zh serv b "Be', se lo dici tu."
+    Zh serv b "Beh, se lo dici tu."
 
 # game/xzhong.rpy:225
 translate italiantl _call_skipcheck_31_76b2fe88:
@@ -394,7 +394,7 @@ translate italiantl _call_skipcheck_31_a06f90e0:
 translate italiantl _call_skipcheck_31_60fa7ad8:
 
     # Zh "Well, about 20 years ago, you gave up your child for adoption, and..."
-    Zh "Be', all'incirca vent'anni fa, avete dato vostro figlio in adozione, e..." # "20" -> "twenty" for elegance
+    Zh "Beh, all'incirca vent'anni fa, avete dato vostro figlio in adozione, e..." # "20" -> "twenty" for elegance
 
 # game/xzhong.rpy:279
 translate italiantl _call_skipcheck_31_06613f18:
@@ -424,7 +424,7 @@ translate italiantl _call_skipcheck_31_f984fef8:
 translate italiantl _call_skipcheck_31_9155ea50:
 
     # m "He turned around and went back inside. Just as he was about to close the door again, another person appeared next to him."
-    m "Si voltò e riandò dentro. Come faceva per richiudere la porta, accanto a lui apparve un'altra persona."
+    m "Si voltò e riandò dentro. Mentre stava per richiudere la porta, accanto a lui apparve un'altra persona."
 
 # game/xzhong.rpy:289
 translate italiantl _call_skipcheck_31_dae933e9:
@@ -742,7 +742,7 @@ translate italiantl _call_skipcheck_31_ad84d042:
 translate italiantl _call_skipcheck_31_606f4300:
 
     # Zh normal b "Well, except for the part where, in a way, he's responsible for the whole town now."
-    Zh normal b "Be', tranne per la parte in cui, in un certo senso, adesso lui è responsabile dell'intera città."
+    Zh normal b "Beh, tranne per la parte in cui, in un certo senso, adesso lui è responsabile dell'intera città."
 
 # game/xzhong.rpy:441
 translate italiantl _call_skipcheck_31_80355a36:
@@ -970,7 +970,7 @@ translate italiantl zhongclassicfinish_1141aea4:
 translate italiantl zhongclassicfinish_f42fe192:
 
     # Zh "Well, it is a real classic. Someone else might have played it somewhere you've been before."
-    Zh "Be', è un vero classico. Qualcun altro potrebbe averlo suonato in qualche posto dove sei già statə."
+    Zh "Beh, è un vero classico. Qualcun altro potrebbe averlo suonato in qualche posto dove sei già statə."
 
 # game/xzhong.rpy:676
 translate italiantl zhongclassicfinish_53a6e4d9:
@@ -994,7 +994,7 @@ translate italiantl zhongclassicfinish_50adbb2c:
 translate italiantl zhongclassicfinish_fabd36ac:
 
     # Zh normal b "Well, if that's the case, then I'm totally the wrong person you should be telling this."
-    Zh normal b "Be', se è così, allora sono decisamente la persona sbagliata a cui dovresti dirlo."
+    Zh normal b "Beh, se è così, allora sono decisamente la persona sbagliata a cui dovresti dirlo."
 
 # game/xzhong.rpy:684
 translate italiantl zhongclassicfinish_8c0b34a8:
@@ -1240,7 +1240,7 @@ translate italiantl zhongcont_5b2d0814:
 translate italiantl zhongcont_6df2f7b3:
 
     # Zh "I never would have thought it was bad enough to warrant doing what she did, though."
-    Zh "Non avrei mai creduto fosse tanto grave da giustificare quello che ha fatto, però."
+    Zh "Però non avrei mai creduto fosse tanto grave da giustificare quello che ha fatto."
 
 # game/xzhong.rpy:960
 translate italiantl zhongcont_6a9ebe31:
@@ -1396,7 +1396,7 @@ translate italiantl zhongcont_29a22156:
 translate italiantl zhongcont_e1d43b70:
 
     # c "Well, what if I wanted to donate this back to your collection?"
-    c "Be', e se volessi renderli in dono alla tua collezione?"
+    c "Beh, e se volessi renderli in dono alla tua collezione?"
 
 # game/xzhong.rpy:1024
 translate italiantl zhongcont_d96ab6a7:
@@ -1486,7 +1486,7 @@ translate italiantl zhongcont_77e40027:
 translate italiantl zhongcont_ac724e11:
 
     # c "Well, what's all this? Why'd you ask me out?"
-    c "Be', cos'è tutto questo? Perché mi avresti chiesto di uscire?"
+    c "Beh, cos'è tutto questo? Perché mi avresti chiesto di uscire?"
 
 # game/xzhong.rpy:1058
 translate italiantl zhongcont_5bcb96e7:
@@ -1594,7 +1594,7 @@ translate italiantl zhongcont_b489b5ed:
 translate italiantl zhongcont_d34c2740:
 
     # c "Well, let's talk about dating if you're interested in that. I doubt I'd be able to have a frank discussion about this with just anyone I meet here."
-    c "Be', parliamo del frequentarsi, se è questo che ti interessa. Dubito che sarei in grado di discuterne con franchezza con chiunque incontrassi qui."
+    c "Beh, parliamo del frequentarsi, se è questo che ti interessa. Dubito che sarei in grado di discuterne con franchezza con chiunque incontrassi qui."
 
 # game/xzhong.rpy:1120
 translate italiantl zhongcont_492aecdd:
@@ -1780,7 +1780,7 @@ translate italiantl zhongcont_a618835a:
 translate italiantl zhongskip_6ea2dff1:
 
     # Zh "Well, thank you for the wonderful evening."
-    Zh "Be', grazie per la bellissima serata."
+    Zh "Beh, grazie per la bellissima serata."
 
 # game/xzhong.rpy:1184
 translate italiantl zhongskip_e085fae4:
@@ -1804,7 +1804,7 @@ translate italiantl zhongskip_fafa9709:
 translate italiantl zhongskip_d701b553:
 
     # Zh "Be safe, take care, and maybe I'll see you some other time."
-    Zh "Stammi bene, e magari ci rivediamo un'altra volta." # removed "be safe" ~ "take care"
+    Zh "Stammi bene, magari ci rivediamo un'altra volta." # removed "be safe" ~ "take care"
 
 # game/xzhong.rpy:1192
 translate italiantl zhongskip_13251290:

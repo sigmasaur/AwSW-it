@@ -46,7 +46,7 @@ translate italiantl aloneendings_04daa7ff:
 translate italiantl aloneendings_e507d2af:
 
     # m "Soon, the total stillness was broken with the sound of the first rocket ascending, its explosion painting a circular pattern in the sky."
-    m "Ben presto, l'assoluta quiete fu spezzata dal suono del primo razzo che ascendeva, la sua esplosione che dipinse una fantasia circolare nel cielo."
+    m "Ben presto, l'assoluta quiete fu spezzata dal suono del primo razzo che ascendeva, la cui esplosione dipinse una fantasia circolare nel cielo."
 
 # game/chapter5.rpy:522
 translate italiantl aloneendings_6f06eb98:
@@ -310,7 +310,7 @@ translate italiantl _call_endingjustafewminuteslater_dfa04c88:
 translate italiantl _call_endingjustafewminuteslater_50692fcd:
 
     # m "By now, we had arrived at the portal. The Administrator gently set me down before moving towards the portal's controls."
-    m "Per allora, fummo giunti al portale. [As] mi depose gentilmente prima di muoversi verso i controlli del portale."
+    m "Per allora, fummo giunti al portale. [As] mi depose delicatamente prima di muoversi verso i controlli del portale."
 
 # game/chapter5.rpy:703
 translate italiantl _call_endingjustafewminuteslater_405b83a8:

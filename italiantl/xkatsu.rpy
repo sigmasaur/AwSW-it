@@ -10,7 +10,7 @@ translate italiantl katsu_84a9f97b:
 translate italiantl katsu_3e5a2405:
 
     # Ka "Well, this corner is where I do business. You could've asked anyone and they would've told you where to find me."
-    Ka "Be', quest'angolo è dove sto di bottega. Avresti potuto chiedere a chiunque e ti avrebbero detto dove trovarmi."
+    Ka "Beh, quest'angolo è dove sto di bottega. Avresti potuto chiedere a chiunque e ti avrebbero detto dove trovarmi."
 
 # game/xkatsu.rpy:53
 translate italiantl _call_skiptut_27_0ff5f677:
@@ -22,13 +22,13 @@ translate italiantl _call_skiptut_27_0ff5f677:
 translate italiantl _call_skiptut_27_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/xkatsu.rpy:69
 translate italiantl _call_skiptut_27_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/xkatsu.rpy:83
 translate italiantl _call_skiptut_27_0054b77b:
@@ -58,7 +58,7 @@ translate italiantl _call_skipcheck_27_5574df77:
 translate italiantl _call_skipcheck_27_3f6459e2:
 
     # c "Well, what do you have to offer?"
-    c "Be', cos'hai da offrire?"
+    c "Beh, cos'hai da offrire?"
 
 # game/xkatsu.rpy:114
 translate italiantl _call_skipcheck_27_c92505a3:
@@ -286,7 +286,7 @@ translate italiantl _call_skipcheck_27_8244759d:
 translate italiantl _call_skipcheck_27_031d882e:
 
     # Ka normal "Well, I happen to be an avid player of a game called Mahjong, and just as it so happens, sometimes people play it for money, too."
-    Ka normal "Be', si dà il caso che io sia un accanito giocatore a un gioco chiamato Mahjong, e il caso vuole che a volte la gente ci giochi anche per soldi."
+    Ka normal "Beh, si dà il caso che io sia un accanito giocatore a un gioco chiamato Mahjong, e il caso vuole che a volte la gente ci giochi anche per soldi."
 
 # game/xkatsu.rpy:206
 translate italiantl _call_skipcheck_27_ba3b9d48:
@@ -328,7 +328,7 @@ translate italiantl _call_skipcheck_27_1a34c2ff:
 translate italiantl _call_skipcheck_27_22362d1c:
 
     # c "Well, I am an ambassador, so if you have a story to tell, I'll listen."
-    c "Be', sono un ambasciatorə, quindi se hai una storia da raccontare, ti ascolto." # "I'll listen TO YOU"
+    c "Beh, sono un ambasciatorə, quindi se hai una storia da raccontare, ti ascolto." # "I'll listen TO YOU"
 
 # game/xkatsu.rpy:220
 translate italiantl _call_skipcheck_27_6255a17a:
@@ -430,7 +430,7 @@ translate italiantl _call_skipcheck_27_527f4bdf:
 translate italiantl _call_skipcheck_27_2b9ce85a:
 
     # n "For the next couple of years, I travelled from city to city, trying to find her relatives or confectioners of a similar caliber in order to find the last ingredients of her recipe."
-    n "In séguito, per un paio d'anni, viaggiai di città in città, cercando di trovare i suoi parenti o pasticceri di un simile calibro al fine di ritrovare gli ultimi ingredienti della sua ricetta."
+    n "In seguito, per un paio d'anni, viaggiai di città in città, cercando di trovare i suoi parenti o pasticceri di un simile calibro al fine di ritrovare gli ultimi ingredienti della sua ricetta."
 
 # game/xkatsu.rpy:269
 translate italiantl _call_skipcheck_27_76b2fe88_3:
@@ -617,7 +617,7 @@ translate italiantl _call_skipcheck_27_b707c4e1:
 translate italiantl _call_skipcheck_27_ffb21cf0:
 
     # c "Well, that's what the wheels are for, right?"
-    c "Be', è a questo che servono le ruote, giusto?"
+    c "Beh, è a questo che servono le ruote, giusto?"
 
 # game/xkatsu.rpy:347
 translate italiantl _call_skipcheck_27_62cf7475:
@@ -635,7 +635,7 @@ translate italiantl _call_skipcheck_27_57e9fc76:
 translate italiantl _call_skipcheck_27_4edcfa57:
 
     # m "The dragon raised a claw to his chin, his expression telling me that he was deep in thought."
-    m "Il drago si portò un artiglio al mento, la sua espressione che mi diceva come egli fosse immerso nei suoi pensieri."
+    m "Il drago si portò un artiglio al mento—la sua espressione mi disse che era immerso nei suoi pensieri."
 
 # game/xkatsu.rpy:353
 translate italiantl _call_skipcheck_27_05f3d175:
@@ -695,7 +695,7 @@ translate italiantl _call_skipcheck_27_56710288:
 translate italiantl _call_skipcheck_27_b72fffba:
 
     # Ka smile "Well, if you think you can sell ice cream better than me, then please, go right ahead."
-    Ka smile "Be', se pensi di poter vendere gelato meglio di me, allora ti prego, procedi pure."
+    Ka smile "Beh, se pensi di poter vendere gelato meglio di me, allora ti prego, procedi pure."
 
 # game/xkatsu.rpy:387
 translate italiantl _call_skipcheck_27_2f76319a:
@@ -713,7 +713,7 @@ translate italiantl _call_skipcheck_27_e11f2b33:
 translate italiantl _call_skipcheck_27_5c3c4ba6:
 
     # c "Well, what's your usual sales tactic?"
-    c "Be', qual è la tua tattica di vendita?" # "your [usual] sales tactic"
+    c "Beh, qual è la tua tattica di vendita?" # "your [usual] sales tactic"
 
 # game/xkatsu.rpy:393
 translate italiantl _call_skipcheck_27_fb8fe845:
@@ -827,7 +827,7 @@ translate italiantl _call_skipcheck_27_bbbda778:
 translate italiantl _call_skipcheck_27_f5fa2b93:
 
     # Ka smile flip "Alright, here you go. Ten cups, plus one extra. Just for you."
-    Ka smile flip "D'accordo, ecco a Lei. Dieci tazze, più una extra. Solo per Lei."
+    Ka smile flip "D'accordo, ecco a lei. Dieci tazze, più una extra. Solo per lei."
 
 # game/xkatsu.rpy:453
 translate italiantl _call_skipcheck_27_1bdedddc:
@@ -845,7 +845,7 @@ translate italiantl _call_skipcheck_27_f4369565:
 translate italiantl _call_skipcheck_27_faeaee29:
 
     # Em "Well, this is interesting."
-    Em "Be', questo è interessante."
+    Em "Beh, questo è interessante."
 
 # game/xkatsu.rpy:475
 translate italiantl _call_skipcheck_27_3120a165:
@@ -863,7 +863,7 @@ translate italiantl _call_skipcheck_27_86f09a3e:
 translate italiantl _call_skipcheck_27_7ec305ac:
 
     # c "Well, what does it look like?"
-    c "Be', a Lei cosa sembra?"
+    c "Beh, a lei cosa sembra?"
 
 # game/xkatsu.rpy:481
 translate italiantl _call_skipcheck_27_a9f58ca8:
@@ -911,7 +911,7 @@ translate italiantl _call_skipcheck_27_e832f1ef:
 translate italiantl _call_skipcheck_27_44601eba:
 
     # Em "Well, it's not hard to see why when you kept staying at your old spot on the other side of town."
-    Em "Be', non è difficile vedere il perché quando hai continuato a restare nel tuo vecchio punto dall'altra parte della città."
+    Em "Beh, non è difficile vedere il perché quando hai continuato a restare nel tuo vecchio punto dall'altra parte della città."
 
 # game/xkatsu.rpy:501
 translate italiantl _call_skipcheck_27_279973b9:
@@ -941,13 +941,13 @@ translate italiantl _call_skipcheck_27_37024616:
 translate italiantl _call_skipcheck_27_d2d6ac82:
 
     # Ka "I was sure you had more troubling issues yourself than taking care of a businessman who should be able to take care of himself."
-    Ka "Ero certo che Lei stessa avesse questioni più spinose di cui occuparsi di un drago d'affari che dovrebbe essere in grado di badare a sé stesso."
+    Ka "Ero certo che lei stessa avesse questioni più spinose di cui occuparsi di un drago d'affari che dovrebbe essere in grado di badare a sé stesso."
 
 # game/xkatsu.rpy:511
 translate italiantl _call_skipcheck_27_caf5fa07:
 
     # Em ques b "Well, I won't stand for this town's only ice cream vendor going out of business. With this new location, I don't think you'll have any more trouble, but in order to resolve this little situation here right now, I think I'll have to go with a different solution."
-    Em ques b "Be', non tollero che l'unico gelataio della città chiuda i battenti. Con questa nuova posizione, non credo avrai ancora difficoltà, ma al fine di risolvere questa piccola situazione qui, al momento, penso che dovrò optare per una soluzione diversa."
+    Em ques b "Beh, non tollero che l'unico gelataio della città chiuda i battenti. Con questa nuova posizione, non credo avrai ancora difficoltà, ma al fine di risolvere questa piccola situazione qui, al momento, penso che dovrò optare per una soluzione diversa."
 
 # game/xkatsu.rpy:513
 translate italiantl _call_skipcheck_27_4a7abf6e:
@@ -989,7 +989,7 @@ translate italiantl _call_skipcheck_27_59ff1fb1:
 translate italiantl _call_skipcheck_27_ee80c080:
 
     # c "Well, that was interesting."
-    c "Be', è stato interessante."
+    c "Beh, è stato interessante."
 
 # game/xkatsu.rpy:543
 translate italiantl _call_skipcheck_27_4b552259:
@@ -1127,7 +1127,7 @@ translate italiantl katsuskip_dd20ffbf:
 translate italiantl katsuskip_b787f42d:
 
     # Ka exhausted flip "Well, maybe not all of it, or else I might go bankrupt again..."
-    Ka exhausted flip "Be', magari non tutto, altrimenti potrei andare di nuovo in bancarotta..."
+    Ka exhausted flip "Beh, magari non tutto, altrimenti potrei andare di nuovo in bancarotta..."
 
 # game/xkatsu.rpy:611
 translate italiantl _call_syscheck_104_b3f0bc14:
