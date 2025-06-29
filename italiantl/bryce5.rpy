@@ -82,7 +82,7 @@ translate italiantl bryce5_efa36252:
 translate italiantl bryce5_13f66af5:
 
     # Br "Well, there are more public spaces, but someone like you would get pushed around a lot in the crowds. Besides, I think you'll appreciate the solitude."
-    Br "Be', ci sono degli spazi più pubblici, ma unə come te verrebbe spintə in giro parecchio nella folla. E poi, credo che apprezzerai la solitudine."
+    Br "Beh, ci sono degli spazi più pubblici, ma unə come te verrebbe spintə in giro parecchio nella folla. E poi, credo che apprezzerai la solitudine."
 
 # game/bryce5.rpy:60
 translate italiantl bryce5_8fc66374:
@@ -142,7 +142,7 @@ translate italiantl bryce5_b786e88a:
 translate italiantl bryce5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "Molti razzi seguirono, il loro tonante fragore che echeggiava in tutto quanto il territorio." # see line 62 of Adine 5
+    m "Molti razzi seguirono, il cui tonante fragore echeggiò in tutto quanto il territorio." # see line 62 of Adine 5
 
 # game/bryce5.rpy:97
 translate italiantl bryce5_3f4ba520:
@@ -922,7 +922,7 @@ translate italiantl _call_no_c1eb0fed:
 translate italiantl _call_no_db46faac:
 
     # c "They have proof, Reza. I've seen it myself. Just turn yourself in and we'll go from there. Nobody can help you if you don't do that."
-    c "Hanno le prove, [Rz]. Le ho viste io stessə. Conségnati e basta e ripartiremo da lì. Nessuno può aiutarti se non lo fai."
+    c "Hanno le prove, [Rz]. Le ho viste io stessə. Consegnati e basta e ripartiremo da lì. Nessuno può aiutarti se non lo fai."
 
 # game/bryce5.rpy:745
 translate italiantl _call_no_750a321e:
@@ -1672,7 +1672,7 @@ translate italiantl _call_no_28d2fde2:
 translate italiantl _call_no_91859359:
 
     # c "Well, I guess returning to humanity is out of the picture."
-    c "Be', immagino che ritornare all'umanità sia fuori discussione." # "picture" -> "question"
+    c "Beh, immagino che ritornare all'umanità sia fuori discussione." # "picture" -> "question"
 
 # game/bryce5.rpy:1333
 translate italiantl _call_no_9cf41091:

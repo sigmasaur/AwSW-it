@@ -28,13 +28,13 @@ translate italiantl _call_skiptut_1_0ff5f677:
 translate italiantl _call_skiptut_1_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/bryce4.rpy:76
 translate italiantl _call_skiptut_1_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/bryce4.rpy:91
 translate italiantl _call_skiptut_1_0054b77b:
@@ -58,7 +58,7 @@ translate italiantl _call_skipcheck_1_6c47b3ad:
 translate italiantl _call_skipcheck_1_86c97d7a:
 
     # Br laugh "Well, I figured yours couldn't be any worse than mine. And now that I'm seeing it from the inside, I have to say the council didn't do a bad job with it at all."
-    Br laugh "Be', ho pensato che il tuo non potesse essere peggio del mio. E adesso che lo vedo dall'interno, devo dire che il consiglio ha fatto un lavoro niente affatto male." # "didn't do a bad job [with it] at all"
+    Br laugh "Beh, ho pensato che il tuo non potesse essere peggio del mio. E adesso che lo vedo dall'interno, devo dire che il consiglio ha fatto un lavoro niente affatto male." # "didn't do a bad job [with it] at all"
 
 # game/bryce4.rpy:121
 translate italiantl _call_skipcheck_1_670439dc:
@@ -262,7 +262,7 @@ translate italiantl _call_skipcheck_1_440e89e2:
 translate italiantl _call_skipcheck_1_fd86e2ca:
 
     # Br laugh "Well, you don't have to if you think the wine is that bad."
-    Br laugh "Be', non devi se pensi che il vino sia così male."
+    Br laugh "Beh, non devi se pensi che il vino sia così male."
 
 # game/bryce4.rpy:199
 translate italiantl _call_skipcheck_1_304aa197:
@@ -418,7 +418,7 @@ translate italiantl _call_skipcheck_1_a59f8f81:
 translate italiantl _call_skipcheck_1_824d9ab8:
 
     # Br flirty "Well, we could still play it with just the two of us."
-    Br flirty "Be', potremmo ancora giocarci noi due soli."
+    Br flirty "Beh, potremmo ancora giocarci noi due soli."
 
 # game/bryce4.rpy:268
 translate italiantl _call_skipcheck_1_7f1acbd6:
@@ -466,7 +466,7 @@ translate italiantl _call_skipcheck_1_996a9848:
 translate italiantl _call_skipcheck_1_33c0bb21:
 
     # Br stern "You want to have this conversation right now? Alright, let's have it. Just let it all out."
-    Br stern "Vuoi fare questo discorso proprio adesso? E va bene, facciamolo. Sfógati per bene."
+    Br stern "Vuoi fare questo discorso proprio adesso? E va bene, facciamolo. Sfogati per bene."
 
 # game/bryce4.rpy:284
 translate italiantl _call_skipcheck_1_033b77e1:
@@ -736,7 +736,7 @@ translate italiantl _call_skipcheck_1_a5d49dad:
 translate italiantl _call_skipcheck_1_f6242b16:
 
     # Br "I see. Well, alcoholism and suicide both are huge problems in law enforcement."
-    Br "Capisco. Be', alcolismo e suicidio sono entrambi problemi enormi nelle forze dell'ordine."
+    Br "Capisco. Beh, alcolismo e suicidio sono entrambi problemi enormi nelle forze dell'ordine."
 
 # game/bryce4.rpy:391
 translate italiantl _call_skipcheck_1_a9d9e2fc:
@@ -880,7 +880,7 @@ translate italiantl _call_skipcheck_1_80ddb232:
 translate italiantl _call_skipcheck_1_205e8fa9:
 
     # Br laugh "Well, I did what you told me and played along with her."
-    Br laugh "Be', ho fatto quel che mi hai detto e sono stato al suo gioco." # see line 700 of Bryce 3
+    Br laugh "Beh, ho fatto quel che mi hai detto e sono stato al suo gioco." # see line 700 of Bryce 3
 
 # game/bryce4.rpy:442
 translate italiantl _call_skipcheck_1_b12518ea:
@@ -910,7 +910,7 @@ translate italiantl _call_skipcheck_1_6a9ebe31:
 translate italiantl _call_skipcheck_1_27cc19c2:
 
     # Br "Well, she seemed to like it a lot. There was a lot of grunting and moaning. Plus, she gave me a lot of compliments."
-    Br "Be', sembrava le piacesse parecchio. Ci sono stati un sacco di gemiti e sospiri. In più, mi ha fatto un sacco di complimenti." # "moaning" -> "sighing"
+    Br "Beh, sembrava le piacesse parecchio. Ci sono stati un sacco di gemiti e sospiri. In più, mi ha fatto un sacco di complimenti." # "moaning" -> "sighing"
 
 # game/bryce4.rpy:452
 translate italiantl _call_skipcheck_1_20d2c6e3:
@@ -1018,7 +1018,7 @@ translate italiantl _call_skipcheck_1_3c76d4ed:
 translate italiantl _call_skipcheck_1_fbb126fc:
 
     # Br laugh "Well, the day before yesterday, she tried her thing again. Complained about her back pain to get a massage and asked me if I didn't want to settle down eventually."
-    Br laugh "Be', ieri l'altro, ha tentato di nuovo quella sua cosa. Si è lamentata del suo mal di schiena per farsi fare un massaggio e mi ha chiesto se prima o poi non avrei voluto sistemarmi." # see lines 567, 628 of Bryce 3
+    Br laugh "Beh, ieri l'altro, ha tentato di nuovo quella sua cosa. Si è lamentata del suo mal di schiena per farsi fare un massaggio e mi ha chiesto se prima o poi non avrei voluto sistemarmi." # see lines 567, 628 of Bryce 3
 
 # game/bryce4.rpy:493
 translate italiantl _call_skipcheck_1_43a6e01a:
@@ -1084,7 +1084,7 @@ translate italiantl _call_skipcheck_1_28fde3a3:
 translate italiantl _call_skipcheck_1_d6f53e90:
 
     # Br laugh "Well, not really. Now she's having me do all kinds of stupid things, like guard the outside of her office door for hours on end."
-    Br laugh "Be', non proprio. Adesso mi fa fare ogni sorta di cose stupide, come stare di guardia fuori la porta del suo ufficio per ore e ore."
+    Br laugh "Beh, non proprio. Adesso mi fa fare ogni sorta di cose stupide, come stare di guardia fuori la porta del suo ufficio per ore e ore."
 
 # game/bryce4.rpy:515
 translate italiantl _call_skipcheck_1_66d6ad29:
@@ -1126,7 +1126,7 @@ translate italiantl _call_skipcheck_1_de4291be:
 translate italiantl _call_skipcheck_1_3261af55:
 
     # Br smirk "Well, I did what you told me and asked her out."
-    Br smirk "Be', ho fatto quel che mi hai detto e le ho chiesto di uscire." # see line 440, line 700 of Bryce 3
+    Br smirk "Beh, ho fatto quel che mi hai detto e le ho chiesto di uscire." # see line 440, line 700 of Bryce 3
 
 # game/bryce4.rpy:532
 translate italiantl _call_skipcheck_1_d94f5e6f:
@@ -1138,7 +1138,7 @@ translate italiantl _call_skipcheck_1_d94f5e6f:
 translate italiantl _call_skipcheck_1_f9de7890:
 
     # Br laugh "Well, we didn't go yet. She was just doing her usual thing with her comments again yesterday, so I told her I noticed and that it'd be easier if we just went on a date to find out if we're compatible."
-    Br laugh "Be', non ci siamo ancora andati. Ieri faceva di nuovo quella sua solita cosa coi suoi commenti, così le ho detto che l'avevo notato e che sarebbe stato più semplice se fossimo direttamente usciti insieme per scoprire se siamo compatibili." # see line 491
+    Br laugh "Beh, non ci siamo ancora andati. Ieri faceva di nuovo quella sua solita cosa coi suoi commenti, così le ho detto che l'avevo notato e che sarebbe stato più semplice se fossimo direttamente usciti insieme per scoprire se siamo compatibili." # see line 491
 
 # game/bryce4.rpy:536
 translate italiantl _call_skipcheck_1_a1b73cbf:
@@ -1150,7 +1150,7 @@ translate italiantl _call_skipcheck_1_a1b73cbf:
 translate italiantl _call_skipcheck_1_2c985cea:
 
     # Br "I'm not sure. It seemed like she was both thrilled and in disbelief that I would propose such a thing."
-    Br "Non ne sono sicuro. Sembrava fosse entrambe eccitata e incredula che le proponessi una cosa simile."
+    Br "Non ne sono sicuro. Sembrava fosse allo stesso tempo eccitata e incredula che le proponessi una cosa simile."
 
 # game/bryce4.rpy:540
 translate italiantl _call_skipcheck_1_c856b896:
@@ -1246,7 +1246,7 @@ translate italiantl _call_skipcheck_1_767dec0e:
 translate italiantl _call_skipcheck_1_5a1324ba:
 
     # Br smirk "Well, it's pretty far out. That's the kind of thing someone would make up to scam people for their money, or something like that."
-    Br smirk "Be', è abbastanza stravagante. È il genere di cose che uno si inventerebbe per truffare la gente per i loro soldi, o roba del genere."
+    Br smirk "Beh, è abbastanza stravagante. È il genere di cose che uno si inventerebbe per truffare la gente per i loro soldi, o roba del genere."
 
 # game/bryce4.rpy:575
 translate italiantl _call_skipcheck_1_8fe2ba10:
@@ -1270,13 +1270,13 @@ translate italiantl _call_skipcheck_1_f44da6e0:
 translate italiantl _call_skipcheck_1_0e8d80ad:
 
     # Br "Well, unless you had some sort of proof, I'd call you crazy."
-    Br "Be', a meno che tu non abbia una qualche sorta di prova, ti darei dellə mattə."
+    Br "Beh, a meno che tu non abbia una qualche sorta di prova, ti darei dellə mattə."
 
 # game/bryce4.rpy:583
 translate italiantl _call_skipcheck_1_41b230d7:
 
     # c "As a member of law enforcement, aren't you supposed to follow up on every report?"
-    c "Come membro delle forze dell'ordine, non dovresti dar séguito a ogni segnalazione?"
+    c "Come membro delle forze dell'ordine, non dovresti dar seguito a ogni segnalazione?"
 
 # game/bryce4.rpy:585
 translate italiantl _call_skipcheck_1_d7e1eed1:
@@ -1288,7 +1288,7 @@ translate italiantl _call_skipcheck_1_d7e1eed1:
 translate italiantl _call_skipcheck_1_79d74465:
 
     # Br "If there is no proof, we'll look for proof. If we don't find some, well..."
-    Br "Se non ci sono prove, allora le cerchiamo. E se non ne troviamo, be'..." # "we'll look for proof" -> "THEN we look for it"; "AND if we don't find some"
+    Br "Se non ci sono prove, allora le cerchiamo. E se non ne troviamo, beh..." # "we'll look for proof" -> "THEN we look for it"; "AND if we don't find some"
 
 # game/bryce4.rpy:589
 translate italiantl _call_skipcheck_1_08213c72:
@@ -1330,7 +1330,7 @@ translate italiantl bryce4skip_156df2b4:
 translate italiantl bryce4skip_5bfcd860:
 
     # Br "He's got a very strong sense of justice, so he wouldn't do anything to you without a good reason."
-    Br "Ha un fortissimo senso della giustizia, e quindi non ti farebbe niente senza una buona ragione."
+    Br "Ha un fortissimo senso della giustizia, quindi non ti farebbe niente senza una buona ragione."
 
 # game/bryce4.rpy:607
 translate italiantl bryce4skip_fc7669d5:
@@ -1492,7 +1492,7 @@ translate italiantl bryce4skip_8514adf0:
 translate italiantl bryce4skip_cb86b900:
 
     # Br "Well, yeah. But it's a big tradition here, maybe even an ideological one. Y'know, everyone in the whole town united under the stars, watching the beautiful fireworks. It's a thing."
-    Br "Be', sì. Ma qui è una grande tradizione, forse persino un'ideologia. Sai, tutta quanta la città riunita sotto le stelle, a guardare i bellissimi fuochi d'artificio. È una cosa che facciamo." # "an ideological one" -> "an ideology"; "it's a thing WE DO"
+    Br "Beh, sì. Ma qui è una grande tradizione, forse persino un'ideologia. Sai, tutta quanta la città riunita sotto le stelle, a guardare i bellissimi fuochi d'artificio. È una cosa che facciamo." # "an ideological one" -> "an ideology"; "it's a thing WE DO"
 
 # game/bryce4.rpy:666
 translate italiantl bryce4skip_be68808f:
@@ -1528,7 +1528,7 @@ translate italiantl bryce4skip_cc8f0f09:
 translate italiantl bryce4skip_b0168af4:
 
     # Br normal "Well, you've got my number, so let me know as soon as you can."
-    Br normal "Be', il mio numero ce l'hai, quindi fammi sapere appena puoi."
+    Br normal "Beh, il mio numero ce l'hai, quindi fammi sapere appena puoi."
 
 # game/bryce4.rpy:678
 translate italiantl bryce4skip_e631bc97:
@@ -1552,7 +1552,7 @@ translate italiantl bryce4skip_623b3d0d:
 translate italiantl bryce4skip_620565e5:
 
     # Br smirk "Well, they're still going on outside right now."
-    Br smirk "Be', al momento vanno ancora avanti là fuori."
+    Br smirk "Beh, al momento vanno ancora avanti là fuori."
 
 # game/bryce4.rpy:690
 translate italiantl bryce4skip_5291ce90:
@@ -1576,7 +1576,7 @@ translate italiantl bryce4skip_f626da84:
 translate italiantl bryce4skip_5e9eead7:
 
     # Br laugh "Well, it's better than the one I have right now."
-    Br laugh "Be', è meglio di quella che ho io adesso."
+    Br laugh "Beh, è meglio di quella che ho io adesso."
 
 # game/bryce4.rpy:698
 translate italiantl bryce4skip_af412cdf:
@@ -1630,7 +1630,7 @@ translate italiantl bryce4skip_41a9a03b:
 translate italiantl bryce4skip_8fabf97e:
 
     # Br flirty "Well, why don't we make this a little more romantic? Share a glass of wine and see where the evening takes us..."
-    Br flirty "Be', perché non la rendiamo un po' più romantica? Dividiamo un bicchiere di vino e vediamo dove ci porta la serata..." # see line 719
+    Br flirty "Beh, perché non la rendiamo un po' più romantica? Dividiamo un bicchiere di vino e vediamo dove ci porta la serata..." # see line 719
 
 # game/bryce4.rpy:744
 translate italiantl b4jump_072d9cbc:
@@ -1858,7 +1858,7 @@ translate italiantl b4romance_2655a818:
 translate italiantl b4romance_edfb3c62:
 
     # Br smirk "And then, especially with my kind, they are... Well, I think you can see what I mean."
-    Br smirk "E poi, quelli della mia specie in particolare, loro sono... Be', credo tu possa vedere cosa intendo." # "especially" -> "particularly"
+    Br smirk "E poi, quelli della mia specie in particolare, loro sono... Beh, credo tu possa vedere cosa intendo." # "especially" -> "particularly"
 
 # game/bryce4.rpy:948
 translate italiantl b4romance_3ed24225:

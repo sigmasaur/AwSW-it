@@ -106,7 +106,7 @@ translate italiantl chapter3_322fdf23:
 translate italiantl chapter3_2003f708:
 
     # c "Well, what is it?"
-    c "Be', di che si tratta?"
+    c "Beh, di che si tratta?"
 
 # game/chapter3.rpy:662
 translate italiantl chapter3_789f2de9:
@@ -220,7 +220,7 @@ translate italiantl chapter3_63856961:
 translate italiantl chapter3_f4f5c39c:
 
     # Br "Well, that's him."
-    Br "Be', quello è lui."
+    Br "Beh, quello è lui."
 
 # game/chapter3.rpy:764
 translate italiantl chapter3_fa14f6ec:
@@ -232,7 +232,7 @@ translate italiantl chapter3_fa14f6ec:
 translate italiantl chapter3_f4f5c39c_1:
 
     # Br "Well, that's him."
-    Br "Be', quello è lui."
+    Br "Beh, quello è lui."
 
 # game/chapter3.rpy:780
 translate italiantl chapter3_d19f855d:
@@ -389,7 +389,7 @@ translate italiantl c3contx_a9c6669a:
 translate italiantl c3contx_739cb691:
 
     # Br stern b "Furthermore, the murder weapon and method appear to be the same across all three victims, and that's going to be a big problem for you."
-    Br stern b "Inoltre, l'arma del delitto e il metodo paiono essere gli stessi per tutte e tre le vittime, e questo sarà un bel problema per te." # see line 829
+    Br stern b "Inoltre, l'arma del delitto e il metodo paiono essere gli stessi per tutte e tre le vittime, il che sarà un bel problema per te." # see line 829
 
 # game/chapter3.rpy:864
 translate italiantl c3contx_1bc47770:
@@ -492,19 +492,19 @@ translate italiantl c3contx_5af18c6b_2:
 translate italiantl _call_skiptut_4_7c2b96fe:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the scene selection?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare alla selezione della scena?"
+    s "I miei registri indicano che hai già sperimentato questa parte in maniera soddisfacente. Desideri saltare alla selezione della scena?"
 
 # game/chapter3.rpy:938
 translate italiantl _call_skiptut_4_84d46f4f:
 
     # s "It looks like you've seen this before. Skip to the scene selection?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla selezione della scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla selezione della scena?"
 
 # game/chapter3.rpy:946
 translate italiantl _call_skiptut_4_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
 
 # game/chapter3.rpy:960
 translate italiantl _call_skiptut_4_0054b77b:
@@ -702,7 +702,7 @@ translate italiantl c3conty_11942d8f:
 translate italiantl c3conty_2d868013:
 
     # Em normal "I see. Well, I know I haven't exactly been up to date in regards to Reza's sudden disappearance, but to get the message today that he is a confirmed serial killer was quite shocking."
-    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è un comprovato assassino seriale è stato piuttosto scioccante."
+    Em normal "Capisco. Beh, so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è un comprovato assassino seriale è stato piuttosto scioccante."
 
 # game/chapter3.rpy:1115
 translate italiantl c3conty_98aeb2ec:
@@ -714,19 +714,19 @@ translate italiantl c3conty_98aeb2ec:
 translate italiantl c3conty_4e35c84c:
 
     # Br brow b flip "Simply because they weren't within your jurisdiction. The murders were strictly a police matter."
-    Br brow b flip "Semplicemente perché non rientravano nella Sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia."
+    Br brow b flip "Semplicemente perché non rientravano nella sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia."
 
 # game/chapter3.rpy:1119
 translate italiantl c3conty_fe17f0dd:
 
     # Br "Only with the amount of new evidence, namely the DNA and blood we found and these three murders now being linked together and to him did your ministry have to become involved."
-    Br "Solo con la quantità di nuove prove, ossia il DNA e il sangue che abbiamo trovato e questi tre omicidi ora collegati assieme e a lui si è reso necessario che Lei, Ministro, fosse coinvolta." # "ministry" -> "you, Minister,"
+    Br "Solo con la quantità di nuove prove, ossia il DNA e il sangue che abbiamo trovato e questi tre omicidi ora collegati assieme e a lui si è reso necessario che lei, Ministro, fosse coinvolta." # "ministry" -> "you, Minister,"
 
 # game/chapter3.rpy:1123
 translate italiantl c3conty_2d868013_1:
 
     # Em normal "I see. Well, I know I haven't exactly been up to date in regards to Reza's sudden disappearance, but to get the message today that he is a confirmed serial killer was quite shocking."
-    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è un comprovato assassino seriale è stato piuttosto scioccante." # see line 1113
+    Em normal "Capisco. Beh, so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è un comprovato assassino seriale è stato piuttosto scioccante." # see line 1113
 
 # game/chapter3.rpy:1125
 translate italiantl c3conty_98aeb2ec_1:
@@ -738,19 +738,19 @@ translate italiantl c3conty_98aeb2ec_1:
 translate italiantl c3conty_4e35c84c_1:
 
     # Br brow b flip "Simply because they weren't within your jurisdiction. The murders were strictly a police matter."
-    Br brow b flip "Semplicemente perché non rientravano nella Sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia." # see line 1117
+    Br brow b flip "Semplicemente perché non rientravano nella sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia." # see line 1117
 
 # game/chapter3.rpy:1129
 translate italiantl c3conty_fe17f0dd_1:
 
     # Br "Only with the amount of new evidence, namely the DNA and blood we found and these three murders now being linked together and to him did your ministry have to become involved."
-    Br "Solo con la quantità di nuove prove, ossia il DNA e il sangue che abbiamo trovato e questi tre omicidi ora collegati assieme e a lui si è reso necessario che Lei, Ministro, fosse coinvolta." # see line 1119
+    Br "Solo con la quantità di nuove prove, ossia il DNA e il sangue che abbiamo trovato e questi tre omicidi ora collegati assieme e a lui si è reso necessario che lei, Ministro, fosse coinvolta." # see line 1119
 
 # game/chapter3.rpy:1133
 translate italiantl c3conty_bc3dee69:
 
     # Em normal "I see. Well, I know I haven't exactly kept myself up-to-date with the details of Reza's disappearance, but to receive the message today that he has been involved in multiple murders and break-ins is quite shocking."
-    Em normal "Capisco. Be', so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e intrusioni è stato piuttosto scioccante." # see lines 1113, 1123; "is quite shocking" -> "was quite shocking" to match those lines
+    Em normal "Capisco. Beh, so di non essermi esattamente tenuta al passo in merito all'improvvisa scomparsa di [Rz], ma ricevere il messaggio oggi che lui è coinvolto in molteplici omicidi e intrusioni è stato piuttosto scioccante." # see lines 1113, 1123; "is quite shocking" -> "was quite shocking" to match those lines
 
 # game/chapter3.rpy:1135
 translate italiantl c3conty_98aeb2ec_2:
@@ -762,13 +762,13 @@ translate italiantl c3conty_98aeb2ec_2:
 translate italiantl c3conty_4e35c84c_2:
 
     # Br brow b flip "Simply because they weren't within your jurisdiction. The murders were strictly a police matter."
-    Br brow b flip "Semplicemente perché non rientravano nella Sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia." # see line 1117
+    Br brow b flip "Semplicemente perché non rientravano nella sua giurisdizione. Gli omicidi erano strettamente una faccenda di polizia." # see line 1117
 
 # game/chapter3.rpy:1139
 translate italiantl c3conty_fd929a12:
 
     # Br "Only after we tested our new evidence, discovered the DNA linking the two victims together, and had the PDAs stolen did your ministry have to become involved."
-    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che Lei, Ministro, fosse coinvolta." # see line 1119; "had the PDA[s] stolen" -> "found the PDA was stolen"
+    Br "Solo dopo che abbiamo analizzato le nostre nuove prove, scoperto il DNA che collega le due vittime, e appurato il furto del palmare si è reso necessario che lei, Ministro, fosse coinvolta." # see line 1119; "had the PDA[s] stolen" -> "found the PDA was stolen"
 
 # game/chapter3.rpy:1142
 translate italiantl c3conty_08704206:
@@ -804,7 +804,7 @@ translate italiantl c3conty_4c04f470:
 translate italiantl c3conty_25e09095:
 
     # Br stern b flip "Oh, for sure. If you are worried about your personal safety, we could look into an escort for you."
-    Br stern b flip "Oh, senza dubbio. Se è preoccupata della Sua incolumità personale, potremmo considerare una scorta per Lei."
+    Br stern b flip "Oh, senza dubbio. Se è preoccupata della sua incolumità personale, potremmo considerare una scorta per lei."
 
 # game/chapter3.rpy:1154
 translate italiantl c3conty_4bd14a5d:
@@ -960,7 +960,7 @@ translate italiantl c3conty_31a3f5e7:
 translate italiantl c3conty_eed8112a:
 
     # Em frown "Well, that worked out nicely, didn't it?"
-    Em frown "Be', ha funzionato a meraviglia, non ti pare?"
+    Em frown "Beh, ha funzionato a meraviglia, non ti pare?"
 
 # game/chapter3.rpy:1205
 translate italiantl c3conty_06d2acb9:
@@ -1074,7 +1074,7 @@ translate italiantl c3conty_56daee83:
 translate italiantl c3conty_56909199:
 
     # Em "Well, after reading up on the whole situation and hearing both your accounts, I believe that [player_name] is trustworthy."
-    Em "Be', dopo essermi documentata sull'intera situazione e aver sentito entrambi i vostri resoconti, ritengo che [player_name] sia affidabile."
+    Em "Beh, dopo essermi documentata sull'intera situazione e aver sentito entrambi i vostri resoconti, ritengo che [player_name] sia affidabile."
 
 # game/chapter3.rpy:1256
 translate italiantl c3conty_d1151c36:
@@ -1242,7 +1242,7 @@ translate italiantl c3conty_0d125879:
 translate italiantl c3conty_44b794cb:
 
     # n "On a worldwide level, power lines were switched off, satellites re-orientated in space and planes grounded to mitigate the effects that would hit us. "
-    n "A livello mondiale, le linee elettriche furono staccate, i satelliti ri-orientati nello spazio e il traffico aereo interrotto per mitigare gli effetti che ci avrebbero colpito."
+    n "A livello mondiale, le linee elettriche furono staccate, i satelliti riorientati nello spazio e il traffico aereo interrotto per mitigare gli effetti che ci avrebbero colpito."
 
 # game/chapter3.rpy:1336
 translate italiantl c3conty_d2b5800f:
@@ -1356,7 +1356,7 @@ translate italiantl c3conty_9d9493a7:
 translate italiantl c3conty_ab202eb6:
 
     # n "Some people blamed whoever their belief system would allow, angry at the gods that had forsaken them. Others pointed their fingers at our lifestyle and society. Not that anyone was listening."
-    n "Alcuni incolparono chiunque il loro credo gli consentisse, in collera con gli dèi che li avevano abbandonati. Altri puntarono il dito contro il nostro stile di vita e la nostra società. Non che nessuno prestasse ascolto." # "their belief [system] would allow"
+    n "Alcuni incolparono chiunque il loro credo gli consentisse, in collera con gli dei che li avevano abbandonati. Altri puntarono il dito contro il nostro stile di vita e la nostra società. Non che nessuno prestasse ascolto." # "their belief [system] would allow"
 
 # game/chapter3.rpy:1398
 translate italiantl c3conty_3ef53b09:
@@ -1578,7 +1578,7 @@ translate italiantl c3conty_8529ca11:
 translate italiantl c3conty_83d18c4c:
 
     # Em normal "Well, we have our own matters to discuss, Chief, and I would rather get that over with as quickly as possible."
-    Em normal "Be', abbiamo le nostre questioni di cui discutere, Capo, e preferirei sbrigarle il più rapidamente possibile."
+    Em normal "Beh, abbiamo le nostre questioni di cui discutere, Capo, e preferirei sbrigarle il più rapidamente possibile."
 
 # game/chapter3.rpy:1500
 translate italiantl c3conty_2d518ce7:
@@ -1680,7 +1680,7 @@ translate italiantl c3conty_496fe292:
 translate italiantl c3conty_642d5188:
 
     # Sb "It's none of your concern. Please leave."
-    Sb "Non è niente che La riguardi. Ci lasci per favore." # used formal pronouns, see line 3636 of chapter 1
+    Sb "Non è niente che la riguardi. Ci lasci per favore." # used formal pronouns, see line 3636 of chapter 1
 
 # game/chapter3.rpy:1556
 translate italiantl c3conty_6b72891a:
@@ -1878,7 +1878,7 @@ translate italiantl c3conty_b07ca481:
 translate italiantl c3conty_a9d0b1ac:
 
     # Ad "Well, what does that make you?"
-    Ad "Be', questo cosa fa di te?"
+    Ad "Beh, questo cosa fa di te?"
 
 # game/chapter3.rpy:1635
 translate italiantl c3conty_977a308b_1:
@@ -1902,7 +1902,7 @@ translate italiantl c3conty_1180cb4a:
 translate italiantl c3conty_3c44465b:
 
     # Ad normal b "Well, it was nice to get to know you, at least."
-    Ad normal b "Be', è stato bello poterti conoscere, almeno."
+    Ad normal b "Beh, è stato bello poterti conoscere, almeno."
 
 # game/chapter3.rpy:1643
 translate italiantl c3conty_e085fae4:
@@ -1980,24 +1980,24 @@ translate italiantl c3conty_222b66ca:
 translate italiantl c3conty_228b8580:
 
     # Ad "Yeah. You were a huge jerk."
-    Ad "Già. Sei statə una gran carogna."
+    Ad "Già. Hai fatto davvero l'idiota."
 
 # game/chapter3.rpy:1672
 translate italiantl c3conty_205dffa4: # LEGACY
 
     # Ad normal b Ad "But even though you were a jerk, it was extraordinary to have a human around."
-    Ad normal b "Ma anche se una carogna, è stato straordinario avere un umano intorno." # "even though [you were] a jerk"
+    Ad normal b "Ma anche se hai fatto l'idiota, è stato straordinario avere un umano intorno."
 
 translate italiantl c3conty_7092424c:
 
     # Ad normal b Ad "But even though you were a jerk, it was extraordinary to have a human around."
-    Ad normal b "Ma anche se una carogna, è stato straordinario avere un umano intorno." # see above
+    Ad normal b "Ma anche se hai fatto l'idiota, è stato straordinario avere un umano intorno." # see above
 
 # game/chapter3.rpy:1674
 translate italiantl c3conty_60884f44:
 
     # Ad annoyed b "Well, is it true or not?"
-    Ad annoyed b "Be', è vero o no?"
+    Ad annoyed b "Beh, è vero o no?"
 
 # game/chapter3.rpy:1676
 translate italiantl c3conty_b81e0d1c:
@@ -2291,7 +2291,7 @@ translate italiantl c3conty_b07ca481_1:
 translate italiantl c3conty_a9d0b1ac_1:
 
     # Ad "Well, what does that make you?"
-    Ad "Be', questo cosa fa di te?"
+    Ad "Beh, questo cosa fa di te?"
 
 # game/chapter3.rpy:1780
 translate italiantl c3conty_977a308b_4:
@@ -2517,7 +2517,7 @@ translate italiantl c3conty_6eadb3a1:
 translate italiantl c3conty_db249ee2:
 
     # n "The next thing that did happen was that I heard Sebastian's voice."
-    n "La prima cosa che accadde in séguito fu che udii la voce di [Sb]."
+    n "La prima cosa che accadde in seguito fu che udii la voce di [Sb]."
 
 # game/chapter3.rpy:1904
 translate italiantl c3conty_76b2fe88_10:
@@ -2583,7 +2583,7 @@ translate italiantl c3conty_6dcb76f4:
 translate italiantl c3conty_26c97bce:
 
     # c "Well, what do we do now?"
-    c "Be', e adesso cosa facciamo?"
+    c "Beh, e adesso cosa facciamo?"
 
 # game/chapter3.rpy:1946
 translate italiantl c3conty_929882d8:
@@ -2607,7 +2607,7 @@ translate italiantl c3conty_48f06d44:
 translate italiantl c3conty_1b759578:
 
     # Em ques "Why, thank you."
-    Em ques "Be', ti ringrazio."
+    Em ques "Beh, ti ringrazio."
 
 # game/chapter3.rpy:1967
 translate italiantl c3conty_85c7ebfb:
@@ -2697,7 +2697,7 @@ translate italiantl c3conty_cef4a0f3:
 translate italiantl c3conty_e44daabb:
 
     # m "She turned to leave, Remy trailing after her."
-    m "Lei fece per andarsene, [Ry] al suo séguito."
+    m "Lei fece per andarsene, [Ry] al suo seguito."
 
 # game/chapter3.rpy:2013
 translate italiantl c3conty_ec045626:
@@ -2739,7 +2739,7 @@ translate italiantl c3conty_77d4a046:
 translate italiantl c3conty_d4a6529c:
 
     # Br stern b flip "You better bring that to her. Sebastian and I should hurry to the portal. Meet us there afterwards, okay?"
-    Br stern b flip "Faresti meglio a riportarglielo. [Sb] ed io dovremmo affrettarci al portale. Incontraci là in séguito, okay?"
+    Br stern b flip "Faresti meglio a riportarglielo. [Sb] ed io dovremmo affrettarci al portale. Incontraci là in seguito, okay?"
 
 # game/chapter3.rpy:2031
 translate italiantl c3conty_c48dc32f:
@@ -2895,7 +2895,7 @@ translate italiantl c3conty_88c81d05:
 translate italiantl c3conty_1a2f7071:
 
     # Br laugh b flip "Well, I can confirm that it's not turning on."
-    Br laugh b flip "Be', posso confermare che non si accende."
+    Br laugh b flip "Beh, posso confermare che non si accende."
 
 # game/chapter3.rpy:2122
 translate italiantl c3conty_76b8410f:
@@ -3051,7 +3051,7 @@ translate italiantl c3conty_ede55a65:
 translate italiantl c3conty_e66ea592:
 
     # Br brow b flip "He couldn't have known that I'd forget to find a replacement, though. I don't usually slip up like this."
-    Br brow b flip "Non poteva sapere che mi sarei dimenticato di trovare un rimpiazzo, però. Di solito non commetto simili errori."
+    Br brow b flip "Però non poteva sapere che mi sarei dimenticato di trovare un rimpiazzo. Di solito non commetto simili errori."
 
 # game/chapter3.rpy:2178
 translate italiantl c3conty_f3c71f7b:
@@ -3111,7 +3111,7 @@ translate italiantl c3conty_14c3ff17:
 translate italiantl c3conty_cc8600ac:
 
     # Sb "I'm sure that wouldn't be the only reason they'd benefit, though. There must be something we're not aware of."
-    Sb "Sono certo che non sarebbe il solo vantaggio che ne trarrebbero, comunque. Dev'esserci qualcosa di cui siamo all'oscuro."
+    Sb "Comunque, sono certo che non sarebbe il solo vantaggio che ne trarrebbero. Dev'esserci qualcosa di cui siamo all'oscuro."
 
 # game/chapter3.rpy:2198
 translate italiantl c3conty_84e44e93:
@@ -3585,7 +3585,7 @@ translate italiantl _call_lazycheck_1_0484a9d0:
 translate italiantl _call_lazycheck_1_4d52ec80:
 
     # m "From what I could see, it was the same hooded figure I had met in the maintenance room after the second murder."
-    m "Da quel che riuscii a vedere, si trattava della stessa figura incappucciata che avevo incontrato nella stanza della manutenzione in séguito al secondo omicidio." # see line 578 of chapter 2
+    m "Da quel che riuscii a vedere, si trattava della stessa figura incappucciata che avevo incontrato nella stanza della manutenzione in seguito al secondo omicidio." # see line 578 of chapter 2
 
 # game/chapter3.rpy:2553
 translate italiantl _call_lazycheck_1_a9d09c8c:
@@ -3621,7 +3621,7 @@ translate italiantl _call_syscheck_16_44abe157:
 translate italiantl _call_syscheck_16_fb173d52:
 
     # s "You tried to go to the portal. Unsuccessfully, I might add."
-    s "Hai provato ad andare al portale. Senza successo, se posso aggiungere."
+    s "Hai provato ad andare al portale. Senza successo, potrei aggiungere."
 
 # game/chapter3.rpy:2597
 translate italiantl _call_syscheck_16_9361e101:
@@ -3825,7 +3825,7 @@ translate italiantl c3fac_a131fdf2:
 translate italiantl c3fac_d3f4c47a:
 
     # Lo happy "Well, if anything changes, give me a call!"
-    Lo happy "Be', se cambiasse qualcosa, fammi uno squillo!"
+    Lo happy "Beh, se cambiasse qualcosa, fammi uno squillo!"
 
 # game/chapter3.rpy:2715
 translate italiantl c3fac_255ecca1:
@@ -3921,7 +3921,7 @@ translate italiantl c3fac_e594bfe9:
 translate italiantl c3fac_8e1bc377:
 
     # c "I see. Well, I can't promise anything right now, but I'll keep it in mind."
-    c "Capisco. Be', non posso prometterti nulla al momento, ma lo terrò a mente."
+    c "Capisco. Beh, non posso prometterti nulla al momento, ma lo terrò a mente."
 
 # game/chapter3.rpy:2751
 translate italiantl c3fac_de96437c:
@@ -4065,7 +4065,7 @@ translate italiantl c3fac_47de3b7f:
 translate italiantl c3fac_0689c98b:
 
     # Dm face "Yes. Where I come from, people usually introduce themselves before they start asking questions, though."
-    Dm face "Sì. Dalle mie parti, la gente di solito si presenta prima di iniziare a fare domande, comunque."
+    Dm face "Sì. Dalle mie parti, comunque, la gente di solito si presenta prima di iniziare a fare domande."
 
 # game/chapter3.rpy:2845
 translate italiantl c3fac_2c897276:
@@ -4131,7 +4131,7 @@ translate italiantl c3fac_6696b4fb:
 translate italiantl c3fac_932495f5:
 
     # c "Well, according to my information, you didn't particularly like the victim. Not only were you the last person to see her alive, but you were also the one who found her. As you may imagine, this warrants some questions."
-    c "Be', stando alle mie informazioni, la vittima non ti piaceva particolarmente. Non solo sei stato l'ultima persona a vederla viva, ma sei anche colui che l'ha rinvenuta. Come puoi immaginare, questo solleva alcune domande." # "warrants" -> "raises"
+    c "Beh, stando alle mie informazioni, la vittima non ti piaceva particolarmente. Non solo sei stato l'ultima persona a vederla viva, ma sei anche colui che l'ha rinvenuta. Come puoi immaginare, questo solleva alcune domande." # "warrants" -> "raises"
 
 # game/chapter3.rpy:2870
 translate italiantl c3fac_e8ad2f88:
@@ -4281,7 +4281,7 @@ translate italiantl c3fac_6c76df1a:
 translate italiantl c3fac_571ba8de:
 
     # c "(Well, that didn't go as planned. Guess I won't have any luck here.)"
-    c "(Be', non è andata come previsto. Immagino che non avrò fortuna qui.)"
+    c "(Beh, non è andata come previsto. Immagino che non avrò fortuna qui.)"
 
 # game/chapter3.rpy:2984
 translate italiantl c3fac_84152cd6:
@@ -4341,7 +4341,7 @@ translate italiantl c3fac_ea4fe7aa:
 translate italiantl c3fac_571ba8de_1:
 
     # c "(Well, that didn't go as planned. Guess I won't have any luck here.)"
-    c "(Be', non è andata come previsto. Immagino che non avrò fortuna qui.)" # see line 2967
+    c "(Beh, non è andata come previsto. Immagino che non avrò fortuna qui.)" # see line 2967
 
 # game/chapter3.rpy:3031
 translate italiantl c3fac_60c31fae:
@@ -4413,7 +4413,7 @@ translate italiantl c3fac_aa32c4f9:
 translate italiantl c3fac_571ba8de_2:
 
     # c "(Well, that didn't go as planned. Guess I won't have any luck here.)"
-    c "(Be', non è andata come previsto. Immagino che non avrò fortuna qui.)" # see line 2967
+    c "(Beh, non è andata come previsto. Immagino che non avrò fortuna qui.)" # see line 2967
 
 # game/chapter3.rpy:3086
 translate italiantl c3facques_ac60fa94:
@@ -4791,7 +4791,7 @@ translate italiantl c3arc_06597fde:
 translate italiantl c3arc_6999f3b6:
 
     # Ka normal dk "Well, I must get going for now. Here is my number - I'll get you that ice cream some other time."
-    Ka normal dk "Be', per adesso devo andare. Ecco il mio numero—ti offrirò quel gelato un'altra volta." # corrected em-dash
+    Ka normal dk "Beh, per adesso devo andare. Ecco il mio numero—ti offrirò quel gelato un'altra volta." # corrected em-dash
 
 # game/chapter3.rpy:3368
 translate italiantl c3arc_dd20ffbf:
@@ -4985,7 +4985,7 @@ translate italiantl c3arcques_fd582abe:
 translate italiantl c3arcques_3623e085:
 
     # n "Ultimately, they had a hand in influencing every area of life on a global scale. It was unknown who was truly calling the shots, as their network of companies and names was vast."
-    n "In definitiva, avevano le mani in pasta in ogni àmbito della vita su scala globale. Non si sapeva chi fosse veramente a condurre il gioco, data la vastità della loro rete di compagnie e prestanomi."
+    n "In definitiva, avevano le mani in pasta in ogni ambito della vita su scala globale. Non si sapeva chi fosse veramente a condurre il gioco, data la vastità della loro rete di compagnie e prestanomi."
 
 # game/chapter3.rpy:3534
 translate italiantl c3arcques_c4ee8218:
@@ -5275,7 +5275,7 @@ translate italiantl c3sto_9d4723cf:
 translate italiantl c3sto_d534d27e:
 
     # St "I see. Well, I don't mind as long as you make it quick. I have to leave for my other job soon."
-    St "Capisco. Be', non mi secca purché sia una cosa veloce. Devo scappare al mio altro lavoro fra poco."
+    St "Capisco. Beh, non mi secca purché sia una cosa veloce. Devo scappare al mio altro lavoro fra poco."
 
 # game/chapter3.rpy:3879
 translate italiantl c3sto_e5690abb:
@@ -5479,7 +5479,7 @@ translate italiantl follow_6790b41c:
 translate italiantl follow_338906d7:
 
     # m "I rushed to the spot I'd seen her last and found the entrance to a cave on a hillside."
-    m "Mi precipitai al punto in cui l'avevo vista per l'ultima volta e scòrsi l'entrata di una cava sul versante di una collina."
+    m "Mi precipitai al punto in cui l'avevo vista per l'ultima volta e scorsi l'entrata di una cava sul versante di una collina."
 
 # game/chapter3.rpy:4046
 translate italiantl follow_4e8538c2:
@@ -5491,13 +5491,13 @@ translate italiantl follow_4e8538c2:
 translate italiantl follow_b36cdb39:
 
     # m "Then she placed her hands on the large dragon's chin. Gently, she lifted its huge muzzle and guided it toward the bowl. But when she released it, the dragon's head slumped and fell into the liquid. The bowl tumbled sideways and spilled its contents across the cave floor."
-    m "Poi poggiò le mani sul mento del grosso drago. Gentilmente, gli sollevò l'enorme muso e lo guidò verso la ciotola. Ma quando lasciò la presa, la testa del drago si accasciò e cadde nel liquido. La ciotola tombolò di lato e riversò il contenuto sul pavimento della cava."
+    m "Poi poggiò le mani sul mento del grosso drago. Delicatamente, gli sollevò l'enorme muso e lo guidò verso la ciotola. Ma quando lasciò la presa, la testa del drago si accasciò e cadde nel liquido. La ciotola tombolò di lato e riversò il contenuto sul pavimento della cava."
 
 # game/chapter3.rpy:4064
 translate italiantl follow_b788615d:
 
     # m "I realized then, that other than what Vara had done, the orange dragon hadn't moved at all since I arrived."
-    m "Realizzai allora, che a parte quel che aveva fatto [Vr], il drago color arancio non si era affatto mosso da quando ero arrivatə."
+    m "Realizzai allora che, a parte quel che aveva fatto [Vr], il drago color arancio non si era affatto mosso da quando ero arrivatə."
 
 # game/chapter3.rpy:4074
 translate italiantl follow_25717af4:
@@ -5521,7 +5521,7 @@ translate italiantl follow_759b976c:
 translate italiantl follow_9767decd:
 
     # Sb "Well, good job, [player_name]."
-    Sb "Be', bel lavoro, [player_name]."
+    Sb "Beh, bel lavoro, [player_name]."
 
 # game/chapter3.rpy:4082
 translate italiantl follow_a893d785:
@@ -5545,7 +5545,7 @@ translate italiantl follow_b1bfb125:
 translate italiantl follow_957ad85d:
 
     # Sb "We did. Reza's second victim, the maintenance guy. That was him."
-    Sb "L'abbiamo fatto. La seconda vittima di [Rz], il tipo della manutenzione. Era lui."
+    Sb "L'abbiamo fatto. La seconda vittima di [Rz], l'addetto alla manutenzione. Era lui."
 
 # game/chapter3.rpy:4090
 translate italiantl follow_d19f855d:
@@ -5593,7 +5593,7 @@ translate italiantl follow_2bf69b74:
 translate italiantl follow_6e146781:
 
     # Sb "Well, some do it on principle. Others because they have no other choice."
-    Sb "Be', alcuni lo fanno per principio. Altri perché non hanno altra scelta."
+    Sb "Beh, alcuni lo fanno per principio. Altri perché non hanno altra scelta."
 
 # game/chapter3.rpy:4106
 translate italiantl follow_b84f759d:
@@ -5899,7 +5899,7 @@ translate italiantl _call_syscheck_26_bf048e26:
 translate italiantl _call_syscheck_26_07c118d1:
 
     # Sb drop b "That's strange... It's not here. I remember seeing it when I came in today, so he must've thrown it out earlier."
-    Sb drop b "Che strano... Non è qui. Ricordo di averla vista quando sono arrivato oggi, quindi deve averla gettata via da poco."
+    Sb drop b "Che strano... Non è qui. Ricordo di averla vista quando sono arrivato oggi, quindi deve averla gettata via prima."
 
 # game/chapter3.rpy:4388
 translate italiantl _call_syscheck_26_fbaf23d0:
@@ -5953,7 +5953,7 @@ translate italiantl _call_syscheck_26_4e0dce76:
 translate italiantl _call_syscheck_26_be50daa0:
 
     # c "Well, it's no big deal. Guess I'll just have to hold on to the Ixomen Sphere for a bit longer."
-    c "Be', non è niente di che. Immagino che dovrò solo tenermi stretta la Sfera di Ixomen ancora per un po'."
+    c "Beh, non è niente di che. Immagino che dovrò solo tenermi stretta la Sfera di Ixomen ancora per un po'."
 
 # game/chapter3.rpy:4406
 translate italiantl _call_syscheck_26_ce04aab7:
@@ -6187,7 +6187,7 @@ translate italiantl _call_popularcheck_4_1becd696:
 translate italiantl _call_popularcheck_4_315a50c9:
 
     # Ad "Well, I don't think you're that kind of person."
-    Ad "Be', non penso tu sia quel tipo di persona." # see line 4284 of chapter 2
+    Ad "Beh, non penso tu sia quel tipo di persona." # see line 4284 of chapter 2
 
 # game/chapter3.rpy:4869
 translate italiantl _call_popularcheck_4_abfdff27:
@@ -6199,7 +6199,7 @@ translate italiantl _call_popularcheck_4_abfdff27:
 translate italiantl _call_popularcheck_4_c988d1f1:
 
     # c "(Well, she did get the right number and I'm still confused.)"
-    c "(Be', ha fatto il numero giusto e sono comunque confusə.)" # see line 4292 of chapter 2
+    c "(Beh, ha fatto il numero giusto e sono comunque confusə.)" # see line 4292 of chapter 2
 
 # game/chapter3.rpy:4915
 translate italiantl _call_popularcheck_5_6446f506:

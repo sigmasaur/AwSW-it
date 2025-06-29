@@ -16,13 +16,13 @@ translate italiantl _call_skiptut_26_0ff5f677:
 translate italiantl _call_skiptut_26_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/bryce3.rpy:67
 translate italiantl _call_skiptut_26_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/bryce3.rpy:82
 translate italiantl _call_skiptut_26_0054b77b:
@@ -160,7 +160,7 @@ translate italiantl _call_skipcheck_26_12655d49:
 translate italiantl _call_skipcheck_26_9c76eb26:
 
     # Br "Really? Well, if that's your decision, then so be it."
-    Br "Davvero? Be', se è questo che hai deciso, allora così sia."
+    Br "Davvero? Beh, se è questo che hai deciso, allora così sia."
 
 # game/bryce3.rpy:174
 translate italiantl _call_skipcheck_26_c58e35f6:
@@ -322,7 +322,7 @@ translate italiantl _call_skipcheck_26_f3451469:
 translate italiantl _call_skipcheck_26_56141cb5:
 
     # Br laugh "And firewood... Well, we don't need that."
-    Br laugh "E la legna da ardere... Be', quella non ci serve."
+    Br laugh "E la legna da ardere... Beh, quella non ci serve."
 
 # game/bryce3.rpy:307
 translate italiantl _call_skipcheck_26_89aefe22:
@@ -382,7 +382,7 @@ translate italiantl _call_skipcheck_26_41418e3f:
 translate italiantl _call_skipcheck_26_4f7016c1:
 
     # Zh "Yes, because of the flu. Everything was congested, so it was hard to get anything out at all."
-    Zh "Sì, per via dell'influenza. Ero tutto congestionato, e quindi era difficile far uscire niente."
+    Zh "Sì, per via dell'influenza. Ero tutto congestionato, quindi era difficile far uscire niente."
 
 # game/bryce3.rpy:331
 translate italiantl _call_skipcheck_26_40ccf354:
@@ -706,7 +706,7 @@ translate italiantl _call_skipcheck_26_426bef2c:
 translate italiantl _call_skipcheck_26_0dedc24f:
 
     # Br "Just help yourself, and throw it on the fire."
-    Br "Sèrviti pure, e buttalo sul fuoco."
+    Br "Serviti pure, e buttalo sul fuoco."
 
 # game/bryce3.rpy:471
 translate italiantl _call_skipcheck_26_628aae63:
@@ -1066,7 +1066,7 @@ translate italiantl bryce3pass_fcc80f05:
 translate italiantl bryce3pass_56fac078:
 
     # Zh "Well, I'm done with this."
-    Zh "Be', ho sentito abbastanza." # must match line 624
+    Zh "Beh, ho sentito abbastanza." # must match line 624
 
 # game/bryce3.rpy:628
 translate italiantl bryce3pass_01f01318:
@@ -1120,7 +1120,7 @@ translate italiantl bryce3pass_5959e0e0:
 translate italiantl bryce3pass_098230a9:
 
     # Br "Oh well."
-    Br "Oh be'."
+    Br "Oh beh."
 
 # game/bryce3.rpy:660
 translate italiantl bryce3pass_e2db248f:
@@ -1234,7 +1234,7 @@ translate italiantl bryce3pass_b4e1b16c:
 translate italiantl bryce3pass_eceff4a0:
 
     # Br laugh "Well, I know at least one person."
-    Br laugh "Be', conosco almeno una persona."
+    Br laugh "Beh, conosco almeno una persona."
 
 # game/bryce3.rpy:698
 translate italiantl bryce3pass_43c4c519:
@@ -1252,7 +1252,7 @@ translate italiantl bryce3pass_0b2a89bd:
 translate italiantl bryce3pass_6f2e31ff:
 
     # c "Well, you said she could make your professional life a nightmare, but if you play along a little, maybe the opposite is true as well."
-    c "Be', l'hai detto tu che potrebbe rendere la tua vita professionale un inferno, ma se stai un po' al gioco, magari è vero anche l'opposto." # see line 678
+    c "Beh, l'hai detto tu che potrebbe rendere la tua vita professionale un inferno, ma se stai un po' al gioco, magari è vero anche l'opposto." # see line 678
 
 # game/bryce3.rpy:708
 translate italiantl bryce3pass_8f1d7f80:
@@ -1270,7 +1270,7 @@ translate italiantl bryce3pass_290cdf56:
 translate italiantl bryce3pass_b8e7627d:
 
     # c "Well, if you string her along that would be pretty dishonest. And she might be even more angry when she finds out the truth than if you had just told her up front."
-    c "Be', se la tieni sulla corda sarebbe piuttosto disonesto. E lei potrebbe arrabbiarsi ancora di più quando scoprisse la verità che non se gliel'avessi detto sin da subito."
+    c "Beh, se la tieni sulla corda sarebbe piuttosto disonesto. E lei potrebbe arrabbiarsi ancora di più quando scoprisse la verità che non se gliel'avessi detto sin da subito."
 
 # game/bryce3.rpy:723
 translate italiantl bryce3pass_4d4ee5e6:
@@ -1288,7 +1288,7 @@ translate italiantl bryce3pass_1692c56e:
 translate italiantl bryce3pass_1924f39e:
 
     # c "Well, what's the worst that could happen? Maybe she won't be as bad as you think."
-    c "Be', qual è il peggio che potrebbe succedere? Magari lei non sarà poi così terribile come credi."
+    c "Beh, qual è il peggio che potrebbe succedere? Magari lei non sarà poi così terribile come credi."
 
 # game/bryce3.rpy:738
 translate italiantl bryce3pass_e20f6be9:
@@ -1319,13 +1319,13 @@ translate italiantl bryce3pass_7f60646a:
 translate italiantl bryce3pass_70df3bbd:
 
     # Br "Well, there isn't any crossbreeding. It doesn't work like that."
-    Br "Be', non ci sono ibridazioni. Non funziona in quel modo."
+    Br "Beh, non ci sono ibridazioni. Non funziona in quel modo."
 
 # game/bryce3.rpy:757
 translate italiantl bryce3pass_1a14eb81:
 
     # Br laugh "Besides, I thought you were into biology, so shouldn't you already know where hatchlings come from?"
-    Br laugh "E poi, pensavo ti intendessi di biologia, e quindi non dovresti già sapere da dove vengono i cuccioli?"
+    Br laugh "E poi, pensavo ti intendessi di biologia, quindi non dovresti già sapere da dove vengono i cuccioli?"
 
 # game/bryce3.rpy:761
 translate italiantl bryce3pass_608159f3:
@@ -1415,7 +1415,7 @@ translate italiantl bryce3pass_eab18ce4:
 translate italiantl bryce3pass_ceddac29:
 
     # Sb "Well, I've seen [player_name] hang out with that librarian a few times."
-    Sb "Be', ho visto [player_name] assieme a quel bibliotecario qualche volta." # "hang out" -> "together"
+    Sb "Beh, ho visto [player_name] assieme a quel bibliotecario qualche volta." # "hang out" -> "together"
 
 # game/bryce3.rpy:795
 translate italiantl bryce3pass_55005532:
@@ -1505,7 +1505,7 @@ translate italiantl bryce3pass_39ec63f9:
 translate italiantl bryce3pass_92b19e7f:
 
     # Sb "Well, I've seen [player_name] hang out with a certain yellow flyer a few times."
-    Sb "Be', ho visto [player_name] stare assieme a una certa volatrice gialla qualche volta." # see line 793
+    Sb "Beh, ho visto [player_name] stare assieme a una certa volatrice gialla qualche volta." # see line 793
 
 # game/bryce3.rpy:845
 translate italiantl bryce3pass_3e8210bd:
@@ -1607,7 +1607,7 @@ translate italiantl bryce3pass_39ec63f9_1:
 translate italiantl bryce3pass_d6de999b:
 
     # Sb "Well, I've noticed that [player_name] has been making a lot of visits to the production facility."
-    Sb "Be', ho notato che [player_name] sta facendo parecchie visite allo stabilimento di produzione."
+    Sb "Beh, ho notato che [player_name] sta facendo parecchie visite allo stabilimento di produzione."
 
 # game/bryce3.rpy:899
 translate italiantl bryce3pass_1ebe4f54:
@@ -1691,7 +1691,7 @@ translate italiantl bryce3pass_86e1e633:
 translate italiantl bryce3pass_a0cc92d6:
 
     # Sb "Well, [player_name] has hung out with Lorem a few times now."
-    Sb "Be', [player_name] si è vistə con [Lo] diverse volte ormai." # see line 793, line 2622 of chapter 4
+    Sb "Beh, [player_name] si è vistə con [Lo] diverse volte ormai." # see line 793, line 2622 of chapter 4
 
 # game/bryce3.rpy:943
 translate italiantl bryce3pass_5d357fce:
@@ -1907,7 +1907,7 @@ translate italiantl bryce3pass_0bacb59a:
 translate italiantl bryce3pass_098230a9_1:
 
     # Br "Oh well."
-    Br "Oh be'."
+    Br "Oh beh."
 
 # game/bryce3.rpy:1037
 translate italiantl bryce3pass_ac5a863b:
@@ -1919,7 +1919,7 @@ translate italiantl bryce3pass_ac5a863b:
 translate italiantl bryce3pass_711bc0ee:
 
     # Br laugh "Well, guess we all got what we came here for. What about you, Maverick?"
-    Br laugh "Be', immagino che abbiamo avuto tutti quello per cui eravamo venuti. E tu che mi dici, [Mv]?"
+    Br laugh "Beh, immagino che abbiamo avuto tutti quello per cui eravamo venuti. E tu che mi dici, [Mv]?"
 
 # game/bryce3.rpy:1041
 translate italiantl bryce3pass_fbe1451f:
@@ -1973,7 +1973,7 @@ translate italiantl bryce3pass_3070bc42:
 translate italiantl bryce3pass_929b98a2:
 
     # Br "Well, they all live in the vicinity, but your apartment is on the other side of town. I'm not letting you go home alone at this hour. Reza has always operated during the night, and he may just be waiting for an opportunity like this."
-    Br "Be', loro vivono tutti nelle vicinanze, ma il tuo appartamento è dall'altra parte della città. Non ti lascerò andare a casa da solə a quest'ora. [Rz] ha sempre agito durante la notte, e potrebbe stare solo aspettando un'occasione come questa." # see line 1207 of chapter 4
+    Br "Beh, loro vivono tutti nelle vicinanze, ma il tuo appartamento è dall'altra parte della città. Non ti lascerò andare a casa da solə a quest'ora. [Rz] ha sempre agito durante la notte, e potrebbe stare solo aspettando un'occasione come questa." # see line 1207 of chapter 4
 
 # game/bryce3.rpy:1071
 translate italiantl bryce3pass_6f947559:
@@ -2327,7 +2327,7 @@ translate italiantl bryce3skip_8d99114b:
 translate italiantl bryce3skip_3ae5ccd1:
 
     # Br flirty "Well, if you say so."
-    Br flirty "Be', se lo dici tu."
+    Br flirty "Beh, se lo dici tu."
 
 # game/bryce3.rpy:1287
 translate italiantl bryce3skip_576c7e8b:
@@ -2369,7 +2369,7 @@ translate italiantl bryce3skip_8ae23095:
 translate italiantl bryce3skip_6ef94901:
 
     # Br "Well, it's not like I could take a layer off, except this little blanket here."
-    Br "Be', non è che io possa levarmi uno strato, eccetto questa copertina qui."
+    Br "Beh, non è che io possa levarmi uno strato, eccetto questa copertina qui."
 
 # game/bryce3.rpy:1315
 translate italiantl bryce3skip_6378d3ca:
@@ -2393,7 +2393,7 @@ translate italiantl bryce3skip_9f85b645:
 translate italiantl bryce3skip_6ea168d0:
 
     # Br "Well, good night, then."
-    Br "Be', buonanotte, allora."
+    Br "Beh, buonanotte, allora."
 
 # game/bryce3.rpy:1323
 translate italiantl bryce3skip_037084a2:
@@ -2411,7 +2411,7 @@ translate italiantl bryce3skip_240f7c23:
 translate italiantl bryce3skip_b546a4e4:
 
     # Br laugh "Well, if you say so. I'm not going to argue."
-    Br laugh "Be', se lo dici tu. Non intendo discutere."
+    Br laugh "Beh, se lo dici tu. Non intendo discutere."
 
 # game/bryce3.rpy:1354
 translate italiantl bryce3skip_ffb1ac25:

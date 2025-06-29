@@ -64,13 +64,13 @@ translate italiantl _call_skiptut_22_0ff5f677:
 translate italiantl _call_skiptut_22_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/remy1.rpy:79
 translate italiantl _call_skiptut_22_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/remy1.rpy:94
 translate italiantl _call_skiptut_22_0054b77b:
@@ -190,7 +190,7 @@ translate italiantl _call_skipcheck_22_e9081a43:
 translate italiantl _call_skipcheck_22_a0f3ef29:
 
     # Ry "Well, I'm glad to see you again, at any rate."
-    Ry "Be', sono felice di rivederti, in ogni caso."
+    Ry "Beh, sono felice di rivederti, in ogni caso."
 
 # game/remy1.rpy:173
 translate italiantl _call_skipcheck_22_c591d661:
@@ -400,13 +400,13 @@ translate italiantl _call_skipcheck_22_daeeef43:
 translate italiantl _call_skipcheck_22_5f988610:
 
     # Ry "Well, if you say so..."
-    Ry "Be', se lo dici tu..."
+    Ry "Beh, se lo dici tu..."
 
 # game/remy1.rpy:310
 translate italiantl _call_skipcheck_22_6a25340a:
 
     # Ry "Basically, these eight books you see over there were all part of a section that was moved, so they have to be sorted into their new area."
-    Ry "In pratica, quegli otto libri che vedi laggiù fanno tutti parte di una sezione che è stata spostata, e quindi devono essere riordinati nel loro nuovo settore." # "these eight books" -> "those eight books"
+    Ry "In pratica, quegli otto libri che vedi laggiù fanno tutti parte di una sezione che è stata spostata, quindi devono essere riordinati nel loro nuovo settore." # "these eight books" -> "those eight books"
 
 # game/remy1.rpy:311
 translate italiantl _call_skipcheck_22_25021eee:
@@ -565,7 +565,7 @@ translate italiantl _call_syscheck_85_be4a8d64:
 translate italiantl _call_syscheck_85_135c3fa5:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry "Be', non è che ti costringa a restare qui. Conosci l'uscita, sempre che tu riesca ancora a trovare la porta."
+    Ry "Beh, non è che ti costringa a restare qui. Conosci l'uscita, sempre che tu riesca ancora a trovare la porta."
 
 # game/remy1.rpy:801
 translate italiantl _call_syscheck_85_76b2fe88:
@@ -631,7 +631,7 @@ translate italiantl _call_syscheck_85_be4a8d64_1:
 translate italiantl _call_syscheck_85_135c3fa5_1:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry "Be', non è che ti costringa a restare qui. Conosci l'uscita, sempre che tu riesca ancora a trovare la porta." # see line 798
+    Ry "Beh, non è che ti costringa a restare qui. Conosci l'uscita, sempre che tu riesca ancora a trovare la porta." # see line 798
 
 # game/remy1.rpy:863
 translate italiantl _call_syscheck_85_76b2fe88_2:
@@ -697,7 +697,7 @@ translate italiantl _call_syscheck_85_be4a8d64_2:
 translate italiantl _call_syscheck_85_135c3fa5_2:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry "Be', non è che ti costringa a restare qui. Conosci l'uscita, sempre che tu riesca ancora a trovare la porta." # see line 798
+    Ry "Beh, non è che ti costringa a restare qui. Conosci l'uscita, sempre che tu riesca ancora a trovare la porta." # see line 798
 
 # game/remy1.rpy:925
 translate italiantl _call_syscheck_85_76b2fe88_4:
@@ -772,7 +772,7 @@ translate italiantl _call_syscheck_85_be4a8d64_3:
 translate italiantl _call_syscheck_85_135c3fa5_3:
 
     # Ry "Well, it's not like I'm forcing you to stay here. You can see yourself out, if you can still find the exit."
-    Ry "Be', non è che ti costringa a restare qui. Conosci l'uscita, sempre che tu riesca ancora a trovare la porta." # see line 798
+    Ry "Beh, non è che ti costringa a restare qui. Conosci l'uscita, sempre che tu riesca ancora a trovare la porta." # see line 798
 
 # game/remy1.rpy:987
 translate italiantl _call_syscheck_85_76b2fe88_6:
@@ -862,7 +862,7 @@ translate italiantl remycont_83b5ca96:
 translate italiantl remycont_273998e3:
 
     # m "Before I could answer, Remy came around the corner, his face bearing a look of disapproval. He stooped over and helped me pick up the spilled objects."
-    m "Prima che potessi rispondere, [Ry] girò l'angolo, il suo volto che recava uno sguardo di disapprovazione. Si piegò e mi aiutò a raccogliere gli oggetti rovesciati."
+    m "Prima che potessi rispondere, [Ry] girò l'angolo—il suo volto recava uno sguardo di disapprovazione. Si piegò e mi aiutò a raccogliere gli oggetti rovesciati."
 
 # game/remy1.rpy:1054
 translate italiantl remycont_dfdabe9a:
@@ -880,7 +880,7 @@ translate italiantl remycont_f8b8b643:
 translate italiantl remycont_7bdef241:
 
     # Ry "Well, it doesn't look like anything is broken. That could have ended up much worse."
-    Ry "Be', non sembra esserci nulla di rotto. Sarebbe potuta finire molto peggio."
+    Ry "Beh, non sembra esserci nulla di rotto. Sarebbe potuta finire molto peggio."
 
 # game/remy1.rpy:1070
 translate italiantl remycont_c52d1141:
@@ -1211,7 +1211,7 @@ translate italiantl remystuff_1d8d2308:
 translate italiantl remystuff_3e0e5731:
 
     # Ry "Well, they're free to believe what they want. They'll see soon enough, anyway. Live and let live, as they say."
-    Ry "Be', sono liberi di credere ciò che vogliono. Se ne accorgeranno presto, in ogni caso. Vivi e lascia vivere, come dicono."
+    Ry "Beh, sono liberi di credere ciò che vogliono. Se ne accorgeranno presto, in ogni caso. Vivi e lascia vivere, come dicono."
 
 # game/remy1.rpy:1199
 translate italiantl remystuff_123e30ab:
@@ -1235,7 +1235,7 @@ translate italiantl remystuff_7b2edb73:
 translate italiantl remystuff_0dadfd05:
 
     # Ry "I see. Well, don't worry about explaining them to me. I'm sure you have much more important things to do while you are here. It is just a question of time until one of them ends up with me, anyway."
-    Ry "Capisco. Be', non devi preoccuparti di illustrarmeli. Sono certo che avrai cose molto più importanti da fare mentre ti trovi qui. È solo questione di tempo prima che uno di essi finisca da me, comunque." # "YOU don't HAVE TO worry"; "with me" -> "to me"
+    Ry "Capisco. Beh, non devi preoccuparti di illustrarmeli. Sono certo che avrai cose molto più importanti da fare mentre ti trovi qui. È solo questione di tempo prima che uno di essi finisca da me, comunque." # "YOU don't HAVE TO worry"; "with me" -> "to me"
 
 # game/remy1.rpy:1207
 translate italiantl remystuff_af2e6b70:
@@ -1529,7 +1529,7 @@ translate italiantl _call_syscheck_86_fc7fd592:
 translate italiantl _call_syscheck_86_6d148a1d:
 
     # m "I considered these implications and also thought about what wisdom and insight could be gained from this and how it would help me on my mission, when it suddenly hit me:"
-    m "Consideravo queste implicazioni e inoltre riflettevo su quale saggezza e intuizione si potesse trarre da questo e come mi avrebbe aiutato nella mia missione, quando improvvisamente realizzai:"
+    m "Consideravo queste implicazioni, inoltre riflettevo su quale saggezza e intuizione si potesse trarre da questo e come mi avrebbe aiutato nella mia missione, quando improvvisamente realizzai:"
 
 # game/remy1.rpy:1385
 translate italiantl _call_syscheck_86_ca671b88:
@@ -1548,7 +1548,7 @@ translate italiantl _call_syscheck_86_23a61578:
 
     # m "Furrowing my brows, I took a moment to consider the events that took place ever since I arrived in the dragon's world while I looked myself over in the mirror. I was aware of that, regardless of the outcome, humanity would never be the same again after my return. I considered these implications and also thought about what wisdom and insight could be gained from this and how it would help me on my mission, when it suddenly hit me:"
     m "Aggrottando le sopracciglia, mi presi un momento per considerare gli eventi che avevano avuto luogo sin da quando ero arrivatə nel mondo dei draghi mentre mi guardavo nello specchio. Ero ben consapevole che, a prescindere dalla riuscita, l'umanità non sarebbe stata più la stessa dopo il mio ritorno."
-    m "Consideravo queste implicazioni e inoltre riflettevo su quale saggezza e intuizione si potesse trarre da questo e come mi avrebbe aiutato nella mia missione, quando improvvisamente realizzai:" # split to fit five lines and to match lines 1383-1384; see those lines
+    m "Consideravo queste implicazioni, inoltre riflettevo su quale saggezza e intuizione si potesse trarre da questo e come mi avrebbe aiutato nella mia missione, quando improvvisamente realizzai:" # split to fit five lines and to match lines 1383-1384; see those lines
 
 # game/remy1.rpy:1391
 translate italiantl _call_syscheck_86_ca671b88_1:
@@ -1608,7 +1608,7 @@ translate italiantl _call_syscheck_86_1d5aad63:
 translate italiantl _call_syscheck_86_afd189af:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar: Calm down, Aidith. Focus.{/font}{/color}"
-    Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar: Calmati, Aidith. Concéntrati.{/font}{/color}"
+    Al "{color=#FFFFF0}{font=Munro.ttf}Bonnar: Calmati, Aidith. Concentrati.{/font}{/color}"
 
 # game/remy1.rpy:1454
 translate italiantl _call_syscheck_86_4d78f3e8:
@@ -1638,7 +1638,7 @@ translate italiantl _call_syscheck_86_7e78b681:
 translate italiantl _call_syscheck_86_da19a840:
 
     # Al "{color=#FFFFF0}{font=Munro.ttf}Aidith uses Whirlwind!{/font}{/color}"
-    Al "{color=#FFFFF0}{font=Munro.ttf}Aidith usa Tùrbine!{/font}{/color}"
+    Al "{color=#FFFFF0}{font=Munro.ttf}Aidith usa Turbine!{/font}{/color}"
 
 # game/remy1.rpy:1488
 translate italiantl _call_syscheck_86_bb1a6d52:
@@ -1710,7 +1710,7 @@ translate italiantl _call_syscheck_86_a47f6ec7:
 translate italiantl _call_syscheck_86_c3492174:
 
     # Ry "Well, whatever you did... At least it seems to be okay."
-    Ry "Be', qualunque cosa hai fatto... Almeno sembra essere a posto."
+    Ry "Beh, qualunque cosa hai fatto... Almeno sembra essere a posto."
 
 # game/remy1.rpy:1588
 translate italiantl _call_syscheck_86_da6c66ce:
@@ -1800,7 +1800,7 @@ translate italiantl _call_syscheck_86_2a6c1eb6:
 translate italiantl _call_syscheck_86_c329466f:
 
     # Ry "Well, at least my office is still standing."
-    Ry "Be', almeno il mio ufficio è ancora in piedi."
+    Ry "Beh, almeno il mio ufficio è ancora in piedi."
 
 # game/remy1.rpy:1620
 translate italiantl _call_syscheck_86_ecfe1d62:
@@ -1956,7 +1956,7 @@ translate italiantl remy1skip_cfe2aa3c:
 translate italiantl remy1skip_e06d45c0:
 
     # Ry "Well, what do humans typically do in such a situation?"
-    Ry "Be', che cosa fanno tipicamente gli umani in una situazione simile?"
+    Ry "Beh, che cosa fanno tipicamente gli umani in una situazione simile?"
 
 # game/remy1.rpy:1729
 translate italiantl remy1skip_2496f7b1:
@@ -2322,7 +2322,7 @@ translate italiantl strings:
 
     # remy1.rpy:1183
     old "Well, I can tell you that there is nothing supernatural about me."
-    new "Be', posso assicurarti che non c'è nulla di sovrannaturale in me."
+    new "Beh, posso assicurarti che non c'è nulla di sovrannaturale in me."
 
     # remy1.rpy:1183
     old "Those people are stupid."

@@ -124,7 +124,7 @@ translate italiantl sec_a77efeb5:
 translate italiantl sec_b69a1abd:
 
     # Iz "If you still have that knowledge, we should have no trouble doing the same thing here, though. Maybe we could do even more than that."
-    Iz "Se hai ancora questa conoscenza, non dovremmo avere difficoltà a fare la stessa cosa qui, comunque. Forse potremmo fare anche più di questo."
+    Iz "Se hai ancora questa conoscenza, comunque, non dovremmo avere difficoltà a fare la stessa cosa qui. Forse potremmo fare anche più di questo."
 
 # game/sec.rpy:83
 translate italiantl sec_3070bc42:
@@ -220,7 +220,7 @@ translate italiantl denied_b4fcb581:
 translate italiantl denied_52a45eea:
 
     # Iz "Oh. Well, that's a shame. I thought you'd have the memories we'd need in order access a certain piece of information contained within."
-    Iz "Oh. Be', è un peccato. Credevo avessi i ricordi che ci sarebbero serviti per accedere a certi frammenti di informazione contenuti all'interno."
+    Iz "Oh. Beh, è un peccato. Credevo avessi i ricordi che ci sarebbero serviti per accedere a certi frammenti di informazione contenuti all'interno."
 
 # game/sec.rpy:195
 translate italiantl denied_4aff6d4b:
@@ -670,7 +670,7 @@ translate italiantl noperm_56cb2696:
 translate italiantl noperm_84d6bbbf:
 
     # s "You want to play a game? Be my guest."
-    s "Vuoi fare una partita? Accòmodati."
+    s "Vuoi fare una partita? Accomodati."
 
 # game/sec.rpy:735
 translate italiantl noperm_7e681612:

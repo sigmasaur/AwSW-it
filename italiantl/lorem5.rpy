@@ -142,7 +142,7 @@ translate italiantl lorem5_f705c1cd:
 translate italiantl lorem5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "Molti razzi seguirono, il loro tonante fragore che echeggiava in tutto quanto il territorio." # see line 62 of Adine 5
+    m "Molti razzi seguirono, il cui tonante fragore echeggiò in tutto quanto il territorio." # see line 62 of Adine 5
 
 # game/lorem5.rpy:101
 translate italiantl lorem5_3de6ab5e:
@@ -574,7 +574,7 @@ translate italiantl loremgoodending2_0b7da9ca:
 translate italiantl loremgoodending2_1213736c:
 
     # c "Turn around."
-    c "Vòltati."
+    c "Voltati."
 
 # game/lorem5.rpy:438
 translate italiantl loremgoodending2_3727b251:
@@ -730,7 +730,7 @@ translate italiantl loremgoodending3_af82c933:
 translate italiantl loremgoodending3_630d5a4b:
 
     # m "At first it looked as though it was going to miss, but the sphere adjusted its path and flew straight towards him."
-    m "Dapprima sembrò come se l'avrebbe mancato, ma la sfera corrèsse il suo percorso e volò dritta verso di lui." # "it was going to miss HIM"
+    m "Dapprima sembrò come se l'avrebbe mancato, ma la sfera corresse il suo percorso e volò dritta verso di lui." # "it was going to miss HIM"
 
 # game/lorem5.rpy:723
 translate italiantl loremgoodending3_7306f938:

@@ -34,13 +34,13 @@ translate italiantl _call_skiptut_17_44e0ddc6:
 translate italiantl _call_skiptut_17_690da0b1:
 
     # s "It looks like you've seen this before. Skip ahead a bit?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare un po' avanti?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare un po' avanti?"
 
 # game/anna4.rpy:79
 translate italiantl _call_skiptut_17_889f24a0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip ahead a bit."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti."
 
 # game/anna4.rpy:93
 translate italiantl _call_skiptut_17_0054b77b:
@@ -244,7 +244,7 @@ translate italiantl _call_skipcheck_17_9c9e0e61:
 translate italiantl _call_skipcheck_17_3add2b1a:
 
     # n "Not without prior approval by the council. My research was promising, though. And while I submitted the paperwork, I knew that these things always moved slowly."
-    n "Non senza la previa approvazione del consiglio. La mia ricerca era promettente, però. E sebbene avessi presentato i documenti, sapevo che queste cose andavano sempre a rilento."
+    n "Non senza la previa approvazione del consiglio. La mia ricerca, però, era promettente. E sebbene avessi presentato i documenti, sapevo che queste cose andavano sempre a rilento."
 
 # game/anna4.rpy:206
 translate italiantl _call_skipcheck_17_76b2fe88_3:
@@ -268,7 +268,7 @@ translate italiantl _call_skipcheck_17_e7ef2f0b:
 translate italiantl _call_skipcheck_17_e2558e4a:
 
     # n "The method I was going to use was not necessarily a new one, but it was controversial. It didn't even cross my mind that anyone would object, seeing as I would cure thousands, if not millions of future people."
-    n "Quello che intendevo usare non era necessariamente un metodo nuovo, ma era controverso. Nemmeno mi sfiorò l'idea che qualcuno si sarebbe opposto, visto che avrei curato migliaia, se non milioni di persone in futuro."
+    n "Quello che intendevo usare non era necessariamente un metodo nuovo, ma era controverso. Non mi sfiorò nemmeno l'idea che qualcuno si sarebbe opposto, visto che avrei curato migliaia, se non milioni di persone in futuro."
 
 # game/anna4.rpy:215
 translate italiantl _call_skipcheck_17_17a03a2a:
@@ -328,13 +328,13 @@ translate italiantl _call_skipcheck_17_ee41b11a:
 translate italiantl _call_skipcheck_17_32373b89:
 
     # n "Using the controversial method when it hadn't been approved was still seen as a very grievous offense, however."
-    n "Usare quel metodo controverso quando non era stato approvato era ancora vista come un'offesa gravissima, però." # "the controversial method" -> "that controversial method"
+    n "Tuttavia, usare quel metodo controverso quando non era stato approvato era ancora vista come un'offesa gravissima." # "the controversial method" -> "that controversial method"
 
 # game/anna4.rpy:241
 translate italiantl _call_skipcheck_17_b7bf63e4:
 
     # n "I was charged and sentenced harshly, though the sentence was suspended due to their lack of evidence."
-    n "Fui incriminata e condannata duramente, sebbene la pena fu sospesa a causa della loro mancanza di prove."
+    n "Fui incriminata e condannata duramente, anche se la pena fu sospesa a causa della loro mancanza di prove."
 
 # game/anna4.rpy:243
 translate italiantl _call_skipcheck_17_982e2ece:
@@ -370,7 +370,7 @@ translate italiantl _call_skipcheck_17_3461f980:
 translate italiantl _call_skipcheck_17_c9c53b69:
 
     # An face "Before my paperwork would even get through, you’d be long gone."
-    An face "Prima ancora che li avessero sbrigàti, te ne saresti già andatə da un pezzo." # "my paperwork" -> "they"
+    An face "Prima ancora che li avessero sbrigati, te ne saresti già andatə da un pezzo." # "my paperwork" -> "they"
 
 # game/anna4.rpy:269
 translate italiantl _call_skipcheck_17_2466102c:
@@ -880,7 +880,7 @@ translate italiantl a4otherwise_cac4c825:
 translate italiantl a4otherwise_a07e2e36:
 
     # An cry "One of their oh-so-important founding principles is how every individual is important. That's clearly not the case with me. At least, they never showed it was."
-    An cry "Uno dei loro tanto amati princìpi fondanti è come ogni individuo sia importante. È chiaro che con me non è così. Almeno, non hanno mai dato a vedere che lo fosse." # "oh-so-important" -> "beloved"
+    An cry "Uno dei loro tanto amati principi fondanti è come ogni individuo sia importante. È chiaro che con me non è così. Almeno, non hanno mai dato a vedere che lo fosse." # "oh-so-important" -> "beloved"
 
 # game/anna4.rpy:484
 translate italiantl a4otherwise_c04fd889:
@@ -994,13 +994,13 @@ translate italiantl _call_skiptut_18_0ff5f677:
 translate italiantl _call_skiptut_18_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/anna4.rpy:560
 translate italiantl _call_skiptut_18_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/anna4.rpy:575
 translate italiantl _call_skiptut_18_0054b77b:
@@ -1216,7 +1216,7 @@ translate italiantl _call_skipcheck_18_83683327:
 translate italiantl _call_skipcheck_18_1d3badc2:
 
     # An "Well, let's just say that while everyone can join the police force, you'll never be the flyer on duty unless you belong to a species that can fly."
-    An "Be', diciamo solo che sebbene chiunque possa entrare in polizia, non sarai mai il volatore di turno a meno che tu non appartenga a una specie che può volare."
+    An "Beh, diciamo solo che sebbene chiunque possa entrare in polizia, non sarai mai il volatore di turno a meno che tu non appartenga a una specie che può volare."
 
 # game/anna4.rpy:667
 translate italiantl _call_skipcheck_18_a4b9d871:
@@ -1246,7 +1246,7 @@ translate italiantl _call_skipcheck_18_4d3f3918:
 translate italiantl _call_skipcheck_18_74e6fa19:
 
     # An normal "Well, a council's aide - particularly one who works in the archives - is usually a member of a species with more dextrous hands. You can't really expect a four legged species to do that kind of job well."
-    An normal "Be', un assistente del consiglio—particolarmente uno che lavora negli archivi—di solito è membro di una specie con una maggiore manualità. Non puoi pretendere che una specie quadrupede svolga bene quel tipo di lavoro." # corrected em-dash; "you can't [really] expect"
+    An normal "Beh, un assistente del consiglio—particolarmente uno che lavora negli archivi—di solito è membro di una specie con una maggiore manualità. Non puoi pretendere che una specie quadrupede svolga bene quel tipo di lavoro." # corrected em-dash; "you can't [really] expect"
 
 # game/anna4.rpy:677
 translate italiantl _call_skipcheck_18_04f2322a:
@@ -1474,7 +1474,7 @@ translate italiantl _call_skipcheck_18_b0225365:
 translate italiantl _call_skipcheck_18_ab2da13c:
 
     # An "You do seem to like talking about this kind of stuff, though."
-    An "Certo sembra piacerti parlare di questo genere di cose, però."
+    An "Certo però sembra piacerti parlare di questo genere di cose."
 
 # game/anna4.rpy:776
 translate italiantl _call_skipcheck_18_aac01a77:
@@ -1606,7 +1606,7 @@ translate italiantl _call_skipcheck_18_87cb5ec3:
 translate italiantl _call_skipcheck_18_c4277bcf:
 
     # An normal "And I also can't deny that you have a certain exotic quality about you."
-    An normal "E inoltre non posso negare che ci sia in te una certa qualità esotica."
+    An normal "Inoltre non posso negare che tu abbia una certa qualità esotica."
 
 # game/anna4.rpy:820
 translate italiantl _call_skipcheck_18_b32238b4:
@@ -1684,7 +1684,7 @@ translate italiantl anna4skip2_2a273f16:
 translate italiantl anna4skip2_230bcb88:
 
     # An sad "You know what? I don't deserve you. Find yourself someone who is as nice as you are and be happy."
-    An sad "Sai che c'è? Io non ti merito. Tròvati qualcuno che sia gentile quanto lo sei tu e siate felici."
+    An sad "Sai che c'è? Io non ti merito. Trovati qualcuno che sia gentile quanto lo sei tu e siate felici."
 
 # game/anna4.rpy:866
 translate italiantl anna4skip2_be761c8f:
@@ -1786,7 +1786,7 @@ translate italiantl a4romance_506c11b1:
 translate italiantl a4romance_0b4ea39d:
 
     # An normal "Well, we have to take these off, don't we?"
-    An normal "Be', questi dobbiamo toglierli, dico bene?"
+    An normal "Beh, questi dobbiamo toglierli, dico bene?"
 
 # game/anna4.rpy:944
 translate italiantl a4romance_bc8692f9:
@@ -1828,7 +1828,7 @@ translate italiantl a4romance_e9647dac:
 translate italiantl a4romance_9343dc67:
 
     # An "Well, I guess it's time for me to go, then. There is plenty of stuff I have to take care of before they take me in. Research papers, the facility and other things."
-    An "Be', immagino sia ora di andarmene, allora. C'è un mucchio di roba di cui devo occuparmi prima che mi portino dentro. Documenti di ricerca, lo stabilimento e altre cose." # see line 882
+    An "Beh, immagino sia ora di andarmene, allora. C'è un mucchio di roba di cui devo occuparmi prima che mi portino dentro. Documenti di ricerca, lo stabilimento e altre cose." # see line 882
 
 # game/anna4.rpy:988
 translate italiantl a4romance_6d5c66fb:

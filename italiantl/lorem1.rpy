@@ -4,7 +4,7 @@
 translate italiantl lorem1_3d89afe3:
 
     # m "I went to the bar Lorem had suggested as our meeting place. When I looked around, I saw Bryce sitting at a table, talking to someone I couldn’t see. I lingered on him for a second, but soon spotted Lorem in the corner of my eye."
-    m "Mi recai al bar che [Lo] aveva suggerito come nostro luogo d'incontro. Nel guardarmi attorno, vidi [Br] seduto a un tavolo, che parlava con qualcuno che non potevo vedere. Mi soffermai su di lui per un secondo, ma presto scòrsi [Lo] con la coda dell'occhio."
+    m "Mi recai al bar che [Lo] aveva suggerito come nostro luogo d'incontro. Nel guardarmi attorno, vidi [Br] seduto a un tavolo, che parlava con qualcuno che non potevo vedere. Mi soffermai su di lui per un secondo, ma presto scorsi [Lo] con la coda dell'occhio."
 
 # game/lorem1.rpy:41
 translate italiantl lorem1_fb5ec58c:
@@ -28,13 +28,13 @@ translate italiantl _call_skiptut_16_0ff5f677:
 translate italiantl _call_skiptut_16_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/lorem1.rpy:77
 translate italiantl _call_skiptut_16_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/lorem1.rpy:92
 translate italiantl _call_skiptut_16_0054b77b:
@@ -208,7 +208,7 @@ translate italiantl _call_skipcheck_16_b7b18181:
 translate italiantl _call_skipcheck_16_ed1e847f:
 
     # c "Well..."
-    c "Be'..."
+    c "Beh..."
 
 # game/lorem1.rpy:232
 translate italiantl _call_skipcheck_16_60287eb6:
@@ -238,7 +238,7 @@ translate italiantl _call_skipcheck_16_2660554d:
 translate italiantl _call_skipcheck_16_dce6f68c:
 
     # c "Well, I'm already here and have nothing else to do, so let's make the most of this."
-    c "Be', sono già qui e non ho nient'altro da fare, perciò sfruttiamola al meglio."
+    c "Beh, sono già qui e non ho nient'altro da fare, perciò sfruttiamola al meglio."
 
 # game/lorem1.rpy:260
 translate italiantl _call_skipcheck_16_55eb3920:
@@ -250,7 +250,7 @@ translate italiantl _call_skipcheck_16_55eb3920:
 translate italiantl _call_skipcheck_16_aded8efe:
 
     # c "Well, this was a waste of time."
-    c "Be', è stata una perdita di tempo."
+    c "Beh, è stata una perdita di tempo."
 
 # game/lorem1.rpy:268
 translate italiantl _call_skipcheck_16_87c9bd59:
@@ -442,7 +442,7 @@ translate italiantl _call_skipcheck_16_d879a92b:
 translate italiantl _call_skipcheck_16_fafe2bd6:
 
     # Lo relieved "Well, I guess you're not part of the target audience, then."
-    Lo relieved "Be', immagino tu non faccia parte del pubblico di riferimento, allora."
+    Lo relieved "Beh, immagino tu non faccia parte del pubblico di riferimento, allora."
 
 # game/lorem1.rpy:424
 translate italiantl _call_skipcheck_16_491774d2:
@@ -730,7 +730,7 @@ translate italiantl _call_skipcheck_16_b57cf12b:
 translate italiantl _call_skipcheck_16_cd5dac38:
 
     # Lo normal "Right. With that we'd go into the realm of creatures that just don't make much sense at all."
-    Lo normal "Giusto. Con quello ci addentriamo nell'àmbito delle creature che proprio non hanno affatto senso." # "we['d] go"; "don't make [much] sense at all"
+    Lo normal "Giusto. Con quello ci addentriamo nell'ambito delle creature che proprio non hanno affatto senso." # "we['d] go"; "don't make [much] sense at all"
 
 # game/lorem1.rpy:549
 translate italiantl _call_skipcheck_16_62c174e9:
@@ -772,7 +772,7 @@ translate italiantl _call_skipcheck_16_223625a4:
 translate italiantl _call_skipcheck_16_d21ff05e:
 
     # c "We are mammals, though."
-    c "Siamo mammiferi, però."
+    c "Però siamo mammiferi."
 
 # game/lorem1.rpy:563
 translate italiantl _call_skipcheck_16_1097c581:
@@ -874,7 +874,7 @@ translate italiantl _call_skipcheck_16_3ff38ba7:
 translate italiantl _call_skipcheck_16_abdd03bc:
 
     # Lo think "Sounds rather outlandish, if you ask me. We certainly can't shapeshift like that."
-    Lo think "Sembra piuttosto stravagante, se me lo chiedi. Di certo non possiamo trasmutare a quel modo."
+    Lo think "Sembra piuttosto stravagante, se lo chiedi a me. Di certo non possiamo trasmutare a quel modo."
 
 # game/lorem1.rpy:622
 translate italiantl _call_skipcheck_16_6b37c29e:
@@ -928,7 +928,7 @@ translate italiantl _call_skipcheck_16_2a92c8b3:
 translate italiantl _call_skipcheck_16_0b33fa04:
 
     # Lo happy "Well, you're doing an excellent job so far. And it's bound to help me a lot with my game as well."
-    Lo happy "Be', finora stai facendo un lavoro eccellente. E non potrà che aiutarmi un sacco anche col mio gioco."
+    Lo happy "Beh, finora stai facendo un lavoro eccellente. E non potrà che aiutarmi un sacco anche col mio gioco."
 
 # game/lorem1.rpy:645
 translate italiantl _call_skipcheck_16_9d229f6a:
@@ -1168,13 +1168,13 @@ translate italiantl _call_skipcheck_16_346b54b1:
 translate italiantl _call_skipcheck_16_efc51e51:
 
     # c "Well, you're investing a certain amount of time and money into making this game. Ideally, you would make back your investment and hopefully get some profit on top of that."
-    c "Be', stai investendo una certa quantità di tempo e denaro nel realizzare questo gioco. L'ideale sarebbe recuperare l'investimento e sperabilmente farci anche qualche profitto."
+    c "Beh, stai investendo una certa quantità di tempo e denaro nel realizzare questo gioco. L'ideale sarebbe recuperare l'investimento e sperabilmente farci anche qualche profitto."
 
 # game/lorem1.rpy:725
 translate italiantl _call_skipcheck_16_869998d9:
 
     # Lo normal "If the goal is to make money, sure. However, I just wanted to try my hand at doing something like this. If some people are going to enjoy the end result, that's great."
-    Lo normal "Se l'obiettivo è fare soldi, certo. Però, io volevo solo cimentarmi nel fare una cosa come questa. Se poi ad alcuni piacerà il risultato finale, be', è fantastico." # "WELL, that's great"
+    Lo normal "Se l'obiettivo è fare soldi, certo. Però, io volevo solo cimentarmi nel fare una cosa come questa. Se poi ad alcuni piacerà il risultato finale, beh, è fantastico." # "WELL, that's great"
 
 # game/lorem1.rpy:727
 translate italiantl _call_skipcheck_16_1ed5e1ae:
@@ -1444,7 +1444,7 @@ translate italiantl lorem1skip_3070bc42:
 translate italiantl lorem1skip_d098a468:
 
     # Lo relieved "Well, I can't help but feel like you still thought this was a waste of time."
-    Lo relieved "Be', ho la sensazione che tu abbia comunque pensato che fosse una perdita di tempo." # "I [can't help but] feel like"
+    Lo relieved "Beh, ho la sensazione che tu abbia comunque pensato che fosse una perdita di tempo." # "I [can't help but] feel like"
 
 # game/lorem1.rpy:921
 translate italiantl lorem1skip_9ca6f404:
@@ -1506,7 +1506,7 @@ translate italiantl strings:
 
     # lorem1.rpy:119
     old "Well, I'm here now."
-    new "Be', adesso sono qui."
+    new "Beh, adesso sono qui."
 
     # lorem1.rpy:119
     old "I almost didn't."

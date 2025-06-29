@@ -40,13 +40,13 @@ translate italiantl _call_skiptut_30_0ff5f677:
 translate italiantl _call_skiptut_30_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/adine4.rpy:78
 translate italiantl _call_skiptut_30_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/adine4.rpy:92
 translate italiantl _call_skiptut_30_0054b77b:
@@ -82,7 +82,7 @@ translate italiantl _call_skipcheck_30_ae9bd704:
 translate italiantl _call_skipcheck_30_8be16951:
 
     # Ad think b "Well, I guess you don't have to wait with me. You could see the rest of the festival if you wanted to."
-    Ad think b "Be', immagino che non dovrai aspettare con me. Potresti vedere il resto del festival se ti andasse."
+    Ad think b "Beh, immagino che non dovrai aspettare con me. Potresti vedere il resto del festival se ti andasse."
 
 # game/adine4.rpy:127
 translate italiantl _call_skipcheck_30_80560524:
@@ -130,7 +130,7 @@ translate italiantl _call_skipcheck_30_3c99baa8:
 translate italiantl _call_skipcheck_30_6357ebb6:
 
     # Ad normal b "Sure. So, today's agenda is emotional support, and next time, we can take in all aspects of the festival. Sound good?"
-    Ad normal b "Sicuro. Quindi, all'ordine del giorno è il supporto emotivo, e la prossima volta, potremo assorbire tutti gli aspetti del festival. Come ti sembra?"
+    Ad normal b "Sicuro. Quindi, all'ordine del giorno è il supporto emotivo, e la prossima volta, potremo ammirare il festival in tutti i suoi aspetti. Come ti sembra?"
 
 # game/adine4.rpy:143
 translate italiantl _call_skipcheck_30_c0cdabcc:
@@ -202,7 +202,7 @@ translate italiantl _call_skipcheck_30_24b1c5b9:
 translate italiantl _call_skipcheck_30_34635a29:
 
     # m "After Adine had waddled off to the other flyers, I surveyed my surroundings idly."
-    m "Dopo che [Ad] se ne fu andata ancheggiando dagli altri volatori, indagai pigramente intorno a me."
+    m "Dopo che [Ad] se ne fu andata ancheggiando dagli altri volatori, osservai pigramente intorno a me."
 
 # game/adine4.rpy:187
 translate italiantl _call_skipcheck_30_350085b9:
@@ -292,7 +292,7 @@ translate italiantl _call_skipcheck_30_cadca0e2:
 translate italiantl _call_skipcheck_30_4fe39ca1:
 
     # c "Well, you know more about them than they do about you. Having a promising newcomer there might throw them off their game."
-    c "Be', sai più tu di loro che loro di te. Il fatto che ci sarà una nuova promessa potrebbe coglierli alla sprovvista."
+    c "Beh, sai più tu di loro che loro di te. Il fatto che ci sarà una nuova promessa potrebbe coglierli alla sprovvista."
 
 # game/adine4.rpy:219
 translate italiantl _call_skipcheck_30_37150d93:
@@ -916,7 +916,7 @@ translate italiantl _call_skipcheck_30_4472f108:
 translate italiantl _call_skipcheck_30_610a3901:
 
     # c "Well, dragons have these myths about humans. How many of them do you actually believe are true?"
-    c "Be', i draghi hanno questi miti sugli umani. Quanti di essi credi effettivamente siano veri?"
+    c "Beh, i draghi hanno questi miti sugli umani. Quanti di essi credi effettivamente siano veri?"
 
 # game/adine4.rpy:465
 translate italiantl _call_skipcheck_30_cb4778c3:
@@ -934,7 +934,7 @@ translate italiantl _call_skipcheck_30_1bc47770:
 translate italiantl _call_skipcheck_30_9b1a0282:
 
     # Ad normal b "Well, I think there's a lot we can learn from it. Much of our society is based on it, including our laws and traditions."
-    Ad normal b "Be', penso che possiamo imparare molto da queste. Gran parte della nostra società è basata su di esse, incluse le nostre leggi e tradizioni."
+    Ad normal b "Beh, penso che possiamo imparare molto da queste. Gran parte della nostra società è basata su di esse, incluse le nostre leggi e tradizioni."
 
 # game/adine4.rpy:471
 translate italiantl _call_skipcheck_30_89aefe22_1:
@@ -1006,7 +1006,7 @@ translate italiantl _call_skipcheck_30_e4e8acc9:
 translate italiantl _call_skipcheck_30_28aab4be:
 
     # Ad normal b "Well, not necessarily. There could've been other humans around, right?"
-    Ad normal b "Be', non necessariamente. Potrebbero esserci stati degli altri umani, giusto?"
+    Ad normal b "Beh, non necessariamente. Potrebbero esserci stati degli altri umani, giusto?"
 
 # game/adine4.rpy:495
 translate italiantl _call_skipcheck_30_259c38e8:
@@ -1120,7 +1120,7 @@ translate italiantl _call_skipcheck_30_ff7034f0:
 translate italiantl _call_skipcheck_30_7f2d4a0b:
 
     # Ad normal b "Not really. There hasn't been much speculation about that yet. Of course we're curious, though. Next time, we want to send one of our ambassadors into your world, to make it even and all that."
-    Ad normal b "Non proprio. Non c'è ancora stata molta speculazione su quello. Naturalmente siamo curiosi, però. La prossima volta, intendiamo mandare uno dei nostri ambasciatori nel vostro mondo, per fare pari e patta."
+    Ad normal b "Non proprio. Non c'è ancora stata molta speculazione su quello. Naturalmente però siamo curiosi. La prossima volta, intendiamo mandare uno dei nostri ambasciatori nel vostro mondo, per fare pari e patta."
 
 # game/adine4.rpy:533
 translate italiantl _call_skipcheck_30_efec4af5:
@@ -1300,7 +1300,7 @@ translate italiantl _call_skipcheck_30_0f173ebb:
 translate italiantl _call_skipcheck_30_8badefcc:
 
     # Ad giggle b "Well, I'm not going to tell you. Do you want me to put it on or not?"
-    Ad giggle b "Be', non ho intenzione di dirtelo. Vuoi che la metta o no?"
+    Ad giggle b "Beh, non ho intenzione di dirtelo. Vuoi che la metta o no?"
 
 # game/adine4.rpy:621
 translate italiantl _call_skipcheck_30_5145c461:
@@ -1318,7 +1318,7 @@ translate italiantl _call_skipcheck_30_476617c6:
 translate italiantl _call_skipcheck_30_144da182:
 
     # c "Well, that doesn't look unusual."
-    c "Be', questo non sembra insolito."
+    c "Beh, questo non sembra insolito."
 
 # game/adine4.rpy:631
 translate italiantl _call_skipcheck_30_25ee6891:
@@ -1378,13 +1378,13 @@ translate italiantl _call_skipcheck_30_eff5852f:
 translate italiantl _call_skipcheck_30_ce0da94f:
 
     # m "Since the dragons' concept of clothing was different, they had applied their own principles when creating this series."
-    m "Dal momento che i draghi avevano una diversa nozione di vestiario, nel creare questa serie avevano applicato i loro stessi princìpi."
+    m "Dal momento che i draghi avevano una diversa nozione di vestiario, nel creare questa serie avevano applicato i loro stessi principi."
 
 # game/adine4.rpy:651
 translate italiantl _call_skipcheck_30_df34c9d2:
 
     # m "It was quite bizarre to see a typical family sitcom where all the characters were in obviously fake costumes - and also happened to be naked."
-    m "Fu alquanto bizzarro vedere una tipica famiglia da sitcom dove tutti i personaggi erano in costumi palesemente finti—e inoltre si dà il caso che fossero nudi." # corrected em-dash
+    m "Fu alquanto bizzarro vedere una tipica famiglia da sitcom dove tutti i personaggi erano in costumi palesemente finti—inoltre si dà il caso che fossero nudi." # corrected em-dash
 
 # game/adine4.rpy:653
 translate italiantl _call_skipcheck_30_7c5e1867:
@@ -1396,7 +1396,7 @@ translate italiantl _call_skipcheck_30_7c5e1867:
 translate italiantl _call_skipcheck_30_75def1de:
 
     # Ad think b "It's one of my favorites. While it is a sitcom, it manages to address serious and deep issues fairly often, which I don't think would be as effective if we weren't watching them through the lens of this alternate reality."
-    Ad think b "È una delle mie preferite. Per quanto sia una sitcom, riesce ad affrontare questioni serie e profonde piuttosto spesso, il che non credo sarebbe così efficace se non li guardassimo attraverso le lenti di questa realtà alternativa."
+    Ad think b "È una delle mie preferite. Per quanto sia una sitcom, riesce ad affrontare questioni serie e profonde piuttosto spesso, il che non credo sarebbe così efficace se non le guardassimo attraverso le lenti di questa realtà alternativa."
 
 # game/adine4.rpy:657
 translate italiantl _call_skipcheck_30_3936fee2:
@@ -1510,7 +1510,7 @@ translate italiantl adine4skip_0f173ebb:
 translate italiantl adine4skip_23f18e2d:
 
     # Ad giggle b "Well, it'd be a huge favor to ask, and it's kinda embarrassing..."
-    Ad giggle b "Be', sarebbe un enorme favore da chiederti, ed è piuttosto imbarazzante..."
+    Ad giggle b "Beh, sarebbe un enorme favore da chiederti, ed è piuttosto imbarazzante..."
 
 # game/adine4.rpy:699
 translate italiantl adine4skip_f3a3c074:
@@ -1600,7 +1600,7 @@ translate italiantl adine4skip_46ae1e02:
 translate italiantl adine4skip_489f6bad:
 
     # Ad normal b "Great. Well, you know where the door is. Be safe!"
-    Ad normal b "Ottimo. Be', sai dov'è la porta. Stammi bene!"
+    Ad normal b "Ottimo. Beh, sai dov'è la porta. Stammi bene!"
 
 # game/adine4.rpy:771
 translate italiantl a4shower_f8c0c1ea:
@@ -1624,7 +1624,7 @@ translate italiantl a4shower_854b2f37:
 translate italiantl a4shower_d9eaf701:
 
     # Ad "This isn't just your regular dragon-sized shower. It's made specifically for a flyer like me. We need enough room to stretch our wings."
-    Ad "Questa non è solo una normale doccia a misura di drago. È fatta appositamente per un volatore come me. Ci serve abbastanza spazio per allungare le nostre ali."
+    Ad "Questa non è solo una normale doccia a misura di drago. È fatta appositamente per una volatrice come me. Ci serve abbastanza spazio per allungare le nostre ali."
 
 # game/adine4.rpy:785
 translate italiantl a4shower_3872395b:
@@ -1756,13 +1756,13 @@ translate italiantl a4shower_2355e57c_1:
 translate italiantl a4shower_40b08c73:
 
     # Ad "Well, I was just a child back then. You know how kids are. They make fun of everything. Though, I don't know if human children are the same way."
-    Ad "Be', allora ero solo una cucciola. Lo sai come sono i piccoli. Si prendono gioco di ogni cosa. Anche se, non so se anche i cuccioli umani siano così."
+    Ad "Beh, allora ero solo una cucciola. Lo sai come sono i piccoli. Si prendono gioco di ogni cosa. Anche se, non so se anche i cuccioli umani siano così."
 
 # game/adine4.rpy:865
 translate italiantl a4shower_f74e637e:
 
     # c "They are, trust me."
-    c "Lo sono, fìdati."
+    c "Lo sono, fidati."
 
 # game/adine4.rpy:869
 translate italiantl a4shower_9868a4c6:
@@ -1834,7 +1834,7 @@ translate italiantl a4shower_f5d1df0e:
 translate italiantl a4shower_87a63a63:
 
     # Ad "Well, you tickle the dragon you get the..."
-    Ad "Be', solletica il drago e ti prenderai..."
+    Ad "Beh, solletica il drago e ti prenderai..."
 
 # game/adine4.rpy:905
 translate italiantl a4shower_e7e86b90:

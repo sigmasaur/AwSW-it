@@ -34,13 +34,13 @@ translate italiantl _call_skiptut_14_0ff5f677:
 translate italiantl _call_skiptut_14_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/xsebastian.rpy:79
 translate italiantl _call_skiptut_14_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/xsebastian.rpy:93
 translate italiantl _call_skiptut_14_0054b77b:
@@ -58,7 +58,7 @@ translate italiantl _call_skipcheck_14_0054b77b:
 translate italiantl _call_skipcheck_14_18481910:
 
     # c "Huh. Well, I'm glad you take my security so seriously."
-    c "Huh. Be', sono contentə che prendi la mia sicurezza così sul serio."
+    c "Huh. Beh, sono contentə che prendi la mia sicurezza così sul serio."
 
 # game/xsebastian.rpy:121
 translate italiantl _call_skipcheck_14_b588e3ed:
@@ -88,13 +88,13 @@ translate italiantl _call_skipcheck_14_4c1b873d:
 translate italiantl _call_skipcheck_14_2e15f5de:
 
     # c "It's just... It's pretty boring when I have to spend the day all on my own. I don't really know anyone here yet, so I don't know where I could go or what I could do for fun."
-    c "È solo... È piuttosto noioso quando devo passare la giornata per conto mio. Non conosco poi ancora nessuno qui, e quindi non so dove potrei andare o cosa potrei fare per svago."
+    c "È solo... È piuttosto noioso quando devo passare la giornata per conto mio. Non conosco poi ancora nessuno qui, quindi non so dove potrei andare o cosa potrei fare per svago."
 
 # game/xsebastian.rpy:156
 translate italiantl _call_skipcheck_14_5ad26c28:
 
     # Sb "Well, if it were earlier I could've shown you around town and given you the tour, but it's getting dark outside, and I think most places are closed by now. Let me think..."
-    Sb "Be', se fosse più presto avrei potuto mostrarti la città e farti fare il giro turistico, ma si sta facendo buio di fuori, e credo che molti posti ormai siano chiusi. Fammi pensare..." # see lines 1901-1902 of chapter 1
+    Sb "Beh, se fosse più presto avrei potuto mostrarti la città e farti fare il giro turistico, ma si sta facendo buio di fuori, e credo che molti posti ormai siano chiusi. Fammi pensare..." # see lines 1901-1902 of chapter 1
 
 # game/xsebastian.rpy:158
 translate italiantl _call_skipcheck_14_b89da983:
@@ -142,7 +142,7 @@ translate italiantl _call_skipcheck_14_6055f878:
 translate italiantl _call_skipcheck_14_17c04d15:
 
     # Sb "Well, it might not be my best idea, but I'm not sure there's much else we could do at this time."
-    Sb "Be', potrebbe non essere la mia idea migliore, ma non sono sicuro ci sia molto altro da poter fare a quest'ora."
+    Sb "Beh, potrebbe non essere la mia idea migliore, ma non sono sicuro ci sia molto altro da poter fare a quest'ora."
 
 # game/xsebastian.rpy:190
 translate italiantl _call_skipcheck_14_c782fb9c:
@@ -190,7 +190,7 @@ translate italiantl _call_skipcheck_14_b738fedc:
 translate italiantl _call_skipcheck_14_bed0f8d5:
 
     # Sb normal b "Well, maybe next time."
-    Sb normal b "Be', magari la prossima volta."
+    Sb normal b "Beh, magari la prossima volta."
 
 # game/xsebastian.rpy:216
 translate italiantl _call_skipcheck_14_4fbf7315:
@@ -202,13 +202,13 @@ translate italiantl _call_skipcheck_14_4fbf7315:
 translate italiantl _call_skipcheck_14_cbe3a6b8:
 
     # Sb "I'm at the front door if you need anything."
-    Sb "Sarò alla porta principale se hai bisogno di niente."
+    Sb "Sarò alla porta principale se hai bisogno di qualcosa."
 
 # game/xsebastian.rpy:252
 translate italiantl _call_skipcheck_14_77d024b6:
 
     # Sb "Well, here we are."
-    Sb "Be', eccoci qui."
+    Sb "Beh, eccoci qui."
 
 # game/xsebastian.rpy:254
 translate italiantl _call_skipcheck_14_8be257ed:
@@ -250,7 +250,7 @@ translate italiantl _call_skipcheck_14_26a65c63:
 translate italiantl _call_skipcheck_14_4e19dc68:
 
     # c "Well, at least we got some furnishing. Could use a few sleeping bags, though."
-    c "Be', almeno abbiamo dell'arredo. Qualche sacco a pelo farebbe comodo, però."
+    c "Beh, almeno abbiamo dell'arredo. Qualche sacco a pelo farebbe comodo, però."
 
 # game/xsebastian.rpy:268
 translate italiantl _call_skipcheck_14_864943b9:
@@ -268,7 +268,7 @@ translate italiantl _call_skipcheck_14_1a71e93f:
 translate italiantl _call_skipcheck_14_a2b061ac:
 
     # c "Well, I'm not going to die from it."
-    c "Be', non morirò per questo."
+    c "Beh, non morirò per questo."
 
 # game/xsebastian.rpy:283
 translate italiantl _call_skipcheck_14_e40d15e5:
@@ -370,7 +370,7 @@ translate italiantl _call_skipcheck_14_eba66d5c:
 translate italiantl _call_skipcheck_14_c46ff51e:
 
     # Sb "I also happen to be the newest guy on the force, so I didn't exactly want this to turn into a career-ender right there."
-    Sb "Si dà il caso che io sia anche il più nuovo in polizia, e quindi non volevo esattamente si trasformasse nella fine di una carriera."
+    Sb "Si dà il caso che io sia anche il nuovo arrivato in polizia, quindi non volevo esattamente si trasformasse nella fine di una carriera."
 
 # game/xsebastian.rpy:346
 translate italiantl _call_skipcheck_14_fbcc765b:
@@ -412,7 +412,7 @@ translate italiantl _call_skipcheck_14_2bf4c17b:
 translate italiantl _call_skipcheck_14_5fdc1d83:
 
     # Sb smile b "Just because I'm the newest guy doesn't mean I'm a rookie. It's been a few years now."
-    Sb smile b "Solo perché sono quello più nuovo non significa che sia un novellino. Ormai è già qualche anno."
+    Sb smile b "Solo perché sono il nuovo arrivato non significa che sia un novellino. Ormai è già qualche anno."
 
 # game/xsebastian.rpy:376
 translate italiantl _call_skipcheck_14_ef8d12b0:
@@ -527,13 +527,13 @@ translate italiantl _call_skipcheck_14_1db23948:
 translate italiantl _call_skipcheck_14_f03f3828:
 
     # Sb disapproval b "Well, what would you like to know?"
-    Sb disapproval b "Be', cosa vorresti sapere?"
+    Sb disapproval b "Beh, cosa vorresti sapere?"
 
 # game/xsebastian.rpy:440
 translate italiantl sebastianquestions_b6eed172:
 
     # Sb smile b "The land? Well, I hear they have fertile soil. Not as fertile as my home town, though."
-    Sb smile b "Il territorio? Be', ho sentito che hanno un terreno fertile. Non fertile quanto nella mia città natale, comunque."
+    Sb smile b "Il territorio? Beh, ho sentito che hanno un terreno fertile. Non fertile quanto nella mia città natale, comunque."
 
 # game/xsebastian.rpy:442
 translate italiantl sebastianquestions_6e6fe3ef:
@@ -647,7 +647,7 @@ translate italiantl sebastiancont_4a4242d6:
 translate italiantl sebastiancont_8fb0eda5:
 
     # c "Well, it's a bit early to say anything. It's only been a day."
-    c "Be', è un po' presto per dire niente. È passato solo un giorno."
+    c "Beh, è un po' presto per dire niente. È passato solo un giorno."
 
 # game/xsebastian.rpy:555
 translate italiantl sebastiancont_759b976c:
@@ -689,7 +689,7 @@ translate italiantl sebastiancont_cc845e57:
 translate italiantl sebastiancont_2be8b261:
 
     # Sb disapproval b "I'm not sure if it was a good idea by Bryce to take you to the crime scene, though. I know he's a hands-on guy, but that really was a bit much. Pun not intended."
-    Sb disapproval b "Non sono sicuro che sia stata una buona idea da parte di [Br] portarti alla scena del crimine, comunque. So che lui è un tipo da toccare con mano, ma così era davvero un po' troppo. Scusa il gioco di parole." # see also "hands-on" ~ "handsome"
+    Sb disapproval b "Comunque, non sono sicuro che sia stata una buona idea da parte di [Br] portarti alla scena del crimine. So che lui è un tipo da toccare con mano, ma così era davvero un po' troppo. Scusa il gioco di parole." # see also "hands-on" ~ "handsome"
 
 # game/xsebastian.rpy:589
 translate italiantl sebastiancont_c29de72b:
@@ -701,7 +701,7 @@ translate italiantl sebastiancont_c29de72b:
 translate italiantl sebastiancont_e6e056a4:
 
     # Sb normal b "Well, at least you don't seem to be traumatized from the experience."
-    Sb normal b "Be', almeno non sembri traumatizzatə dall'esperienza."
+    Sb normal b "Beh, almeno non sembri traumatizzatə dall'esperienza."
 
 # game/xsebastian.rpy:593
 translate italiantl sebastiancont_d19f855d:
@@ -785,7 +785,7 @@ translate italiantl gamestart_a28b9a7b:
 translate italiantl gamestart_af876ba5:
 
     # Sb "Haha, well... Maybe I did."
-    Sb "Haha, be'... Forse lo sono." # must match line 681
+    Sb "Haha, beh... Forse lo sono." # must match line 681
 
 # game/xsebastian.rpy:697
 translate italiantl gamestart_a28b9a7b_1:
@@ -1080,7 +1080,7 @@ translate italiantl sebgamestart_1f3037b7:
 translate italiantl sebgamestart_7ea17381:
 
     # Sb "Oh, well..."
-    Sb "Oh, be'..."
+    Sb "Oh, beh..."
 
 # game/xsebastian.rpy:3283
 translate italiantl sebgamestart_702c9d77:
@@ -1392,7 +1392,7 @@ translate italiantl _call_syscheck_61_56c1af78:
 translate italiantl _call_syscheck_61_b125cb40:
 
     # Sb smile b "Well, you didn't lose. That's pretty good for your first game."
-    Sb smile b "Be', non hai perso. Non è niente male come prima partita."
+    Sb smile b "Beh, non hai perso. Non è niente male come prima partita."
 
 # game/xsebastian.rpy:4544
 translate italiantl _call_syscheck_61_dd20ffbf:
@@ -1434,7 +1434,7 @@ translate italiantl _call_syscheck_61_70e2bce7:
 translate italiantl _call_syscheck_61_50d299ed:
 
     # Sb "Really? Well, then we'll just have to play {i}Bastion Breach{/i} again."
-    Sb "Davvero? Be', vorrà dire che dovremo giocare di nuovo a {i}Bastioni{/i}."
+    Sb "Davvero? Beh, vorrà dire che dovremo giocare di nuovo a {i}Bastioni{/i}."
 
 # game/xsebastian.rpy:4578
 translate italiantl _call_syscheck_61_63ea9cf4:

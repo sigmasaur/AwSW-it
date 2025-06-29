@@ -82,7 +82,7 @@ translate italiantl remy5_f705c1cd:
 translate italiantl remy5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "Molti razzi seguirono, il loro tonante fragore che echeggiava in tutto quanto il territorio." # see line 62 of Adine 5
+    m "Molti razzi seguirono, il cui tonante fragore echeggiò in tutto quanto il territorio." # see line 62 of Adine 5
 
 # game/remy5.rpy:69
 translate italiantl remy5_3de6ab5e:
@@ -1342,7 +1342,7 @@ translate italiantl remygoodending_3265bdbd:
 translate italiantl remygoodending_7695138b:
 
     # Ry "Don't let me stop you from going back if that's what you want to do, though. I'll be fine."
-    Ry "Non lasciare che ti dissuada dal tornare indietro se questo è ciò che vuoi fare, però. Io starò bene."
+    Ry "Però non lasciare che ti dissuada dal tornare indietro se è questo che vuoi fare. Io starò bene."
 
 # game/remy5.rpy:1117
 translate italiantl remygoodending_af548332:

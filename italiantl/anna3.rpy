@@ -40,13 +40,13 @@ translate italiantl _call_skiptut_0ff5f677:
 translate italiantl _call_skiptut_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/anna3.rpy:107
 translate italiantl _call_skiptut_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/anna3.rpy:122
 translate italiantl _call_skiptut_0054b77b:
@@ -142,7 +142,7 @@ translate italiantl _call_skipcheck_2424b47f:
 translate italiantl _call_skipcheck_d9d3dded:
 
     # An sad b "Well, Doctor of Pharmacy is the only title I currently hold, but I know how to operate this machinery."
-    An sad b "Be', Dottore in Farmacia è il solo titolo che possiedo al momento, ma so come operare questi macchinari."
+    An sad b "Beh, Dottore in Farmacia è il solo titolo che possiedo al momento, ma so come operare questi macchinari."
 
 # game/anna3.rpy:180
 translate italiantl _call_skipcheck_28d19d80:
@@ -220,7 +220,7 @@ translate italiantl _call_skipcheck_7416e511:
 translate italiantl _call_skipcheck_96b7dd29:
 
     # An normal b "Well, I'm not going to show you. If you're that curious, you might find the answer in the seedier parts of town."
-    An normal b "Be', non sarò io a mostrartelo. Se sei così curiosə, potresti trovare la risposta nelle zone più malfamate della città."
+    An normal b "Beh, non sarò io a mostrartelo. Se sei così curiosə, potresti trovare la risposta nelle zone più malfamate della città."
 
 # game/anna3.rpy:233
 translate italiantl _call_skipcheck_98d32ec3:
@@ -478,7 +478,7 @@ translate italiantl _call_skipcheck_cc32fdab:
 translate italiantl _call_skipcheck_156e0e0d:
 
     # An face b "Well, good thing you didn't, because that might have saved us some time. Of course we can't have that, right?"
-    An face b "Be', meno male che non l'hai fatto, perché avrebbe potuto risparmiarci del tempo. Ovviamente non possiamo permettercelo, giusto?"
+    An face b "Beh, meno male che non l'hai fatto, perché avrebbe potuto risparmiarci del tempo. Ovviamente non possiamo permettercelo, giusto?"
 
 # game/anna3.rpy:376
 translate italiantl _call_skipcheck_df812565:
@@ -490,7 +490,7 @@ translate italiantl _call_skipcheck_df812565:
 translate italiantl _call_skipcheck_c9371a49:
 
     # An "Well, that's not much of a surprise, really."
-    An "Be', non è una gran sorpresa, davvero."
+    An "Beh, non è una gran sorpresa, davvero."
 
 # game/anna3.rpy:388
 translate italiantl _call_skipcheck_34b94ecc:
@@ -574,7 +574,7 @@ translate italiantl _call_skipcheck_fffa4ac0:
 translate italiantl _call_skipcheck_168b3fa1:
 
     # An normal b "Well, we never specified any terms, and I sat out our \"date\" until it was officially over. This will certainly go by much quicker if you can show a little patience."
-    An normal b "Be', non abbiamo mai specificato dei termini, e finché il nostro \"appuntamento\" è durato io sono rimasta. Di certo faremmo molto più in fretta se mostrassi un po' di pazienza." # wording; "until it was officially over" -> "as long as it took"; "will certainly go" -> "would certainly go"; "can show" -> "showed"
+    An normal b "Beh, non abbiamo mai specificato dei termini, e finché il nostro \"appuntamento\" è durato io sono rimasta. Di certo faremmo molto più in fretta se mostrassi un po' di pazienza." # wording; "until it was officially over" -> "as long as it took"; "will certainly go" -> "would certainly go"; "can show" -> "showed"
 
 # game/anna3.rpy:423
 translate italiantl _call_skipcheck_7f6008ee:
@@ -676,7 +676,7 @@ translate italiantl _call_skipcheck_08b702f9:
 translate italiantl _call_skipcheck_bed71d59:
 
     # c "Well, we usually don't take off this much in front of others."
-    c "Be', noi non siamo soliti levarci tanto di dosso davanti agli altri."
+    c "Beh, noi non siamo soliti levarci tanto di dosso davanti agli altri."
 
 # game/anna3.rpy:513
 translate italiantl _call_skipcheck_acc5effa:
@@ -856,7 +856,7 @@ translate italiantl _call_skipcheck_0837e430:
 translate italiantl _call_skipcheck_e0bc6109:
 
     # An sad b "Erhm, no. Apparently, you get it, though."
-    An sad b "Ehm, no. A quanto pare, hai afferrato, comunque."
+    An sad b "Ehm, no. A quanto pare, comunque, hai afferrato."
 
 # game/anna3.rpy:616
 translate italiantl _call_skipcheck_28ebc67d:
@@ -1010,7 +1010,7 @@ translate italiantl _call_skipcheck_14f50917:
 translate italiantl _call_skipcheck_f14b9121:
 
     # c "Well, what's next?"
-    c "Be', cosa viene adesso?"
+    c "Beh, cosa viene adesso?"
 
 # game/anna3.rpy:710
 translate italiantl _call_skipcheck_2f478378:
@@ -1310,7 +1310,7 @@ translate italiantl _call_skipcheck_4b1ffe07:
 translate italiantl _call_skipcheck_9fb925ef:
 
     # Ry normal "Well, I don’t want to distract you from what you are doing. ‘Til we meet again!"
-    Ry normal "Be', non voglio distrarti da quello che stai facendo. Alla prossima!"
+    Ry normal "Beh, non voglio distrarti da quello che stai facendo. Alla prossima!"
 
 # game/anna3.rpy:903
 translate italiantl _call_skipcheck_be7f9017:
@@ -1352,7 +1352,7 @@ translate italiantl _call_skipcheck_b0fd3e30:
 translate italiantl _call_skipcheck_afce4b58:
 
     # c "Well, I better not hold you up, then."
-    c "Be', sarà meglio che non ti trattenga, allora."
+    c "Beh, sarà meglio che non ti trattenga, allora."
 
 # game/anna3.rpy:926
 translate italiantl _call_skipcheck_3d9e61f3:
@@ -1400,7 +1400,7 @@ translate italiantl _call_skipcheck_acc659e8:
 translate italiantl _call_skipcheck_5fc96028:
 
     # Ry smile "Okay, have fun!"
-    Ry smile "Okay, divèrtiti!"
+    Ry smile "Okay, divertiti!"
 
 # game/anna3.rpy:956
 translate italiantl _call_skipcheck_7595a8df:
@@ -1466,7 +1466,7 @@ translate italiantl _call_skipcheck_b0fd3e30_1:
 translate italiantl _call_skipcheck_afce4b58_1:
 
     # c "Well, I better not hold you up, then."
-    c "Be', sarà meglio che non ti trattenga, allora." # see line 924
+    c "Beh, sarà meglio che non ti trattenga, allora." # see line 924
 
 # game/anna3.rpy:983
 translate italiantl _call_skipcheck_acc659e8_1:
@@ -1628,7 +1628,7 @@ translate italiantl _call_skipcheck_b0fd3e30_2:
 translate italiantl _call_skipcheck_afce4b58_2:
 
     # c "Well, I better not hold you up, then."
-    c "Be', sarà meglio che non ti trattenga, allora." # see line 924
+    c "Beh, sarà meglio che non ti trattenga, allora." # see line 924
 
 # game/anna3.rpy:1066
 translate italiantl _call_skipcheck_44b2fd02:
@@ -1658,7 +1658,7 @@ translate italiantl _call_skipcheck_252e6333:
 translate italiantl _call_skipcheck_15ced712:
 
     # Ry normal "I see. Well, my invitation is still standing."
-    Ry normal "Capisco. Be', il mio invito è ancora valido."
+    Ry normal "Capisco. Beh, il mio invito è ancora valido."
 
 # game/anna3.rpy:1076
 translate italiantl _call_skipcheck_da25e634:
@@ -1676,7 +1676,7 @@ translate italiantl _call_skipcheck_4f6b168e:
 translate italiantl _call_skipcheck_289475a2:
 
     # c "Sure thing. I've got to go now, so see you later!"
-    c "Senz'altro. Devo andare adesso, quindi ci vediamo più tardi!"
+    c "Senz'altro. Devo andare adesso, ci vediamo più tardi!"
 
 # game/anna3.rpy:1082
 translate italiantl _call_skipcheck_ebd372dc:
@@ -1820,7 +1820,7 @@ translate italiantl _call_skipcheck_d7326f0d:
 translate italiantl _call_skipcheck_26759579:
 
     # An "Well, you don't have to look if you don't want to."
-    An "Be', non sei costrettə a guardare se non vuoi."
+    An "Beh, non sei costrettə a guardare se non vuoi."
 
 # game/anna3.rpy:1211
 translate italiantl _call_skipcheck_2e55bb9c:
@@ -1862,13 +1862,13 @@ translate italiantl _call_skipcheck_4eaf71ec:
 translate italiantl _call_skipcheck_97212fad:
 
     # An "To encounter an intelligent mammal, of all things. Well, reasonably intelligent at the very least."
-    An "E unə mammiferə intelligente, per giunta. Be', ragionevolmente intelligente se non altro." # "[to encounter] an intelligent mammal"
+    An "E unə mammiferə intelligente, per giunta. Beh, ragionevolmente intelligente se non altro." # "[to encounter] an intelligent mammal"
 
 # game/anna3.rpy:1240
 translate italiantl _call_skipcheck_ca82d680:
 
     # c "Why is that so surprising? You already have your myths about humans."
-    c "Perché è così sorprendente? Avete già i vostri miti sugli umani."
+    c "Perché ti sorprende tanto? Avete già i vostri miti sugli umani."
 
 # game/anna3.rpy:1242
 translate italiantl _call_skipcheck_68945358:
@@ -2069,7 +2069,7 @@ translate italiantl _call_skipcheck_b55431a0:
 translate italiantl _call_skipcheck_33accb73:
 
     # An "Well..."
-    An "Be'..."
+    An "Beh..."
 
 # game/anna3.rpy:1354
 translate italiantl _call_skipcheck_76b2fe88:
@@ -2177,7 +2177,7 @@ translate italiantl _call_skipcheck_8736a70b:
 translate italiantl _call_skipcheck_55ef1946:
 
     # An "Doesn't make my work any less important, though."
-    An "Il che non rende il mio lavoro meno importante, comunque."
+    An "Il che comunque non rende il mio lavoro meno importante."
 
 # game/anna3.rpy:1401
 translate italiantl _call_skipcheck_b7eb5ad6:
@@ -2225,7 +2225,7 @@ translate italiantl _call_skipcheck_cf2a6a99:
 translate italiantl anna3skip_c7239520:
 
     # An sad b "Well, I think that's it for the day. You can go if you like."
-    An sad b "Be', credo sia tutto per oggi. Puoi anche andare se ti va." # "that's it" -> "that's all"
+    An sad b "Beh, credo sia tutto per oggi. Puoi anche andare se ti va." # "that's it" -> "that's all"
 
 # game/anna3.rpy:1423
 translate italiantl anna3skip_af6a1da1:
@@ -2249,7 +2249,7 @@ translate italiantl anna3skip_cbd94a65:
 translate italiantl anna3skip_ca0dca51:
 
     # An "Well, I want to study those pictures some more, and I can't really have you around if I do anything serious."
-    An "Be', voglio studiare ancora un po' quelle immagini, e non è che possa averti intorno se faccio qualcosa di serio."
+    An "Beh, voglio studiare ancora un po' quelle immagini, e non è che possa averti intorno se faccio qualcosa di serio."
 
 # game/anna3.rpy:1431
 translate italiantl anna3skip_844b0123:
@@ -2297,7 +2297,7 @@ translate italiantl anna3skip_63a555dd:
 translate italiantl anna3skip_92b380c3:
 
     # c "Well, I'll leave you to your work, then."
-    c "Be', ti lascio al tuo lavoro, allora."
+    c "Beh, ti lascio al tuo lavoro, allora."
 
 # game/anna3.rpy:1447
 translate italiantl anna3skip_0f66dc95:
@@ -2327,7 +2327,7 @@ translate italiantl anna3skip_e28a26ec:
 translate italiantl anna3skip_9ae5dd87:
 
     # An "Well, I'll have plenty of data for a while. So I guess we'd have to find something else for us to do."
-    An "Be', per un po' avrò dati a sufficienza. Quindi immagino che dovremmo trovare qualcos'altro da fare."
+    An "Beh, per un po' avrò dati a sufficienza. Quindi immagino che dovremmo trovare qualcos'altro da fare."
 
 # game/anna3.rpy:1488
 translate italiantl anna3skip_89aefe22:
@@ -2339,7 +2339,7 @@ translate italiantl anna3skip_89aefe22:
 translate italiantl anna3skip_92b380c3_1:
 
     # c "Well, I'll leave you to your work, then."
-    c "Be', ti lascio al tuo lavoro, allora." # see line 1445
+    c "Beh, ti lascio al tuo lavoro, allora." # see line 1445
 
 # game/anna3.rpy:1492
 translate italiantl anna3skip_0f66dc95_1:

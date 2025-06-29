@@ -10,13 +10,13 @@ translate italiantl _call_skiptut_34_0ff5f677:
 translate italiantl _call_skiptut_34_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare un po' avanti?" # corrected skip message
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare un po' avanti?" # corrected skip message
 
 # game/remy2.rpy:66
 translate italiantl _call_skiptut_34_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti." # corrected skip message
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente un po' avanti." # corrected skip message
 
 # game/remy2.rpy:81
 translate italiantl _call_skiptut_34_0054b77b:
@@ -46,7 +46,7 @@ translate italiantl _call_skipcheck_34_1dee48fd:
 translate italiantl _call_skipcheck_34_2d45f5fb:
 
     # Ry smile "Well, my gratitude is yours regardless."
-    Ry smile "Be', hai ugualmente la mia gratitudine."
+    Ry smile "Beh, hai ugualmente la mia gratitudine."
 
 # game/remy2.rpy:135
 translate italiantl _call_skipcheck_34_f07a64eb:
@@ -58,7 +58,7 @@ translate italiantl _call_skipcheck_34_f07a64eb:
 translate italiantl _call_skipcheck_34_8e1990e5:
 
     # Ry "Well, hopefully you'll find that your dinner more than makes up for it."
-    Ry "Be', mi auguro che questa cena ti ripagherà di tutto e anche di più." # "hopefully [you'll find that] your dinner more than makes up for it"; "your dinner" -> "this dinner"
+    Ry "Beh, mi auguro che questa cena ti ripagherà di tutto e anche di più." # "hopefully [you'll find that] your dinner more than makes up for it"; "your dinner" -> "this dinner"
 
 # game/remy2.rpy:142
 translate italiantl _call_skipcheck_34_76e08172:
@@ -286,19 +286,19 @@ translate italiantl remy2menu_8ca34d2e:
 translate italiantl _call_syscheck_114_77554175:
 
     # s "You looked at Remy's pictures! {image=image/ui/status/c2pictures.png}"
-    s "Hai guardato le immagini di [Ry]! {image=image/ui/status/c2pictures.png}"
+    s "Hai guardato le foto di [Ry]! {image=image/ui/status/c2pictures.png}"
 
 # game/remy2.rpy:364
 translate italiantl _call_syscheck_114_e49e42fa:
 
     # s "You looked at Remy's pictures. Creep.{image=image/ui/status/c2pictures.png}"
-    s "Hai guardato le immagini di [Ry]. Viscidonə. {image=image/ui/status/c2pictures.png}" # added space
+    s "Hai guardato le foto di [Ry]. Viscidonə. {image=image/ui/status/c2pictures.png}" # added space
 
 # game/remy2.rpy:368
 translate italiantl _call_syscheck_114_a27820b1:
 
     # s "You looked at Remy's pictures. Better than prying into his bedroom, at least.{image=image/ui/status/c2pictures.png}"
-    s "Hai guardato le immagini di [Ry]. Meglio che curiosare nella sua camera da letto, almeno. {image=image/ui/status/c2pictures.png}" # added space
+    s "Hai guardato le foto di [Ry]. Meglio che curiosare nella sua camera da letto, almeno. {image=image/ui/status/c2pictures.png}" # added space
 
 # game/remy2.rpy:375
 translate italiantl _call_syscheck_114_6891e17b:
@@ -364,13 +364,13 @@ translate italiantl remy2cont_d9bcc87b:
 translate italiantl remy2cont_db9eae47:
 
     # Ry shy "Well, I'll give you something to fill your belly with soon."
-    Ry shy "Be', ti darò presto qualcosa per riempire la pancia."
+    Ry shy "Beh, ti darò presto qualcosa per riempire la pancia."
 
 # game/remy2.rpy:475
 translate italiantl remy2cont_c04a4c03:
 
     # m "I pulled up my shirt and exposed my belly to the dragon's gaze. My hands stroked it in a circular motion, caressing the skin, hair and body fat beneath."
-    m "Tirai su la camicia ed esposi la pancia allo sguardo del drago. Le mie mani la lisciarono con un movimento circolare, carezzando la pelle, i peli e la ciccia al disotto."
+    m "Tirai su la camicia ed esposi la pancia allo sguardo del drago. Le mie mani la lisciarono con un movimento circolare, carezzando la pelle, i peli e la ciccia sottostante."
 
 # game/remy2.rpy:479
 translate italiantl remy2cont_d0fd436a:
@@ -520,7 +520,7 @@ translate italiantl remy2cont_e86abad5:
 translate italiantl remy2cont_453c3f35:
 
     # Ry smile "Well, the food is ready. Enjoy."
-    Ry smile "Be', il cibo è pronto. Buon appetito."
+    Ry smile "Beh, il cibo è pronto. Buon appetito."
 
 # game/remy2.rpy:561
 translate italiantl remy2cont_d6d4994f:
@@ -532,7 +532,7 @@ translate italiantl remy2cont_d6d4994f:
 translate italiantl remy2cont_e78d707f:
 
     # m "Then, I pierced it with the fork, its three prongs penetrating the flesh unrelentingly. Slowly, I raised it to my mouth, and my tongue glided over the bare substance briefly as it entered my lips."
-    m "Poi, lo trafissi con la forchetta, i suoi tre rebbi che penetrarono la carne inesorabili. Lentamente, lo portai alla mia bocca, e la mia lingua scivolò brevemente sulla nuda sostanza mentre questa entrava nelle mie labbra."
+    m "Poi, lo trafissi con la forchetta, i cui tre rebbi penetrarono la carne inesorabili. Lentamente, lo portai alla mia bocca, e la mia lingua scivolò brevemente sulla nuda sostanza mentre questa entrava nelle mie labbra."
 
 # game/remy2.rpy:565
 translate italiantl remy2cont_39716cc4:
@@ -586,7 +586,7 @@ translate italiantl remy2menu2_8f8bf171:
 translate italiantl remy2menu2_1223f003:
 
     # Ry shy "W-Well, I do have a variety of books and scrolls covering all kinds of different subjects."
-    Ry shy "B-Be', in effetti ho una varietà di libri e pergamene che trattano di ogni genere di argomenti diversi."
+    Ry shy "B-Beh, in effetti ho una varietà di libri e pergamene che trattano di ogni genere di argomenti diversi."
 
 # game/remy2.rpy:594
 translate italiantl remy2menu2_8d7d4662:
@@ -772,7 +772,7 @@ translate italiantl remy2picturesmenu_521a4ad1:
 translate italiantl remy2picturesmenu_ebeb16d8:
 
     # Ry "Well, for one, not all of us have that ability. Besides, we still appreciate the convenience that comes with appliances like this one, and not everyone wants to eat food cooked with someone else's breath."
-    Ry "Be', per cominciare, non tutti ne siamo capaci. E poi, apprezziamo comunque la comodità che viene da apparecchi come quello, e non a tutti va di mangiare del cibo cotto col fiato di qualcun altro." # "this one" -> "that one"
+    Ry "Beh, per cominciare, non tutti ne siamo capaci. E poi, apprezziamo comunque la comodità che viene da apparecchi come quello, e non a tutti va di mangiare del cibo cotto col fiato di qualcun altro." # "this one" -> "that one"
 
 # game/remy2.rpy:730
 translate italiantl remy2picturesmenu_729ab183:
@@ -796,13 +796,13 @@ translate italiantl _call_skiptut_35_0ff5f677:
 translate italiantl _call_skiptut_35_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/remy2.rpy:775
 translate italiantl _call_skiptut_35_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/remy2.rpy:790
 translate italiantl _call_skiptut_35_0054b77b:
@@ -982,13 +982,13 @@ translate italiantl _call_skipcheck_35_cdd10a76:
 translate italiantl _call_skipcheck_35_f22c8b94:
 
     # Ry "Well, I..."
-    Ry "Be', io..."
+    Ry "Beh, io..."
 
 # game/remy2.rpy:899
 translate italiantl _call_skipcheck_35_19f992d0:
 
     # Ry "Well, if that's what you think, then I just hope you'll at least be careful around her."
-    Ry "Be', se è questo ciò che pensi, allora spero solo che almeno sarai prudente con lei." # see line 879 of Anna 3
+    Ry "Beh, se è questo ciò che pensi, allora spero solo che almeno sarai prudente con lei." # see line 879 of Anna 3
 
 # game/remy2.rpy:907
 translate italiantl _call_skipcheck_35_d13b4295:
@@ -1144,7 +1144,7 @@ translate italiantl _call_skipcheck_35_3dfb0edd_1:
 translate italiantl _call_skipcheck_35_b5be9f78:
 
     # c "There actually isn't one. They share the same chemical structure, so the distinction is pretty much arbitrary. I suppose it is just a way to distinguish the same structure in humans from that in non-human animals."
-    c "In effetti non c'è una differenza. Condividono la stessa struttura chimica, e quindi la distinzione è piuttosto arbitraria. Suppongo sia solo un modo per distinguere la stessa struttura negli umani da quella negli animali non-umani."
+    c "In effetti non c'è una differenza. Condividono la stessa struttura chimica, quindi la distinzione è piuttosto arbitraria. Suppongo sia solo un modo per distinguere la stessa struttura negli umani da quella negli animali non-umani."
 
 # game/remy2.rpy:997
 translate italiantl _call_skipcheck_35_3dfb0edd_2:
@@ -1846,7 +1846,7 @@ translate italiantl remy2skip_16449e6d:
 translate italiantl remy2skip_5af11dac:
 
     # Ry "Well, I guess this evening's over, at any rate."
-    Ry "Be', immagino che la serata sia finita, in ogni caso." # "this evening" -> "the evening"
+    Ry "Beh, immagino che la serata sia finita, in ogni caso." # "this evening" -> "the evening"
 
 # game/remy2.rpy:1493
 translate italiantl remy2skip_d4baad00:
@@ -1932,7 +1932,7 @@ translate italiantl strings:
 
     # remy2.rpy:271
     old "Look at the pictures."
-    new "Guarda le immagini."
+    new "Guarda le foto."
 
     # remy2.rpy:271
     old "Search his bedroom."
@@ -1984,7 +1984,7 @@ translate italiantl strings:
 
     # remy2.rpy:626
     old "Mention the pictures. {image=image/ui/status/c2pictures.png}"
-    new "Menziona le immagini. {image=image/ui/status/c2pictures.png}"
+    new "Menziona le foto. {image=image/ui/status/c2pictures.png}"
 
     # remy2.rpy:644
     old "{#remy2}I'm not sure."

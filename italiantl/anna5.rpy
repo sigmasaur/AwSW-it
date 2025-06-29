@@ -118,7 +118,7 @@ translate italiantl anna5_b786e88a:
 translate italiantl anna5_07037632:
 
     # m "More rockets followed, their thunderous noise echoing throughout the land."
-    m "Molti razzi seguirono, il loro tonante fragore che echeggiava in tutto quanto il territorio." # see line 62 of Adine 5
+    m "Molti razzi seguirono, il cui tonante fragore echeggiò in tutto quanto il territorio." # see line 62 of Adine 5
 
 # game/anna5.rpy:79
 translate italiantl anna5_3de6ab5e:
@@ -514,7 +514,7 @@ translate italiantl _call_endingjustafewminuteslater_1_bf178f51:
 translate italiantl _call_endingjustafewminuteslater_1_118bb1f7:
 
     # c "Unfortunately, I also know that by the time we've stopped the comet, humanity will have given up on the portal and disconnected its power source, so we won't be able to help them afterwards."
-    c "Purtroppo, so anche che per quando fermeremo la cometa, l'umanità avrà rinunciato al portale e scollegato la sua fonte di energia, quindi non saremo in grado di aiutarli in séguito."
+    c "Purtroppo, so anche che per quando fermeremo la cometa, l'umanità avrà rinunciato al portale e scollegato la sua fonte di energia, quindi non saremo in grado di aiutarli in seguito."
 
 # game/anna5.rpy:413
 translate italiantl _call_endingjustafewminuteslater_1_055f1421:
@@ -646,7 +646,7 @@ translate italiantl _call_endingjustafewminuteslater_1_7b0a8a09:
 translate italiantl _call_endingjustafewminuteslater_1_bc62d587:
 
     # m "Suddenly, I saw her reaching for something in one of her pockets."
-    m "All'improvviso, la vidi che faceva per prendere qualcosa in una delle sue tasche."
+    m "All'improvviso, la vidi prendere qualcosa in una delle sue tasche."
 
 # game/anna5.rpy:474
 translate italiantl _call_endingjustafewminuteslater_1_2f3bd6e1:

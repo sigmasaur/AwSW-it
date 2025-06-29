@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-04-13 08:56
+# TODO: Translation updated at 2024-02-02
 
 # game/adine3.rpy:27
 translate italiantl adine3_a84b0c2b:
@@ -94,13 +94,13 @@ translate italiantl adine3_25220751:
 translate italiantl adine3_15b9421d:
 
     # Ad "{i}We are happy to confirm your entry into the annual stunt flying competition. Please have your competitor number ready and show up at the organisator's booth at the summer festival by...{/i}"
-    Ad "{i}Siamo felici di comunicarLe la Sua iscrizione all'annuale competizione di volo acrobatico. Si prega di aver pronto il proprio numero di partecipazione e presentarsi al banco dell'organizzatore al festival estivo entro...{/i}"
+    Ad "{i}Siamo felici di comunicarle la sua iscrizione alla competizione annuale di volo acrobatico. Si prega di aver pronto il proprio numero di partecipazione e di presentarsi al banco dell'organizzatore al festival estivo entro...{/i}"
 
 # game/adine3.rpy:94
 translate italiantl adine3_323af65e:
 
     # Ad "Well, who cares about the rest? I'm in!"
-    Ad "Be', a chi importa del resto? Sono dentro!"
+    Ad "Beh, a chi importa del resto? Sono dentro!"
 
 # game/adine3.rpy:96
 translate italiantl adine3_d402ac56:
@@ -136,7 +136,7 @@ translate italiantl adine3_89aefe22:
 translate italiantl adine3_964614dd:
 
     # Ad giggle b "Are you ready to see some stunt flying?"
-    Ad giggle b "Sei prontə per vedere qualche volo acrobatico?"
+    Ad giggle b "Sei prontə per vedere un po' di volo acrobatico?"
 
 # game/adine3.rpy:108
 translate italiantl adine3_c48dc32f:
@@ -160,13 +160,13 @@ translate italiantl _call_skiptut_9_0ff5f677:
 translate italiantl _call_skiptut_9_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/adine3.rpy:149
 translate italiantl _call_skiptut_9_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/adine3.rpy:163
 translate italiantl _call_skiptut_9_0054b77b:
@@ -202,13 +202,13 @@ translate italiantl _call_skipcheck_9_3d635180:
 translate italiantl _call_skipcheck_9_525b9133:
 
     # c "Well, don't let me hold you up."
-    c "Be', non lasciare che ti trattenga."
+    c "Beh, non lasciare che ti trattenga."
 
 # game/adine3.rpy:202
 translate italiantl _call_skipcheck_9_2931928c:
 
     # Ad giggle b "Oh, I can't just start practicing right now. I'm still giddy with excitement from getting that letter earlier. Besides, I wanted to hang out with you while we're here as well."
-    Ad giggle b "Oh, non posso iniziare ad allenarmi adesso. Sono ancora in preda all'entusiasmo di aver ricevuto quella lettera di prima. E poi, volevo anche stare un po' assieme a te già che siamo qui."
+    Ad giggle b "Oh, non posso iniziare ad allenarmi adesso. Sono ancora in preda all'entusiasmo di aver ricevuto quella lettera, prima. E poi, volevo anche stare un po' assieme a te già che siamo qui."
 
 # game/adine3.rpy:204
 translate italiantl _call_skipcheck_9_ed080091:
@@ -220,7 +220,7 @@ translate italiantl _call_skipcheck_9_ed080091:
 translate italiantl _call_skipcheck_9_52cab7a2:
 
     # Ad normal b "Not really. Except for practice, that is. It does make for a nice backdrop while I fly, though."
-    Ad normal b "Non proprio. Salvo che per allenarmi, s'intende. In effetti fa da piacevole sfondo mentre volo, però."
+    Ad normal b "Non proprio. Salvo che per allenarmi, s'intende. Però fa da piacevole sfondo mentre volo."
 
 # game/adine3.rpy:208
 translate italiantl _call_skipcheck_9_89aefe22:
@@ -310,7 +310,7 @@ translate italiantl _call_skipcheck_9_8a25673f:
 translate italiantl _call_skipcheck_9_498eb35f:
 
     # c "Well, the skin can take on a reddish tint, and it can also be painful and cause dizziness."
-    c "Be', la pelle può assumere una tinta rossastra, e può anche essere doloroso e causare vertigini."
+    c "Beh, la pelle può assumere una tinta rossastra, e può anche causare dolore e vertigini."
 
 # game/adine3.rpy:238
 translate italiantl _call_skipcheck_9_66711f41:
@@ -358,7 +358,7 @@ translate italiantl _call_skipcheck_9_5008620e:
 translate italiantl _call_skipcheck_9_9d1e97ca:
 
     # Ad giggle b "Well, as you can imagine, I prefer the air to the sea, even though we flyers have quite a relationship with the water."
-    Ad giggle b "Be', come puoi immaginare, preferisco l'aria al mare, anche se noi volatori abbiamo un certo rapporto con l'acqua."
+    Ad giggle b "Beh, come puoi immaginare, preferisco l'aria al mare, anche se noi volatori abbiamo un certo rapporto con l'acqua."
 
 # game/adine3.rpy:277
 translate italiantl _call_skipcheck_9_00ed2ddb:
@@ -424,7 +424,7 @@ translate italiantl _call_skipcheck_9_f4f10114:
 translate italiantl _call_skipcheck_9_b89cdcdb:
 
     # Ad think b "You made it sound as if beaches are a pretty important thing for humans."
-    Ad think b "La facevi sembrare come se la spiaggia fosse una cosa piuttosto importante per gli umani."
+    Ad think b "L'hai fatta sembrare come se la spiaggia fosse una cosa piuttosto importante per gli umani."
 
 # game/adine3.rpy:299
 translate italiantl _call_skipcheck_9_dbef1b5c:
@@ -448,7 +448,7 @@ translate italiantl _call_skipcheck_9_cc2c6348:
 translate italiantl _call_skipcheck_9_a25091eb:
 
     # m "I got an idea and started looking for something in the sand on the ground. With a bit of digging, I found a flat, smooth stone and showed it to her."
-    m "Ebbi un'idea e iniziai a cercare qualcosa in terra nella sabbia. Dopo aver scavato un po', trovai un ciottolo piatto e liscio, e glielo mostrai." # "with" -> "after"
+    m "Ebbi un'idea e iniziai a cercare qualcosa in terra nella sabbia. Dopo aver scavato un po', trovai un ciottolo piatto e liscio e glielo mostrai." # "with" -> "after"
 
 # game/adine3.rpy:307
 translate italiantl _call_skipcheck_9_a94fdf1b:
@@ -568,7 +568,7 @@ translate italiantl _call_skipcheck_9_adbf5a4a:
 translate italiantl _call_skipcheck_9_b9e28815:
 
     # c "Hold the stone like this, extend your arm, and curl it like this. Then, you have to throw in such a way that it stays relatively stable in the air, but spins as fast as you can make it."
-    c "Tieni la pietra in questo modo, estendi li braccio, e piegalo in questo modo. Adesso, devi lanciarla in modo tale che stia relativamente stabile nell'aria, ma ruoti quanto più in fretta riesci." # "throw IT"
+    c "Tieni la pietra in questo modo, estendi li braccio, e piegalo in questo modo. Adesso, devi lanciarla in modo tale che stia relativamente stabile nell'aria, ma ruoti il più velocemente possibile." # "throw IT"
 
 # game/adine3.rpy:351
 translate italiantl _call_skipcheck_9_cee64df3:
@@ -586,7 +586,7 @@ translate italiantl _call_skipcheck_9_0152815e:
 translate italiantl _call_skipcheck_9_1238a24c:
 
     # Ad disappoint b "I'm not sure if I can do that."
-    Ad disappoint b "Non sono sicura di saperlo fare."
+    Ad disappoint b "Non sono sicura di riuscirci."
 
 # game/adine3.rpy:359
 translate italiantl _call_skipcheck_9_a4063abf:
@@ -610,7 +610,7 @@ translate italiantl _call_skipcheck_9_284507c8:
 translate italiantl _call_skipcheck_9_3465527b:
 
     # m "We both started looking for another appropriate stone. I saw Adine scratching around the sand with one of her feet. She crouched down to pick something up before she returned to me."
-    m "Iniziammo entrambɜ a cercare un'altra pietra adeguata. Vidi [Ad] razzolare nella sabbia con un piede. Si chinò a raccogliere qualcosa prima di ritornare da me."
+    m "Iniziammo entrambɜ a cercare un'altra pietra adeguata. Vidi [Ad] grattare la sabbia con un piede. Si chinò a raccogliere qualcosa prima di ritornare da me."
 
 # game/adine3.rpy:367
 translate italiantl _call_skipcheck_9_9b2cc641:
@@ -634,19 +634,19 @@ translate italiantl _call_skipcheck_9_63118d91:
 translate italiantl _call_skipcheck_9_dc095c19:
 
     # c "Okay, now for the technique..."
-    c "Okay, e ora la tecnica..."
+    c "Okay, ora passiamo alla tecnica..."
 
 # game/adine3.rpy:377
 translate italiantl _call_skipcheck_9_f8b12e80:
 
     # m "She was holding the stone in the claws at the edge of her wing. I tried to guide her by pulling her wing back like I would an arm, but it became clear to me that it lacked a lot of maneuverability an arm would have."
-    m "Teneva la pietra negli artigli al margine delle sue ali. Tentai di guidarla portandole indietro l'ala come avrei fatto con un braccio, ma mi divenne chiaro che le mancava molta della manovrabilità che un braccio avrebbe avuto."
+    m "Teneva la pietra negli artigli all'estremità delle sue ali. Tentai di guidarla portandole indietro l'ala come avrei fatto con un braccio, ma mi divenne chiaro che le mancava molta della manovrabilità che un braccio avrebbe avuto."
 
 # game/adine3.rpy:379
 translate italiantl _call_skipcheck_9_3d66dc5a:
 
     # c "For the throw, you'll want to move your wing forward as fast as you can, and at the very end of the extension, let go of the stone."
-    c "Per il lancio, vorrai muovere l'ala in avanti il più velocemente possibile, e al culmine dell'estensione, lasciar andare la pietra."
+    c "Per il lancio, vorrai muovere l'ala in avanti il più velocemente possibile e, al culmine dell'estensione, lasciar andare la pietra."
 
 # game/adine3.rpy:381
 translate italiantl _call_skipcheck_9_279d1196:
@@ -670,7 +670,7 @@ translate italiantl _call_skipcheck_9_557ef963:
 translate italiantl _call_skipcheck_9_fe6dd5b0:
 
     # c "Yeah. There wasn't really enough spin on it."
-    c "Già. Non ruotava davvero quanto basta."
+    c "Già. Non aveva abbastanza rotazione." # "there wasn't [really] enough spin on it"
 
 # game/adine3.rpy:393
 translate italiantl _call_skipcheck_9_f1bcb601:
@@ -688,7 +688,7 @@ translate italiantl _call_skipcheck_9_86148265:
 translate italiantl _call_skipcheck_9_bc753f21:
 
     # m "I waded a few steps into the water to retrieve the stone she'd thrown only moments ago."
-    m "Feci qualche passo a guado per recuperare la pietra che aveva tirato solo qualche attimo prima."
+    m "Feci qualche passo nell'acqua per recuperare la pietra che aveva tirato solo qualche attimo prima."
 
 # game/adine3.rpy:399
 translate italiantl _call_skipcheck_9_7cdc3eb6:
@@ -730,7 +730,7 @@ translate italiantl _call_skipcheck_9_c21e6d59:
 translate italiantl _call_skipcheck_9_51a5ea84:
 
     # c "Nice!"
-    c "Bene!"
+    c "Bello!"
 
 # game/adine3.rpy:415
 translate italiantl _call_skipcheck_9_84d46a72:
@@ -748,7 +748,7 @@ translate italiantl _call_skipcheck_9_b9882471:
 translate italiantl _call_skipcheck_9_c74c0366:
 
     # Ad normal b "Actually, our legs are what we mainly use to grab things. It only gets complicated if I'm supposed to be moving at the same time, like when I'm waiting in the café."
-    Ad normal b "In effetti, le zampe sono ciò che usiamo principalmente per afferrare le cose. Diventa complicato solo quando dovrei muovermi allo stesso tempo, come quando servo in caffetteria."
+    Ad normal b "In realtà, le zampe sono ciò che usiamo principalmente per afferrare le cose. Diventa complicato solo quando dovrei muovermi allo stesso tempo, come quando servo in caffetteria."
 
 # game/adine3.rpy:421
 translate italiantl _call_skipcheck_9_f23a12cf:
@@ -766,7 +766,7 @@ translate italiantl _call_skipcheck_9_fc46fcfc:
 translate italiantl _call_skipcheck_9_f1d085ab:
 
     # Ad annoyed b "Hey, I know to wash my feet before I start eating something with them. I don't see how it's that different from doing it with your hands."
-    Ad annoyed b "Ehi, so bene come lavarmi i piedi prima di iniziare a mangiarci qualcosa. Non vedo come sia così diverso dal farlo con le mani."
+    Ad annoyed b "Ehi, so bene che devo lavarmi i piedi prima di iniziare a mangiarci qualcosa. Non vedo come sia così diverso dal farlo con le mani."
 
 # game/adine3.rpy:442
 translate italiantl _call_skipcheck_9_24a797c6:
@@ -802,13 +802,13 @@ translate italiantl _call_skipcheck_9_c0334108:
 translate italiantl _call_skipcheck_9_69288d3b:
 
     # Ad normal b "That seems like it'd be handy, but I think I like my wings better."
-    Ad normal b "Ha l'aria di essere utile, ma credo di preferire le mie ali."
+    Ad normal b "Ha l'aria di essere utile, ma penso di preferire le mie ali." # qui si perde il gioco di parole "hand" ~ "handy", considera "utile" -> "maneggevole"
 
 # game/adine3.rpy:464
 translate italiantl _call_skipcheck_9_4b13a8e5:
 
     # Ad "That was a neat trick, though. So, what else can you do at the beach?"
-    Ad "È stato un bel trucchetto, comunque. Quindi, cos'altro puoi fare in spiaggia?"
+    Ad "Comunque, è stato un bel trucchetto. Quindi, cos'altro puoi fare in spiaggia?"
 
 # game/adine3.rpy:466
 translate italiantl _call_skipcheck_9_d0807a02:
@@ -832,7 +832,7 @@ translate italiantl _call_skipcheck_9_69d58151:
 translate italiantl _call_skipcheck_9_0d6c126b:
 
     # c "Would you believe me if I told you we used to have contests for building sandcastles back home?"
-    c "Mi crederesti se ti dicessi che a casa eravamo soliti gareggiare a chi faceva il miglior castello di sabbia?"
+    c "Mi crederesti se ti dicessi che a casa facevamo a gara a chi costruiva il miglior castello di sabbia?"
 
 # game/adine3.rpy:474
 translate italiantl _call_skipcheck_9_26fa6d2b:
@@ -874,13 +874,13 @@ translate italiantl _call_skipcheck_9_7772417b:
 translate italiantl _call_skipcheck_9_6c95c9e0:
 
     # Ad "To me, it seems a bit of a shame to build big, elaborate sculptures out of something like sand that clearly won't last. I mean, if you're going to spend so much time on it, why not create something that will stay?"
-    Ad "A me sembra un po' un peccato costruire sculture grandi ed elaborate a partire da qualcosa come la sabbia che chiaramente non dureranno. Voglio dire, se devi spenderci tanto tempo, perché non creare qualcosa che resti?"
+    Ad "A me sembra un po' un peccato costruire sculture grandi ed elaborate a partire da qualcosa come la sabbia che chiaramente non dureranno. Voglio dire, se devi spenderci così tanto tempo, perché non creare qualcosa che resti?"
 
 # game/adine3.rpy:513
 translate italiantl _call_skipcheck_9_e0d3acf5:
 
     # c "I agree. All that effort only to be swept away by the tide or worn down by the weather seems wasteful."
-    c "Sono d'accordo. Tutti quegli sforzi solo perché siano spazzate da un'onda o erose dalle intemperie sembrano uno spreco." # "only FOR THEM to be swept away"
+    c "Sono d'accordo. Tutti quegli sforzi solo perché siano spazzate via dalla marea o erose dalle intemperie sembrano uno spreco." # "only FOR THEM to be swept away"
 
 # game/adine3.rpy:515
 translate italiantl _call_skipcheck_9_e9e7c2f3:
@@ -928,7 +928,7 @@ translate italiantl _call_skipcheck_9_cadca0e2:
 translate italiantl _call_skipcheck_9_cfbf70ee:
 
     # c "Well, during your competition, nothing lasting is created from the performance itself. It's all about the experience and memories. You have to prove that you are skilled enough to do those stunts right at that very moment just for the competition."
-    c "Be', durante la tua competizione, non si crea nulla di durevole dall'esibizione in sé. Sta tutto nell'esperienza e nei ricordi. Devi dimostrare di essere tanto abile da fare quelle acrobazie proprio in quel preciso istante solo per la competizione."
+    c "Beh, durante la tua competizione, non si crea nulla di durevole dall'esibizione in sé. Sta tutto nell'esperienza e nei ricordi. Devi dimostrare di essere tanto abile da fare quelle acrobazie proprio in quel preciso istante solo per la competizione."
 
 # game/adine3.rpy:538
 translate italiantl _call_skipcheck_9_ae760841:
@@ -1000,7 +1000,7 @@ translate italiantl _call_skipcheck_9_c8bcfa7b:
 translate italiantl _call_skipcheck_9_ab13de84:
 
     # Ad "Personally, I prefer hunting, though."
-    Ad "Personalmente, io preferisco cacciare, comunque."
+    Ad "Anche se, personalmente, io preferisco cacciare."
 
 # game/adine3.rpy:579
 translate italiantl _call_skipcheck_9_8c4ef24c:
@@ -1024,7 +1024,7 @@ translate italiantl _call_skipcheck_9_a816cc82:
 translate italiantl _call_skipcheck_9_10452b14:
 
     # m "I could see her staring at the sea intently, circling a few times before descending towards the water's surface, claws extended. When she got close enough, her claws suddenly sunk into the water, only to reappear with a fish in their grasp."
-    m "Potei vederla fissare intensamente il mare, girando intorno alcune volte prima di scendere verso la superficie dell'acqua, artigli protèsi. Quando fu abbastanza vicina, all'improvviso i suoi artigli affondarono nell'acqua, salvo poi riaffiorare con un pesce nella loro morsa."
+    m "Potei vederla fissare intensamente il mare, girando intorno alcune volte prima di scendere verso la superficie dell'acqua ad artigli protesi. Quando fu abbastanza vicina, all'improvviso i suoi artigli affondarono nell'acqua, salvo poi riaffiorare con un pesce nella loro morsa."
 
 # game/adine3.rpy:593
 translate italiantl _call_skipcheck_9_c1e084fd:
@@ -1054,7 +1054,7 @@ translate italiantl _call_skipcheck_9_3d62c100:
 translate italiantl _call_skipcheck_9_6a9e25b2:
 
     # c "I'm not so sure about that. I bet it's a lot easier with your claws. Fish can be pretty slippery."
-    c "Non ne sarei così sicurə. Scommetto che è molto più facile coi tuoi artigli. I pesci sanno essere piuttosto viscidi."
+    c "Non ne sarei così sicurə. Scommetto che è molto più facile coi tuoi artigli. I pesci sono piuttosto viscidi." # "can be" -> "are"
 
 # game/adine3.rpy:605
 translate italiantl _call_skipcheck_9_1706180d:
@@ -1066,7 +1066,7 @@ translate italiantl _call_skipcheck_9_1706180d:
 translate italiantl _call_skipcheck_9_ac1011eb:
 
     # Ad normal b "Well, there's still the other method."
-    Ad normal b "Be', c'è sempre l'altro metodo."
+    Ad normal b "Beh, c'è sempre l'altro metodo."
 
 # game/adine3.rpy:609
 translate italiantl _call_skipcheck_9_c0478c76:
@@ -1162,7 +1162,7 @@ translate italiantl _call_skipcheck_9_6a014090:
 translate italiantl _call_skipcheck_9_45725af1:
 
     # Ad normal b "It can be very hit and miss. I just got lucky this time, and it's not even the kind of fish I really wanted."
-    Ad normal b "Può essere un vero testa o croce. Stavolta ho solo avuto fortuna, e non è neanche il tipo di pesce che volevo davvero."
+    Ad normal b "Può essere un vero testa o croce. Stavolta ho solo avuto fortuna, non è neanche il tipo di pesce che volevo davvero."
 
 # game/adine3.rpy:645
 translate italiantl _call_skipcheck_9_409cc3dd:
@@ -1174,7 +1174,7 @@ translate italiantl _call_skipcheck_9_409cc3dd:
 translate italiantl _call_skipcheck_9_75d38af8:
 
     # Ad giggle b "Yep, and you also don't get the nibble scars on your tail where the fish bite you."
-    Ad giggle b "Già, e inoltre non ti restano i segni dell'abbocco sulla coda laddove i pesci ti hanno morso."
+    Ad giggle b "Già, inoltre non ti restano i segni dell'abbocco sulla coda laddove i pesci ti hanno morso."
 
 # game/adine3.rpy:649
 translate italiantl _call_skipcheck_9_89aefe22_2:
@@ -1234,7 +1234,7 @@ translate italiantl _call_skipcheck_9_95369530:
 translate italiantl _call_skipcheck_9_98505ebc:
 
     # c "I imagine someone like you doesn't have to buy their fish on the market, though."
-    c "Immagino che una come te non sia costretta a comprare il pesce al mercato, comunque."
+    c "Comunque, immagino che una come te non sia costretta a comprare il pesce al mercato."
 
 # game/adine3.rpy:669
 translate italiantl _call_skipcheck_9_b11cf885:
@@ -1312,7 +1312,7 @@ translate italiantl _call_skipcheck_9_0f0e7af9:
 translate italiantl _call_skipcheck_9_ffe567a8:
 
     # c "Well, you could decorate your apartment with them or something."
-    c "Be', potresti decorarci l'appartamento o roba simile."
+    c "Beh, potresti decorarci l'appartamento o roba simile."
 
 # game/adine3.rpy:710
 translate italiantl _call_skipcheck_9_43ebd9ef:
@@ -1342,7 +1342,7 @@ translate italiantl _call_skipcheck_9_5e5343bc:
 translate italiantl _call_skipcheck_9_a1d57fee:
 
     # Ad "Well, thank you, [player_name]!"
-    Ad "Be', ti ringrazio, [player_name]!"
+    Ad "Beh, ti ringrazio, [player_name]!"
 
 # game/adine3.rpy:725
 translate italiantl _call_skipcheck_9_43ebd9ef_1:
@@ -1366,7 +1366,7 @@ translate italiantl _call_syscheck_45_73ecc8d3:
 translate italiantl _call_syscheck_45_031a6443:
 
     # s "You got some seashells. Are you sure it's okay to take them? Well, too late for that now..."
-    s "Hai ottenuto alcune conchiglie. Sicurə sia il caso di prenderle? Be', troppo tardi per quello ormai..."
+    s "Hai ottenuto alcune conchiglie. Sicurə sia il caso di prenderle? Beh, troppo tardi per quello ormai..."
 
 # game/adine3.rpy:755
 translate italiantl _call_syscheck_45_f1feac00:
@@ -1432,7 +1432,7 @@ translate italiantl _call_syscheck_45_d7ae8504:
 translate italiantl _call_syscheck_45_defd78f4:
 
     # Ad normal b "Freefall it is, then."
-    Ad normal b "Vada per Freefall, allora."
+    Ad normal b "Allora vada per Freefall."
 
 # game/adine3.rpy:798
 translate italiantl _call_syscheck_45_ac83353c:
@@ -1474,13 +1474,13 @@ translate italiantl _call_syscheck_45_d7ae8504_1:
 translate italiantl _call_syscheck_45_b3f1b456:
 
     # Ad normal b "Lightning it is, then."
-    Ad normal b "Vada per Lightning, allora." # see line 783
+    Ad normal b "Allora vada per Lightning." # see line 783
 
 # game/adine3.rpy:825
 translate italiantl _call_syscheck_45_920f1752:
 
     # Ad "That's weird. I think I'm having a déjà vu right now."
-    Ad "Che strano. Penso di stare avendo un déjà vu proprio adesso."
+    Ad "Che strano. Penso di stare vivendo un déjà vu proprio adesso."
 
 # game/adine3.rpy:827
 translate italiantl _call_syscheck_45_db7d000f:
@@ -1516,7 +1516,7 @@ translate italiantl _call_syscheck_45_d7ae8504_2:
 translate italiantl _call_syscheck_45_b39b1aeb:
 
     # Ad giggle b "Guess I'll be Neowing from now on, then."
-    Ad giggle b "Immagino che d'ora in poi sarò Neowing, allora."
+    Ad giggle b "Allora immagino che d'ora in poi sarò Neowing."
 
 # game/adine3.rpy:854
 translate italiantl _call_syscheck_45_c073266d:
@@ -1558,7 +1558,7 @@ translate italiantl _call_syscheck_45_d7ae8504_3:
 translate italiantl _call_syscheck_45_78ea5755:
 
     # Ad normal b "Angel it is, then."
-    Ad normal b "Vada per Angel, allora." # see line 783
+    Ad normal b "Allora vada per Angel." # see line 783
 
 # game/adine3.rpy:883
 translate italiantl _call_syscheck_45_94e2bf27:
@@ -1666,7 +1666,7 @@ translate italiantl adinestagenameentry_d7ae8504:
 translate italiantl adinestagenameentry_de431245:
 
     # Ad normal b "[adinestagename!t] it is, then."
-    Ad normal b "Vada per [adinestagename!t], allora." # see line 783
+    Ad normal b "Allora vada per [adinestagename!t]." # see line 783
 
 # game/adine3.rpy:984
 translate italiantl mpsave_34c4cbef:
@@ -1835,7 +1835,7 @@ translate italiantl mpsave_cfead817:
 translate italiantl mpsave_4e88367c:
 
     # m "Her speed quickly increased while she moved towards the water. Then, she did a roll, and another, followed by the third. Dangerously close to the water's surface, she suddenly pulled up, but as she did so, one of her feet went below the surface, where it apparently caught onto something, causing her to spin out of control."
-    m "La sua velocità aumentò rapidamente nel muoversi di lei in direzione dell'acqua. Poi, eseguì una rollata, e un'altra, seguita dalla terza. Pericolosamente vicina alla superficie dell'acqua, si alzò all'improvviso, ma nel farlo, uno dei suoi piedi finì sotto la superficie, dove parve impigliarsi in qualcosa, facendola piroettare fuori controllo."
+    m "La sua velocità aumentò rapidamente mentre si muoveva in direzione dell'acqua. Poi, eseguì una rollata, e un'altra, seguita dalla terza. Pericolosamente vicina alla superficie dell'acqua, si alzò all'improvviso, ma nel farlo, uno dei suoi piedi finì sotto la superficie, dove parve impigliarsi in qualcosa, facendola piroettare fuori controllo."
 
 # game/adine3.rpy:1055
 translate italiantl mpsave_e51c3ae2:
@@ -1853,7 +1853,7 @@ translate italiantl mpsave_b434465c:
 translate italiantl mpsave_a1a25ef4:
 
     # Ad "Well, that wasn't supposed to happen."
-    Ad "Be', questo non era previsto."
+    Ad "Beh, questo non era previsto."
 
 # game/adine3.rpy:1063
 translate italiantl mpsave_917ba190:
@@ -1907,7 +1907,7 @@ translate italiantl mpsave_4e24c2ca:
 translate italiantl mpsave_c37c35f6:
 
     # Ad disappoint b "Well, not all the time, but it happens."
-    Ad disappoint b "Be', non ogni volta, ma succede."
+    Ad disappoint b "Beh, non ogni volta, ma succede."
 
 # game/adine3.rpy:1081
 translate italiantl mpsave_4f1dfff6:
@@ -2009,7 +2009,7 @@ translate italiantl adine3skip_5b398893:
 translate italiantl adine3skip_5689ff63:
 
     # c "I was there, and Remy told me about everything."
-    c "Ero là, e [Ry] mi ha raccontato ogni cosa."
+    c "Ero là, [Ry] mi ha raccontato ogni cosa."
 
 # game/adine3.rpy:1137
 translate italiantl adine3skip_d71a75e6:
@@ -2045,7 +2045,7 @@ translate italiantl adine3skip_1ed8a869:
 translate italiantl adine3skip_e9cf15f8:
 
     # Ad annoyed b "Well, he isn't the only one. I actually wanted to talk with him again, but if he doesn't respond, then I can't do anything, either."
-    Ad annoyed b "Be', non è certo l'unico. In effetti avrei voluto parlare ancora con lui, ma se non mi risponde, allora non posso farci niente." # "I can't do anything[, either]"
+    Ad annoyed b "Beh, non è certo l'unico. In effetti avrei voluto parlare ancora con lui, ma se non mi risponde, allora non posso farci niente." # "I can't do anything[, either]"
 
 # game/adine3.rpy:1149
 translate italiantl adine3skip_89aefe22:
@@ -2081,7 +2081,7 @@ translate italiantl adine3skip_e147d262:
 translate italiantl adine3skip_46e2fe54:
 
     # Ad "The night she died, I was actually with her. I stayed with her until pretty late, but as I had to work the next day, I eventually left. It was late enough, and I told her to take it easy."
-    Ad "La notte in cui è morta, in effetti io ero con lei. Rimasi con lei fino a tarda notte, ma siccome avrei dovuto lavorare il giorno seguente, alla fine me ne andai. Era abbastanza tardi, e le dissi di non stancarsi troppo." # "pretty late" -> "late at night"
+    Ad "La notte in cui è morta, in effetti io ero con lei. Rimasi con lei fino a tarda notte, ma siccome avrei dovuto lavorare il giorno seguente, alla fine me ne andai. Era abbastanza tardi, le dissi di non stancarsi troppo." # "pretty late" -> "late at night"
 
 # game/adine3.rpy:1161
 translate italiantl adine3skip_7977d2db:
@@ -2111,7 +2111,7 @@ translate italiantl adine3skip_6cdf092e:
 translate italiantl adine3skip_4b3b1d55:
 
     # Ad "They had already made so many plans, and I expected them to announce their engagement any day."
-    Ad "Avevano già fatto così tanti programmi, e mi aspettavo che annunciassero il loro fidanzamento da un giorno all'altro."
+    Ad "Avevano già fatto così tanti programmi, mi aspettavo che annunciassero il loro fidanzamento da un giorno all'altro."
 
 # game/adine3.rpy:1171
 translate italiantl adine3skip_c931f54f:
@@ -2351,7 +2351,7 @@ translate italiantl adine3skip_65cf8f30:
 translate italiantl adine3skip_8e1eccb3:
 
     # c "Well, it's yours now. Do with it whatever you want."
-    c "Be', è tua adesso. Facci quello che ti pare."
+    c "Beh, è tua adesso. Facci quello che ti pare."
 
 # game/adine3.rpy:1272
 translate italiantl adine3skip_1ffde3d0:
@@ -2393,7 +2393,7 @@ translate italiantl adine3skip_bc9f37b6:
 translate italiantl adine3skip_0fb5135d:
 
     # Ad "Alright. It'll be a while until I get a chance to visit, anyway. All my free time right now will go towards practicing for the competition."
-    Ad "D'accordo. Ci vorrà un po' prima che abbia occasione di visitarlo, in ogni caso. Tutto il mio tempo libero al momento sarà vòlto ad allenarmi per la competizione."
+    Ad "D'accordo. Ci vorrà un po' prima che abbia occasione di visitarlo, in ogni caso. Tutto il mio tempo libero al momento sarà volto ad allenarmi per la competizione."
 
 # game/adine3.rpy:1286
 translate italiantl adine3skip_89aefe22_2:
@@ -2405,7 +2405,7 @@ translate italiantl adine3skip_89aefe22_2:
 translate italiantl adine3skip_1c5d2593:
 
     # Ad "Well, thanks for the help with the bandage. And sorry about cutting practice short today. I guess you didn't get to see any proper aerobatics after all."
-    Ad "Be', grazie per l'aiuto con la fasciatura. E scusa se ho interrotto l'allenamento di oggi. Immagino tu non abbia potuto vedere nessuna aerobazia vera e propria dopotutto."
+    Ad "Beh, grazie per l'aiuto con la fasciatura. E scusa se ho interrotto l'allenamento di oggi. Immagino tu non abbia potuto vedere nessuna aerobazia vera e propria dopotutto."
 
 # game/adine3.rpy:1308
 translate italiantl adine3skip_a0354fb0:
@@ -2429,7 +2429,7 @@ translate italiantl adine3skip_fafa9709:
 translate italiantl adine3skip_51404203:
 
     # c "I guess I'll leave you to recuperate now, and maybe I'll see you next time."
-    c "Immagino che ti lascerò ristabilirti adesso, e magari ci vediamo la prossima volta."
+    c "Immagino che ti lascerò ristabilirti adesso, magari ci vediamo la prossima volta."
 
 # game/adine3.rpy:1318
 translate italiantl adine3skip_1a040acb:

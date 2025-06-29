@@ -10,19 +10,19 @@ translate italiantl chapter2_76b2fe88:
 translate italiantl _call_skiptut_11_7c2b96fe:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the scene selection?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare alla selezione della scena?"
+    s "I miei registri indicano che hai già sperimentato questa parte in maniera soddisfacente. Desideri saltare alla selezione della scena?"
 
 # game/chapter2.rpy:228
 translate italiantl _call_skiptut_11_84d46f4f:
 
     # s "It looks like you've seen this before. Skip to the scene selection?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla selezione della scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla selezione della scena?"
 
 # game/chapter2.rpy:236
 translate italiantl _call_skiptut_11_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione della scena."
 
 # game/chapter2.rpy:250
 translate italiantl _call_skiptut_11_0054b77b:
@@ -166,7 +166,7 @@ translate italiantl _call_skipcheck_11_b08b3ab3:
 translate italiantl _call_skipcheck_11_2003f708:
 
     # c "Well, what is it?"
-    c "Be', di che si tratta?"
+    c "Beh, di che si tratta?"
 
 # game/chapter2.rpy:360
 translate italiantl _call_skipcheck_11_24b39723_1:
@@ -184,7 +184,7 @@ translate italiantl _call_skipcheck_11_9cf059a8:
 translate italiantl _call_skipcheck_11_2003f708_1:
 
     # c "Well, what is it?"
-    c "Be', di che si tratta?"
+    c "Beh, di che si tratta?"
 
 # game/chapter2.rpy:372
 translate italiantl _call_skipcheck_11_24b39723_2:
@@ -232,7 +232,7 @@ translate italiantl _call_skipcheck_11_8faa9d12:
 translate italiantl _call_skipcheck_11_2003f708_2:
 
     # c "Well, what is it?"
-    c "Be', di che si tratta?"
+    c "Beh, di che si tratta?"
 
 # game/chapter2.rpy:401
 translate italiantl _call_skipcheck_11_24b39723_3:
@@ -364,7 +364,7 @@ translate italiantl _call_skipcheck_11_6dbaefb8:
 translate italiantl _call_skipcheck_11_64395468:
 
     # Br "Someone else can take care of that today, though. We've got other plans."
-    Br "Può occuparsene qualcun altro per oggi, comunque. Noi abbiamo altri progetti."
+    Br "Comunque, può occuparsene qualcun altro per oggi. Noi abbiamo altri progetti."
 
 # game/chapter2.rpy:503
 translate italiantl _call_skipcheck_11_7cc75b70:
@@ -400,7 +400,7 @@ translate italiantl _call_skipcheck_11_9f98a1a6:
 translate italiantl _call_skipcheck_11_3c662131:
 
     # Sb "The victim? Maintenance person for this area. And the electricity is out. The power goes out, maintenance guy shows up and is killed before he can fix the problem. At least that's my theory."
-    Sb "La vittima? Un addetto alla manutenzione di questa zona. E l'elettricità è andata. La corrente salta, il tipo della manutenzione arriva ed è ucciso prima che possa risolvere il problema. Almeno questa è la mia teoria."
+    Sb "La vittima? Un addetto alla manutenzione di questa zona. E l'elettricità è andata. La corrente salta, l'addetto arriva ed è ucciso prima che possa risolvere il problema. Almeno questa è la mia teoria."
 
 # game/chapter2.rpy:527
 translate italiantl _call_skipcheck_11_6fd22003:
@@ -700,7 +700,7 @@ translate italiantl _call_skipcheck_11_d4938ded:
 translate italiantl _call_skipcheck_11_ec9e9e05:
 
     # m "The next thing I saw was a hooded figure standing above me, barely visible against the darkness that permeated the room."
-    m "La prima cosa che vidi in séguito fu una figura incappucciata che mi sovrastava, appena visibile in contrasto all'oscurità che permeava la stanza."
+    m "La prima cosa che vidi in seguito fu una figura incappucciata che mi sovrastava, appena visibile in contrasto all'oscurità che permeava la stanza."
 
 # game/chapter2.rpy:775
 translate italiantl _call_skipcheck_11_4efdbd2a:
@@ -889,7 +889,7 @@ translate italiantl _call_skipcheck_11_747d1237:
 translate italiantl _call_skipcheck_11_7ec97a9f:
 
     # Br "It bloody well can't be someone else, so let's not kid ourselves here."
-    Br "Be', non può certo essere qualcun altro, quindi non prendiamoci in giro adesso."
+    Br "Beh, non può certo essere qualcun altro, quindi non prendiamoci in giro adesso."
 
 # game/chapter2.rpy:916
 translate italiantl _call_skipcheck_11_4a4afe9d:
@@ -1141,7 +1141,7 @@ translate italiantl chap2q1_d00f57f0:
 translate italiantl chap2q1_c28b354d:
 
     # Br "It has less to do with my staff and more with what I told you last time. You know him, and that gives you experience that can help us understand how he thinks. That's the kind of help we really need."
-    Br "Ha meno a che vedere col mio personale e più con quello che ti ho detto l'ultima volta. Tu lo conosci, e questo ti conferisce un'esperienza che può aiutarci a capire come pensa. È questo il tipo di aiuto di cui abbiamo davvero bisogno."
+    Br "Ha meno a che vedere col mio personale e più con quello che ti ho detto l'ultima volta. Tu lo conosci, il che ti conferisce un'esperienza che può aiutarci a capire come pensa. È questo il tipo di aiuto di cui abbiamo davvero bisogno."
 
 # game/chapter2.rpy:1100
 translate italiantl chap2q1_65ac0ffd:
@@ -1293,7 +1293,7 @@ translate italiantl chapter2sections_008d9b72:
 translate italiantl chap2store_6edff375:
 
     # m "I entered the store, the sound of a bell alerting the staff to my arrival. Seeing the patrons browsing the shelves - neatly stocked with wares of all kinds - evoked some feelings of nostalgia and normalcy in me."
-    m "Entrai nel negozio, il suono di una campanella che avvisò il personale del mio arrivo. Vedere i clienti passare in rassegna gli scaffali—ordinatamente riforniti di prodotti di ogni tipo—suscitò in me un senso di nostalgia e normalità." # corrected em-dash
+    m "Entrai nel negozio—il suono di una campanella avvisò il personale del mio arrivo. Vedere i clienti passare in rassegna gli scaffali—ordinatamente riforniti di prodotti di ogni tipo—suscitò in me un senso di nostalgia e normalità." # corrected em-dash
 
 # game/chapter2.rpy:1280
 translate italiantl chap2store_3e8a1606:
@@ -1437,7 +1437,7 @@ translate italiantl chap2store_a83ed354:
 translate italiantl chap2store_60df1031:
 
     # St "Well, if you put it that way, it kind of is."
-    St "Be', se la metti così, un po' lo è."
+    St "Beh, se la metti così, un po' lo è."
 
 # game/chapter2.rpy:1374
 translate italiantl chap2store_90c9ae06_1:
@@ -1683,7 +1683,7 @@ translate italiantl chap2store_a83ed354_1:
 translate italiantl chap2store_60df1031_1:
 
     # St "Well, if you put it that way, it kind of is."
-    St "Be', se la metti così, un po' lo è."
+    St "Beh, se la metti così, un po' lo è."
 
 # game/chapter2.rpy:1506
 translate italiantl chap2store_90c9ae06_5:
@@ -1791,7 +1791,7 @@ translate italiantl chap2storeques_d9e0e084:
 translate italiantl chap2storeques_af2aceae:
 
     # c "Well, that was easy."
-    c "Be', è stato facile."
+    c "Beh, è stato facile."
 
 # game/chapter2.rpy:1571
 translate italiantl chap2storeques_3e8b8203:
@@ -2793,7 +2793,7 @@ translate italiantl _call_syscheck_52_e54fa79d:
 translate italiantl _call_syscheck_52_d57a7dc7:
 
     # c "(Wait a minute... I recognize this. It looks like something I saw in one of the books the other day.)"
-    c "(Aspetta un minuto... lo riconosco. Assomiglia a qualcosa che ho visto in uno dei libri l'altro giorno.)"
+    c "(Aspetta un attimo... lo riconosco. Assomiglia a qualcosa che ho visto in uno dei libri l'altro giorno.)"
 
 # game/chapter2.rpy:2405
 translate italiantl _call_syscheck_52_44e8dccf:
@@ -2907,7 +2907,7 @@ translate italiantl _call_syscheck_55_509a5b38:
 translate italiantl _call_syscheck_55_54376d7f:
 
     # m "I was just about to get up when I noticed someone sitting next to me."
-    m "Facevo per alzarmi quando notai qualcuno che mi sedeva accanto."
+    m "Stavo per alzarmi quando notai qualcuno che mi sedeva accanto."
 
 # game/chapter2.rpy:2653
 translate italiantl _call_syscheck_55_3b06ea53:
@@ -2937,7 +2937,7 @@ translate italiantl _call_syscheck_55_09097829_1:
 translate italiantl _call_syscheck_55_78f7f091:
 
     # c "(Well, maybe it {i}is{/i} a statue. Or I just turned invisible.)"
-    c "(Be', forse {i}è{/i} una statua. Oppure sono appena diventatə invisibile.)"
+    c "(Beh, forse {i}è{/i} una statua. Oppure sono appena diventatə invisibile.)"
 
 # game/chapter2.rpy:2663
 translate italiantl _call_syscheck_55_5233c909:
@@ -2967,13 +2967,13 @@ translate italiantl chap2hatch_801e03ea:
 translate italiantl chap2hatch_f069ccf1:
 
     # m "As I looked into the pitch black center of the orb, I felt strangely drawn to it, its low hum beckoning me to come closer."
-    m "Mentre guardavo nel centro nero come la pece dell'orbe, me ne sentii stranamente attrattə, il suo ronzio sommesso che mi invitava a venire più vicino."
+    m "Mentre guardavo nel centro nero come la pece dell'orbe, me ne sentii stranamente attrattə—il suo ronzio sommesso mi invitava a venire più vicino."
 
 # game/chapter2.rpy:2763
 translate italiantl chap2hatch_46abce11:
 
     # m "I looked down to see the maintenance tunnels for the underground drain system. A pale object starkly contrasted against the pitch-black backdrop."
-    m "Guardai in basso e scòrsi le gallerie di manutenzione del sistema di drenaggio sotterraneo. Un pallido oggetto si stagliava nettamente sullo sfondo nero come la pece."
+    m "Guardai in basso e scorsi le gallerie di manutenzione del sistema di drenaggio sotterraneo. Un pallido oggetto si stagliava nettamente sullo sfondo nero come la pece."
 
 # game/chapter2.rpy:2771
 translate italiantl chap2hatch_0d43d13a:
@@ -3225,7 +3225,7 @@ translate italiantl chap2park3choice_e9aa42db:
 translate italiantl chap2park3choice_922c6a91:
 
     # Em normal "Well, some of it."
-    Em normal "Be', una parte."
+    Em normal "Beh, una parte."
 
 # game/chapter2.rpy:3226
 translate italiantl chap2park3choice_7f2f670b:
@@ -3243,7 +3243,7 @@ translate italiantl chap2park3choice_9a209945:
 translate italiantl chap2park3choice_36bcf2f5:
 
     # c "Speaking of your work: Remy works for you, right? I just met him the other day."
-    c "A proposito del Suo lavoro: [Ry] lavora per Lei, giusto? L'ho incontrato appena l'altro giorno."
+    c "A proposito del suo lavoro: [Ry] lavora per lei, giusto? L'ho incontrato appena l'altro giorno."
 
 # game/chapter2.rpy:3234
 translate italiantl chap2park3choice_781bcfe3:
@@ -3279,7 +3279,7 @@ translate italiantl chap2park3choice_eaa61128:
 translate italiantl chap2park3choice_970a8d3a:
 
     # c "Can I ask you a question?"
-    c "Posso farLe una domanda?"
+    c "Posso farle una domanda?"
 
 # game/chapter2.rpy:3274
 translate italiantl chap2park3choice_6d2016dd:
@@ -3309,7 +3309,7 @@ translate italiantl chap2emselection_6fb65b35:
 translate italiantl chap2emselection_db1472da:
 
     # Em normal "Well, I think it is about the most exciting thing that has happened here in the last few years."
-    Em normal "Be', penso sia forse la cosa più eccitante che sia capitata qui da qualche anno a questa parte."
+    Em normal "Beh, penso sia forse la cosa più eccitante che sia capitata qui da qualche anno a questa parte."
 
 # game/chapter2.rpy:3290
 translate italiantl chap2emselection_36f0762f:
@@ -3333,7 +3333,7 @@ translate italiantl chap2emselection_70176822:
 translate italiantl chap2emselection_9e7e587d:
 
     # c "Can you tell me more about your job?"
-    c "Può dirmi di più sul Suo lavoro?"
+    c "Può dirmi di più sul suo lavoro?"
 
 # game/chapter2.rpy:3306
 translate italiantl chap2emselection_6c224844:
@@ -3363,7 +3363,7 @@ translate italiantl chap2emselection_d46a388e:
 translate italiantl chap2emselection_960ce40a:
 
     # c "You mentioned your \"term\" ending. How does that work here?"
-    c "Ha accennato che il Suo \"mandato\" sarebbe scaduto. Come funziona la cosa qui?"
+    c "Ha accennato che il suo \"mandato\" sarebbe scaduto. Come funziona la cosa qui?"
 
 # game/chapter2.rpy:3316
 translate italiantl chap2emselection_208ec4ed:
@@ -3393,7 +3393,7 @@ translate italiantl chap2emselection_dd896968:
 translate italiantl chap2emselection_4bbd843e:
 
     # Em ques "Well, I'm not so sure there is that much to say about it."
-    Em ques "Be', non sono sicura ci sia poi granché da dire al riguardo."
+    Em ques "Beh, non sono sicura ci sia poi granché da dire al riguardo."
 
 # game/chapter2.rpy:3334
 translate italiantl chap2emselection_3bca9ae4:
@@ -3417,7 +3417,7 @@ translate italiantl chap2emselection_4d41bd47:
 translate italiantl chap2emselection_4fe18e35:
 
     # Em mean "Well, thank you for this most pleasant conversation, [player_name]."
-    Em mean "Be', ti ringrazio per questa piacevole conversazione, [player_name]."
+    Em mean "Beh, ti ringrazio per questa piacevole conversazione, [player_name]."
 
 # game/chapter2.rpy:3356
 translate italiantl chap2emselection_8ee935fd:
@@ -3441,19 +3441,19 @@ translate italiantl chap2cont_eadb43d8:
 translate italiantl _call_skiptut_12_4d25d249:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the character selection?"
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente. Desideri saltare alla selezione del personaggio?"
+    s "I miei registri indicano che hai già sperimentato questa parte in maniera soddisfacente. Desideri saltare alla selezione del personaggio?"
 
 # game/chapter2.rpy:3424
 translate italiantl _call_skiptut_12_11989f6d:
 
     # s "It looks like you've seen this before. Skip to the character selection?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla selezione del personaggio?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla selezione del personaggio?"
 
 # game/chapter2.rpy:3432
 translate italiantl _call_skiptut_12_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla selezione del personaggio."
 
 # game/chapter2.rpy:3446
 translate italiantl _call_skiptut_12_0054b77b:
@@ -3891,7 +3891,7 @@ translate italiantl _call_skipcheck_12_be016faf:
 translate italiantl _call_skipcheck_12_ce812a36:
 
     # Sb "You can go over the same facts and evidence dozens of times and still miss something. Focus and keep trying, and you'll eventually find something new."
-    Sb "Puoi avere ripercorso gli stessi fatti ed elementi dozzine di volte e ancora esserti perso qualcosa. Concéntrati e continua a provare, e alla fine troverai qualcosa di nuovo."
+    Sb "Puoi avere ripercorso gli stessi fatti ed elementi dozzine di volte e ancora esserti perso qualcosa. Concentrati e continua a provare, e alla fine troverai qualcosa di nuovo."
 
 # game/chapter2.rpy:3710
 translate italiantl _call_skipcheck_12_bff08eef:
@@ -4209,7 +4209,7 @@ translate italiantl _call_popularcheck_11_1becd696:
 translate italiantl _call_popularcheck_11_315a50c9:
 
     # Ad "Well, I don't think you're that kind of person."
-    Ad "Be', non penso tu sia quel tipo di persona."
+    Ad "Beh, non penso tu sia quel tipo di persona."
 
 # game/chapter2.rpy:4286
 translate italiantl _call_popularcheck_11_abfdff27:
@@ -4221,7 +4221,7 @@ translate italiantl _call_popularcheck_11_abfdff27:
 translate italiantl _call_popularcheck_11_c988d1f1:
 
     # c "(Well, she did get the right number and I'm still confused.)"
-    c "(Be', ha fatto il numero giusto e sono comunque confusə.)"
+    c "(Beh, ha fatto il numero giusto e sono comunque confusə.)"
 
 # game/chapter2.rpy:4335
 translate italiantl _call_popularcheck_12_b9386ee3:
@@ -4281,7 +4281,7 @@ translate italiantl _call_popularcheck_14_85982b7e:
 translate italiantl _call_popularcheck_14_ad846bd9:
 
     # m "By the time I had finished the book, in which the Scepter of Sovereignty from the preceding novel is first stolen, then reclaimed by the novels' titular hero, only to be stolen again in another cliffhanger ending ploy setting up the series' next entry, I wished I had spent the time doing something more productive."
-    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, e quindi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale vòlto a imbastirne il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # "novels" -> "series"
+    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, poi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale volto a imbastirne il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # "novels" -> "series"
 
 # game/chapter2.rpy:4797
 translate italiantl _call_popularcheck_14_45731809:
@@ -4299,7 +4299,7 @@ translate italiantl chap2altmenub2_85982b7e:
 translate italiantl chap2altmenub2_ad846bd9:
 
     # m "By the time I had finished the book, in which the Scepter of Sovereignty from the preceding novel is first stolen, then reclaimed by the novels' titular hero, only to be stolen again in another cliffhanger ending ploy setting up the series' next entry, I wished I had spent the time doing something more productive."
-    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, e quindi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale vòlto a imbastirne il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # see line 4796
+    m "Per quando finii il libro, in cui lo Scettro del Potere Supremo del precedente romanzo è prima rubato, poi riconquistato dall'eroina protagonista della serie, solo per essere rubato di nuovo in uno strategico colpo di scena finale volto a imbastirne il capitolo successivo, ebbi desiderato di aver passato quel tempo a fare qualcosa di più produttivo." # see line 4796
 
 # game/chapter2.rpy:5048
 translate italiantl chap2altmenub2_45731809:

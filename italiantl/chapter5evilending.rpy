@@ -70,7 +70,7 @@ translate italiantl evilending_d3f8c098:
 translate italiantl evilending_bfb60130:
 
     # m "Immediately, his expression changed to one of horror as he let the box fall to the ground and reached for his gun."
-    m "Immediatamente, la sua espressione mutò in una di orrore mentre lasciava cadere a terra la scatola e faceva per prendere la sua pistola."
+    m "Immediatamente, la sua espressione mutò in una di orrore mentre lasciava cadere a terra la scatola e prendeva la sua pistola."
 
 # game/chapter5evilending.rpy:33
 translate italiantl evilending_32568256:
@@ -868,7 +868,7 @@ translate italiantl no_4d5c609b:
 translate italiantl no_76709b4d:
 
     # Rz annoyed "So, that makes you judge, jury and executioner. What a wonderful set of morals you have there, [player_name]."
-    Rz annoyed "Perciò, questo ti rende giudice, giuria e giustiziere. Ma che splendida collezione di princìpi morali che ti ritrovi, [player_name]."
+    Rz annoyed "Perciò, questo ti rende giudice, giuria e giustiziere. Ma che splendida collezione di principi morali che ti ritrovi, [player_name]."
 
 # game/chapter5evilending.rpy:625
 translate italiantl no_2f5f018e:
@@ -1024,7 +1024,7 @@ translate italiantl _call_syscheck_101_d5bbc844:
 translate italiantl skiptut_b619f659:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner."
-    s "I miei registri indicano che hai già sperimentato questa sezione in maniera soddisfacente."
+    s "I miei registri indicano che hai già sperimentato questa parte in maniera soddisfacente."
 
 # game/chapter5evilending.rpy:833
 translate italiantl skiptut_dee13ebb:
@@ -1048,7 +1048,7 @@ translate italiantl skiptut_5e30f108:
 translate italiantl skiptut_a325d596:
 
     # s "Well, here's the deal: Using the skip buttons can be tedious, especially when encountering puzzles you've already solved before or when faced with long dialogue trees."
-    s "Be', il fatto è questo: usare i pulsanti di salto può essere tedioso, specie quando incontri enigmi che hai già risolto in passato o sei di fronte a lunghi alberi di conversazione." # corrected lowercase letter
+    s "Beh, il fatto è questo: usare i pulsanti di salto può essere tedioso, specie quando incontri enigmi che hai già risolto in passato o sei di fronte a lunghi alberi di conversazione." # corrected lowercase letter
 
 # game/chapter5evilending.rpy:849
 translate italiantl skiptut_738b6997:

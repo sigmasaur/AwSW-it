@@ -16,13 +16,13 @@ translate italiantl _call_skiptut_33_0ff5f677:
 translate italiantl _call_skiptut_33_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Sembra che tu abbia già visto questo prima d'ora. Saltare alla fine di questa scena?"
+    s "Sembra che tu abbia già visto questa parte prima d'ora. Vuoi saltare alla fine di questa scena?"
 
 # game/lorem2.rpy:67
 translate italiantl _call_skiptut_33_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Ebbene, pare tu abbia già visto questo prima d'ora. Puoi guardarlo di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
+    s "Ebbene, pare tu abbia già visto questa parte prima d'ora. Puoi guardarla di nuovo, o potremmo risparmiare del tempo e saltare direttamente alla fine di questa scena."
 
 # game/lorem2.rpy:82
 translate italiantl _call_skiptut_33_0054b77b:
@@ -112,7 +112,7 @@ translate italiantl _call_skipcheck_33_f95659c8:
 translate italiantl _call_skipcheck_33_694805d0:
 
     # c "Ancestors? Well, it does remind me of some of the dragons I've seen here, but I'm not sure what humans have to do with this."
-    c "Antenati? Be', in effetti mi ricorda alcuni dei draghi che ho visto qui, ma non sono sicurə di cosa abbiano a che vederci gli umani."
+    c "Antenati? Beh, in effetti mi ricorda alcuni dei draghi che ho visto qui, ma non sono sicurə di cosa abbiano a che vederci gli umani."
 
 # game/lorem2.rpy:202
 translate italiantl _call_skipcheck_33_2025d514:
@@ -148,7 +148,7 @@ translate italiantl _call_skipcheck_33_352f53c3:
 translate italiantl _call_skipcheck_33_e9687f73:
 
     # Lo happy "A shared ancestor is one option. This would mean that the different species split after the human’s involvement in our creation."
-    Lo happy "Un antenato comune è un'opzione. Questo vorrebbe dire che le diverse specie si sono divise in séguito al coinvolgimento dell'umano nella nostra creazione."
+    Lo happy "Un antenato comune è un'opzione. Questo vorrebbe dire che le diverse specie si sono divise in seguito al coinvolgimento dell'umano nella nostra creazione."
 
 # game/lorem2.rpy:226
 translate italiantl _call_skipcheck_33_e88a36b6:
@@ -208,7 +208,7 @@ translate italiantl _call_skipcheck_33_1db19130:
 translate italiantl _call_skipcheck_33_38451588:
 
     # Lo relieved "Well, you can't always choose your neighbours, and this won't be any different in my game."
-    Lo relieved "Be', non puoi sempre sceglierti i vicini, e nel mio gioco non sarà diverso."
+    Lo relieved "Beh, non puoi sempre sceglierti i vicini, e nel mio gioco non sarà diverso."
 
 # game/lorem2.rpy:312
 translate italiantl _call_skipcheck_33_20662b72:
@@ -346,7 +346,7 @@ translate italiantl _call_skipcheck_33_5b266d15:
 translate italiantl _call_skipcheck_33_cc598d87:
 
     # Lo think "Maybe now you can see why I wanted your help, though."
-    Lo think "Forse ora puoi capire perché volevo il tuo aiuto, comunque."
+    Lo think "Comunque, forse ora puoi capire perché volevo il tuo aiuto."
 
 # game/lorem2.rpy:383
 translate italiantl _call_skipcheck_33_d5426c4b:
@@ -628,7 +628,7 @@ translate italiantl _call_skipcheck_33_81232b82:
 translate italiantl _call_skipcheck_33_5e24f5ea:
 
     # Lo normal flip "Well, I'm not taking any samples. I could hardly be blamed for just looking at [player_name]."
-    Lo normal flip "Be', io non ho preso nessun campione. Possono a stento rimproverarmi di aver solo guardato [player_name]." # "I'm not taking" -> "I didn't take"; "could hardly be blamed" -> "can hardly be blamed"
+    Lo normal flip "Beh, io non ho preso nessun campione. Possono a stento rimproverarmi di aver solo guardato [player_name]." # "I'm not taking" -> "I didn't take"; "could hardly be blamed" -> "can hardly be blamed"
 
 # game/lorem2.rpy:542
 translate italiantl _call_skipcheck_33_09365031:
@@ -682,7 +682,7 @@ translate italiantl _call_skipcheck_33_27a362a7:
 translate italiantl _call_skipcheck_33_69a00fae:
 
     # Lo normal flip "Well, that's the last time I saw it."
-    Lo normal flip "Be', quella è l'ultima volta che l'ho vista."
+    Lo normal flip "Beh, quella è l'ultima volta che l'ho vista."
 
 # game/lorem2.rpy:578
 translate italiantl _call_skipcheck_33_2f4f9e82:
@@ -886,7 +886,7 @@ translate italiantl _call_skipcheck_33_2ce97d40:
 translate italiantl _call_skipcheck_33_9be2407e:
 
     # c "Well, if they can take photos, I wouldn’t need to stand around like this – that is, if we had it here now."
-    c "Be', se possono fare foto, non dovrei restarmene impalatə in questo modo—vale a dire, se l'avessimo qui adesso." # corrected em-dash
+    c "Beh, se possono fare foto, non dovrei restarmene impalatə in questo modo—vale a dire, se l'avessimo qui adesso." # corrected em-dash
 
 # game/lorem2.rpy:656
 translate italiantl _call_skipcheck_33_2b2fb7b3:
@@ -928,7 +928,7 @@ translate italiantl _call_skipcheck_33_00d6bb2e:
 translate italiantl _call_skipcheck_33_3489123e:
 
     # Lo normal flip "Alright, now turn around."
-    Lo normal flip "D'accordo, ora vòltati."
+    Lo normal flip "D'accordo, ora voltati."
 
 # game/lorem2.rpy:672
 translate italiantl _call_skipcheck_33_0b20862c:
@@ -1246,7 +1246,7 @@ translate italiantl _call_skipcheck_33_bb7d3511:
 translate italiantl _call_skipcheck_33_eb22fea1:
 
     # c "Well, you look nothing like any other dragon I've seen here so far."
-    c "Be', non assomigli affatto a nessun altro drago che abbia visto qui finora."
+    c "Beh, non assomigli affatto a nessun altro drago che abbia visto qui finora."
 
 # game/lorem2.rpy:827
 translate italiantl _call_skipcheck_33_09b9649e:
@@ -1522,7 +1522,7 @@ translate italiantl _call_skipcheck_33_5cf3203c:
 translate italiantl _call_skipcheck_33_9e8fea74:
 
     # Ip think "Well, I don't have permission to even approach the portal, so I have to resort to a theoretical discussion on its mechanics and make do with what I can pull off in my home laboratory."
-    Ip think "Be', io non ho nemmeno il permesso di avvicinarmi al portale, e quindi devo ricorrere a una discussione teorica sulle sue meccaniche e accontentarmi di quello che riesco a fare nel mio laboratorio di casa."
+    Ip think "Beh, io non ho nemmeno il permesso di avvicinarmi al portale, quindi devo ricorrere a una discussione teorica sulle sue meccaniche e accontentarmi di quello che riesco a fare nel mio laboratorio di casa."
 
 # game/lorem2.rpy:979
 translate italiantl _call_skipcheck_33_1aec3210:
@@ -2122,7 +2122,7 @@ translate italiantl _call_skipcheck_33_59f85596:
 translate italiantl _call_skipcheck_33_135fb578:
 
     # m "Ipsum looked at the paper closely, his gaze shifting back and forth between me and the paper several times."
-    m "[Ip] guardò attentamente il foglio, il suo sguardo che si spostava fra me e il foglio diverse volte, avanti e indietro."
+    m "[Ip] guardò attentamente il foglio—il suo sguardo si spostò fra me e il foglio diverse volte, avanti e indietro."
 
 # game/lorem2.rpy:1193
 translate italiantl _call_skipcheck_33_152187b8:
@@ -2284,7 +2284,7 @@ translate italiantl _call_skipcheck_33_2e955fc8:
 translate italiantl _call_skipcheck_33_a37a2dc1:
 
     # Lo think flip "I see. Well, I gotta do something for you, at least."
-    Lo think flip "Capisco. Be', dovrò pur fare qualcosa per te, almeno."
+    Lo think flip "Capisco. Beh, dovrò pur fare qualcosa per te, almeno."
 
 # game/lorem2.rpy:1292
 translate italiantl _call_skipcheck_33_bf3e1df1:
@@ -2344,7 +2344,7 @@ translate italiantl lorem2skip_2e955fc8:
 translate italiantl lorem2skip_a37a2dc1:
 
     # Lo think flip "I see. Well, I gotta do something for you, at least."
-    Lo think flip "Capisco. Be', dovrò pur fare qualcosa per te, almeno." # see line 1290
+    Lo think flip "Capisco. Beh, dovrò pur fare qualcosa per te, almeno." # see line 1290
 
 # game/lorem2.rpy:1347
 translate italiantl lorem2skip_54205634:
